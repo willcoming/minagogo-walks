@@ -33,7 +33,12 @@
         "image": "/art/walks/karahori/kouzu.webp",
         "alt": "高津宮，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      }
     },
     {
       "name": "空堀・惣",
@@ -69,7 +74,20 @@
         "image": "/art/walks/karahori/sou.webp",
         "alt": "空堀・惣，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": "慢逛長屋裡各自獨立的小店。"
+      "recommendation": "慢逛長屋裡各自獨立的小店。",
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.syuca.jp/html/company.html",
+          "https://www.so-karahori.com/",
+          "https://www.ek-chuah.co.jp/user_data/shop_honten.php"
+        ]
+      }
     },
     {
       "name": "十五番だんご＆カフェ 空堀本店",
@@ -102,7 +120,12 @@
         "image": "/art/walks/karahori/dango.webp",
         "alt": "十五番だんご＆カフェ 空堀本店，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      }
     },
     {
       "name": "冨紗家 本店",
@@ -139,7 +162,12 @@
         "image": "/art/walks/karahori/fusaya.webp",
         "alt": "冨紗家 本店，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      }
     },
     {
       "name": "趣佳",
@@ -172,7 +200,20 @@
         "image": "/art/walks/karahori/syuca.webp",
         "alt": "趣佳，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "看看器物與當期展覽。"
+      "recommendation": "看看器物與當期展覽。",
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.syuca.jp/html/company.html",
+          "https://www.so-karahori.com/",
+          "https://www.ek-chuah.co.jp/user_data/shop_honten.php"
+        ]
+      }
     },
     {
       "name": "結音茶舗",
@@ -205,7 +246,20 @@
         "image": "/art/walks/karahori/yuion.webp",
         "alt": "結音茶舗，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "走進路地裡的老屋喝日本茶，讓休息成為行程重點。"
+      "recommendation": "走進路地裡的老屋喝日本茶，讓休息成為行程重點。",
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.konbudoi.jp/about",
+          "https://www.kami-emoji.com/product/",
+          "https://yui-on.jp/"
+        ]
+      }
     },
     {
       "name": "書肆喫茶mori",
@@ -239,7 +293,12 @@
         "image": "/art/walks/karahori/mori.webp",
         "alt": "書肆喫茶mori，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      }
     },
     {
       "name": "紙匠雑貨エモジ",
@@ -272,7 +331,20 @@
         "image": "/art/walks/karahori/emoji.webp",
         "alt": "紙匠雑貨エモジ，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "在紙張、印刷與包裝圖案間，找一件合眼緣的小物。"
+      "recommendation": "在紙張、印刷與包裝圖案間，找一件合眼緣的小物。",
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.konbudoi.jp/about",
+          "https://www.kami-emoji.com/product/",
+          "https://yui-on.jp/"
+        ]
+      }
     },
     {
       "name": "旧ヤム邸 空堀店",
@@ -306,7 +378,12 @@
         "image": "/art/walks/karahori/kyuyamutei.webp",
         "alt": "旧ヤム邸 空堀店，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      }
     },
     {
       "name": "こんぶ土居",
@@ -339,7 +416,20 @@
         "image": "/art/walks/karahori/konbudoi.webp",
         "alt": "こんぶ土居，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "看看老舖的昆布與日常調味，挑一份容易帶走的小禮物。"
+      "recommendation": "看看老舖的昆布與日常調味，挑一份容易帶走的小禮物。",
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.konbudoi.jp/about",
+          "https://www.kami-emoji.com/product/",
+          "https://yui-on.jp/"
+        ]
+      }
     },
     {
       "name": "大阪昆布ミュージアム",
@@ -372,7 +462,12 @@
         "image": "/art/walks/karahori/konbumuseum.webp",
         "alt": "大阪昆布ミュージアム，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      }
     },
     {
       "name": "空堀商店街",
@@ -408,7 +503,12 @@
         "image": "/art/walks/karahori/arcade.webp",
         "alt": "空堀商店街，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      }
     },
     {
       "name": "直木三十五記念館",
@@ -446,7 +546,12 @@
         "image": "/art/walks/karahori/naoki.webp",
         "alt": "直木三十五記念館，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      }
     },
     {
       "name": "榎木大明神・直木三十五文学碑",
@@ -480,7 +585,12 @@
         "image": "/art/walks/karahori/enoki.webp",
         "alt": "榎木大明神・直木三十五文学碑，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      }
     },
     {
       "name": "エクチュア からほり「蔵」本店",
@@ -518,7 +628,20 @@
         "image": "/art/walks/karahori/ekchuah.webp",
         "alt": "エクチュア からほり「蔵」本店，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": "在老建築裡吃巧克力、喝咖啡。"
+      "recommendation": "在老建築裡吃巧克力、喝咖啡。",
+      "canonicalArea": {
+        "id": "karahori",
+        "name": "空堀",
+        "href": "/walks/karahori/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.syuca.jp/html/company.html",
+          "https://www.so-karahori.com/",
+          "https://www.ek-chuah.co.jp/user_data/shop_honten.php"
+        ]
+      }
     }
   ],
   "routes": [
@@ -568,7 +691,15 @@
         "karahori--sou",
         "karahori--ekchuah"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.syuca.jp/html/company.html",
+          "https://www.so-karahori.com/",
+          "https://www.ek-chuah.co.jp/user_data/shop_honten.php"
+        ]
+      }
     },
     {
       "id": "karahori-paper-tea-and-pantry",
@@ -616,14 +747,39 @@
         "karahori--emoji",
         "karahori--yuion"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.konbudoi.jp/about",
+          "https://www.kami-emoji.com/product/",
+          "https://yui-on.jp/"
+        ]
+      }
     }
   ],
   "defaultSelection": "karahori-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "karahori",
+    "name": "空堀",
+    "kind": "walk",
+    "scope": "東西沿空堀商店街，由上町筋到松屋町筋，連接谷町六、七丁目長屋與南側高津宮。",
+    "includes": "空堀商店街、練、惣、萌、安堂寺町與高津宮的連續街巷",
+    "excludes": "心齋橋、日本橋與大阪城公園另區。",
+    "basis": "大阪觀光局明列商店街東西約800公尺，並介紹周圍長屋商店。",
+    "sourceUrls": [
+      "https://osaka-info.jp/experience/ja/osaka/spot/520"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 15
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

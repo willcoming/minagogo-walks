@@ -1,0 +1,202 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "routes": [],
+  "places": [
+    {
+      "id": "kuramae--p_a710bbb8b8d030ce",
+      "name": "I'll",
+      "address": "1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「I'll」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7055271,
+        "lng": 139.79719160000002,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6Sr7Z0XQa5c",
+          "title": "Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025",
+          "url": "https://www.youtube.com/watch?v=6Sr7Z0XQa5c"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a710bbb8b8d030ce"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14523238930370528582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_a710bbb8b8d030ce.webp",
+        "alt": "I'll的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "azumabashi",
+        "name": "本所吾妻橋・東駒形",
+        "href": "/walks/azumabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_0a9cb4ab0253b5e8",
+      "name": "満願堂 吾妻橋店",
+      "address": "東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「満願堂 吾妻橋店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.709045,
+        "lng": 139.80127,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E5%90%BE%E5%A6%BB%E6%A9%8B1-19-16",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "uIT3cWVZ17o",
+          "title": "cafe vlog｜東京お芋スイーツ専門店５選／代官山／吉祥寺／銀座／大井町／浅草",
+          "url": "https://www.youtube.com/watch?v=uIT3cWVZ17o",
+          "time": "06:42",
+          "seconds": 402
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "02:36",
+          "seconds": 156
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0a9cb4ab0253b5e8"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%B7%BA%E8%8D%89%E6%BB%BF%E9%A1%98%E5%A0%82+%E5%90%BE%E5%A6%BB%E6%A9%8B%E5%BA%97/@35.7090436,139.80125,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ecf8136d017:0x2613f003a34f3e9b!8m2!3d35.7090436!4d139.80125!16s%2Fg%2F1tgq6n6h?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_0a9cb4ab0253b5e8.webp",
+        "alt": "満願堂 吾妻橋店的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "azumabashi",
+        "name": "本所吾妻橋・東駒形",
+        "href": "/walks/azumabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kuramae--p_c55e83fd1938ebd0",
+      "name": "野口鮮魚店",
+      "address": "4-chōme-6-9 Higashikomagata, Sumida City, Tokyo 130-0005",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「野口鮮魚店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 4-chōme-6-9 Higashikomagata, Sumida City, Tokyo 130-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7064163,
+        "lng": 139.80561609999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "X-nIPhjpsvA",
+          "title": "東京美食地圖，72小時爽吃特輯十選！三天兩夜東京爽吃指南，百名店炸豬排、激爽浮誇海鮮丼、香辣和牛擔擔麵、蜂蜜五起司披薩，72 hours FOOD tour in Tokyo !【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=X-nIPhjpsvA",
+          "time": "0:32",
+          "seconds": 32
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c55e83fd1938ebd0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=2640146096609332255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_c55e83fd1938ebd0.webp",
+        "alt": "野口鮮魚店的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "azumabashi",
+        "name": "本所吾妻橋・東駒形",
+        "href": "/walks/azumabashi/"
+      },
+      "recommendation": null
+    }
+  ],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 3,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_a710bbb8b8d030ce",
+      "p_0a9cb4ab0253b5e8",
+      "p_c55e83fd1938ebd0"
+    ]
+  },
+  "scope": {
+    "id": "azumabashi",
+    "name": "本所吾妻橋・東駒形",
+    "kind": "record-area",
+    "parentWalk": "kuramae",
+    "scope": "隅田川東岸的吾妻橋一丁目、東駒形一至四丁目與本所吾妻橋站周邊。",
+    "includes": "隅田川東岸的吾妻橋一丁目、東駒形一至四丁目與本所吾妻橋站周邊。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://visit-sumida.jp/docs/map/umegoyomi.pdf"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 3
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "asakusa",
+    "kuramae"
+  ]
+}

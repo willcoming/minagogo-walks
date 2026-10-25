@@ -1,0 +1,87 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kyoto-higashiyama--p_5db5f810e1ac2ea0",
+      "name": "京都四季酒店",
+      "address": "445-3 Myōhōin Maekawachō, Higashiyama Ward, Kyoto, 605-0932",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「京都四季酒店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 445-3 Myōhōin Maekawachō, Higashiyama Ward, Kyoto, 605-0932。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 34.9912637,
+        "lng": 135.77558159999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "_64n7qi0tX0",
+          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
+          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
+          "time": "10:59",
+          "seconds": 659
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5db5f810e1ac2ea0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=11450488829936344557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_5db5f810e1ac2ea0.webp",
+        "alt": "京都四季酒店的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kyoto-shichijo",
+        "name": "京都七條・妙法院",
+        "href": "/walks/kyoto-shichijo/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_5db5f810e1ac2ea0"
+    ]
+  },
+  "scope": {
+    "id": "kyoto-shichijo",
+    "name": "京都七條・妙法院",
+    "kind": "record-area",
+    "parentWalk": "kyoto-higashiyama",
+    "scope": "七條東山、妙法院與三十三間堂周邊。",
+    "includes": "七條東山、妙法院與三十三間堂周邊。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://ja.kyoto.travel/area/area07.php"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kyoto-higashiyama"
+  ]
+}

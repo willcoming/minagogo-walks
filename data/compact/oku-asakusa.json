@@ -1,0 +1,396 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "asakusa--p_cd3505a7d6af58fa",
+      "name": "Chinya すき焼 ちんや 浅草本店",
+      "address": "東京都台東区花川戸2-16-1",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Chinya すき焼 ちんや 浅草本店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区花川戸2-16-1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "官方確認現址為花川戶2-16-1，2022年3月於江戶通沿線重新開幕；此筆原影片地圖也指向新址。",
+      "coordinate": {
+        "lat": 35.7150136,
+        "lng": 139.8013741,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "HC6ngkDc5rY",
+          "title": "🇯🇵東京的淺草、上野一帶還有什麼選擇？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=HC6ngkDc5rY",
+          "time": "10:38",
+          "seconds": 638
+        }
+      ],
+      "official": "https://chinya.co.jp/location/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cd3505a7d6af58fa"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/Chinya/@35.7150179,139.7987992,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f8e16d796bb:0xa517e41f4ee93a54!8m2!3d35.7150136!4d139.8013741!16s%2Fg%2F11csqjp214?hl=zh-TW&entry=tts"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_cd3505a7d6af58fa.webp",
+        "alt": "Chinya すき焼 ちんや 浅草本店的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "oku-asakusa",
+        "name": "奧淺草",
+        "href": "/walks/oku-asakusa/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_80ce7016fd4645fd",
+      "name": "Petika sukemasacoffee(ペチカスケマサコーヒー)",
+      "address": "東京都台東区浅草3-26-10 トーセイホテル ココネ浅草 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Petika sukemasacoffee(ペチカスケマサコーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草3-26-10 トーセイホテル ココネ浅草 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.716621,
+        "lng": 139.798386,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%893-26-10",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Ean4PJP6KI0",
+          "title": "【最旬】この夏食べたい！東京の桃スイーツ10選🍑浅草/銀座/新大久保etc.",
+          "url": "https://www.youtube.com/watch?v=Ean4PJP6KI0",
+          "time": "05:32",
+          "seconds": 332
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_80ce7016fd4645fd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Petika+sukemasacoffee%28%E3%83%9A%E3%83%81%E3%82%AB%E3%82%B9%E3%82%B1%E3%83%9E%E3%82%B5%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%29+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%893-26-10+%E3%83%88%E3%83%BC%E3%82%BB%E3%82%A4%E3%83%9B%E3%83%86%E3%83%AB+%E3%82%B3%E3%82%B3%E3%83%8D%E6%B5%85%E8%8D%89+1F"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_80ce7016fd4645fd.webp",
+        "alt": "Petika sukemasacoffee(ペチカスケマサコーヒー)的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "oku-asakusa",
+        "name": "奧淺草",
+        "href": "/walks/oku-asakusa/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_3884f9d4bd99bc9a",
+      "name": "牛肉蛋包飯 グリルグランド",
+      "address": "3-chōme-24-6 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「牛肉蛋包飯 グリルグランド」出現在肥波開吃啦、Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-24-6 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.716987599999996,
+        "lng": 139.7975519,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "bqEStaNHMV8",
+          "title": "2024東京米其林，八家必比登推介美食 ! 8 Bib Gourmand MICHELIN Restaurants in Tokyo",
+          "url": "https://www.youtube.com/watch?v=bqEStaNHMV8",
+          "time": "2:58",
+          "seconds": 178
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "-ktxCItkewQ",
+          "title": "BEST 10 Ultimate Japanese Foods to Eat in a Day in Tokyo｜Japan Travel Guide 2025",
+          "url": "https://www.youtube.com/watch?v=-ktxCItkewQ"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "X7Yqi4vn2IQ",
+          "title": "BEST 11 Michelin Guide Tokyo Restaurants 2026 | Japan Ultimate Guide🗼🇯🇵",
+          "url": "https://www.youtube.com/watch?v=X7Yqi4vn2IQ",
+          "time": "23:30",
+          "seconds": 1410
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3884f9d4bd99bc9a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13803651010984968009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_3884f9d4bd99bc9a.webp",
+        "alt": "牛肉蛋包飯 グリルグランド的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "oku-asakusa",
+        "name": "奧淺草",
+        "href": "/walks/oku-asakusa/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_601844f1dec669fd",
+      "name": "壽々喜園 浅草本店",
+      "address": "東京都台東区浅草3-4-3",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「壽々喜園 浅草本店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草3-4-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.71632,
+        "lng": 139.796982,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%893-4-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zR1OI3T8YxY",
+          "title": "cafe vlog｜抹茶好き必見！東京抹茶スイーツ6選！浅草／表参道／吉祥寺／銀座／...etc",
+          "url": "https://www.youtube.com/watch?v=zR1OI3T8YxY",
+          "time": "1:45",
+          "seconds": 105
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "11:45",
+          "seconds": 705
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "ROf3HBnMTt8",
+          "title": "THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=ROf3HBnMTt8"
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "FVyNjkr6Pds",
+          "title": "淺草 🇯🇵🍡 和風甜點的寶庫！Q彈草莓大福＆極品烤地瓜 | 東京美食漫步",
+          "url": "https://www.youtube.com/watch?v=FVyNjkr6Pds"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_601844f1dec669fd",
+          "p_5a3f8eaa139d16f4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%A3%BD%E5%A3%BD%E5%96%9C%E5%9C%92+%E6%B7%BA%E8%8D%89%E6%9C%AC%E5%BA%97/data=!4m7!3m6!1s0x60188ec1dc27d889:0x1abebdcadc452655!8m2!3d35.7163436!4d139.7969391!16s%2Fg%2F11f5q8yl2p!19sChIJidgn3MGOGGARVSZF3Mq9vho?authuser=0&hl=zh-TW&rclk=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_601844f1dec669fd.webp",
+        "alt": "壽々喜園 浅草本店的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "oku-asakusa",
+        "name": "奧淺草",
+        "href": "/walks/oku-asakusa/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_61588ff8b4415633",
+      "name": "しゃん",
+      "address": "東京都台東区浅草4-36-2",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「しゃん」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草4-36-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.719387,
+        "lng": 139.795258,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%894-36-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "10:41",
+          "seconds": 641
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_61588ff8b4415633"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%81%97%E3%82%83%E3%82%93+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%894-36-2"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_61588ff8b4415633.webp",
+        "alt": "しゃん的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "oku-asakusa",
+        "name": "奧淺草",
+        "href": "/walks/oku-asakusa/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_02386fa3de3e90b4",
+      "name": "淺草關東煮老店 大多福",
+      "address": "東京都台東区千束1-6-2",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「淺草關東煮老店 大多福」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区千束1-6-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7177144,
+        "lng": 139.7915186,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "maw7VXODp8g",
+          "title": "東京美食淺草篇，24小時爽吃之旅 ! 淺草一日美食地圖推薦，巷內江戶前天丼老店、淺草百年蕎麥麵、罕見泥鰍鍋初體驗、油香衝擊和牛壽喜燒、百年關東煮老店 【肥波外食記】ft.Rakuten Travel",
+          "url": "https://www.youtube.com/watch?v=maw7VXODp8g",
+          "time": "8:36",
+          "seconds": 516
+        }
+      ],
+      "official": "https://otafuku.ne.jp/about",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_02386fa3de3e90b4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%B7%BA%E8%8D%89%E9%97%9C%E6%9D%B1%E7%85%AE%E8%80%81%E5%BA%97+%E5%A4%A7%E5%A4%9A%E7%A6%8F/@35.7138551,139.7958314,16.5z/data=!4m5!3m4!1s0x60188e94ed6e8977:0x5f0590379e5342b1!8m2!3d35.7177144!4d139.7915186?coh=164777&shorturl=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_02386fa3de3e90b4.webp",
+        "alt": "淺草關東煮老店 大多福的日系水彩插圖"
+      },
+      "order": 6,
+      "canonicalArea": {
+        "id": "oku-asakusa",
+        "name": "奧淺草",
+        "href": "/walks/oku-asakusa/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 6,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_cd3505a7d6af58fa",
+      "p_80ce7016fd4645fd",
+      "p_3884f9d4bd99bc9a",
+      "p_601844f1dec669fd",
+      "p_5a3f8eaa139d16f4",
+      "p_61588ff8b4415633",
+      "p_02386fa3de3e90b4"
+    ]
+  },
+  "scope": {
+    "id": "oku-asakusa",
+    "name": "奧淺草",
+    "kind": "record-area",
+    "parentWalk": "asakusa",
+    "scope": "淺草寺後方的淺草三至六丁目、言問通北側的千束南段與花川戶北端。",
+    "includes": "淺草寺後方的淺草三至六丁目、言問通北側的千束南段與花川戶北端。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://t-navi.city.taito.lg.jp/spot?categoryIds=8",
+      "https://otafuku.ne.jp/about",
+      "https://www.city.taito.lg.jp/bunka_kanko/sangyotokei/sangyojoho/tedukurikobo/index.files/24-26areabetsumap.pdf"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 6
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "asakusa"
+  ]
+}

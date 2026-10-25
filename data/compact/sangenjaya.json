@@ -1,0 +1,92 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kobe-motomachi--p_135871d72948e644",
+      "name": "Swallow（三軒茶屋）",
+      "address": "東京都世田谷区下馬2-36-1 2F",
+      "group": "food",
+      "categoryLabel": "咖啡館",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片在世田谷線與三軒茶屋散步，收錄下馬二丁目的二樓咖啡館 Swallow。",
+        "原始資料記錄的地址為 東京都世田谷区下馬2-36-1 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "已依原影片說明、地圖連結與分店地址修正，不再誤列為神戶同名店。",
+      "coordinate": {
+        "lat": 35.641048,
+        "lng": 139.673965,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%B8%8B%E9%A6%AC2-36-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "kEWIJS-edSk",
+          "title": "Life in Tokyo｜A Local Tokyo Walk Along the Setagaya Line",
+          "url": "https://www.youtube.com/watch?v=kEWIJS-edSk"
+        }
+      ],
+      "official": "https://www.instagram.com/swallow_coffee_official/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_135871d72948e644"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-motomachi--p_135871d72948e644.webp",
+        "alt": "Swallow（三軒茶屋）的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "sangenjaya",
+        "name": "三軒茶屋",
+        "href": "/walks/sangenjaya/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_135871d72948e644"
+    ]
+  },
+  "scope": {
+    "id": "sangenjaya",
+    "name": "三軒茶屋",
+    "city": "東京",
+    "region": "關東",
+    "kind": "record-area",
+    "parentWalk": "kobe-motomachi",
+    "scope": "三軒茶屋站南側、榮通商店街至下馬二丁目。",
+    "includes": "三軒茶屋站南側、榮通商店街至下馬二丁目。",
+    "excludes": "僅保留已核對的原影片地點，不以整個行政區擴張收錄。",
+    "basis": "依原影片明示店家及店家地址修正跨城市誤配，單點紀錄不編造完整散步行程。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=kEWIJS-edSk",
+      "https://tabelog.com/tokyo/A1317/A131706/13290098/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kobe-motomachi"
+  ]
+}

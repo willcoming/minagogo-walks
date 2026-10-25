@@ -2,21 +2,26 @@
   "places": [
     {
       "id": "shibamata--p_86f5a24a0efe8535",
-      "name": "Shibamata Haikara Yokocho",
-      "address": "7-chōme-3-12 Shibamata, Katsushika City, Tokyo 125-0052",
-      "group": "food",
-      "categoryLabel": "餐廳",
+      "name": "柴又ハイカラ横丁",
+      "address": "東京都葛飾区柴又7-3-12",
+      "group": "shops",
+      "categoryLabel": "玩具・零食",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Shibamata Haikara Yokocho」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 7-chōme-3-12 Shibamata, Katsushika City, Tokyo 125-0052。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都葛飾区柴又7-3-12。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 35.7573995,
-        "lng": 139.87591079999999,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_86f5a24a0efe8535",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887-3-12",
+        "lat": 35.757355,
+        "lng": 139.875992,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -26,7 +31,7 @@
           "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
         }
       ],
-      "official": null,
+      "official": "https://www.haikarayokotyo.com/haikara.html",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -36,18 +41,22 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=6010531765933556792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/shibamata--p_86f5a24a0efe8535.webp",
+        "alt": "柴又ハイカラ横丁的日系水彩插圖"
       }
     },
     {
       "id": "shibamata--p_c159b16530210987",
-      "name": "Taishakuten Sandō",
-      "address": "7-chōme-7-4 Shibamata, 葛飾区 Katsushika City, Tokyo 125-0052",
+      "name": "柴又帝釋天門前參道",
+      "address": "東京都葛飾区柴又7丁目",
       "group": "sights",
-      "categoryLabel": "景點",
+      "categoryLabel": "參道・街景",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Taishakuten Sandō」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 7-chōme-7-4 Shibamata, 葛飾区 Katsushika City, Tokyo 125-0052。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都葛飾区柴又7丁目。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -64,7 +73,7 @@
           "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
         }
       ],
-      "official": null,
+      "official": "https://uniquevenues-jp.metro.tokyo.lg.jp/venues/private/21811/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -74,6 +83,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=12143433986331728921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/shibamata--p_c159b16530210987.webp",
+        "alt": "柴又帝釋天門前參道的日系水彩插圖"
       }
     }
   ],

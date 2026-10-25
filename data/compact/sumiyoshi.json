@@ -1,0 +1,85 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kiyosumi-shirakawa--p_448c675d56366a58",
+      "name": "Kashikobo Fukudora",
+      "address": "〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Kashikobo Fukudora」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6880978,
+        "lng": 139.814531,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "WbjuVVVInPo",
+          "title": "東京 🇯🇵 | 百大名店日式銅鑼燒專賣店！從紅豆、地瓜到蒙布朗口味的東京必買伴手禮",
+          "url": "https://www.youtube.com/watch?v=WbjuVVVInPo"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_448c675d56366a58"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=11664622512999259906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_448c675d56366a58.webp",
+        "alt": "Kashikobo Fukudora的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "sumiyoshi",
+        "name": "住吉",
+        "href": "/walks/sumiyoshi/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_448c675d56366a58"
+    ]
+  },
+  "scope": {
+    "id": "sumiyoshi",
+    "name": "住吉",
+    "kind": "record-area",
+    "parentWalk": "kiyosumi-shirakawa",
+    "scope": "住吉站及住吉二丁目商店街。",
+    "includes": "住吉站及住吉二丁目商店街。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://koto-kanko.jp/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kiyosumi-shirakawa"
+  ]
+}

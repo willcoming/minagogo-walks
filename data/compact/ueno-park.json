@@ -1,0 +1,144 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "yanaka--p_fc6a6f3ba0bbd2c7",
+      "name": "國際兒童圖書館",
+      "address": "東京都台東区上野公園12-49",
+      "group": "sights",
+      "categoryLabel": "圖書館",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「國際兒童圖書館」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区上野公園12-49。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.719219,
+        "lng": 139.773834,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E5%85%AC%E5%9C%9212-49",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "Oeaub98Y9V8",
+          "title": "🇯🇵🗼TOKYO VLOG｜Exploring Ueno｜Food spots, Shopping, cozy cafe and Sightseeing",
+          "url": "https://www.youtube.com/watch?v=Oeaub98Y9V8"
+        }
+      ],
+      "official": "https://www.kodomo.go.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fc6a6f3ba0bbd2c7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=18047082100036947361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_fc6a6f3ba0bbd2c7.webp",
+        "alt": "國際兒童圖書館的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "ueno-park",
+        "name": "上野公園",
+        "href": "/walks/ueno-park/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_f74f107308fbd07d",
+      "name": "喫茶去（上野公園・韻松亭）",
+      "address": "東京都台東区上野公園4-59",
+      "group": "food",
+      "categoryLabel": "甘味處",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "上野公園韻松亭在午餐與晚餐之間提供甘味，可品嘗餡蜜、抹茶與麩饅頭。",
+        "原始資料記錄的地址為 東京都台東区上野公園4-59。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片與食べログ連結指向上野公園的喫茶去，與人形町快生軒不同；已依官方地址修正。甘味時段及等候方式請參考官網。",
+      "coordinate": {
+        "lat": 35.713768,
+        "lng": 139.772827,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E5%85%AC%E5%9C%924-59",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "已依原影片店家連結與官方地址核對；為地址代表點，非指定入口。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "P6NMAGA-IoY",
+          "title": "[上野午餐最佳7]這個地方很難被擊敗！跟大家介紹一下只有知情者才知道的上野午餐。",
+          "url": "https://www.youtube.com/watch?v=P6NMAGA-IoY"
+        }
+      ],
+      "official": "https://www.innsyoutei.jp/food/obento-omiyage.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f74f107308fbd07d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_f74f107308fbd07d.webp",
+        "alt": "喫茶去（上野公園・韻松亭）的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "ueno-park",
+        "name": "上野公園",
+        "href": "/walks/ueno-park/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 2,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_fc6a6f3ba0bbd2c7",
+      "p_f74f107308fbd07d"
+    ]
+  },
+  "scope": {
+    "id": "ueno-park",
+    "name": "上野公園",
+    "kind": "record-area",
+    "parentWalk": "yanaka",
+    "scope": "上野恩賜公園的文化設施與上野站公園口周邊。",
+    "includes": "上野恩賜公園的文化設施與上野站公園口周邊。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.tokyo-park.or.jp/park/ueno/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 2
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "yanaka",
+    "nihonbashi"
+  ]
+}

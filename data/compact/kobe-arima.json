@@ -33,7 +33,20 @@
         "image": "/art/walks/kobe-arima/kago.webp",
         "alt": "有馬籠本店的日系水彩插圖"
       },
-      "recommendation": "在竹編器物之間，看看有馬的日常手藝。"
+      "recommendation": "在竹編器物之間，看看有馬的日常手藝。",
+      "canonicalArea": {
+        "id": "kobe-arima",
+        "name": "有馬溫泉街",
+        "href": "/walks/kobe-arima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.arima-onsen.com/pickup/47/1401/",
+          "https://www.arima-onsen.com/pickup/47/515/",
+          "https://www.arima-onsen.com/pickup/35/535/"
+        ]
+      }
     },
     {
       "id": "kobe-arima--gin",
@@ -67,7 +80,12 @@
         "image": "/art/walks/kobe-arima/gin.webp",
         "alt": "銀之湯的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-arima",
+        "name": "有馬溫泉街",
+        "href": "/walks/kobe-arima/"
+      }
     },
     {
       "id": "kobe-arima--tosen",
@@ -101,7 +119,12 @@
         "image": "/art/walks/kobe-arima/tosen.webp",
         "alt": "湯泉神社的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-arima",
+        "name": "有馬溫泉街",
+        "href": "/walks/kobe-arima/"
+      }
     },
     {
       "id": "kobe-arima--onsenji",
@@ -135,7 +158,20 @@
         "image": "/art/walks/kobe-arima/onsenji.webp",
         "alt": "溫泉寺的日系水彩插圖"
       },
-      "recommendation": "慢慢上坡，到古寺前停一會兒。"
+      "recommendation": "慢慢上坡，到古寺前停一會兒。",
+      "canonicalArea": {
+        "id": "kobe-arima",
+        "name": "有馬溫泉街",
+        "href": "/walks/kobe-arima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.arima-onsen.com/pickup/47/1401/",
+          "https://www.arima-onsen.com/pickup/47/515/",
+          "https://www.arima-onsen.com/pickup/35/535/"
+        ]
+      }
     },
     {
       "id": "kobe-arima--nenbutsuji",
@@ -169,7 +205,20 @@
         "image": "/art/walks/kobe-arima/nenbutsuji.webp",
         "alt": "念佛寺・喫茶CITTA的日系水彩插圖"
       },
-      "recommendation": "在庭園旁喝茶，把餘裕留給老街。"
+      "recommendation": "在庭園旁喝茶，把餘裕留給老街。",
+      "canonicalArea": {
+        "id": "kobe-arima",
+        "name": "有馬溫泉街",
+        "href": "/walks/kobe-arima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.arima-onsen.com/pickup/47/1401/",
+          "https://www.arima-onsen.com/pickup/47/515/",
+          "https://www.arima-onsen.com/pickup/35/535/"
+        ]
+      }
     },
     {
       "id": "kobe-arima--onsendo",
@@ -202,7 +251,20 @@
         "image": "/art/walks/kobe-arima/onsendo.webp",
         "alt": "溫泉堂的日系水彩插圖"
       },
-      "recommendation": "看看手巾、入浴用品等溫泉小物，再慢慢走回車站。"
+      "recommendation": "看看手巾、入浴用品等溫泉小物，再慢慢走回車站。",
+      "canonicalArea": {
+        "id": "kobe-arima",
+        "name": "有馬溫泉街",
+        "href": "/walks/kobe-arima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.arima-onsen.com/pickup/33/1010/",
+          "https://tansan.co.jp/shop/",
+          "https://www.arima-onsen.com/pickup/38/1390/"
+        ]
+      }
     },
     {
       "id": "kobe-arima--mitsumori",
@@ -235,7 +297,20 @@
         "image": "/art/walks/kobe-arima/mitsumori.webp",
         "alt": "三津森本舖的日系水彩插圖"
       },
-      "recommendation": "挑一份炭酸煎餅作伴手禮，店名與分店以現場地址核對。"
+      "recommendation": "挑一份炭酸煎餅作伴手禮，店名與分店以現場地址核對。",
+      "canonicalArea": {
+        "id": "kobe-arima",
+        "name": "有馬溫泉街",
+        "href": "/walks/kobe-arima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.arima-onsen.com/pickup/33/1010/",
+          "https://tansan.co.jp/shop/",
+          "https://www.arima-onsen.com/pickup/38/1390/"
+        ]
+      }
     },
     {
       "id": "kobe-arima--kin",
@@ -269,7 +344,12 @@
         "image": "/art/walks/kobe-arima/kin.webp",
         "alt": "金之湯的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-arima",
+        "name": "有馬溫泉街",
+        "href": "/walks/kobe-arima/"
+      }
     },
     {
       "id": "kobe-arima--toys",
@@ -303,7 +383,20 @@
         "image": "/art/walks/kobe-arima/toys.webp",
         "alt": "有馬玩具博物館的日系水彩插圖"
       },
-      "recommendation": "留一段完整時間看看機關、木玩具與遊戲展示，不趕著看完每層。"
+      "recommendation": "留一段完整時間看看機關、木玩具與遊戲展示，不趕著看完每層。",
+      "canonicalArea": {
+        "id": "kobe-arima",
+        "name": "有馬溫泉街",
+        "href": "/walks/kobe-arima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.arima-onsen.com/pickup/33/1010/",
+          "https://tansan.co.jp/shop/",
+          "https://www.arima-onsen.com/pickup/38/1390/"
+        ]
+      }
     },
     {
       "id": "kobe-arima--zenpukuji",
@@ -337,7 +430,12 @@
         "image": "/art/walks/kobe-arima/zenpukuji.webp",
         "alt": "善福寺的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-arima",
+        "name": "有馬溫泉街",
+        "href": "/walks/kobe-arima/"
+      }
     }
   ],
   "routes": [
@@ -387,7 +485,15 @@
         "kobe-arima--onsenji",
         "kobe-arima--nenbutsuji"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.arima-onsen.com/pickup/47/1401/",
+          "https://www.arima-onsen.com/pickup/47/515/",
+          "https://www.arima-onsen.com/pickup/35/535/"
+        ]
+      }
     },
     {
       "id": "kobe-arima-toys-and-hot-spring-souvenirs",
@@ -435,14 +541,39 @@
         "kobe-arima--mitsumori",
         "kobe-arima--onsendo"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.arima-onsen.com/pickup/33/1010/",
+          "https://tansan.co.jp/shop/",
+          "https://www.arima-onsen.com/pickup/38/1390/"
+        ]
+      }
     }
   ],
   "defaultSelection": "kobe-arima-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "kobe-arima",
+    "name": "有馬溫泉街",
+    "kind": "walk",
+    "scope": "有馬溫泉站進入湯本坂、金之湯與銀之湯，經溫泉寺、湯泉神社與泉源巷道。",
+    "includes": "湯本坂與中心溫泉街",
+    "excludes": "六甲山、纜車山上與遠端旅館不自動納入。",
+    "basis": "神戶市泉源散步以溫泉街中心、寺社與金銀之湯相連。",
+    "sourceUrls": [
+      "https://www.city.kobe.lg.jp/a64051/arimasengen.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

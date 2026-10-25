@@ -1,0 +1,137 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "kyoto-nishijin--toraya",
+      "order": 1,
+      "name": "虎屋菓寮京都一條店",
+      "address": "京都府京都市上京区広橋殿町400",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "面向庭園，為甜點留一段時間",
+      "descriptionParagraphs": [
+        "虎屋菓寮京都一條店以和菓子、茶與庭園構成安靜的休息空間。大面窗景把綠意帶到座位旁，讓散步從熱鬧街道切換成緩慢的節奏。",
+        "可作為鶴屋吉信之外的茶點選項，不必兩間都排進同一個下午。從今出川站往西陣走時順路停留，離開後再往油小路的小街前進。"
+      ],
+      "description": "虎屋菓寮京都一條店以和菓子、茶與庭園構成安靜的休息空間。大面窗景把綠意帶到座位旁，讓散步從熱鬧街道切換成緩慢的節奏。\n\n可作為鶴屋吉信之外的茶點選項，不必兩間都排進同一個下午。從今出川站往西陣走時順路停留，離開後再往油小路的小街前進。",
+      "note": "",
+      "official": "https://www.toraya-group.co.jp/shops/shop-55",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "dT1QNCxJS_w",
+          "title": "A Day in Tokyo : Kioicho, Akasaka, Yotsuya / Some of the Beautiful Architecture | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=dT1QNCxJS_w",
+          "time": "17:57",
+          "seconds": 1077
+        }
+      ],
+      "coordinate": {
+        "lat": 35.026497,
+        "lng": 135.758804,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%BA%83%E6%A9%8B%E6%AE%BF%E7%94%BA400",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-nishijin/toraya.webp",
+        "alt": "虎屋菓寮京都一條店的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_bc76db0f9abd0ff6"
+      ],
+      "canonicalArea": {
+        "id": "kyoto-gosho-west",
+        "name": "京都御苑西側",
+        "href": "/walks/kyoto-gosho-west/"
+      }
+    },
+    {
+      "id": "kyoto-nishijin--p_b68dd810244524bc",
+      "name": "竹邑庵太郎敦盛",
+      "address": "242-12 Yōanchō, Kamigyo Ward, Kyoto, 602-8022",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「竹邑庵太郎敦盛」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 242-12 Yōanchō, Kamigyo Ward, Kyoto, 602-8022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.01850700000001,
+        "lng": 135.7588437,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "Aq5FmVZZ6GU",
+          "title": "京都米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Kyoto 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=Aq5FmVZZ6GU",
+          "time": "0:29",
+          "seconds": 29
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b68dd810244524bc"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=15776756795654271686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-nishijin--p_b68dd810244524bc.webp",
+        "alt": "竹邑庵太郎敦盛的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "kyoto-gosho-west",
+        "name": "京都御苑西側",
+        "href": "/walks/kyoto-gosho-west/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_bc76db0f9abd0ff6",
+      "p_b68dd810244524bc"
+    ]
+  },
+  "scope": {
+    "id": "kyoto-gosho-west",
+    "name": "京都御苑西側",
+    "kind": "record-area",
+    "parentWalk": "kyoto-nishijin",
+    "scope": "京都御苑西側的烏丸通、一條通至丸太町通街區。",
+    "includes": "京都御苑西側的烏丸通、一條通至丸太町通街區。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://ja.kyoto.travel/area/area02.php"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 2
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kyoto-nishijin"
+  ]
+}

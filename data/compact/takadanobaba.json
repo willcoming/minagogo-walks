@@ -1,0 +1,95 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "omihachiman--p_a040448ef5601644",
+      "name": "とんかつ とん太（高田馬場）",
+      "address": "東京都豊島区高田3-17-8",
+      "group": "food",
+      "categoryLabel": "炸豬排",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "とん太是高田馬場站北側的炸豬排店，原影片在這裡品嘗里肌與菲力豬排定食。這筆資料已依影片中的原始店家連結與實訪紀錄修正為東京店址。",
+        "原始資料記錄的地址為 東京都豊島区高田3-17-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片介紹高田馬場炸豬排，先前誤配為滋賀同音的豚骨拉麵店，已修正店名、類別與地址。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E9%AB%98%E7%94%B03-17-8",
+        "lat": 35.715508,
+        "lng": 139.706619,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "Y0PSXGfBI3g",
+          "title": "東京美食炸豬排篇，高田馬場爽吃特輯三選 ! 東京炸豬排一級戰區，連吃三家激爽炸豬排名店，米其林認證炸豬菲力、激爽酥炸豬肋排、Tabelog排行榜一豬排豚太! 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=Y0PSXGfBI3g",
+          "time": "6:16",
+          "seconds": 376
+        }
+      ],
+      "official": "https://map.yahoo.co.jp/v3/place/lWM6zLJTxao",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a040448ef5601644"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/omihachiman--p_a040448ef5601644.webp",
+        "alt": "とんかつ とん太（高田馬場）的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "takadanobaba",
+        "name": "高田馬場・高田三丁目",
+        "href": "/walks/takadanobaba/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_a040448ef5601644"
+    ]
+  },
+  "scope": {
+    "id": "takadanobaba",
+    "name": "高田馬場・高田三丁目",
+    "parentWalk": "omihachiman",
+    "city": "東京",
+    "region": "關東",
+    "kind": "record-area",
+    "scope": "高田馬場站北側、高田三丁目17番的原影片餐廳；只有單點紀錄，無推薦行程。",
+    "includes": "高田馬場站北側、高田三丁目17番的原影片餐廳；只有單點紀錄，無推薦行程。",
+    "excludes": "不向周邊整個行政區擴張，不套用原散策路線。",
+    "basis": "依原影片和所列地點資料核對具體站區與河岸位置。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=Y0PSXGfBI3g",
+      "https://map.yahoo.co.jp/v3/place/lWM6zLJTxao",
+      "https://tokyo.letsgojp.com/archives/875230/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "omihachiman"
+  ]
+}

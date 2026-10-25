@@ -1,0 +1,203 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kamakura--p_2b3bd0085fd8e6af",
+      "name": "茶屋かど",
+      "address": "神奈川県鎌倉市山ノ内１５１８",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「茶屋かど」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 神奈川県鎌倉市山ノ内１５１８。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.330338,
+        "lng": 139.551971,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%B1%B1%E3%83%8E%E5%86%851518",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "iHlWzlTrIOs",
+          "title": "【鎌倉】絶対に外さない鎌倉カフェ・グルメ８選【2024年保存版】古民家／非日常／江ノ電〜Kamakura food tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=iHlWzlTrIOs",
+          "time": "03:33",
+          "seconds": 213
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2b3bd0085fd8e6af"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Chayakado/@35.3315629,139.5510259,17z/data=!3m1!4b1!4m6!3m5!1s0x601845bce23b671d:0xf43bdb1f53582c47!8m2!3d35.3315629!4d139.5510259!16s%2Fg%2F1tr17jm7?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_2b3bd0085fd8e6af.webp",
+        "alt": "茶屋かど的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kitakamakura",
+        "name": "北鎌倉",
+        "href": "/walks/kitakamakura/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kamakura--p_b5d18e801dd1a2c5",
+      "name": "喫茶 吉野",
+      "address": "神奈川県鎌倉市山ノ内1379",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「喫茶 吉野」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 神奈川県鎌倉市山ノ内1379。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.333485,
+        "lng": 139.545731,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%B1%B1%E3%83%8E%E5%86%851379",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "2Fn2OzljIMg",
+          "title": "cafe vlog｜鎌倉カフェグルメ10選 {2022年保存版}人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=2Fn2OzljIMg",
+          "time": "14:20",
+          "seconds": 860
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b5d18e801dd1a2c5"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Coffee+Shop+Yoshino/@35.335057,139.546184,17z/data=!3m1!4b1!4m6!3m5!1s0x60184598da3b19ad:0x2af86a9034264041!8m2!3d35.335057!4d139.546184!16s%2Fg%2F1tm8dywl?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_b5d18e801dd1a2c5.webp",
+        "alt": "喫茶 吉野的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "kitakamakura",
+        "name": "北鎌倉",
+        "href": "/walks/kitakamakura/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kamakura--p_9b8b1580595c83a6",
+      "name": "喫茶ミンカ",
+      "address": "神奈川県鎌倉市山ノ内377-2",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「喫茶ミンカ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 神奈川県鎌倉市山ノ内377-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.335495,
+        "lng": 139.546967,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%B1%B1%E3%83%8E%E5%86%85377-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "2Fn2OzljIMg",
+          "title": "cafe vlog｜鎌倉カフェグルメ10選 {2022年保存版}人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=2Fn2OzljIMg",
+          "time": "13:02",
+          "seconds": 782
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9b8b1580595c83a6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Kissa+Minka/@35.335424,139.547159,17z/data=!3m1!4b1!4m6!3m5!1s0x60184598b866ec5d:0x9196888fe421048d!8m2!3d35.335424!4d139.547159!16s%2Fg%2F11clwn7prz?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_9b8b1580595c83a6.webp",
+        "alt": "喫茶ミンカ的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "kitakamakura",
+        "name": "北鎌倉",
+        "href": "/walks/kitakamakura/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 3,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_2b3bd0085fd8e6af",
+      "p_b5d18e801dd1a2c5",
+      "p_9b8b1580595c83a6"
+    ]
+  },
+  "scope": {
+    "id": "kitakamakura",
+    "name": "北鎌倉",
+    "kind": "record-area",
+    "parentWalk": "kamakura",
+    "scope": "北鎌倉站與山之內寺院門前街，南接建長寺一帶。",
+    "includes": "北鎌倉站與山之內寺院門前街，南接建長寺一帶。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.trip-kamakura.com/special/detail.php?id=3"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 3
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kamakura"
+  ]
+}

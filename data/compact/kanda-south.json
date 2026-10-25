@@ -1,0 +1,139 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "nihonbashi--p_9be95a5d97f68291",
+      "name": "VINOSITY 神田本店",
+      "address": "東京都千代田区鍛冶町2-4-1 佐伯ビル1F・B1F",
+      "group": "food",
+      "categoryLabel": "葡萄酒餐酒館",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹神田鍛冶町的 VINOSITY 本店，供應葡萄酒與歐式餐點，入口通往一樓及地下空間。",
+        "原始資料記錄的地址為 東京都千代田区鍛冶町2-4-1 佐伯ビル1F・B1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "已依原影片食べログ連結與品牌官網核對為神田本店，與 COREDO 室町的 VINOSITY maxime 不同。",
+      "coordinate": {
+        "lat": 35.691269,
+        "lng": 139.772583,
+        "provider": "gsi",
+        "label": "東京都千代田区鍛冶町二丁目４番１号",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=東京都千代田区鍛冶町2-4-1",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "国土地理院の住所検索による2丁目4番1号の代表点。店舗入口の実測位置ではありません。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "OC0F9ZYwigE",
+          "title": "【神田酒吧】肉吧、創意日料等等！ 神田居酒屋最佳 6！",
+          "url": "https://www.youtube.com/watch?v=OC0F9ZYwigE"
+        }
+      ],
+      "official": "https://charpente.jp/vinosity/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9be95a5d97f68291"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_9be95a5d97f68291.webp",
+        "alt": "VINOSITY 神田本店的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kanda-south",
+        "name": "神田站南口・東口",
+        "href": "/walks/kanda-south/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_d2fdb45cadb94f27",
+      "name": "野乃鳥 日本橋",
+      "address": "〒101-0044 Tokyo, Chiyoda City, Kajichō, 1-chōme−9−１９ GEMS新日本橋 6階",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「日本燒鳥餐廳 野乃鳥 日本橋店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒101-0044 Tokyo, Chiyoda City, Kajichō, 1-chōme−9−１９ GEMS新日本橋 6階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6904647,
+        "lng": 139.7725862,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "OvWBmxhzQlo",
+          "title": "BEST 10 FOODS YOU MUST TRY IN TOKYO, JAPAN ｜Food and Travel Guide 2025",
+          "url": "https://www.youtube.com/watch?v=OvWBmxhzQlo"
+        }
+      ],
+      "official": "https://nonotory.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d2fdb45cadb94f27"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=13217055646239221321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_d2fdb45cadb94f27.webp",
+        "alt": "野乃鳥 日本橋的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "kanda-south",
+        "name": "神田站南口・東口",
+        "href": "/walks/kanda-south/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 2,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_9be95a5d97f68291",
+      "p_d2fdb45cadb94f27"
+    ]
+  },
+  "scope": {
+    "id": "kanda-south",
+    "name": "神田站南口・東口",
+    "kind": "record-area",
+    "parentWalk": "nihonbashi",
+    "scope": "神田站南口至東口的鍛冶町街坊，收錄鍛冶町一丁目及二丁目4番的已核對地點；位於新日本橋北側的另一站區。",
+    "includes": "神田站南口至東口的鍛冶町街坊，收錄鍛冶町一丁目及二丁目4番的已核對地點；位於新日本橋北側的另一站區。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.gotokyo.org/jp/destinations/central-tokyo/kanda-and-jimbocho/index.html",
+      "https://charpente.jp/company/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 2
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "nihonbashi"
+  ]
+}

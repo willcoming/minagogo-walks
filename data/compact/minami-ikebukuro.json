@@ -1,0 +1,93 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "osaka-tenma--p_9c9b0fb489ef24e7",
+      "name": "春駒（南池袋・營業待確認）",
+      "address": "東京都豊島区南池袋2-18-2 最上ビル1F",
+      "group": "food",
+      "categoryLabel": "中華料理",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片收錄的南池袋中華食堂。店家頁目前暫停刊載，營業現況未確認；此處保留影片與原店址紀錄。",
+        "原始資料記錄的地址為 東京都豊島区南池袋2-18-2 最上ビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片連結指向南池袋春駒，已修正先前誤配的大阪壽司店。食べログ目前暫停刊載，尚未取得確切閉店日期或重新營業公告；出發前請另行確認。",
+      "coordinate": {
+        "id": "p_9c9b0fb489ef24e7",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E5%8D%97%E6%B1%A0%E8%A2%8B2-18-2",
+        "lat": 35.726433,
+        "lng": 139.713287,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "jqnjWQicy9k",
+          "title": "[池袋] 中國菜最佳6@池袋",
+          "url": "https://www.youtube.com/watch?v=jqnjWQicy9k"
+        }
+      ],
+      "official": "https://x.com/harukoma1961",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9c9b0fb489ef24e7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_9c9b0fb489ef24e7.webp",
+        "alt": "春駒（南池袋・營業待確認）的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "minami-ikebukuro",
+        "name": "南池袋",
+        "href": "/walks/minami-ikebukuro/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_9c9b0fb489ef24e7"
+    ]
+  },
+  "scope": {
+    "id": "minami-ikebukuro",
+    "name": "南池袋",
+    "city": "東京",
+    "region": "關東",
+    "kind": "record-area",
+    "parentWalk": "osaka-tenma",
+    "scope": "池袋站東南側、南池袋二丁目18番的原影片中華食堂紀錄。",
+    "includes": "南池袋二丁目春駒的已核對歷史店址。",
+    "excludes": "不包含池袋西口，不將單筆影片紀錄延伸為整個池袋散策。",
+    "basis": "依原影片明示的食べログ店家頁、實訪照片與國土地理院地址核對。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=jqnjWQicy9k",
+      "https://tabelog.com/tokyo/A1305/A130501/13023739/",
+      "https://tokiyadiary.blog118.fc2.com/blog-entry-5282.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "osaka-tenma"
+  ]
+}

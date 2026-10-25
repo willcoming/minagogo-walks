@@ -1,0 +1,161 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "nihonbashi--p_0a0053f59ababd84",
+      "name": "日本料理 むとう（銀座・閉店）",
+      "address": "東京都中央区銀座6-4-16",
+      "group": "food",
+      "categoryLabel": "日本料理",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹銀座的日本料理むとう，以鯛茶漬け為特色；保留歷史店面與影片紀錄。",
+        "原始資料記錄的地址為 東京都中央区銀座6-4-16。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片連結指向銀座むとう，與日本橋的鮨むとう是不同店。食べログ標示閉店，實訪作者確認於2025年8月30日結束營業；此處保留原址紀錄。",
+      "coordinate": {
+        "lat": 35.671383,
+        "lng": 139.761353,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A76-4-16",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "已核對原影片銀座店址的地址代表點，非指定入口。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "qolQYCHXgoY",
+          "title": "[銀座]日式套餐10選",
+          "url": "https://www.youtube.com/watch?v=qolQYCHXgoY"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "FAUB3IJ9VtM",
+          "title": "[Ginza] 日本東京銀座最佳 8 午餐！",
+          "url": "https://www.youtube.com/watch?v=FAUB3IJ9VtM"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "oVKteoHXPDE",
+          "title": "【銀座美食精選7】極品鯛魚茶泡飯、正宗青汁、京都名品甜點等！",
+          "url": "https://www.youtube.com/watch?v=oVKteoHXPDE"
+        }
+      ],
+      "official": "https://trguide.gaishokujikan.jp/日本料理%E3%80%80むとう/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0a0053f59ababd84"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_0a0053f59ababd84.webp",
+        "alt": "日本料理 むとう（銀座・閉店）的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "ginza",
+        "name": "銀座",
+        "href": "/walks/ginza/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "omihachiman--p_73b8718fe931b3e4",
+      "name": "たねや 銀座三越店",
+      "address": "東京都中央区銀座4-6-16 銀座三越B2F",
+      "group": "food",
+      "categoryLabel": "和菓子",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹銀座三越地下食品區的たねや，販售栗饅頭及季節和菓子。此處已依影片與品牌店鋪資料修正為銀座三越櫃位，並保留原始影片來源。",
+        "原始資料記錄的地址為 東京都中央区銀座4-6-16 銀座三越B2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片00:30明確介紹銀座三越店，先前名稱搜尋誤配為滋賀近江八幡店，已修正分店。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A74-6-16",
+        "lat": 35.671577,
+        "lng": 139.765594,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "QX4Fl6pW_Hk",
+          "title": "東京 🇯🇵 🥮🍱 銀座三越與松屋銀座必買地下街美食！人氣甜點及精緻便當指南",
+          "url": "https://www.youtube.com/watch?v=QX4Fl6pW_Hk"
+        }
+      ],
+      "official": "https://taneya.jp/shop/tokyo_g-mitsukoshi",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_73b8718fe931b3e4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/omihachiman--p_73b8718fe931b3e4.webp",
+        "alt": "たねや 銀座三越店的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "ginza",
+        "name": "銀座",
+        "href": "/walks/ginza/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 2,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_0a0053f59ababd84",
+      "p_73b8718fe931b3e4"
+    ]
+  },
+  "scope": {
+    "id": "ginza",
+    "name": "銀座",
+    "city": "東京",
+    "region": "關東",
+    "kind": "record-area",
+    "parentWalk": "nihonbashi",
+    "scope": "銀座四丁目三越地下食品區與六丁目數寄屋通的原影片店家，保留分散紀錄，不編造完整散策行程。",
+    "includes": "銀座三越たねや櫃位，以及日本料理むとう歷史店址。",
+    "excludes": "不因單一紀錄擴張至整個銀座，也不沿用日本橋散策行程。",
+    "basis": "原影片章節、品牌分店資料與實訪紀錄共同確認。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=oVKteoHXPDE",
+      "https://tabelog.com/tokyo/A1301/A130101/13002553/",
+      "https://trguide.gaishokujikan.jp/日本料理%E3%80%80むとう/",
+      "https://bandoftokyo.com/blog-entry-4282.html",
+      "https://taneya.jp/shop/tokyo_g-mitsukoshi"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 2
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "nihonbashi",
+    "omihachiman"
+  ]
+}

@@ -32,7 +32,20 @@
         "image": "/art/walks/omiya/coffee.webp",
         "alt": "常盤珈琲焙煎所 大宮氷川參道店的日系水彩插圖"
       },
-      "recommendation": "在參道北段先休息，慢慢感受綠蔭。"
+      "recommendation": "在參道北段先休息，慢慢感受綠蔭。",
+      "canonicalArea": {
+        "id": "omiya",
+        "name": "大宮冰川參道",
+        "href": "/walks/omiya/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://tokiwacoffee.com/shops/omiya-hikawa/",
+          "https://musashiichinomiya-hikawa.or.jp/",
+          "https://visitsaitamacity.jp/spots/53"
+        ]
+      }
     },
     {
       "id": "omiya--bibli",
@@ -65,7 +78,20 @@
         "image": "/art/walks/omiya/bibli.webp",
         "alt": "Bibli的日系水彩插圖"
       },
-      "recommendation": "先看看舊圖書館改造後的公共空間與當天營業的小店。"
+      "recommendation": "先看看舊圖書館改造後的公共空間與當天營業的小店。",
+      "canonicalArea": {
+        "id": "omiya",
+        "name": "大宮冰川參道",
+        "href": "/walks/omiya/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://bibli.jp/",
+          "https://visitsaitamacity.jp/features/1",
+          "https://www.city.saitama.lg.jp/kosodate/topics/p127809.html"
+        ]
+      }
     },
     {
       "id": "omiya--dango",
@@ -98,7 +124,20 @@
         "image": "/art/walks/omiya/dango.webp",
         "alt": "氷川だんご屋的日系水彩插圖"
       },
-      "recommendation": "在參道旁挑一份團子短暫休息，不必為排隊壓縮看展時間。"
+      "recommendation": "在參道旁挑一份團子短暫休息，不必為排隊壓縮看展時間。",
+      "canonicalArea": {
+        "id": "omiya",
+        "name": "大宮冰川參道",
+        "href": "/walks/omiya/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://bibli.jp/",
+          "https://visitsaitamacity.jp/features/1",
+          "https://www.city.saitama.lg.jp/kosodate/topics/p127809.html"
+        ]
+      }
     },
     {
       "id": "omiya--culture",
@@ -131,7 +170,12 @@
         "image": "/art/walks/omiya/culture.webp",
         "alt": "氷川之杜文化館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omiya",
+        "name": "大宮冰川參道",
+        "href": "/walks/omiya/"
+      }
     },
     {
       "id": "omiya--sando",
@@ -164,7 +208,12 @@
         "image": "/art/walks/omiya/sando.webp",
         "alt": "氷川參道的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omiya",
+        "name": "大宮冰川參道",
+        "href": "/walks/omiya/"
+      }
     },
     {
       "id": "omiya--shrine",
@@ -197,7 +246,20 @@
         "image": "/art/walks/omiya/shrine.webp",
         "alt": "武藏一宮氷川神社的日系水彩插圖"
       },
-      "recommendation": "通過鳥居參拜，留意神橋與社殿。"
+      "recommendation": "通過鳥居參拜，留意神橋與社殿。",
+      "canonicalArea": {
+        "id": "omiya",
+        "name": "大宮冰川參道",
+        "href": "/walks/omiya/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://tokiwacoffee.com/shops/omiya-hikawa/",
+          "https://musashiichinomiya-hikawa.or.jp/",
+          "https://visitsaitamacity.jp/spots/53"
+        ]
+      }
     },
     {
       "id": "omiya--manawa",
@@ -230,7 +292,12 @@
         "image": "/art/walks/omiya/manawa.webp",
         "alt": "manawa café的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omiya",
+        "name": "大宮冰川參道",
+        "href": "/walks/omiya/"
+      }
     },
     {
       "id": "omiya--park",
@@ -263,7 +330,20 @@
         "image": "/art/walks/omiya/park.webp",
         "alt": "大宮公園的日系水彩插圖"
       },
-      "recommendation": "選一段公園步道，再往北大宮站離開。"
+      "recommendation": "選一段公園步道，再往北大宮站離開。",
+      "canonicalArea": {
+        "id": "omiya",
+        "name": "大宮冰川參道",
+        "href": "/walks/omiya/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://tokiwacoffee.com/shops/omiya-hikawa/",
+          "https://musashiichinomiya-hikawa.or.jp/",
+          "https://visitsaitamacity.jp/spots/53"
+        ]
+      }
     },
     {
       "id": "omiya--zoo",
@@ -296,7 +376,12 @@
         "image": "/art/walks/omiya/zoo.webp",
         "alt": "大宮公園小動物園的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omiya",
+        "name": "大宮冰川參道",
+        "href": "/walks/omiya/"
+      }
     },
     {
       "id": "omiya--museum",
@@ -329,7 +414,20 @@
         "image": "/art/walks/omiya/museum.webp",
         "alt": "埼玉縣立歷史與民俗博物館的日系水彩插圖"
       },
-      "recommendation": "挑感興趣的生活器物與地方故事細看，再往北大宮站離開。"
+      "recommendation": "挑感興趣的生活器物與地方故事細看，再往北大宮站離開。",
+      "canonicalArea": {
+        "id": "omiya",
+        "name": "大宮冰川參道",
+        "href": "/walks/omiya/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://bibli.jp/",
+          "https://visitsaitamacity.jp/features/1",
+          "https://www.city.saitama.lg.jp/kosodate/topics/p127809.html"
+        ]
+      }
     }
   ],
   "routes": [
@@ -374,13 +472,21 @@
         "omiya--sando": "順路可選：一條綠蔭大道，串起大宮的日常。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "omiya--dango": "順路可選：烤團子的香氣，留在參道旁。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/omiya/sando.webp",
+      "art": "/art/walks/omiya/coffee.webp",
       "highlightIds": [
         "omiya--coffee",
         "omiya--shrine",
         "omiya--park"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://tokiwacoffee.com/shops/omiya-hikawa/",
+          "https://musashiichinomiya-hikawa.or.jp/",
+          "https://visitsaitamacity.jp/spots/53"
+        ]
+      }
     },
     {
       "id": "omiya-living-history",
@@ -429,14 +535,39 @@
         "omiya--dango",
         "omiya--museum"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://bibli.jp/",
+          "https://visitsaitamacity.jp/features/1",
+          "https://www.city.saitama.lg.jp/kosodate/topics/p127809.html"
+        ]
+      }
     }
   ],
   "defaultSelection": "omiya-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "omiya",
+    "name": "大宮冰川參道",
+    "kind": "walk",
+    "scope": "大宮站東側接冰川參道北段、武藏一宮冰川神社與大宮公園。",
+    "includes": "高鼻町、冰川之杜、神社與公園、歷史民俗博物館",
+    "excludes": "大宮盆栽村、鐵道博物館與車站西側另區。",
+    "basis": "官方散步路線沿冰川參道至神社與大宮公園；盆栽村另有獨立路線。",
+    "sourceUrls": [
+      "https://visitsaitamacity.jp/courses/5"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

@@ -38,6 +38,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E6%B0%A3%E8%B1%A1%E7%A5%9E%E7%A4%BE/@35.7047297,139.6510269,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f287ee594475:0x86ecd0e432ebb46f!8m2!3d35.7047297!4d139.6510269!16s%2Fg%2F11c6w1wzm2?entry=tts&g_ep=EgoyMDI1MDcyOC4wIPu8ASoASAFQAw%3D%3D&skid=55602126-8ea0-47c2-ab5e-2a923ead0850"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_fb448694f541d16f.webp",
+        "alt": "気象神社的日系水彩插圖"
       }
     },
     {
@@ -88,6 +92,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/3VbVgKZBdqFxeYM6A"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_6556fa89882cf559.webp",
+        "alt": "貝せん的日系水彩插圖"
       }
     },
     {
@@ -116,7 +124,7 @@
           "url": "https://www.youtube.com/watch?v=Q6XluXIKSm8"
         }
       ],
-      "official": null,
+      "official": "https://map.torikizoku.co.jp/detail/51/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -126,11 +134,15 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=4603337018584933965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_cb8cd0052c36fed1.webp",
+        "alt": "烤雞串 鳥貴族 高圓寺北口店的日系水彩插圖"
       }
     },
     {
       "id": "koenji--p_fb348b69e46c0a50",
-      "name": "新カステラ",
+      "name": "新カステラ（高円寺北舊址）",
       "address": "東京都杉並区高円寺北3-21-5",
       "group": "sights",
       "categoryLabel": "景點",
@@ -139,7 +151,7 @@
         "「新カステラ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都杉並区高円寺北3-21-5。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "保留影片中的高円寺北3-21-5舊址。店家於2022年遷至高円寺南4-32-5；新址目前食べログ標為掲載保留，營運狀態待確認。插圖依2019年北口舊店實景製作。",
       "coordinate": {
         "lat": 35.706062,
         "lng": 139.647949,
@@ -166,16 +178,20 @@
           "seconds": 456
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/tokyo/A1319/A131904/13233541/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_fb348b69e46c0a50"
         ],
-        "status": "source-record",
+        "status": "reported-relocated",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E6%96%B0%E3%82%AB%E3%82%B9%E3%83%86%E3%83%A9/@35.7050244,139.6503715,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f36ff655b793:0xc38423766cde159e!8m2!3d35.7050244!4d139.6503715!16s%2Fg%2F11h53n47cl?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_fb348b69e46c0a50.webp",
+        "alt": "新カステラ（高円寺北舊址）的日系水彩插圖"
       }
     },
     {
@@ -189,7 +205,7 @@
         "「Ailnoir （アイノワール）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都杉並区高円寺南2-37-13 ハイム山川 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "note": "食べログ與散歩の達人已將 Ailnoir 標示為閉店；保留影片與高円寺南2-37-13原址紀錄，插圖依2022年店面照片製作。",
       "coordinate": {
         "lat": 35.701416,
         "lng": 139.654175,
@@ -210,21 +226,25 @@
           "seconds": 114
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/tokyo/A1319/A131904/13162480/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_04bd4acce26ada74"
         ],
-        "status": "source-record",
+        "status": "reported-closed",
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/place/Ail+noir/@35.701358,139.6542449,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f28942c04965:0x7c82eda3d9a329f4!8m2!3d35.701358!4d139.6542449!16s%2Fg%2F1ptxg3c66?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_04bd4acce26ada74.webp",
+        "alt": "Ailnoir （アイノワール）的日系水彩插圖"
       }
     },
     {
       "id": "koenji--p_a25423a8afe2669f",
-      "name": "Aruza Dokushoukan",
+      "name": "アール座読書館",
       "address": "東京都杉並区高円寺南3-57-6 2F",
       "group": "sights",
       "categoryLabel": "其他",
@@ -261,6 +281,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/AxVqbqawtpjzKBsk7"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_a25423a8afe2669f.webp",
+        "alt": "アール座読書館的日系水彩插圖"
       }
     },
     {
@@ -305,6 +329,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=16545424658776011234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_5e43c6527a559e9a.webp",
+        "alt": "BREAD AND BISTRO FLAT的日系水彩插圖"
       }
     },
     {
@@ -345,6 +373,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=17913667289439532855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_c4a949206cdbf91a.webp",
+        "alt": "CURRY SHOP Kujira Koenji的日系水彩插圖"
       }
     },
     {
@@ -387,18 +419,22 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/JULES+VERNE+COFFEE+%E2%9D%B2HARUKANARU+COFFEE%E2%9D%B3/@35.7053219,139.6440028,17z/data=!3m1!4b1!4m6!3m5!1s0x6022733bd45656c5:0x48986908e1b469cc!8m2!3d35.7053219!4d139.6440028!16s%2Fg%2F12hlpywjj?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_77b60b0960cfad50.webp",
+        "alt": "JULES VERNE COFFEE／ジュールヴェルヌコーヒー的日系水彩插圖"
       }
     },
     {
       "id": "koenji--p_99207d9a2b505c88",
       "name": "Kiarry's キアリーズ",
-      "address": "",
+      "address": "東京都杉並区高円寺南2-21-8",
       "group": "sights",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Kiarry's キアリーズ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都杉並区高円寺南2-21-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -417,7 +453,7 @@
           "seconds": 979
         }
       ],
-      "official": null,
+      "official": "https://koenjilook.com/kiarrys/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -427,6 +463,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Kiarrys/@35.7006999,139.6475246,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f26303bb9d95:0x4bf11ff30b0cf4e6!8m2!3d35.7006999!4d139.6475246!16s%2Fg%2F1v9402ww?entry=tts&g_ep=EgoyMDI1MDcyOC4wIPu8ASoASAFQAw%3D%3D&skid=4fb9b2d7-7be6-49ae-abf2-01338648127c"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_99207d9a2b505c88.webp",
+        "alt": "Kiarry's キアリーズ的日系水彩插圖"
       }
     },
     {
@@ -468,18 +508,22 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/ikGJSWhZkupwg6jq5"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_40be30249fedb2a5.webp",
+        "alt": "Kōenji Station的日系水彩插圖"
       }
     },
     {
       "id": "koenji--p_f9d66d426f235979",
-      "name": "Kōenji Temple",
-      "address": "",
+      "name": "宿鳳山 高圓寺",
+      "address": "東京都杉並区高円寺南4-18-11",
       "group": "sights",
       "categoryLabel": "景點",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Kōenji Temple」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都杉並区高円寺南4-18-11。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -509,6 +553,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/2k95bcKaxV4449Dn8"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_f9d66d426f235979.webp",
+        "alt": "宿鳳山 高圓寺的日系水彩插圖"
       }
     },
     {
@@ -550,6 +598,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/wYQbjzStdCTbwV3x5"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_8126490a810b1dcd.webp",
+        "alt": "LOCAL - Gallery and books的日系水彩插圖"
       }
     },
     {
@@ -603,6 +655,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=NEYO%C2%A0%EF%BC%88%E3%83%8D%E3%83%A8%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-32-5%C2%A0%E4%B8%AD%E5%B1%8B%E3%83%93%E3%83%AB+1F"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_bf5abad80c02c192.webp",
+        "alt": "NEYO （ネヨ）的日系水彩插圖"
       }
     },
     {
@@ -648,6 +704,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=11985498134139093766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_cbb74abc5d988f50.webp",
+        "alt": "POEM Mano A Mano Coffee的日系水彩插圖"
       }
     },
     {
@@ -689,6 +749,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/Q5ZEGLDEPGcF8NJT8"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_e6df817165135ee2.webp",
+        "alt": "Tata bookshop / gallery的日系水彩插圖"
       }
     },
     {
@@ -733,18 +797,22 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=TAW.%C2%A0%EF%BC%88%E3%82%BF%E3%82%A6%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-7-6"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_1617db2bc235c573.webp",
+        "alt": "TAW. （タウ）的日系水彩插圖"
       }
     },
     {
       "id": "koenji--p_ce817611afb28eb9",
-      "name": "YakinikuCocochi",
-      "address": "3-chōme-22-8 Kōenjikita, Suginami City, Tokyo 166-0002",
+      "name": "焼肉ここち 市場店",
+      "address": "東京都杉並区高円寺北3-22-8 大一市場",
       "group": "food",
       "categoryLabel": "餐廳",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「YakinikuCocochi」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-22-8 Kōenjikita, Suginami City, Tokyo 166-0002。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都杉並区高円寺北3-22-8 大一市場。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -763,7 +831,7 @@
           "seconds": 158
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/yakiniku_cocochi/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -773,11 +841,15 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=955084152082569504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_ce817611afb28eb9.webp",
+        "alt": "焼肉ここち 市場店的日系水彩插圖"
       }
     },
     {
       "id": "koenji--p_081026cd08014ba1",
-      "name": "Za Kōenji",
+      "name": "座・高円寺",
       "address": "",
       "group": "sights",
       "categoryLabel": "其他",
@@ -804,7 +876,7 @@
           "seconds": 460
         }
       ],
-      "official": null,
+      "official": "https://za-koenji.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -814,6 +886,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/9idCPXrJKXEuQdkWA"
+      },
+      "illustration": {
+        "image": "/art/source-library/koenji--p_081026cd08014ba1.webp",
+        "alt": "座・高円寺的日系水彩插圖"
       }
     }
   ],

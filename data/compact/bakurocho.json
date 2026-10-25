@@ -1,0 +1,549 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "nihonbashi--p_c898d3b39671e087",
+      "name": "abno",
+      "address": "東京都中央区日本橋馬喰町2-2-1 DDD HOTEL 2F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「abno」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋馬喰町2-2-1 DDD HOTEL 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.695271999999996,
+        "lng": 139.7836202,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "JXalNTTJ2EQ",
+          "title": "BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2025",
+          "url": "https://www.youtube.com/watch?v=JXalNTTJ2EQ"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "P1Ci6oY0HR8",
+          "title": "【東京モーニング10選】500円で食べ放題！？マツコも驚く2時間待ちの大行列朝ごはん！",
+          "url": "https://www.youtube.com/watch?v=P1Ci6oY0HR8"
+        }
+      ],
+      "official": "https://dddhotel.jp/abno/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c898d3b39671e087"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=17932629455044296576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_c898d3b39671e087.webp",
+        "alt": "abno的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "bakurocho",
+        "name": "馬喰町・小傳馬町",
+        "href": "/walks/bakurocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://musubi-nihonbashi.jp/",
+          "https://dddhotel.jp/abno/"
+        ]
+      },
+      "recommendation": "走向馬喰町，在 abno 留一段咖啡時間。"
+    },
+    {
+      "id": "kuramae--p_2e3d82ad3745c664",
+      "name": "はなび 東神田店（舊址）",
+      "address": "東京都千代田区東神田2-10-14 日本センヂミアビル1F",
+      "group": "food",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹的烏龍麵與串揚店「はなび 東神田店」，保留東神田2-10-14舊址紀錄。",
+        "原始資料記錄的地址為 東京都千代田区東神田2-10-14 日本センヂミアビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "影片原始食べログ連結為東神田店，先前誤配為藏前的ボン花火，已修正。舊址食べログ已標示閉店；現行店家頁位於東神田2-6-9 Daiwaプレイス東神田2 1F，2026年訪客記錄亦確認搬遷。插畫依舊店照片製作。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9D%B1%E7%A5%9E%E7%94%B02%E4%B8%81%E7%9B%AE10-14",
+        "lat": 35.695457,
+        "lng": 139.781326,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "舊址的地址代表點，非指定入口。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "cJpFIy7RiLA",
+          "title": "【東京食べ放題7選】1,000円でおつりが来る！？500円中華食べ放題、700円コーヒートースト食べ飲み放題など！",
+          "url": "https://www.youtube.com/watch?v=cJpFIy7RiLA"
+        }
+      ],
+      "official": "https://www.hotpepper.jp/strJ004536302/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2e3d82ad3745c664"
+        ],
+        "status": "relocated",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_2e3d82ad3745c664.webp",
+        "alt": "はなび 東神田店（舊址）的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "bakurocho",
+        "name": "馬喰町・小傳馬町",
+        "href": "/walks/bakurocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_0cc12fa5c4cca98d",
+      "name": "BERTH COFFEE",
+      "address": "東京都中央区日本橋大伝馬町15-2 CITAN 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Berth Coffee」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋大伝馬町15-2 CITAN 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6915696,
+        "lng": 139.7813515,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "IVKuzZmnQ0g",
+          "title": "BEST 10 MUST - VISIT SPOTS IN TOKYO, JAPAN 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=IVKuzZmnQ0g"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "8b2OxMJC_RQ",
+          "title": "Life in Tokyo 🗼 Discovering Neighborhoods Along the Asakusa Line: Asakusa, Kuramae & Beyond",
+          "url": "https://www.youtube.com/watch?v=8b2OxMJC_RQ"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "NlkUoRI0DSI",
+          "title": "Tokyo vlog｜Yokohama in 24 Hours",
+          "url": "https://www.youtube.com/watch?v=NlkUoRI0DSI"
+        }
+      ],
+      "official": "https://backpackersjapan.co.jp/citan/coffee",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0cc12fa5c4cca98d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=12256368811191862656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_0cc12fa5c4cca98d.webp",
+        "alt": "BERTH COFFEE的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "bakurocho",
+        "name": "馬喰町・小傳馬町",
+        "href": "/walks/bakurocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://ovgobaker.com/pages/location",
+          "https://backpackersjapan.co.jp/citan/coffee"
+        ]
+      },
+      "recommendation": "在 CITAN 一樓的 BERTH 喝杯咖啡，看看街邊的日常。"
+    },
+    {
+      "id": "nihonbashi--p_2786c19025595e05",
+      "name": "ovgo Baker Edo St.",
+      "address": "東京都中央区日本橋小伝馬町10-8",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ovgo B.A.K.E.R」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋小伝馬町10-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "小傳馬町10-8為Edo St.店，已於2024年1月重新開業；與期間限定的East店不同。",
+      "coordinate": {
+        "lat": 35.691544,
+        "lng": 139.779404,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA10-8",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "IRLtahWVI_Q",
+          "title": "cafe vlog｜2021夏NEW OPENカフェ8選！新宿／表参道／麻布十番／小伝馬町／...etc",
+          "url": "https://www.youtube.com/watch?v=IRLtahWVI_Q",
+          "time": "03:45",
+          "seconds": 225
+        }
+      ],
+      "official": "https://ovgobaker.com/pages/location",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2786c19025595e05"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=ovgo+B.A.K.E.R+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA10-8"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_2786c19025595e05.webp",
+        "alt": "ovgo Baker Edo St.的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "bakurocho",
+        "name": "馬喰町・小傳馬町",
+        "href": "/walks/bakurocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://ovgobaker.com/pages/location",
+          "https://backpackersjapan.co.jp/citan/coffee"
+        ]
+      },
+      "recommendation": "在 ovgo 挑一份植物性餅乾，沿巷弄往大傳馬町走。"
+    },
+    {
+      "id": "nihonbashi--p_1137155245e1f6ba",
+      "name": "musubi 結",
+      "address": "東京都中央区日本橋大伝馬町3-9 グリーンパーク日本橋1F",
+      "group": "food",
+      "categoryLabel": "選物與抹茶",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "位於小傳馬町的和風選物店，陳列日用雜貨、食品與生活用品，也提供以外帶為主的抹茶、咖啡與輕食。原CAFE LIFE於2026年4月更新為musubi 結，原影片可能呈現改裝前的樣貌。",
+        "原始資料記錄的地址為 東京都中央区日本橋大伝馬町3-9 グリーンパーク日本橋1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "2026年4月1日由CAFE LIFE更新店名與經營概念，現以選物零售及外帶飲食為主。",
+      "coordinate": {
+        "lat": 35.6899158,
+        "lng": 139.7781999,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "iatOTL9fWJA",
+          "title": "Let’s feel Edo period with Tokyo Nihonbashi traditional lunch",
+          "url": "https://www.youtube.com/watch?v=iatOTL9fWJA",
+          "time": "05:28",
+          "seconds": 328
+        }
+      ],
+      "official": "https://musubi-nihonbashi.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1137155245e1f6ba"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11464998762935362835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_1137155245e1f6ba.webp",
+        "alt": "musubi 結的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "bakurocho",
+        "name": "馬喰町・小傳馬町",
+        "href": "/walks/bakurocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://musubi-nihonbashi.jp/",
+          "https://dddhotel.jp/abno/"
+        ]
+      },
+      "recommendation": "在 musubi 結看看生活選物，再沿大傳馬町街巷慢慢走。"
+    },
+    {
+      "id": "nihonbashi--p_234fab6d0ddf2c6c",
+      "name": "chigaya bakery 日本橋店（閉店紀錄）",
+      "address": "東京都中央区日本橋本町3-11-5 commissary内",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "Chigaya曾在日本橋COMMISSARY裡販售麵包與甜甜圈，原影片記錄了當時的櫃檯與甜點。訪店報導已更新為閉店，食べログ也停止確認營業資訊，因此保留為歷史紀錄。",
+        "原始資料記錄的地址為 東京都中央区日本橋本町3-11-5 commissary内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "Let’s ENJOY TOKYO於2025年11月更新為閉店；食べログ列為掲載保留，未查到確切閉店日期。不列入可造訪行程。",
+      "coordinate": {
+        "lat": 35.689209,
+        "lng": 139.777252,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%9C%AC%E7%94%BA3-11-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "M16TwoRib7o",
+          "title": "cafe vlog｜東京ドーナッツ巡り7選！原宿／池袋／日本橋／永田町／...etc",
+          "url": "https://www.youtube.com/watch?v=M16TwoRib7o",
+          "time": "0:12",
+          "seconds": 12
+        }
+      ],
+      "official": "https://www.enjoytokyo.jp/article/112054/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_234fab6d0ddf2c6c"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Chigaya+Bakery/@35.6890174,139.7773747,17z/data=!3m1!4b1!4m6!3m5!1s0x601889b2cc5684c5:0x2d67e9dcba9f4dbd!8m2!3d35.6890174!4d139.7773747!16s%2Fg%2F11kpst8vgk?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_234fab6d0ddf2c6c.webp",
+        "alt": "chigaya bakery 日本橋店（閉店紀錄）的日系水彩插圖"
+      },
+      "order": 6,
+      "canonicalArea": {
+        "id": "bakurocho",
+        "name": "馬喰町・小傳馬町",
+        "href": "/walks/bakurocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_0083198ddf2fb655",
+      "name": "CASTOR",
+      "address": "東京都中央区日本橋本町4-13-8 朱ビル 1F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「CASTOR （ カストール）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋本町4-13-8 朱ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.691067,
+        "lng": 139.776733,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%9C%AC%E7%94%BA4-13-8",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "CImZHtbH_hs",
+          "title": "【東京】秋の味覚を楽しむスイーツ巡り8選🍠~2026~",
+          "url": "https://www.youtube.com/watch?v=CImZHtbH_hs",
+          "time": "14:11",
+          "seconds": 851
+        }
+      ],
+      "official": "https://2castor.com/profile/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0083198ddf2fb655"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=CASTOR%C2%A0%EF%BC%88+%E3%82%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%9C%AC%E7%94%BA4-13-8%C2%A0%E6%9C%B1%E3%83%93%E3%83%AB+1F"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_0083198ddf2fb655.webp",
+        "alt": "CASTOR的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "bakurocho",
+        "name": "馬喰町・小傳馬町",
+        "href": "/walks/bakurocho/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "bakurocho-cookies-and-coffee",
+      "name": "小傳馬町，餅乾與旅人咖啡",
+      "ids": [
+        "nihonbashi--p_2786c19025595e05",
+        "nihonbashi--p_0cc12fa5c4cca98d"
+      ],
+      "stopNotes": {
+        "nihonbashi--p_2786c19025595e05": "在 ovgo 挑一份植物性餅乾，沿巷弄往大傳馬町走。",
+        "nihonbashi--p_0cc12fa5c4cca98d": "在 CITAN 一樓的 BERTH 喝杯咖啡，看看街邊的日常。"
+      },
+      "start": {
+        "name": "小傳馬町站",
+        "address": "東京都中央区日本橋小伝馬町 小伝馬町駅",
+        "access": "東京 Metro 日比谷線"
+      },
+      "end": {
+        "name": "馬喰町站",
+        "address": "東京都中央区日本橋馬喰町 馬喰町駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "小傳馬町，餅乾與旅人咖啡",
+      "note": "在本區慢慢走，必訪以外的地點依興趣停留。時間包含步行、停留與自由探索，候位另計。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://ovgobaker.com/pages/location",
+          "https://backpackersjapan.co.jp/citan/coffee"
+        ]
+      },
+      "highlightIds": [
+        "nihonbashi--p_2786c19025595e05",
+        "nihonbashi--p_0cc12fa5c4cca98d"
+      ],
+      "art": "/art/source-library/nihonbashi--p_2786c19025595e05.webp",
+      "optionalMinutes": 30
+    },
+    {
+      "id": "bakurocho-karinto-and-abno",
+      "name": "街角選物與旅館裡的咖啡",
+      "ids": [
+        "nihonbashi--p_1137155245e1f6ba",
+        "nihonbashi--p_c898d3b39671e087"
+      ],
+      "stopNotes": {
+        "nihonbashi--p_1137155245e1f6ba": "在 musubi 結看看生活選物，再沿大傳馬町街巷慢慢走。",
+        "nihonbashi--p_c898d3b39671e087": "走向馬喰町，在 abno 留一段咖啡時間。"
+      },
+      "start": {
+        "name": "小傳馬町站",
+        "address": "東京都中央区日本橋小伝馬町 小伝馬町駅",
+        "access": "東京 Metro 日比谷線"
+      },
+      "end": {
+        "name": "馬喰町站",
+        "address": "東京都中央区日本橋馬喰町 馬喰町駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "街角選物與旅館裡的咖啡",
+      "note": "在本區慢慢走，必訪以外的地點依興趣停留。時間包含步行、停留與自由探索，候位另計。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://musubi-nihonbashi.jp/",
+          "https://dddhotel.jp/abno/"
+        ]
+      },
+      "highlightIds": [
+        "nihonbashi--p_1137155245e1f6ba",
+        "nihonbashi--p_c898d3b39671e087"
+      ],
+      "art": "/art/source-library/nihonbashi--p_1137155245e1f6ba.webp",
+      "optionalMinutes": 30
+    }
+  ],
+  "defaultSelection": "bakurocho-cookies-and-coffee",
+  "libraryCoverage": {
+    "added": 7,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_c898d3b39671e087",
+      "p_2e3d82ad3745c664",
+      "p_0cc12fa5c4cca98d",
+      "p_2786c19025595e05",
+      "p_1137155245e1f6ba",
+      "p_234fab6d0ddf2c6c",
+      "p_0083198ddf2fb655"
+    ]
+  },
+  "scope": {
+    "id": "bakurocho",
+    "name": "馬喰町・小傳馬町",
+    "kind": "walk",
+    "parentWalk": "nihonbashi",
+    "scope": "小傳馬町站經大傳馬町、橫山町至馬喰町站，北含車站北側東神田二丁目至神田川的街廓。",
+    "includes": "小傳馬町站經大傳馬町、橫山町至馬喰町站，北含車站北側東神田二丁目至神田川的街廓。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.nihonbashi-tokyo.jp/discover/",
+      "https://menu-tokyo.jp/search/detail.php?lang=jp&lat=35.69554900&lng=139.78140600&shop_id=1600114"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 7
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kuramae",
+    "nihonbashi"
+  ]
+}

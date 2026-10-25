@@ -28,7 +28,7 @@
           "seconds": 82
         }
       ],
-      "official": null,
+      "official": "https://nakadabakery.sacri-store.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -38,6 +38,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=2272180136265370938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_f80fc9bfe72ab20f.webp",
+        "alt": "中田ベーカリー的日系水彩插圖"
       }
     },
     {
@@ -82,6 +86,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Yuehecha/@35.705722,139.5775458,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee48c70f24b3:0x4570171de3b102f2!8m2!3d35.705722!4d139.5775458!16s%2Fg%2F1th1v29f?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_1e1dbc9a535ca172.webp",
+        "alt": "台湾茶藝館 月和茶 吉祥寺店 （ユエフウチャ）的日系水彩插圖"
       }
     },
     {
@@ -131,6 +139,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=11755254195243829755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_6e160efa9e48596b.webp",
+        "alt": "四步 選品店的日系水彩插圖"
       }
     },
     {
@@ -173,6 +185,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/place/%E7%99%BD%E9%AB%AD%E6%B3%A1%E8%8A%99%E5%B7%A5%E6%88%BF+%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97/@35.7014532,139.5825677,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef6546f38b69:0x80bb8bdf086556f7!8m2!3d35.7014532!4d139.5825677!16s%2Fg%2F11gwknl08l?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_150b1cd36fc48f3b.webp",
+        "alt": "白髭のシュークリーム工房 吉祥寺店的日系水彩插圖"
       }
     },
     {
@@ -220,18 +236,22 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=15726371054052479114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_dc70911ce703e354.webp",
+        "alt": "吉祥寺SUN ROAD商店街的日系水彩插圖"
       }
     },
     {
       "id": "kichijoji--p_94ccf769cbf0d2b8",
       "name": "吉祥寺プティット村",
-      "address": "",
+      "address": "東京都武蔵野市吉祥寺本町2-33-2",
       "group": "sights",
       "categoryLabel": "景點",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「吉祥寺プティット村」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町2-33-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -267,6 +287,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Kichij%C5%8Dji+Petit+Mura/@35.7045998,139.5746884,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee494564f00b:0x10f918221a23dade!8m2!3d35.7045998!4d139.5746884!16s%2Fg%2F11fz8xrblm?entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_94ccf769cbf0d2b8.webp",
+        "alt": "吉祥寺プティット村的日系水彩插圖"
       }
     },
     {
@@ -307,6 +331,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=9058918658014451966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_7f2ead42564eabc1.webp",
+        "alt": "肉山的日系水彩插圖"
       }
     },
     {
@@ -345,6 +373,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=5578845799133552367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_f8cfae7c4598ffc5.webp",
+        "alt": "咖啡館 chai break的日系水彩插圖"
       }
     },
     {
@@ -391,6 +423,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=7189875142270522751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_48f2de742a36fa5c.webp",
+        "alt": "Blue Sky Coffee的日系水彩插圖"
       }
     },
     {
@@ -435,6 +471,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Caf%C3%A9+du+Li%C3%A8vre+(Bunny+House)/@35.699016,139.573124,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee35e8153071:0xd0c97d12709f5033!8m2!3d35.699016!4d139.573124!16s%2Fg%2F1tk1n09w?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_aba6b2bf0d69dad4.webp",
+        "alt": "cafe du lievre うさぎ館 吉祥寺的日系水彩插圖"
       }
     },
     {
@@ -479,6 +519,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Lumiere/@35.7022581,139.580084,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee38128c8d6b:0x5b53dd7cf9f7de3e!8m2!3d35.7022581!4d139.580084!16s%2Fg%2F11xgsgst5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_4269210f45c83916.webp",
+        "alt": "Cafe Lumiere(カフェ ルミエール)的日系水彩插圖"
       }
     },
     {
@@ -492,7 +536,7 @@
         "「Cafe salon & Bar Arg」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−18−２３ Minamicho Garden, 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "2026-10-26 核對官網：咖啡部已於 3 月 5 日恢復營業；酒吧仍因改裝準備暫停，重新開放日期另行公告。出發前請再確認。",
       "coordinate": {
         "lat": 35.701167,
         "lng": 139.579328,
@@ -515,7 +559,7 @@
           "url": "https://www.youtube.com/watch?v=FebbZm7bZCY"
         }
       ],
-      "official": null,
+      "official": "https://www.arg-japan.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -525,18 +569,22 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=13903869794625776119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_5872c116235617b7.webp",
+        "alt": "Cafe salon & Bar Arg的日系水彩插圖"
       }
     },
     {
       "id": "kichijoji--p_517cc986a7d87ba7",
       "name": "Cat cafe てまりのおしろ",
-      "address": "",
+      "address": "東京都武蔵野市吉祥寺本町2-33-2 吉祥寺プティット村",
       "group": "food",
       "categoryLabel": "咖啡",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Cat cafe てまりのおしろ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町2-33-2 吉祥寺プティット村。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -555,7 +603,7 @@
           "seconds": 844
         }
       ],
-      "official": null,
+      "official": "https://temarinooshiro.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -565,6 +613,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Temari+No+Oshiro/@35.7045889,139.5746969,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee494564f00b:0xcaeeea4e9ba7c588!8m2!3d35.7045889!4d139.5746969!16s%2Fg%2F11hbrpngv8?entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_517cc986a7d87ba7.webp",
+        "alt": "Cat cafe てまりのおしろ的日系水彩插圖"
       }
     },
     {
@@ -605,6 +657,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com.tw/maps/place/Corn+Barley/@35.7035204,139.4169016,11z/data=!4m7!3m6!1s0x6018ef9289dbfc91:0xc6e1b777da6d2596!8m2!3d35.7035204!4d139.5816965!15sCgtDb3JuIEJhcmxleVoNIgtjb3JuIGJhcmxleZIBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11fpd6_5j0?entry=tts&g_ep=EgoyMDI0MDgyNi4wKgBIAVAD"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_e3a9a9d054306c5d.webp",
+        "alt": "Corn Barley的日系水彩插圖"
       }
     },
     {
@@ -633,7 +689,7 @@
           "url": "https://www.youtube.com/watch?v=It4cS76rRSM"
         }
       ],
-      "official": null,
+      "official": "https://www.crayonhouse.co.jp/shop/pages/shop.aspx",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -643,6 +699,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=3141349727123340452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_cb8a5e8cba50ff7e.webp",
+        "alt": "Crayon House的日系水彩插圖"
       }
     },
     {
@@ -683,6 +743,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=11889922840241589079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_779e3432c8c95742.webp",
+        "alt": "Ibuki Udon Kichijoji的日系水彩插圖"
       }
     },
     {
@@ -727,26 +791,25 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/place/KANNON+COFFEE+kichijoji/@35.6907498,139.5711483,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef6d117181bf:0x1c61f6ba1bbafcbe!8m2!3d35.6907498!4d139.5711483!16s%2Fg%2F11n5l2lbrb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_1e37c0fe78ec1257.webp",
+        "alt": "KANNON COFFEE吉祥寺店(カンノンコーヒー)的日系水彩插圖"
       }
     },
     {
       "id": "kichijoji--p_b1aa292c554fce71",
-      "name": "Kichijoji",
+      "name": "吉祥寺街區（影片紀錄）",
       "address": "",
       "group": "sights",
       "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "caption": "街區散步與古著購物影片",
       "descriptionParagraphs": [
         "「Kichijoji」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
       ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.7031485,
-        "lng": 139.5798087,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
+      "note": "影片此章節為吉祥寺街區與古著購物，未列出特定店家；插圖以吉祥寺站前代表街景呈現，暫不放置店家地圖標記。",
+      "coordinate": null,
       "sources": [
         {
           "channel": "Hina Life in Japan",
@@ -767,6 +830,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E5%90%89%E7%A5%A5%E5%AF%BA%E8%BB%8A%E7%AB%99/data=!4m7!3m6!1s0x6018ee47f6226cc3:0x34e6b69989d52a4e!8m2!3d35.7031485!4d139.5798087!16s%2Fg%2F1tznmcvr!19sChIJw2wi9kfuGGARTirViZm25jQ?authuser=0&hl=zh-TW&rclk=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_b1aa292c554fce71.webp",
+        "alt": "吉祥寺街區（影片紀錄）的日系水彩插圖"
       }
     },
     {
@@ -797,7 +864,7 @@
           "seconds": 850
         }
       ],
-      "official": null,
+      "official": "https://kikicafe.theshop.jp/about",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -807,6 +874,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=13405406695890848810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_7fc9261079dd1cfd.webp",
+        "alt": "KIKi Cafe 吉祥寺的日系水彩插圖"
       }
     },
     {
@@ -864,6 +935,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Libert%C3%A9+P%C3%A2tisserie+Boulangerie+Tokyo+Kichij%C5%8Dji/@35.7058765,139.5773157,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee48cf5f6b9f:0x868bbdf20b2d7b4e!8m2!3d35.7058765!4d139.5773157!16s%2Fg%2F11h9__27v5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_0bbf2b9501ceef47.webp",
+        "alt": "LIBERTÉ PÂTISSERIE BOULANGERIE 東京本店的日系水彩插圖"
       }
     },
     {
@@ -898,7 +973,7 @@
           "seconds": 796
         }
       ],
-      "official": null,
+      "official": "https://melroseandmorgan.jp/pages/aboutus",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -908,6 +983,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/place/Melrose+and+Morgan+Kichijoji+Shop/@35.7090924,139.5743207,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef096c09ef5f:0x447ec8765fb725ec!8m2!3d35.7090924!4d139.5743207!16s%2Fg%2F11rstl6qqb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_80c5f46f31229ce2.webp",
+        "alt": "Melrose and Morgan （メルローズ アンド モーガン）的日系水彩插圖"
       }
     },
     {
@@ -946,6 +1025,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=14250221709862983261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_71fce2dd1f0ba0aa.webp",
+        "alt": "Mlesna Tea Tokyo的日系水彩插圖"
       }
     },
     {
@@ -986,6 +1069,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=10086207857384265421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_b805fa6ddf547529.webp",
+        "alt": "OVER COFFEE HUB (Coffee & Coworking)的日系水彩插圖"
       }
     },
     {
@@ -1026,6 +1113,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=11234568371062029738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_2737f387b183baff.webp",
+        "alt": "Pizzeria GG的日系水彩插圖"
       }
     },
     {
@@ -1054,7 +1145,7 @@
           "url": "https://www.youtube.com/watch?v=BKRRht8xk9I"
         }
       ],
-      "official": null,
+      "official": "https://poool.jp/about",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1064,6 +1155,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=14112806049168852768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_f18fbfef46e36302.webp",
+        "alt": "poooL的日系水彩插圖"
       }
     },
     {
@@ -1108,6 +1203,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sajilo+Cafe+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-36-8"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_af8aafb5a0b02c0e.webp",
+        "alt": "Sajilo Cafe的日系水彩插圖"
       }
     },
     {
@@ -1163,6 +1262,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=932964477376723205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_791e7342964ac3a7.webp",
+        "alt": "SUNDAY VEGAN的日系水彩插圖"
       }
     },
     {
@@ -1201,6 +1304,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=9518355402417079008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_c94ea4fe6f953c30.webp",
+        "alt": "Sushi Tomikawa的日系水彩插圖"
       }
     },
     {
@@ -1241,11 +1348,15 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=573281083070198444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_8318379e6d85acc7.webp",
+        "alt": "Tokyu Department Store Kichijoji Store的日系水彩插圖"
       }
     },
     {
       "id": "kichijoji--p_0b49693e62654562",
-      "name": "Yakiniku Miyuki En",
+      "name": "焼肉みゆき苑",
       "address": "〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−10−５ 三慶ビル 2階",
       "group": "food",
       "categoryLabel": "餐廳",
@@ -1271,7 +1382,7 @@
           "seconds": 474
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/tokyo/A1320/A132001/13270628/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1281,18 +1392,22 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=16490144661265249967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_0b49693e62654562.webp",
+        "alt": "焼肉みゆき苑的日系水彩插圖"
       }
     },
     {
       "id": "kichijoji--p_ff7f8ce817e4ddc2",
       "name": "いせや 公園店",
-      "address": "",
+      "address": "東京都武蔵野市吉祥寺南町1-15-8",
       "group": "shops",
       "categoryLabel": "購物",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「いせや 公園店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺南町1-15-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -1311,7 +1426,7 @@
           "seconds": 1194
         }
       ],
-      "official": null,
+      "official": "https://www.kichijoji-iseya.jp/publics/index/14/_0",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1321,6 +1436,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Iseya+Koen-ten/@35.70065,139.57814,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef7adb31c1dd:0x8b72a34fd23f7b26!8m2!3d35.70065!4d139.57814!16s%2Fg%2F1tdgpv_d?entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_ff7f8ce817e4ddc2.webp",
+        "alt": "いせや 公園店的日系水彩插圖"
       }
     },
     {
@@ -1365,20 +1484,24 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%97%E3%83%BC%E3%83%B3+%E6%8A%B9%E8%8C%B6%E8%A3%BD%E9%80%A0%E6%89%80+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-33-2"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_6cf905ca7452a75a.webp",
+        "alt": "カプーン 抹茶製造所的日系水彩插圖"
       }
     },
     {
       "id": "kichijoji--p_7ed9511870056fa4",
       "name": "クレープハウスCircus",
-      "address": "",
+      "address": "東京都武蔵野市吉祥寺本町1-12-13",
       "group": "sights",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「クレープハウスCircus」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町1-12-13。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "店頭告示由在地媒體於 2026-01-07 報導，預計 2028 年 3 月結束營業；2026–2027 年仍預定正常營業，並非目前已閉店。異動請以店頭公告為準。",
       "coordinate": {
         "lat": 35.7053604,
         "lng": 139.5809021,
@@ -1395,7 +1518,7 @@
           "seconds": 683
         }
       ],
-      "official": null,
+      "official": "https://gurumeguide.cpay.jp/shop/721606",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1405,6 +1528,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Cr%C3%AApe+House+Circus/@35.7053604,139.5809021,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee47ac39d35f:0x2c4b98e84290a2fd!8m2!3d35.7053604!4d139.5809021!16s%2Fg%2F1w8wb13g?q=Cr%C3%AApe+House+Circus,+%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%A0%E5%90%89%E7%A5%A5%E5%AF%BA%E3%83%93%E3%83%AB+1+Chome-12-13+Kichijoji+Honcho,+Musashino,+Tokyo+180-0004%E6%97%A5%E6%9C%AC&ftid=0x6018ee47ac39d35f:0x2c4b98e84290a2fd&lucs=,94231208,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_7ed9511870056fa4.webp",
+        "alt": "クレープハウスCircus的日系水彩插圖"
       }
     },
     {
@@ -1449,6 +1576,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9+%E3%81%AF%E3%81%A3%E3%81%B1+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-33-2+%E5%90%89%E7%A5%A5%E5%AF%BA%E3%83%97%E3%83%86%E3%82%A3%E3%83%83%E3%83%88%E6%9D%91"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_ccebea293404c2be.webp",
+        "alt": "ティーハウス はっぱ的日系水彩插圖"
       }
     },
     {
@@ -1493,11 +1624,15 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%F0%9F%8D%A9%E3%81%AF%E3%82%89%E3%83%89%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84+%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%93%E2%88%92%EF%BC%91%EF%BC%95"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_3b713381d8cda60b.webp",
+        "alt": "はらドーナッツ 吉祥寺店的日系水彩插圖"
       }
     },
     {
       "id": "kichijoji--p_ef86f6def7c79400",
-      "name": "ピワン",
+      "name": "ピワン（吉祥寺本町舊址）",
       "address": "東京都武蔵野市吉祥寺本町２丁目１４−７",
       "group": "sights",
       "categoryLabel": "景點",
@@ -1506,7 +1641,7 @@
         "「ピワン」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町２丁目１４−７。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "影片記錄的是吉祥寺本町 2-14-7 舊址；已於 2025 年 3 月遷至東京都三鷹市井の頭 3-31-16。此頁保留舊址紀錄與當時空間插畫，請勿依舊址前往。2026-10-26 核對官方新地址。",
       "coordinate": {
         "lat": 35.706524,
         "lng": 139.577591,
@@ -1527,28 +1662,32 @@
           "seconds": 855
         }
       ],
-      "official": null,
+      "official": "https://piwang.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_ef86f6def7c79400"
         ],
-        "status": "source-record",
+        "status": "relocated",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%AF%E3%83%B3+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%94%E2%88%92%EF%BC%97"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_ef86f6def7c79400.webp",
+        "alt": "ピワン（吉祥寺本町舊址）的日系水彩插圖"
       }
     },
     {
       "id": "kichijoji--p_7ec71078c5dda06e",
-      "name": "ボート売店",
-      "address": "",
+      "name": "井之頭公園船場売店（パークス井の頭スワン店）",
+      "address": "東京都三鷹市井の頭4-1-5 井之頭恩賜公園船場旁",
       "group": "shops",
       "categoryLabel": "購物",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「ボート売店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都三鷹市井の頭4-1-5 井之頭恩賜公園船場旁。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -1567,7 +1706,7 @@
           "seconds": 974
         }
       ],
-      "official": null,
+      "official": "https://shibukichi.net/2024/01/17/inokashirapark_boat/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1577,6 +1716,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Inokashira+Park+Boat+Store/@35.6995689,139.5770591,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee37a626a79d:0x849efdd9d5938685!8m2!3d35.6995689!4d139.5770591!16s%2Fg%2F11c6cy6sbb?q=Inokashira+Park+Boat+Store,+4+Chome-1-5+Inokashira,+Mitaka,+Tokyo+181-0001%E6%97%A5%E6%9C%AC&ftid=0x6018ee37a626a79d:0x849efdd9d5938685&lucs=,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_7ec71078c5dda06e.webp",
+        "alt": "井之頭公園船場売店（パークス井の頭スワン店）的日系水彩插圖"
       }
     },
     {
@@ -1615,6 +1758,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=2197431888597839816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_fb1e21949acd0c59.webp",
+        "alt": "ラウンジ＆ダイニング SORAE（ソラエ)的日系水彩插圖"
       }
     }
   ],

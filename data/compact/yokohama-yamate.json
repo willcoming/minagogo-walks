@@ -3,21 +3,25 @@
   "places": [
     {
       "id": "yokohama-yamate--p_567df4cf65d645bd",
-      "name": "Sushi Kissa Sususu",
-      "address": "〒231-0862 Kanagawa, Yokohama, Naka Ward, Yamatechō, １１０ 神奈川近代 文学館内",
+      "name": "鮨喫茶すすす",
+      "address": "神奈川県横浜市中区山手町110 神奈川近代文學館1F",
       "group": "food",
-      "categoryLabel": "餐廳",
+      "categoryLabel": "壽司・喫茶",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Sushi Kissa Sususu」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒231-0862 Kanagawa, Yokohama, Naka Ward, Yamatechō, １１０ 神奈川近代 文学館内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 神奈川県横浜市中区山手町110 神奈川近代文學館1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.4388411,
-        "lng": 139.6561851,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.438686,
+        "lng": 139.655563,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA110",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
       },
       "sources": [
         {
@@ -29,7 +33,7 @@
           "seconds": 2250
         }
       ],
-      "official": null,
+      "official": "https://www.kanabun.or.jp/guidance/facility/sususu/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -40,7 +44,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=13787692550849383459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 1
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_567df4cf65d645bd.webp",
+        "alt": "鮨喫茶すすす的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "recommendation": null
     },
     {
       "id": "yokohama-yamate--harbor",
@@ -73,7 +87,20 @@
         "image": "/art/walks/yokohama-yamate/harbor.webp",
         "alt": "港見丘公園的日系水彩插圖"
       },
-      "recommendation": "從山丘看港口，再前往車站。"
+      "recommendation": "從山丘看港口，再前往車站。",
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/gaikoukan/",
+          "https://www.enokitei.co.jp/",
+          "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html"
+        ]
+      }
     },
     {
       "id": "yokohama-yamate--111",
@@ -106,7 +133,12 @@
         "image": "/art/walks/yokohama-yamate/111.webp",
         "alt": "山手111番館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      }
     },
     {
       "id": "yokohama-yamate--british",
@@ -139,7 +171,12 @@
         "image": "/art/walks/yokohama-yamate/british.webp",
         "alt": "橫濱市英國館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      }
     },
     {
       "id": "yokohama-yamate--234",
@@ -172,7 +209,20 @@
         "image": "/art/walks/yokohama-yamate/234.webp",
         "alt": "山手234番館的日系水彩插圖"
       },
-      "recommendation": "走進昔日共同住宅，從空間格局想像山手生活。"
+      "recommendation": "走進昔日共同住宅，從空間格局想像山手生活。",
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://bluffbakery.com/aboutus/",
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/",
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/"
+        ]
+      }
     },
     {
       "id": "yokohama-yamate--enoki",
@@ -205,93 +255,24 @@
         "image": "/art/walks/yokohama-yamate/enoki.webp",
         "alt": "えの木てい的日系水彩插圖"
       },
-      "recommendation": "以紅茶或甜點安排一段休息。"
-    },
-    {
-      "id": "yokohama-yamate--p_c80f8af50707b75e",
-      "name": "横浜山手西洋館",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「横浜山手西洋館」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.4375353,
-        "lng": 139.6512917,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      "recommendation": "以紅茶或甜點安排一段休息。",
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
       },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "MluzdR_J4y0",
-          "title": "🇯🇵東京順遊最浪漫的城市就是橫濱了啦！｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=MluzdR_J4y0",
-          "time": "2:45",
-          "seconds": 165
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_c80f8af50707b75e"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com.tw/maps/place/Yokohama+Yamate+Seiyoukan/@35.4395169,139.6494626,16.75z/data=!4m5!3m4!1s0x60185d201e847885:0x4b081f1b982583d8!8m2!3d35.4375353!4d139.6512917?hl=zh-TW&coh=164777&entry=tt&shorturl=1"
-      },
-      "order": 7
-    },
-    {
-      "id": "yokohama-yamate--p_57f1a52b47d1ba4a",
-      "name": "Cafe Ehrismann",
-      "address": "1-chōme-77-4 Motomachi, Naka Ward, Yokohama, Kanagawa 231-0861",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Cafe Ehrismann」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-77-4 Motomachi, Naka Ward, Yokohama, Kanagawa 231-0861。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.4375854,
-        "lng": 139.6512697,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "WHexI6BjwLY",
-          "title": "The Best Guide Of Yokohama 2023: JAPAN TRAVEL",
-          "url": "https://www.youtube.com/watch?v=WHexI6BjwLY",
-          "time": "02:03",
-          "seconds": 123
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_57f1a52b47d1ba4a"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=11645962467603956847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 8
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/gaikoukan/",
+          "https://www.enokitei.co.jp/",
+          "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html"
+        ]
+      }
     },
     {
       "id": "yokohama-yamate--berrick",
-      "order": 9,
+      "order": 7,
       "name": "貝里克廳",
       "address": "神奈川県横浜市中区山手町72",
       "group": "sights",
@@ -320,11 +301,16 @@
         "image": "/art/walks/yokohama-yamate/berrick.webp",
         "alt": "貝里克廳的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      }
     },
     {
       "id": "yokohama-yamate--bakery",
-      "order": 10,
+      "order": 8,
       "name": "BLUFF BAKERY 本店",
       "address": "神奈川県横浜市中区元町2丁目80-9",
       "group": "food",
@@ -363,11 +349,79 @@
       "recommendation": "挑一份麵包，從代官坂的日常店舖展開散步。",
       "sourceLibraryIds": [
         "p_9420b3046b8a1c53"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://bluffbakery.com/aboutus/",
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/",
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/"
+        ]
+      }
+    },
+    {
+      "id": "yokohama-yamate--p_57f1a52b47d1ba4a",
+      "name": "Café Ehrismann",
+      "address": "神奈川県横浜市中区元町1-77-4 エリスマン邸內",
+      "group": "food",
+      "categoryLabel": "洋館咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Cafe Ehrismann」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 神奈川県横浜市中区元町1-77-4 エリスマン邸內。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.439472,
+        "lng": 139.65036,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-77-4",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "WHexI6BjwLY",
+          "title": "The Best Guide Of Yokohama 2023: JAPAN TRAVEL",
+          "url": "https://www.youtube.com/watch?v=WHexI6BjwLY",
+          "time": "02:03",
+          "seconds": 123
+        }
+      ],
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/cafe.php",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_57f1a52b47d1ba4a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11645962467603956847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_57f1a52b47d1ba4a.webp",
+        "alt": "Café Ehrismann的日系水彩插圖"
+      },
+      "order": 9,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "recommendation": null
     },
     {
       "id": "yokohama-yamate--ehrismann",
-      "order": 11,
+      "order": 10,
       "name": "愛麗絲曼邸",
       "address": "神奈川県横浜市中区元町1丁目77-4",
       "group": "sights",
@@ -396,25 +450,42 @@
         "image": "/art/walks/yokohama-yamate/ehrismann.webp",
         "alt": "愛麗絲曼邸的日系水彩插圖"
       },
-      "recommendation": "看看洋館室內、窗邊與家具細節。"
+      "recommendation": "看看洋館室內、窗邊與家具細節。",
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://bluffbakery.com/aboutus/",
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/",
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/"
+        ]
+      }
     },
     {
       "id": "yokohama-yamate--p_b3d245cdcbf889b5",
-      "name": "オートウー (O to U)",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "name": "O to U（オー ト ウー）",
+      "address": "神奈川県横浜市中区元町1-54 リブレ元町2F",
+      "group": "food",
+      "categoryLabel": "麵包",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「オートウー (O to U)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 神奈川県横浜市中区元町1-54 リブレ元町2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.4405333,
-        "lng": 139.6509826,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.440166,
+        "lng": 139.650879,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-54",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
       },
       "sources": [
         {
@@ -424,7 +495,7 @@
           "url": "https://www.youtube.com/watch?v=JFc6eVGxkjc"
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/o_to_u/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -435,25 +506,39 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/O+to+U/@35.4405333,139.6509826,17z/data=!3m1!4b1!4m6!3m5!1s0x60185dc51212da11:0xa75c8bf469baa870!8m2!3d35.4405333!4d139.6509826!16s%2Fg%2F11h84k6knn"
       },
-      "order": 12
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_b3d245cdcbf889b5.webp",
+        "alt": "O to U（オー ト ウー）的日系水彩插圖"
+      },
+      "order": 11,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "recommendation": null
     },
     {
       "id": "yokohama-yamate--p_b20acc0524974fa7",
-      "name": "ウチキパン (Uchikipan)",
-      "address": "",
+      "name": "ウチキパン",
+      "address": "神奈川県横浜市中区元町1-33",
       "group": "food",
-      "categoryLabel": "甜點",
+      "categoryLabel": "麵包",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「ウチキパン (Uchikipan)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 神奈川県横浜市中区元町1-33。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.4409362,
-        "lng": 139.6506393,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.440834,
+        "lng": 139.650574,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-33",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
       },
       "sources": [
         {
@@ -463,7 +548,7 @@
           "url": "https://www.youtube.com/watch?v=JFc6eVGxkjc"
         }
       ],
-      "official": null,
+      "official": "https://www.uchikipan.co.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -474,25 +559,39 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Uchiki+Pan+(Uchiki+Bakery)/@35.4409362,139.6480644,17z/data=!3m1!4b1!4m6!3m5!1s0x60185d1e24ed644f:0x76e74a82f730fcb3!8m2!3d35.4409362!4d139.6506393!16s%2Fg%2F1td0m_b6"
       },
-      "order": 13
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_b20acc0524974fa7.webp",
+        "alt": "ウチキパン的日系水彩插圖"
+      },
+      "order": 12,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "recommendation": null
     },
     {
       "id": "yokohama-yamate--p_c82e714384da856a",
-      "name": "Elysee しょうゆきゃふぇ元町",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "name": "しょうゆきゃふぇ元町（營業待確認）",
+      "address": "神奈川県横浜市中区元町1-30 藤田ビル2F",
+      "group": "food",
+      "categoryLabel": "布丁・咖啡",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「Elysee しょうゆきゃふぇ元町」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "保留元町藤田大樓二樓的しょうゆきゃふぇ影片紀錄，以生布丁甜點為主題。",
+        "原始資料記錄的地址為 神奈川県横浜市中区元町1-30 藤田ビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "官方頁仍列元町地址，但食べログ目前暫停刊載；尚未取得確切閉店或恢復營業公告，出發前請確認。此筆為元町店，並非昔日エリスマン邸內的店址。",
       "coordinate": {
-        "lat": 35.4409508,
-        "lng": 139.6501711,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.440895,
+        "lng": 139.649933,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-30",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
       },
       "sources": [
         {
@@ -510,7 +609,7 @@
           "url": "https://www.youtube.com/watch?v=sZdTatptBvs"
         }
       ],
-      "official": null,
+      "official": "https://elysee-hikaru.com/motomachi/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -522,20 +621,30 @@
         "extension": false,
         "mapUrl": "https://www.google.com.tw/maps/place/Elysee/@35.4411008,139.6501771,19.4z/data=!3m1!5s0x60185ce1e1a38beb:0xdf4fb8a7b159161e!4m5!3m4!1s0x60185d201e9dd815:0x1b0131ce2de743f6!8m2!3d35.4409508!4d139.6501711?hl=zh-TW&coh=164777&entry=tt&shorturl=1"
       },
-      "order": 14
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_c82e714384da856a.webp",
+        "alt": "しょうゆきゃふぇ元町（營業待確認）的日系水彩插圖"
+      },
+      "order": 13,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "recommendation": null
     },
     {
       "id": "yokohama-yamate--p_02440d83989ca1ae",
-      "name": "クレープ・ドン",
+      "name": "クレープドン（閉店紀錄）",
       "address": "神奈川県横浜市中区元町1-13",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "group": "food",
+      "categoryLabel": "可麗餅",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「クレープ・ドン」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "保留元町可麗餅店クレープドン的歷史影片與店招風景。",
         "原始資料記錄的地址為 神奈川県横浜市中区元町1-13。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "在地報導記載此店已於2023年2月28日閉店；此為歷史紀錄，不列入導航。",
       "coordinate": {
         "lat": 35.441593,
         "lng": 139.650635,
@@ -544,7 +653,7 @@
         "label": "國土地理院地址代表點",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
       },
       "sources": [
         {
@@ -554,77 +663,50 @@
           "url": "https://www.youtube.com/watch?v=sZdTatptBvs"
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/kanagawa/A1401/A140105/14023297/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_02440d83989ca1ae"
         ],
-        "status": "source-record",
+        "status": "reported-closed",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%BB%E3%83%89%E3%83%B3+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-13"
       },
-      "order": 15
-    },
-    {
-      "id": "yokohama-yamate--p_a727670c29301bf7",
-      "name": "Tsukikoya Specialty Coffee Roaster's shop",
-      "address": "〒231-0023 Kanagawa, Yokohama, Naka Ward, Yamashitachō, １０６ 朱雀門近く シルクロード通り1F",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Tsukikoya Specialty Coffee Roaster's shop」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒231-0023 Kanagawa, Yokohama, Naka Ward, Yamashitachō, １０６ 朱雀門近く シルクロード通り1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.4416931,
-        "lng": 139.64818839999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_02440d83989ca1ae.webp",
+        "alt": "クレープドン（閉店紀錄）的日系水彩插圖"
       },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "WHexI6BjwLY",
-          "title": "The Best Guide Of Yokohama 2023: JAPAN TRAVEL",
-          "url": "https://www.youtube.com/watch?v=WHexI6BjwLY",
-          "time": "03:25",
-          "seconds": 205
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_a727670c29301bf7"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=10202345246945200566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      "order": 14,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
       },
-      "order": 16
+      "recommendation": null
     },
     {
       "id": "yokohama-yamate--p_db1e1714bc57df22",
-      "name": "ハマブレッド (Hamabread)",
-      "address": "",
+      "name": "ハマブレッド",
+      "address": "神奈川県横浜市中区石川町1-14-13",
       "group": "food",
-      "categoryLabel": "甜點",
+      "categoryLabel": "麵包",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「ハマブレッド (Hamabread)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 神奈川県横浜市中区石川町1-14-13。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.4385605,
-        "lng": 139.6451183,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.43866,
+        "lng": 139.64505,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E7%9F%B3%E5%B7%9D%E7%94%BA1-14-13",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
       },
       "sources": [
         {
@@ -634,7 +716,7 @@
           "url": "https://www.youtube.com/watch?v=JFc6eVGxkjc"
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/hamabread/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -645,11 +727,21 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Hamabread+Bakery/@35.4394958,139.6439274,17z/data=!4m6!3m5!1s0x60185d7c6c5ec7c3:0x77f67b7dffa26d68!8m2!3d35.4385605!4d139.6451183!16s%2Fg%2F11j67s649v"
       },
-      "order": 17
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_db1e1714bc57df22.webp",
+        "alt": "ハマブレッド的日系水彩插圖"
+      },
+      "order": 15,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "recommendation": null
     },
     {
       "id": "yokohama-yamate--bluff18",
-      "order": 18,
+      "order": 16,
       "name": "布拉夫18番館",
       "address": "神奈川県横浜市中区山手町16",
       "group": "sights",
@@ -678,11 +770,16 @@
         "image": "/art/walks/yokohama-yamate/bluff18.webp",
         "alt": "布拉夫18番館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      }
     },
     {
       "id": "yokohama-yamate--gaikokan",
-      "order": 19,
+      "order": 17,
       "name": "外交官之家",
       "address": "神奈川県横浜市中区山手町16",
       "group": "sights",
@@ -711,11 +808,24 @@
         "image": "/art/walks/yokohama-yamate/gaikokan.webp",
         "alt": "外交官之家的日系水彩插圖"
       },
-      "recommendation": "選一棟洋館入內，看窗框與生活空間。"
+      "recommendation": "選一棟洋館入內，看窗框與生活空間。",
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/gaikoukan/",
+          "https://www.enokitei.co.jp/",
+          "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html"
+        ]
+      }
     },
     {
       "id": "yokohama-yamate--italia",
-      "order": 20,
+      "order": 18,
       "name": "山手義大利山庭園",
       "address": "神奈川県横浜市中区山手町16",
       "group": "sights",
@@ -744,25 +854,34 @@
         "image": "/art/walks/yokohama-yamate/italia.webp",
         "alt": "山手義大利山庭園的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      }
     },
     {
       "id": "yokohama-yamate--p_f218e8cd0dcd9018",
-      "name": "よつばベーカリー (Yotsuba Bakery)",
-      "address": "",
+      "name": "よつばベーカリー",
+      "address": "神奈川県横浜市中区石川町2-68-4",
       "group": "food",
-      "categoryLabel": "甜點",
+      "categoryLabel": "麵包",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「よつばベーカリー (Yotsuba Bakery)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 神奈川県横浜市中区石川町2-68-4。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.4376138,
-        "lng": 139.6421918,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.437721,
+        "lng": 139.642075,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E7%9F%B3%E5%B7%9D%E7%94%BA2-68-4",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
       },
       "sources": [
         {
@@ -772,7 +891,7 @@
           "url": "https://www.youtube.com/watch?v=JFc6eVGxkjc"
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/yotsuba.bakery/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -783,7 +902,63 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Yotsuba+Bakery/@35.4376726,139.6374277,17.11z/data=!4m6!3m5!1s0x60185de1ff962d93:0x683bb7fd6fcc5ff3!8m2!3d35.4376138!4d139.6421918!16s%2Fg%2F11fhry_29y"
       },
-      "order": 21
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_f218e8cd0dcd9018.webp",
+        "alt": "よつばベーカリー的日系水彩插圖"
+      },
+      "order": 19,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yokohama-yamate--p_c80f8af50707b75e",
+      "name": "橫濱山手西洋館（影片散步紀錄）",
+      "address": "神奈川県横浜市中区山手町・元町（西洋館群）",
+      "group": "sights",
+      "categoryLabel": "歷史建築群",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "保留原影片介紹橫濱山手西洋館群的散步章節；範圍包含多棟洋館，並非單一建築。",
+        "原始資料記錄的地址為 神奈川県横浜市中区山手町・元町（西洋館群）。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原章節未指明單館，插畫取材貝里克廳作街區示意；此筆不設單一地圖標記。各館開放情形請查官方資訊。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "MluzdR_J4y0",
+          "title": "🇯🇵東京順遊最浪漫的城市就是橫濱了啦！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=MluzdR_J4y0",
+          "time": "2:45",
+          "seconds": 165
+        }
+      ],
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/map.php",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c80f8af50707b75e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_c80f8af50707b75e.webp",
+        "alt": "橫濱山手西洋館（影片散步紀錄）的日系水彩插圖"
+      },
+      "order": 20,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "recommendation": null
     }
   ],
   "routes": [
@@ -836,7 +1011,15 @@
         "yokohama-yamate--enoki",
         "yokohama-yamate--harbor"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/gaikoukan/",
+          "https://www.enokitei.co.jp/",
+          "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html"
+        ]
+      }
     },
     {
       "id": "yokohama-yamate-bread-and-house-details",
@@ -877,33 +1060,114 @@
         "yokohama-yamate--enoki": "順路可選：在紅窗洋館裡，留一段紅茶時間。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "yokohama-yamate--berrick": "順路可選：拱門與瓦頂，換成西班牙式風景。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/yokohama-yamate/ehrismann.webp",
+      "art": "/art/walks/yokohama-yamate/bakery.webp",
       "highlightIds": [
         "yokohama-yamate--bakery",
         "yokohama-yamate--ehrismann",
         "yokohama-yamate--234"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://bluffbakery.com/aboutus/",
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/",
+          "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/"
+        ]
+      }
     }
   ],
   "defaultSelection": "yokohama-yamate-slow-walk",
   "libraryCoverage": {
+    "added": 9,
+    "unlocated": 1,
+    "checkedAt": "2026-10-26",
     "sourceIds": [
+      "p_567df4cf65d645bd",
       "p_9420b3046b8a1c53",
-      "p_c80f8af50707b75e",
       "p_57f1a52b47d1ba4a",
+      "p_b3d245cdcbf889b5",
+      "p_b20acc0524974fa7",
       "p_c82e714384da856a",
       "p_ce83ccc48085b801",
-      "p_567df4cf65d645bd",
-      "p_a727670c29301bf7",
-      "p_b20acc0524974fa7",
-      "p_b3d245cdcbf889b5",
       "p_02440d83989ca1ae",
       "p_db1e1714bc57df22",
-      "p_f218e8cd0dcd9018"
+      "p_f218e8cd0dcd9018",
+      "p_c80f8af50707b75e"
+    ]
+  },
+  "scope": {
+    "id": "yokohama-yamate",
+    "name": "橫濱山手・元町",
+    "kind": "walk",
+    "scope": "石川町坡道、義大利山庭園與山手本通，經西洋館至港見丘公園，再接元町商店街。",
+    "includes": "山手西洋館、山手本通、元町與石川町南側入口",
+    "excludes": "中華街、山下公園與港未來另區。",
+    "basis": "橫濱官方有山手與元町的2–3小時步行組合；名稱同步標出元町。",
+    "sourceUrls": [
+      "https://www.welcome.city.yokohama.jp/courses/course.php?mid=m038"
     ],
-    "added": 10,
-    "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 20
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "yokohama-yamate--p_a727670c29301bf7",
+      "name": "TSUKIKOYA COFFEE ROASTER 中華街店",
+      "address": "神奈川県横浜市中区山下町106 1F",
+      "group": "food",
+      "categoryLabel": "咖啡烘焙",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tsukikoya Specialty Coffee Roaster's shop」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 神奈川県横浜市中区山下町106 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.441929,
+        "lng": 139.648239,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E4%B8%8B%E7%94%BA106",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "WHexI6BjwLY",
+          "title": "The Best Guide Of Yokohama 2023: JAPAN TRAVEL",
+          "url": "https://www.youtube.com/watch?v=WHexI6BjwLY",
+          "time": "03:25",
+          "seconds": 205
+        }
+      ],
+      "official": "https://www.chinatown.or.jp/shop/tsukikoya-coffee-roaster/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a727670c29301bf7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10202345246945200566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_a727670c29301bf7.webp",
+        "alt": "TSUKIKOYA COFFEE ROASTER 中華街店的日系水彩插圖"
+      },
+      "order": 15,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yokohama-chinatown",
+        "name": "橫濱中華街",
+        "href": "/walks/yokohama-chinatown/"
+      },
+      "savedOutsideArea": true
+    }
+  ],
+  "inheritedWalkIds": []
 }

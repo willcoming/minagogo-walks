@@ -1,0 +1,591 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "routes": [
+    {
+      "id": "asakusabashi-torigoe-and-strawberries",
+      "name": "鳥越神社與草莓小休",
+      "ids": [
+        "kuramae--p_15d518ad81e7ddb0",
+        "kuramae--p_5304d79ce902f709"
+      ],
+      "stopNotes": {
+        "kuramae--p_15d518ad81e7ddb0": "離開車站商店街，沿街巷到鳥越神社參拜。",
+        "kuramae--p_5304d79ce902f709": "到鳥越的 ICHIBIKO 選一份草莓甜點。"
+      },
+      "start": {
+        "name": "淺草橋站",
+        "address": "東京都台東区浅草橋 浅草橋駅",
+        "access": "JR 總武線・都營淺草線"
+      },
+      "end": {
+        "name": "淺草橋站",
+        "address": "東京都台東区浅草橋 浅草橋駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "鳥越神社與草莓小休",
+      "note": "在本區慢慢走，必訪以外的地點依興趣停留。時間包含步行、停留與自由探索，候位另計。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://t-navi.city.taito.lg.jp/spot/1017",
+          "https://ichibiko.jp/store/kuramae/"
+        ]
+      },
+      "highlightIds": [
+        "kuramae--p_15d518ad81e7ddb0",
+        "kuramae--p_5304d79ce902f709"
+      ],
+      "art": "/art/source-library/kuramae--p_15d518ad81e7ddb0.webp",
+      "optionalMinutes": 30
+    },
+    {
+      "id": "asakusabashi-yanagibashi-gallery",
+      "name": "柳橋水邊與老屋藝廊",
+      "ids": [
+        "nihonbashi--p_bd1dd24720e1ab67",
+        "kuramae--p_500aed5155361116"
+      ],
+      "stopNotes": {
+        "nihonbashi--p_bd1dd24720e1ab67": "從柳橋看神田川與船宿街景，不進入私人碼頭。",
+        "kuramae--p_500aed5155361116": "依當日展覽與咖啡開放資訊，安排老屋藝廊停留。"
+      },
+      "start": {
+        "name": "淺草橋站",
+        "address": "東京都台東区浅草橋 浅草橋駅",
+        "access": "JR 總武線・都營淺草線"
+      },
+      "end": {
+        "name": "淺草橋站",
+        "address": "東京都台東区浅草橋 浅草橋駅"
+      },
+      "totalMinutes": [
+        120,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "柳橋水邊與老屋藝廊",
+      "note": "Lucite Gallery 不定休，請先查展期與咖啡營業日；未開放時改為柳橋街巷散步，不保證可入內。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://lucite-gallery.com/about.html",
+          "https://t-navi.city.taito.lg.jp/spot/1090"
+        ]
+      },
+      "highlightIds": [
+        "nihonbashi--p_bd1dd24720e1ab67",
+        "kuramae--p_500aed5155361116"
+      ],
+      "art": "/art/source-library/nihonbashi--p_bd1dd24720e1ab67.webp",
+      "optionalMinutes": 30
+    }
+  ],
+  "places": [
+    {
+      "id": "kuramae--p_fd0085ce79d57d3e",
+      "name": "Pretty Good",
+      "address": "〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Pretty Good」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.699055,
+        "lng": 139.7901626,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6Sr7Z0XQa5c",
+          "title": "Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025",
+          "url": "https://www.youtube.com/watch?v=6Sr7Z0XQa5c"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OyO1a5arI-U",
+          "title": "【東京／あんバター】究極の背徳感！一度食べたら忘れられない「あんバター７選」／浅草・蔵前・学芸大学・代官山他",
+          "url": "https://www.youtube.com/watch?v=OyO1a5arI-U",
+          "time": "05:32",
+          "seconds": 332
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fd0085ce79d57d3e",
+          "p_e418febe599fa95d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5398777421191737333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_fd0085ce79d57d3e.webp",
+        "alt": "Pretty Good的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "asakusabashi",
+        "name": "淺草橋・鳥越",
+        "href": "/walks/asakusabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kuramae--p_500aed5155361116",
+      "name": "Lucite Gallery",
+      "address": "〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Lucite Gallery」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6974223,
+        "lng": 139.7892454,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "w87nLAk6Pck",
+          "title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
+          "url": "https://www.youtube.com/watch?v=w87nLAk6Pck"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_500aed5155361116"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=8518855316958365278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_500aed5155361116.webp",
+        "alt": "Lucite Gallery的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "asakusabashi",
+        "name": "淺草橋・鳥越",
+        "href": "/walks/asakusabashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://lucite-gallery.com/about.html",
+          "https://t-navi.city.taito.lg.jp/spot/1090"
+        ]
+      },
+      "recommendation": "依當日展覽與咖啡開放資訊，安排老屋藝廊停留。"
+    },
+    {
+      "id": "nihonbashi--p_bd1dd24720e1ab67",
+      "name": "柳橋",
+      "address": "2 Chome-2 Higashinihonbashi, Chuo City, Tokyo 103-0004",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Yanagi Bridge」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2 Chome-2 Higashinihonbashi, Chuo City, Tokyo 103-0004。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6952062,
+        "lng": 139.7874689,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "0:44",
+          "seconds": 44
+        }
+      ],
+      "official": "https://t-navi.city.taito.lg.jp/spot/1090",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bd1dd24720e1ab67"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=11819742528508375606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_bd1dd24720e1ab67.webp",
+        "alt": "柳橋的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "asakusabashi",
+        "name": "淺草橋・鳥越",
+        "href": "/walks/asakusabashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://lucite-gallery.com/about.html",
+          "https://t-navi.city.taito.lg.jp/spot/1090"
+        ]
+      },
+      "recommendation": "從柳橋看神田川與船宿街景，不進入私人碼頭。"
+    },
+    {
+      "id": "kuramae--p_6160adafced6602d",
+      "name": "淺草橋",
+      "address": "日本〒111-0053 東京都台東區淺草橋 1 Chome−18",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「淺草橋」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 日本〒111-0053 東京都台東區淺草橋 1 Chome−18。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "淺草橋方向的延伸點；請另留步行時間。",
+      "coordinate": {
+        "lat": 35.6974952,
+        "lng": 139.7859834,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "0:44",
+          "seconds": 44
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6160adafced6602d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=16744840618390525528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_6160adafced6602d.webp",
+        "alt": "淺草橋的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "asakusabashi",
+        "name": "淺草橋・鳥越",
+        "href": "/walks/asakusabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kuramae--p_27c24e65b79e6da4",
+      "name": "饗黑㐂",
+      "address": "1-chōme-28-9 Asakusabashi, Taito City, Tokyo 111-0053",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「饗黑㐂」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-28-9 Asakusabashi, Taito City, Tokyo 111-0053。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "淺草橋方向的延伸點；請另留步行時間。",
+      "coordinate": {
+        "lat": 35.6979964,
+        "lng": 139.7854476,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "9dvDl6CBd_o",
+          "title": "東京美食淺草篇，24小時爽吃特輯四選！淺草一日美食地圖，米其林推薦厚切炸豬排、東京鹽味拉麵代表、淺草超夯和牛燒肉、百名店認證海味居酒屋 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=9dvDl6CBd_o",
+          "time": "2:52",
+          "seconds": 172
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_27c24e65b79e6da4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=13726656199217205234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_27c24e65b79e6da4.webp",
+        "alt": "饗黑㐂的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "asakusabashi",
+        "name": "淺草橋・鳥越",
+        "href": "/walks/asakusabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kuramae--p_9022b5fbb1b362ca",
+      "name": "hamorebi coffee",
+      "address": "3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「hamorebi coffee」出現在Hina Life in Japan、Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "淺草橋方向的延伸點；請另留步行時間。",
+      "coordinate": {
+        "lat": 35.7005538,
+        "lng": 139.7857425,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "5lS-2thcoYw",
+          "title": "10 Japan coffee shops you should visit in Tokyo: Japan Travel Guide",
+          "url": "https://www.youtube.com/watch?v=5lS-2thcoYw",
+          "time": "8:32",
+          "seconds": 512
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "0:44",
+          "seconds": 44
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9022b5fbb1b362ca"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6553371749865476794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_9022b5fbb1b362ca.webp",
+        "alt": "hamorebi coffee的日系水彩插圖"
+      },
+      "order": 6,
+      "canonicalArea": {
+        "id": "asakusabashi",
+        "name": "淺草橋・鳥越",
+        "href": "/walks/asakusabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kuramae--p_15d518ad81e7ddb0",
+      "name": "鳥越神社",
+      "address": "2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「鳥越神社」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7020221,
+        "lng": 139.7856654,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "0:44",
+          "seconds": 44
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_15d518ad81e7ddb0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3862339657960906793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_15d518ad81e7ddb0.webp",
+        "alt": "鳥越神社的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "asakusabashi",
+        "name": "淺草橋・鳥越",
+        "href": "/walks/asakusabashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://t-navi.city.taito.lg.jp/spot/1017",
+          "https://ichibiko.jp/store/kuramae/"
+        ]
+      },
+      "recommendation": "離開車站商店街，沿街巷到鳥越神社參拜。"
+    },
+    {
+      "id": "kuramae--p_5304d79ce902f709",
+      "name": "ICHIBIKO KURAMAE",
+      "address": "東京都台東区鳥越1-30-10",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ICHIBIKO KURAMAE」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区鳥越1-30-10。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.703503,
+        "lng": 139.783371,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%B3%A5%E8%B6%8A1-30-10",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "R3-jk7HihhI",
+          "title": "【最旬】東京ご褒美いちごスイーツ10選｜-2026年-前編🍓ˎˊ˗",
+          "url": "https://www.youtube.com/watch?v=R3-jk7HihhI",
+          "time": "14:05",
+          "seconds": 845
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5304d79ce902f709"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Ichibiko+Kuramae/@35.7034197,139.7833206,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f0061b9170d:0xf07789e1ef1068d6!8m2!3d35.7034197!4d139.7833206!16s%2Fg%2F11wwf9tr2d?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_5304d79ce902f709.webp",
+        "alt": "ICHIBIKO KURAMAE的日系水彩插圖"
+      },
+      "order": 8,
+      "canonicalArea": {
+        "id": "asakusabashi",
+        "name": "淺草橋・鳥越",
+        "href": "/walks/asakusabashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://t-navi.city.taito.lg.jp/spot/1017",
+          "https://ichibiko.jp/store/kuramae/"
+        ]
+      },
+      "recommendation": "到鳥越的 ICHIBIKO 選一份草莓甜點。"
+    }
+  ],
+  "defaultSelection": "asakusabashi-torigoe-and-strawberries",
+  "libraryCoverage": {
+    "added": 8,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_fd0085ce79d57d3e",
+      "p_e418febe599fa95d",
+      "p_500aed5155361116",
+      "p_bd1dd24720e1ab67",
+      "p_6160adafced6602d",
+      "p_27c24e65b79e6da4",
+      "p_9022b5fbb1b362ca",
+      "p_15d518ad81e7ddb0",
+      "p_5304d79ce902f709"
+    ]
+  },
+  "scope": {
+    "id": "asakusabashi",
+    "name": "淺草橋・鳥越",
+    "kind": "walk",
+    "parentWalk": "kuramae",
+    "scope": "淺草橋站、柳橋兩端與柳橋一至二丁目，向北接鳥越神社及鳥越商店街。",
+    "includes": "淺草橋站、柳橋兩端與柳橋一至二丁目，向北接鳥越神社及鳥越商店街。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.gotokyo.org/book/wp-content/uploads/2026/03/AO2_2603_sanpo-kuramae_low_JP.pdf"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 8
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kuramae",
+    "nihonbashi"
+  ]
+}

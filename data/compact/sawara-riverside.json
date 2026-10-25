@@ -1,0 +1,94 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "sawara--mizunosato",
+      "order": 1,
+      "name": "道の駅・川の駅 水の郷さわら",
+      "address": "千葉県香取市佐原イ3981-2（道の駅）・4051-3（川の駅）",
+      "group": "shops",
+      "categoryLabel": "河岸市場",
+      "caption": "想再多走一段，就把視線交給利根川。",
+      "descriptionParagraphs": [
+        "水の郷さわら把道之驛與川之驛放在利根川河岸，提供地方農產、伴手禮、餐飲與水邊體驗。寬闊河面與停泊的船，讓小野川商家町的水運故事延伸到今天的河岸。",
+        "位置在主要老街東北側，適合體力充足時另留一段往返。可以挑些地方食材，坐下看河，再決定是否安排當天可參加的船遊等體驗。"
+      ],
+      "description": "水の郷さわら把道之驛與川之驛放在利根川河岸，提供地方農產、伴手禮、餐飲與水邊體驗。寬闊河面與停泊的船，讓小野川商家町的水運故事延伸到今天的河岸。\n\n位置在主要老街東北側，適合體力充足時另留一段往返。可以挑些地方食材，坐下看河，再決定是否安排當天可參加的船遊等體驗。",
+      "note": "此處為老街外的延伸點；川之驛星期一休館，遇假日則翌日休，另有年末年初及點檢休館日。",
+      "official": "https://www.e-sawara.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "19:50",
+          "seconds": 1190
+        }
+      ],
+      "coordinate": {
+        "lat": 35.89621192941176,
+        "lng": 140.50652142156864,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/62111068",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/mizunosato.webp",
+        "alt": "道の駅・川の駅 水の郷さわら的日系水彩插圖"
+      },
+      "sourceLibraryIds": [
+        "p_e6c8fe87746530fc"
+      ],
+      "canonicalArea": {
+        "id": "sawara-riverside",
+        "name": "佐原利根川岸",
+        "href": "/walks/sawara-riverside/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_e6c8fe87746530fc"
+    ]
+  },
+  "scope": {
+    "id": "sawara-riverside",
+    "name": "佐原利根川岸",
+    "kind": "record-area",
+    "parentWalk": "sawara",
+    "scope": "利根川堤岸與水之鄉佐原一帶。",
+    "includes": "利根川堤岸與水之鄉佐原一帶。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.city.katori.lg.jp/sightseeing/machinami/index.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "sawara"
+  ]
+}

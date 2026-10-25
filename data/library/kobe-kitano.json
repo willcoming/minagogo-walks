@@ -2,21 +2,25 @@
   "places": [
     {
       "id": "kobe-kitano--p_9c5f5c642746adb2",
-      "name": "Shigematsu",
-      "address": "〒650-0004 Hyogo, Kobe, Chuo Ward, Nakayamatedōri, 2-chōme−1−１７ 2階",
+      "name": "しげ松 昼の部（池袋）",
+      "address": "東京都豊島区池袋2-70-5 カーサヤマブキ1F",
       "group": "food",
       "categoryLabel": "餐廳",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「Shigematsu」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒650-0004 Hyogo, Kobe, Chuo Ward, Nakayamatedōri, 2-chōme−1−１７ 2階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片介紹池袋的「しげ松 昼の部」，是居酒屋しげ松空間內的午間餐食紀錄。",
+        "原始資料記錄的地址為 東京都豊島区池袋2-70-5 カーサヤマブキ1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "已依原影片與池袋店地址修正同名誤配。影片拍攝於2022年，午間營業仍請事先向店家確認。",
       "coordinate": {
-        "lat": 34.6960136,
-        "lng": 135.1908576,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.73579,
+        "lng": 139.708511,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E6%B1%A0%E8%A2%8B2-70-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -26,7 +30,7 @@
           "url": "https://www.youtube.com/watch?v=D-4lF6_WxtQ"
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/shigematsuhirunobu/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -34,8 +38,12 @@
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=6016128166403552080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-kitano--p_9c5f5c642746adb2.webp",
+        "alt": "しげ松 昼の部（池袋）的日系水彩插圖"
       }
     }
   ],

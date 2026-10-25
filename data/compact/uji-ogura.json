@@ -1,0 +1,183 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kyoto-uji--yamamasa",
+      "order": 1,
+      "name": "山政小山園 本社店頭販售",
+      "address": "京都府宇治市小倉町久保96",
+      "group": "shops",
+      "categoryLabel": "小倉抹茶製造",
+      "caption": "到製茶事業的入口，選一份宇治茶。",
+      "descriptionParagraphs": [
+        "山政小山園以茶的栽培、製造、加工與販售延續宇治小倉的製茶脈絡。本社工場事務所提供一般商品購買與配送，適合對抹茶品牌有興趣的人另行前往。",
+        "這裡是小倉延伸點，與宇治川畔景點不在同一小段步行內。先確認採買需求再安排交通，購物範圍與生產作業空間也應分開看待。"
+      ],
+      "description": "山政小山園以茶的栽培、製造、加工與販售延續宇治小倉的製茶脈絡。本社工場事務所提供一般商品購買與配送，適合對抹茶品牌有興趣的人另行前往。\n\n這裡是小倉延伸點，與宇治川畔景點不在同一小段步行內。先確認採買需求再安排交通，購物範圍與生產作業空間也應分開看待。",
+      "note": "可購物的店頭位在本社事務所；生產作業空間並非一般自由參觀區域。",
+      "official": "https://www.yamamasa-koyamaen.co.jp/store/customer/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 34.89669,
+        "lng": 135.784088,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%B0%8F%E5%80%89%E7%94%BA%E4%B9%85%E4%BF%9D96",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/yamamasa.webp",
+        "alt": "山政小山園 本社店頭販售，依真實照片繪製的日系水彩插圖"
+      },
+      "canonicalArea": {
+        "id": "uji-ogura",
+        "name": "宇治小倉",
+        "href": "/walks/uji-ogura/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-uji--marukyu",
+      "order": 2,
+      "name": "丸久小山園 本社直賣店",
+      "address": "京都府宇治市小倉町寺内86",
+      "group": "shops",
+      "categoryLabel": "小倉製茶老舖",
+      "caption": "把茶舖採買，延伸到小倉的製茶日常。",
+      "descriptionParagraphs": [
+        "丸久小山園從宇治小倉的栽培與製茶發展而來，本社設有面向一般旅客的直賣店。這一站偏向選茶與認識製茶品牌，和河畔茶房的角色不同。",
+        "本社在小倉，需從宇治河畔另安排交通。若主要行程是平等院與神社，建議把它作為另一段採買延伸，避免為買茶把河岸散步切得太碎。"
+      ],
+      "description": "丸久小山園從宇治小倉的栽培與製茶發展而來，本社設有面向一般旅客的直賣店。這一站偏向選茶與認識製茶品牌，和河畔茶房的角色不同。\n\n本社在小倉，需從宇治河畔另安排交通。若主要行程是平等院與神社，建議把它作為另一段採買延伸，避免為買茶把河岸散步切得太碎。",
+      "note": "本社直賣店週日、假日及部分週六休業；工場見學在另一處槇島工場，本社並非見學集合點。",
+      "official": "https://www.marukyu-koyamaen.co.jp/company.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.896175,
+        "lng": 135.785522,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%B0%8F%E5%80%89%E7%94%BA%E5%AF%BA%E5%86%8586",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/marukyu.webp",
+        "alt": "丸久小山園 本社直賣店，依真實照片繪製的日系水彩插圖"
+      },
+      "sourceLibraryIds": [
+        "p_0cc817b7c35d5ed1"
+      ],
+      "canonicalArea": {
+        "id": "uji-ogura",
+        "name": "宇治小倉",
+        "href": "/walks/uji-ogura/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-uji--p_07788e6ba852ffcd",
+      "name": "任天堂博物館",
+      "address": "京都府宇治市小倉町神楽田56",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ニンテンドーミュージアム 任天堂博物館」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 京都府宇治市小倉町神楽田56。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "需事先取得指定日期與時段門票，請依官方預約及入館說明安排；館內商店與咖啡廳需持入館票。",
+      "coordinate": {
+        "lat": 34.8927989,
+        "lng": 135.784166,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "DYmnbZ8oaws",
+          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
+          "time": "20:11",
+          "seconds": 1211
+        }
+      ],
+      "official": "https://museum.nintendo.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_07788e6ba852ffcd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%8D%9A%E7%89%A9%E9%A4%A8/@34.8927989,135.784166,17z/data=!3m1!4b1!4m6!3m5!1s0x60011188b83087d3:0x646fdf4a68b62b4d!8m2!3d34.8927989!4d135.784166!16s%2Fg%2F11vdn6d1cd?entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-uji--p_07788e6ba852ffcd.webp",
+        "alt": "任天堂博物館的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "uji-ogura",
+        "name": "宇治小倉",
+        "href": "/walks/uji-ogura/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_0cc817b7c35d5ed1",
+      "p_07788e6ba852ffcd"
+    ]
+  },
+  "scope": {
+    "id": "uji-ogura",
+    "name": "宇治小倉",
+    "kind": "record-area",
+    "parentWalk": "kyoto-uji",
+    "scope": "小倉站、JR小倉站與小倉町茶廠、任天堂博物館所在街區。",
+    "includes": "小倉站、JR小倉站與小倉町茶廠、任天堂博物館所在街區。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.ujimiyage.com/user_data/kanko03"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 3
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kyoto-uji"
+  ]
+}

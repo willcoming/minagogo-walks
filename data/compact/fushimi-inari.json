@@ -1,0 +1,133 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "kyoto-fushimi--p_e0d5995132c391a6",
+      "name": "伏見稻荷大社",
+      "address": "京都府京都市伏見区深草薮之内町68",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Fushimi Inari Taisha」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 京都府京都市伏見区深草薮之内町68。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "保留 Celia Ting 京都影片中的伏見稻荷紀錄；成田山出世稻荷為不同地點，已解除誤合併。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E8%96%AE%E4%B9%8B%E5%86%85%E7%94%BA68",
+        "lat": 34.967037,
+        "lng": 135.773499,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；寺社境內建物共用地址。"
+      },
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ],
+      "official": "https://inari.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e0d5995132c391a6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Fushimi+Inari+Taisha+68+Fukakusa+Yabunouchicho%2C+Fushimi+Ward%2C+Kyoto%2C+612-0882%2C+Japan"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-fushimi--p_e0d5995132c391a6.webp",
+        "alt": "伏見稻荷大社的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "fushimi-inari",
+        "name": "伏見稻荷・深草",
+        "href": "/walks/fushimi-inari/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-fushimi--p_049f187a6d1c8b33",
+      "name": "ABOUT US COFFEE FUSHIMI INARI",
+      "address": "22-15 Fukakusa Inaritoriimaecho, Fushimi Ward, Kyoto, 612-0014, Japan",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ABOUT US COFFEE FUSHIMI INARI」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 22-15 Fukakusa Inaritoriimaecho, Fushimi Ward, Kyoto, 612-0014, Japan。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_049f187a6d1c8b33"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=ABOUT+US+COFFEE+FUSHIMI+INARI+22-15+Fukakusa+Inaritoriimaecho%2C+Fushimi+Ward%2C+Kyoto%2C+612-0014%2C+Japan"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-fushimi--p_049f187a6d1c8b33.webp",
+        "alt": "ABOUT US COFFEE FUSHIMI INARI的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "fushimi-inari",
+        "name": "伏見稻荷・深草",
+        "href": "/walks/fushimi-inari/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 2,
+    "unlocated": 1,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_e0d5995132c391a6",
+      "p_049f187a6d1c8b33"
+    ]
+  },
+  "scope": {
+    "id": "fushimi-inari",
+    "name": "伏見稻荷・深草",
+    "kind": "record-area",
+    "parentWalk": "kyoto-fushimi",
+    "scope": "JR稻荷站、伏見稻荷站與稻荷大社門前、深草薮之內町街區。",
+    "includes": "JR稻荷站、伏見稻荷站與稻荷大社門前、深草薮之內町街區。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://sumumachifushimi.city.kyoto.lg.jp/area/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 2
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kyoto-fushimi"
+  ]
+}

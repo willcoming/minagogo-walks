@@ -1,0 +1,108 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "nihonbashi--p_3a8c6c5ea0538a6c",
+      "name": "BONGEN COFFEE TOKYO 日本橋",
+      "address": "東京都中央区京橋1-19-4",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "京橋街角的日式咖啡空間",
+      "descriptionParagraphs": [
+        "「BONGEN COFFEE TOKYO 日本橋」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区京橋1-19-4。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "分店名稱為日本橋店，實際地址位於京橋。範圍依店家官方地址修正；營業資訊出發前再確認。",
+      "coordinate": {
+        "lat": 35.6768331,
+        "lng": 139.7737574,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "c7z2OfI1o6M",
+          "title": "【東京駅】朝ごはん5選🥞2026年最新！今おすすめのモーニング&ブランチ|高コスパ|マンダリンオリエンタル|東京カフェ",
+          "url": "https://www.youtube.com/watch?v=c7z2OfI1o6M",
+          "time": "10:59",
+          "seconds": 659
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "Ze0IizspsQA",
+          "title": "Life in Tokyo｜10 Favorite Tokyo Spots: My Go-To Japanese Restaurants & Cozy Cafes 2025",
+          "url": "https://www.youtube.com/watch?v=Ze0IizspsQA"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "ROf3HBnMTt8",
+          "title": "THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=ROf3HBnMTt8"
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "3luRRZyjCb4",
+          "title": "A Quiet Start to 2026｜Ginza & Kyobashi | Tokyo",
+          "url": "https://www.youtube.com/watch?v=3luRRZyjCb4",
+          "time": "0:42",
+          "seconds": 42
+        }
+      ],
+      "official": "https://ginza-bongen.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3a8c6c5ea0538a6c",
+          "p_ad2cfeaaada5424b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/BONGEN+COFFEE+Tokyo+Nihonbashi/@35.6768331,139.7737574,17z/data=!3m1!4b1!4m6!3m5!1s0x601889dfac0b6bf1:0xb28a035c99c3efe5!8m2!3d35.6768331!4d139.7737574!16s%2Fg%2F11ybvjm1tp?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_3a8c6c5ea0538a6c.webp",
+        "alt": "BONGEN COFFEE TOKYO 日本橋的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kyobashi",
+        "name": "京橋・寶町",
+        "href": "/walks/kyobashi/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_3a8c6c5ea0538a6c",
+      "p_ad2cfeaaada5424b"
+    ]
+  },
+  "scope": {
+    "id": "kyobashi",
+    "name": "京橋・寶町",
+    "kind": "record-area",
+    "parentWalk": "nihonbashi",
+    "scope": "京橋一丁目至寶町站周邊。",
+    "includes": "京橋一丁目至寶町站周邊。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://ginza-bongen.jp/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "nihonbashi"
+  ]
+}

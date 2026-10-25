@@ -1,0 +1,841 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "asakusa--p_184e27e9c0f46ecd",
+      "name": "Asakusa Beer Kobo",
+      "address": "〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Asakusa Beer Kobo」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.711985899999995,
+        "lng": 139.7908712,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DqIyTuC2Fe4",
+          "title": "[Asakusa] 東京淺草 8 種美味佳餚！",
+          "url": "https://www.youtube.com/watch?v=DqIyTuC2Fe4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_184e27e9c0f46ecd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16771015038832482993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_184e27e9c0f46ecd.webp",
+        "alt": "Asakusa Beer Kobo的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_ad9b609d7d486246",
+      "name": "紅鶴",
+      "address": "2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「紅鶴」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7119043,
+        "lng": 139.79188159999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "k9ck4FtsjoU",
+          "title": "[東京甜點最佳 7] 2023 年最新！ 如果你想在東京吃甜食，就去這裡吧！",
+          "url": "https://www.youtube.com/watch?v=k9ck4FtsjoU"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "pVjoR_5dzaY",
+          "title": "【東京スイーツ13選】2025年最新！東京で美味しいスイーツを食べるならここ！",
+          "url": "https://www.youtube.com/watch?v=pVjoR_5dzaY"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "08:42",
+          "seconds": 522
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ad9b609d7d486246",
+          "p_786f709ac9df6eed"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6236813020373834353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_ad9b609d7d486246.webp",
+        "alt": "紅鶴的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://asakusa-kokusaidori.jp/shop/41/",
+          "https://www.kappabashi.or.jp/shops/117/"
+        ]
+      },
+      "recommendation": "依紅鶴當日店頭預約時段用餐，先確認名額與訂金規則。"
+    },
+    {
+      "id": "asakusa--p_c2bc8a559c049512",
+      "name": "かぐらちゃかプチ",
+      "address": "東京都台東区西浅草２丁目２７−１１",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「かぐらちゃかプチ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区西浅草２丁目２７−１１。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.713711,
+        "lng": 139.792221,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%A5%BF%E6%B5%85%E8%8D%892%E4%B8%81%E7%9B%AE27%E2%88%9211",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c2bc8a559c049512"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%81%90%E3%82%89%E3%81%A1%E3%82%83%E3%81%8B%E3%83%97%E3%83%81+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%A5%BF%E6%B5%85%E8%8D%89%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%97%E2%88%92%EF%BC%91%EF%BC%91"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_c2bc8a559c049512.webp",
+        "alt": "かぐらちゃかプチ的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_03b06522b228de6a",
+      "name": "壽喜燒老店 淺草今半",
+      "address": "東京都台東区西浅草3-1-12",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「壽喜燒老店 淺草今半」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区西浅草3-1-12。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7139043,
+        "lng": 139.7922209,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "maw7VXODp8g",
+          "title": "東京美食淺草篇，24小時爽吃之旅 ! 淺草一日美食地圖推薦，巷內江戶前天丼老店、淺草百年蕎麥麵、罕見泥鰍鍋初體驗、油香衝擊和牛壽喜燒、百年關東煮老店 【肥波外食記】ft.Rakuten Travel",
+          "url": "https://www.youtube.com/watch?v=maw7VXODp8g",
+          "time": "6:48",
+          "seconds": 408
+        }
+      ],
+      "official": "https://www.asakusaimahan.co.jp/kokusai/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_03b06522b228de6a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%A3%BD%E5%96%9C%E7%87%92%E8%80%81%E5%BA%97+%E6%B7%BA%E8%8D%89%E4%BB%8A%E5%8D%8A/@35.7138752,139.7929144,18.5z/data=!4m5!3m4!1s0x60188ebfe994dcf7:0x402534c8b8ced7d8!8m2!3d35.7139043!4d139.7922209?coh=164777&shorturl=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_03b06522b228de6a.webp",
+        "alt": "壽喜燒老店 淺草今半的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_cc07870cb0906223",
+      "name": "本とさや",
+      "address": "東京都台東区西浅草3-1-9",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「本とさや」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区西浅草3-1-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7143719,
+        "lng": 139.7920081,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/1njtUdtzYcpn954b6",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "QxEbE9DOiwQ",
+          "title": "2026 東京美食地圖，最想二刷的十家店！TOP 10 Must-Try FOOD in Tokyo",
+          "url": "https://www.youtube.com/watch?v=QxEbE9DOiwQ",
+          "time": "2:47",
+          "seconds": 167
+        },
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "9dvDl6CBd_o",
+          "title": "東京美食淺草篇，24小時爽吃特輯四選！淺草一日美食地圖，米其林推薦厚切炸豬排、東京鹽味拉麵代表、淺草超夯和牛燒肉、百名店認證海味居酒屋 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=9dvDl6CBd_o",
+          "time": "5:59",
+          "seconds": 359
+        }
+      ],
+      "official": "https://hontosaya.com/about",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cc07870cb0906223",
+          "p_fa597b5398849918"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/1njtUdtzYcpn954b6"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_cc07870cb0906223.webp",
+        "alt": "本とさや的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_cf12a75d54630bf8",
+      "name": "Cafe Otonova",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Cafe Otonova」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7153544,
+        "lng": 139.7894614,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/QJbjWU7QTDDcpTyE7",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cf12a75d54630bf8"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/QJbjWU7QTDDcpTyE7"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_cf12a75d54630bf8.webp",
+        "alt": "Cafe Otonova的日系水彩插圖"
+      },
+      "order": 6,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.dengama.jp/",
+          "https://majimaya.com/",
+          "http://www.cafeotonova.net/"
+        ]
+      },
+      "recommendation": "轉進西淺草巷弄，在 Otonova 留一段咖啡時間。"
+    },
+    {
+      "id": "asakusa--p_54b927a85af07aef",
+      "name": "Union coffee shop",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Union coffee shop」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7143461,
+        "lng": 139.7890893,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/TenricttfBuBjEyX6",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_54b927a85af07aef"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/TenricttfBuBjEyX6"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_54b927a85af07aef.webp",
+        "alt": "Union coffee shop的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://asakusa-kokusaidori.jp/shop/41/",
+          "https://www.kappabashi.or.jp/shops/117/"
+        ]
+      },
+      "recommendation": "在 Union 咖啡豆店看豆款與香氣，當作外帶購物停留。"
+    },
+    {
+      "id": "asakusa--p_58381eaff27a2e6d",
+      "name": "Tasuke Sushi",
+      "address": "2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tasuke Sushi」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7145309,
+        "lng": 139.7882246,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "TbSsmQKWbjA",
+          "title": "BEST 10 WHAT I EAT IN A DAY IN TOKYO 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=TbSsmQKWbjA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_58381eaff27a2e6d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=4668571184969004298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_58381eaff27a2e6d.webp",
+        "alt": "Tasuke Sushi的日系水彩插圖"
+      },
+      "order": 8,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_631cc84f7ca598c6",
+      "name": "FU WA RI",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「FU WA RI」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7131245,
+        "lng": 139.7888028,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/hsMHbAH4mFqQ5FBb6",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_631cc84f7ca598c6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/hsMHbAH4mFqQ5FBb6"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_631cc84f7ca598c6.webp",
+        "alt": "FU WA RI的日系水彩插圖"
+      },
+      "order": 9,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_e6d53140c027e6ef",
+      "name": "Majimaya",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Majimaya」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7125431,
+        "lng": 139.7886654,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/sxLGLEdocuzzXFZh9",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e6d53140c027e6ef"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/sxLGLEdocuzzXFZh9"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_e6d53140c027e6ef.webp",
+        "alt": "Majimaya的日系水彩插圖"
+      },
+      "order": 10,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.dengama.jp/",
+          "https://majimaya.com/",
+          "http://www.cafeotonova.net/"
+        ]
+      },
+      "recommendation": "到馬嶋屋看看烘焙模具，購物量依行李空間取捨。"
+    },
+    {
+      "id": "asakusa--p_2c2d8618572883d6",
+      "name": "合羽橋",
+      "address": "3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「合羽橋」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7105797,
+        "lng": 139.7879645,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "5eOcZ6YYiKY",
+          "title": "探索東京的復古街區 | 日本旅行vlog",
+          "url": "https://www.youtube.com/watch?v=5eOcZ6YYiKY",
+          "time": "1:14",
+          "seconds": 74
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2c2d8618572883d6",
+          "p_5166ba32987fb735"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=2397099946291010547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_2c2d8618572883d6.webp",
+        "alt": "合羽橋的日系水彩插圖"
+      },
+      "order": 11,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "asakusa--p_0c9c659b6d86b287",
+      "name": "Dengama",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Dengama」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7104353,
+        "lng": 139.7885064,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/BP3PvsrHkxKu5dbi7",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0c9c659b6d86b287"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/BP3PvsrHkxKu5dbi7"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_0c9c659b6d86b287.webp",
+        "alt": "Dengama的日系水彩插圖"
+      },
+      "order": 12,
+      "canonicalArea": {
+        "id": "kappabashi",
+        "name": "合羽橋・西淺草",
+        "href": "/walks/kappabashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.dengama.jp/",
+          "https://majimaya.com/",
+          "http://www.cafeotonova.net/"
+        ]
+      },
+      "recommendation": "從田窯的陶器開始逛道具街，挑喜歡的日用器皿。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "kappabashi-tableware-and-cafe",
+      "name": "合羽橋，挑器皿再坐進老屋",
+      "ids": [
+        "asakusa--p_0c9c659b6d86b287",
+        "asakusa--p_e6d53140c027e6ef",
+        "asakusa--p_cf12a75d54630bf8"
+      ],
+      "stopNotes": {
+        "asakusa--p_0c9c659b6d86b287": "從田窯的陶器開始逛道具街，挑喜歡的日用器皿。",
+        "asakusa--p_e6d53140c027e6ef": "到馬嶋屋看看烘焙模具，購物量依行李空間取捨。",
+        "asakusa--p_cf12a75d54630bf8": "轉進西淺草巷弄，在 Otonova 留一段咖啡時間。"
+      },
+      "start": {
+        "name": "田原町站",
+        "address": "東京都台東区西浅草 田原町駅",
+        "access": "東京 Metro 銀座線；步行前往合羽橋道具街"
+      },
+      "end": {
+        "name": "田原町站",
+        "address": "東京都台東区西浅草 田原町駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "合羽橋，挑器皿再坐進老屋",
+      "note": "在本區慢慢走，必訪以外的地點依興趣停留。時間包含步行、停留與自由探索，候位另計。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.dengama.jp/",
+          "https://majimaya.com/",
+          "http://www.cafeotonova.net/"
+        ]
+      },
+      "highlightIds": [
+        "asakusa--p_0c9c659b6d86b287",
+        "asakusa--p_e6d53140c027e6ef",
+        "asakusa--p_cf12a75d54630bf8"
+      ],
+      "art": "/art/source-library/asakusa--p_0c9c659b6d86b287.webp",
+      "optionalMinutes": 30
+    },
+    {
+      "id": "kappabashi-pancakes-and-coffee",
+      "name": "預約鬆餅，順路挑咖啡豆",
+      "ids": [
+        "asakusa--p_ad9b609d7d486246",
+        "asakusa--p_54b927a85af07aef"
+      ],
+      "stopNotes": {
+        "asakusa--p_ad9b609d7d486246": "依紅鶴當日店頭預約時段用餐，先確認名額與訂金規則。",
+        "asakusa--p_54b927a85af07aef": "在 Union 咖啡豆店看豆款與香氣，當作外帶購物停留。"
+      },
+      "start": {
+        "name": "田原町站",
+        "address": "東京都台東区西浅草 田原町駅",
+        "access": "東京 Metro 銀座線；步行前往合羽橋道具街"
+      },
+      "end": {
+        "name": "田原町站",
+        "address": "東京都台東区西浅草 田原町駅"
+      },
+      "totalMinutes": [
+        120,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "預約鬆餅，順路挑咖啡豆",
+      "note": "紅鶴採當日早上店頭預約，請先查店家公告；此路線從取得的用餐時段起算，不含早上登記與中間等待。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://asakusa-kokusaidori.jp/shop/41/",
+          "https://www.kappabashi.or.jp/shops/117/"
+        ]
+      },
+      "highlightIds": [
+        "asakusa--p_ad9b609d7d486246",
+        "asakusa--p_54b927a85af07aef"
+      ],
+      "art": "/art/source-library/asakusa--p_ad9b609d7d486246.webp",
+      "optionalMinutes": 30
+    }
+  ],
+  "defaultSelection": "kappabashi-tableware-and-cafe",
+  "libraryCoverage": {
+    "added": 12,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_184e27e9c0f46ecd",
+      "p_ad9b609d7d486246",
+      "p_786f709ac9df6eed",
+      "p_c2bc8a559c049512",
+      "p_03b06522b228de6a",
+      "p_cc07870cb0906223",
+      "p_fa597b5398849918",
+      "p_cf12a75d54630bf8",
+      "p_54b927a85af07aef",
+      "p_58381eaff27a2e6d",
+      "p_631cc84f7ca598c6",
+      "p_e6d53140c027e6ef",
+      "p_2c2d8618572883d6",
+      "p_5166ba32987fb735",
+      "p_0c9c659b6d86b287"
+    ]
+  },
+  "scope": {
+    "id": "kappabashi",
+    "name": "合羽橋・西淺草",
+    "kind": "walk",
+    "parentWalk": "asakusa",
+    "scope": "合羽橋道具街與西淺草一至三丁目，從淺草通北側到言問通交會街口；東以國際通為界。",
+    "includes": "合羽橋道具街與西淺草一至三丁目，從淺草通北側到言問通交會街口；東以國際通為界。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.gotokyo.org/book/wp-content/uploads/2026/03/AO2_2603_sanpo-asakusa_low_JP.pdf",
+      "https://hontosaya.com/about",
+      "https://www.asakusaimahan.co.jp/kokusai/",
+      "https://asakusa-kokusaidori.jp/map/",
+      "https://asakusanioideyo.com/45/795/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 12
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "asakusa"
+  ]
+}

@@ -2,21 +2,26 @@
   "places": [
     {
       "id": "osaka-tenma--p_65391eb9038efe61",
-      "name": "千鳥屋宗家 天滿店",
-      "address": "",
-      "group": "shops",
-      "categoryLabel": "購物",
+      "name": "千鳥屋宗家 天満店",
+      "address": "大阪府大阪市北区天神橋4-8-1",
+      "group": "food",
+      "categoryLabel": "和菓子",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「千鳥屋宗家 天滿店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋4-8-1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.7042448,
-        "lng": 135.5113682,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_65391eb9038efe61",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B4-8-1",
+        "lat": 34.70422,
+        "lng": 135.511322,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -26,7 +31,7 @@
           "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
         }
       ],
-      "official": null,
+      "official": "https://www.chidoriya.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -36,25 +41,34 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E5%8D%83%E9%B3%A5%E5%B1%8B%E5%AE%97%E5%AE%B6+%E5%A4%A9%E6%BB%BF%E5%BA%97/@34.7042448,135.5087933,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e6c6d42f2e17:0x1c2a89b6ad90ec6d!8m2!3d34.7042448!4d135.5113682!16s%2Fg%2F1thw6m8b?hl=zh-TW&entry=tts"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_65391eb9038efe61.webp",
+        "alt": "千鳥屋宗家 天満店的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_72393c30d77d056b",
-      "name": "和牛タン次郎 大阪天満店",
-      "address": "",
-      "group": "shops",
-      "categoryLabel": "購物",
+      "name": "和牛たんじ 大阪天満店",
+      "address": "大阪府大阪市北区錦町3-12 アウロラビル2F",
+      "group": "food",
+      "categoryLabel": "燒肉",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「和牛タン次郎 大阪天満店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 大阪府大阪市北区錦町3-12 アウロラビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "原影片以舊名「和牛タン次郎」介紹，現名為「和牛たんじ」，仍是錦町3-12二樓的同一分店。",
       "coordinate": {
-        "lat": 34.7052034,
-        "lng": 135.5121399,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_72393c30d77d056b",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E9%8C%A6%E7%94%BA3-12",
+        "lat": 34.705242,
+        "lng": 135.512024,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -66,7 +80,7 @@
           "seconds": 1398
         }
       ],
-      "official": null,
+      "official": "https://www.wagyu-tanjiro-tenma.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -76,25 +90,34 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E5%92%8C%E7%89%9B%E3%82%BF%E3%83%B3%E6%AC%A1%E9%83%8E+%E5%A4%A7%E9%98%AA%E5%A4%A9%E6%BA%80%E5%BA%97/@34.7052034,135.5121399,16z/data=!4m6!3m5!1s0x6000e7ff28bd0dd1:0x785372c238e3497b!8m2!3d34.7052034!4d135.5121399!16s%2Fg%2F11t6n8knmq?hl=zh-TW&gl=tw&entry=tts"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_72393c30d77d056b.webp",
+        "alt": "和牛たんじ 大阪天満店的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_9c9b0fb489ef24e7",
-      "name": "春駒壽司 本店",
-      "address": "5-chōme-5-2 Tenjinbashi, Kita Ward, Osaka, 530-0041",
+      "name": "春駒（南池袋・營業待確認）",
+      "address": "東京都豊島区南池袋2-18-2 最上ビル1F",
       "group": "food",
-      "categoryLabel": "餐廳",
+      "categoryLabel": "中華料理",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「春駒壽司 本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 5-chōme-5-2 Tenjinbashi, Kita Ward, Osaka, 530-0041。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片收錄的南池袋中華食堂。店家頁目前暫停刊載，營業現況未確認；此處保留影片與原店址紀錄。",
+        "原始資料記錄的地址為 東京都豊島区南池袋2-18-2 最上ビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "原影片連結指向南池袋春駒，已修正先前誤配的大阪壽司店。食べログ目前暫停刊載，尚未取得確切閉店日期或重新營業公告；出發前請另行確認。",
       "coordinate": {
-        "lat": 34.707733999999995,
-        "lng": 135.5116005,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_9c9b0fb489ef24e7",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E5%8D%97%E6%B1%A0%E8%A2%8B2-18-2",
+        "lat": 35.726433,
+        "lng": 139.713287,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -104,7 +127,7 @@
           "url": "https://www.youtube.com/watch?v=jqnjWQicy9k"
         }
       ],
-      "official": null,
+      "official": "https://x.com/harukoma1961",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -112,27 +135,36 @@
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=6656831565755969603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_9c9b0fb489ef24e7.webp",
+        "alt": "春駒（南池袋・營業待確認）的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_bbbbe65f98b0f2d7",
       "name": "鳴門鯛焼本舗 天神橋3丁目店",
-      "address": "",
+      "address": "大阪府大阪市北区天神橋3-8-18",
       "group": "food",
-      "categoryLabel": "餐廳",
+      "categoryLabel": "鯛魚燒",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「鳴門鯛焼本舗 天神橋3丁目店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-8-18。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.7025306,
-        "lng": 135.5114084,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_bbbbe65f98b0f2d7",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-8-18",
+        "lat": 34.702515,
+        "lng": 135.511429,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -142,7 +174,7 @@
           "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
         }
       ],
-      "official": null,
+      "official": "https://taiyaki.co.jp/shop/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -152,26 +184,34 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E9%B3%B4%E9%96%80%E9%AF%9B%E7%87%92%E6%9C%AC%E8%88%96+%E5%A4%A9%E7%A5%9E%E6%A9%8B3%E4%B8%81%E7%9B%AE%E5%BA%97/@34.7061685,135.5014539,15.9z/data=!4m7!3m6!1s0x6000e6c6aebc6c19:0x375342363e71ffde!8m2!3d34.7025306!4d135.5114084!15sChLps7TploDpr5vnhLzmnKzoiJciA4gBAVoWIhTps7TploAg6a-b54S8IOacrOiIl5IBG2phcGFuZXNlX2NvbmZlY3Rpb25lcnlfc2hvcOABAA!16s%2Fg%2F11b7clnq13?hl=zh-TW&entry=tts"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_bbbbe65f98b0f2d7.webp",
+        "alt": "鳴門鯛焼本舗 天神橋3丁目店的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_8d389b499ace1d13",
       "name": "CAFE TOKIONA",
-      "address": "",
+      "address": "大阪府大阪市北区天神橋1-12-19",
       "group": "food",
-      "categoryLabel": "咖啡",
+      "categoryLabel": "喫茶",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「CAFE TOKIONA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋1-12-19。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.6946077,
-        "lng": 135.5117995,
-        "provider": "source-library",
-        "url": "https://maps.app.goo.gl/29jnLoC7snxtRB6h8",
-        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+        "id": "p_8d389b499ace1d13",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B1-12-19",
+        "lat": 34.694592,
+        "lng": 135.511795,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -181,7 +221,7 @@
           "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0"
         }
       ],
-      "official": null,
+      "official": "https://baton-group.com/shop-list/cafe-tokiona/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -191,26 +231,33 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/29jnLoC7snxtRB6h8"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_8d389b499ace1d13.webp",
+        "alt": "CAFE TOKIONA的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_7878919f4b11b5ef",
       "name": "COBATO STAND OSAKA",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "address": "大阪府大阪市北区天満3-5-1 アイアンドアイビル1F",
+      "group": "food",
+      "categoryLabel": "銅鑼燒",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「COBATO STAND OSAKA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.6934865,
-        "lng": 135.5157492,
-        "provider": "source-library",
-        "url": "https://maps.app.goo.gl/ZTdZC3mQ4vJ9p9tN7",
-        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803-5-1",
+        "lat": 34.693417,
+        "lng": 135.515747,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -222,7 +269,7 @@
           "seconds": 1053
         }
       ],
-      "official": null,
+      "official": "https://baton-group.com/shop-list/cobato-stand-osaka/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -232,26 +279,33 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/ZTdZC3mQ4vJ9p9tN7"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_7878919f4b11b5ef.webp",
+        "alt": "COBATO STAND OSAKA的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_3f0e16ea37fefebb",
       "name": "COBATO STORE OSAKA",
-      "address": "",
-      "group": "shops",
-      "categoryLabel": "購物",
+      "address": "大阪府大阪市北区天満3-5-1 アイアンドアイビル1F",
+      "group": "food",
+      "categoryLabel": "餅乾伴手禮",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「COBATO STORE OSAKA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.6934865,
-        "lng": 135.5157492,
-        "provider": "source-library",
-        "url": "https://maps.app.goo.gl/7aBtS9cSvy3AwEo48",
-        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803-5-1",
+        "lat": 34.693417,
+        "lng": 135.515747,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -263,7 +317,7 @@
           "seconds": 1053
         }
       ],
-      "official": null,
+      "official": "https://baton-group.com/shop-list/cobato-store-osaka/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -273,26 +327,34 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/7aBtS9cSvy3AwEo48"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_3f0e16ea37fefebb.webp",
+        "alt": "COBATO STORE OSAKA的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_bb1c5e2b626b74d1",
       "name": "COBATO836",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "address": "大阪府大阪市北区天満2-2-7 世詩花1F",
+      "group": "food",
+      "categoryLabel": "麵包・貝果",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「COBATO836」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 大阪府大阪市北区天満2-2-7 世詩花1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.692163,
-        "lng": 135.515843,
-        "provider": "source-library",
-        "url": "https://maps.app.goo.gl/WZmTjmknWTkK6EHo7",
-        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+        "id": "p_bb1c5e2b626b74d1",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%802-2-7",
+        "lat": 34.692116,
+        "lng": 135.515839,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -304,7 +366,7 @@
           "seconds": 1145
         }
       ],
-      "official": null,
+      "official": "https://baton-group.com/shop-list/cobato836/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -314,25 +376,34 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/WZmTjmknWTkK6EHo7"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_bb1c5e2b626b74d1.webp",
+        "alt": "COBATO836的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_465fbe52caf5a842",
-      "name": "Niku Sangourmand",
-      "address": "〒530-0041 Osaka, Kita Ward, Tenjinbashi, 3-chōme−10−８ 与力町スカイハイツ 102",
+      "name": "ニク サングルマン",
+      "address": "大阪府大阪市北区天神橋3-10-8 与力町スカイハイツ102",
       "group": "food",
-      "categoryLabel": "餐廳",
+      "categoryLabel": "漢堡排",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Niku Sangourmand」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 3-chōme−10−８ 与力町スカイハイツ 102。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-10-8 与力町スカイハイツ102。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.7019722,
-        "lng": 135.5123308,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_465fbe52caf5a842",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-10-8",
+        "lat": 34.701881,
+        "lng": 135.512299,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -344,7 +415,7 @@
           "seconds": 1252
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/nikusangourmand/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -354,25 +425,34 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=7324549046019363727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_465fbe52caf5a842.webp",
+        "alt": "ニク サングルマン的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_e3738d31a2438ec1",
-      "name": "Ogimachi Udon-ya Asuroh",
-      "address": "〒530-0041 Osaka, Kita Ward, Tenjinbashi, 3-chōme−8−３ マチスビル",
+      "name": "扇町うどん屋 あすろう",
+      "address": "大阪府大阪市北区天神橋3-8-3 マチスビル1F",
       "group": "food",
-      "categoryLabel": "餐廳",
+      "categoryLabel": "烏龍麵",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Ogimachi Udon-ya Asuroh」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 3-chōme−8−３ マチスビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-8-3 マチスビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.701752,
-        "lng": 135.511235,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_e3738d31a2438ec1",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-8-3",
+        "lat": 34.701759,
+        "lng": 135.5112,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -384,7 +464,7 @@
           "seconds": 579
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/udon.a.slow/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -394,66 +474,33 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=14951123387409938968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      }
-    },
-    {
-      "id": "osaka-tenma--p_e2ad476b03a2cbbd",
-      "name": "Satsumakko Ramen Higashi Tenma",
-      "address": "1-chōme-26-12 Tenma, Kita Ward, Osaka, 530-0043",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Satsumakko Ramen Higashi Tenma」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-26-12 Tenma, Kita Ward, Osaka, 530-0043。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 34.6967211,
-        "lng": 135.518331,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
-      "sources": [
-        {
-          "channel": "肥波開吃啦",
-          "videoId": "mkKt-P9GfpI",
-          "title": "環台拉麵圖鑑，各大派系通吃特輯30選 ! 拉麵控必備寶典，全台各地拉麵名店通包 ! 【 肥波外食記 】 ft.10萬訂閱QA",
-          "url": "https://www.youtube.com/watch?v=mkKt-P9GfpI",
-          "time": "1:17:33",
-          "seconds": 4653
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_e2ad476b03a2cbbd"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=14364847982411927304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_e3738d31a2438ec1.webp",
+        "alt": "扇町うどん屋 あすろう的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_46f7c0f05a9077ef",
       "name": "SECOND BANANA",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "address": "大阪府大阪市北区天満3-4-22 日宝岩井町ビル2F",
+      "group": "food",
+      "categoryLabel": "咖啡",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「SECOND BANANA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 大阪府大阪市北区天満3-4-22 日宝岩井町ビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.6926918,
-        "lng": 135.51574,
-        "provider": "source-library",
-        "url": "https://maps.app.goo.gl/iDsdhdkoYKPVan8c9",
-        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803-4-22",
+        "lat": 34.692703,
+        "lng": 135.515732,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -463,7 +510,7 @@
           "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0"
         }
       ],
-      "official": null,
+      "official": "https://baton-group.com/shop-list/second-banana/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -473,25 +520,34 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/iDsdhdkoYKPVan8c9"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_46f7c0f05a9077ef.webp",
+        "alt": "SECOND BANANA的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_27a8fd777f23578d",
-      "name": "お好み焼 焼きそば 味の 双月",
-      "address": "",
+      "name": "お好み焼 焼きそば 味の双月",
+      "address": "大阪府大阪市北区天神橋3-9-9",
       "group": "food",
-      "categoryLabel": "餐廳",
+      "categoryLabel": "大阪燒",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「お好み焼 焼きそば 味の 双月」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-9-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.7019927,
-        "lng": 135.5116751,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_27a8fd777f23578d",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-9-9",
+        "lat": 34.701984,
+        "lng": 135.511551,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -501,7 +557,7 @@
           "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/osaka/A2701/A270103/27002280/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -511,26 +567,33 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E9%98%AA%E7%87%92+%E9%9B%99%E6%9C%88/@34.7019927,135.5091002,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e6c41b472699:0xf2b13966e965b80d!8m2!3d34.7019927!4d135.5116751!16s%2Fg%2F1td5x139?hl=zh-TW&entry=tts"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_27a8fd777f23578d.webp",
+        "alt": "お好み焼 焼きそば 味の双月的日系水彩插圖"
       }
     },
     {
       "id": "osaka-tenma--p_7adca45c474ed8da",
       "name": "コバトパン工場 COBATOPAN",
-      "address": "",
+      "address": "大阪府大阪市北区天満3-4-22 日宝岩井町ビル1F-2",
       "group": "food",
-      "categoryLabel": "甜點",
+      "categoryLabel": "麵包",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「コバトパン工場 COBATOPAN」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 大阪府大阪市北区天満3-4-22 日宝岩井町ビル1F-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 34.6927259,
-        "lng": 135.5157141,
-        "provider": "source-library",
-        "url": "https://maps.app.goo.gl/BkUbfNRXv8d1JeNZA",
-        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803-4-22",
+        "lat": 34.692703,
+        "lng": 135.515732,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -542,7 +605,7 @@
           "seconds": 1053
         }
       ],
-      "official": null,
+      "official": "https://baton-group.com/shop-list/cobatopan/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -552,6 +615,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/BkUbfNRXv8d1JeNZA"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_7adca45c474ed8da.webp",
+        "alt": "コバトパン工場 COBATOPAN的日系水彩插圖"
       }
     }
   ],

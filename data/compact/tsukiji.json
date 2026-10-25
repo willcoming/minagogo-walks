@@ -1,0 +1,92 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "routes": [],
+  "places": [
+    {
+      "id": "kuramae--p_499533cd5ccca793",
+      "name": "GINZA NISHIKAWA COFFEE ROASTERY 築地店",
+      "address": "東京都中央区築地2-15-17 築地食パンビル1F",
+      "group": "food",
+      "categoryLabel": "自助餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "銀座に志かわ在築地的咖啡烘焙店，提供吐司與咖啡。保留原影片的築地店紀錄。",
+        "原始資料記錄的地址為 東京都中央区築地2-15-17 築地食パンビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片VKiiTmD8Iqs為築地散步，店家連結指向築地店；原資料誤配為藏前分店，已依影片與官方地址修正。",
+      "coordinate": {
+        "lat": 35.667347,
+        "lng": 139.769943,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%AF%89%E5%9C%B02%E4%B8%81%E7%9B%AE15-17",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "築地二丁目15番17號的地址代表點，非店門實測位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "VKiiTmD8Iqs",
+          "title": "MUST-VISIT ULTIMATE FOOD SPOTS IN TSUKIJI, TOKYO🇯🇵｜Tokyo vlog 2026｜Tsukiji Outer Market",
+          "url": "https://www.youtube.com/watch?v=VKiiTmD8Iqs"
+        }
+      ],
+      "official": "https://www.ginza-nishikawa.co.jp/shop/tsukiji",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_499533cd5ccca793"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_499533cd5ccca793.webp",
+        "alt": "GINZA NISHIKAWA COFFEE ROASTERY 築地店的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "tsukiji",
+        "name": "築地",
+        "href": "/walks/tsukiji/"
+      },
+      "recommendation": null
+    }
+  ],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_499533cd5ccca793"
+    ]
+  },
+  "scope": {
+    "id": "tsukiji",
+    "name": "築地",
+    "city": "東京",
+    "region": "關東",
+    "kind": "record-area",
+    "parentWalk": "kuramae",
+    "scope": "築地二丁目、晴海通沿線的已確認影片店家。",
+    "includes": "原影片與店家官方地址一致的築地店紀錄。",
+    "excludes": "不將同品牌的藏前分店或未收錄店家納入。",
+    "basis": "依原影片與店家地址修正分店誤配；單點紀錄不編造完整散步行程。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=VKiiTmD8Iqs",
+      "https://www.ginza-nishikawa.co.jp/shop/tsukiji"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kuramae"
+  ]
+}

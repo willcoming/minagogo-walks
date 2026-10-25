@@ -3,75 +3,423 @@
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
-      "name": "hannoc",
-      "address": "大阪府大阪市北区万歳町4-12 浪速ビル1階",
+      "name": "大阪浪花家",
+      "address": "大阪府大阪市北区中崎1-9-21",
       "group": "food",
-      "categoryLabel": "當代甜點",
-      "caption": "為一塊有新意的蛋糕，在出站後先停一下。",
+      "categoryLabel": "鯛魚燒・刨冰",
+      "caption": "在商店街裡，換一份熱熱的和風點心。",
       "descriptionParagraphs": [
-        "hannoc 是讓甜點師以各自感性創作的甜點店，在傳統製法上加入新的素材搭配。除了蛋糕，也有烘焙點心與由自製焦糖、糖漿延伸的飲品。",
-        "店在中崎町站旁，內用與外帶都能安排進散步。想逛更多巷弄可選一份外帶點心；想坐下來看甜點細節，則先用店家的線上候位方式安排時間。"
+        "大阪浪花家位在天五中崎通商店街，以鯛魚燒與刨冰為人熟悉。它承襲東京浪花家總本店的製作系譜，薄皮與紅豆餡讓和式點心成為這段咖啡街散步的另一種口味。",
+        "可以把這裡排在往商店街延伸的一段，依季節選擇熱點心或刨冰。店面緊貼生活商店街，想坐下享用時先依現場安排，讓買菜與通行的人保持順暢。"
       ],
-      "note": "內用不接受座位預約，可使用官方線上候位。",
-      "official": "https://hannoc.jp/pages/shop-information",
-      "coordinate": {
-        "lat": 34.705692,
-        "lng": 135.50415,
-        "provider": "gsi",
-        "label": "日本國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%87%E6%AD%B3%E7%94%BA%EF%BC%94%E7%95%AA%EF%BC%91%EF%BC%92%E5%8F%B7",
-        "license": "国土地理院コンテンツ利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
-      },
-      "id": "nakazakicho--hannoc",
-      "order": 1,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "hannoc 是讓甜點師以各自感性創作的甜點店，在傳統製法上加入新的素材搭配。除了蛋糕，也有烘焙點心與由自製焦糖、糖漿延伸的飲品。\n\n店在中崎町站旁，內用與外帶都能安排進散步。想逛更多巷弄可選一份外帶點心；想坐下來看甜點細節，則先用店家的線上候位方式安排時間。",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/hannoc.webp",
-        "alt": "hannoc，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "イロリムラ",
-      "address": "大阪府大阪市北区中崎1-4-15",
-      "group": "sights",
-      "categoryLabel": "庭院藝廊",
-      "caption": "推開綠色小樓的門，看看今天正在發生的展覽。",
-      "descriptionParagraphs": [
-        "イロリムラ是有中庭的複合藝術空間，畫廊、展廳與工作空間環繞其間。不同規模的展場讓繪畫、攝影與各類創作，都能在中崎町找到展示的角落。",
-        "展覽內容依檔期更換，可把它當作出站後的第一個文化停留。開放時間也依展演而異，請先挑一個有展期的日子再來，把看展留成散步的一段。"
-      ],
-      "note": "開放依展演檔期而定，非固定常設展；請核對當期展訊。",
-      "official": "http://irori2005.com/",
+      "official": "https://www.instagram.com/naniwaya.staff/",
       "extraSources": [
-        "https://irorimura2026.sblo.jp/",
-        "https://rental-gallery.jp/irorimura/"
+        "https://metronine.osaka/tw/spot-details/?spot_id=15949662695504"
       ],
-      "photoPage": "https://rental-gallery.jp/irorimura/",
+      "photoPage": "https://metronine.osaka/tw/spot-details/?spot_id=15949662695504",
       "coordinate": {
-        "lat": 34.7065298,
-        "lng": 135.5055157,
-        "url": "https://www.openstreetmap.org/node/4755568882",
+        "lat": 34.707451,
+        "lng": 135.507221,
+        "url": "https://www.openstreetmap.org/node/3175869962",
         "provider": "osm",
         "label": "OpenStreetMap 地點代表點",
         "license": "ODbL 1.0",
         "licenseUrl": "https://www.openstreetmap.org/copyright",
         "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
       },
-      "id": "nakazakicho--irori",
+      "id": "nakazakicho--naniwaya",
+      "order": 1,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "大阪浪花家位在天五中崎通商店街，以鯛魚燒與刨冰為人熟悉。它承襲東京浪花家總本店的製作系譜，薄皮與紅豆餡讓和式點心成為這段咖啡街散步的另一種口味。\n\n可以把這裡排在往商店街延伸的一段，依季節選擇熱點心或刨冰。店面緊貼生活商店街，想坐下享用時先依現場安排，讓買菜與通行的人保持順暢。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/naniwaya.webp",
+        "alt": "大阪浪花家，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
+    },
+    {
+      "name": "蜜香屋 中崎町本店",
+      "address": "大阪府大阪市北区中崎1-6-20",
+      "group": "food",
+      "categoryLabel": "烤地瓜",
+      "caption": "用一份單純的烤地瓜，暖暖地接上散步。",
+      "descriptionParagraphs": [
+        "蜜香屋以烤地瓜為主角，與種子島合作農家從土壤與栽種一起思考原料，再把地瓜做成簡單的點心。店家也把地瓜的不同吃法，延伸為可在店裡享用或帶走的選擇。",
+        "這一站適合在逛完藝廊與選物後，換一種樸實的甜味。可以挑選一份烤地瓜，把剩下的胃口留給街上其他小店，不必一次把所有甜點排滿。"
+      ],
+      "official": "https://mikkouya.com/",
+      "coordinate": {
+        "lat": 34.7073667,
+        "lng": 135.5070199,
+        "url": "https://www.openstreetmap.org/node/9220521317",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "nakazakicho--mikkouya",
       "order": 2,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "イロリムラ是有中庭的複合藝術空間，畫廊、展廳與工作空間環繞其間。不同規模的展場讓繪畫、攝影與各類創作，都能在中崎町找到展示的角落。\n\n展覽內容依檔期更換，可把它當作出站後的第一個文化停留。開放時間也依展演而異，請先挑一個有展期的日子再來，把看展留成散步的一段。",
+      "description": "蜜香屋以烤地瓜為主角，與種子島合作農家從土壤與栽種一起思考原料，再把地瓜做成簡單的點心。店家也把地瓜的不同吃法，延伸為可在店裡享用或帶走的選擇。\n\n這一站適合在逛完藝廊與選物後，換一種樸實的甜味。可以挑選一份烤地瓜，把剩下的胃口留給街上其他小店，不必一次把所有甜點排滿。",
+      "note": "",
       "illustration": {
-        "image": "/art/walks/nakazakicho/irori.webp",
-        "alt": "イロリムラ，依實照繪製的日系水彩插圖"
+        "image": "/art/walks/nakazakicho/mikkouya.webp",
+        "alt": "蜜香屋 中崎町本店，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": "挑一份地瓜點心，吃多少就買多少，留時間看看附近的小店。",
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://arabiq.net/",
+          "https://mikkouya.com/"
+        ]
+      }
+    },
+    {
+      "name": "Guignol ギニョール",
+      "address": "大阪府大阪市北区中崎2-3-28",
+      "group": "shops",
+      "categoryLabel": "古物・作家選物",
+      "caption": "從星空與博物的小物，翻開一間店的想像。",
+      "descriptionParagraphs": [
+        "Guignol 以天體、博物與人形為線索，集合手工作品、古董配件與從法國等地選來的物件。深色木頭與密集陳列，使店裡像一座可以慢慢閱讀的小型收藏室。",
+        "二樓的畫廊也安排企劃展與個展，適合與附近 JAM POT 一起逛。兩店各有不同氣質，喜歡獨立創作的人可以多留一點挑選的時間。"
+      ],
+      "official": "https://guignol.jp/",
+      "extraSources": [
+        "https://www.gltjp.com/en/directory/item/19151/"
+      ],
+      "coordinate": {
+        "lat": 34.707966,
+        "lng": 135.506073,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E5%B4%8E%E4%BA%8C%E4%B8%81%E7%9B%AE%EF%BC%93%E7%95%AA%EF%BC%92%EF%BC%98%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "id": "nakazakicho--guignol",
+      "order": 3,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "Guignol 以天體、博物與人形為線索，集合手工作品、古董配件與從法國等地選來的物件。深色木頭與密集陳列，使店裡像一座可以慢慢閱讀的小型收藏室。\n\n二樓的畫廊也安排企劃展與個展，適合與附近 JAM POT 一起逛。兩店各有不同氣質，喜歡獨立創作的人可以多留一點挑選的時間。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/guignol.webp",
+        "alt": "Guignol ギニョール，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": "看看當期展覽與選物。",
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.greenpepe3104.com/",
+          "https://guignol.jp/",
+          "https://taiyounotou.com/shops/honten/"
+        ]
+      }
+    },
+    {
+      "name": "JAM POT",
+      "address": "大阪府大阪市北区中崎3-2-31",
+      "group": "shops",
+      "categoryLabel": "手作雜貨",
+      "caption": "把目光留給小小的飾品，尋一件作家的手感。",
+      "descriptionParagraphs": [
+        "JAM POT 販售作家製作的飾品、娃娃與小物，並以天體、植物等主題策劃展覽與個展。小小的店面裡，細緻陳列讓逛店像是在翻一冊立體的手作圖鑑。",
+        "這一站適合喜歡獨立創作、手工配件與細節的人。店家採展覽或活動期間營業，並非全年固定開門；先確認展期，再把它放進當天散步清單。"
+      ],
+      "note": "僅於展覽及活動期間營業，營業日請以官方 Access 與當期展覽公告為準。",
+      "official": "https://jampot.jp/",
+      "coordinate": {
+        "lat": 34.7081,
+        "lng": 135.505661,
+        "url": "https://www.openstreetmap.org/node/5500183621",
+        "precisionNote": "OSM JAMPOT 店家節點，地址已與官方中崎3-2-31核對。",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright"
+      },
+      "id": "nakazakicho--jampot",
+      "order": 4,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "JAM POT 販售作家製作的飾品、娃娃與小物，並以天體、植物等主題策劃展覽與個展。小小的店面裡，細緻陳列讓逛店像是在翻一冊立體的手作圖鑑。\n\n這一站適合喜歡獨立創作、手工配件與細節的人。店家採展覽或活動期間營業，並非全年固定開門；先確認展期，再把它放進當天散步清單。",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/jampot.webp",
+        "alt": "JAM POT，依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
+    },
+    {
+      "name": "green pepe",
+      "address": "大阪府大阪市北区中崎3-1-12",
+      "group": "shops",
+      "categoryLabel": "昭和古著・雜貨",
+      "caption": "從花紋衣料與老物件，找回昭和的顏色。",
+      "descriptionParagraphs": [
+        "green pepe 把昭和時期的衣服、雜貨與生活物件放在同一間小店，帶有鮮明花紋的布料與舊物細節，是慢慢尋寶的理由。木格立面與門前陳列也與周圍老屋連成一景。",
+        "喜歡古著或生活設計的人，可以從衣架看到小物，不必帶著購物清單來。每次進貨組成都不同，沿路順逛更容易發現與自己日常合得來的一件物品。"
+      ],
+      "note": "週二休息。",
+      "official": "https://www.greenpepe3104.com/",
+      "extraSources": [
+        "https://www.greenpepe3104.com/new_arrival"
+      ],
+      "coordinate": {
+        "lat": 34.7079009,
+        "lng": 135.505368,
+        "url": "https://www.openstreetmap.org/node/3937600550",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "nakazakicho--greenpepe",
+      "order": 5,
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "20:15",
+          "seconds": 1215
+        }
+      ],
+      "description": "green pepe 把昭和時期的衣服、雜貨與生活物件放在同一間小店，帶有鮮明花紋的布料與舊物細節，是慢慢尋寶的理由。木格立面與門前陳列也與周圍老屋連成一景。\n\n喜歡古著或生活設計的人，可以從衣架看到小物，不必帶著購物清單來。每次進貨組成都不同，沿路順逛更容易發現與自己日常合得來的一件物品。",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/greenpepe.webp",
+        "alt": "green pepe，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": "翻找古著與復古生活小物。",
+      "sourceLibraryIds": [
+        "p_c251d3a82e3fcdd2"
+      ],
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.greenpepe3104.com/",
+          "https://guignol.jp/",
+          "https://taiyounotou.com/shops/honten/"
+        ]
+      }
+    },
+    {
+      "name": "中崎町ホール",
+      "address": "大阪府大阪市北区中崎西1-6-8",
+      "group": "sights",
+      "categoryLabel": "街區文化",
+      "caption": "從低矮的屋簷與小廣場，走進中崎町的生活。",
+      "descriptionParagraphs": [
+        "中崎町ホール位在舊濟美小學校址的福祉中心敷地，是由地方居民管理的公共設施。低矮屋身與前方空地，讓周圍密集的巷弄多出一處開闊的街角。",
+        "散步時可從公共道路看看外觀，再沿巷子走向老屋咖啡店。館內以租借活動為主；只有當期對外開放的市集、展演或社區活動，才適合依公告入場。"
+      ],
+      "note": "館內為活動租借空間，平日未必開放參觀；請尊重社區使用與現場告示。",
+      "official": "https://www.nakazakichohall.com/index.html",
+      "coordinate": {
+        "lat": 34.7076529,
+        "lng": 135.5047603,
+        "url": "https://www.openstreetmap.org/node/3153995764",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "id": "nakazakicho--hall",
+      "order": 6,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "中崎町ホール位在舊濟美小學校址的福祉中心敷地，是由地方居民管理的公共設施。低矮屋身與前方空地，讓周圍密集的巷弄多出一處開闊的街角。\n\n散步時可從公共道路看看外觀，再沿巷子走向老屋咖啡店。館內以租借活動為主；只有當期對外開放的市集、展演或社區活動，才適合依公告入場。",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/hall.webp",
+        "alt": "中崎町ホール，依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
+    },
+    {
+      "name": "Salon de AManTo 天人",
+      "address": "大阪府大阪市北区中崎西1-7-26",
+      "group": "food",
+      "categoryLabel": "老屋咖啡",
+      "caption": "在舊木樑與古董家具之間，喝一杯路上的咖啡。",
+      "descriptionParagraphs": [
+        "天人把中崎町的老屋改為咖啡與藝術交流空間，木構架、古董家具與留有時間痕跡的室內，是這一站最鮮明的風景。2001 年開始的老屋再生活動，也與中崎町後來的小店發展相連。",
+        "可以把這裡安排為巷弄散步中途的一杯咖啡，也可留意官方公布的展演或交流活動。店內的生活感適合慢慢看，拍照前先詢問，避免打擾其他客人。"
+      ],
+      "note": "",
+      "official": "https://amanto.jp/cafe/amanto/",
+      "extraSources": [
+        "https://amanto.jp/japanese/access/",
+        "https://osaka-info.jp/experience/ja/osaka/spot/203"
+      ],
+      "coordinate": {
+        "lat": 34.7080618,
+        "lng": 135.5043734,
+        "url": "https://www.openstreetmap.org/node/3176116590",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "id": "nakazakicho--amanto",
+      "order": 7,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "天人把中崎町的老屋改為咖啡與藝術交流空間，木構架、古董家具與留有時間痕跡的室內，是這一站最鮮明的風景。2001 年開始的老屋再生活動，也與中崎町後來的小店發展相連。\n\n可以把這裡安排為巷弄散步中途的一杯咖啡，也可留意官方公布的展演或交流活動。店內的生活感適合慢慢看，拍照前先詢問，避免打擾其他客人。",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/amanto.webp",
+        "alt": "Salon de AManTo 天人，依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
+    },
+    {
+      "name": "珈琲舎・書肆アラビク",
+      "address": "大阪府大阪市北区中崎3-2-14",
+      "group": "shops",
+      "categoryLabel": "書店・咖啡・藝廊",
+      "caption": "在書與人形之間，找一個幻想文學的午後。",
+      "descriptionParagraphs": [
+        "アラビク把書店、藝廊與咖啡集合在同一個老屋空間，選書以推理與幻想文學等為主，也展示繪畫與創作人形。門口的木格與植物，延續中崎町巷弄的小尺度。",
+        "喜歡閱讀與視覺藝術，可以先看看當期展示，再依座位情況留一杯咖啡。這裡的樂趣在於不同媒材並排，讓逛書、看展與休息自然接續。"
+      ],
+      "official": "https://arabiq.net/",
+      "extraSources": [
+        "https://arabiq.net/menu"
+      ],
+      "coordinate": {
+        "lat": 34.7084064,
+        "lng": 135.504792,
+        "url": "https://www.openstreetmap.org/node/3176396761",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "nakazakicho--arabiq",
+      "order": 8,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "アラビク把書店、藝廊與咖啡集合在同一個老屋空間，選書以推理與幻想文學等為主，也展示繪畫與創作人形。門口的木格與植物，延續中崎町巷弄的小尺度。\n\n喜歡閱讀與視覺藝術，可以先看看當期展示，再依座位情況留一杯咖啡。這裡的樂趣在於不同媒材並排，讓逛書、看展與休息自然接續。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/arabiq.webp",
+        "alt": "珈琲舎・書肆アラビク，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": "從書架與當期展覽挑一個有興趣的角落，想休息再點杯咖啡。",
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://arabiq.net/",
+          "https://mikkouya.com/"
+        ]
+      }
+    },
+    {
+      "name": "cafe 太陽ノ塔 本店",
+      "address": "大阪府大阪市北区中崎2-3-12",
+      "group": "food",
+      "categoryLabel": "懷舊喫茶",
+      "caption": "一顆櫻桃布丁，把散步收進懷舊喫茶的節奏。",
+      "descriptionParagraphs": [
+        "太陽ノ塔的中崎町本店以古董家具與懷舊燈飾營造像回到另一個家般的空間。店內有餐食，也供應帶有純喫茶氣息的布丁與本店限定手作司康。",
+        "若前一站已喝過咖啡，可在這裡留一份甜點的時間；想吃正餐，也可依當日菜單調整。櫻桃與奶油裝飾的布丁，讓甜點時間多一點復古的儀式感。"
+      ],
+      "note": "",
+      "official": "https://taiyounotou.com/shops/honten/",
+      "coordinate": {
+        "lat": 34.7085236,
+        "lng": 135.5057961,
+        "url": "https://www.openstreetmap.org/node/3211790261",
+        "precisionNote": "OSM branch=中崎町本店，電話及中崎二丁目3-12與官網一致；非都島通上的洋菓子店。",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright"
+      },
+      "id": "nakazakicho--taiyo",
+      "order": 9,
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg"
+        }
+      ],
+      "description": "太陽ノ塔的中崎町本店以古董家具與懷舊燈飾營造像回到另一個家般的空間。店內有餐食，也供應帶有純喫茶氣息的布丁與本店限定手作司康。\n\n若前一站已喝過咖啡，可在這裡留一份甜點的時間；想吃正餐，也可依當日菜單調整。櫻桃與奶油裝飾的布丁，讓甜點時間多一點復古的儀式感。",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/taiyo.webp",
+        "alt": "cafe 太陽ノ塔 本店，依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": "用一杯咖啡留住長屋的午後。",
+      "sourceLibraryIds": [
+        "p_c1207b0c31e6a919"
+      ],
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.greenpepe3104.com/",
+          "https://guignol.jp/",
+          "https://taiyounotou.com/shops/honten/"
+        ]
+      }
     },
     {
       "name": "おにぎりごりちゃん 中崎町本店",
@@ -110,7 +458,7 @@
         }
       ],
       "id": "nakazakicho--gori",
-      "order": 3,
+      "order": 10,
       "verifiedAt": "2026-10-24",
       "description": "ごりちゃん位在中崎町站附近，是把飯糰當成一餐主角的小店。厚實的海苔包住白飯，內餡從飯糰上緣露出，與周圍以咖啡甜點為主的散步節奏，形成另一種踏實的日常滋味。\n\n可以先在這裡吃點鹹食，再慢慢找老屋與雜貨。店鋪在中崎一丁目，適合作為進出車站時的一站；接著走向中崎西的咖啡巷弄，就能把餐食與午後散步串在一起。",
       "illustration": {
@@ -120,554 +468,131 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_bf9945320fd6483d"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
     },
     {
-      "name": "Guignol ギニョール",
-      "address": "大阪府大阪市北区中崎2-3-28",
-      "group": "shops",
-      "categoryLabel": "古物・作家選物",
-      "caption": "從星空與博物的小物，翻開一間店的想像。",
+      "name": "イロリムラ",
+      "address": "大阪府大阪市北区中崎1-4-15",
+      "group": "sights",
+      "categoryLabel": "庭院藝廊",
+      "caption": "推開綠色小樓的門，看看今天正在發生的展覽。",
       "descriptionParagraphs": [
-        "Guignol 以天體、博物與人形為線索，集合手工作品、古董配件與從法國等地選來的物件。深色木頭與密集陳列，使店裡像一座可以慢慢閱讀的小型收藏室。",
-        "二樓的畫廊也安排企劃展與個展，適合與附近 JAM POT 一起逛。兩店各有不同氣質，喜歡獨立創作的人可以多留一點挑選的時間。"
+        "イロリムラ是有中庭的複合藝術空間，畫廊、展廳與工作空間環繞其間。不同規模的展場讓繪畫、攝影與各類創作，都能在中崎町找到展示的角落。",
+        "展覽內容依檔期更換，可把它當作出站後的第一個文化停留。開放時間也依展演而異，請先挑一個有展期的日子再來，把看展留成散步的一段。"
       ],
-      "official": "https://guignol.jp/",
+      "note": "開放依展演檔期而定，非固定常設展；請核對當期展訊。",
+      "official": "http://irori2005.com/",
       "extraSources": [
-        "https://www.gltjp.com/en/directory/item/19151/"
+        "https://irorimura2026.sblo.jp/",
+        "https://rental-gallery.jp/irorimura/"
       ],
+      "photoPage": "https://rental-gallery.jp/irorimura/",
       "coordinate": {
-        "lat": 34.707966,
-        "lng": 135.506073,
+        "lat": 34.7065298,
+        "lng": 135.5055157,
+        "url": "https://www.openstreetmap.org/node/4755568882",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "nakazakicho--irori",
+      "order": 11,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "イロリムラ是有中庭的複合藝術空間，畫廊、展廳與工作空間環繞其間。不同規模的展場讓繪畫、攝影與各類創作，都能在中崎町找到展示的角落。\n\n展覽內容依檔期更換，可把它當作出站後的第一個文化停留。開放時間也依展演而異，請先挑一個有展期的日子再來，把看展留成散步的一段。",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/irori.webp",
+        "alt": "イロリムラ，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
+    },
+    {
+      "name": "hannoc",
+      "address": "大阪府大阪市北区万歳町4-12 浪速ビル1階",
+      "group": "food",
+      "categoryLabel": "當代甜點",
+      "caption": "為一塊有新意的蛋糕，在出站後先停一下。",
+      "descriptionParagraphs": [
+        "hannoc 是讓甜點師以各自感性創作的甜點店，在傳統製法上加入新的素材搭配。除了蛋糕，也有烘焙點心與由自製焦糖、糖漿延伸的飲品。",
+        "店在中崎町站旁，內用與外帶都能安排進散步。想逛更多巷弄可選一份外帶點心；想坐下來看甜點細節，則先用店家的線上候位方式安排時間。"
+      ],
+      "note": "內用不接受座位預約，可使用官方線上候位。",
+      "official": "https://hannoc.jp/pages/shop-information",
+      "coordinate": {
+        "lat": 34.705692,
+        "lng": 135.50415,
         "provider": "gsi",
         "label": "日本國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E5%B4%8E%E4%BA%8C%E4%B8%81%E7%9B%AE%EF%BC%93%E7%95%AA%EF%BC%92%EF%BC%98%E5%8F%B7",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%87%E6%AD%B3%E7%94%BA%EF%BC%94%E7%95%AA%EF%BC%91%EF%BC%92%E5%8F%B7",
         "license": "国土地理院コンテンツ利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
         "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
       },
-      "id": "nakazakicho--guignol",
-      "order": 4,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "Guignol 以天體、博物與人形為線索，集合手工作品、古董配件與從法國等地選來的物件。深色木頭與密集陳列，使店裡像一座可以慢慢閱讀的小型收藏室。\n\n二樓的畫廊也安排企劃展與個展，適合與附近 JAM POT 一起逛。兩店各有不同氣質，喜歡獨立創作的人可以多留一點挑選的時間。",
-      "note": "",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/guignol.webp",
-        "alt": "Guignol ギニョール，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": "看看當期展覽與選物。"
-    },
-    {
-      "name": "JAM POT",
-      "address": "大阪府大阪市北区中崎3-2-31",
-      "group": "shops",
-      "categoryLabel": "手作雜貨",
-      "caption": "把目光留給小小的飾品，尋一件作家的手感。",
-      "descriptionParagraphs": [
-        "JAM POT 販售作家製作的飾品、娃娃與小物，並以天體、植物等主題策劃展覽與個展。小小的店面裡，細緻陳列讓逛店像是在翻一冊立體的手作圖鑑。",
-        "這一站適合喜歡獨立創作、手工配件與細節的人。店家採展覽或活動期間營業，並非全年固定開門；先確認展期，再把它放進當天散步清單。"
-      ],
-      "note": "僅於展覽及活動期間營業，營業日請以官方 Access 與當期展覽公告為準。",
-      "official": "https://jampot.jp/",
-      "coordinate": {
-        "lat": 34.7081,
-        "lng": 135.505661,
-        "url": "https://www.openstreetmap.org/node/5500183621",
-        "precisionNote": "OSM JAMPOT 店家節點，地址已與官方中崎3-2-31核對。",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright"
-      },
-      "id": "nakazakicho--jampot",
-      "order": 5,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "JAM POT 販售作家製作的飾品、娃娃與小物，並以天體、植物等主題策劃展覽與個展。小小的店面裡，細緻陳列讓逛店像是在翻一冊立體的手作圖鑑。\n\n這一站適合喜歡獨立創作、手工配件與細節的人。店家採展覽或活動期間營業，並非全年固定開門；先確認展期，再把它放進當天散步清單。",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/jampot.webp",
-        "alt": "JAM POT，依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "green pepe",
-      "address": "大阪府大阪市北区中崎3-1-12",
-      "group": "shops",
-      "categoryLabel": "昭和古著・雜貨",
-      "caption": "從花紋衣料與老物件，找回昭和的顏色。",
-      "descriptionParagraphs": [
-        "green pepe 把昭和時期的衣服、雜貨與生活物件放在同一間小店，帶有鮮明花紋的布料與舊物細節，是慢慢尋寶的理由。木格立面與門前陳列也與周圍老屋連成一景。",
-        "喜歡古著或生活設計的人，可以從衣架看到小物，不必帶著購物清單來。每次進貨組成都不同，沿路順逛更容易發現與自己日常合得來的一件物品。"
-      ],
-      "note": "週二休息。",
-      "official": "https://www.greenpepe3104.com/",
-      "extraSources": [
-        "https://www.greenpepe3104.com/new_arrival"
-      ],
-      "coordinate": {
-        "lat": 34.7079009,
-        "lng": 135.505368,
-        "url": "https://www.openstreetmap.org/node/3937600550",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "id": "nakazakicho--greenpepe",
-      "order": 6,
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "E_z5AGwMDSg",
-          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
-          "time": "20:15",
-          "seconds": 1215
-        }
-      ],
-      "description": "green pepe 把昭和時期的衣服、雜貨與生活物件放在同一間小店，帶有鮮明花紋的布料與舊物細節，是慢慢尋寶的理由。木格立面與門前陳列也與周圍老屋連成一景。\n\n喜歡古著或生活設計的人，可以從衣架看到小物，不必帶著購物清單來。每次進貨組成都不同，沿路順逛更容易發現與自己日常合得來的一件物品。",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/greenpepe.webp",
-        "alt": "green pepe，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": "翻找古著與復古生活小物。",
-      "sourceLibraryIds": [
-        "p_c251d3a82e3fcdd2"
-      ]
-    },
-    {
-      "name": "中崎町ホール",
-      "address": "大阪府大阪市北区中崎西1-6-8",
-      "group": "sights",
-      "categoryLabel": "街區文化",
-      "caption": "從低矮的屋簷與小廣場，走進中崎町的生活。",
-      "descriptionParagraphs": [
-        "中崎町ホール位在舊濟美小學校址的福祉中心敷地，是由地方居民管理的公共設施。低矮屋身與前方空地，讓周圍密集的巷弄多出一處開闊的街角。",
-        "散步時可從公共道路看看外觀，再沿巷子走向老屋咖啡店。館內以租借活動為主；只有當期對外開放的市集、展演或社區活動，才適合依公告入場。"
-      ],
-      "note": "館內為活動租借空間，平日未必開放參觀；請尊重社區使用與現場告示。",
-      "official": "https://www.nakazakichohall.com/index.html",
-      "coordinate": {
-        "lat": 34.7076529,
-        "lng": 135.5047603,
-        "url": "https://www.openstreetmap.org/node/3153995764",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
-      },
-      "id": "nakazakicho--hall",
-      "order": 7,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "中崎町ホール位在舊濟美小學校址的福祉中心敷地，是由地方居民管理的公共設施。低矮屋身與前方空地，讓周圍密集的巷弄多出一處開闊的街角。\n\n散步時可從公共道路看看外觀，再沿巷子走向老屋咖啡店。館內以租借活動為主；只有當期對外開放的市集、展演或社區活動，才適合依公告入場。",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/hall.webp",
-        "alt": "中崎町ホール，依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "Salon de AManTo 天人",
-      "address": "大阪府大阪市北区中崎西1-7-26",
-      "group": "food",
-      "categoryLabel": "老屋咖啡",
-      "caption": "在舊木樑與古董家具之間，喝一杯路上的咖啡。",
-      "descriptionParagraphs": [
-        "天人把中崎町的老屋改為咖啡與藝術交流空間，木構架、古董家具與留有時間痕跡的室內，是這一站最鮮明的風景。2001 年開始的老屋再生活動，也與中崎町後來的小店發展相連。",
-        "可以把這裡安排為巷弄散步中途的一杯咖啡，也可留意官方公布的展演或交流活動。店內的生活感適合慢慢看，拍照前先詢問，避免打擾其他客人。"
-      ],
-      "note": "",
-      "official": "https://amanto.jp/cafe/amanto/",
-      "extraSources": [
-        "https://amanto.jp/japanese/access/",
-        "https://osaka-info.jp/experience/ja/osaka/spot/203"
-      ],
-      "coordinate": {
-        "lat": 34.7080618,
-        "lng": 135.5043734,
-        "url": "https://www.openstreetmap.org/node/3176116590",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
-      },
-      "id": "nakazakicho--amanto",
-      "order": 8,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "天人把中崎町的老屋改為咖啡與藝術交流空間，木構架、古董家具與留有時間痕跡的室內，是這一站最鮮明的風景。2001 年開始的老屋再生活動，也與中崎町後來的小店發展相連。\n\n可以把這裡安排為巷弄散步中途的一杯咖啡，也可留意官方公布的展演或交流活動。店內的生活感適合慢慢看，拍照前先詢問，避免打擾其他客人。",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/amanto.webp",
-        "alt": "Salon de AManTo 天人，依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "珈琲舎・書肆アラビク",
-      "address": "大阪府大阪市北区中崎3-2-14",
-      "group": "shops",
-      "categoryLabel": "書店・咖啡・藝廊",
-      "caption": "在書與人形之間，找一個幻想文學的午後。",
-      "descriptionParagraphs": [
-        "アラビク把書店、藝廊與咖啡集合在同一個老屋空間，選書以推理與幻想文學等為主，也展示繪畫與創作人形。門口的木格與植物，延續中崎町巷弄的小尺度。",
-        "喜歡閱讀與視覺藝術，可以先看看當期展示，再依座位情況留一杯咖啡。這裡的樂趣在於不同媒材並排，讓逛書、看展與休息自然接續。"
-      ],
-      "official": "https://arabiq.net/",
-      "extraSources": [
-        "https://arabiq.net/menu"
-      ],
-      "coordinate": {
-        "lat": 34.7084064,
-        "lng": 135.504792,
-        "url": "https://www.openstreetmap.org/node/3176396761",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "id": "nakazakicho--arabiq",
-      "order": 9,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "アラビク把書店、藝廊與咖啡集合在同一個老屋空間，選書以推理與幻想文學等為主，也展示繪畫與創作人形。門口的木格與植物，延續中崎町巷弄的小尺度。\n\n喜歡閱讀與視覺藝術，可以先看看當期展示，再依座位情況留一杯咖啡。這裡的樂趣在於不同媒材並排，讓逛書、看展與休息自然接續。",
-      "note": "",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/arabiq.webp",
-        "alt": "珈琲舎・書肆アラビク，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": "從書架與當期展覽挑一個有興趣的角落，想休息再點杯咖啡。"
-    },
-    {
-      "name": "cafe 太陽ノ塔 本店",
-      "address": "大阪府大阪市北区中崎2-3-12",
-      "group": "food",
-      "categoryLabel": "懷舊喫茶",
-      "caption": "一顆櫻桃布丁，把散步收進懷舊喫茶的節奏。",
-      "descriptionParagraphs": [
-        "太陽ノ塔的中崎町本店以古董家具與懷舊燈飾營造像回到另一個家般的空間。店內有餐食，也供應帶有純喫茶氣息的布丁與本店限定手作司康。",
-        "若前一站已喝過咖啡，可在這裡留一份甜點的時間；想吃正餐，也可依當日菜單調整。櫻桃與奶油裝飾的布丁，讓甜點時間多一點復古的儀式感。"
-      ],
-      "note": "",
-      "official": "https://taiyounotou.com/shops/honten/",
-      "coordinate": {
-        "lat": 34.7085236,
-        "lng": 135.5057961,
-        "url": "https://www.openstreetmap.org/node/3211790261",
-        "precisionNote": "OSM branch=中崎町本店，電話及中崎二丁目3-12與官網一致；非都島通上的洋菓子店。",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright"
-      },
-      "id": "nakazakicho--taiyo",
-      "order": 10,
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "E_z5AGwMDSg",
-          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg"
-        }
-      ],
-      "description": "太陽ノ塔的中崎町本店以古董家具與懷舊燈飾營造像回到另一個家般的空間。店內有餐食，也供應帶有純喫茶氣息的布丁與本店限定手作司康。\n\n若前一站已喝過咖啡，可在這裡留一份甜點的時間；想吃正餐，也可依當日菜單調整。櫻桃與奶油裝飾的布丁，讓甜點時間多一點復古的儀式感。",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/taiyo.webp",
-        "alt": "cafe 太陽ノ塔 本店，依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": "用一杯咖啡留住長屋的午後。",
-      "sourceLibraryIds": [
-        "p_c1207b0c31e6a919"
-      ]
-    },
-    {
-      "name": "蜜香屋 中崎町本店",
-      "address": "大阪府大阪市北区中崎1-6-20",
-      "group": "food",
-      "categoryLabel": "烤地瓜",
-      "caption": "用一份單純的烤地瓜，暖暖地接上散步。",
-      "descriptionParagraphs": [
-        "蜜香屋以烤地瓜為主角，與種子島合作農家從土壤與栽種一起思考原料，再把地瓜做成簡單的點心。店家也把地瓜的不同吃法，延伸為可在店裡享用或帶走的選擇。",
-        "這一站適合在逛完藝廊與選物後，換一種樸實的甜味。可以挑選一份烤地瓜，把剩下的胃口留給街上其他小店，不必一次把所有甜點排滿。"
-      ],
-      "official": "https://mikkouya.com/",
-      "coordinate": {
-        "lat": 34.7073667,
-        "lng": 135.5070199,
-        "url": "https://www.openstreetmap.org/node/9220521317",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "id": "nakazakicho--mikkouya",
-      "order": 11,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "蜜香屋以烤地瓜為主角，與種子島合作農家從土壤與栽種一起思考原料，再把地瓜做成簡單的點心。店家也把地瓜的不同吃法，延伸為可在店裡享用或帶走的選擇。\n\n這一站適合在逛完藝廊與選物後，換一種樸實的甜味。可以挑選一份烤地瓜，把剩下的胃口留給街上其他小店，不必一次把所有甜點排滿。",
-      "note": "",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/mikkouya.webp",
-        "alt": "蜜香屋 中崎町本店，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": "挑一份地瓜點心，吃多少就買多少，留時間看看附近的小店。"
-    },
-    {
-      "name": "大阪浪花家",
-      "address": "大阪府大阪市北区中崎1-9-21",
-      "group": "food",
-      "categoryLabel": "鯛魚燒・刨冰",
-      "caption": "在商店街裡，換一份熱熱的和風點心。",
-      "descriptionParagraphs": [
-        "大阪浪花家位在天五中崎通商店街，以鯛魚燒與刨冰為人熟悉。它承襲東京浪花家總本店的製作系譜，薄皮與紅豆餡讓和式點心成為這段咖啡街散步的另一種口味。",
-        "可以把這裡排在往商店街延伸的一段，依季節選擇熱點心或刨冰。店面緊貼生活商店街，想坐下享用時先依現場安排，讓買菜與通行的人保持順暢。"
-      ],
-      "official": "https://www.instagram.com/naniwaya.staff/",
-      "extraSources": [
-        "https://metronine.osaka/tw/spot-details/?spot_id=15949662695504"
-      ],
-      "photoPage": "https://metronine.osaka/tw/spot-details/?spot_id=15949662695504",
-      "coordinate": {
-        "lat": 34.707451,
-        "lng": 135.507221,
-        "url": "https://www.openstreetmap.org/node/3175869962",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "id": "nakazakicho--naniwaya",
+      "id": "nakazakicho--hannoc",
       "order": 12,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "大阪浪花家位在天五中崎通商店街，以鯛魚燒與刨冰為人熟悉。它承襲東京浪花家總本店的製作系譜，薄皮與紅豆餡讓和式點心成為這段咖啡街散步的另一種口味。\n\n可以把這裡排在往商店街延伸的一段，依季節選擇熱點心或刨冰。店面緊貼生活商店街，想坐下享用時先依現場安排，讓買菜與通行的人保持順暢。",
-      "note": "",
+      "description": "hannoc 是讓甜點師以各自感性創作的甜點店，在傳統製法上加入新的素材搭配。除了蛋糕，也有烘焙點心與由自製焦糖、糖漿延伸的飲品。\n\n店在中崎町站旁，內用與外帶都能安排進散步。想逛更多巷弄可選一份外帶點心；想坐下來看甜點細節，則先用店家的線上候位方式安排時間。",
       "illustration": {
-        "image": "/art/walks/nakazakicho/naniwaya.webp",
-        "alt": "大阪浪花家，依實照繪製的日系水彩插圖"
+        "image": "/art/walks/nakazakicho/hannoc.webp",
+        "alt": "hannoc，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
     },
     {
-      "name": "HAIKU COFFEE ROASTERS",
-      "address": "大阪府大阪市北区浮田2-4-4",
+      "name": "cafe 太陽ノ塔 GREEN WEST",
+      "address": "大阪府大阪市北区中崎西2-4-36",
       "group": "food",
-      "categoryLabel": "自家焙煎",
-      "caption": "沿巷子往北，選一杯自己喜歡的焙度。",
+      "categoryLabel": "綠色老屋喫茶",
+      "caption": "走到薄荷綠小樓前，替午後換一個顏色。",
       "descriptionParagraphs": [
-        "HAIKU 是小量自家焙煎的咖啡店，以不同產地與淺深焙度的咖啡豆，提供手沖與外帶飲品。店家也有烘焙點心，並安排手沖、焙煎等工作坊。",
-        "走過中崎町核心巷弄後，可向浮田一帶延伸，為咖啡豆多留一站。想帶回家的不必是大件物品，一包依自己口味選的豆子，也能接續旅途的日常。"
+        "GREEN WEST 位在梅田與中崎町之間的小巷，以薄荷綠兩層樓外觀與採光明亮的室內形成鮮明氣質。它提供餐食、蛋糕與多色奶油蘇打，適合在逛街途中停留。",
+        "與中崎町本店的懷舊布丁相比，這裡更適合把完整一餐與咖啡時間放在一起。可依回梅田的方向安排作為最後一站，讓散步自然接上後續行程。"
       ],
-      "official": "https://haikucoffee.thebase.in/about",
-      "photoPage": "https://haikucoffee.thebase.in/",
+      "official": "https://taiyounotou.com/shops/green-west/",
       "coordinate": {
-        "lat": 34.7101879,
-        "lng": 135.5074534,
-        "url": "https://www.openstreetmap.org/node/2293166511",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+        "lat": 34.707016,
+        "lng": 135.501999,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E5%B4%8E%E8%A5%BF%E4%BA%8C%E4%B8%81%E7%9B%AE%EF%BC%94%E7%95%AA%EF%BC%93%EF%BC%96%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
       },
-      "id": "nakazakicho--haiku",
+      "id": "nakazakicho--greenwest",
       "order": 13,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "HAIKU 是小量自家焙煎的咖啡店，以不同產地與淺深焙度的咖啡豆，提供手沖與外帶飲品。店家也有烘焙點心，並安排手沖、焙煎等工作坊。\n\n走過中崎町核心巷弄後，可向浮田一帶延伸，為咖啡豆多留一站。想帶回家的不必是大件物品，一包依自己口味選的豆子，也能接續旅途的日常。",
+      "description": "GREEN WEST 位在梅田與中崎町之間的小巷，以薄荷綠兩層樓外觀與採光明亮的室內形成鮮明氣質。它提供餐食、蛋糕與多色奶油蘇打，適合在逛街途中停留。\n\n與中崎町本店的懷舊布丁相比，這裡更適合把完整一餐與咖啡時間放在一起。可依回梅田的方向安排作為最後一站，讓散步自然接上後續行程。",
       "note": "",
       "illustration": {
-        "image": "/art/walks/nakazakicho/haiku.webp",
-        "alt": "HAIKU COFFEE ROASTERS，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "アトリエ三月",
-      "address": "大阪府大阪市北区中崎西4-2-9",
-      "group": "sights",
-      "categoryLabel": "當代藝廊",
-      "caption": "讓一面留白的牆，替午後打開新的視線。",
-      "descriptionParagraphs": [
-        "アトリエ三月是在中崎町經營的藝術空間，以企劃展為主，介紹不同領域的年輕與中堅創作者。老屋內的白牆與木構，讓作品有安靜被觀看的空間。",
-        "適合把逛小店的步調暫停，花一段時間看當期展覽。作品、展期與開放樓層依每次企劃安排，也能先看官網展訊，選擇有興趣的創作再走訪。"
-      ],
-      "note": "展期與休廊日依當期企劃，請先查看展覽資訊。",
-      "official": "https://www.sangatsu.net/",
-      "extraSources": [
-        "https://www.sangatsu.net/exhibitions",
-        "https://sangatsu.shopselect.net/about"
-      ],
-      "coordinate": {
-        "lat": 34.7091552,
-        "lng": 135.5036156,
-        "url": "https://www.openstreetmap.org/node/5500179225",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "id": "nakazakicho--sangatsu",
-      "order": 14,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "アトリエ三月是在中崎町經營的藝術空間，以企劃展為主，介紹不同領域的年輕與中堅創作者。老屋內的白牆與木構，讓作品有安靜被觀看的空間。\n\n適合把逛小店的步調暫停，花一段時間看當期展覽。作品、展期與開放樓層依每次企劃安排，也能先看官網展訊，選擇有興趣的創作再走訪。",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/sangatsu.webp",
-        "alt": "アトリエ三月，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "KAYA CAFE",
-      "address": "大阪府大阪市北区中崎西4-2-13 サンハウス1F",
-      "group": "food",
-      "categoryLabel": "長屋咖啡",
-      "caption": "沿著窄窄的長屋，找到豆腐提拉米蘇與一盞暖燈。",
-      "descriptionParagraphs": [
-        "KAYA CAFE把老長屋變成一間帶著懷舊氣息的咖啡店。木樑、玻璃櫃與小小的沙發座，讓室內仍保留原有屋子的親密尺度；角落的古董與手作小物，也讓等待甜點的時間多了可看的細節。",
-        "手作甜點包含豆腐提拉米蘇與巧克力蛋糕，適合在逛過中崎西的巷子後坐下來。這裡的吸引力不只是一份甜食，也在於從熱鬧梅田走過來，忽然遇見一間步調很慢的老屋。"
-      ],
-      "note": "",
-      "official": "https://ameblo.jp/kayacafe/",
-      "extraSources": [
-        "https://www.hotpepper.jp/strJ001039528/"
-      ],
-      "photoPage": "https://www.hotpepper.jp/strJ001039528/",
-      "coordinate": {
-        "lat": 34.7093447,
-        "lng": 135.5034335,
-        "url": "https://www.openstreetmap.org/node/5798712086",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "E_z5AGwMDSg",
-          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg"
-        }
-      ],
-      "id": "nakazakicho--kaya",
-      "order": 15,
-      "verifiedAt": "2026-10-24",
-      "description": "KAYA CAFE把老長屋變成一間帶著懷舊氣息的咖啡店。木樑、玻璃櫃與小小的沙發座，讓室內仍保留原有屋子的親密尺度；角落的古董與手作小物，也讓等待甜點的時間多了可看的細節。\n\n手作甜點包含豆腐提拉米蘇與巧克力蛋糕，適合在逛過中崎西的巷子後坐下來。這裡的吸引力不只是一份甜食，也在於從熱鬧梅田走過來，忽然遇見一間步調很慢的老屋。",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/kaya.webp",
-        "alt": "KAYA CAFE的日系水彩插圖"
+        "image": "/art/walks/nakazakicho/greenwest.webp",
+        "alt": "cafe 太陽ノ塔 GREEN WEST，依實照繪製的日系水彩插圖"
       },
       "recommendation": null,
-      "sourceLibraryIds": [
-        "p_fa9ee10df49db510"
-      ]
-    },
-    {
-      "name": "エレメカ研究所",
-      "address": "大阪府大阪市北区中崎西4-3-38",
-      "group": "sights",
-      "categoryLabel": "機械遊戲",
-      "caption": "用一枚硬幣，碰見還會轉動的老遊戲。",
-      "descriptionParagraphs": [
-        "エレメカ研究所保存並經營老式機械遊戲，延續前身「ゲームゼロ」留下的收藏。這些機台依靠按鈕、轉輪、彈射與機械動作帶來樂趣，和今天以螢幕為主的遊戲室，有著很不一樣的節奏。",
-        "不只隔著玻璃看收藏，這裡也讓仍可運作的遊戲繼續被遊玩。中崎町的懷舊因此多了一層聲音與手感：逛完老屋與古物，可以留一點時間，試試機關轉動時的小小驚喜。"
-      ],
-      "note": "週二、週四公休。",
-      "official": "https://x.com/elemecalabo",
-      "extraSources": [],
-      "photoPage": "https://x.com/elemecalabo",
-      "coordinate": {
-        "lat": 34.7093677,
-        "lng": 135.5033041,
-        "url": "https://www.openstreetmap.org/node/13516357601",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "E_z5AGwMDSg",
-          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg"
-        }
-      ],
-      "id": "nakazakicho--elemeca",
-      "order": 16,
-      "verifiedAt": "2026-10-24",
-      "description": "エレメカ研究所保存並經營老式機械遊戲，延續前身「ゲームゼロ」留下的收藏。這些機台依靠按鈕、轉輪、彈射與機械動作帶來樂趣，和今天以螢幕為主的遊戲室，有著很不一樣的節奏。\n\n不只隔著玻璃看收藏，這裡也讓仍可運作的遊戲繼續被遊玩。中崎町的懷舊因此多了一層聲音與手感：逛完老屋與古物，可以留一點時間，試試機關轉動時的小小驚喜。",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/elemeca.webp",
-        "alt": "エレメカ研究所的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_c96658bb62841e00"
-      ]
-    },
-    {
-      "name": "neel 中崎町",
-      "address": "大阪府大阪市北区中崎西4-1-13",
-      "group": "food",
-      "categoryLabel": "可麗餅・咖啡",
-      "caption": "洋梨招牌旁，留一份可麗餅的時間。",
-      "descriptionParagraphs": [
-        "neel 中崎町以奶油砂糖可麗餅、咖啡與豬排三明治等餐飲，為老屋巷弄加入另一種休息選擇。淺色牆面、木門與洋梨圖案，讓小店立面有容易記住的表情。",
-        "可依散步節奏選甜點或較完整的一餐，也可以與藝廊、小物店交錯安排。中崎町分店就在住宅尺度的街巷裡，排隊與拍照時請讓出通道。"
-      ],
-      "official": "https://neel.coffee/nakazakicho",
-      "extraSources": [
-        "https://umeda.keizai.biz/headline/3878/"
-      ],
-      "coordinate": {
-        "lat": 34.7087876,
-        "lng": 135.5034419,
-        "url": "https://www.openstreetmap.org/node/11005365770",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "id": "nakazakicho--neel",
-      "order": 17,
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "E_z5AGwMDSg",
-          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
-          "time": "23:23",
-          "seconds": 1403
-        }
-      ],
-      "description": "neel 中崎町以奶油砂糖可麗餅、咖啡與豬排三明治等餐飲，為老屋巷弄加入另一種休息選擇。淺色牆面、木門與洋梨圖案，讓小店立面有容易記住的表情。\n\n可依散步節奏選甜點或較完整的一餐，也可以與藝廊、小物店交錯安排。中崎町分店就在住宅尺度的街巷裡，排隊與拍照時請讓出通道。",
-      "note": "",
-      "illustration": {
-        "image": "/art/walks/nakazakicho/neel.webp",
-        "alt": "neel 中崎町，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_c727d8ddd4fd6021"
-      ]
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
     },
     {
       "name": "Cafe&Bar Marble",
@@ -704,7 +629,7 @@
         }
       ],
       "id": "nakazakicho--marble",
-      "order": 18,
+      "order": 14,
       "verifiedAt": "2026-10-24",
       "description": "Marble藏在鐵路高架旁的橘色建築三樓。沿小路找到入口，再順階梯上樓，黑板菜單與木質空間讓這一站有別於中崎町常見的一樓長屋咖啡，也多了一點尋店的趣味。\n\n白天可安排咖啡與餐食，逛巷子時抬頭找找樓上的店，也能看見街區不同的生活層次。這是一間允許吸菸、僅接待成人的咖啡酒吧，適合依自己的用餐偏好安排。",
       "illustration": {
@@ -714,245 +639,248 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_b1106854d0f77260"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
     },
     {
-      "name": "cafe 太陽ノ塔 GREEN WEST",
-      "address": "大阪府大阪市北区中崎西2-4-36",
+      "name": "neel 中崎町",
+      "address": "大阪府大阪市北区中崎西4-1-13",
       "group": "food",
-      "categoryLabel": "綠色老屋喫茶",
-      "caption": "走到薄荷綠小樓前，替午後換一個顏色。",
+      "categoryLabel": "可麗餅・咖啡",
+      "caption": "洋梨招牌旁，留一份可麗餅的時間。",
       "descriptionParagraphs": [
-        "GREEN WEST 位在梅田與中崎町之間的小巷，以薄荷綠兩層樓外觀與採光明亮的室內形成鮮明氣質。它提供餐食、蛋糕與多色奶油蘇打，適合在逛街途中停留。",
-        "與中崎町本店的懷舊布丁相比，這裡更適合把完整一餐與咖啡時間放在一起。可依回梅田的方向安排作為最後一站，讓散步自然接上後續行程。"
+        "neel 中崎町以奶油砂糖可麗餅、咖啡與豬排三明治等餐飲，為老屋巷弄加入另一種休息選擇。淺色牆面、木門與洋梨圖案，讓小店立面有容易記住的表情。",
+        "可依散步節奏選甜點或較完整的一餐，也可以與藝廊、小物店交錯安排。中崎町分店就在住宅尺度的街巷裡，排隊與拍照時請讓出通道。"
       ],
-      "official": "https://taiyounotou.com/shops/green-west/",
+      "official": "https://neel.coffee/nakazakicho",
+      "extraSources": [
+        "https://umeda.keizai.biz/headline/3878/"
+      ],
       "coordinate": {
-        "lat": 34.707016,
-        "lng": 135.501999,
-        "provider": "gsi",
-        "label": "日本國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E5%B4%8E%E8%A5%BF%E4%BA%8C%E4%B8%81%E7%9B%AE%EF%BC%94%E7%95%AA%EF%BC%93%EF%BC%96%E5%8F%B7",
-        "license": "国土地理院コンテンツ利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+        "lat": 34.7087876,
+        "lng": 135.5034419,
+        "url": "https://www.openstreetmap.org/node/11005365770",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
       },
-      "id": "nakazakicho--greenwest",
+      "id": "nakazakicho--neel",
+      "order": 15,
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "23:23",
+          "seconds": 1403
+        }
+      ],
+      "description": "neel 中崎町以奶油砂糖可麗餅、咖啡與豬排三明治等餐飲，為老屋巷弄加入另一種休息選擇。淺色牆面、木門與洋梨圖案，讓小店立面有容易記住的表情。\n\n可依散步節奏選甜點或較完整的一餐，也可以與藝廊、小物店交錯安排。中崎町分店就在住宅尺度的街巷裡，排隊與拍照時請讓出通道。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/neel.webp",
+        "alt": "neel 中崎町，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_c727d8ddd4fd6021"
+      ],
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
+    },
+    {
+      "name": "アトリエ三月",
+      "address": "大阪府大阪市北区中崎西4-2-9",
+      "group": "sights",
+      "categoryLabel": "當代藝廊",
+      "caption": "讓一面留白的牆，替午後打開新的視線。",
+      "descriptionParagraphs": [
+        "アトリエ三月是在中崎町經營的藝術空間，以企劃展為主，介紹不同領域的年輕與中堅創作者。老屋內的白牆與木構，讓作品有安靜被觀看的空間。",
+        "適合把逛小店的步調暫停，花一段時間看當期展覽。作品、展期與開放樓層依每次企劃安排，也能先看官網展訊，選擇有興趣的創作再走訪。"
+      ],
+      "note": "展期與休廊日依當期企劃，請先查看展覽資訊。",
+      "official": "https://www.sangatsu.net/",
+      "extraSources": [
+        "https://www.sangatsu.net/exhibitions",
+        "https://sangatsu.shopselect.net/about"
+      ],
+      "coordinate": {
+        "lat": 34.7091552,
+        "lng": 135.5036156,
+        "url": "https://www.openstreetmap.org/node/5500179225",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "nakazakicho--sangatsu",
+      "order": 16,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "アトリエ三月是在中崎町經營的藝術空間，以企劃展為主，介紹不同領域的年輕與中堅創作者。老屋內的白牆與木構，讓作品有安靜被觀看的空間。\n\n適合把逛小店的步調暫停，花一段時間看當期展覽。作品、展期與開放樓層依每次企劃安排，也能先看官網展訊，選擇有興趣的創作再走訪。",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/sangatsu.webp",
+        "alt": "アトリエ三月，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
+    },
+    {
+      "name": "KAYA CAFE",
+      "address": "大阪府大阪市北区中崎西4-2-13 サンハウス1F",
+      "group": "food",
+      "categoryLabel": "長屋咖啡",
+      "caption": "沿著窄窄的長屋，找到豆腐提拉米蘇與一盞暖燈。",
+      "descriptionParagraphs": [
+        "KAYA CAFE把老長屋變成一間帶著懷舊氣息的咖啡店。木樑、玻璃櫃與小小的沙發座，讓室內仍保留原有屋子的親密尺度；角落的古董與手作小物，也讓等待甜點的時間多了可看的細節。",
+        "手作甜點包含豆腐提拉米蘇與巧克力蛋糕，適合在逛過中崎西的巷子後坐下來。這裡的吸引力不只是一份甜食，也在於從熱鬧梅田走過來，忽然遇見一間步調很慢的老屋。"
+      ],
+      "note": "",
+      "official": "https://ameblo.jp/kayacafe/",
+      "extraSources": [
+        "https://www.hotpepper.jp/strJ001039528/"
+      ],
+      "photoPage": "https://www.hotpepper.jp/strJ001039528/",
+      "coordinate": {
+        "lat": 34.7093447,
+        "lng": 135.5034335,
+        "url": "https://www.openstreetmap.org/node/5798712086",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg"
+        }
+      ],
+      "id": "nakazakicho--kaya",
+      "order": 17,
+      "verifiedAt": "2026-10-24",
+      "description": "KAYA CAFE把老長屋變成一間帶著懷舊氣息的咖啡店。木樑、玻璃櫃與小小的沙發座，讓室內仍保留原有屋子的親密尺度；角落的古董與手作小物，也讓等待甜點的時間多了可看的細節。\n\n手作甜點包含豆腐提拉米蘇與巧克力蛋糕，適合在逛過中崎西的巷子後坐下來。這裡的吸引力不只是一份甜食，也在於從熱鬧梅田走過來，忽然遇見一間步調很慢的老屋。",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/kaya.webp",
+        "alt": "KAYA CAFE的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_fa9ee10df49db510"
+      ],
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
+    },
+    {
+      "name": "エレメカ研究所",
+      "address": "大阪府大阪市北区中崎西4-3-38",
+      "group": "sights",
+      "categoryLabel": "機械遊戲",
+      "caption": "用一枚硬幣，碰見還會轉動的老遊戲。",
+      "descriptionParagraphs": [
+        "エレメカ研究所保存並經營老式機械遊戲，延續前身「ゲームゼロ」留下的收藏。這些機台依靠按鈕、轉輪、彈射與機械動作帶來樂趣，和今天以螢幕為主的遊戲室，有著很不一樣的節奏。",
+        "不只隔著玻璃看收藏，這裡也讓仍可運作的遊戲繼續被遊玩。中崎町的懷舊因此多了一層聲音與手感：逛完老屋與古物，可以留一點時間，試試機關轉動時的小小驚喜。"
+      ],
+      "note": "週二、週四公休。",
+      "official": "https://x.com/elemecalabo",
+      "extraSources": [],
+      "photoPage": "https://x.com/elemecalabo",
+      "coordinate": {
+        "lat": 34.7093677,
+        "lng": 135.5033041,
+        "url": "https://www.openstreetmap.org/node/13516357601",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg"
+        }
+      ],
+      "id": "nakazakicho--elemeca",
+      "order": 18,
+      "verifiedAt": "2026-10-24",
+      "description": "エレメカ研究所保存並經營老式機械遊戲，延續前身「ゲームゼロ」留下的收藏。這些機台依靠按鈕、轉輪、彈射與機械動作帶來樂趣，和今天以螢幕為主的遊戲室，有著很不一樣的節奏。\n\n不只隔著玻璃看收藏，這裡也讓仍可運作的遊戲繼續被遊玩。中崎町的懷舊因此多了一層聲音與手感：逛完老屋與古物，可以留一點時間，試試機關轉動時的小小驚喜。",
+      "illustration": {
+        "image": "/art/walks/nakazakicho/elemeca.webp",
+        "alt": "エレメカ研究所的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_c96658bb62841e00"
+      ],
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
+    },
+    {
+      "name": "HAIKU COFFEE ROASTERS",
+      "address": "大阪府大阪市北区浮田2-4-4",
+      "group": "food",
+      "categoryLabel": "自家焙煎",
+      "caption": "沿巷子往北，選一杯自己喜歡的焙度。",
+      "descriptionParagraphs": [
+        "HAIKU 是小量自家焙煎的咖啡店，以不同產地與淺深焙度的咖啡豆，提供手沖與外帶飲品。店家也有烘焙點心，並安排手沖、焙煎等工作坊。",
+        "走過中崎町核心巷弄後，可向浮田一帶延伸，為咖啡豆多留一站。想帶回家的不必是大件物品，一包依自己口味選的豆子，也能接續旅途的日常。"
+      ],
+      "official": "https://haikucoffee.thebase.in/about",
+      "photoPage": "https://haikucoffee.thebase.in/",
+      "coordinate": {
+        "lat": 34.7101879,
+        "lng": 135.5074534,
+        "url": "https://www.openstreetmap.org/node/2293166511",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "nakazakicho--haiku",
       "order": 19,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "GREEN WEST 位在梅田與中崎町之間的小巷，以薄荷綠兩層樓外觀與採光明亮的室內形成鮮明氣質。它提供餐食、蛋糕與多色奶油蘇打，適合在逛街途中停留。\n\n與中崎町本店的懷舊布丁相比，這裡更適合把完整一餐與咖啡時間放在一起。可依回梅田的方向安排作為最後一站，讓散步自然接上後續行程。",
+      "description": "HAIKU 是小量自家焙煎的咖啡店，以不同產地與淺深焙度的咖啡豆，提供手沖與外帶飲品。店家也有烘焙點心，並安排手沖、焙煎等工作坊。\n\n走過中崎町核心巷弄後，可向浮田一帶延伸，為咖啡豆多留一站。想帶回家的不必是大件物品，一包依自己口味選的豆子，也能接續旅途的日常。",
       "note": "",
       "illustration": {
-        "image": "/art/walks/nakazakicho/greenwest.webp",
-        "alt": "cafe 太陽ノ塔 GREEN WEST，依實照繪製的日系水彩插圖"
+        "image": "/art/walks/nakazakicho/haiku.webp",
+        "alt": "HAIKU COFFEE ROASTERS，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
-    },
-    {
-      "id": "nakazakicho--p_75420c1c9ffb6b12",
-      "name": "梅田EST",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「梅田EST」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 34.7046134,
-        "lng": 135.5003413,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "E_z5AGwMDSg",
-          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
-          "time": "4:04",
-          "seconds": 244
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_75420c1c9ffb6b12"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com.tw/maps/place/%E6%A2%85%E7%94%B0EST/@34.7046134,135.497761,17z/data=!3m2!4b1!5s0x6000e693bf195f27:0x4ceb5b055feae400!4m6!3m5!1s0x6000e6939149a243:0x7d86e33e607a9a0!8m2!3d34.7046134!4d135.5003413!16s%2Fg%2F11fjn2p_f2?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
-      },
-      "order": 20
-    },
-    {
-      "id": "nakazakicho--p_cdd7974d52ec6f06",
-      "name": "HEP FIVE",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「HEP FIVE」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 34.7040897,
-        "lng": 135.5004632,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "E_z5AGwMDSg",
-          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
-          "time": "2:05",
-          "seconds": 125
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_cdd7974d52ec6f06"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com.tw/maps/place/HEP+FIVE/@34.7040897,135.4978829,17z/data=!3m2!4b1!5s0x6000e693a22a809f:0xa230d50aadac22b0!4m6!3m5!1s0x6000e693a1a0f691:0x6577d55e1884c621!8m2!3d34.7040897!4d135.5004632!16zL20vMDNsdGh2?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
-      },
-      "order": 21
-    },
-    {
-      "id": "nakazakicho--p_e078f000f87057e6",
-      "name": "タリーズコーヒー 阪急大阪梅田駅3F店",
-      "address": "",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「タリーズコーヒー 阪急大阪梅田駅3F店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 34.7045789,
-        "lng": 135.4990951,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "E_z5AGwMDSg",
-          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
-          "time": "12:53",
-          "seconds": 773
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_e078f000f87057e6"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/TULLY's+COFFEE+%E9%98%AA%E6%80%A5%E6%A2%85%E7%94%B0%E7%AB%993%E6%A8%93%E5%BA%97/@34.7045789,135.4990951,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e70abf4deaf7:0x4190edc5fd0dbeed!8m2!3d34.7045789!4d135.4990951!16s%2Fg%2F11fln40vzv?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
-      },
-      "order": 22
-    },
-    {
-      "id": "nakazakicho--p_f243fdad43222637",
-      "name": "Kiddyland 大阪梅田店",
-      "address": "〒530-0012 Osaka, Kita Ward, Shibata, 1-chōme−1−３ 阪急三番街北館 B1F-1F",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Kiddyland 大阪梅田店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒530-0012 Osaka, Kita Ward, Shibata, 1-chōme−1−３ 阪急三番街北館 B1F-1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 34.706021899999996,
-        "lng": 135.4982621,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "VlAaqrYfdnE",
-          "title": "tokyo diaries: exploring tokyo itinerary | harajuku, omotesando coffee shops, food, shopping!",
-          "url": "https://www.youtube.com/watch?v=VlAaqrYfdnE",
-          "time": "16:55",
-          "seconds": 1015
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_f243fdad43222637"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=13799597358099214563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 23
-    },
-    {
-      "id": "nakazakicho--p_655562a1ff37fac1",
-      "name": "麦と麺助 新梅田中津店",
-      "address": "3-chōme-4-12 Toyosaki, Kita Ward, Osaka, 531-0072",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「麦と麺助 新梅田中津店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-4-12 Toyosaki, Kita Ward, Osaka, 531-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 34.7113526,
-        "lng": 135.50000269999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "肥波開吃啦",
-          "videoId": "hIFJwUQ5LSo",
-          "title": "大阪米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Osaka 【 肥波外食記 】",
-          "url": "https://www.youtube.com/watch?v=hIFJwUQ5LSo",
-          "time": "2:22",
-          "seconds": 142
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_655562a1ff37fac1"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=3279025535520593386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 24
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nakazakicho",
+        "name": "中崎町",
+        "href": "/walks/nakazakicho/"
+      }
     }
   ],
   "routes": [
@@ -1002,7 +930,15 @@
         "nakazakicho--guignol",
         "nakazakicho--taiyo"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.greenpepe3104.com/",
+          "https://guignol.jp/",
+          "https://taiyounotou.com/shops/honten/"
+        ]
+      }
     },
     {
       "id": "nakazakicho-books-and-sweet-potato",
@@ -1047,27 +983,311 @@
         "nakazakicho--arabiq",
         "nakazakicho--mikkouya"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://arabiq.net/",
+          "https://mikkouya.com/"
+        ]
+      }
     }
   ],
   "defaultSelection": "nakazakicho-slow-walk",
   "libraryCoverage": {
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_c1207b0c31e6a919",
       "p_c251d3a82e3fcdd2",
-      "p_fa9ee10df49db510",
+      "p_c1207b0c31e6a919",
+      "p_bf9945320fd6483d",
       "p_b1106854d0f77260",
       "p_c727d8ddd4fd6021",
-      "p_c96658bb62841e00",
-      "p_bf9945320fd6483d",
-      "p_655562a1ff37fac1",
-      "p_75420c1c9ffb6b12",
-      "p_cdd7974d52ec6f06",
-      "p_f243fdad43222637",
-      "p_e078f000f87057e6"
+      "p_fa9ee10df49db510",
+      "p_c96658bb62841e00"
+    ]
+  },
+  "scope": {
+    "id": "nakazakicho",
+    "name": "中崎町",
+    "kind": "walk",
+    "scope": "中崎町站、中崎一至三丁目、中崎西一至四丁目，含浮田側鄰接巷道。",
+    "includes": "長屋咖啡街、葉村周邊與中崎西街巷",
+    "excludes": "梅田車站商場、茶屋町及中津不納入同一散策。",
+    "basis": "大阪觀光局以中崎町站與長屋街區介紹中崎町；大阪あそ歩另列茶屋町・中津路線。",
+    "sourceUrls": [
+      "https://osaka-info.jp/experience/ja/osaka/spot/203"
     ],
-    "added": 5,
-    "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 19
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "nakazakicho--p_655562a1ff37fac1",
+      "name": "麦と麺助 新梅田中津店",
+      "address": "3-chōme-4-12 Toyosaki, Kita Ward, Osaka, 531-0072",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「麦と麺助 新梅田中津店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-4-12 Toyosaki, Kita Ward, Osaka, 531-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7113526,
+        "lng": 135.50000269999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "hIFJwUQ5LSo",
+          "title": "大阪米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Osaka 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=hIFJwUQ5LSo",
+          "time": "2:22",
+          "seconds": 142
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_655562a1ff37fac1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3279025535520593386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nakazakicho--p_655562a1ff37fac1.webp",
+        "alt": "麦と麺助 新梅田中津店的日系水彩插圖"
+      },
+      "order": 1,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nakatsu",
+        "name": "中津・豐崎",
+        "href": "/walks/nakatsu/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "nakazakicho--p_75420c1c9ffb6b12",
+      "name": "梅田EST",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「梅田EST」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7046134,
+        "lng": 135.5003413,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "4:04",
+          "seconds": 244
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_75420c1c9ffb6b12"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/%E6%A2%85%E7%94%B0EST/@34.7046134,135.497761,17z/data=!3m2!4b1!5s0x6000e693bf195f27:0x4ceb5b055feae400!4m6!3m5!1s0x6000e6939149a243:0x7d86e33e607a9a0!8m2!3d34.7046134!4d135.5003413!16s%2Fg%2F11fjn2p_f2?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nakazakicho--p_75420c1c9ffb6b12.webp",
+        "alt": "梅田EST的日系水彩插圖"
+      },
+      "order": 18,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "umeda",
+        "name": "梅田站・茶屋町",
+        "href": "/walks/umeda/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "nakazakicho--p_cdd7974d52ec6f06",
+      "name": "HEP FIVE",
+      "address": "大阪府大阪市北区角田町5-15",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「HEP FIVE」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区角田町5-15。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "館內店家與觀覽車各有營業及休館安排，出發前請確認官方最新公告。",
+      "coordinate": {
+        "lat": 34.7040897,
+        "lng": 135.5004632,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "2:05",
+          "seconds": 125
+        }
+      ],
+      "official": "https://www.hepfive.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cdd7974d52ec6f06"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/HEP+FIVE/@34.7040897,135.4978829,17z/data=!3m2!4b1!5s0x6000e693a22a809f:0xa230d50aadac22b0!4m6!3m5!1s0x6000e693a1a0f691:0x6577d55e1884c621!8m2!3d34.7040897!4d135.5004632!16zL20vMDNsdGh2?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nakazakicho--p_cdd7974d52ec6f06.webp",
+        "alt": "HEP FIVE的日系水彩插圖"
+      },
+      "order": 19,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "umeda",
+        "name": "梅田站・茶屋町",
+        "href": "/walks/umeda/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "nakazakicho--p_e078f000f87057e6",
+      "name": "タリーズコーヒー 阪急大阪梅田駅3F店",
+      "address": "大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「タリーズコーヒー 阪急大阪梅田駅3F店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "位於阪急大阪梅田站3樓閘內，須持有效乘車票或符合站方入場規定；請先確認入場方式。",
+      "coordinate": {
+        "lat": 34.7045789,
+        "lng": 135.4990951,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "12:53",
+          "seconds": 773
+        }
+      ],
+      "official": "https://www.ekinaka.hankyu-hanshin.co.jp/shop/sh325/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e078f000f87057e6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/TULLY's+COFFEE+%E9%98%AA%E6%80%A5%E6%A2%85%E7%94%B0%E7%AB%993%E6%A8%93%E5%BA%97/@34.7045789,135.4990951,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e70abf4deaf7:0x4190edc5fd0dbeed!8m2!3d34.7045789!4d135.4990951!16s%2Fg%2F11fln40vzv?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nakazakicho--p_e078f000f87057e6.webp",
+        "alt": "タリーズコーヒー 阪急大阪梅田駅3F店的日系水彩插圖"
+      },
+      "order": 20,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "umeda",
+        "name": "梅田站・茶屋町",
+        "href": "/walks/umeda/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "nakazakicho--p_f243fdad43222637",
+      "name": "キデイランド 原宿店",
+      "address": "東京都渋谷区神宮前6-1-9",
+      "group": "shops",
+      "categoryLabel": "角色商品",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片16:55介紹表參道上的キデイランド原宿店，收錄多層樓角色商品與玩具賣場。",
+        "原始資料記錄的地址為 東京都渋谷区神宮前6-1-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片描述欄地圖連結明確指向原宿店，已修正先前誤配的大阪梅田店。營業與樓層資訊請以官方公告為準。",
+      "coordinate": {
+        "lat": 35.667809,
+        "lng": 139.706512,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%A5%9E%E5%AE%AE%E5%89%8D6-1-9",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "東京都渋谷区神宮前六丁目1番9號地址代表點，非指定入口。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "VlAaqrYfdnE",
+          "title": "tokyo diaries: exploring tokyo itinerary | harajuku, omotesando coffee shops, food, shopping!",
+          "url": "https://www.youtube.com/watch?v=VlAaqrYfdnE",
+          "time": "16:55",
+          "seconds": 1015
+        }
+      ],
+      "official": "https://www.kiddyland.co.jp/shoplist/harajuku/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f243fdad43222637"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/nakazakicho--p_f243fdad43222637.webp",
+        "alt": "キデイランド 原宿店的日系水彩插圖"
+      },
+      "order": 24,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "harajuku-omotesando",
+        "name": "原宿・表參道",
+        "href": "/walks/harajuku-omotesando/"
+      },
+      "savedOutsideArea": true
+    }
+  ],
+  "inheritedWalkIds": []
 }

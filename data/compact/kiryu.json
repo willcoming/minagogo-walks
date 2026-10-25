@@ -33,7 +33,20 @@
         "image": "/art/walks/kiryu/tenmangu.webp",
         "alt": "桐生天滿宮，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "走到老街北端，停下參拜。"
+      "recommendation": "走到老街北端，停下參拜。",
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kiryu.lg.jp/shisetsu/bunka/yuurinkan/1002917.html",
+          "https://kiryutenjin.jp/",
+          "https://www.kiryu-renga.jp/"
+        ]
+      }
     },
     {
       "id": "kiryu--renga",
@@ -66,7 +79,20 @@
         "image": "/art/walks/kiryu/renga.webp",
         "alt": "ベーカリーカフェ・レンガ，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "在鋸齒屋頂的烘焙咖啡店休息。"
+      "recommendation": "在鋸齒屋頂的烘焙咖啡店休息。",
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kiryu.lg.jp/shisetsu/bunka/yuurinkan/1002917.html",
+          "https://kiryutenjin.jp/",
+          "https://www.kiryu-renga.jp/"
+        ]
+      }
     },
     {
       "id": "kiryu--saika",
@@ -99,7 +125,12 @@
         "image": "/art/walks/kiryu/saika.webp",
         "alt": "四辻の齋嘉，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      }
     },
     {
       "id": "kiryu--ichinoyu",
@@ -132,7 +163,12 @@
         "image": "/art/walks/kiryu/ichinoyu.webp",
         "alt": "桐生銭湯 一の湯，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      }
     },
     {
       "id": "kiryu--fujiya",
@@ -165,7 +201,12 @@
         "image": "/art/walks/kiryu/fujiya.webp",
         "alt": "藤屋本店，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      }
     },
     {
       "id": "kiryu--machinaka",
@@ -198,7 +239,12 @@
         "image": "/art/walks/kiryu/machinaka.webp",
         "alt": "桐生新町 まちなか交流館，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      }
     },
     {
       "id": "kiryu--yurinkan",
@@ -231,7 +277,20 @@
         "image": "/art/walks/kiryu/yurinkan.webp",
         "alt": "桐生市有鄰館，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "看倉庫群建築與當期開放空間。"
+      "recommendation": "看倉庫群建築與當期開放空間。",
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kiryu.lg.jp/shisetsu/bunka/yuurinkan/1002917.html",
+          "https://kiryutenjin.jp/",
+          "https://www.kiryu-renga.jp/"
+        ]
+      }
     },
     {
       "id": "kiryu--yanoen",
@@ -264,7 +323,12 @@
         "image": "/art/walks/kiryu/yanoen.webp",
         "alt": "矢野園，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      }
     },
     {
       "id": "kiryu--nishinomiya",
@@ -297,7 +361,12 @@
         "image": "/art/walks/kiryu/nishinomiya.webp",
         "alt": "桐生西宮神社，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      }
     },
     {
       "id": "kiryu--zoo",
@@ -330,7 +399,12 @@
         "image": "/art/walks/kiryu/zoo.webp",
         "alt": "桐生が岡動物園，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      }
     },
     {
       "id": "kiryu--azuma",
@@ -363,7 +437,12 @@
         "image": "/art/walks/kiryu/azuma.webp",
         "alt": "吾妻公園，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      }
     },
     {
       "id": "kiryu--okawa",
@@ -396,7 +475,19 @@
         "image": "/art/walks/kiryu/okawa.webp",
         "alt": "大川美術館，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "選當期展覽慢看，將餘下時間留給山丘與回程街景。"
+      "recommendation": "選當期展覽慢看，將餘下時間留給山丘與回程街景。",
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kiryuorimonokinenkan.com/",
+          "https://okawamuseum.jp/"
+        ]
+      }
     },
     {
       "id": "kiryu--station",
@@ -429,7 +520,12 @@
         "image": "/art/walks/kiryu/station.webp",
         "alt": "西桐生站，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      }
     },
     {
       "id": "kiryu--orimono",
@@ -462,7 +558,19 @@
         "image": "/art/walks/kiryu/orimono.webp",
         "alt": "桐生織物記念館，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "看織物資料與建築，再依開放情況逛販售場。"
+      "recommendation": "看織物資料與建築，再依開放情況逛販售場。",
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kiryuorimonokinenkan.com/",
+          "https://okawamuseum.jp/"
+        ]
+      }
     },
     {
       "id": "kiryu--yukari",
@@ -495,7 +603,12 @@
         "image": "/art/walks/kiryu/yukari.webp",
         "alt": "織物參考館「紫」，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiryu",
+        "name": "桐生舊市街",
+        "href": "/walks/kiryu/"
+      }
     }
   ],
   "routes": [
@@ -545,7 +658,15 @@
         "kiryu--tenmangu",
         "kiryu--renga"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kiryu.lg.jp/shisetsu/bunka/yuurinkan/1002917.html",
+          "https://kiryutenjin.jp/",
+          "https://www.kiryu-renga.jp/"
+        ]
+      }
     },
     {
       "id": "kiryu-textiles-and-art",
@@ -581,19 +702,43 @@
         "kiryu--okawa": "選當期展覽慢看，將餘下時間留給山丘與回程街景。",
         "kiryu--station": "順路可選：在列車抵達之前，看看一座老站舍。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kiryu/okawa.webp",
+      "art": "/art/walks/kiryu/orimono.webp",
       "highlightIds": [
         "kiryu--orimono",
         "kiryu--okawa"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kiryuorimonokinenkan.com/",
+          "https://okawamuseum.jp/"
+        ]
+      }
     }
   ],
   "defaultSelection": "kiryu-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "kiryu",
+    "name": "桐生舊市街",
+    "kind": "walk",
+    "scope": "西桐生站與織物記念館，沿本町至桐生天滿宮，含宮本町山腳及東久方町。",
+    "includes": "本町、天神町、東久方町、宮本町與西桐生站連續舊街",
+    "excludes": "新里、黑保根及市外遠距工廠不納入同一散策。",
+    "basis": "桐生市指南按市內區域介紹；本站取桐生新町與鄰接舊市街，不採整個桐生市。",
+    "sourceUrls": [
+      "https://www.city.kiryu.lg.jp/kankou/annai/ichioshi/1010092.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 15
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

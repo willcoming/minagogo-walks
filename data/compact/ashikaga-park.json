@@ -1,0 +1,72 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "ashikaga--souun",
+      "order": 1,
+      "name": "草雲美術館",
+      "address": "栃木県足利市緑町2丁目3768",
+      "group": "sights",
+      "categoryLabel": "畫家故居與美術",
+      "caption": "從文人畫，走到畫家留下的庭園。",
+      "descriptionParagraphs": [
+        "草雲美術館收藏並介紹足利文人畫家田崎草雲的作品與遺物。庭園中保留白石山房及畫室、茶室，展覽與生活空間互相呼應。",
+        "這站在街區西側，可與織姬方向組合成延伸散步。適合對繪畫、茅葺老屋與小庭園有興趣的人另留一段時間。"
+      ],
+      "description": "草雲美術館收藏並介紹足利文人畫家田崎草雲的作品與遺物。庭園中保留白石山房及畫室、茶室，展覽與生活空間互相呼應。\n\n這站在街區西側，可與織姬方向組合成延伸散步。適合對繪畫、茅葺老屋與小庭園有興趣的人另留一段時間。",
+      "note": "每週一、假日翌日、年末年始與館內整理日休館。",
+      "official": "https://www.city.ashikaga.tochigi.jp/facility/000100/000509/p000881.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.335556,
+        "lng": 139.433853,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E7%B7%91%E7%94%BA2%E4%B8%81%E7%9B%AE3768",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/souun.webp",
+        "alt": "草雲美術館，依真實照片繪製的日系水彩插圖"
+      },
+      "canonicalArea": {
+        "id": "ashikaga-park",
+        "name": "足利公園周邊",
+        "href": "/walks/ashikaga-park/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "ashikaga-park",
+    "name": "足利公園周邊",
+    "kind": "record-area",
+    "parentWalk": "ashikaga",
+    "scope": "足利公園、綠町與草雲美術館周邊。",
+    "includes": "足利公園、綠町與草雲美術館周邊。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://historic.ashikaga.info/course_introduction/sakasagawa_stroll"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "ashikaga"
+  ]
+}

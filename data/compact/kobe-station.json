@@ -1,0 +1,81 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kobe-motomachi--minatogawa",
+      "name": "湊川神社",
+      "address": "兵庫県神戸市中央区多聞通3-1-1",
+      "group": "sights",
+      "categoryLabel": "神社・歷史",
+      "caption": "走過港邊，轉進神戶人熟悉的「楠公さん」。",
+      "descriptionParagraphs": [
+        "湊川神社在神戶站北側，祭祀楠木正成，當地人親切地稱它「楠公さん」。神社於1872年創建，境內留下與正成相關的墓所及史跡，讓熱鬧港都的散步，也能接上一段更早的歷史。",
+        "寬闊的木造表門與石燈籠，將街上的節奏慢慢隔開。從Harborland往車站方向走，可以把這裡作為港邊散策的延伸：看過海與現代商場，再進入樹蔭與參道，感受城市不同的安靜面貌。"
+      ],
+      "note": "位於元町西側的自選延伸，可沿港邊接往神戶站；若另去三宮方向用餐，請依體力擇一並另留步行時間。",
+      "official": "https://www.minatogawajinja.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "coordinate": {
+        "lat": 34.68096317826087,
+        "lng": 135.1757241565217,
+        "provider": "osm",
+        "label": "OpenStreetMap 神社敷地代表點",
+        "url": "https://www.openstreetmap.org/relation/14742022",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "依神社敷地外框計算代表點，非入口實測；現場請由對外開放的表門參拜。"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/minatogawa.webp",
+        "alt": "湊川神社表門與石燈籠的日系水彩插圖"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "time": "20:48",
+          "seconds": 1248,
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1248s"
+        }
+      ],
+      "description": "湊川神社在神戶站北側，祭祀楠木正成，當地人親切地稱它「楠公さん」。神社於1872年創建，境內留下與正成相關的墓所及史跡，讓熱鬧港都的散步，也能接上一段更早的歷史。\n\n寬闊的木造表門與石燈籠，將街上的節奏慢慢隔開。從Harborland往車站方向走，可以把這裡作為港邊散策的延伸：看過海與現代商場，再進入樹蔭與參道，感受城市不同的安靜面貌。",
+      "order": 1,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-station",
+        "name": "神戶站・湊川神社",
+        "href": "/walks/kobe-station/"
+      }
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "kobe-station",
+    "name": "神戶站・湊川神社",
+    "kind": "record-area",
+    "parentWalk": "kobe-motomachi",
+    "scope": "JR神戶站北側、多聞通與湊川神社周邊。",
+    "includes": "JR神戶站北側、多聞通與湊川神社周邊。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.feel-kobe.jp/area-guide/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kobe-motomachi"
+  ]
+}

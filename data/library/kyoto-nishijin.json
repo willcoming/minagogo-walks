@@ -2,21 +2,25 @@
   "places": [
     {
       "id": "kyoto-nishijin--p_9870b7da58043dbb",
-      "name": "中深煎珈琲の店 NuCUPCOFFEE",
-      "address": "163-1 Miyoshichō, Kamigyo Ward, Kyoto, 602-0823",
+      "name": "Nu coffee 池袋店",
+      "address": "東京都豊島区池袋2-22-2 バイリンクビル2F",
       "group": "food",
-      "categoryLabel": "咖啡",
+      "categoryLabel": "咖啡館",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「中深煎珈琲の店 NuCUPCOFFEE」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 163-1 Miyoshichō, Kamigyo Ward, Kyoto, 602-0823。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片介紹池袋西口的越南咖啡館 Nu coffee，位於池袋二丁目建築的二樓。",
+        "原始資料記錄的地址為 東京都豊島区池袋2-22-2 バイリンクビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "note": "原影片店家連結與2023年實訪報導均指向池袋店。食べログ目前標示「掲載保留」，現況尚未確認，請先確認營業再安排行程。",
       "coordinate": {
-        "lat": 35.0292848,
-        "lng": 135.7693401,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.732552,
+        "lng": 139.705032,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E6%B1%A0%E8%A2%8B2-22-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -26,7 +30,7 @@
           "url": "https://www.youtube.com/watch?v=m133f63cvok"
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/tokyo/A1305/A130501/13286022/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -35,7 +39,11 @@
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=12158661318907855312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-nishijin--p_9870b7da58043dbb.webp",
+        "alt": "Nu coffee 池袋店的日系水彩插圖"
       }
     },
     {
@@ -76,6 +84,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=15776756795654271686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-nishijin--p_b68dd810244524bc.webp",
+        "alt": "竹邑庵太郎敦盛的日系水彩插圖"
       }
     },
     {
@@ -116,6 +128,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=13637715423223872948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-nishijin--p_45e861ebd5eb6745.webp",
+        "alt": "Kitchen Papa的日系水彩插圖"
       }
     },
     {
@@ -156,6 +172,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/place/%E6%BE%A1%E5%A0%82%E6%94%B9%E5%BB%BA%E5%92%96%E5%95%A1%E5%BB%B3+%E8%A5%BF%E9%99%A3/@35.0376526,135.746866,17z/data=!3m1!4b1!4m6!3m5!1s0x600107fb5ad5b30f:0x810cfa5a6ec91ec!8m2!3d35.0376526!4d135.746866!16s%2Fg%2F1tlz_21k?entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-nishijin--p_48a2680d743537ba.webp",
+        "alt": "さらさ西陣的日系水彩插圖"
       }
     }
   ],

@@ -42,6 +42,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Suzuki's+Amezaiku/@35.9246326,139.4811351,17z/data=!3m1!4b1!4m6!3m5!1s0x6018dbf935e69ead:0x148ff825aa8e8583!8m2!3d35.9246326!4d139.4811351!16s%2Fg%2F11gwkn1r62?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_a19b544f6e31c30e.webp",
+        "alt": "江戸飴細工 鈴木的日系水彩插圖"
       }
     },
     {
@@ -86,6 +90,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/glincoffee+Nariyukika+1+Do/data=!4m7!3m6!1s0x6018da6184ac5555:0x58c7ba38215a44d!8m2!3d35.9246233!4d139.4850899!16s%2Fg%2F11c7sz3yw0!19sChIJVVWshGHaGGARTaQVgqN7jAU?authuser=0&hl=zh-TW&rclk=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_dd7e46911c2680ca.webp",
+        "alt": "glin coffee大工町2号店的日系水彩插圖"
       }
     }
   ],

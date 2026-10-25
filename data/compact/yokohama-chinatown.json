@@ -1,0 +1,90 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "yokohama-yamate--p_a727670c29301bf7",
+      "name": "TSUKIKOYA COFFEE ROASTER 中華街店",
+      "address": "神奈川県横浜市中区山下町106 1F",
+      "group": "food",
+      "categoryLabel": "咖啡烘焙",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tsukikoya Specialty Coffee Roaster's shop」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 神奈川県横浜市中区山下町106 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.441929,
+        "lng": 139.648239,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E4%B8%8B%E7%94%BA106",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "WHexI6BjwLY",
+          "title": "The Best Guide Of Yokohama 2023: JAPAN TRAVEL",
+          "url": "https://www.youtube.com/watch?v=WHexI6BjwLY",
+          "time": "03:25",
+          "seconds": 205
+        }
+      ],
+      "official": "https://www.chinatown.or.jp/shop/tsukikoya-coffee-roaster/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a727670c29301bf7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10202345246945200566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_a727670c29301bf7.webp",
+        "alt": "TSUKIKOYA COFFEE ROASTER 中華街店的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "yokohama-chinatown",
+        "name": "橫濱中華街",
+        "href": "/walks/yokohama-chinatown/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_a727670c29301bf7"
+    ]
+  },
+  "scope": {
+    "id": "yokohama-chinatown",
+    "name": "橫濱中華街",
+    "kind": "record-area",
+    "parentWalk": "yokohama-yamate",
+    "scope": "山下町中華街與朱雀門內側商店街。",
+    "includes": "山下町中華街與朱雀門內側商店街。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.welcome.city.yokohama.jp/spot/details.php?bbid=815"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "yokohama-yamate"
+  ]
+}

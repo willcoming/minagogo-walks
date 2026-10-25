@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "asakusa--p_20324c0da415764e",
+      "name": "UMIERE asakusa",
+      "address": "東京都台東区元浅草３丁目１６−１６",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「UMIERE asakusa」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区元浅草３丁目１６−１６。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.707554,
+        "lng": 139.786606,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%85%83%E6%B5%85%E8%8D%893%E4%B8%81%E7%9B%AE16%E2%88%9216",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "79k4XT8vnIM",
+          "title": "【vlog】桃スイーツ巡り〜2020夏ver.〜",
+          "url": "https://www.youtube.com/watch?v=79k4XT8vnIM"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_20324c0da415764e",
+          "p_4e9753b7c5ef6189"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=UMIERE+asakusa+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%85%83%E6%B5%85%E8%8D%89%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%96%E2%88%92%EF%BC%91%EF%BC%96"
+      },
+      "illustration": {
+        "image": "/art/source-library/asakusa--p_20324c0da415764e.webp",
+        "alt": "UMIERE asakusa的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "shin-okachimachi",
+        "name": "新御徒町・元淺草",
+        "href": "/walks/shin-okachimachi/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_20324c0da415764e",
+      "p_4e9753b7c5ef6189"
+    ]
+  },
+  "scope": {
+    "id": "shin-okachimachi",
+    "name": "新御徒町・元淺草",
+    "kind": "record-area",
+    "parentWalk": "asakusa",
+    "scope": "新御徒町站東側與元淺草三丁目、佐竹商店街周邊。",
+    "includes": "新御徒町站東側與元淺草三丁目、佐竹商店街周邊。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://t-navi.city.taito.lg.jp/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "asakusa"
+  ]
+}

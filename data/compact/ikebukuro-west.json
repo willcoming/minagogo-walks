@@ -1,0 +1,149 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kyoto-nishijin--p_9870b7da58043dbb",
+      "name": "Nu coffee 池袋店",
+      "address": "東京都豊島区池袋2-22-2 バイリンクビル2F",
+      "group": "food",
+      "categoryLabel": "咖啡館",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹池袋西口的越南咖啡館 Nu coffee，位於池袋二丁目建築的二樓。",
+        "原始資料記錄的地址為 東京都豊島区池袋2-22-2 バイリンクビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片店家連結與2023年實訪報導均指向池袋店。食べログ目前標示「掲載保留」，現況尚未確認，請先確認營業再安排行程。",
+      "coordinate": {
+        "lat": 35.732552,
+        "lng": 139.705032,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E6%B1%A0%E8%A2%8B2-22-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "m133f63cvok",
+          "title": "【2023池袋新開10強】中國人氣百元飲品、冰淇淋、米其林拉麵等！",
+          "url": "https://www.youtube.com/watch?v=m133f63cvok"
+        }
+      ],
+      "official": "https://tabelog.com/tokyo/A1305/A130501/13286022/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9870b7da58043dbb"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-nishijin--p_9870b7da58043dbb.webp",
+        "alt": "Nu coffee 池袋店的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "ikebukuro-west",
+        "name": "池袋西口",
+        "href": "/walks/ikebukuro-west/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kobe-kitano--p_9c5f5c642746adb2",
+      "name": "しげ松 昼の部（池袋）",
+      "address": "東京都豊島区池袋2-70-5 カーサヤマブキ1F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹池袋的「しげ松 昼の部」，是居酒屋しげ松空間內的午間餐食紀錄。",
+        "原始資料記錄的地址為 東京都豊島区池袋2-70-5 カーサヤマブキ1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "已依原影片與池袋店地址修正同名誤配。影片拍攝於2022年，午間營業仍請事先向店家確認。",
+      "coordinate": {
+        "lat": 35.73579,
+        "lng": 139.708511,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E6%B1%A0%E8%A2%8B2-70-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "D-4lF6_WxtQ",
+          "title": "[池袋] 2022年上半年池袋午餐新公開總結！",
+          "url": "https://www.youtube.com/watch?v=D-4lF6_WxtQ"
+        }
+      ],
+      "official": "https://www.instagram.com/shigematsuhirunobu/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9c5f5c642746adb2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-kitano--p_9c5f5c642746adb2.webp",
+        "alt": "しげ松 昼の部（池袋）的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "ikebukuro-west",
+        "name": "池袋西口",
+        "href": "/walks/ikebukuro-west/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 2,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_9870b7da58043dbb",
+      "p_9c5f5c642746adb2"
+    ]
+  },
+  "scope": {
+    "id": "ikebukuro-west",
+    "name": "池袋西口",
+    "city": "東京",
+    "region": "關東",
+    "kind": "record-area",
+    "parentWalk": "kobe-kitano",
+    "scope": "池袋站西口至池袋二丁目，僅保留已核對的影片店家。",
+    "includes": "池袋二丁目22番與70番一帶的原影片店家。",
+    "excludes": "僅保留已核對的原影片地點，不以整個行政區擴張收錄。",
+    "basis": "依原影片明示店家、來源店家頁及實訪地址修正跨城市誤配；稀疏紀錄不編造完整散步行程。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=D-4lF6_WxtQ",
+      "https://tabelog.com/tokyo/A1305/A130501/13234901/",
+      "https://www.youtube.com/watch?v=m133f63cvok",
+      "https://tabelog.com/tokyo/A1305/A130501/13286022/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 2
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kyoto-nishijin",
+    "kobe-kitano"
+  ]
+}

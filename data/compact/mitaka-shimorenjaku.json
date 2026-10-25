@@ -1,0 +1,90 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "kichijoji--p_1e37c0fe78ec1257",
+      "name": "KANNON COFFEE吉祥寺店(カンノンコーヒー)",
+      "address": "東京都三鷹市下連雀5-1-1 プラウドシティ吉祥寺",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「KANNON COFFEE吉祥寺店(カンノンコーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都三鷹市下連雀5-1-1 プラウドシティ吉祥寺。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.690895,
+        "lng": 139.57135,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%89%E9%B7%B9%E5%B8%82%E4%B8%8B%E9%80%A3%E9%9B%805-1-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zVmpLi_Ybk0",
+          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
+          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
+          "time": "7:15",
+          "seconds": 435
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1e37c0fe78ec1257"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/KANNON+COFFEE+kichijoji/@35.6907498,139.5711483,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef6d117181bf:0x1c61f6ba1bbafcbe!8m2!3d35.6907498!4d139.5711483!16s%2Fg%2F11n5l2lbrb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_1e37c0fe78ec1257.webp",
+        "alt": "KANNON COFFEE吉祥寺店(カンノンコーヒー)的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "mitaka-shimorenjaku",
+        "name": "三鷹下連雀",
+        "href": "/walks/mitaka-shimorenjaku/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_1e37c0fe78ec1257"
+    ]
+  },
+  "scope": {
+    "id": "mitaka-shimorenjaku",
+    "name": "三鷹下連雀",
+    "kind": "record-area",
+    "parentWalk": "kichijoji",
+    "scope": "三鷹市下連雀五丁目周邊，井之頭公園南側以外的生活街區。",
+    "includes": "三鷹市下連雀五丁目周邊，井之頭公園南側以外的生活街區。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://kanko.mitaka.ne.jp/category/push-spot/shimorenjaku/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kichijoji"
+  ]
+}

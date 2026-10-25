@@ -32,7 +32,12 @@
         "image": "/art/walks/kyoto-fushimi/sasakipan.webp",
         "alt": "ササキパン本店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-fushimi",
+        "name": "伏見桃山・酒藏",
+        "href": "/walks/kyoto-fushimi/"
+      }
     },
     {
       "id": "kyoto-fushimi--kappa",
@@ -65,7 +70,12 @@
         "image": "/art/walks/kyoto-fushimi/kappa.webp",
         "alt": "黃櫻 Kappa Country的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-fushimi",
+        "name": "伏見桃山・酒藏",
+        "href": "/walks/kyoto-fushimi/"
+      }
     },
     {
       "id": "kyoto-fushimi--ryoma",
@@ -98,7 +108,18 @@
         "image": "/art/walks/kyoto-fushimi/ryoma.webp",
         "alt": "龍馬通商店街的日系水彩插圖"
       },
-      "recommendation": "向西走進商店街，挑幾間有興趣的小店，自由安排點心或休息。"
+      "recommendation": "向西走進商店街，挑幾間有興趣的小店，自由安排點心或休息。",
+      "canonicalArea": {
+        "id": "kyoto-fushimi",
+        "name": "伏見桃山・酒藏",
+        "href": "/walks/kyoto-fushimi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+        ]
+      }
     },
     {
       "id": "kyoto-fushimi--teradaya",
@@ -131,7 +152,12 @@
         "image": "/art/walks/kyoto-fushimi/teradaya.webp",
         "alt": "寺田屋的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-fushimi",
+        "name": "伏見桃山・酒藏",
+        "href": "/walks/kyoto-fushimi/"
+      }
     },
     {
       "id": "kyoto-fushimi--kyobashi",
@@ -164,7 +190,12 @@
         "image": "/art/walks/kyoto-fushimi/kyobashi.webp",
         "alt": "京橋的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-fushimi",
+        "name": "伏見桃山・酒藏",
+        "href": "/walks/kyoto-fushimi/"
+      }
     },
     {
       "id": "kyoto-fushimi--yumehyakushu",
@@ -197,7 +228,19 @@
         "image": "/art/walks/kyoto-fushimi/yumehyakushu.webp",
         "alt": "伏見夢百衆的日系水彩插圖"
       },
-      "recommendation": "在舊本店建築裡喝杯咖啡休息。"
+      "recommendation": "在舊本店建築裡喝杯咖啡休息。",
+      "canonicalArea": {
+        "id": "kyoto-fushimi",
+        "name": "伏見桃山・酒藏",
+        "href": "/walks/kyoto-fushimi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+          "https://shugakuryoko.kyoto.travel/spot/490/"
+        ]
+      }
     },
     {
       "id": "kyoto-fushimi--gekkeikan",
@@ -230,7 +273,19 @@
         "image": "/art/walks/kyoto-fushimi/gekkeikan.webp",
         "alt": "月桂冠大倉紀念館的日系水彩插圖"
       },
-      "recommendation": "認識伏見的釀酒工具與酒藏歷史。"
+      "recommendation": "認識伏見的釀酒工具與酒藏歷史。",
+      "canonicalArea": {
+        "id": "kyoto-fushimi",
+        "name": "伏見桃山・酒藏",
+        "href": "/walks/kyoto-fushimi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+          "https://shugakuryoko.kyoto.travel/spot/490/"
+        ]
+      }
     },
     {
       "id": "kyoto-fushimi--chokenji",
@@ -263,7 +318,18 @@
         "image": "/art/walks/kyoto-fushimi/chokenji.webp",
         "alt": "長建寺的日系水彩插圖"
       },
-      "recommendation": "沿水邊街道往南，到紅色龍宮門前參拜後，再步行到中書島站。"
+      "recommendation": "沿水邊街道往南，到紅色龍宮門前參拜後，再步行到中書島站。",
+      "canonicalArea": {
+        "id": "kyoto-fushimi",
+        "name": "伏見桃山・酒藏",
+        "href": "/walks/kyoto-fushimi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+        ]
+      }
     },
     {
       "id": "kyoto-fushimi--oishi",
@@ -296,7 +362,18 @@
         "image": "/art/walks/kyoto-fushimi/oishi.webp",
         "alt": "大石天狗堂的日系水彩插圖"
       },
-      "recommendation": "看看歌牌圖樣與傳統遊戲用品；不安排未公告的工廠參觀。"
+      "recommendation": "看看歌牌圖樣與傳統遊戲用品；不安排未公告的工廠參觀。",
+      "canonicalArea": {
+        "id": "kyoto-fushimi",
+        "name": "伏見桃山・酒藏",
+        "href": "/walks/kyoto-fushimi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+        ]
+      }
     },
     {
       "id": "kyoto-fushimi--gokonomiya",
@@ -329,89 +406,19 @@
         "image": "/art/walks/kyoto-fushimi/gokonomiya.webp",
         "alt": "御香宮神社的日系水彩插圖"
       },
-      "recommendation": "看桃山風格社殿與境內名水。"
-    },
-    {
-      "id": "kyoto-fushimi--p_b7b5ba7c26c6e0c5",
-      "name": "伏見稻荷大社",
-      "address": "68 Fukakusa Yabunouchichō, Fushimi Ward, Kyoto, 612-0882",
-      "group": "sights",
-      "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「伏見稻荷大社」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 68 Fukakusa Yabunouchichō, Fushimi Ward, Kyoto, 612-0882。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 34.9676945,
-        "lng": 135.7791876,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      "recommendation": "看桃山風格社殿與境內名水。",
+      "canonicalArea": {
+        "id": "kyoto-fushimi",
+        "name": "伏見桃山・酒藏",
+        "href": "/walks/kyoto-fushimi/"
       },
-      "sources": [
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "qe945dPQArM",
-          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
-          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
-          "time": "1:49",
-          "seconds": 109
-        },
-        {
-          "channel": "Celia Ting",
-          "videoId": "pemI7VRrJ8Y",
-          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
-          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_b7b5ba7c26c6e0c5",
-          "p_e0d5995132c391a6"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=8870624639634301673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 11
-    },
-    {
-      "id": "kyoto-fushimi--p_049f187a6d1c8b33",
-      "name": "ABOUT US COFFEE FUSHIMI INARI",
-      "address": "22-15 Fukakusa Inaritoriimaecho, Fushimi Ward, Kyoto, 612-0014, Japan",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「ABOUT US COFFEE FUSHIMI INARI」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 22-15 Fukakusa Inaritoriimaecho, Fushimi Ward, Kyoto, 612-0014, Japan。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
-      "coordinate": null,
-      "sources": [
-        {
-          "channel": "Celia Ting",
-          "videoId": "pemI7VRrJ8Y",
-          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
-          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_049f187a6d1c8b33"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=ABOUT+US+COFFEE+FUSHIMI+INARI+22-15+Fukakusa+Inaritoriimaecho%2C+Fushimi+Ward%2C+Kyoto%2C+612-0014%2C+Japan"
-      },
-      "order": 12
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+          "https://shugakuryoko.kyoto.travel/spot/490/"
+        ]
+      }
     }
   ],
   "routes": [
@@ -453,13 +460,20 @@
         "kyoto-fushimi--oishi": "順路可選：在老舖裡，看歌牌與遊戲的手感。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "kyoto-fushimi--kappa": "順路可選：河童、釀酒與老酒藏的記憶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-fushimi/yumehyakushu.webp",
+      "art": "/art/walks/kyoto-fushimi/gokonomiya.webp",
       "highlightIds": [
         "kyoto-fushimi--gokonomiya",
         "kyoto-fushimi--gekkeikan",
         "kyoto-fushimi--yumehyakushu"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+          "https://shugakuryoko.kyoto.travel/spot/490/"
+        ]
+      }
     },
     {
       "id": "kyoto-fushimi-cards-and-waterside-lanes",
@@ -507,18 +521,193 @@
         "kyoto-fushimi--ryoma",
         "kyoto-fushimi--chokenji"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+        ]
+      }
     }
   ],
   "defaultSelection": "kyoto-fushimi-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [
-      "p_b7b5ba7c26c6e0c5",
-      "p_e0d5995132c391a6",
-      "p_049f187a6d1c8b33"
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "kyoto-fushimi",
+    "name": "伏見桃山・酒藏",
+    "kind": "walk",
+    "scope": "中書島站、濠川酒藏街、寺田屋與龍馬通，向北東接伏見桃山站與御香宮。",
+    "includes": "中書島、南濱町、納屋町、桃山商店街與御香宮",
+    "excludes": "伏見稻荷與深草、醍醐和丹波橋北側另區。",
+    "basis": "京都市伏見網站將中書島、丹波橋伏見桃山、深草等分區；行政區名不能取代散策範圍。",
+    "sourceUrls": [
+      "https://sumumachifushimi.city.kyoto.lg.jp/area/"
     ],
-    "added": 2,
-    "unlocated": 1,
-    "checkedAt": "2026-10-26"
-  }
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "kyoto-fushimi--p_e0d5995132c391a6",
+      "name": "伏見稻荷大社",
+      "address": "京都府京都市伏見区深草薮之内町68",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Fushimi Inari Taisha」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 京都府京都市伏見区深草薮之内町68。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "保留 Celia Ting 京都影片中的伏見稻荷紀錄；成田山出世稻荷為不同地點，已解除誤合併。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E8%96%AE%E4%B9%8B%E5%86%85%E7%94%BA68",
+        "lat": 34.967037,
+        "lng": 135.773499,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；寺社境內建物共用地址。"
+      },
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ],
+      "official": "https://inari.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e0d5995132c391a6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Fushimi+Inari+Taisha+68+Fukakusa+Yabunouchicho%2C+Fushimi+Ward%2C+Kyoto%2C+612-0882%2C+Japan"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-fushimi--p_e0d5995132c391a6.webp",
+        "alt": "伏見稻荷大社的日系水彩插圖"
+      },
+      "order": 11,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "fushimi-inari",
+        "name": "伏見稻荷・深草",
+        "href": "/walks/fushimi-inari/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-fushimi--p_b7b5ba7c26c6e0c5",
+      "name": "成田山出世稻荷",
+      "address": "千葉県成田市成田1 成田山新勝寺境內",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "成田山新勝寺境內的出世稻荷，位於大本堂左手階梯上方，供奉稻荷尊。",
+        "原始資料記錄的地址為 千葉県成田市成田1 成田山新勝寺境內。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片「Shusse Inari Daimyojin」連結指向成田山出世稻荷；先前誤配為京都伏見稻荷，已拆分兩處紀錄並修正位置。地圖為新勝寺共同地址代表點，非此御堂入口。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B01",
+        "lat": 35.785233,
+        "lng": 140.317215,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；寺社境內建物共用地址。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "1:49",
+          "seconds": 109
+        }
+      ],
+      "official": "https://www.naritasan.or.jp/tour/hall/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b7b5ba7c26c6e0c5"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-fushimi--p_b7b5ba7c26c6e0c5.webp",
+        "alt": "成田山出世稻荷的日系水彩插圖"
+      },
+      "order": 12,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-fushimi--p_049f187a6d1c8b33",
+      "name": "ABOUT US COFFEE FUSHIMI INARI",
+      "address": "22-15 Fukakusa Inaritoriimaecho, Fushimi Ward, Kyoto, 612-0014, Japan",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ABOUT US COFFEE FUSHIMI INARI」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 22-15 Fukakusa Inaritoriimaecho, Fushimi Ward, Kyoto, 612-0014, Japan。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_049f187a6d1c8b33"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=ABOUT+US+COFFEE+FUSHIMI+INARI+22-15+Fukakusa+Inaritoriimaecho%2C+Fushimi+Ward%2C+Kyoto%2C+612-0014%2C+Japan"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-fushimi--p_049f187a6d1c8b33.webp",
+        "alt": "ABOUT US COFFEE FUSHIMI INARI的日系水彩插圖"
+      },
+      "order": 13,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "fushimi-inari",
+        "name": "伏見稻荷・深草",
+        "href": "/walks/fushimi-inari/"
+      },
+      "savedOutsideArea": true
+    }
+  ],
+  "inheritedWalkIds": []
 }

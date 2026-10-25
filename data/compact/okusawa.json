@@ -1,0 +1,246 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "jiyugaoka--p_02a9b798f688b70f",
+      "name": "Relief coffee stand",
+      "address": "東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Relief coffee stand」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.599781,
+        "lng": 139.669693,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24-4-7",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "ZtNSe_zKHfw",
+          "title": "【NEW】東京新店舗カフェ10選～2025年下半期☕✨銀座／表参道／新宿／高輪etc.",
+          "url": "https://www.youtube.com/watch?v=ZtNSe_zKHfw",
+          "time": "17:06",
+          "seconds": 1026
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_02a9b798f688b70f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Relief+coffee+stand+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24-4-7+%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%E3%83%84%E5%A5%A5%E6%B2%A2+1F"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_02a9b798f688b70f.webp",
+        "alt": "Relief coffee stand的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "okusawa",
+        "name": "奧澤",
+        "href": "/walks/okusawa/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "jiyugaoka--p_192e7685627626d7",
+      "name": "アトリエルル",
+      "address": "東京都世田谷区奥沢4丁目26-9",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「アトリエルル」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢4丁目26-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.602654,
+        "lng": 139.671753,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24%E4%B8%81%E7%9B%AE26-9",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NPntk8Pbcic",
+          "title": "【自由が丘】スイーツ激戦区！自由が丘おすすめカフェ７選／人気店・有名店・老舗店など",
+          "url": "https://www.youtube.com/watch?v=NPntk8Pbcic",
+          "time": "07:18",
+          "seconds": 438
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_192e7685627626d7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%AB+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24%E4%B8%81%E7%9B%AE26-9"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_192e7685627626d7.webp",
+        "alt": "アトリエルル的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "okusawa",
+        "name": "奧澤",
+        "href": "/walks/okusawa/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "jiyugaoka--p_bb6b140592115737",
+      "name": "茶房牡丹 (Sabou Botan)",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「茶房牡丹 (Sabou Botan)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6037442,
+        "lng": 139.6676007,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/H9WbCQiprJYZFFx86",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "TkrG4kGLWgQ",
+          "title": "東京 🇯🇵 必吃日式和菓子！絕品黑芝麻麻糬與水果大福 甜點",
+          "url": "https://www.youtube.com/watch?v=TkrG4kGLWgQ",
+          "time": "00:37",
+          "seconds": 37
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bb6b140592115737"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/H9WbCQiprJYZFFx86"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_bb6b140592115737.webp",
+        "alt": "茶房牡丹 (Sabou Botan)的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "okusawa",
+        "name": "奧澤",
+        "href": "/walks/okusawa/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "jiyugaoka--p_caef28ea72e47439",
+      "name": "アルチザン・ブーランジェ・クピド",
+      "address": "世田谷区奥沢３丁目４５−２ 奥沢駅 徒歩３分",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「アルチザン・ブーランジェ・クピド」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 世田谷区奥沢３丁目４５−２ 奥沢駅 徒歩３分。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "yUgM36GeGwo",
+          "title": "【東京・パン屋】バターたっぷり！デニッシュが美味しいベーカリー特集８選！８danish pastries",
+          "url": "https://www.youtube.com/watch?v=yUgM36GeGwo",
+          "time": "09:15",
+          "seconds": 555
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_caef28ea72e47439"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%81%E3%82%B6%E3%83%B3%E3%83%BB%E3%83%96%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%BB%E3%82%AF%E3%83%94%E3%83%89+%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%94%EF%BC%95%E2%88%92%EF%BC%92+%E5%A5%A5%E6%B2%A2%E9%A7%85+%E5%BE%92%E6%AD%A9%EF%BC%93%E5%88%86"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_caef28ea72e47439.webp",
+        "alt": "アルチザン・ブーランジェ・クピド的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "okusawa",
+        "name": "奧澤",
+        "href": "/walks/okusawa/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 4,
+    "unlocated": 1,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_02a9b798f688b70f",
+      "p_192e7685627626d7",
+      "p_bb6b140592115737",
+      "p_caef28ea72e47439"
+    ]
+  },
+  "scope": {
+    "id": "okusawa",
+    "name": "奧澤",
+    "kind": "record-area",
+    "parentWalk": "jiyugaoka",
+    "scope": "奧澤站、奧澤三至四丁目與車站南側商店街。",
+    "includes": "奧澤站、奧澤三至四丁目與車站南側商店街。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.tokyu.co.jp/area/okusawa/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 4
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "jiyugaoka"
+  ]
+}

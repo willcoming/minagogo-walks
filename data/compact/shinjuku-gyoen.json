@@ -1,0 +1,93 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "yanaka--p_6c2c7ef5276cb53a",
+      "name": "古月 新宿（閉店紀錄）",
+      "address": "東京都新宿区新宿1-5-5 御苑フラトー2F",
+      "group": "food",
+      "categoryLabel": "中華料理",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹新宿御苑旁的中華料理店古月新宿，已修正先前誤配的池之端本店。",
+        "原始資料記錄的地址為 東京都新宿区新宿1-5-5 御苑フラトー2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片食べログ連結明確指向新宿店；食べログ與散步の達人均已標示閉店。保留新宿原址與影片，不再列入導航。",
+      "coordinate": {
+        "lat": 35.687988,
+        "lng": 139.710831,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%96%B0%E5%AE%BF1-5-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "YJcVMd6P3pA",
+          "title": "【新宿午餐Best 5】由罕見的高級藥草大師製作的日本傳統水瀧和優質中餐！",
+          "url": "https://www.youtube.com/watch?v=YJcVMd6P3pA"
+        }
+      ],
+      "official": "https://tabelog.com/tokyo/A1304/A130402/13030918/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6c2c7ef5276cb53a"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_6c2c7ef5276cb53a.webp",
+        "alt": "古月 新宿（閉店紀錄）的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "shinjuku-gyoen",
+        "name": "新宿御苑前",
+        "href": "/walks/shinjuku-gyoen/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_6c2c7ef5276cb53a"
+    ]
+  },
+  "scope": {
+    "id": "shinjuku-gyoen",
+    "name": "新宿御苑前",
+    "city": "東京",
+    "region": "關東",
+    "kind": "record-area",
+    "parentWalk": "yanaka",
+    "scope": "新宿御苑北側、新宿一丁目5番的原影片餐廳紀錄。",
+    "includes": "古月新宿的已核實歷史店址。",
+    "excludes": "不包含池之端本店，不將單筆閉店紀錄擴展為新宿散策路線。",
+    "basis": "原影片連結指向新宿御苑前餐廳，以店家資料與實訪照片核對原址。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=YJcVMd6P3pA",
+      "https://tabelog.com/tokyo/A1304/A130402/13030918/",
+      "https://san-tatsu.jp/spots/96328/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "yanaka"
+  ]
+}

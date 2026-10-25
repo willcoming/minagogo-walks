@@ -32,7 +32,20 @@
         "image": "/art/walks/kyoto-demachi/shimogamo.webp",
         "alt": "下鴨神社的日系水彩插圖"
       },
-      "recommendation": "沿糺之森慢行，將神社作為主要文化停留。"
+      "recommendation": "沿糺之森慢行，將神社作為主要文化停留。",
+      "canonicalArea": {
+        "id": "kyoto-demachi",
+        "name": "出町・下鴨",
+        "href": "/walks/kyoto-demachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://ja.kyoto.travel/times/morning/article/single.php?id=589",
+          "https://www.shimogamo-jinja.or.jp/",
+          "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html"
+        ]
+      }
     },
     {
       "id": "kyoto-demachi--kawai",
@@ -78,7 +91,12 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_3e6418bbb64b123b"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "kyoto-demachi",
+        "name": "出町・下鴨",
+        "href": "/walks/kyoto-demachi/"
+      }
     },
     {
       "id": "kyoto-demachi--mitsui",
@@ -111,7 +129,20 @@
         "image": "/art/walks/kyoto-demachi/mitsui.webp",
         "alt": "舊三井家下鴨別邸的日系水彩插圖"
       },
-      "recommendation": "過橋後看一般公開的主屋與庭園，再回出町柳站。"
+      "recommendation": "過橋後看一般公開的主屋與庭園，再回出町柳站。",
+      "canonicalArea": {
+        "id": "kyoto-demachi",
+        "name": "出町・下鴨",
+        "href": "/walks/kyoto-demachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://demachiza.com/access",
+          "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+          "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505"
+        ]
+      }
     },
     {
       "id": "kyoto-demachi--river",
@@ -164,7 +195,20 @@
       "recommendation": "從河岸看兩河交會，留一段不趕路的空白。",
       "sourceLibraryIds": [
         "p_ad51d74a07f848eb"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "kyoto-demachi",
+        "name": "出町・下鴨",
+        "href": "/walks/kyoto-demachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://ja.kyoto.travel/times/morning/article/single.php?id=589",
+          "https://www.shimogamo-jinja.or.jp/",
+          "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html"
+        ]
+      }
     },
     {
       "id": "kyoto-demachi--futaba",
@@ -197,7 +241,20 @@
         "image": "/art/walks/kyoto-demachi/futaba.webp",
         "alt": "出町ふたば的日系水彩插圖"
       },
-      "recommendation": "選一份豆餅；若隊伍太長，可改在附近茶房休息。"
+      "recommendation": "選一份豆餅；若隊伍太長，可改在附近茶房休息。",
+      "canonicalArea": {
+        "id": "kyoto-demachi",
+        "name": "出町・下鴨",
+        "href": "/walks/kyoto-demachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://ja.kyoto.travel/times/morning/article/single.php?id=589",
+          "https://www.shimogamo-jinja.or.jp/",
+          "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html"
+        ]
+      }
     },
     {
       "id": "kyoto-demachi--isehan",
@@ -230,7 +287,12 @@
         "image": "/art/walks/kyoto-demachi/isehan.webp",
         "alt": "茶房いせはん的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-demachi",
+        "name": "出町・下鴨",
+        "href": "/walks/kyoto-demachi/"
+      }
     },
     {
       "id": "kyoto-demachi--delta",
@@ -263,7 +325,12 @@
         "image": "/art/walks/kyoto-demachi/delta.webp",
         "alt": "DELTA Bistro, Coffee Shop & Gallery的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-demachi",
+        "name": "出町・下鴨",
+        "href": "/walks/kyoto-demachi/"
+      }
     },
     {
       "id": "kyoto-demachi--fujiya",
@@ -296,7 +363,12 @@
         "image": "/art/walks/kyoto-demachi/fujiya.webp",
         "alt": "ふじや鰹節店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-demachi",
+        "name": "出町・下鴨",
+        "href": "/walks/kyoto-demachi/"
+      }
     },
     {
       "id": "kyoto-demachi--masugata",
@@ -329,7 +401,20 @@
         "image": "/art/walks/kyoto-demachi/masugata.webp",
         "alt": "出町桝形商店街的日系水彩插圖"
       },
-      "recommendation": "沿短短拱廊看日常買賣，不必每間店都停。"
+      "recommendation": "沿短短拱廊看日常買賣，不必每間店都停。",
+      "canonicalArea": {
+        "id": "kyoto-demachi",
+        "name": "出町・下鴨",
+        "href": "/walks/kyoto-demachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://demachiza.com/access",
+          "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+          "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505"
+        ]
+      }
     },
     {
       "id": "kyoto-demachi--cinema",
@@ -362,7 +447,20 @@
         "image": "/art/walks/kyoto-demachi/cinema.webp",
         "alt": "出町座的日系水彩插圖"
       },
-      "recommendation": "看看電影海報與選書，想喝飲料就留一小段時間坐下。"
+      "recommendation": "看看電影海報與選書，想喝飲料就留一小段時間坐下。",
+      "canonicalArea": {
+        "id": "kyoto-demachi",
+        "name": "出町・下鴨",
+        "href": "/walks/kyoto-demachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://demachiza.com/access",
+          "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+          "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505"
+        ]
+      }
     }
   ],
   "routes": [
@@ -406,13 +504,21 @@
         "kyoto-demachi--kawai": "順路可選：手鏡形繪馬，藏在森林南端。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "kyoto-demachi--mitsui": "順路可選：望樓、木窗與苔庭，留下近代京都。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-demachi/river.webp",
+      "art": "/art/walks/kyoto-demachi/futaba.webp",
       "highlightIds": [
         "kyoto-demachi--futaba",
         "kyoto-demachi--shimogamo",
         "kyoto-demachi--river"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://ja.kyoto.travel/times/morning/article/single.php?id=589",
+          "https://www.shimogamo-jinja.or.jp/",
+          "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html"
+        ]
+      }
     },
     {
       "id": "kyoto-demachi-books-market-and-villa",
@@ -460,17 +566,42 @@
         "kyoto-demachi--masugata",
         "kyoto-demachi--mitsui"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://demachiza.com/access",
+          "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+          "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505"
+        ]
+      }
     }
   ],
   "defaultSelection": "kyoto-demachi-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [
-      "p_ad51d74a07f848eb",
-      "p_3e6418bbb64b123b"
-    ],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_3e6418bbb64b123b",
+      "p_ad51d74a07f848eb"
+    ]
+  },
+  "scope": {
+    "id": "kyoto-demachi",
+    "name": "出町・下鴨",
+    "kind": "walk",
+    "scope": "出町柳站、鴨川三角洲與桝形商店街，北接舊三井家別邸、糺之森和下鴨神社。",
+    "includes": "出町商店街、賀茂川與高野川匯流口、下鴨神社參道",
+    "excludes": "京都御苑南部、銀閣寺與修學院另區。",
+    "basis": "地方步行圖與京都官方御所下鴨區域介紹支持出町—下鴨的連續段；名稱標出兩地。",
+    "sourceUrls": [
+      "https://www.city.kyoto.lg.jp/kamigyo/page/0000101208.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

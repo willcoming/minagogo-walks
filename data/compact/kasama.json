@@ -33,7 +33,12 @@
         "image": "/art/walks/kasama/imo.webp",
         "alt": "芋好き門前粉紅色店面的水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      }
     },
     {
       "id": "kasama--inari",
@@ -66,7 +71,20 @@
         "image": "/art/walks/kasama/inari.webp",
         "alt": "笠間稻荷神社，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "慢慢參拜與欣賞境內。"
+      "recommendation": "慢慢參拜與欣賞境內。",
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kasama.or.jp/",
+          "https://www.city.kasama.lg.jp/page/page009195.html",
+          "https://cafefutaba.jimdosite.com/"
+        ]
+      }
     },
     {
       "id": "kasama--sasame",
@@ -99,7 +117,12 @@
         "image": "/art/walks/kasama/sasame.webp",
         "alt": "笹目宗兵衛商店，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      }
     },
     {
       "id": "kasama--futatsugi",
@@ -132,7 +155,12 @@
         "image": "/art/walks/kasama/futatsugi.webp",
         "alt": "二ツ木，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      }
     },
     {
       "id": "kasama--kula",
@@ -165,7 +193,12 @@
         "image": "/art/walks/kasama/kula.webp",
         "alt": "庭カフェ KULA，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      }
     },
     {
       "id": "kasama--okai",
@@ -198,7 +231,12 @@
         "image": "/art/walks/kasama/okai.webp",
         "alt": "八百屋カフェ Okai，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      }
     },
     {
       "id": "kasama--kasamacafe",
@@ -231,7 +269,12 @@
         "image": "/art/walks/kasama/kasamacafe.webp",
         "alt": "かさまカフェ（鍋屋 幸せだんご），依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      }
     },
     {
       "id": "kasama--lemidi",
@@ -264,7 +307,20 @@
         "image": "/art/walks/kasama/lemidi.webp",
         "alt": "LE MIDI，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "看笠間燒與生活雜貨，想休息時再安排咖啡。"
+      "recommendation": "看笠間燒與生活雜貨，想休息時再安排咖啡。",
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nichido-museum.or.jp/",
+          "https://cfactory.nabeya-rice.com/",
+          "https://www.kasama-shoko.jp/member/id119"
+        ]
+      }
     },
     {
       "id": "kasama--nakaya",
@@ -297,7 +353,12 @@
         "image": "/art/walks/kasama/nakaya.webp",
         "alt": "中屋總本店，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      }
     },
     {
       "id": "kasama--idutsuya",
@@ -330,7 +391,20 @@
         "image": "/art/walks/kasama/idutsuya.webp",
         "alt": "かさま歷史交流館 井筒屋，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "走進老旅館改成的交流空間。"
+      "recommendation": "走進老旅館改成的交流空間。",
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kasama.or.jp/",
+          "https://www.city.kasama.lg.jp/page/page009195.html",
+          "https://cafefutaba.jimdosite.com/"
+        ]
+      }
     },
     {
       "id": "kasama--littlecu",
@@ -363,7 +437,12 @@
         "image": "/art/walks/kasama/littlecu.webp",
         "alt": "Little cu.，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      }
     },
     {
       "id": "kasama--futaba",
@@ -396,7 +475,20 @@
         "image": "/art/walks/kasama/futaba.webp",
         "alt": "CAFÉ 二葉，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "咖啡休息，再決定想逛的小店。"
+      "recommendation": "咖啡休息，再決定想逛的小店。",
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kasama.or.jp/",
+          "https://www.city.kasama.lg.jp/page/page009195.html",
+          "https://cafefutaba.jimdosite.com/"
+        ]
+      }
     },
     {
       "id": "kasama--choco",
@@ -429,7 +521,20 @@
         "image": "/art/walks/kasama/choco.webp",
         "alt": "かさまとチョコレート工場，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "挑一份巧克力點心，補上散步的小甜味。"
+      "recommendation": "挑一份巧克力點心，補上散步的小甜味。",
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nichido-museum.or.jp/",
+          "https://cfactory.nabeya-rice.com/",
+          "https://www.kasama-shoko.jp/member/id119"
+        ]
+      }
     },
     {
       "id": "kasama--nichido",
@@ -462,7 +567,20 @@
         "image": "/art/walks/kasama/nichido.webp",
         "alt": "笠間日動美術館，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "選一段最感興趣的展示慢看，別急著逛完全部展館。"
+      "recommendation": "選一段最感興趣的展示慢看，別急著逛完全部展館。",
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nichido-museum.or.jp/",
+          "https://cfactory.nabeya-rice.com/",
+          "https://www.kasama-shoko.jp/member/id119"
+        ]
+      }
     },
     {
       "id": "kasama--shofukuji",
@@ -495,7 +613,12 @@
         "image": "/art/walks/kasama/shofukuji.webp",
         "alt": "佐白山 正福寺，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kasama",
+        "name": "笠間稻荷門前",
+        "href": "/walks/kasama/"
+      }
     }
   ],
   "routes": [
@@ -545,7 +668,15 @@
         "kasama--idutsuya",
         "kasama--futaba"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kasama.or.jp/",
+          "https://www.city.kasama.lg.jp/page/page009195.html",
+          "https://cafefutaba.jimdosite.com/"
+        ]
+      }
     },
     {
       "id": "kasama-art-and-sweet-things",
@@ -593,14 +724,39 @@
         "kasama--choco",
         "kasama--lemidi"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nichido-museum.or.jp/",
+          "https://cfactory.nabeya-rice.com/",
+          "https://www.kasama-shoko.jp/member/id119"
+        ]
+      }
     }
   ],
   "defaultSelection": "kasama-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "kasama",
+    "name": "笠間稻荷門前",
+    "kind": "walk",
+    "scope": "笠間稻荷神社門前通，沿井筒屋至日動美術館、正福寺山腳。",
+    "includes": "稻荷門前街與佐白山西麓",
+    "excludes": "笠間藝術之森、陶藝園區與友部另區。",
+    "basis": "笠間市提供門前通等主題地圖，門前與陶藝園區不能只因「笠間」地址合併。",
+    "sourceUrls": [
+      "https://www.city.kasama.lg.jp/page/page015758.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 15
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

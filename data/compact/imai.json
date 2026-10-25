@@ -32,7 +32,12 @@
         "image": "/art/walks/imai/takagi.webp",
         "alt": "高木家住宅的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "imai",
+        "name": "今井町",
+        "href": "/walks/imai/"
+      }
     },
     {
       "id": "imai--kawai",
@@ -65,7 +70,12 @@
         "image": "/art/walks/imai/kawai.webp",
         "alt": "河合酒造的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "imai",
+        "name": "今井町",
+        "href": "/walks/imai/"
+      }
     },
     {
       "id": "imai--keikan",
@@ -98,7 +108,20 @@
         "image": "/art/walks/imai/keikan.webp",
         "alt": "今井景觀支援中心的日系水彩插圖"
       },
-      "recommendation": "先看看復原的町家空間，再帶著對格局的印象走進街區。"
+      "recommendation": "先看看復原的町家空間，再帶著對格局的印象走進街區。",
+      "canonicalArea": {
+        "id": "imai",
+        "name": "今井町",
+        "href": "/walks/imai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00065",
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083",
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105"
+        ]
+      }
     },
     {
       "id": "imai--kometani",
@@ -131,7 +154,20 @@
         "image": "/art/walks/imai/kometani.webp",
         "alt": "舊米谷家住宅的日系水彩插圖"
       },
-      "recommendation": "從土間、木梁與庭園，讀懂町家的生活。"
+      "recommendation": "從土間、木梁與庭園，讀懂町家的生活。",
+      "canonicalArea": {
+        "id": "imai",
+        "name": "今井町",
+        "href": "/walks/imai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00085",
+          "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+          "https://cafe-tamayura-kashihara.com/"
+        ]
+      }
     },
     {
       "id": "imai--tamayura",
@@ -164,7 +200,20 @@
         "image": "/art/walks/imai/tamayura.webp",
         "alt": "cafe たまゆら的日系水彩插圖"
       },
-      "recommendation": "坐下喝茶或咖啡，讓街角發現有空白。"
+      "recommendation": "坐下喝茶或咖啡，讓街角發現有空白。",
+      "canonicalArea": {
+        "id": "imai",
+        "name": "今井町",
+        "href": "/walks/imai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00085",
+          "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+          "https://cafe-tamayura-kashihara.com/"
+        ]
+      }
     },
     {
       "id": "imai--machiyakan",
@@ -197,7 +246,20 @@
         "image": "/art/walks/imai/machiyakan.webp",
         "alt": "今井町家館的日系水彩插圖"
       },
-      "recommendation": "把這座館作主要室內停留，留意木梁、土間與房間的連續。"
+      "recommendation": "把這座館作主要室內停留，留意木梁、土間與房間的連續。",
+      "canonicalArea": {
+        "id": "imai",
+        "name": "今井町",
+        "href": "/walks/imai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00065",
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083",
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105"
+        ]
+      }
     },
     {
       "id": "imai--shonenji",
@@ -230,7 +292,20 @@
         "image": "/art/walks/imai/shonenji.webp",
         "alt": "稱念寺的日系水彩插圖"
       },
-      "recommendation": "看看寺內町核心寺院的外觀，在開放範圍內安靜停留。"
+      "recommendation": "看看寺內町核心寺院的外觀，在開放範圍內安靜停留。",
+      "canonicalArea": {
+        "id": "imai",
+        "name": "今井町",
+        "href": "/walks/imai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00065",
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083",
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105"
+        ]
+      }
     },
     {
       "id": "imai--jippensha",
@@ -263,7 +338,12 @@
         "image": "/art/walks/imai/jippensha.webp",
         "alt": "大和漬物 十返舎 二號店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "imai",
+        "name": "今井町",
+        "href": "/walks/imai/"
+      }
     },
     {
       "id": "imai--narawashi",
@@ -296,7 +376,20 @@
         "image": "/art/walks/imai/narawashi.webp",
         "alt": "narawashi store的日系水彩插圖"
       },
-      "recommendation": "在老長屋裡，挑選奈良的食物與器物。"
+      "recommendation": "在老長屋裡，挑選奈良的食物與器物。",
+      "canonicalArea": {
+        "id": "imai",
+        "name": "今井町",
+        "href": "/walks/imai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00085",
+          "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+          "https://cafe-tamayura-kashihara.com/"
+        ]
+      }
     },
     {
       "id": "imai--imanishi",
@@ -329,7 +422,12 @@
         "image": "/art/walks/imai/imanishi.webp",
         "alt": "今西家住宅的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "imai",
+        "name": "今井町",
+        "href": "/walks/imai/"
+      }
     }
   ],
   "routes": [
@@ -379,7 +477,15 @@
         "imai--narawashi",
         "imai--tamayura"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00085",
+          "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+          "https://cafe-tamayura-kashihara.com/"
+        ]
+      }
     },
     {
       "id": "imai-windows-and-temple-town",
@@ -427,14 +533,39 @@
         "imai--machiyakan",
         "imai--shonenji"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00065",
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083",
+          "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105"
+        ]
+      }
     }
   ],
   "defaultSelection": "imai-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "imai",
+    "name": "今井町",
+    "kind": "walk",
+    "scope": "飛鳥川西側的今井町傳統町家街，以稱念寺與今西家住宅周圍街廓為核心。",
+    "includes": "今井町一、三、四丁目歷史街區",
+    "excludes": "橿原神宮、大和八木站商圈與藤原宮跡另區。",
+    "basis": "橿原市觀光資料以今井町保存街區提供獨立步行特集。",
+    "sourceUrls": [
+      "https://kashihara-kanko.or.jp/feature/detail.php?fid=7"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

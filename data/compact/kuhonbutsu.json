@@ -1,0 +1,264 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "jiyugaoka--p_09e4054dfdbf4b2f",
+      "name": "D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )",
+      "address": "東京都世田谷区奥沢8-3-2",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢8-3-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.602158,
+        "lng": 139.658234,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A28-3-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "WHISuV4aXW8",
+          "title": "Cafe Vlog | 10 Best Ice Cream Spots in Tokyo / 2021 Guide ✧˖ Omotesando / Ginza / Shinjuku / Shib...",
+          "url": "https://www.youtube.com/watch?v=WHISuV4aXW8",
+          "time": "06:42",
+          "seconds": 402
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_09e4054dfdbf4b2f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/D%26DEPARTMENT+TOKYO/@35.6021667,139.6582379,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f50376c78587:0xdf00610b7fe28ac2!8m2!3d35.6021667!4d139.6582379!16s%2Fg%2F1tdxqhkt?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_09e4054dfdbf4b2f.webp",
+        "alt": "D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kuhonbutsu",
+        "name": "九品佛",
+        "href": "/walks/kuhonbutsu/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "jiyugaoka--p_83889c8a300ae40e",
+      "name": "gouter(グテ)",
+      "address": "東京都世田谷区奥沢6-13-7",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「gouter(グテ)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢6-13-7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "食べログ目前標示九品佛的 gouter 已閉店；保留影片與原址紀錄，插圖依原店面照片製作。出發前請另行確認，勿與學藝大學的同名麵包店混淆。",
+      "coordinate": {
+        "lat": 35.604465,
+        "lng": 139.661316,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A26-13-7",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "8b9eRzSw6bk",
+          "title": "cafe vlog｜2022年最新カフェ12店舗𖠿𖥧上半期ver. 表参道／銀座／渋谷／代官山／中目黒／...etc",
+          "url": "https://www.youtube.com/watch?v=8b9eRzSw6bk",
+          "time": "09:42",
+          "seconds": 582
+        }
+      ],
+      "official": "https://www.instagram.com/gouter_tokyo/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_83889c8a300ae40e"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/%E3%82%B0%E3%83%86+%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E5%BA%97/data=!4m7!3m6!1s0x6018f50452fab409:0xd7fa9d14dc307baa!8m2!3d35.6298532!4d139.6856935!16s%2Fg%2F11l5nxvsyp!19sChIJCbT6UgT1GGARqnsw3BSd-tc?authuser=0&hl=zh-TW&rclk=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_83889c8a300ae40e.webp",
+        "alt": "gouter(グテ)的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "kuhonbutsu",
+        "name": "九品佛",
+        "href": "/walks/kuhonbutsu/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "jiyugaoka--p_083cfefd907be600",
+      "name": "Comme'N",
+      "address": "7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Comme'N」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6056157,
+        "lng": 139.66190179999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "Y8piJqgoyJM",
+          "title": "東京 🇯🇵 超好吃的蛋沙拉三明治 🥪 從人氣名店到在地人推薦的隱藏版8選｜東京麵包店巡禮",
+          "url": "https://www.youtube.com/watch?v=Y8piJqgoyJM"
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "ipyHXYcSKTs",
+          "title": "東京🇯🇵人氣新店【I'm donut?】&【daco】自由之丘麵包甜甜圈之旅 | 最新東京美食散步指南",
+          "url": "https://www.youtube.com/watch?v=ipyHXYcSKTs"
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "237ZlSb1vFo",
+          "title": "東京麻布台之丘 🇯🇵🍞 世界第一麵包店 Comme'N TOKYO | 美食市集與%Arabica咖啡探索",
+          "url": "https://www.youtube.com/watch?v=237ZlSb1vFo"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_083cfefd907be600",
+          "p_4f67c84ecb544322",
+          "p_24a0c72573b60d49"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=17538204597583444486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_083cfefd907be600.webp",
+        "alt": "Comme'N的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "kuhonbutsu",
+        "name": "九品佛",
+        "href": "/walks/kuhonbutsu/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "jiyugaoka--p_3617c2776b3f5525",
+      "name": "九品山 唯在念佛院 淨眞寺",
+      "address": "7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「九品山 唯在念佛院 淨眞寺」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6082361,
+        "lng": 139.6609528,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "sdg7anUPcHI",
+          "title": "東京櫻花綻放時：走進谷中靈園與六義園點燈 | Spring is here again in Tokyo",
+          "url": "https://www.youtube.com/watch?v=sdg7anUPcHI",
+          "time": "0:40",
+          "seconds": 40
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3617c2776b3f5525"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=13888666751185333972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_3617c2776b3f5525.webp",
+        "alt": "九品山 唯在念佛院 淨眞寺的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "kuhonbutsu",
+        "name": "九品佛",
+        "href": "/walks/kuhonbutsu/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 4,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_09e4054dfdbf4b2f",
+      "p_83889c8a300ae40e",
+      "p_083cfefd907be600",
+      "p_4f67c84ecb544322",
+      "p_24a0c72573b60d49",
+      "p_3617c2776b3f5525"
+    ]
+  },
+  "scope": {
+    "id": "kuhonbutsu",
+    "name": "九品佛",
+    "kind": "record-area",
+    "parentWalk": "jiyugaoka",
+    "scope": "九品佛站、淨真寺參道與奧澤六至八丁目的站前街巷。",
+    "includes": "九品佛站、淨真寺參道與奧澤六至八丁目的站前街巷。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.tokyu.co.jp/area/kuhombutsu/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 4
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "jiyugaoka"
+  ]
+}

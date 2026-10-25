@@ -1,0 +1,81 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "name": "ロイヤルモーリヤ",
+      "address": "兵庫県神戸市中央区北長狭通1-9-9 第一岸ビル2F",
+      "group": "food",
+      "categoryLabel": "神戶牛・鐵板料理",
+      "caption": "替一餐，留一段正式的時間。",
+      "descriptionParagraphs": [
+        "三宮西側的鐵板料理餐廳，以較私密的空間、葡萄酒與法式料理元素，呈現神戶牛的用餐體驗。長形鐵板吧檯讓料理過程也成為一餐的一部分。",
+        "這裡適合當成行程中的主要餐食，而不是匆匆路過的點心。想安排進元町散步，可先決定用餐時段，再讓其餘購物與看展彈性前後串連。"
+      ],
+      "official": "https://www.mouriya.co.jp/royal",
+      "coordinate": {
+        "lat": 34.692799,
+        "lng": 135.191467,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%99%E7%95%AA%EF%BC%99%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "note": "店家要求 smart casual 服裝。",
+      "id": "kobe-motomachi--mouriya",
+      "order": 1,
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=815s",
+          "time": "13:35",
+          "seconds": 815
+        }
+      ],
+      "description": "三宮西側的鐵板料理餐廳，以較私密的空間、葡萄酒與法式料理元素，呈現神戶牛的用餐體驗。長形鐵板吧檯讓料理過程也成為一餐的一部分。\n\n這裡適合當成行程中的主要餐食，而不是匆匆路過的點心。想安排進元町散步，可先決定用餐時段，再讓其餘購物與看展彈性前後串連。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/mouriya.webp",
+        "alt": "ロイヤルモーリヤ，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sannomiya",
+        "name": "三宮站周邊",
+        "href": "/walks/sannomiya/"
+      }
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "sannomiya",
+    "name": "三宮站周邊",
+    "kind": "record-area",
+    "parentWalk": "kobe-motomachi",
+    "scope": "三宮站周邊、北長狹通與站前商店街。",
+    "includes": "三宮站周邊、北長狹通與站前商店街。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.feel-kobe.jp/area-guide/sannomiya-motomachi/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kobe-motomachi"
+  ]
+}

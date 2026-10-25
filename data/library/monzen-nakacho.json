@@ -2,7 +2,7 @@
   "places": [
     {
       "id": "monzen-nakacho--p_3cee4b6ce07e8b5f",
-      "name": "（有）其角",
+      "name": "其角せんべい",
       "address": "1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047",
       "group": "food",
       "categoryLabel": "餐廳",
@@ -36,6 +36,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=1866569147605809423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_3cee4b6ce07e8b5f.webp",
+        "alt": "其角せんべい的日系水彩插圖"
       }
     },
     {
@@ -74,25 +78,33 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=511921581332876117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_307db0b60498ca6d.webp",
+        "alt": "門仲パン屋 MONPAN的日系水彩插圖"
       }
     },
     {
       "id": "monzen-nakacho--p_18174abe5963517a",
-      "name": "Day Nice Hotel Tokyo",
-      "address": "2-chōme-1-1 Kiba, Koto City, Tokyo 135-0042",
+      "name": "Hotel Shiraiwa（ホテル白岩）",
+      "address": "東京都大島町元町3-3-3",
       "group": "sights",
       "categoryLabel": "住宿",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「Day Nice Hotel Tokyo」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-1-1 Kiba, Koto City, Tokyo 135-0042。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片22:27住宿章節介紹伊豆大島的 Hotel Shiraiwa（ホテル白岩），位於元町港附近高地。",
+        "原始資料記錄的地址為 東京都大島町元町3-3-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "伊豆大島住宿紀錄，需另行安排船班或航班。預約與館內設施開放方式請向飯店確認。",
       "coordinate": {
-        "lat": 35.6691875,
-        "lng": 139.8018476,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 34.749569,
+        "lng": 139.359024,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%B3%B6%E7%94%BA%E5%85%83%E7%94%BA3-3-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "元町三丁目3番街廓代表點，非飯店指定入口。"
       },
       "sources": [
         {
@@ -104,7 +116,7 @@
           "seconds": 1347
         }
       ],
-      "official": null,
+      "official": "https://www.h-shiraiwa.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -112,8 +124,12 @@
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=6926791937297161831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_18174abe5963517a.webp",
+        "alt": "Hotel Shiraiwa（ホテル白岩）的日系水彩插圖"
       }
     },
     {
@@ -152,11 +168,15 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=3219265300047906274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_c11ad7477122755a.webp",
+        "alt": "Dorayama的日系水彩插圖"
       }
     },
     {
       "id": "monzen-nakacho--p_e9bded65ce3c24bc",
-      "name": "Fukagawa Iseya Honten",
+      "name": "深川伊勢屋 本店",
       "address": "〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F",
       "group": "food",
       "categoryLabel": "餐廳",
@@ -190,14 +210,18 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=4952709091110168002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_e9bded65ce3c24bc.webp",
+        "alt": "深川伊勢屋 本店的日系水彩插圖"
       }
     },
     {
       "id": "monzen-nakacho--p_04eb0df096ee3f59",
-      "name": "Tekka",
+      "name": "天然鯛焼き 鉄華",
       "address": "1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047",
-      "group": "shops",
-      "categoryLabel": "購物",
+      "group": "food",
+      "categoryLabel": "和菓子",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Tekka」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
@@ -228,6 +252,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=7886082695827925664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_04eb0df096ee3f59.webp",
+        "alt": "天然鯛焼き 鉄華的日系水彩插圖"
       }
     }
   ],

@@ -1,0 +1,1070 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "osaka-tenma--p_bbbbe65f98b0f2d7",
+      "name": "鳴門鯛焼本舗 天神橋3丁目店",
+      "address": "大阪府大阪市北区天神橋3-8-18",
+      "group": "food",
+      "categoryLabel": "鯛魚燒",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「鳴門鯛焼本舗 天神橋3丁目店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-8-18。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "id": "p_bbbbe65f98b0f2d7",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-8-18",
+        "lat": 34.702515,
+        "lng": 135.511429,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vwqKXsYACrs",
+          "title": "🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
+        }
+      ],
+      "official": "https://taiyaki.co.jp/shop/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bbbbe65f98b0f2d7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E9%B3%B4%E9%96%80%E9%AF%9B%E7%87%92%E6%9C%AC%E8%88%96+%E5%A4%A9%E7%A5%9E%E6%A9%8B3%E4%B8%81%E7%9B%AE%E5%BA%97/@34.7061685,135.5014539,15.9z/data=!4m7!3m6!1s0x6000e6c6aebc6c19:0x375342363e71ffde!8m2!3d34.7025306!4d135.5114084!15sChLps7TploDpr5vnhLzmnKzoiJciA4gBAVoWIhTps7TploAg6a-b54S8IOacrOiIl5IBG2phcGFuZXNlX2NvbmZlY3Rpb25lcnlfc2hvcOABAA!16s%2Fg%2F11b7clnq13?hl=zh-TW&entry=tts"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_bbbbe65f98b0f2d7.webp",
+        "alt": "鳴門鯛焼本舗 天神橋3丁目店的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--p_27a8fd777f23578d",
+      "name": "お好み焼 焼きそば 味の双月",
+      "address": "大阪府大阪市北区天神橋3-9-9",
+      "group": "food",
+      "categoryLabel": "大阪燒",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「お好み焼 焼きそば 味の 双月」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-9-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "id": "p_27a8fd777f23578d",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-9-9",
+        "lat": 34.701984,
+        "lng": 135.511551,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vwqKXsYACrs",
+          "title": "🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
+        }
+      ],
+      "official": "https://tabelog.com/osaka/A2701/A270103/27002280/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_27a8fd777f23578d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E9%98%AA%E7%87%92+%E9%9B%99%E6%9C%88/@34.7019927,135.5091002,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e6c41b472699:0xf2b13966e965b80d!8m2!3d34.7019927!4d135.5116751!16s%2Fg%2F1td5x139?hl=zh-TW&entry=tts"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_27a8fd777f23578d.webp",
+        "alt": "お好み焼 焼きそば 味の双月的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--p_e3738d31a2438ec1",
+      "name": "扇町うどん屋 あすろう",
+      "address": "大阪府大阪市北区天神橋3-8-3 マチスビル1F",
+      "group": "food",
+      "categoryLabel": "烏龍麵",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Ogimachi Udon-ya Asuroh」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-8-3 マチスビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "id": "p_e3738d31a2438ec1",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-8-3",
+        "lat": 34.701759,
+        "lng": 135.5112,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "hIFJwUQ5LSo",
+          "title": "大阪米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Osaka 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=hIFJwUQ5LSo",
+          "time": "9:39",
+          "seconds": 579
+        }
+      ],
+      "official": "https://www.instagram.com/udon.a.slow/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e3738d31a2438ec1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14951123387409938968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_e3738d31a2438ec1.webp",
+        "alt": "扇町うどん屋 あすろう的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--p_465fbe52caf5a842",
+      "name": "ニク サングルマン",
+      "address": "大阪府大阪市北区天神橋3-10-8 与力町スカイハイツ102",
+      "group": "food",
+      "categoryLabel": "漢堡排",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Niku Sangourmand」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-10-8 与力町スカイハイツ102。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "id": "p_465fbe52caf5a842",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-10-8",
+        "lat": 34.701881,
+        "lng": 135.512299,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "9aARBMYZ9OI",
+          "title": "大阪美食地圖，72小時爽吃特輯十選！三天兩夜大阪爽吃指南，百名店認證香料咖哩、大阪榜三炸豬排、厚切蒜味牛舌、肉汁炸裂漢堡排 72 hours FOOD tour in Osaka !【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=9aARBMYZ9OI",
+          "time": "20:52",
+          "seconds": 1252
+        }
+      ],
+      "official": "https://www.instagram.com/nikusangourmand/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_465fbe52caf5a842"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7324549046019363727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_465fbe52caf5a842.webp",
+        "alt": "ニク サングルマン的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--arcade",
+      "order": 5,
+      "name": "天神橋筋商店街 三丁目",
+      "address": "大阪府大阪市北区天神橋3丁目",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "只走喜歡的一段，也能感受大阪街坊",
+      "descriptionParagraphs": [
+        "天神橋筋商店街由許多街段相連，三丁目一帶聚集餐飲、點心與生活店舖。屋頂下的招牌與人來人往，呈現大阪商店街親近的尺度。",
+        "這份散步聚焦天滿到南森町附近，不要求走完全部長度。遇見喜歡的小店便停下來，兩三個重點已足夠構成午後。"
+      ],
+      "description": "天神橋筋商店街由許多街段相連，三丁目一帶聚集餐飲、點心與生活店舖。屋頂下的招牌與人來人往，呈現大阪商店街親近的尺度。\n\n這份散步聚焦天滿到南森町附近，不要求走完全部長度。遇見喜歡的小店便停下來，兩三個重點已足夠構成午後。",
+      "note": "",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/237",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.700779,
+        "lng": 135.511917,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/arcade.webp",
+        "alt": "天神橋筋商店街 三丁目的日系水彩插圖"
+      },
+      "recommendation": "逛天神橋筋商店街三丁目，依興趣挑幾間店。",
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osakatemmangu.or.jp/",
+          "https://osaka-info.jp/spot/tenjinbashisuji-shopping-street/",
+          "https://osaka-info.jp/experience/ja/osaka/spot/237",
+          "https://osaka-info.jp/experience/ja/osaka/spot/261",
+          "https://www.osakachakai.jp/shop/"
+        ]
+      }
+    },
+    {
+      "id": "osaka-tenma--wagashi",
+      "order": 6,
+      "name": "御菓子司 薫々堂",
+      "address": "大阪府大阪市北区天神橋3-2-27",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "用季節和菓子，替逛街加一點甜",
+      "descriptionParagraphs": [
+        "薫々堂製作傳統和菓子，細緻造型與季節色彩替商店街添上另一種風景。櫥窗裡的點心，也能作為認識日本四季表現的小入口。",
+        "適合順路選購一份伴手禮，品項以當日店頭為準。若已安排茶店甜點，不妨帶走慢慢吃，讓沿途停留保持輕盈。"
+      ],
+      "description": "薫々堂製作傳統和菓子，細緻造型與季節色彩替商店街添上另一種風景。櫥窗裡的點心，也能作為認識日本四季表現的小入口。\n\n適合順路選購一份伴手禮，品項以當日店頭為準。若已安排茶店甜點，不妨帶走慢慢吃，讓沿途停留保持輕盈。",
+      "note": "",
+      "official": "https://www.tenjin123.com/takeout/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.699558,
+        "lng": 135.511566,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-2-27",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/wagashi.webp",
+        "alt": "御菓子司 薫々堂的日系水彩插圖"
+      },
+      "recommendation": "回到商店街，選幾款薫々堂的季節點心帶走。",
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osaka-info.jp/spot/minamitenma-park/",
+          "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
+          "https://www.tenjin123.com/takeout/"
+        ]
+      }
+    },
+    {
+      "id": "osaka-tenma--nakamura",
+      "order": 7,
+      "name": "中村屋",
+      "address": "大阪府大阪市北区天神橋2-3-21",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在街角老店，遇見熟悉的可樂餅香",
+      "descriptionParagraphs": [
+        "中村屋位在南森町附近的商店街，現做的可樂餅與揚物是店頭主角。簡單的街坊小吃，讓散步多一段熱呼呼的味覺記憶。",
+        "想吃點鹹食時可排這站，若人潮多便留到下次。購買後依現場安排享用，騰出通道讓來往行人順暢通行。"
+      ],
+      "description": "中村屋位在南森町附近的商店街，現做的可樂餅與揚物是店頭主角。簡單的街坊小吃，讓散步多一段熱呼呼的味覺記憶。\n\n想吃點鹹食時可排這站，若人潮多便留到下次。購買後依現場安排享用，騰出通道讓來往行人順暢通行。",
+      "note": "",
+      "official": "https://metronine.osaka/article_tour/tenjinbashisuji-shopping-street-part1/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.697086,
+        "lng": 135.511658,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-3-21",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/nakamura.webp",
+        "alt": "中村屋的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      }
+    },
+    {
+      "id": "osaka-tenma--cha",
+      "order": 8,
+      "name": "大阪茶會",
+      "address": "大阪府大阪市北区天神橋2-1-25",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "先選一只杯子，再喝一杯日本茶",
+      "descriptionParagraphs": [
+        "大阪茶會將日本茶與陶器放在同一個空間，飲品可搭配店內所選的器物。杯子的手感與茶香，讓喝茶成為有細節的休息。",
+        "適合作為路線後段的停留，也可看看陳列的器物與相關書籍。若上午出發，先逛周邊，待店家營業再安排坐下時間。"
+      ],
+      "description": "大阪茶會將日本茶與陶器放在同一個空間，飲品可搭配店內所選的器物。杯子的手感與茶香，讓喝茶成為有細節的休息。\n\n適合作為路線後段的停留，也可看看陳列的器物與相關書籍。若上午出發，先逛周邊，待店家營業再安排坐下時間。",
+      "note": "",
+      "official": "https://www.osakachakai.jp/shop/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.696423,
+        "lng": 135.51181,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-25",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/cha.webp",
+        "alt": "大阪茶會的日系水彩插圖"
+      },
+      "recommendation": "到大阪茶會選茶與杯子，留時間休息。",
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osakatemmangu.or.jp/",
+          "https://osaka-info.jp/spot/tenjinbashisuji-shopping-street/",
+          "https://osaka-info.jp/experience/ja/osaka/spot/237",
+          "https://osaka-info.jp/experience/ja/osaka/spot/261",
+          "https://www.osakachakai.jp/shop/"
+        ]
+      }
+    },
+    {
+      "id": "osaka-tenma--hanjotei",
+      "order": 9,
+      "name": "天滿天神繁昌亭",
+      "address": "大阪府大阪市北区天神橋2-1-34",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "提燈下的寄席，連著大阪的說笑文化",
+      "descriptionParagraphs": [
+        "繁昌亭位在大阪天滿宮近旁，是以上方落語為主的演出空間。提燈與戲院門面，讓人即使只是路過，也能感受到藝能融在街區的氣氛。",
+        "短程散步以看外觀為主，想欣賞完整演出請另外預留時段。觀演與逛街擇一作當天重點，會比趕場更舒服。"
+      ],
+      "description": "繁昌亭位在大阪天滿宮近旁，是以上方落語為主的演出空間。提燈與戲院門面，讓人即使只是路過，也能感受到藝能融在街區的氣氛。\n\n短程散步以看外觀為主，想欣賞完整演出請另外預留時段。觀演與逛街擇一作當天重點，會比趕場更舒服。",
+      "note": "完整演出需另購票並另留時間；本路線以外觀短停估算。",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/254",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.69656,
+        "lng": 135.512405,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-34",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/hanjotei.webp",
+        "alt": "天滿天神繁昌亭的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      }
+    },
+    {
+      "id": "osaka-tenma--temmangu",
+      "order": 10,
+      "name": "大阪天滿宮",
+      "address": "大阪府大阪市北区天神橋2-1-8",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從購物聲中，轉入天神的境內",
+      "descriptionParagraphs": [
+        "大阪天滿宮奉祀菅原道真，也與天神祭及街區生活緊密相連。穿過門樓看木造社殿與燈籠，能感受到商店街旁另一種安定節奏。",
+        "推薦把這裡作為散步的參拜重點，再回到附近茶店休息。活動期間依現場動線通行，平日則可慢慢觀察屋簷細節。"
+      ],
+      "description": "大阪天滿宮奉祀菅原道真，也與天神祭及街區生活緊密相連。穿過門樓看木造社殿與燈籠，能感受到商店街旁另一種安定節奏。\n\n推薦把這裡作為散步的參拜重點，再回到附近茶店休息。活動期間依現場動線通行，平日則可慢慢觀察屋簷細節。",
+      "note": "",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/261",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vwqKXsYACrs",
+          "title": "🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.69553,
+        "lng": 135.512634,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/temmangu.webp",
+        "alt": "大阪天滿宮的日系水彩插圖"
+      },
+      "recommendation": "轉進大阪天滿宮境內，慢慢參拜。",
+      "sourceLibraryIds": [
+        "p_f076f9f0ba74c5b3"
+      ],
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osakatemmangu.or.jp/",
+          "https://osaka-info.jp/spot/tenjinbashisuji-shopping-street/",
+          "https://osaka-info.jp/experience/ja/osaka/spot/237",
+          "https://osaka-info.jp/experience/ja/osaka/spot/261",
+          "https://www.osakachakai.jp/shop/"
+        ]
+      }
+    },
+    {
+      "id": "osaka-tenma--p_8d389b499ace1d13",
+      "name": "CAFE TOKIONA",
+      "address": "大阪府大阪市北区天神橋1-12-19",
+      "group": "food",
+      "categoryLabel": "喫茶",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「CAFE TOKIONA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区天神橋1-12-19。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "id": "p_8d389b499ace1d13",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B1-12-19",
+        "lat": 34.694592,
+        "lng": 135.511795,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0"
+        }
+      ],
+      "official": "https://baton-group.com/shop-list/cafe-tokiona/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8d389b499ace1d13"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/29jnLoC7snxtRB6h8"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_8d389b499ace1d13.webp",
+        "alt": "CAFE TOKIONA的日系水彩插圖"
+      },
+      "order": 11,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--southpark",
+      "order": 12,
+      "name": "南天滿公園",
+      "address": "大阪府大阪市北区天満3丁目",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "走到大川旁，把視線放遠一點",
+      "descriptionParagraphs": [
+        "南天滿公園沿大川延伸，樹木與水岸步道讓天滿的街區散步多了開闊景色。沿途也能遇見與昔日市場、舟運相關的歷史痕跡。",
+        "它是有餘力時的可選延伸，不必為了完成十點而繞過來。走到喜歡的河岸位置休息，再回南森町或順勢往天滿橋站離開。"
+      ],
+      "description": "南天滿公園沿大川延伸，樹木與水岸步道讓天滿的街區散步多了開闊景色。沿途也能遇見與昔日市場、舟運相關的歷史痕跡。\n\n它是有餘力時的可選延伸，不必為了完成十點而繞過來。走到喜歡的河岸位置休息，再回南森町或順勢往天滿橋站離開。",
+      "note": "",
+      "official": "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.693626,
+        "lng": 135.515366,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/southpark.webp",
+        "alt": "南天滿公園的日系水彩插圖"
+      },
+      "recommendation": "沿南天滿公園看大川，走一段平緩的河岸。",
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osaka-info.jp/spot/minamitenma-park/",
+          "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
+          "https://www.tenjin123.com/takeout/"
+        ]
+      }
+    },
+    {
+      "id": "osaka-tenma--p_7878919f4b11b5ef",
+      "name": "COBATO STAND OSAKA",
+      "address": "大阪府大阪市北区天満3-5-1 アイアンドアイビル1F",
+      "group": "food",
+      "categoryLabel": "銅鑼燒",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「COBATO STAND OSAKA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803-5-1",
+        "lat": 34.693417,
+        "lng": 135.515747,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0",
+          "time": "17:33",
+          "seconds": 1053
+        }
+      ],
+      "official": "https://baton-group.com/shop-list/cobato-stand-osaka/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7878919f4b11b5ef"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/ZTdZC3mQ4vJ9p9tN7"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_7878919f4b11b5ef.webp",
+        "alt": "COBATO STAND OSAKA的日系水彩插圖"
+      },
+      "order": 13,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--p_3f0e16ea37fefebb",
+      "name": "COBATO STORE OSAKA",
+      "address": "大阪府大阪市北区天満3-5-1 アイアンドアイビル1F",
+      "group": "food",
+      "categoryLabel": "餅乾伴手禮",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「COBATO STORE OSAKA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803-5-1",
+        "lat": 34.693417,
+        "lng": 135.515747,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0",
+          "time": "17:33",
+          "seconds": 1053
+        }
+      ],
+      "official": "https://baton-group.com/shop-list/cobato-store-osaka/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3f0e16ea37fefebb"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/7aBtS9cSvy3AwEo48"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_3f0e16ea37fefebb.webp",
+        "alt": "COBATO STORE OSAKA的日系水彩插圖"
+      },
+      "order": 14,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--p_7adca45c474ed8da",
+      "name": "コバトパン工場 COBATOPAN",
+      "address": "大阪府大阪市北区天満3-4-22 日宝岩井町ビル1F-2",
+      "group": "food",
+      "categoryLabel": "麵包",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「コバトパン工場 COBATOPAN」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区天満3-4-22 日宝岩井町ビル1F-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803-4-22",
+        "lat": 34.692703,
+        "lng": 135.515732,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0",
+          "time": "17:33",
+          "seconds": 1053
+        }
+      ],
+      "official": "https://baton-group.com/shop-list/cobatopan/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7adca45c474ed8da"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/BkUbfNRXv8d1JeNZA"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_7adca45c474ed8da.webp",
+        "alt": "コバトパン工場 COBATOPAN的日系水彩插圖"
+      },
+      "order": 15,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--p_46f7c0f05a9077ef",
+      "name": "SECOND BANANA",
+      "address": "大阪府大阪市北区天満3-4-22 日宝岩井町ビル2F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「SECOND BANANA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区天満3-4-22 日宝岩井町ビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803-4-22",
+        "lat": 34.692703,
+        "lng": 135.515732,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0"
+        }
+      ],
+      "official": "https://baton-group.com/shop-list/second-banana/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_46f7c0f05a9077ef"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/iDsdhdkoYKPVan8c9"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_46f7c0f05a9077ef.webp",
+        "alt": "SECOND BANANA的日系水彩插圖"
+      },
+      "order": 16,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--p_bb1c5e2b626b74d1",
+      "name": "COBATO836",
+      "address": "大阪府大阪市北区天満2-2-7 世詩花1F",
+      "group": "food",
+      "categoryLabel": "麵包・貝果",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「COBATO836」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区天満2-2-7 世詩花1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "id": "p_bb1c5e2b626b74d1",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%802-2-7",
+        "lat": 34.692116,
+        "lng": 135.515839,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0",
+          "time": "19:05",
+          "seconds": 1145
+        }
+      ],
+      "official": "https://baton-group.com/shop-list/cobato836/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bb1c5e2b626b74d1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/WZmTjmknWTkK6EHo7"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-tenma--p_bb1c5e2b626b74d1.webp",
+        "alt": "COBATO836的日系水彩插圖"
+      },
+      "order": 17,
+      "canonicalArea": {
+        "id": "minamimorimachi",
+        "name": "南森町・天滿宮",
+        "href": "/walks/minamimorimachi/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "minamimorimachi-shrine-and-tea",
+      "name": "商店街、天神與一杯茶",
+      "ids": [
+        "osaka-tenma--arcade",
+        "osaka-tenma--wagashi",
+        "osaka-tenma--nakamura",
+        "osaka-tenma--hanjotei",
+        "osaka-tenma--temmangu",
+        "osaka-tenma--cha"
+      ],
+      "stopNotes": {
+        "osaka-tenma--arcade": "逛天神橋筋商店街三丁目，依興趣挑幾間店。",
+        "osaka-tenma--temmangu": "轉進大阪天滿宮境內，慢慢參拜。",
+        "osaka-tenma--cha": "到大阪茶會選茶與杯子，留時間休息。",
+        "osaka-tenma--hanjotei": "順路可選：提燈下的寄席，連著大阪的說笑文化。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "osaka-tenma--wagashi": "順路可選：用季節和菓子，替逛街加一點甜。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "osaka-tenma--nakamura": "順路可選：在街角老店，遇見熟悉的可樂餅香。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
+      },
+      "start": {
+        "name": "南森町站／大阪天滿宮站",
+        "address": "大阪府大阪市北区南森町 南森町駅",
+        "access": "大阪 Metro 谷町線・堺筋線，或 JR 東西線大阪天滿宮站"
+      },
+      "end": {
+        "name": "南森町站／大阪天滿宮站",
+        "address": "大阪府大阪市北区南森町 南森町駅"
+      },
+      "totalMinutes": [
+        120,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "商店街、天神與一杯茶",
+      "note": "在本區慢慢走，必訪以外的地點依興趣停留。時間包含步行、停留與自由探索，候位另計。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osakatemmangu.or.jp/",
+          "https://osaka-info.jp/spot/tenjinbashisuji-shopping-street/",
+          "https://osaka-info.jp/experience/ja/osaka/spot/237",
+          "https://osaka-info.jp/experience/ja/osaka/spot/261",
+          "https://www.osakachakai.jp/shop/"
+        ]
+      },
+      "highlightIds": [
+        "osaka-tenma--arcade",
+        "osaka-tenma--temmangu",
+        "osaka-tenma--cha"
+      ],
+      "art": "/art/walks/osaka-tenma/arcade.webp",
+      "optionalMinutes": 30
+    },
+    {
+      "id": "minamimorimachi-riverside-and-wagashi",
+      "name": "河岸午後與季節和菓子",
+      "ids": [
+        "osaka-tenma--southpark",
+        "osaka-tenma--temmangu",
+        "osaka-tenma--hanjotei",
+        "osaka-tenma--nakamura",
+        "osaka-tenma--wagashi"
+      ],
+      "stopNotes": {
+        "osaka-tenma--southpark": "沿南天滿公園看大川，走一段平緩的河岸。",
+        "osaka-tenma--wagashi": "回到商店街，選幾款薫々堂的季節點心帶走。",
+        "osaka-tenma--hanjotei": "順路可選：提燈下的寄席，連著大阪的說笑文化。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "osaka-tenma--temmangu": "順路可選：從購物聲中，轉入天神的境內。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "osaka-tenma--nakamura": "順路可選：在街角老店，遇見熟悉的可樂餅香。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
+      },
+      "start": {
+        "name": "南森町站／大阪天滿宮站",
+        "address": "大阪府大阪市北区南森町 南森町駅",
+        "access": "大阪 Metro 谷町線・堺筋線，或 JR 東西線大阪天滿宮站"
+      },
+      "end": {
+        "name": "南森町站／大阪天滿宮站",
+        "address": "大阪府大阪市北区南森町 南森町駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "河岸午後與季節和菓子",
+      "note": "在本區慢慢走，必訪以外的地點依興趣停留。時間包含步行、停留與自由探索，候位另計。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osaka-info.jp/spot/minamitenma-park/",
+          "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
+          "https://www.tenjin123.com/takeout/"
+        ]
+      },
+      "highlightIds": [
+        "osaka-tenma--southpark",
+        "osaka-tenma--wagashi"
+      ],
+      "art": "/art/walks/osaka-tenma/southpark.webp",
+      "optionalMinutes": 30
+    }
+  ],
+  "defaultSelection": "minamimorimachi-shrine-and-tea",
+  "libraryCoverage": {
+    "added": 10,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_bbbbe65f98b0f2d7",
+      "p_27a8fd777f23578d",
+      "p_e3738d31a2438ec1",
+      "p_465fbe52caf5a842",
+      "p_f076f9f0ba74c5b3",
+      "p_8d389b499ace1d13",
+      "p_7878919f4b11b5ef",
+      "p_3f0e16ea37fefebb",
+      "p_7adca45c474ed8da",
+      "p_46f7c0f05a9077ef",
+      "p_bb1c5e2b626b74d1"
+    ]
+  },
+  "scope": {
+    "id": "minamimorimachi",
+    "name": "南森町・天滿宮",
+    "kind": "walk",
+    "parentWalk": "osaka-tenma",
+    "scope": "扇町通以南的天神橋一至三丁目、南森町站與大阪天滿宮，向南接天滿橋北岸。",
+    "includes": "扇町通以南的天神橋一至三丁目、南森町站與大阪天滿宮，向南接天滿橋北岸。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://osaka-info.jp/experience/ja/osaka/spot/237"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 17
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "osaka-tenma--p_e2ad476b03a2cbbd",
+      "name": "拉麵天滿（高雄・來源更正）",
+      "address": "台灣高雄市前鎮區和平二路272號",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "原影片店家位於高雄",
+      "descriptionParagraphs": [
+        "原影片是環台拉麵特輯，這筆收錄指的是高雄的拉麵天滿。先前店名搜尋誤配到大阪薩摩っ子東天滿店，兩者並不是同一家餐廳。",
+        "此筆更正紀錄僅保留於既有收藏，已撤下大阪地圖標記，不會加入日本散策導航。"
+      ],
+      "note": "原影片為環台拉麵特輯，01:17:33介紹高雄拉麵天滿；名稱搜尋誤配到大阪薩摩っ子東天滿店，撤下錯誤日本地點配對，保留來源與收藏更正紀錄。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "mkKt-P9GfpI",
+          "title": "環台拉麵圖鑑，各大派系通吃特輯30選 ! 拉麵控必備寶典，全台各地拉麵名店通包 ! 【 肥波外食記 】 ft.10萬訂閱QA",
+          "url": "https://www.youtube.com/watch?v=mkKt-P9GfpI",
+          "time": "1:17:33",
+          "seconds": 4653
+        }
+      ],
+      "official": "https://www.youtube.com/watch?v=mkKt-P9GfpI",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e2ad476b03a2cbbd"
+        ],
+        "status": "invalid-source",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "order": 1,
+      "recommendation": null,
+      "illustration": null,
+      "originalWalk": "osaka-tenma",
+      "previousArea": "minamimorimachi",
+      "reason": "原影片為環台拉麵特輯，01:17:33介紹高雄拉麵天滿；名稱搜尋誤配到大阪薩摩っ子東天滿店，撤下錯誤日本地點配對，保留來源與收藏更正紀錄。",
+      "sourceCorrection": true
+    }
+  ],
+  "inheritedWalkIds": [
+    "osaka-tenma"
+  ]
+}

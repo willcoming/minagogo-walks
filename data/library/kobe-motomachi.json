@@ -2,21 +2,25 @@
   "places": [
     {
       "id": "kobe-motomachi--p_16bf5a9d7743a0e1",
-      "name": "FISH IN THE FOREST TOOTH TOOTH",
-      "address": "2-8 Hatobachō, Chuo Ward, Kobe, Hyogo 650-0042",
+      "name": "TOOTH TOOTH BISTRO & CAFE（高輪）",
+      "address": "東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F",
       "group": "food",
       "categoryLabel": "餐廳",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「FISH IN THE FOREST TOOTH TOOTH」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-8 Hatobachō, Chuo Ward, Kobe, Hyogo 650-0042。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片介紹東京高輪的 TOOTH TOOTH BISTRO & CAFE，位於 NEWoMan 高輪 SOUTH 五樓。",
+        "原始資料記錄的地址為 東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "已依原影片指定餐廳與品牌官方地址修正，並非神戶港灣的 FISH IN THE FOREST。",
       "coordinate": {
-        "lat": 34.684819399999995,
-        "lng": 135.1897292,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.635559,
+        "lng": 139.739594,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E9%AB%98%E8%BC%AA2-21-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "高輪二丁目21番的地址代表點，非店門或館內櫃位；餐廳位於SOUTH五樓。"
       },
       "sources": [
         {
@@ -26,7 +30,7 @@
           "url": "https://www.youtube.com/watch?v=57OtKo9avlw"
         }
       ],
-      "official": null,
+      "official": "https://toothtooth.com/restaurant/tooth-tooth-bistrocafe",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -34,27 +38,35 @@
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=7042070532357341959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-motomachi--p_16bf5a9d7743a0e1.webp",
+        "alt": "TOOTH TOOTH BISTRO & CAFE（高輪）的日系水彩插圖"
       }
     },
     {
       "id": "kobe-motomachi--p_135871d72948e644",
-      "name": "SWALLOW JAPAN",
-      "address": "3-chōme-1-16 Nakamachidōri, Chuo Ward, Kobe, Hyogo 650-0027",
-      "group": "sights",
-      "categoryLabel": "顧問",
+      "name": "Swallow（三軒茶屋）",
+      "address": "東京都世田谷区下馬2-36-1 2F",
+      "group": "food",
+      "categoryLabel": "咖啡館",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「SWALLOW JAPAN」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-1-16 Nakamachidōri, Chuo Ward, Kobe, Hyogo 650-0027。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在世田谷線與三軒茶屋散步，收錄下馬二丁目的二樓咖啡館 Swallow。",
+        "原始資料記錄的地址為 東京都世田谷区下馬2-36-1 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "已依原影片說明、地圖連結與分店地址修正，不再誤列為神戶同名店。",
       "coordinate": {
-        "lat": 34.678701499999995,
-        "lng": 135.17517960000004,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.641048,
+        "lng": 139.673965,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%B8%8B%E9%A6%AC2-36-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -64,7 +76,7 @@
           "url": "https://www.youtube.com/watch?v=kEWIJS-edSk"
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/swallow_coffee_official/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -72,8 +84,12 @@
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=2812636213210088015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-motomachi--p_135871d72948e644.webp",
+        "alt": "Swallow（三軒茶屋）的日系水彩插圖"
       }
     }
   ],

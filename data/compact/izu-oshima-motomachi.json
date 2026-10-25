@@ -1,0 +1,93 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "monzen-nakacho--p_18174abe5963517a",
+      "name": "Hotel Shiraiwa（ホテル白岩）",
+      "address": "東京都大島町元町3-3-3",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片22:27住宿章節介紹伊豆大島的 Hotel Shiraiwa（ホテル白岩），位於元町港附近高地。",
+        "原始資料記錄的地址為 東京都大島町元町3-3-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "伊豆大島住宿紀錄，需另行安排船班或航班。預約與館內設施開放方式請向飯店確認。",
+      "coordinate": {
+        "lat": 34.749569,
+        "lng": 139.359024,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%B3%B6%E7%94%BA%E5%85%83%E7%94%BA3-3-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "元町三丁目3番街廓代表點，非飯店指定入口。"
+      },
+      "sources": [
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "LrNyIEgBVhw",
+          "title": "參觀東京神秘的火山島 | 伊豆大島 | 日本旅遊",
+          "url": "https://www.youtube.com/watch?v=LrNyIEgBVhw",
+          "time": "22:27",
+          "seconds": 1347
+        }
+      ],
+      "official": "https://www.h-shiraiwa.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_18174abe5963517a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_18174abe5963517a.webp",
+        "alt": "Hotel Shiraiwa（ホテル白岩）的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "izu-oshima-motomachi",
+        "name": "伊豆大島・元町",
+        "href": "/walks/izu-oshima-motomachi/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_18174abe5963517a"
+    ]
+  },
+  "scope": {
+    "id": "izu-oshima-motomachi",
+    "name": "伊豆大島・元町",
+    "kind": "record-area",
+    "parentWalk": "monzen-nakacho",
+    "scope": "伊豆大島元町港東側高地，保留原影片核對的住宿地點。",
+    "includes": "元町三丁目 Hotel Shiraiwa（ホテル白岩）",
+    "excludes": "伊豆大島其餘地區與東京本土另計；不將船程當作市區散步。",
+    "basis": "原影片22:27飯店章節與招牌明示Hotel Shiraiwa，飯店官方交通頁確認地址。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=LrNyIEgBVhw&t=1347s",
+      "https://www.h-shiraiwa.com/access/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1,
+    "city": "伊豆大島",
+    "region": "關東"
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "monzen-nakacho"
+  ]
+}

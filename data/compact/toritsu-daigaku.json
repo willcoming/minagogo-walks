@@ -1,0 +1,98 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "jiyugaoka--p_bbbcfa152724fbf5",
+      "name": "有機茶生どら Dolala",
+      "address": "東京都目黒区中根1-23-5 1F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「有機茶生どら Dolala」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区中根1-23-5 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "食べログ標示 Dolala 已由中根 1-23-5 遷往橫濱市旭區南本宿町；本頁保留影片中的中根原址，插圖依原店照片製作。",
+      "coordinate": {
+        "lat": 35.61377,
+        "lng": 139.669785,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%AD%E6%A0%B91-23-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "qacCtvyNScw",
+          "title": "cafe vlog｜東 京 抹 茶 ス イ ー ツ 巡 り ８ 選／表参道・銀座・下北沢・自由が丘・日本橋他",
+          "url": "https://www.youtube.com/watch?v=qacCtvyNScw",
+          "time": "1:56",
+          "seconds": 116
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "jpwAX4pNvzA",
+          "title": "cafe vlog｜東横線沿線カフェ・グルメ10選 ⚘⠜／自由が丘／学芸大学／祐天寺／都立大学",
+          "url": "https://www.youtube.com/watch?v=jpwAX4pNvzA",
+          "time": "14:34",
+          "seconds": 874
+        }
+      ],
+      "official": "https://www.instagram.com/dolala.tokyo/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bbbcfa152724fbf5"
+        ],
+        "status": "reported-relocated",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Dolala/@35.6137654,139.6697551,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5163e74cccd:0x97c7b15e79776f57!8m2!3d35.6137654!4d139.6697551!16s%2Fg%2F11gxj8414z?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_bbbcfa152724fbf5.webp",
+        "alt": "有機茶生どら Dolala的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "toritsu-daigaku",
+        "name": "都立大學・中根",
+        "href": "/walks/toritsu-daigaku/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_bbbcfa152724fbf5"
+    ]
+  },
+  "scope": {
+    "id": "toritsu-daigaku",
+    "name": "都立大學・中根",
+    "kind": "record-area",
+    "parentWalk": "jiyugaoka",
+    "scope": "都立大學站至中根一丁目、目黑通北側商店街。",
+    "includes": "都立大學站至中根一丁目、目黑通北側商店街。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.tokyu.co.jp/area/toritsu-daigaku/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "jiyugaoka"
+  ]
+}

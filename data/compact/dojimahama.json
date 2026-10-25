@@ -1,0 +1,93 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "osaka-nakanoshima--p_fd6484147b2101f4",
+      "name": "WowUs ワオアス",
+      "address": "大阪府大阪市北区堂島浜1-1-27 大阪堂島浜タワー16F",
+      "group": "sights",
+      "categoryLabel": "觀景露臺",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "WowUs位於大阪堂島浜塔樓十六樓，設有觀光休憩區與戶外木平台。從露臺可以看向淀屋橋、御堂筋與中之島周邊，活動或天候可能影響開放範圍。",
+        "原始資料記錄的地址為 大阪府大阪市北区堂島浜1-1-27 大阪堂島浜タワー16F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B6%E6%B5%9C1-1-27",
+        "lat": 34.695644,
+        "lng": 135.500992,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vctjD9CdC54",
+          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vctjD9CdC54",
+          "time": "8:26",
+          "seconds": 506
+        }
+      ],
+      "official": "https://www.wow-us.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fd6484147b2101f4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/WowUs%EF%BC%88%E3%83%AF%E3%82%AA%E3%82%A2%E3%82%B9%EF%BC%89/@34.6953436,135.4980849,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e7004a4a07d9:0x50555c70fac555e2!8m2!3d34.6953392!4d135.5006598!16s%2Fg%2F11w98wgmv8?entry=tts&g_ep=EgoyMDI1MDYwMi4wIPu8ASoASAFQAw%3D%3D&skid=5f4a5def-ccf4-49ba-a01b-42fac8894556"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-nakanoshima--p_fd6484147b2101f4.webp",
+        "alt": "WowUs ワオアス的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "dojimahama",
+        "name": "堂島浜",
+        "href": "/walks/dojimahama/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_fd6484147b2101f4"
+    ]
+  },
+  "scope": {
+    "id": "dojimahama",
+    "name": "堂島浜",
+    "parentWalk": "osaka-nakanoshima",
+    "city": "大阪",
+    "region": "關西",
+    "kind": "record-area",
+    "scope": "堂島川北岸、大江橋北側堂島浜一丁目的觀景設施；與中之島島上、北濱南岸分開收錄。",
+    "includes": "堂島川北岸、大江橋北側堂島浜一丁目的觀景設施；與中之島島上、北濱南岸分開收錄。",
+    "excludes": "不向周邊整個行政區擴張，不套用原散策路線。",
+    "basis": "依原影片和所列地點資料核對具體站區與河岸位置。",
+    "sourceUrls": [
+      "https://www.wow-us.jp/",
+      "https://mice.osaka-info.jp/venue_search/wowus/index.php"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "osaka-nakanoshima"
+  ]
+}

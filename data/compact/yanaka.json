@@ -3,99 +3,8 @@
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
-      "id": "yanaka--p_1d5637301ef3bd7c",
-      "name": "根津神社",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「根津神社」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 35.7201366,
-        "lng": 139.7607695,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "r26KUeSIgKg",
-          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
-          "time": "2:56",
-          "seconds": 176
-        },
-        {
-          "channel": "Unique Japan Travel",
-          "videoId": "5eOcZ6YYiKY",
-          "title": "探索東京的復古街區 | 日本旅行vlog",
-          "url": "https://www.youtube.com/watch?v=5eOcZ6YYiKY",
-          "time": "8:57",
-          "seconds": 537
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_1d5637301ef3bd7c",
-          "p_547b4dc6d19c5af1"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://www.google.com/maps/place/%E6%A0%B9%E6%B4%A5%E7%A5%9E%E7%A4%BE/@35.7201366,139.7607695,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c32ce217ef9:0xc0a807378062b0d!8m2!3d35.7201366!4d139.7607695!16s%2Fm%2F046584q?entry=tts&g_ep=EgoyMDI1MDQyOC4wIPu8ASoASAFQAw%3D%3D&skid=902986d7-780f-4c62-b0e5-866be278ffe7"
-      },
-      "order": 1
-    },
-    {
-      "id": "yanaka--p_f020150de26fe73e",
-      "name": "Le Coussinet ル・クシネ",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Le Coussinet ル・クシネ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.7206111,
-        "lng": 139.7638741,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "r26KUeSIgKg",
-          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
-          "time": "4:27",
-          "seconds": 267
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_f020150de26fe73e"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/Le+Coussinet/@35.7206111,139.7638741,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c2d6ab9235d:0x29dba67b486895d8!8m2!3d35.7206111!4d139.7638741!16s%2Fg%2F11b6dr1357?entry=tts&g_ep=EgoyMDI1MDQyOC4wIPu8ASoASAFQAw%3D%3D&skid=7bdbaf8d-a06d-4f9d-9b47-1cb23ffd3074"
-      },
-      "order": 2
-    },
-    {
       "id": "yanaka--clock",
-      "order": 3,
+      "order": 1,
       "name": "大名時計博物館",
       "address": "東京都台東区谷中2-1-27",
       "group": "sights",
@@ -124,70 +33,1000 @@
         "image": "/art/walks/yanaka/clock.webp",
         "alt": "大名時計博物館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
     },
     {
-      "id": "yanaka--p_c0b5e1594558e86b",
-      "name": "Le coin （ル・コワン）",
-      "address": "東京都台東区谷中5-4-3",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "id": "yanaka--p_f020150de26fe73e",
+      "name": "Le Coussinet ル・クシネ",
+      "address": "東京都文京区根津2-34-24",
+      "group": "food",
+      "categoryLabel": "洋菓子",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「Le coin （ル・コワン）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区谷中5-4-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Le Coussinet ル・クシネ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都文京区根津2-34-24。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.723763,
-        "lng": 139.767471,
+        "lat": 35.720543,
+        "lng": 139.763901,
         "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD5-4-3",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA%E6%A0%B9%E6%B4%A52-34-24",
         "label": "國土地理院地址代表點",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
       },
       "sources": [
         {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "XzwVChNhBXQ",
-          "title": "【東京･桃】今が旬！桃スイーツ巡り７選～2025Ver.～銀座／自由が丘／etc...",
-          "url": "https://www.youtube.com/watch?v=XzwVChNhBXQ",
-          "time": "01:38",
-          "seconds": 98
+          "channel": "老辣妹",
+          "videoId": "r26KUeSIgKg",
+          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
+          "time": "4:27",
+          "seconds": 267
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/le_coussinet/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_c0b5e1594558e86b"
+          "p_f020150de26fe73e"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/Lecoin/@35.7237729,139.7674907,17z/data=!3m1!4b1!4m6!3m5!1s0x60188dcb27dffbbf:0x49ebfe7fb90f6f62!8m2!3d35.7237729!4d139.7674907!16s%2Fg%2F11pz3q8qd8?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+        "mapUrl": "https://www.google.com/maps/place/Le+Coussinet/@35.7206111,139.7638741,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c2d6ab9235d:0x29dba67b486895d8!8m2!3d35.7206111!4d139.7638741!16s%2Fg%2F11b6dr1357?entry=tts&g_ep=EgoyMDI1MDQyOC4wIPu8ASoASAFQAw%3D%3D&skid=7bdbaf8d-a06d-4f9d-9b47-1cb23ffd3074"
       },
-      "order": 4
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_f020150de26fe73e.webp",
+        "alt": "Le Coussinet ル・クシネ的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yanaka--p_1d5637301ef3bd7c",
+      "name": "根津神社",
+      "address": "東京都文京区根津1-28-9",
+      "group": "sights",
+      "categoryLabel": "神社",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「根津神社」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都文京区根津1-28-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.719185,
+        "lng": 139.761581,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA%E6%A0%B9%E6%B4%A51-28-9",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "r26KUeSIgKg",
+          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
+          "time": "2:56",
+          "seconds": 176
+        },
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "5eOcZ6YYiKY",
+          "title": "探索東京的復古街區 | 日本旅行vlog",
+          "url": "https://www.youtube.com/watch?v=5eOcZ6YYiKY",
+          "time": "8:57",
+          "seconds": 537
+        }
+      ],
+      "official": "https://nedujinja.or.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1d5637301ef3bd7c",
+          "p_547b4dc6d19c5af1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/%E6%A0%B9%E6%B4%A5%E7%A5%9E%E7%A4%BE/@35.7201366,139.7607695,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c32ce217ef9:0xc0a807378062b0d!8m2!3d35.7201366!4d139.7607695!16s%2Fm%2F046584q?entry=tts&g_ep=EgoyMDI1MDQyOC4wIPu8ASoASAFQAw%3D%3D&skid=902986d7-780f-4c62-b0e5-866be278ffe7"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_1d5637301ef3bd7c.webp",
+        "alt": "根津神社的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yanaka--p_18f7ac1544470bd0",
+      "name": "亀の子束子 谷中店（閉店紀錄）",
+      "address": "東京都文京区根津2-19-8 SENTOビル1F A",
+      "group": "shops",
+      "categoryLabel": "生活道具",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "亀の子束子谷中店曾在根津的舊宮之湯建築販售棕櫚刷與生活道具，這裡保留影片時期的店面。",
+        "原始資料記錄的地址為 東京都文京区根津2-19-8 SENTOビル1F A。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "官方已公告谷中店於2026年5月10日閉店；此地址為2020年搬入的根津舊址，不能再安排購物。",
+      "coordinate": {
+        "lat": 35.718433,
+        "lng": 139.765244,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA%E6%A0%B9%E6%B4%A52-19-8",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "r26KUeSIgKg",
+          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
+          "time": "6:21",
+          "seconds": 381
+        }
+      ],
+      "official": "https://www.kamenoko-tawashi.co.jp/shopinfo/14241",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_18f7ac1544470bd0"
+        ],
+        "status": "closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_18f7ac1544470bd0.webp",
+        "alt": "亀の子束子 谷中店（閉店紀錄）的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yanaka--kayaba",
+      "order": 5,
+      "name": "カヤバ珈琲",
+      "address": "東京都台東区谷中6-1-29",
+      "group": "food",
+      "categoryLabel": "老屋喫茶",
+      "caption": "在路口的老屋，為咖啡與一份輕食停留。",
+      "descriptionParagraphs": [
+        "カヤバ珈琲在 1938 年成為喫茶店，經保存與改修後延續谷中街角的日常。大正時期的木造屋身與轉角位置，讓它不只是一站咖啡，也是一段老建築被繼續使用的故事。",
+        "店內分為一樓桌席與二樓座敷，可依散步節奏安排飲品、甜點或輕食。若使用官方預約系統，請連同席別與用餐時間規則一起確認，為這個熱鬧的轉角留些等候彈性。"
+      ],
+      "description": "カヤバ珈琲在 1938 年成為喫茶店，經保存與改修後延續谷中街角的日常。大正時期的木造屋身與轉角位置，讓它不只是一站咖啡，也是一段老建築被繼續使用的故事。\n\n店內分為一樓桌席與二樓座敷，可依散步節奏安排飲品、甜點或輕食。若使用官方預約系統，請連同席別與用餐時間規則一起確認，為這個熱鬧的轉角留些等候彈性。",
+      "note": "二樓座敷須爬樓梯；有行動需求可於預約時選擇一樓桌席。官方預約有每人一份點單及席時規則。",
+      "official": "https://yoyaku.toreta.in/kayabacoffee",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "ygpWOK9PjVE",
+          "title": "One day in Tokyo｜Exploring retro Tokyo, cafes, and charming local streets in Tokyo, Japan",
+          "url": "https://www.youtube.com/watch?v=ygpWOK9PjVE"
+        },
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "iNOB8Ny5nAA",
+          "title": "【東京巷弄的老宅美食】從日暮里漫步上野｜在博物館裡的Hello Kitty 五十週年展｜東京生活日常｜Tokyo vlog｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=iNOB8Ny5nAA"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "1z9yNq9QZVc",
+          "title": "BEST 12 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️🍴｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=1z9yNq9QZVc"
+        }
+      ],
+      "coordinate": {
+        "lat": 35.721146,
+        "lng": 139.7707707,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4218484297",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 店家節點，與官方谷中 6-1-29 核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/yanaka/kayaba.webp",
+        "alt": "カヤバ珈琲的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_c29efc02a40be4b7"
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
+    },
+    {
+      "id": "yanaka--yoshidaya",
+      "order": 6,
+      "name": "したまちミュージアム付設展示場・旧吉田屋酒店",
+      "address": "東京都台東区上野桜木2-10-6",
+      "group": "sights",
+      "categoryLabel": "商家建築",
+      "caption": "推開老酒舖的門，看看昔日街坊如何買酒。",
+      "descriptionParagraphs": [
+        "舊吉田屋酒店原建於 1910 年，後來連同生活道具與文書捐給台東區，移築到現在的位置。出桁造的屋身、揚戶與店內帳場，保留了昔日商家建築的工作方式。",
+        "館內展示酒器、量具與店鋪用品，適合與附近仍在營業的老屋小店對照著看。這一站免費參觀，規模不大，卻能讓沿街看到的木格子與瓦屋頂多一層生活背景。"
+      ],
+      "description": "舊吉田屋酒店原建於 1910 年，後來連同生活道具與文書捐給台東區，移築到現在的位置。出桁造的屋身、揚戶與店內帳場，保留了昔日商家建築的工作方式。\n\n館內展示酒器、量具與店鋪用品，適合與附近仍在營業的老屋小店對照著看。這一站免費參觀，規模不大，卻能讓沿街看到的木格子與瓦屋頂多一層生活背景。",
+      "note": "週一休館（遇假日改次一平日），12 月 29 日至 1 月 3 日休館。",
+      "official": "https://www.taitogeibun.net/shitamachi/shitamachi_annex/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.721329475,
+        "lng": 139.7709287,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/209190454",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "舊吉田屋酒店建築不重複頂點算術中心，非同名公車站。"
+      },
+      "illustration": {
+        "image": "/art/walks/yanaka/yoshidaya.webp",
+        "alt": "したまちミュージアム付設展示場・旧吉田屋酒店的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
+    },
+    {
+      "id": "yanaka--p_19a5131afe1ba3ea",
+      "name": "八代目傳左衛門めし屋",
+      "address": "東京都台東区谷中6-1-27",
+      "group": "food",
+      "categoryLabel": "定食",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Hachidaime Denzaemon Meshiya」出現在MissLiv 日本旅行和生活的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区谷中6-1-27。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.721413,
+        "lng": 139.77066,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD6-1-27",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "iNOB8Ny5nAA",
+          "title": "【東京巷弄的老宅美食】從日暮里漫步上野｜在博物館裡的Hello Kitty 五十週年展｜東京生活日常｜Tokyo vlog｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=iNOB8Ny5nAA"
+        }
+      ],
+      "official": "https://machiakarisha.jp/info/denzaemon/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_19a5131afe1ba3ea"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10587465553512702756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_19a5131afe1ba3ea.webp",
+        "alt": "八代目傳左衛門めし屋的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yanaka--aiyu",
+      "order": 8,
+      "name": "愛玉子（オーギョーチィ）",
+      "address": "東京都台東区上野桜木2-11-8",
+      "group": "food",
+      "categoryLabel": "台灣甜品",
+      "caption": "用一碗檸檬愛玉，替谷中午後添一點清爽。",
+      "descriptionParagraphs": [
+        "這間以愛玉子命名的甜品店於 1934 年創業，把來自台灣的愛玉搭配檸檬糖漿，延續在上野櫻木的老店日常。它靠近舊吉田屋酒店與カヤバ珈琲，可以在同一小段街道上比較不同的飲食風景。",
+        "店名讀作「オーギョーチィ」，主角是透明凝凍狀的愛玉甜品。若想把咖啡之外的味道也放進散策，這裡可作為另一個短暫休息的選擇，接著再走向谷中的寺院或藝廊。"
+      ],
+      "description": "這間以愛玉子命名的甜品店於 1934 年創業，把來自台灣的愛玉搭配檸檬糖漿，延續在上野櫻木的老店日常。它靠近舊吉田屋酒店與カヤバ珈琲，可以在同一小段街道上比較不同的飲食風景。\n\n店名讀作「オーギョーチィ」，主角是透明凝凍狀的愛玉甜品。若想把咖啡之外的味道也放進散策，這裡可作為另一個短暫休息的選擇，接著再走向谷中的寺院或藝廊。",
+      "note": "",
+      "official": "https://www.tv-tokyo.co.jp/adomachi/backnumber/20120324/64325.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.72165785,
+        "lng": 139.770770175,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/209190307",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 店家建築不重複頂點算術中心，與台東區公開營業許可地址上野櫻木 2-11-8 核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/yanaka/aiyu.webp",
+        "alt": "愛玉子（オーギョーチィ）的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
+    },
+    {
+      "id": "yanaka--scai",
+      "order": 9,
+      "name": "SCAI THE BATHHOUSE",
+      "address": "東京都台東区谷中6-1-23 柏湯跡",
+      "group": "sights",
+      "categoryLabel": "老澡堂藝廊",
+      "caption": "在舊澡堂的瓦屋頂下，遇見當代藝術。",
+      "descriptionParagraphs": [
+        "SCAI THE BATHHOUSE 把谷中的舊澡堂柏湯轉為當代藝術空間，於 1993 年開廊。灰瓦山牆、煙囪與入口磁磚仍留著澡堂的輪廓，走近便能看見老建物的新用途。",
+        "展覽內容依檔期變化，適合把它安排成街區散步中的藝術停留。先確認當期展覽再前往；即使從外側看建築，也請留意周圍居民與車輛通行。"
+      ],
+      "description": "SCAI THE BATHHOUSE 把谷中的舊澡堂柏湯轉為當代藝術空間，於 1993 年開廊。灰瓦山牆、煙囪與入口磁磚仍留著澡堂的輪廓，走近便能看見老建物的新用途。\n\n展覽內容依檔期變化，適合把它安排成街區散步中的藝術停留。先確認當期展覽再前往；即使從外側看建築，也請留意周圍居民與車輛通行。",
+      "note": "週日、週一及國定假日休廊，換展期間也不開放；到訪前請查當期展覽。",
+      "official": "https://www.scaithebathhouse.com/en/access/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "K6TGc7CQ1Pc",
+          "title": "MUST-VISIT 10 ULTIMATE FOOD SPOTS IN Yanaka Ginza, TOKYO🇯🇵｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=K6TGc7CQ1Pc",
+          "time": "16:36",
+          "seconds": 996
+        }
+      ],
+      "coordinate": {
+        "lat": 35.7217514,
+        "lng": 139.7705016,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/821539905",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "藝廊建築代表點，與官方谷中 6-1-23 核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/yanaka/scai.webp",
+        "alt": "SCAI THE BATHHOUSE的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
+    },
+    {
+      "id": "yanaka--beer-hall",
+      "order": 10,
+      "name": "谷中ビアホール",
+      "address": "東京都台東区上野桜木2-15-6 上野桜木あたり一號棟",
+      "group": "food",
+      "categoryLabel": "老屋精釀",
+      "caption": "在木屋裡坐下，嚐一杯以谷中命名的啤酒。",
+      "descriptionParagraphs": [
+        "谷中ビアホール位在上野櫻木あたり的一號棟，以老屋空間搭配原創啤酒。店家在直營的川原湯溫泉釀造會製作谷中啤酒，也提供季節酒款，讓街區散步多一種坐下休息的選擇。",
+        "與逛整個老屋聚落的方式不同，這裡適合為飲食與談話留出一段時間。木窗、暖簾與木質桌面延續舊屋氣氛，若不安排飲酒，也可把這一站留作選擇性的餐飲停留。"
+      ],
+      "description": "谷中ビアホール位在上野櫻木あたり的一號棟，以老屋空間搭配原創啤酒。店家在直營的川原湯溫泉釀造會製作谷中啤酒，也提供季節酒款，讓街區散步多一種坐下休息的選擇。\n\n與逛整個老屋聚落的方式不同，這裡適合為飲食與談話留出一段時間。木窗、暖簾與木質桌面延續舊屋氣氛，若不安排飲酒，也可把這一站留作選擇性的餐飲停留。",
+      "note": "週一休息。",
+      "official": "https://www.uenosakuragiatari.jp/shop/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "r26KUeSIgKg",
+          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
+          "time": "12:42",
+          "seconds": 762
+        }
+      ],
+      "coordinate": {
+        "lat": 35.7222552,
+        "lng": 139.7709206,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4946600824",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM pub 節點，位於上野櫻木あたり一號棟範圍。"
+      },
+      "illustration": {
+        "image": "/art/walks/yanaka/beer-hall.webp",
+        "alt": "谷中ビアホール的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_e75d13ff807d02e9"
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
+    },
+    {
+      "id": "yanaka--atari",
+      "order": 11,
+      "name": "上野桜木あたり",
+      "address": "東京都台東区上野桜木2-15-6",
+      "group": "shops",
+      "categoryLabel": "老屋聚落",
+      "caption": "沿著三棟老屋之間的小徑，找一點想逛的日常。",
+      "descriptionParagraphs": [
+        "上野櫻木あたり把三棟昭和時期老屋連成可以走逛的複合空間。木造立面、狹小路地與庭院相接，讓建築之間的空隙也成為散步的一部分。",
+        "聚落裡有麵包、啤酒、鹽與橄欖油、古本及手作雜貨等不同小店。可以先繞一圈看格局，再挑一間店停留；這一站適合與附近的舊吉田屋酒店一起比較老屋的不同用法。"
+      ],
+      "description": "上野櫻木あたり把三棟昭和時期老屋連成可以走逛的複合空間。木造立面、狹小路地與庭院相接，讓建築之間的空隙也成為散步的一部分。\n\n聚落裡有麵包、啤酒、鹽與橄欖油、古本及手作雜貨等不同小店。可以先繞一圈看格局，再挑一間店停留；這一站適合與附近的舊吉田屋酒店一起比較老屋的不同用法。",
+      "note": "",
+      "official": "https://uenosakuragiatari.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "ygpWOK9PjVE",
+          "title": "One day in Tokyo｜Exploring retro Tokyo, cafes, and charming local streets in Tokyo, Japan",
+          "url": "https://www.youtube.com/watch?v=ygpWOK9PjVE",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "r26KUeSIgKg",
+          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
+          "time": "9:15",
+          "seconds": 555
+        }
+      ],
+      "coordinate": {
+        "lat": 35.72231791666667,
+        "lng": 139.77097906666668,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/821552434",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "複合商業區域不重複頂點算術中心，並非單一店舖入口。"
+      },
+      "illustration": {
+        "image": "/art/walks/yanaka/atari.webp",
+        "alt": "上野桜木あたり的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_636f9b5a9cd2eb95"
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
+    },
+    {
+      "id": "yanaka--p_e89032327d195175",
+      "name": "おしおりーぶ",
+      "address": "東京都台東区上野桜木2-15-6 上野桜木あたり3號棟1F",
+      "group": "shops",
+      "categoryLabel": "橄欖油・調味料",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Oshi Olive おしおりーぶ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区上野桜木2-15-6 上野桜木あたり3號棟1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "位於上野桜木あたり3號棟1樓；以現場店面標示確認入口。",
+      "coordinate": {
+        "lat": 35.72234,
+        "lng": 139.770828,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "r26KUeSIgKg",
+          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
+          "time": "9:15",
+          "seconds": 555
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "ygpWOK9PjVE",
+          "title": "One day in Tokyo｜Exploring retro Tokyo, cafes, and charming local streets in Tokyo, Japan",
+          "url": "https://www.youtube.com/watch?v=ygpWOK9PjVE",
+          "time": "27:49",
+          "seconds": 1669
+        }
+      ],
+      "official": "https://oshiolive.net/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e89032327d195175",
+          "p_0d72812f39a0e5b4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/35%C2%B043'20.7%22N+139%C2%B046'15.7%22E/@35.72241,139.7684451,17z/data=!3m1!4b1!4m4!3m3!8m2!3d35.72241!4d139.77102?entry=tts&g_ep=EgoyMDI1MDQyOC4wIPu8ASoASAFQAw%3D%3D&skid=5be5ce04-6302-4f3c-b806-85111472d264"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_e89032327d195175.webp",
+        "alt": "おしおりーぶ的日系水彩插圖"
+      },
+      "order": 12,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yanaka--think",
+      "order": 13,
+      "name": "Think",
+      "address": "東京都台東区上野桜木2-15-6 上野桜木あたり二号棟1F",
+      "group": "food",
+      "categoryLabel": "麵包・法式烘焙",
+      "caption": "走進老屋之間，帶一份剛好的麵包。",
+      "descriptionParagraphs": [
+        "Think 位在上野桜木あたり的木造老屋一樓，以國產小麥、自家酵母與法式烘焙製作麵包和甜點。小小入口連著庭院，烘焙的香氣與昭和建築的木色自然接在一起。",
+        "可以挑一份可頌、麵包或烤點帶走，再看同一組老屋裡的工藝與啤酒空間。這一站讓谷中南側的散步，同時有建築與味覺的停留。"
+      ],
+      "description": "Think 位在上野桜木あたり的木造老屋一樓，以國產小麥、自家酵母與法式烘焙製作麵包和甜點。小小入口連著庭院，烘焙的香氣與昭和建築的木色自然接在一起。\n\n可以挑一份可頌、麵包或烤點帶走，再看同一組老屋裡的工藝與啤酒空間。這一站讓谷中南側的散步，同時有建築與味覺的停留。",
+      "note": "店內無內用座位。",
+      "official": "https://www.uenosakuragiatari.jp/shop/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "K6TGc7CQ1Pc",
+          "title": "MUST-VISIT 10 ULTIMATE FOOD SPOTS IN Yanaka Ginza, TOKYO🇯🇵｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=K6TGc7CQ1Pc",
+          "time": "17:25",
+          "seconds": 1045
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "r26KUeSIgKg",
+          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
+          "time": "9:15",
+          "seconds": 555
+        }
+      ],
+      "coordinate": {
+        "lat": 35.72234,
+        "lng": 139.770828,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都台東区上野桜木二丁目１５番６号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "illustration": {
+        "image": "/art/walks/yanaka/think.webp",
+        "alt": "Think的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_dd3bb2220ea60bc4"
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
+    },
+    {
+      "id": "yanaka--p_b12b22086ced0e1a",
+      "name": "VANER（閉店紀錄）",
+      "address": "東京都台東区上野桜木2-15-6",
+      "group": "food",
+      "categoryLabel": "麵包",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片收錄上野桜木あたり裡的北歐風麵包店 VANER，保留當年的木造店面與影片紀錄。",
+        "原始資料記錄的地址為 東京都台東区上野桜木2-15-6。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "實訪媒體 NICO STOP 已註記此店於2022年11月27日閉店；保留歷史資料，不再列入導航停靠。",
+      "coordinate": {
+        "lat": 35.72234,
+        "lng": 139.770828,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "W-E7hko919E",
+          "title": "cafe vlog｜谷根千カフェ・グルメ巡り6選／下町散策／古民家カフェ／和栗や／ひみつ堂",
+          "url": "https://www.youtube.com/watch?v=W-E7hko919E",
+          "time": "3:02",
+          "seconds": 182
+        }
+      ],
+      "official": "https://tabelog.com/tokyo/A1311/A131105/13224862/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b12b22086ced0e1a"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=VANER+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_b12b22086ced0e1a.webp",
+        "alt": "VANER（閉店紀錄）的日系水彩插圖"
+      },
+      "order": 14,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yanaka--p_94d975e547970c05",
+      "name": "花重",
+      "address": "東京都台東区谷中7-5-27",
+      "group": "shops",
+      "categoryLabel": "花店",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "谷中靈園旁延續百餘年的花店花重，店面保留木造老屋的形貌。",
+        "原始資料記錄的地址為 東京都台東区谷中7-5-27。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "此筆收錄花重花店；同一建築內的茶屋與花店營業資訊請分別確認。",
+      "coordinate": {
+        "lat": 35.723564,
+        "lng": 139.770218,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD7-5-27",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "sdg7anUPcHI",
+          "title": "東京櫻花綻放時：走進谷中靈園與六義園點燈 | Spring is here again in Tokyo",
+          "url": "https://www.youtube.com/watch?v=sdg7anUPcHI",
+          "time": "10:11",
+          "seconds": 611
+        }
+      ],
+      "official": "https://hanaju.co.jp/onlineshop/about/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_94d975e547970c05"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10666898436098161616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_94d975e547970c05.webp",
+        "alt": "花重的日系水彩插圖"
+      },
+      "order": 15,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yanaka--p_0216823918be70b6",
+      "name": "spiq（スピク）",
+      "address": "東京都台東区谷中7-5-25 ヤナカアパートメント105",
+      "group": "food",
+      "categoryLabel": "咖啡・甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「spiq(スピク)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区谷中7-5-25 ヤナカアパートメント105。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.723839,
+        "lng": 139.770248,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD7-5-25",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "CqwkxNwXLS4",
+          "title": "【必見👀】東京ご褒美いちごスイーツ7選｜-2026年-後編🍓ˎˊ˗",
+          "url": "https://www.youtube.com/watch?v=CqwkxNwXLS4",
+          "time": "11:43",
+          "seconds": 703
+        }
+      ],
+      "official": "https://www.instagram.com/spiq.yanaka/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0216823918be70b6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=spiq%28%E3%82%B9%E3%83%94%E3%82%AF%29+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD7-5-25%E3%83%A4%E3%83%8A%E3%82%AB%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88+1F"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_0216823918be70b6.webp",
+        "alt": "spiq（スピク）的日系水彩插圖"
+      },
+      "order": 16,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yanaka--cemetery",
+      "order": 17,
+      "name": "谷中霊園・さくら通り",
+      "address": "東京都台東区谷中7-5-24 周邊",
+      "group": "sights",
+      "categoryLabel": "林蔭步道",
+      "caption": "沿著櫻樹的方向，走一段安靜的路。",
+      "descriptionParagraphs": [
+        "谷中霊園於 1874 年作為公共墓地開設，一部分沿用天王寺原有寺域。園內道路與寺院相互交錯，其中的櫻花通是這一帶著名的季節風景。",
+        "散步以公共園路為主，感受樹蔭與寺町連續的街景即可。從日暮里往上野櫻木移動時，這段步行能把天王寺、藝廊與老屋咖啡串在一起；即使不是花季，也有開闊安靜的綠意。"
+      ],
+      "description": "谷中霊園於 1874 年作為公共墓地開設，一部分沿用天王寺原有寺域。園內道路與寺院相互交錯，其中的櫻花通是這一帶著名的季節風景。\n\n散步以公共園路為主，感受樹蔭與寺町連續的街景即可。從日暮里往上野櫻木移動時，這段步行能把天王寺、藝廊與老屋咖啡串在一起；即使不是花季，也有開闊安靜的綠意。",
+      "note": "",
+      "official": "https://www.tokyo-park.or.jp/reien/yanaka/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "sdg7anUPcHI",
+          "title": "東京櫻花綻放時：走進谷中靈園與六義園點燈 | Spring is here again in Tokyo",
+          "url": "https://www.youtube.com/watch?v=sdg7anUPcHI",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "sdg7anUPcHI",
+          "title": "東京櫻花綻放時：走進谷中靈園與六義園點燈 | Spring is here again in Tokyo",
+          "url": "https://www.youtube.com/watch?v=sdg7anUPcHI",
+          "time": "10:11",
+          "seconds": 611
+        }
+      ],
+      "coordinate": {
+        "lat": 35.724003275,
+        "lng": 139.770141625,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/1028597451",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "管理事務所建物不重複頂點算術中心，作霊園公共園路接點代表；非個別墓所或精確花木位置。"
+      },
+      "illustration": {
+        "image": "/art/walks/yanaka/cemetery.webp",
+        "alt": "谷中霊園・さくら通り的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_ebe7bd9dc663c50e"
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
+    },
+    {
+      "id": "yanaka--p_b9baa09a351372e0",
+      "name": "kokonn 器物店",
+      "address": "東京都台東区谷中6-3-8 1F",
+      "group": "shops",
+      "categoryLabel": "器物・生活選物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "谷中三崎坂上的器物與生活選物店，原影片收錄的是一樓 kokonn。",
+        "原始資料記錄的地址為 東京都台東区谷中6-3-8 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "舊資料中的一樓咖啡空間已結束，二樓另為喫茶ニカイ；此處收錄一樓器物店，請依各店公告確認營業。",
+      "coordinate": {
+        "lat": 35.723507,
+        "lng": 139.768707,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD6-3-8",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "ygpWOK9PjVE",
+          "title": "One day in Tokyo｜Exploring retro Tokyo, cafes, and charming local streets in Tokyo, Japan",
+          "url": "https://www.youtube.com/watch?v=ygpWOK9PjVE"
+        }
+      ],
+      "official": "https://www.kokonn.net/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b9baa09a351372e0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=461428117124720130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_b9baa09a351372e0.webp",
+        "alt": "kokonn 器物店的日系水彩插圖"
+      },
+      "order": 18,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yanaka--nikai",
+      "order": 19,
+      "name": "喫茶 ニカイ",
+      "address": "東京都台東区谷中6-3-8 kokonn 2F",
+      "group": "food",
+      "categoryLabel": "復古喫茶",
+      "caption": "上到二樓，讓藍色替散步換個心情。",
+      "descriptionParagraphs": [
+        "喫茶ニカイ藏在器物店 kokonn 的二樓，以藍色空間、老家具與器皿，營造親切而有一點童話感的喫茶時間。飲品與餐點也使用選過的器物，讓桌上的細節值得多看一眼。",
+        "可以選一杯有辨識度的藍色奶油蘇打，或用三明治與甜點安排一段較長的休息。喝完再看樓下的器物，咖啡與選物就能接成一個自然停留。"
+      ],
+      "description": "喫茶ニカイ藏在器物店 kokonn 的二樓，以藍色空間、老家具與器皿，營造親切而有一點童話感的喫茶時間。飲品與餐點也使用選過的器物，讓桌上的細節值得多看一眼。\n\n可以選一杯有辨識度的藍色奶油蘇打，或用三明治與甜點安排一段較長的休息。喝完再看樓下的器物，咖啡與選物就能接成一個自然停留。",
+      "note": "位於二樓，需走樓梯。",
+      "official": "https://www.instagram.com/kissa.nikai/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "W-E7hko919E",
+          "title": "cafe vlog｜谷根千カフェ・グルメ巡り6選／下町散策／古民家カフェ／和栗や／ひみつ堂",
+          "url": "https://www.youtube.com/watch?v=W-E7hko919E",
+          "time": "1:23",
+          "seconds": 83
+        }
+      ],
+      "coordinate": {
+        "lat": 35.723507,
+        "lng": 139.768707,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD6-3-8",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都台東区谷中六丁目３番８号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "illustration": {
+        "image": "/art/walks/yanaka/nikai.webp",
+        "alt": "喫茶 ニカイ的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_ef5a85be26e7f62e"
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
     },
     {
       "id": "yanaka--p_656b54d90866e923",
       "name": "カフェ猫衛門",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "address": "東京都台東区谷中5-4-2",
+      "group": "food",
+      "categoryLabel": "咖啡・招財貓彩繪",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「カフェ猫衛門」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都台東区谷中5-4-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.7237831,
-        "lng": 139.7675598,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.723747,
+        "lng": 139.767639,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD5-4-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
       },
       "sources": [
         {
@@ -199,7 +1038,7 @@
           "seconds": 762
         }
       ],
-      "official": null,
+      "official": "https://www.yanakado.com/c_nekoemon.html",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -210,11 +1049,76 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Cafe+Neko-e-mon/@35.7237831,139.7675598,17z/data=!3m1!4b1!4m6!3m5!1s0x60188dd3571219ab:0x52b85db99360c347!8m2!3d35.7237831!4d139.7675598!16s%2Fg%2F11b6v3r_79?entry=tts&g_ep=EgoyMDI1MDQyOC4wIPu8ASoASAFQAw%3D%3D&skid=94d04303-f675-4ae7-bc1a-0726808f38db"
       },
-      "order": 5
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_656b54d90866e923.webp",
+        "alt": "カフェ猫衛門的日系水彩插圖"
+      },
+      "order": 20,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yanaka--p_c0b5e1594558e86b",
+      "name": "Le coin（ル・コワン）",
+      "address": "東京都台東区谷中5-4-3",
+      "group": "food",
+      "categoryLabel": "咖啡・甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Le coin （ル・コワン）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区谷中5-4-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.723763,
+        "lng": 139.767471,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD5-4-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "XzwVChNhBXQ",
+          "title": "【東京･桃】今が旬！桃スイーツ巡り７選～2025Ver.～銀座／自由が丘／etc...",
+          "url": "https://www.youtube.com/watch?v=XzwVChNhBXQ",
+          "time": "01:38",
+          "seconds": 98
+        }
+      ],
+      "official": "https://www.instagram.com/lecoin1224/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c0b5e1594558e86b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Lecoin/@35.7237729,139.7674907,17z/data=!3m1!4b1!4m6!3m5!1s0x60188dcb27dffbbf:0x49ebfe7fb90f6f62!8m2!3d35.7237729!4d139.7674907!16s%2Fg%2F11pz3q8qd8?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_c0b5e1594558e86b.webp",
+        "alt": "Le coin（ル・コワン）的日系水彩插圖"
+      },
+      "order": 21,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
     },
     {
       "id": "yanaka--zenshoan",
-      "order": 6,
+      "order": 22,
       "name": "全生庵",
       "address": "東京都台東区谷中5-4-7",
       "group": "sights",
@@ -243,11 +1147,16 @@
         "image": "/art/walks/yanaka/zenshoan.webp",
         "alt": "全生庵的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
     },
     {
       "id": "yanaka--isetatsu",
-      "order": 7,
+      "order": 23,
       "name": "菊寿堂いせ辰 谷中本店",
       "address": "東京都台東区谷中2-18-9",
       "group": "shops",
@@ -276,11 +1185,24 @@
         "image": "/art/walks/yanaka/isetatsu.webp",
         "alt": "菊寿堂いせ辰 谷中本店的日系水彩插圖"
       },
-      "recommendation": "慢看江戶千代紙的紋樣與色彩。"
+      "recommendation": "慢看江戶千代紙的紋樣與色彩。",
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://matsunoya.jp/shopinfo",
+          "https://www.isetatsu.com/company/",
+          "https://www.cibi.jp/ja-jp/pages/access"
+        ]
+      }
     },
     {
       "id": "yanaka--cibi",
-      "order": 8,
+      "order": 24,
       "name": "CIBI Tokyo Store",
       "address": "東京都文京区千駄木3-37-11",
       "group": "food",
@@ -335,25 +1257,42 @@
       "recommendation": "以咖啡或輕食休息，再慢慢走回千駄木站。",
       "sourceLibraryIds": [
         "p_f725e37747422710"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://matsunoya.jp/shopinfo",
+          "https://www.isetatsu.com/company/",
+          "https://www.cibi.jp/ja-jp/pages/access"
+        ]
+      }
     },
     {
       "id": "yanaka--p_b667f915e5584eef",
-      "name": "千馱木",
-      "address": "日本〒113-0022 東京都文京區千駄木 3 Chome−38",
+      "name": "千駄木站",
+      "address": "東京都文京区千駄木3-36-7",
       "group": "sights",
       "categoryLabel": "交通",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「千馱木」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 日本〒113-0022 東京都文京區千駄木 3 Chome−38。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片列出的 Sendagi Station，即東京地鐵千代田線千駄木站。可作為谷根千散步的抵達或離開地點。",
+        "原始資料記錄的地址為 東京都文京区千駄木3-36-7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.725483,
-        "lng": 139.7632433,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.725235,
+        "lng": 139.763062,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA%E5%8D%83%E9%A7%84%E6%9C%A83-36-7",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
       },
       "sources": [
         {
@@ -365,7 +1304,7 @@
           "seconds": 983
         }
       ],
-      "official": null,
+      "official": "https://www.tokyometro.jp/station/sendagi/index.html",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -376,11 +1315,21 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=7751328136911839071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 9
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_b667f915e5584eef.webp",
+        "alt": "千駄木站的日系水彩插圖"
+      },
+      "order": 25,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
     },
     {
       "id": "yanaka--fukumaru",
-      "order": 10,
+      "order": 26,
       "name": "谷中まんじゅう 福丸",
       "address": "東京都台東区谷中3-7-8",
       "group": "food",
@@ -418,11 +1367,16 @@
         "image": "/art/walks/yanaka/fukumaru.webp",
         "alt": "谷中まんじゅう 福丸的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
     },
     {
       "id": "yanaka--hagiso",
-      "order": 11,
+      "order": 27,
       "name": "HAGISO",
       "address": "東京都台東区谷中3-10-25",
       "group": "food",
@@ -471,11 +1425,24 @@
       "recommendation": "用町家咖啡替散步留一段休息。",
       "sourceLibraryIds": [
         "p_885b226f5995a0ae"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.taitogeibun.net/asakura/",
+          "https://www.yanakaginza.com/",
+          "https://hagiso.com/hagiso/"
+        ]
+      }
     },
     {
       "id": "yanaka--himitsudo",
-      "order": 12,
+      "order": 28,
       "name": "ひみつ堂",
       "address": "東京都台東区谷中3-11-18",
       "group": "food",
@@ -531,25 +1498,34 @@
       "sourceLibraryIds": [
         "p_d43ca9654984d507",
         "p_66ce1efb79161fbe"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
     },
     {
       "id": "yanaka--p_62d18a721c3c6c01",
-      "name": "Zakuro ザクロ",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "name": "レストラン ザクロ",
+      "address": "東京都荒川区西日暮里3-13-2 谷中スタジオ1F",
+      "group": "food",
+      "categoryLabel": "中東料理",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Zakuro ザクロ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都荒川区西日暮里3-13-2 谷中スタジオ1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.7277429,
-        "lng": 139.7669359,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.727707,
+        "lng": 139.766861,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C3-13-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
       },
       "sources": [
         {
@@ -561,7 +1537,7 @@
           "seconds": 858
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/zakuro_tokyo/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -572,25 +1548,39 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Zakuro/@35.7277429,139.7669359,17z/data=!3m1!4b1!4m6!3m5!1s0x60188dd158e47fc3:0x6435f161a633de0e!8m2!3d35.7277429!4d139.7669359!16s%2Fg%2F1vfwcvvr?entry=tts&g_ep=EgoyMDI1MDQyOC4wIPu8ASoASAFQAw%3D%3D&skid=1f788c24-3358-4b0a-b246-6c1d5ddc2709"
       },
-      "order": 13
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_62d18a721c3c6c01.webp",
+        "alt": "レストラン ザクロ的日系水彩插圖"
+      },
+      "order": 29,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
     },
     {
       "id": "yanaka--p_45316fa41dc4d277",
-      "name": "夕陽漸漸(夕陽之階)",
-      "address": "3-chōme-14-13 Nishinippori, Arakawa City, Tokyo 116-0013",
+      "name": "夕やけだんだん（夕陽階梯）",
+      "address": "東京都荒川区西日暮里3-13",
       "group": "sights",
-      "categoryLabel": "景點",
+      "categoryLabel": "階梯・街景",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「夕陽漸漸(夕陽之階)」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-14-13 Nishinippori, Arakawa City, Tokyo 116-0013。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都荒川区西日暮里3-13。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.7276466,
-        "lng": 139.76708639999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.727909,
+        "lng": 139.766907,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C3-13",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
       },
       "sources": [
         {
@@ -622,7 +1612,7 @@
           "url": "https://www.youtube.com/watch?v=r26KUeSIgKg"
         }
       ],
-      "official": null,
+      "official": "https://t-navi.city.taito.lg.jp/spot/1314",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -634,11 +1624,21 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=13244088032790873243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 14
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_45316fa41dc4d277.webp",
+        "alt": "夕やけだんだん（夕陽階梯）的日系水彩插圖"
+      },
+      "order": 30,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
     },
     {
       "id": "yanaka--fukubagel",
-      "order": 15,
+      "order": 31,
       "name": "福ベーグル 夕やけだんだん谷中銀座店",
       "address": "東京都荒川区西日暮里3-10-6 セ・アベーレ谷中銀座EAST 1F",
       "group": "food",
@@ -679,11 +1679,16 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_af2ffcd507f63cce"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
     },
     {
       "id": "yanaka--matsunoya",
-      "order": 16,
+      "order": 32,
       "name": "谷中 松野屋",
       "address": "東京都荒川区西日暮里3-14-14",
       "group": "shops",
@@ -721,25 +1726,42 @@
         "image": "/art/walks/yanaka/matsunoya.webp",
         "alt": "谷中 松野屋的日系水彩插圖"
       },
-      "recommendation": "看看竹籃、掃具與日常器物，挑一樣實用的小物。"
+      "recommendation": "看看竹籃、掃具與日常器物，挑一樣實用的小物。",
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://matsunoya.jp/shopinfo",
+          "https://www.isetatsu.com/company/",
+          "https://www.cibi.jp/ja-jp/pages/access"
+        ]
+      }
     },
     {
       "id": "yanaka--p_d23040e6954214c6",
-      "name": "大吉嶺",
-      "address": "〒116-0013 Tokyo, Arakawa City, Nishinippori, 3-chōme−10−３ ２F",
+      "name": "ダージリン 日暮里店",
+      "address": "東京都荒川区西日暮里3-10-3 2F",
       "group": "food",
-      "categoryLabel": "餐廳",
+      "categoryLabel": "印度料理",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「大吉嶺」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒116-0013 Tokyo, Arakawa City, Nishinippori, 3-chōme−10−３ ２F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都荒川区西日暮里3-10-3 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.727695,
-        "lng": 139.7680185,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.727673,
+        "lng": 139.767883,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C3-10-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
       },
       "sources": [
         {
@@ -749,7 +1771,7 @@
           "url": "https://www.youtube.com/watch?v=iZhgxQ0X5Vk"
         }
       ],
-      "official": null,
+      "official": "https://akr4118853167.owst.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -760,11 +1782,21 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=2591082456059094251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 17
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_d23040e6954214c6.webp",
+        "alt": "ダージリン 日暮里店的日系水彩插圖"
+      },
+      "order": 33,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
     },
     {
       "id": "yanaka--starbucks",
-      "order": 18,
+      "order": 34,
       "name": "スターバックス コーヒー CAFE & ART 谷中御殿坂",
       "address": "東京都荒川区西日暮里3-2-5",
       "group": "food",
@@ -814,25 +1846,34 @@
       "sourceLibraryIds": [
         "p_336ec564bb6a5aaf",
         "p_61b135d0ce252ce9"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
     },
     {
       "id": "yanaka--p_86a1d11be6c5200c",
-      "name": "たんぴょう亭",
-      "address": "〒110-0001 Tokyo, Taito City, Yanaka, 7-chōme−18−２１ たんぴょう亭",
-      "group": "sights",
-      "categoryLabel": "建築物",
+      "name": "たんぴょう亭（閉店紀錄）",
+      "address": "東京都台東区谷中7-18-21",
+      "group": "food",
+      "categoryLabel": "日本料理",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「たんぴょう亭」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒110-0001 Tokyo, Taito City, Yanaka, 7-chōme−18−２１ たんぴょう亭。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片介紹谷中巷內的日本料理店たんぴょう亭，這裡保留當年的店面與用餐紀錄。",
+        "原始資料記錄的地址為 東京都台東区谷中7-18-21。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "食べログ目前標示閉店，未找到確切閉店日期；保留原址與影片，不能再按舊影片安排用餐。",
       "coordinate": {
-        "lat": 35.7273583,
-        "lng": 139.76910329999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.727409,
+        "lng": 139.769058,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD7-18-21",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
       },
       "sources": [
         {
@@ -842,22 +1883,32 @@
           "url": "https://www.youtube.com/watch?v=iZhgxQ0X5Vk"
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/tokyo/A1311/A131105/13038075/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_86a1d11be6c5200c"
         ],
-        "status": "source-record",
+        "status": "reported-closed",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=688215248213525317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 19
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_86a1d11be6c5200c.webp",
+        "alt": "たんぴょう亭（閉店紀錄）的日系水彩插圖"
+      },
+      "order": 35,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
     },
     {
       "id": "yanaka--asakura",
-      "order": 20,
+      "order": 36,
       "name": "台東区立朝倉彫塑館",
       "address": "東京都台東区谷中7-18-10",
       "group": "sights",
@@ -886,11 +1937,24 @@
         "image": "/art/walks/yanaka/asakura.webp",
         "alt": "台東区立朝倉彫塑館的日系水彩插圖"
       },
-      "recommendation": "看雕塑家的故居、工作室與庭院。"
+      "recommendation": "看雕塑家的故居、工作室與庭院。",
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.taitogeibun.net/asakura/",
+          "https://www.yanakaginza.com/",
+          "https://hagiso.com/hagiso/"
+        ]
+      }
     },
     {
       "id": "yanaka--tennoji",
-      "order": 21,
+      "order": 37,
       "name": "護国山天王寺",
       "address": "東京都台東区谷中7-14-8",
       "group": "sights",
@@ -919,25 +1983,34 @@
         "image": "/art/walks/yanaka/tennoji.webp",
         "alt": "護国山天王寺的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
     },
     {
       "id": "yanaka--p_ecf884d7d05c2233",
-      "name": "日暮里",
-      "address": "2 Chome-19 Nishinippori, Arakawa City, Tokyo 116-0013",
+      "name": "日暮里站",
+      "address": "東京都荒川区西日暮里2-19-1",
       "group": "sights",
       "categoryLabel": "交通",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「日暮里」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2 Chome-19 Nishinippori, Arakawa City, Tokyo 116-0013。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片列出的 Nippori Station，即日暮里站。西側通往谷中，東側通往日暮里街區，請依行程選擇出口。",
+        "原始資料記錄的地址為 東京都荒川区西日暮里2-19-1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.7281578,
-        "lng": 139.7706414,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.72879,
+        "lng": 139.770889,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C2-19-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
       },
       "sources": [
         {
@@ -949,7 +2022,7 @@
           "seconds": 611
         }
       ],
-      "official": null,
+      "official": "https://www.jreast.co.jp/estation/station/info.aspx?StationCD=1184",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -960,95 +2033,21 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=11556275923419300798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 22
-    },
-    {
-      "id": "yanaka--p_f1b66d6793401bb2",
-      "name": "馬賊 日暮里店",
-      "address": "〒116-0013 Tokyo, Arakawa City, Nishinippori, 2-chōme−18−２ イトウビル",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「馬賊 日暮里店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒116-0013 Tokyo, Arakawa City, Nishinippori, 2-chōme−18−２ イトウビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.728575299999996,
-        "lng": 139.7719639,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_ecf884d7d05c2233.webp",
+        "alt": "日暮里站的日系水彩插圖"
       },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "iZhgxQ0X5Vk",
-          "title": "[日暮裡/西日暮裡]午餐最佳7！ @日本東京",
-          "url": "https://www.youtube.com/watch?v=iZhgxQ0X5Vk"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_f1b66d6793401bb2"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=15368732238604176038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      "order": 38,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
       },
-      "order": 23
-    },
-    {
-      "id": "yanaka--p_49a5c097f87425e4",
-      "name": "ひぐらしベーカリー",
-      "address": "東京都荒川区西日暮里2-6-7 ひぐらしガーデン 1F",
-      "group": "food",
-      "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「ひぐらしベーカリー」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都荒川区西日暮里2-6-7 ひぐらしガーデン 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 35.731777,
-        "lng": 139.774017,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C2-6-7",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "Upveq4yJJnc",
-          "title": "cafe vlog｜東京ベーカリー＆カフェ７選／パン好き必見／／表参道／六本木／渋谷他",
-          "url": "https://www.youtube.com/watch?v=Upveq4yJJnc",
-          "time": "7:03",
-          "seconds": 423
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_49a5c097f87425e4"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC+%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C2-6-7+%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3+1F"
-      },
-      "order": 24
+      "recommendation": null
     },
     {
       "id": "yanaka--ginza",
-      "order": 25,
+      "order": 39,
       "name": "谷中銀座商店街",
       "address": "東京都台東区谷中3-13-1 周邊",
       "group": "shops",
@@ -1110,11 +2109,24 @@
       "sourceLibraryIds": [
         "p_17ed58db06b4794e",
         "p_04c00a97d708cb2b"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.taitogeibun.net/asakura/",
+          "https://www.yanakaginza.com/",
+          "https://hagiso.com/hagiso/"
+        ]
+      }
     },
     {
       "id": "yanaka--waguriya",
-      "order": 26,
+      "order": 40,
       "name": "和栗や 谷中本店",
       "address": "東京都台東区谷中3-9-14",
       "group": "food",
@@ -1164,25 +2176,34 @@
       "sourceLibraryIds": [
         "p_845ac5055e10029c",
         "p_279ee56c0f09928b"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      }
     },
     {
       "id": "yanaka--p_9ce0b4a4d7c066b7",
-      "name": "Inageya",
-      "address": "3 Chome-49-4 Sendagi, Bunkyo City, Tokyo 113-0022",
+      "name": "稲毛屋",
+      "address": "東京都文京区千駄木3-49-4",
       "group": "food",
-      "categoryLabel": "餐廳",
+      "categoryLabel": "鰻魚料理",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Inageya」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3 Chome-49-4 Sendagi, Bunkyo City, Tokyo 113-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都文京区千駄木3-49-4。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "note": "",
       "coordinate": {
-        "lat": 35.7302689,
-        "lng": 139.7620304,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.730373,
+        "lng": 139.761871,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA%E5%8D%83%E9%A7%84%E6%9C%A83-49-4",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
       },
       "sources": [
         {
@@ -1192,7 +2213,7 @@
           "url": "https://www.youtube.com/watch?v=iZhgxQ0X5Vk"
         }
       ],
-      "official": null,
+      "official": "https://inageya.owst.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1203,810 +2224,30 @@
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=10103290753709885541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 27
-    },
-    {
-      "id": "yanaka--p_b9baa09a351372e0",
-      "name": "kokonn",
-      "address": "6-chōme-3-8 Yanaka, Taito City, Tokyo 110-0001",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「kokonn」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 6-chōme-3-8 Yanaka, Taito City, Tokyo 110-0001。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.7235175,
-        "lng": 139.76865139999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "ygpWOK9PjVE",
-          "title": "One day in Tokyo｜Exploring retro Tokyo, cafes, and charming local streets in Tokyo, Japan",
-          "url": "https://www.youtube.com/watch?v=ygpWOK9PjVE"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_b9baa09a351372e0"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=461428117124720130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 28
-    },
-    {
-      "id": "yanaka--nikai",
-      "order": 29,
-      "name": "喫茶 ニカイ",
-      "address": "東京都台東区谷中6-3-8 kokonn 2F",
-      "group": "food",
-      "categoryLabel": "復古喫茶",
-      "caption": "上到二樓，讓藍色替散步換個心情。",
-      "descriptionParagraphs": [
-        "喫茶ニカイ藏在器物店 kokonn 的二樓，以藍色空間、老家具與器皿，營造親切而有一點童話感的喫茶時間。飲品與餐點也使用選過的器物，讓桌上的細節值得多看一眼。",
-        "可以選一杯有辨識度的藍色奶油蘇打，或用三明治與甜點安排一段較長的休息。喝完再看樓下的器物，咖啡與選物就能接成一個自然停留。"
-      ],
-      "description": "喫茶ニカイ藏在器物店 kokonn 的二樓，以藍色空間、老家具與器皿，營造親切而有一點童話感的喫茶時間。飲品與餐點也使用選過的器物，讓桌上的細節值得多看一眼。\n\n可以選一杯有辨識度的藍色奶油蘇打，或用三明治與甜點安排一段較長的休息。喝完再看樓下的器物，咖啡與選物就能接成一個自然停留。",
-      "note": "位於二樓，需走樓梯。",
-      "official": "https://www.instagram.com/kissa.nikai/",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "W-E7hko919E",
-          "title": "cafe vlog｜谷根千カフェ・グルメ巡り6選／下町散策／古民家カフェ／和栗や／ひみつ堂",
-          "url": "https://www.youtube.com/watch?v=W-E7hko919E",
-          "time": "1:23",
-          "seconds": 83
-        }
-      ],
-      "coordinate": {
-        "lat": 35.723507,
-        "lng": 139.768707,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD6-3-8",
-        "license": "公共資料利用規約（第1.0版）",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院住址搜尋回傳「東京都台東区谷中六丁目３番８号」代表點；樓層與入口請依完整店址辨識。"
-      },
       "illustration": {
-        "image": "/art/walks/yanaka/nikai.webp",
-        "alt": "喫茶 ニカイ的日系水彩插圖"
+        "image": "/art/source-library/yanaka--p_9ce0b4a4d7c066b7.webp",
+        "alt": "稲毛屋的日系水彩插圖"
       },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_ef5a85be26e7f62e"
-      ]
-    },
-    {
-      "id": "yanaka--p_94d975e547970c05",
-      "name": "Hanaju",
-      "address": "7-chōme-5-27 Yanaka, Taito City, Tokyo 110-0001",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Hanaju」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 7-chōme-5-27 Yanaka, Taito City, Tokyo 110-0001。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.7235715,
-        "lng": 139.7701399,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "sdg7anUPcHI",
-          "title": "東京櫻花綻放時：走進谷中靈園與六義園點燈 | Spring is here again in Tokyo",
-          "url": "https://www.youtube.com/watch?v=sdg7anUPcHI",
-          "time": "10:11",
-          "seconds": 611
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_94d975e547970c05"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=10666898436098161616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 30
-    },
-    {
-      "id": "yanaka--p_0216823918be70b6",
-      "name": "spiq(スピク)",
-      "address": "東京都台東区谷中7-5-25ヤナカアパートメント 1F",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「spiq(スピク)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区谷中7-5-25ヤナカアパートメント 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.723839,
-        "lng": 139.770248,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD7-5-25",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "CqwkxNwXLS4",
-          "title": "【必見👀】東京ご褒美いちごスイーツ7選｜-2026年-後編🍓ˎˊ˗",
-          "url": "https://www.youtube.com/watch?v=CqwkxNwXLS4",
-          "time": "11:43",
-          "seconds": 703
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_0216823918be70b6"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=spiq%28%E3%82%B9%E3%83%94%E3%82%AF%29+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD7-5-25%E3%83%A4%E3%83%8A%E3%82%AB%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88+1F"
-      },
-      "order": 31
-    },
-    {
-      "id": "yanaka--cemetery",
-      "order": 32,
-      "name": "谷中霊園・さくら通り",
-      "address": "東京都台東区谷中7-5-24 周邊",
-      "group": "sights",
-      "categoryLabel": "林蔭步道",
-      "caption": "沿著櫻樹的方向，走一段安靜的路。",
-      "descriptionParagraphs": [
-        "谷中霊園於 1874 年作為公共墓地開設，一部分沿用天王寺原有寺域。園內道路與寺院相互交錯，其中的櫻花通是這一帶著名的季節風景。",
-        "散步以公共園路為主，感受樹蔭與寺町連續的街景即可。從日暮里往上野櫻木移動時，這段步行能把天王寺、藝廊與老屋咖啡串在一起；即使不是花季，也有開闊安靜的綠意。"
-      ],
-      "description": "谷中霊園於 1874 年作為公共墓地開設，一部分沿用天王寺原有寺域。園內道路與寺院相互交錯，其中的櫻花通是這一帶著名的季節風景。\n\n散步以公共園路為主，感受樹蔭與寺町連續的街景即可。從日暮里往上野櫻木移動時，這段步行能把天王寺、藝廊與老屋咖啡串在一起；即使不是花季，也有開闊安靜的綠意。",
-      "note": "",
-      "official": "https://www.tokyo-park.or.jp/reien/yanaka/index.html",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "sdg7anUPcHI",
-          "title": "東京櫻花綻放時：走進谷中靈園與六義園點燈 | Spring is here again in Tokyo",
-          "url": "https://www.youtube.com/watch?v=sdg7anUPcHI",
-          "time": "",
-          "seconds": null
-        },
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "sdg7anUPcHI",
-          "title": "東京櫻花綻放時：走進谷中靈園與六義園點燈 | Spring is here again in Tokyo",
-          "url": "https://www.youtube.com/watch?v=sdg7anUPcHI",
-          "time": "10:11",
-          "seconds": 611
-        }
-      ],
-      "coordinate": {
-        "lat": 35.724003275,
-        "lng": 139.770141625,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/way/1028597451",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "管理事務所建物不重複頂點算術中心，作霊園公共園路接點代表；非個別墓所或精確花木位置。"
-      },
-      "illustration": {
-        "image": "/art/walks/yanaka/cemetery.webp",
-        "alt": "谷中霊園・さくら通り的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_ebe7bd9dc663c50e"
-      ]
-    },
-    {
-      "id": "yanaka--p_e89032327d195175",
-      "name": "Oshi Olive おしおりーぶ",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Oshi Olive おしおりーぶ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.72241,
-        "lng": 139.77102,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "r26KUeSIgKg",
-          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
-          "time": "9:15",
-          "seconds": 555
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "ygpWOK9PjVE",
-          "title": "One day in Tokyo｜Exploring retro Tokyo, cafes, and charming local streets in Tokyo, Japan",
-          "url": "https://www.youtube.com/watch?v=ygpWOK9PjVE",
-          "time": "27:49",
-          "seconds": 1669
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_e89032327d195175",
-          "p_0d72812f39a0e5b4"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/35%C2%B043'20.7%22N+139%C2%B046'15.7%22E/@35.72241,139.7684451,17z/data=!3m1!4b1!4m4!3m3!8m2!3d35.72241!4d139.77102?entry=tts&g_ep=EgoyMDI1MDQyOC4wIPu8ASoASAFQAw%3D%3D&skid=5be5ce04-6302-4f3c-b806-85111472d264"
-      },
-      "order": 33
-    },
-    {
-      "id": "yanaka--atari",
-      "order": 34,
-      "name": "上野桜木あたり",
-      "address": "東京都台東区上野桜木2-15-6",
-      "group": "shops",
-      "categoryLabel": "老屋聚落",
-      "caption": "沿著三棟老屋之間的小徑，找一點想逛的日常。",
-      "descriptionParagraphs": [
-        "上野櫻木あたり把三棟昭和時期老屋連成可以走逛的複合空間。木造立面、狹小路地與庭院相接，讓建築之間的空隙也成為散步的一部分。",
-        "聚落裡有麵包、啤酒、鹽與橄欖油、古本及手作雜貨等不同小店。可以先繞一圈看格局，再挑一間店停留；這一站適合與附近的舊吉田屋酒店一起比較老屋的不同用法。"
-      ],
-      "description": "上野櫻木あたり把三棟昭和時期老屋連成可以走逛的複合空間。木造立面、狹小路地與庭院相接，讓建築之間的空隙也成為散步的一部分。\n\n聚落裡有麵包、啤酒、鹽與橄欖油、古本及手作雜貨等不同小店。可以先繞一圈看格局，再挑一間店停留；這一站適合與附近的舊吉田屋酒店一起比較老屋的不同用法。",
-      "note": "",
-      "official": "https://uenosakuragiatari.jp/",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "ygpWOK9PjVE",
-          "title": "One day in Tokyo｜Exploring retro Tokyo, cafes, and charming local streets in Tokyo, Japan",
-          "url": "https://www.youtube.com/watch?v=ygpWOK9PjVE",
-          "time": "",
-          "seconds": null
-        },
-        {
-          "channel": "老辣妹",
-          "videoId": "r26KUeSIgKg",
-          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
-          "time": "9:15",
-          "seconds": 555
-        }
-      ],
-      "coordinate": {
-        "lat": 35.72231791666667,
-        "lng": 139.77097906666668,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/way/821552434",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "複合商業區域不重複頂點算術中心，並非單一店舖入口。"
-      },
-      "illustration": {
-        "image": "/art/walks/yanaka/atari.webp",
-        "alt": "上野桜木あたり的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_636f9b5a9cd2eb95"
-      ]
-    },
-    {
-      "id": "yanaka--beer-hall",
-      "order": 35,
-      "name": "谷中ビアホール",
-      "address": "東京都台東区上野桜木2-15-6 上野桜木あたり一號棟",
-      "group": "food",
-      "categoryLabel": "老屋精釀",
-      "caption": "在木屋裡坐下，嚐一杯以谷中命名的啤酒。",
-      "descriptionParagraphs": [
-        "谷中ビアホール位在上野櫻木あたり的一號棟，以老屋空間搭配原創啤酒。店家在直營的川原湯溫泉釀造會製作谷中啤酒，也提供季節酒款，讓街區散步多一種坐下休息的選擇。",
-        "與逛整個老屋聚落的方式不同，這裡適合為飲食與談話留出一段時間。木窗、暖簾與木質桌面延續舊屋氣氛，若不安排飲酒，也可把這一站留作選擇性的餐飲停留。"
-      ],
-      "description": "谷中ビアホール位在上野櫻木あたり的一號棟，以老屋空間搭配原創啤酒。店家在直營的川原湯溫泉釀造會製作谷中啤酒，也提供季節酒款，讓街區散步多一種坐下休息的選擇。\n\n與逛整個老屋聚落的方式不同，這裡適合為飲食與談話留出一段時間。木窗、暖簾與木質桌面延續舊屋氣氛，若不安排飲酒，也可把這一站留作選擇性的餐飲停留。",
-      "note": "週一休息。",
-      "official": "https://www.uenosakuragiatari.jp/shop/",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "r26KUeSIgKg",
-          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
-          "time": "12:42",
-          "seconds": 762
-        }
-      ],
-      "coordinate": {
-        "lat": 35.7222552,
-        "lng": 139.7709206,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/node/4946600824",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "OSM pub 節點，位於上野櫻木あたり一號棟範圍。"
-      },
-      "illustration": {
-        "image": "/art/walks/yanaka/beer-hall.webp",
-        "alt": "谷中ビアホール的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_e75d13ff807d02e9"
-      ]
-    },
-    {
-      "id": "yanaka--think",
-      "order": 36,
-      "name": "Think",
-      "address": "東京都台東区上野桜木2-15-6 上野桜木あたり二号棟1F",
-      "group": "food",
-      "categoryLabel": "麵包・法式烘焙",
-      "caption": "走進老屋之間，帶一份剛好的麵包。",
-      "descriptionParagraphs": [
-        "Think 位在上野桜木あたり的木造老屋一樓，以國產小麥、自家酵母與法式烘焙製作麵包和甜點。小小入口連著庭院，烘焙的香氣與昭和建築的木色自然接在一起。",
-        "可以挑一份可頌、麵包或烤點帶走，再看同一組老屋裡的工藝與啤酒空間。這一站讓谷中南側的散步，同時有建築與味覺的停留。"
-      ],
-      "description": "Think 位在上野桜木あたり的木造老屋一樓，以國產小麥、自家酵母與法式烘焙製作麵包和甜點。小小入口連著庭院，烘焙的香氣與昭和建築的木色自然接在一起。\n\n可以挑一份可頌、麵包或烤點帶走，再看同一組老屋裡的工藝與啤酒空間。這一站讓谷中南側的散步，同時有建築與味覺的停留。",
-      "note": "店內無內用座位。",
-      "official": "https://www.uenosakuragiatari.jp/shop/",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "K6TGc7CQ1Pc",
-          "title": "MUST-VISIT 10 ULTIMATE FOOD SPOTS IN Yanaka Ginza, TOKYO🇯🇵｜Tokyo vlog 2026",
-          "url": "https://www.youtube.com/watch?v=K6TGc7CQ1Pc",
-          "time": "17:25",
-          "seconds": 1045
-        },
-        {
-          "channel": "老辣妹",
-          "videoId": "r26KUeSIgKg",
-          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
-          "time": "9:15",
-          "seconds": 555
-        }
-      ],
-      "coordinate": {
-        "lat": 35.72234,
-        "lng": 139.770828,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6",
-        "license": "公共資料利用規約（第1.0版）",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院住址搜尋回傳「東京都台東区上野桜木二丁目１５番６号」代表點；樓層與入口請依完整店址辨識。"
-      },
-      "illustration": {
-        "image": "/art/walks/yanaka/think.webp",
-        "alt": "Think的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_dd3bb2220ea60bc4"
-      ]
-    },
-    {
-      "id": "yanaka--p_b12b22086ced0e1a",
-      "name": "VANER",
-      "address": "東京都台東区上野桜木2-15-6",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「VANER」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区上野桜木2-15-6。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.72234,
-        "lng": 139.770828,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "W-E7hko919E",
-          "title": "cafe vlog｜谷根千カフェ・グルメ巡り6選／下町散策／古民家カフェ／和栗や／ひみつ堂",
-          "url": "https://www.youtube.com/watch?v=W-E7hko919E",
-          "time": "3:02",
-          "seconds": 182
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_b12b22086ced0e1a"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=VANER+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6"
-      },
-      "order": 37
-    },
-    {
-      "id": "yanaka--scai",
-      "order": 38,
-      "name": "SCAI THE BATHHOUSE",
-      "address": "東京都台東区谷中6-1-23 柏湯跡",
-      "group": "sights",
-      "categoryLabel": "老澡堂藝廊",
-      "caption": "在舊澡堂的瓦屋頂下，遇見當代藝術。",
-      "descriptionParagraphs": [
-        "SCAI THE BATHHOUSE 把谷中的舊澡堂柏湯轉為當代藝術空間，於 1993 年開廊。灰瓦山牆、煙囪與入口磁磚仍留著澡堂的輪廓，走近便能看見老建物的新用途。",
-        "展覽內容依檔期變化，適合把它安排成街區散步中的藝術停留。先確認當期展覽再前往；即使從外側看建築，也請留意周圍居民與車輛通行。"
-      ],
-      "description": "SCAI THE BATHHOUSE 把谷中的舊澡堂柏湯轉為當代藝術空間，於 1993 年開廊。灰瓦山牆、煙囪與入口磁磚仍留著澡堂的輪廓，走近便能看見老建物的新用途。\n\n展覽內容依檔期變化，適合把它安排成街區散步中的藝術停留。先確認當期展覽再前往；即使從外側看建築，也請留意周圍居民與車輛通行。",
-      "note": "週日、週一及國定假日休廊，換展期間也不開放；到訪前請查當期展覽。",
-      "official": "https://www.scaithebathhouse.com/en/access/",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "K6TGc7CQ1Pc",
-          "title": "MUST-VISIT 10 ULTIMATE FOOD SPOTS IN Yanaka Ginza, TOKYO🇯🇵｜Tokyo vlog 2026",
-          "url": "https://www.youtube.com/watch?v=K6TGc7CQ1Pc",
-          "time": "16:36",
-          "seconds": 996
-        }
-      ],
-      "coordinate": {
-        "lat": 35.7217514,
-        "lng": 139.7705016,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/way/821539905",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "藝廊建築代表點，與官方谷中 6-1-23 核對。"
-      },
-      "illustration": {
-        "image": "/art/walks/yanaka/scai.webp",
-        "alt": "SCAI THE BATHHOUSE的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "yanaka--aiyu",
-      "order": 39,
-      "name": "愛玉子（オーギョーチィ）",
-      "address": "東京都台東区上野桜木2-11-8",
-      "group": "food",
-      "categoryLabel": "台灣甜品",
-      "caption": "用一碗檸檬愛玉，替谷中午後添一點清爽。",
-      "descriptionParagraphs": [
-        "這間以愛玉子命名的甜品店於 1934 年創業，把來自台灣的愛玉搭配檸檬糖漿，延續在上野櫻木的老店日常。它靠近舊吉田屋酒店與カヤバ珈琲，可以在同一小段街道上比較不同的飲食風景。",
-        "店名讀作「オーギョーチィ」，主角是透明凝凍狀的愛玉甜品。若想把咖啡之外的味道也放進散策，這裡可作為另一個短暫休息的選擇，接著再走向谷中的寺院或藝廊。"
-      ],
-      "description": "這間以愛玉子命名的甜品店於 1934 年創業，把來自台灣的愛玉搭配檸檬糖漿，延續在上野櫻木的老店日常。它靠近舊吉田屋酒店與カヤバ珈琲，可以在同一小段街道上比較不同的飲食風景。\n\n店名讀作「オーギョーチィ」，主角是透明凝凍狀的愛玉甜品。若想把咖啡之外的味道也放進散策，這裡可作為另一個短暫休息的選擇，接著再走向谷中的寺院或藝廊。",
-      "note": "",
-      "official": "https://www.tv-tokyo.co.jp/adomachi/backnumber/20120324/64325.html",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.72165785,
-        "lng": 139.770770175,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/way/209190307",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "OSM 店家建築不重複頂點算術中心，與台東區公開營業許可地址上野櫻木 2-11-8 核對。"
-      },
-      "illustration": {
-        "image": "/art/walks/yanaka/aiyu.webp",
-        "alt": "愛玉子（オーギョーチィ）的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "yanaka--p_19a5131afe1ba3ea",
-      "name": "Hachidaime Denzaemon Meshiya",
-      "address": "6-chōme-1-27 Yanaka, Taito City, Tokyo 110-0001",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Hachidaime Denzaemon Meshiya」出現在MissLiv 日本旅行和生活的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 6-chōme-1-27 Yanaka, Taito City, Tokyo 110-0001。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.7213272,
-        "lng": 139.7706497,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "MissLiv 日本旅行和生活",
-          "videoId": "iNOB8Ny5nAA",
-          "title": "【東京巷弄的老宅美食】從日暮里漫步上野｜在博物館裡的Hello Kitty 五十週年展｜東京生活日常｜Tokyo vlog｜日本旅行與生活",
-          "url": "https://www.youtube.com/watch?v=iNOB8Ny5nAA"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_19a5131afe1ba3ea"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=10587465553512702756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 40
-    },
-    {
-      "id": "yanaka--kayaba",
       "order": 41,
-      "name": "カヤバ珈琲",
-      "address": "東京都台東区谷中6-1-29",
-      "group": "food",
-      "categoryLabel": "老屋喫茶",
-      "caption": "在路口的老屋，為咖啡與一份輕食停留。",
-      "descriptionParagraphs": [
-        "カヤバ珈琲在 1938 年成為喫茶店，經保存與改修後延續谷中街角的日常。大正時期的木造屋身與轉角位置，讓它不只是一站咖啡，也是一段老建築被繼續使用的故事。",
-        "店內分為一樓桌席與二樓座敷，可依散步節奏安排飲品、甜點或輕食。若使用官方預約系統，請連同席別與用餐時間規則一起確認，為這個熱鬧的轉角留些等候彈性。"
-      ],
-      "description": "カヤバ珈琲在 1938 年成為喫茶店，經保存與改修後延續谷中街角的日常。大正時期的木造屋身與轉角位置，讓它不只是一站咖啡，也是一段老建築被繼續使用的故事。\n\n店內分為一樓桌席與二樓座敷，可依散步節奏安排飲品、甜點或輕食。若使用官方預約系統，請連同席別與用餐時間規則一起確認，為這個熱鬧的轉角留些等候彈性。",
-      "note": "二樓座敷須爬樓梯；有行動需求可於預約時選擇一樓桌席。官方預約有每人一份點單及席時規則。",
-      "official": "https://yoyaku.toreta.in/kayabacoffee",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "ygpWOK9PjVE",
-          "title": "One day in Tokyo｜Exploring retro Tokyo, cafes, and charming local streets in Tokyo, Japan",
-          "url": "https://www.youtube.com/watch?v=ygpWOK9PjVE"
-        },
-        {
-          "channel": "MissLiv 日本旅行和生活",
-          "videoId": "iNOB8Ny5nAA",
-          "title": "【東京巷弄的老宅美食】從日暮里漫步上野｜在博物館裡的Hello Kitty 五十週年展｜東京生活日常｜Tokyo vlog｜日本旅行與生活",
-          "url": "https://www.youtube.com/watch?v=iNOB8Ny5nAA"
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "1z9yNq9QZVc",
-          "title": "BEST 12 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️🍴｜Tokyo vlog 2026",
-          "url": "https://www.youtube.com/watch?v=1z9yNq9QZVc"
-        }
-      ],
-      "coordinate": {
-        "lat": 35.721146,
-        "lng": 139.7707707,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/node/4218484297",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "OSM 店家節點，與官方谷中 6-1-29 核對。"
-      },
-      "illustration": {
-        "image": "/art/walks/yanaka/kayaba.webp",
-        "alt": "カヤバ珈琲的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_c29efc02a40be4b7"
-      ]
-    },
-    {
-      "id": "yanaka--yoshidaya",
-      "order": 42,
-      "name": "したまちミュージアム付設展示場・旧吉田屋酒店",
-      "address": "東京都台東区上野桜木2-10-6",
-      "group": "sights",
-      "categoryLabel": "商家建築",
-      "caption": "推開老酒舖的門，看看昔日街坊如何買酒。",
-      "descriptionParagraphs": [
-        "舊吉田屋酒店原建於 1910 年，後來連同生活道具與文書捐給台東區，移築到現在的位置。出桁造的屋身、揚戶與店內帳場，保留了昔日商家建築的工作方式。",
-        "館內展示酒器、量具與店鋪用品，適合與附近仍在營業的老屋小店對照著看。這一站免費參觀，規模不大，卻能讓沿街看到的木格子與瓦屋頂多一層生活背景。"
-      ],
-      "description": "舊吉田屋酒店原建於 1910 年，後來連同生活道具與文書捐給台東區，移築到現在的位置。出桁造的屋身、揚戶與店內帳場，保留了昔日商家建築的工作方式。\n\n館內展示酒器、量具與店鋪用品，適合與附近仍在營業的老屋小店對照著看。這一站免費參觀，規模不大，卻能讓沿街看到的木格子與瓦屋頂多一層生活背景。",
-      "note": "週一休館（遇假日改次一平日），12 月 29 日至 1 月 3 日休館。",
-      "official": "https://www.taitogeibun.net/shitamachi/shitamachi_annex/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.721329475,
-        "lng": 139.7709287,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/way/209190454",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "舊吉田屋酒店建築不重複頂點算術中心，非同名公車站。"
-      },
-      "illustration": {
-        "image": "/art/walks/yanaka/yoshidaya.webp",
-        "alt": "したまちミュージアム付設展示場・旧吉田屋酒店的日系水彩插圖"
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
       },
       "recommendation": null
-    },
-    {
-      "id": "yanaka--p_fc6a6f3ba0bbd2c7",
-      "name": "國際兒童圖書館",
-      "address": "12-49 Uenokōen, Taito City, Tokyo 110-0007",
-      "group": "sights",
-      "categoryLabel": "圖書館",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「國際兒童圖書館」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 12-49 Uenokōen, Taito City, Tokyo 110-0007。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.7197324,
-        "lng": 139.7738741,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "Oeaub98Y9V8",
-          "title": "🇯🇵🗼TOKYO VLOG｜Exploring Ueno｜Food spots, Shopping, cozy cafe and Sightseeing",
-          "url": "https://www.youtube.com/watch?v=Oeaub98Y9V8"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_fc6a6f3ba0bbd2c7"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=18047082100036947361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 43
-    },
-    {
-      "id": "yanaka--p_6c2c7ef5276cb53a",
-      "name": "Kogetsu Ikenohata Honten",
-      "address": "4-chōme-23-1 Ikenohata, Taito City, Tokyo 110-0008",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Kogetsu Ikenohata Honten」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 4-chōme-23-1 Ikenohata, Taito City, Tokyo 110-0008。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.7186011,
-        "lng": 139.7681341,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "YJcVMd6P3pA",
-          "title": "【新宿午餐Best 5】由罕見的高級藥草大師製作的日本傳統水瀧和優質中餐！",
-          "url": "https://www.youtube.com/watch?v=YJcVMd6P3pA"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_6c2c7ef5276cb53a"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=11481950793343329080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 44
-    },
-    {
-      "id": "yanaka--p_18f7ac1544470bd0",
-      "name": "亀の子束子 谷中店",
-      "address": "",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「亀の子束子 谷中店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.7183286,
-        "lng": 139.7652279,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "r26KUeSIgKg",
-          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
-          "time": "6:21",
-          "seconds": 381
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_18f7ac1544470bd0"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/Kamenoko+Tawashi+Yanaka+shop/@35.7183286,139.7652279,17z/data=!3m1!4b1!4m6!3m5!1s0x60188dd2b1434af9:0x23fabb4de7d4da8d!8m2!3d35.7183286!4d139.7652279!16s%2Fg%2F11b6gpzgr5?entry=tts&g_ep=EgoyMDI1MDQyOC4wIPu8ASoASAFQAw%3D%3D&skid=81e84464-038a-4d04-94bd-7f1b0c9a4076"
-      },
-      "order": 45
     },
     {
       "id": "yanaka--p_f42563428873dc5b",
-      "name": "Yanaka area",
-      "address": "",
+      "name": "谷中街區（影片散步紀錄）",
+      "address": "東京都台東区谷中（影片未標明確切位置）",
       "group": "sights",
-      "categoryLabel": "其他",
+      "categoryLabel": "街區",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「Yanaka area」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原影片的谷中街區散步章節；資料未指明單一店家或可核對的停靠位置。",
+        "原始資料記錄的地址為 東京都台東区谷中（影片未標明確切位置）。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "note": "街景插畫取材自谷中三崎坂，作為街區示意；原影片未標定確切位置，此筆不設地圖標記。",
       "coordinate": null,
       "sources": [
         {
@@ -2018,7 +2259,7 @@
           "seconds": 97
         }
       ],
-      "official": null,
+      "official": "https://t-navi.city.taito.lg.jp/spot/list?areaIds=3",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -2027,9 +2268,19 @@
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yanaka+area+Japan"
+        "mapUrl": null
       },
-      "order": 46
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_f42563428873dc5b.webp",
+        "alt": "谷中街區（影片散步紀錄）的日系水彩插圖"
+      },
+      "order": 42,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null
     }
   ],
   "routes": [
@@ -2079,7 +2330,15 @@
         "yanaka--ginza",
         "yanaka--hagiso"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.taitogeibun.net/asakura/",
+          "https://www.yanakaginza.com/",
+          "https://hagiso.com/hagiso/"
+        ]
+      }
     },
     {
       "id": "yanaka-paper-and-tools",
@@ -2121,64 +2380,304 @@
         "yanaka--himitsudo": "順路可選：讓果實蜜與手削冰，成為散步的甜點空檔。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "yanaka--fukubagel": "順路可選：在階梯旁，挑一份圓圓的日常。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/yanaka/isetatsu.webp",
+      "art": "/art/walks/yanaka/matsunoya.webp",
       "highlightIds": [
         "yanaka--matsunoya",
         "yanaka--isetatsu",
         "yanaka--cibi"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://matsunoya.jp/shopinfo",
+          "https://www.isetatsu.com/company/",
+          "https://www.cibi.jp/ja-jp/pages/access"
+        ]
+      }
     }
   ],
   "defaultSelection": "yanaka-slow-walk",
   "libraryCoverage": {
+    "added": 19,
+    "unlocated": 1,
+    "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_636f9b5a9cd2eb95",
-      "p_17ed58db06b4794e",
-      "p_04c00a97d708cb2b",
-      "p_ebe7bd9dc663c50e",
-      "p_e75d13ff807d02e9",
-      "p_845ac5055e10029c",
-      "p_279ee56c0f09928b",
-      "p_336ec564bb6a5aaf",
-      "p_61b135d0ce252ce9",
-      "p_ef5a85be26e7f62e",
-      "p_d43ca9654984d507",
-      "p_66ce1efb79161fbe",
-      "p_af2ffcd507f63cce",
-      "p_f725e37747422710",
-      "p_885b226f5995a0ae",
-      "p_c29efc02a40be4b7",
-      "p_dd3bb2220ea60bc4",
-      "p_b667f915e5584eef",
-      "p_45316fa41dc4d277",
-      "p_12dd1b72fd49a437",
-      "p_d23040e6954214c6",
-      "p_ecf884d7d05c2233",
+      "p_f020150de26fe73e",
       "p_1d5637301ef3bd7c",
       "p_547b4dc6d19c5af1",
-      "p_f1b66d6793401bb2",
       "p_18f7ac1544470bd0",
-      "p_fc6a6f3ba0bbd2c7",
+      "p_c29efc02a40be4b7",
       "p_19a5131afe1ba3ea",
-      "p_94d975e547970c05",
-      "p_9ce0b4a4d7c066b7",
-      "p_6c2c7ef5276cb53a",
-      "p_b9baa09a351372e0",
-      "p_c0b5e1594558e86b",
-      "p_f020150de26fe73e",
+      "p_e75d13ff807d02e9",
+      "p_636f9b5a9cd2eb95",
       "p_e89032327d195175",
       "p_0d72812f39a0e5b4",
-      "p_0216823918be70b6",
+      "p_dd3bb2220ea60bc4",
       "p_b12b22086ced0e1a",
-      "p_f42563428873dc5b",
-      "p_62d18a721c3c6c01",
+      "p_94d975e547970c05",
+      "p_0216823918be70b6",
+      "p_ebe7bd9dc663c50e",
+      "p_b9baa09a351372e0",
+      "p_ef5a85be26e7f62e",
       "p_656b54d90866e923",
+      "p_c0b5e1594558e86b",
+      "p_f725e37747422710",
+      "p_b667f915e5584eef",
+      "p_885b226f5995a0ae",
+      "p_d43ca9654984d507",
+      "p_66ce1efb79161fbe",
+      "p_62d18a721c3c6c01",
+      "p_45316fa41dc4d277",
+      "p_12dd1b72fd49a437",
+      "p_af2ffcd507f63cce",
+      "p_d23040e6954214c6",
+      "p_336ec564bb6a5aaf",
+      "p_61b135d0ce252ce9",
       "p_86a1d11be6c5200c",
-      "p_49a5c097f87425e4"
+      "p_ecf884d7d05c2233",
+      "p_17ed58db06b4794e",
+      "p_04c00a97d708cb2b",
+      "p_845ac5055e10029c",
+      "p_279ee56c0f09928b",
+      "p_9ce0b4a4d7c066b7",
+      "p_f42563428873dc5b"
+    ]
+  },
+  "scope": {
+    "id": "yanaka",
+    "name": "谷根千",
+    "kind": "walk",
+    "scope": "日暮里站西側、谷中銀座、谷中寺町與上野櫻木，沿千駄木至根津神社。",
+    "includes": "谷中、根津、千駄木與上野櫻木的連續街巷",
+    "excludes": "日暮里站東側商業街及上野公園本體另區。",
+    "basis": "東京都有日暮里—谷中銀座—根津神社的谷根千步行路線；原名稱「谷中」不足以交代範圍。",
+    "sourceUrls": [
+      "https://www.sangyo-rodo1.metro.tokyo.lg.jp/tourism/accessible/course07.html"
     ],
-    "added": 23,
-    "unlocated": 1,
-    "checkedAt": "2026-10-26"
-  }
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 42
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "yanaka--p_fc6a6f3ba0bbd2c7",
+      "name": "國際兒童圖書館",
+      "address": "東京都台東区上野公園12-49",
+      "group": "sights",
+      "categoryLabel": "圖書館",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「國際兒童圖書館」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区上野公園12-49。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.719219,
+        "lng": 139.773834,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E5%85%AC%E5%9C%9212-49",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "Oeaub98Y9V8",
+          "title": "🇯🇵🗼TOKYO VLOG｜Exploring Ueno｜Food spots, Shopping, cozy cafe and Sightseeing",
+          "url": "https://www.youtube.com/watch?v=Oeaub98Y9V8"
+        }
+      ],
+      "official": "https://www.kodomo.go.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fc6a6f3ba0bbd2c7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=18047082100036947361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_fc6a6f3ba0bbd2c7.webp",
+        "alt": "國際兒童圖書館的日系水彩插圖"
+      },
+      "order": 1,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "ueno-park",
+        "name": "上野公園",
+        "href": "/walks/ueno-park/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "yanaka--p_f1b66d6793401bb2",
+      "name": "中国手打拉麺 馬賊 日暮里店",
+      "address": "東京都荒川区西日暮里2-18-2 伊藤ビル1F",
+      "group": "food",
+      "categoryLabel": "手打拉麵",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「馬賊 日暮里店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都荒川区西日暮里2-18-2 伊藤ビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.728584,
+        "lng": 139.771988,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C2-18-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "iZhgxQ0X5Vk",
+          "title": "[日暮裡/西日暮裡]午餐最佳7！ @日本東京",
+          "url": "https://www.youtube.com/watch?v=iZhgxQ0X5Vk"
+        }
+      ],
+      "official": "https://bazoku.jacklist.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f1b66d6793401bb2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=15368732238604176038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_f1b66d6793401bb2.webp",
+        "alt": "中国手打拉麺 馬賊 日暮里店的日系水彩插圖"
+      },
+      "order": 35,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nippori-east",
+        "name": "日暮里東側",
+        "href": "/walks/nippori-east/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "yanaka--p_49a5c097f87425e4",
+      "name": "ひぐらしベーカリー 日暮里店",
+      "address": "東京都荒川区西日暮里2-6-7 ひぐらしガーデン1F",
+      "group": "food",
+      "categoryLabel": "麵包・咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ひぐらしベーカリー」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都荒川区西日暮里2-6-7 ひぐらしガーデン1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.731777,
+        "lng": 139.774017,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C2-6-7",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Upveq4yJJnc",
+          "title": "cafe vlog｜東京ベーカリー＆カフェ７選／パン好き必見／／表参道／六本木／渋谷他",
+          "url": "https://www.youtube.com/watch?v=Upveq4yJJnc",
+          "time": "7:03",
+          "seconds": 423
+        }
+      ],
+      "official": "https://higurashi-garden.co.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_49a5c097f87425e4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC+%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C2-6-7+%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3+1F"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_49a5c097f87425e4.webp",
+        "alt": "ひぐらしベーカリー 日暮里店的日系水彩插圖"
+      },
+      "order": 37,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nippori-east",
+        "name": "日暮里東側",
+        "href": "/walks/nippori-east/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "yanaka--p_6c2c7ef5276cb53a",
+      "name": "古月 新宿（閉店紀錄）",
+      "address": "東京都新宿区新宿1-5-5 御苑フラトー2F",
+      "group": "food",
+      "categoryLabel": "中華料理",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹新宿御苑旁的中華料理店古月新宿，已修正先前誤配的池之端本店。",
+        "原始資料記錄的地址為 東京都新宿区新宿1-5-5 御苑フラトー2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片食べログ連結明確指向新宿店；食べログ與散步の達人均已標示閉店。保留新宿原址與影片，不再列入導航。",
+      "coordinate": {
+        "lat": 35.687988,
+        "lng": 139.710831,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%96%B0%E5%AE%BF1-5-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "YJcVMd6P3pA",
+          "title": "【新宿午餐Best 5】由罕見的高級藥草大師製作的日本傳統水瀧和優質中餐！",
+          "url": "https://www.youtube.com/watch?v=YJcVMd6P3pA"
+        }
+      ],
+      "official": "https://tabelog.com/tokyo/A1304/A130402/13030918/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6c2c7ef5276cb53a"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_6c2c7ef5276cb53a.webp",
+        "alt": "古月 新宿（閉店紀錄）的日系水彩插圖"
+      },
+      "order": 45,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "shinjuku-gyoen",
+        "name": "新宿御苑前",
+        "href": "/walks/shinjuku-gyoen/"
+      },
+      "savedOutsideArea": true
+    }
+  ],
+  "inheritedWalkIds": []
 }

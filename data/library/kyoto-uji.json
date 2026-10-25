@@ -2,16 +2,16 @@
   "places": [
     {
       "id": "kyoto-uji--p_07788e6ba852ffcd",
-      "name": "ニンテンドーミュージアム 任天堂博物館",
-      "address": "",
+      "name": "任天堂博物館",
+      "address": "京都府宇治市小倉町神楽田56",
       "group": "sights",
       "categoryLabel": "景點",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「ニンテンドーミュージアム 任天堂博物館」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 京都府宇治市小倉町神楽田56。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "需事先取得指定日期與時段門票，請依官方預約及入館說明安排；館內商店與咖啡廳需持入館票。",
       "coordinate": {
         "lat": 34.8927989,
         "lng": 135.784166,
@@ -28,7 +28,7 @@
           "seconds": 1211
         }
       ],
-      "official": null,
+      "official": "https://museum.nintendo.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -38,6 +38,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%8D%9A%E7%89%A9%E9%A4%A8/@34.8927989,135.784166,17z/data=!3m1!4b1!4m6!3m5!1s0x60011188b83087d3:0x646fdf4a68b62b4d!8m2!3d34.8927989!4d135.784166!16s%2Fg%2F11vdn6d1cd?entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-uji--p_07788e6ba852ffcd.webp",
+        "alt": "任天堂博物館的日系水彩插圖"
       }
     }
   ],

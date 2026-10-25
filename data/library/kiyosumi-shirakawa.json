@@ -2,7 +2,7 @@
   "places": [
     {
       "id": "kiyosumi-shirakawa--p_62bdf99d8fd11928",
-      "name": "小麦の奴隷 LABO×MITSUME",
+      "name": "小麦の奴隷 LABO×MITSUME（清澄白河舊址）",
       "address": "東京都江東区常盤1-15-1 1F MITSUME内",
       "group": "sights",
       "categoryLabel": "其他",
@@ -11,7 +11,7 @@
         "「小麦の奴隷 LABO×MITSUME」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都江東区常盤1-15-1 1F MITSUME内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "影片記錄常盤 1-15-1 的期間限定合作店。原店資料已標示搬遷；此處保留 2021 年舊址紀錄與當時店面插畫，請勿依舊址前往。2026-10-26 核對。",
       "coordinate": {
         "lat": 35.684788,
         "lng": 139.794617,
@@ -32,16 +32,20 @@
           "seconds": 488
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/tokyo/A1312/A131201/13252596/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_62bdf99d8fd11928"
         ],
-        "status": "source-record",
+        "status": "relocated",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/MITSUME/data=!4m7!3m6!1s0x60188969c9899967:0x78a2f22ecd2211b0!8m2!3d35.684812!4d139.7946963!16s%2Fg%2F11xvlpj3vv!19sChIJZ5mJyWmJGGARsBEizS7yong?authuser=0&hl=zh-TW&rclk=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_62bdf99d8fd11928.webp",
+        "alt": "小麦の奴隷 LABO×MITSUME（清澄白河舊址）的日系水彩插圖"
       }
     },
     {
@@ -80,6 +84,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=9319004302698675331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_155fff76ca19dd39.webp",
+        "alt": "Allpress Espresso Tokyo Roastery & Cafe的日系水彩插圖"
       }
     },
     {
@@ -128,6 +136,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Bella+Napoli/@35.6842683,139.7956756,14.75z/data=!4m5!3m4!1s0x0:0x7f9767d1047d7e86!8m2!3d35.6853425!4d139.7991211?coh=164777&shorturl=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_b604af4fde716f6a.webp",
+        "alt": "BELLA NAPOLI的日系水彩插圖"
       }
     },
     {
@@ -181,6 +193,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=4413411979074118234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_b231c7d0ce46bc81.webp",
+        "alt": "Farm to Me Restaurant的日系水彩插圖"
       }
     },
     {
@@ -225,6 +241,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/HAGAN+ORGANIC+COFFEE/@35.6778093,139.8056077,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b266b6d2501:0x7090acc2f345d2b7!8m2!3d35.6778093!4d139.8056077!16s%2Fg%2F11qpr60cg5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_a4ce61758b9a0179.webp",
+        "alt": "HAGAN ORGANIC COFFEE(ヘイガン オーガニック コーヒー)的日系水彩插圖"
       }
     },
     {
@@ -263,47 +283,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=11664622512999259906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      }
-    },
-    {
-      "id": "kiyosumi-shirakawa--p_0d5099d4cbbd85aa",
-      "name": "Museum of Contemporary Art Tokyo",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Museum of Contemporary Art Tokyo」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.6797467,
-        "lng": 139.8081921,
-        "provider": "source-library",
-        "url": "https://maps.app.goo.gl/2hxsdEBc3x6m31PY9",
-        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
       },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "YoqqAl6cewU",
-          "title": "15 MUST-VISIT SPOTS IN TOKYO 🍜🍣｜Ramen Cooking Class, Asakusa & Hidden Cafes｜Tokyo vlog 2026",
-          "url": "https://www.youtube.com/watch?v=YoqqAl6cewU",
-          "time": "19:25",
-          "seconds": 1165
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_0d5099d4cbbd85aa"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.app.goo.gl/2hxsdEBc3x6m31PY9"
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_448c675d56366a58.webp",
+        "alt": "Kashikobo Fukudora的日系水彩插圖"
       }
     },
     {
@@ -348,6 +331,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=TOKAKU+coffee%2B%28%E3%83%88%E3%82%AB%E3%82%AF%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%29+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%B8%85%E6%BE%843-1-3"
+      },
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_2dd6bdfe83eae05f.webp",
+        "alt": "TOKAKU coffee+(トカクコーヒー)的日系水彩插圖"
       }
     }
   ],
@@ -444,6 +431,21 @@
           "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
           "time": "5:42",
           "seconds": 342
+        }
+      ]
+    },
+    "kiyosumi-shirakawa--mot": {
+      "sourceIds": [
+        "p_0d5099d4cbbd85aa"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "YoqqAl6cewU",
+          "title": "15 MUST-VISIT SPOTS IN TOKYO 🍜🍣｜Ramen Cooking Class, Asakusa & Hidden Cafes｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=YoqqAl6cewU",
+          "time": "19:25",
+          "seconds": 1165
         }
       ]
     }

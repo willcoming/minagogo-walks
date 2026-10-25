@@ -42,13 +42,21 @@
         "nara_museum": "順路可選：從一串紅色身代猿，認識奈良町的生活記憶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "nara_sakura": "順路可選：為一碗現做葛切，留一段清爽的休息。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/nara/kanakana.webp",
+      "art": "/art/nara/nakagawa.webp",
       "highlightIds": [
         "nara_nakagawa",
         "nara_nigiwai",
         "nara_kanakana"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nakagawa-masashichi.jp/shop/pages/shikasarukitsune.aspx",
+          "https://naramachi-nigiwainoie.jp/",
+          "https://kanakana.info/"
+        ]
+      }
     },
     {
       "id": "machiya",
@@ -90,13 +98,21 @@
         "nara_kondou": "順路可選：在老町家裡，吃一頓溫柔的豆腐料理。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "nara_gangoji": "順路可選：抬頭看瓦色，把散步接回更久遠的奈良。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/nara/koshi.webp",
+      "art": "/art/nara/sarusawa.webp",
       "highlightIds": [
         "nara_sarusawa",
         "nara_nigiwai",
         "nara_koshi"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://narashikanko.or.jp/spot/detail_10110.html",
+          "https://naramachi-nigiwainoie.jp/",
+          "https://www.city.nara.lg.jp/site/shisetsu/6242.html"
+        ]
+      }
     }
   ],
   "places": [
@@ -131,7 +147,12 @@
         "image": "/art/nara/toys.webp",
         "alt": "奈良町からくりおもちゃ館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      }
     },
     {
       "id": "nara_sakura",
@@ -164,7 +185,12 @@
         "image": "/art/nara/sakura.webp",
         "alt": "吉野葛 佐久良的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      }
     },
     {
       "id": "nara_museum",
@@ -197,7 +223,12 @@
         "image": "/art/nara/museum.webp",
         "alt": "奈良町資料館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      }
     },
     {
       "id": "nara_nigiwai",
@@ -231,7 +262,20 @@
         "image": "/art/nara/nigiwai.webp",
         "alt": "奈良町にぎわいの家，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "走進町家，慢慢看庭園與生活空間。 看庭園與老屋格局，讓腳步在町家裡慢下來。"
+      "recommendation": "走進町家，慢慢看庭園與生活空間。 看庭園與老屋格局，讓腳步在町家裡慢下來。",
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://narashikanko.or.jp/spot/detail_10110.html",
+          "https://naramachi-nigiwainoie.jp/",
+          "https://www.city.nara.lg.jp/site/shisetsu/6242.html"
+        ]
+      }
     },
     {
       "id": "nara_gangoji",
@@ -264,7 +308,12 @@
         "image": "/art/nara/gangoji.webp",
         "alt": "元興寺（極楽堂・禅室），依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      }
     },
     {
       "id": "nara_goryo",
@@ -297,7 +346,12 @@
         "image": "/art/nara/goryo.webp",
         "alt": "御霊神社的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      }
     },
     {
       "id": "nara_kondou",
@@ -330,7 +384,12 @@
         "image": "/art/nara/kondou.webp",
         "alt": "奈良町豆腐庵こんどう的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      }
     },
     {
       "id": "nara_koshi",
@@ -362,7 +421,20 @@
         "image": "/art/nara/koshi.webp",
         "alt": "ならまち格子の家，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "認識格子窗與傳統住家，之後繼續向南到京終站。"
+      "recommendation": "認識格子窗與傳統住家，之後繼續向南到京終站。",
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://narashikanko.or.jp/spot/detail_10110.html",
+          "https://naramachi-nigiwainoie.jp/",
+          "https://www.city.nara.lg.jp/site/shisetsu/6242.html"
+        ]
+      }
     },
     {
       "id": "nara_jurin",
@@ -395,7 +467,12 @@
         "image": "/art/nara/jurin.webp",
         "alt": "十輪院的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      }
     },
     {
       "id": "nara_imanishi",
@@ -428,7 +505,12 @@
         "image": "/art/nara/imanishi.webp",
         "alt": "今西家書院的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      }
     },
     {
       "id": "nara_harushika",
@@ -461,7 +543,12 @@
         "image": "/art/nara/harushika.webp",
         "alt": "春鹿醸造元 今西清兵衛商店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      }
     },
     {
       "id": "nara_kanakana",
@@ -494,7 +581,20 @@
         "image": "/art/nara/kanakana.webp",
         "alt": "カナカナ，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "在老屋裡喝杯茶或吃一餐；長時間候位不計入規劃。"
+      "recommendation": "在老屋裡喝杯茶或吃一餐；長時間候位不計入規劃。",
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nakagawa-masashichi.jp/shop/pages/shikasarukitsune.aspx",
+          "https://naramachi-nigiwainoie.jp/",
+          "https://kanakana.info/"
+        ]
+      }
     },
     {
       "id": "nara_sarusawa",
@@ -527,7 +627,20 @@
         "image": "/art/nara/sarusawa.webp",
         "alt": "猿沢池，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "沿池畔散步、拍照，不需要繞池一整圈。"
+      "recommendation": "沿池畔散步、拍照，不需要繞池一整圈。",
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://narashikanko.or.jp/spot/detail_10110.html",
+          "https://naramachi-nigiwainoie.jp/",
+          "https://www.city.nara.lg.jp/site/shisetsu/6242.html"
+        ]
+      }
     },
     {
       "id": "nara_nakagawa",
@@ -572,7 +685,20 @@
       "recommendation": "看看奈良工藝與生活用品，體驗課程另行預約與計時。",
       "sourceLibraryIds": [
         "p_b16ad4ff0009fade"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nakagawa-masashichi.jp/shop/pages/shikasarukitsune.aspx",
+          "https://naramachi-nigiwainoie.jp/",
+          "https://kanakana.info/"
+        ]
+      }
     },
     {
       "id": "nara_manmando",
@@ -605,16 +731,38 @@
         "image": "/art/nara/manmando.webp",
         "alt": "萬々堂通則的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "naramachi",
+        "name": "奈良町",
+        "href": "/walks/naramachi/"
+      }
     }
   ],
   "defaultSelection": "naramachi-day",
   "libraryCoverage": {
-    "sourceIds": [
-      "p_b16ad4ff0009fade"
-    ],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_b16ad4ff0009fade"
+    ]
+  },
+  "scope": {
+    "id": "naramachi",
+    "name": "奈良町",
+    "kind": "walk",
+    "scope": "猿澤池南側到元興寺舊境內的町家街，經中新屋町、公納堂町至格子之家。",
+    "includes": "猿澤池、元興寺、元林院町與南側町家聚落",
+    "excludes": "東大寺、若草山與奈良公園東部另區。",
+    "basis": "奈良市觀光協會以元興寺舊境內及江戶明治町家組成奈良町介紹。",
+    "sourceUrls": [
+      "https://narashikanko.or.jp/naramachi/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 15
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

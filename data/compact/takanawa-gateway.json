@@ -1,0 +1,92 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kobe-motomachi--p_16bf5a9d7743a0e1",
+      "name": "TOOTH TOOTH BISTRO & CAFE（高輪）",
+      "address": "東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹東京高輪的 TOOTH TOOTH BISTRO & CAFE，位於 NEWoMan 高輪 SOUTH 五樓。",
+        "原始資料記錄的地址為 東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "已依原影片指定餐廳與品牌官方地址修正，並非神戶港灣的 FISH IN THE FOREST。",
+      "coordinate": {
+        "lat": 35.635559,
+        "lng": 139.739594,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E9%AB%98%E8%BC%AA2-21-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "高輪二丁目21番的地址代表點，非店門或館內櫃位；餐廳位於SOUTH五樓。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "57OtKo9avlw",
+          "title": "【東京ランチ10選】市川猿之助が食べた楽屋めし、パン食べ放題ニューオープンなど！",
+          "url": "https://www.youtube.com/watch?v=57OtKo9avlw"
+        }
+      ],
+      "official": "https://toothtooth.com/restaurant/tooth-tooth-bistrocafe",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_16bf5a9d7743a0e1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-motomachi--p_16bf5a9d7743a0e1.webp",
+        "alt": "TOOTH TOOTH BISTRO & CAFE（高輪）的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "takanawa-gateway",
+        "name": "高輪Gateway",
+        "href": "/walks/takanawa-gateway/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_16bf5a9d7743a0e1"
+    ]
+  },
+  "scope": {
+    "id": "takanawa-gateway",
+    "name": "高輪Gateway",
+    "city": "東京",
+    "region": "關東",
+    "kind": "record-area",
+    "parentWalk": "kobe-motomachi",
+    "scope": "高輪Gateway站與NEWoMan高輪館內的已確認影片店家。",
+    "includes": "高輪Gateway站與NEWoMan高輪館內的已確認影片店家。",
+    "excludes": "僅保留已核對的原影片地點，不以整個行政區擴張收錄。",
+    "basis": "依原影片明示店家及店家地址修正跨城市誤配，單點紀錄不編造完整散步行程。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=57OtKo9avlw",
+      "https://toothtooth.com/restaurant-cafe/22524"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kobe-motomachi"
+  ]
+}

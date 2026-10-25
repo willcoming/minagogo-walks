@@ -33,7 +33,12 @@
         "image": "/art/walks/sawara/suwa.webp",
         "alt": "諏訪神社的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      }
     },
     {
       "id": "sawara--tokun",
@@ -66,25 +71,35 @@
         "image": "/art/walks/sawara/tokun.webp",
         "alt": "東薫酒造 直売店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      }
     },
     {
       "id": "sawara--p_a3d238488dfaff0b",
-      "name": "Sawara Merchant Town Hotel NIPPONIA KAGURA",
-      "address": "I-1708-2 Sawara, Katori, Chiba 287-0003",
+      "name": "佐原商家町ホテル NIPPONIA KAGURA棟",
+      "address": "千葉県香取市佐原イ1708-2",
       "group": "sights",
-      "categoryLabel": "住宿",
+      "categoryLabel": "歷史旅宿",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Sawara Merchant Town Hotel NIPPONIA KAGURA」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 I-1708-2 Sawara, Katori, Chiba 287-0003。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 千葉県香取市佐原イ1708-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "KAGURA棟為飯店接待與餐廳所在，非任意開放參觀的客房；住宿、用餐與活動依飯店預約及現場規定。",
       "coordinate": {
-        "lat": 35.8885061,
-        "lng": 140.49524739999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_a3d238488dfaff0b",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E9%A6%99%E5%8F%96%E5%B8%82%E4%BD%90%E5%8E%9F%E3%82%A41708-2",
+        "lat": 35.888279,
+        "lng": 140.495453,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -96,7 +111,7 @@
           "seconds": 436
         }
       ],
-      "official": null,
+      "official": "https://www.nipponia-sawara.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -107,7 +122,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=14361266519961008414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 3
+      "illustration": {
+        "image": "/art/source-library/sawara--p_a3d238488dfaff0b.webp",
+        "alt": "佐原商家町ホテル NIPPONIA KAGURA棟的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      },
+      "recommendation": null
     },
     {
       "id": "sawara--leun",
@@ -149,7 +174,12 @@
         "image": "/art/walks/sawara/leun.webp",
         "alt": "LE UN 佐原商家町ホテル NIPPONIA的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      }
     },
     {
       "id": "sawara--ino-museum",
@@ -182,7 +212,20 @@
         "image": "/art/walks/sawara/ino-museum.webp",
         "alt": "伊能忠敬記念館的日系水彩插圖"
       },
-      "recommendation": "看看地圖與測量旅行的故事。"
+      "recommendation": "看看地圖與測量旅行的故事。",
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://sawara-inae.com/",
+          "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html",
+          "https://www.city.katori.lg.jp/sightseeing/museum/index.html"
+        ]
+      }
     },
     {
       "id": "sawara--toyo-bridge",
@@ -215,7 +258,20 @@
         "image": "/art/walks/sawara/toyo-bridge.webp",
         "alt": "樋橋（じゃあじゃあ橋）的日系水彩插圖"
       },
-      "recommendation": "沿橋邊與河岸看商家風景。"
+      "recommendation": "沿橋邊與河岸看商家風景。",
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://sawara-inae.com/",
+          "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html",
+          "https://www.city.katori.lg.jp/sightseeing/museum/index.html"
+        ]
+      }
     },
     {
       "id": "sawara--ino-residence",
@@ -268,7 +324,12 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_63478ac23af841d8"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      }
     },
     {
       "id": "sawara--mitsubishi",
@@ -301,7 +362,20 @@
         "image": "/art/walks/sawara/mitsubishi.webp",
         "alt": "佐原三菱館・町並み交流館的日系水彩插圖"
       },
-      "recommendation": "欣賞紅磚洋館與館內開放空間，再慢走回車站。"
+      "recommendation": "欣賞紅磚洋館與館內開放空間，再慢走回車站。",
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.katori.lg.jp/sightseeing/sawaradashikaikan/index.html",
+          "https://www.shoujyou.com/",
+          "https://sawara-machinami.com/"
+        ]
+      }
     },
     {
       "id": "sawara--suppinya",
@@ -354,7 +428,12 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_7545204d045b397b"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      }
     },
     {
       "id": "sawara--nakamuraya",
@@ -387,7 +466,12 @@
         "image": "/art/walks/sawara/nakamuraya.webp",
         "alt": "中村屋商店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      }
     },
     {
       "id": "sawara--kobori",
@@ -420,7 +504,12 @@
         "image": "/art/walks/sawara/kobori.webp",
         "alt": "小堀屋本店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      }
     },
     {
       "id": "sawara--fukushin",
@@ -453,7 +542,12 @@
         "image": "/art/walks/sawara/fukushin.webp",
         "alt": "福新呉服店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      }
     },
     {
       "id": "sawara--inae",
@@ -486,7 +580,20 @@
         "image": "/art/walks/sawara/inae.webp",
         "alt": "いなえ的日系水彩插圖"
       },
-      "recommendation": "在老屋裡喝茶、吃一份甘味。"
+      "recommendation": "在老屋裡喝茶、吃一份甘味。",
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://sawara-inae.com/",
+          "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html",
+          "https://www.city.katori.lg.jp/sightseeing/museum/index.html"
+        ]
+      }
     },
     {
       "id": "sawara--machiya",
@@ -519,7 +626,12 @@
         "image": "/art/walks/sawara/machiya.webp",
         "alt": "さわら町屋館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      }
     },
     {
       "id": "sawara--shojou",
@@ -552,7 +664,20 @@
         "image": "/art/walks/sawara/shojou.webp",
         "alt": "いかだ焼本舗 正上的日系水彩插圖"
       },
-      "recommendation": "走進老舖挑一份佃煮，看看商家建築。"
+      "recommendation": "走進老舖挑一份佃煮，看看商家建築。",
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.katori.lg.jp/sightseeing/sawaradashikaikan/index.html",
+          "https://www.shoujyou.com/",
+          "https://sawara-machinami.com/"
+        ]
+      }
     },
     {
       "id": "sawara--dashi",
@@ -585,8 +710,163 @@
         "image": "/art/walks/sawara/dashi.webp",
         "alt": "水郷佐原山車会館的日系水彩插圖"
       },
-      "recommendation": "看看山車、雕刻與祭典文化，挑感興趣的展示細看。"
+      "recommendation": "看看山車、雕刻與祭典文化，挑感興趣的展示細看。",
+      "canonicalArea": {
+        "id": "sawara",
+        "name": "佐原小野川",
+        "href": "/walks/sawara/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.katori.lg.jp/sightseeing/sawaradashikaikan/index.html",
+          "https://www.shoujyou.com/",
+          "https://sawara-machinami.com/"
+        ]
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "sawara-slow-walk",
+      "name": "小野川與地圖的故事",
+      "ids": [
+        "sawara--inae",
+        "sawara--fukushin",
+        "sawara--kobori",
+        "sawara--nakamuraya",
+        "sawara--toyo-bridge",
+        "sawara--ino-museum"
+      ],
+      "start": {
+        "name": "佐原站",
+        "address": "千葉県香取市 佐原駅",
+        "access": "JR 成田線；從車站步行前往小野川"
+      },
+      "end": {
+        "name": "佐原站",
+        "address": "千葉県香取市 佐原駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "沿小野川看商家老街，再走進伊能忠敬的地圖故事。",
+      "note": "老商家與町屋可沿途自由停留；紀念館休館時改逛舊宅與老街。",
+      "stopNotes": {
+        "sawara--inae": "在老屋裡喝茶、吃一份甘味。",
+        "sawara--toyo-bridge": "沿橋邊與河岸看商家風景。",
+        "sawara--ino-museum": "看看地圖與測量旅行的故事。",
+        "sawara--nakamuraya": "順路可選：從一件手作小物，走近土藏裡的生活。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sawara--kobori": "順路可選：在老蕎麥店，認識一碗黑色的麵。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sawara--fukushin": "順路可選：從一條手巾，讀出商家町的紋樣。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
+      },
+      "art": "/art/walks/sawara/inae.webp",
+      "highlightIds": [
+        "sawara--inae",
+        "sawara--toyo-bridge",
+        "sawara--ino-museum"
+      ],
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://sawara-inae.com/",
+          "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html",
+          "https://www.city.katori.lg.jp/sightseeing/museum/index.html"
+        ]
+      }
     },
+    {
+      "id": "sawara-festival-and-merchants",
+      "name": "山車祭典與商家風景",
+      "ids": [
+        "sawara--dashi",
+        "sawara--shojou",
+        "sawara--machiya",
+        "sawara--nakamuraya",
+        "sawara--suppinya",
+        "sawara--mitsubishi"
+      ],
+      "start": {
+        "name": "佐原站",
+        "address": "千葉県香取市 佐原駅",
+        "access": "JR 成田線；從車站步行前往小野川"
+      },
+      "end": {
+        "name": "佐原站",
+        "address": "千葉県香取市 佐原駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "從祭典山車到佃煮老舖與紅磚洋館，讀一段佐原商家町的日常。",
+      "note": "山車會館週一休館，假日順延，另有年末年始休館；三菱館依當期開館公告安排，關閉時可看外觀。老舖以購物為主，休息留在自由探索時間。",
+      "stopNotes": {
+        "sawara--dashi": "看看山車、雕刻與祭典文化，挑感興趣的展示細看。",
+        "sawara--shojou": "走進老舖挑一份佃煮，看看商家建築。",
+        "sawara--mitsubishi": "欣賞紅磚洋館與館內開放空間，再慢走回車站。",
+        "sawara--suppinya": "順路可選：在三棟老屋之間，挑一份樸實小物。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sawara--machiya": "順路可選：走到水邊，找一段可以坐下的空白。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sawara--nakamuraya": "順路可選：從一件手作小物，走近土藏裡的生活。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
+      },
+      "art": "/art/walks/sawara/dashi.webp",
+      "highlightIds": [
+        "sawara--dashi",
+        "sawara--shojou",
+        "sawara--mitsubishi"
+      ],
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.katori.lg.jp/sightseeing/sawaradashikaikan/index.html",
+          "https://www.shoujyou.com/",
+          "https://sawara-machinami.com/"
+        ]
+      }
+    }
+  ],
+  "defaultSelection": "sawara-slow-walk",
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_a3d238488dfaff0b",
+      "p_63478ac23af841d8",
+      "p_7545204d045b397b"
+    ]
+  },
+  "scope": {
+    "id": "sawara",
+    "name": "佐原小野川",
+    "kind": "walk",
+    "scope": "小野川兩岸及香取街道的傳統商家街，連接諏訪神社與八坂神社。",
+    "includes": "伊能忠敬舊宅、樋橋、小野川商家與香取街道",
+    "excludes": "利根川的水之鄉佐原、香取神宮另列，不當作老街順路站。",
+    "basis": "香取市將小野川沿岸與香取街道明列為佐原町並的核心。",
+    "sourceUrls": [
+      "https://www.city.katori.lg.jp/sightseeing/machinami/index.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 16
+  },
+  "savedPlaceArchive": [
     {
       "id": "sawara--mizunosato",
       "order": 17,
@@ -638,117 +918,15 @@
       "extension": true,
       "sourceLibraryIds": [
         "p_e6c8fe87746530fc"
-      ]
+      ],
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sawara-riverside",
+        "name": "佐原利根川岸",
+        "href": "/walks/sawara-riverside/"
+      },
+      "savedOutsideArea": true
     }
   ],
-  "routes": [
-    {
-      "id": "sawara-slow-walk",
-      "name": "小野川與地圖的故事",
-      "ids": [
-        "sawara--inae",
-        "sawara--fukushin",
-        "sawara--kobori",
-        "sawara--nakamuraya",
-        "sawara--toyo-bridge",
-        "sawara--ino-museum"
-      ],
-      "start": {
-        "name": "佐原站",
-        "address": "千葉県香取市 佐原駅",
-        "access": "JR 成田線；從車站步行前往小野川"
-      },
-      "end": {
-        "name": "佐原站",
-        "address": "千葉県香取市 佐原駅"
-      },
-      "totalMinutes": [
-        150,
-        180
-      ],
-      "freeMinutes": [
-        30,
-        45
-      ],
-      "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-26",
-      "summary": "沿小野川看商家老街，再走進伊能忠敬的地圖故事。",
-      "note": "老商家與町屋可沿途自由停留；紀念館休館時改逛舊宅與老街。",
-      "stopNotes": {
-        "sawara--inae": "在老屋裡喝茶、吃一份甘味。",
-        "sawara--toyo-bridge": "沿橋邊與河岸看商家風景。",
-        "sawara--ino-museum": "看看地圖與測量旅行的故事。",
-        "sawara--nakamuraya": "順路可選：從一件手作小物，走近土藏裡的生活。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
-        "sawara--kobori": "順路可選：在老蕎麥店，認識一碗黑色的麵。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
-        "sawara--fukushin": "順路可選：從一條手巾，讀出商家町的紋樣。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
-      },
-      "art": "/art/walks/sawara/inae.webp",
-      "highlightIds": [
-        "sawara--inae",
-        "sawara--toyo-bridge",
-        "sawara--ino-museum"
-      ],
-      "optionalMinutes": 30
-    },
-    {
-      "id": "sawara-festival-and-merchants",
-      "name": "山車祭典與商家風景",
-      "ids": [
-        "sawara--dashi",
-        "sawara--shojou",
-        "sawara--machiya",
-        "sawara--nakamuraya",
-        "sawara--suppinya",
-        "sawara--mitsubishi"
-      ],
-      "start": {
-        "name": "佐原站",
-        "address": "千葉県香取市 佐原駅",
-        "access": "JR 成田線；從車站步行前往小野川"
-      },
-      "end": {
-        "name": "佐原站",
-        "address": "千葉県香取市 佐原駅"
-      },
-      "totalMinutes": [
-        150,
-        180
-      ],
-      "freeMinutes": [
-        30,
-        45
-      ],
-      "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-26",
-      "summary": "從祭典山車到佃煮老舖與紅磚洋館，讀一段佐原商家町的日常。",
-      "note": "山車會館週一休館，假日順延，另有年末年始休館；三菱館依當期開館公告安排，關閉時可看外觀。老舖以購物為主，休息留在自由探索時間。",
-      "stopNotes": {
-        "sawara--dashi": "看看山車、雕刻與祭典文化，挑感興趣的展示細看。",
-        "sawara--shojou": "走進老舖挑一份佃煮，看看商家建築。",
-        "sawara--mitsubishi": "欣賞紅磚洋館與館內開放空間，再慢走回車站。",
-        "sawara--suppinya": "順路可選：在三棟老屋之間，挑一份樸實小物。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
-        "sawara--machiya": "順路可選：走到水邊，找一段可以坐下的空白。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
-        "sawara--nakamuraya": "順路可選：從一件手作小物，走近土藏裡的生活。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
-      },
-      "art": "/art/walks/sawara/dashi.webp",
-      "highlightIds": [
-        "sawara--dashi",
-        "sawara--shojou",
-        "sawara--mitsubishi"
-      ],
-      "optionalMinutes": 30
-    }
-  ],
-  "defaultSelection": "sawara-slow-walk",
-  "libraryCoverage": {
-    "sourceIds": [
-      "p_63478ac23af841d8",
-      "p_7545204d045b397b",
-      "p_e6c8fe87746530fc",
-      "p_a3d238488dfaff0b"
-    ],
-    "added": 1,
-    "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+  "inheritedWalkIds": []
 }

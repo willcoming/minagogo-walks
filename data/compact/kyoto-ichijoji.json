@@ -32,7 +32,12 @@
         "image": "/art/walks/kyoto-ichijoji/enkouji.webp",
         "alt": "圓光寺的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-ichijoji",
+        "name": "一乘寺",
+        "href": "/walks/kyoto-ichijoji/"
+      }
     },
     {
       "id": "kyoto-ichijoji--hachidai",
@@ -65,7 +70,12 @@
         "image": "/art/walks/kyoto-ichijoji/hachidai.webp",
         "alt": "八大神社的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-ichijoji",
+        "name": "一乘寺",
+        "href": "/walks/kyoto-ichijoji/"
+      }
     },
     {
       "id": "kyoto-ichijoji--shisendo",
@@ -98,7 +108,20 @@
         "image": "/art/walks/kyoto-ichijoji/shisendo.webp",
         "alt": "詩仙堂丈山寺的日系水彩插圖"
       },
-      "recommendation": "選一座庭園慢慢看，坐著欣賞窗框裡的綠意。"
+      "recommendation": "選一座庭園慢慢看，坐著欣賞窗框裡的綠意。",
+      "canonicalArea": {
+        "id": "kyoto-ichijoji",
+        "name": "一乘寺",
+        "href": "/walks/kyoto-ichijoji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kyoto-shisendo.net/",
+          "https://ja.kyoto.travel/tourism/single01.php?category_id=5&tourism_id=1847",
+          "https://www.keibunsha-store.com/"
+        ]
+      }
     },
     {
       "id": "kyoto-ichijoji--konpukuji",
@@ -131,7 +154,12 @@
         "image": "/art/walks/kyoto-ichijoji/konpukuji.webp",
         "alt": "金福寺的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-ichijoji",
+        "name": "一乘寺",
+        "href": "/walks/kyoto-ichijoji/"
+      }
     },
     {
       "id": "kyoto-ichijoji--nakatani",
@@ -164,7 +192,20 @@
         "image": "/art/walks/kyoto-ichijoji/nakatani.webp",
         "alt": "一乘寺中谷的日系水彩插圖"
       },
-      "recommendation": "下坡途中停下，從和洋菓子裡挑喜歡的一份。"
+      "recommendation": "下坡途中停下，從和洋菓子裡挑喜歡的一份。",
+      "canonicalArea": {
+        "id": "kyoto-ichijoji",
+        "name": "一乘寺",
+        "href": "/walks/kyoto-ichijoji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kyoto-shisendo.net/",
+          "https://ja.kyoto.travel/tourism/single01.php?category_id=5&tourism_id=1847",
+          "https://www.keibunsha-store.com/"
+        ]
+      }
     },
     {
       "id": "kyoto-ichijoji--sagarimatsu",
@@ -197,7 +238,12 @@
         "image": "/art/walks/kyoto-ichijoji/sagarimatsu.webp",
         "alt": "一乘寺下り松的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-ichijoji",
+        "name": "一乘寺",
+        "href": "/walks/kyoto-ichijoji/"
+      }
     },
     {
       "id": "kyoto-ichijoji--pan",
@@ -230,7 +276,19 @@
         "image": "/art/walks/kyoto-ichijoji/pan.webp",
         "alt": "ぱんのちはれ的日系水彩插圖"
       },
-      "recommendation": "在車站旁挑喜歡的麵包，沿小街看看日常店鋪。"
+      "recommendation": "在車站旁挑喜歡的麵包，沿小街看看日常店鋪。",
+      "canonicalArea": {
+        "id": "kyoto-ichijoji",
+        "name": "一乘寺",
+        "href": "/walks/kyoto-ichijoji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://pannhare.stores.jp/about",
+          "https://bastetcoffee.com/"
+        ]
+      }
     },
     {
       "id": "kyoto-ichijoji--keibunsha",
@@ -263,7 +321,20 @@
         "image": "/art/walks/kyoto-ichijoji/keibunsha.webp",
         "alt": "惠文社一乘寺店的日系水彩插圖"
       },
-      "recommendation": "沿街道走回書店，留時間翻書與挑小物。"
+      "recommendation": "沿街道走回書店，留時間翻書與挑小物。",
+      "canonicalArea": {
+        "id": "kyoto-ichijoji",
+        "name": "一乘寺",
+        "href": "/walks/kyoto-ichijoji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kyoto-shisendo.net/",
+          "https://ja.kyoto.travel/tourism/single01.php?category_id=5&tourism_id=1847",
+          "https://www.keibunsha-store.com/"
+        ]
+      }
     },
     {
       "id": "kyoto-ichijoji--chinyu",
@@ -296,7 +367,12 @@
         "image": "/art/walks/kyoto-ichijoji/chinyu.webp",
         "alt": "珍遊一乘寺本店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-ichijoji",
+        "name": "一乘寺",
+        "href": "/walks/kyoto-ichijoji/"
+      }
     },
     {
       "id": "kyoto-ichijoji--bastet",
@@ -329,7 +405,19 @@
         "image": "/art/walks/kyoto-ichijoji/bastet.webp",
         "alt": "BASTET COFFEE的日系水彩插圖"
       },
-      "recommendation": "往南稍作延伸，坐下喝杯咖啡，再沿附近街道回一乘寺站。"
+      "recommendation": "往南稍作延伸，坐下喝杯咖啡，再沿附近街道回一乘寺站。",
+      "canonicalArea": {
+        "id": "kyoto-ichijoji",
+        "name": "一乘寺",
+        "href": "/walks/kyoto-ichijoji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://pannhare.stores.jp/about",
+          "https://bastetcoffee.com/"
+        ]
+      }
     }
   ],
   "routes": [
@@ -373,13 +461,21 @@
         "kyoto-ichijoji--sagarimatsu": "順路可選：路口的一棵松，留下古道的記憶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "kyoto-ichijoji--hachidai": "順路可選：在山麓的小社，讀宮本武藏的故事。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-ichijoji/keibunsha.webp",
+      "art": "/art/walks/kyoto-ichijoji/shisendo.webp",
       "highlightIds": [
         "kyoto-ichijoji--shisendo",
         "kyoto-ichijoji--nakatani",
         "kyoto-ichijoji--keibunsha"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kyoto-shisendo.net/",
+          "https://ja.kyoto.travel/tourism/single01.php?category_id=5&tourism_id=1847",
+          "https://www.keibunsha-store.com/"
+        ]
+      }
     },
     {
       "id": "kyoto-ichijoji-bakery-and-coffee",
@@ -415,19 +511,43 @@
         "kyoto-ichijoji--bastet": "往南稍作延伸，坐下喝杯咖啡，再沿附近街道回一乘寺站。",
         "kyoto-ichijoji--keibunsha": "順路可選：翻書、看器物，停在沒有清單的角落。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-ichijoji/bastet.webp",
+      "art": "/art/walks/kyoto-ichijoji/pan.webp",
       "highlightIds": [
         "kyoto-ichijoji--pan",
         "kyoto-ichijoji--bastet"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://pannhare.stores.jp/about",
+          "https://bastetcoffee.com/"
+        ]
+      }
     }
   ],
   "defaultSelection": "kyoto-ichijoji-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "kyoto-ichijoji",
+    "name": "一乘寺",
+    "kind": "walk",
+    "scope": "一乘寺站與曼殊院道周邊小店，向東經下り松至詩仙堂、八大神社、圓光寺及金福寺。",
+    "includes": "一乘寺站、書店街與東側寺社山腳",
+    "excludes": "修學院、曼殊院更東段與比叡山另區。",
+    "basis": "叡山電車沿線介紹一乘寺站與詩仙堂等寺社；本站只取一乘寺步行段。",
+    "sourceUrls": [
+      "https://eizandensha.co.jp/spot/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

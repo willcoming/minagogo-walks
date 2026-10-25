@@ -3,839 +3,8 @@
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
-      "id": "kyoto-higashiyama--p_758c064e44c195b7",
-      "name": "Pizzeria Da Naghino",
-      "address": "20-2 Shichikenchō, Higashiyama Ward, Kyoto, 605-0011",
-      "group": "food",
-      "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Pizzeria Da Naghino」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 20-2 Shichikenchō, Higashiyama Ward, Kyoto, 605-0011。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 35.0093612,
-        "lng": 135.7772114,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "肥波開吃啦",
-          "videoId": "Aq5FmVZZ6GU",
-          "title": "京都米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Kyoto 【 肥波外食記 】",
-          "url": "https://www.youtube.com/watch?v=Aq5FmVZZ6GU",
-          "time": "2:29",
-          "seconds": 149
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_758c064e44c195b7"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=1138301091029721086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 1
-    },
-    {
-      "id": "kyoto-higashiyama--p_5b9922cfea81ca7f",
-      "name": "Gion Shirakawa Namisato",
-      "address": "78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Gion Shirakawa Namisato」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 35.0052035,
-        "lng": 135.7735253,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "MqjDjnqt9IQ",
-          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
-          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ",
-          "time": "0:00",
-          "seconds": 0
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_5b9922cfea81ca7f"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=381058408919907964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 2
-    },
-    {
-      "id": "kyoto-higashiyama--p_cca86fe0bdd22b1d",
-      "name": "茶寮都路里 祇園本店",
-      "address": "573-3 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「茶寮都路里 祇園本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 573-3 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 35.003665,
-        "lng": 135.774477,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "waHzhracBMk",
-          "title": "【東京站7選咖啡館】可飲用的法式吐司、京都祗園的抹茶、百家名店的水果等等！",
-          "url": "https://www.youtube.com/watch?v=waHzhracBMk"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_cca86fe0bdd22b1d"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=7677863780453147220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 3
-    },
-    {
-      "id": "kyoto-higashiyama--p_9f37c326a0bd41ac",
-      "name": "Miffy's Oyatsu-do by Miffy's Kitchen Gion",
-      "address": "572-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Miffy's Oyatsu-do by Miffy's Kitchen Gion」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 572-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 35.0036558,
-        "lng": 135.7748428,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "EeOiJqCkkXo",
-          "title": "Day trips from Tokyo | Ghibli-Like Seaside Town 'Kamakura' | JAPAN TRAVEL VLOG 2025",
-          "url": "https://www.youtube.com/watch?v=EeOiJqCkkXo"
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "H37BTHmfYXc",
-          "title": "HOW TO SPEND 3DAYS IN TOKYO, JAPAN｜Japan Ultimate Guide 2025",
-          "url": "https://www.youtube.com/watch?v=H37BTHmfYXc"
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "cd9plh515Yw",
-          "title": "WHAT TO DO IN TOKYO FOR 3 DAYS🗼 | Japan Ultimate Guide 2025",
-          "url": "https://www.youtube.com/watch?v=cd9plh515Yw"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_9f37c326a0bd41ac"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=1247454680128271484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 4
-    },
-    {
-      "id": "kyoto-higashiyama--p_12b04da60b2b1515",
-      "name": "祇園 北川半兵衛",
-      "address": "570-188 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「祇園 北川半兵衛」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 570-188 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.002736,
-        "lng": 135.77648499999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "6-t-19xIZOA",
-          "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
-          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "ROf3HBnMTt8",
-          "title": "THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide",
-          "url": "https://www.youtube.com/watch?v=ROf3HBnMTt8"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_12b04da60b2b1515"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=18390743546623491044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 5
-    },
-    {
-      "id": "kyoto-higashiyama--p_8b836e89080ccd20",
-      "name": "八坂神社本殿",
-      "address": "625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073",
-      "group": "sights",
-      "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「八坂神社本殿」出現在Hina Life in Japan、Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.0036559,
-        "lng": 135.7785534,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "6-t-19xIZOA",
-          "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
-          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
-        },
-        {
-          "channel": "Unique Japan Travel",
-          "videoId": "BTE6Pf10lB4",
-          "title": "京都影片部落格 | 景點和受歡迎的食物 | 探索只園、清水寺 | 日本旅遊 | ASMR",
-          "url": "https://www.youtube.com/watch?v=BTE6Pf10lB4",
-          "time": "3:32",
-          "seconds": 212
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_8b836e89080ccd20"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=14374021738854095593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 6
-    },
-    {
-      "id": "kyoto-higashiyama--entokuin",
-      "order": 7,
-      "name": "圓德院",
-      "address": "京都府京都市東山区高台寺下河原町530",
-      "group": "sights",
-      "categoryLabel": "庭園與茶文化",
-      "caption": "在石組與屋內之間，看見另一種庭園。",
-      "descriptionParagraphs": [
-        "圓德院與北政所ねね晚年生活相連，庭園和室內空間以較細緻的尺度展開。石組、白砂與綠意，讓東山散步多一種坐下觀看的方式。",
-        "可以與鄰近高台寺組合，也可以只選這裡留出安靜時間。若想體驗茶文化，再將活動與一般庭園參觀分開安排。"
-      ],
-      "description": "圓德院與北政所ねね晚年生活相連，庭園和室內空間以較細緻的尺度展開。石組、白砂與綠意，讓東山散步多一種坐下觀看的方式。\n\n可以與鄰近高台寺組合，也可以只選這裡留出安靜時間。若想體驗茶文化，再將活動與一般庭園參觀分開安排。",
-      "note": "2026年10月29日14–16時及12月11、12日有拝觀休止安排。",
-      "official": "https://www.kodaiji.com/entoku-in/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.0007565615,
-        "lng": 135.7795295846,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/way/371728884",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/entokuin.webp",
-        "alt": "圓德院，依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "kyoto-higashiyama--kodaiji",
-      "order": 8,
-      "name": "高台寺",
-      "address": "京都府京都市東山区高台寺下河原町526",
-      "group": "sights",
-      "categoryLabel": "庭園與秀吉歷史",
-      "caption": "從石階走進庭園，讀一段ねね的故事。",
-      "descriptionParagraphs": [
-        "高台寺由北政所ねね為追悼豐臣秀吉而創建，堂宇、茶室與庭園留下桃山文化的線索。從市街進入寺域後，池水、竹林與回廊逐漸改變散步的節奏。",
-        "適合另留較完整的參觀時間，再沿ねね之道回到街區。若同時想看圓德院，可先決定主題與體力，避免把兩座庭園排得太趕。"
-      ],
-      "description": "高台寺由北政所ねね為追悼豐臣秀吉而創建，堂宇、茶室與庭園留下桃山文化的線索。從市街進入寺域後，池水、竹林與回廊逐漸改變散步的節奏。\n\n適合另留較完整的參觀時間，再沿ねね之道回到街區。若同時想看圓德院，可先決定主題與體力，避免把兩座庭園排得太趕。",
-      "note": "部分堂宇遇法務不開放；夜間拝觀限指定期間。",
-      "official": "https://www.kodaiji.com/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.0003866038,
-        "lng": 135.7810505115,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/way/759391880",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/kodaiji.webp",
-        "alt": "高台寺，依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "kyoto-higashiyama--starbucks",
-      "order": 9,
-      "name": "Starbucks 京都二寧坂ヤサカ茶屋店",
-      "address": "京都府京都市東山区高台寺南門通下河原東入桝屋町349",
-      "group": "food",
-      "categoryLabel": "町家咖啡",
-      "caption": "在二寧坂的町家裡，留一杯咖啡的時間。",
-      "descriptionParagraphs": [
-        "京都二寧坂ヤサカ茶屋店把咖啡服務放進町家空間，街側外觀與周邊木造屋簷相接。對想在坡道中途坐下的人來說，這裡是一種熟悉又帶地方尺度的休息方式。",
-        "可在二寧坂與高台寺之間安排，坐下後再決定後半段走向寺院或選物店。室內座位有限，適合把等候時間納入自己的步調。"
-      ],
-      "description": "京都二寧坂ヤサカ茶屋店把咖啡服務放進町家空間，街側外觀與周邊木造屋簷相接。對想在坡道中途坐下的人來說，這裡是一種熟悉又帶地方尺度的休息方式。\n\n可在二寧坂與高台寺之間安排，坐下後再決定後半段走向寺院或選物店。室內座位有限，適合把等候時間納入自己的步調。",
-      "note": "",
-      "official": "https://store.starbucks.co.jp/detail-1476/",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "_64n7qi0tX0",
-          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
-          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
-          "time": "09:53",
-          "seconds": 593
-        },
-        {
-          "channel": "老辣妹",
-          "videoId": "lxjgJ6YeSFE",
-          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE"
-        },
-        {
-          "channel": "老辣妹",
-          "videoId": "lxjgJ6YeSFE",
-          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
-          "time": "6:28",
-          "seconds": 388
-        }
-      ],
-      "coordinate": {
-        "lat": 34.9982841,
-        "lng": 135.7808052,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/node/10844279757",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/starbucks.webp",
-        "alt": "Starbucks 京都二寧坂ヤサカ茶屋店，依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": "在二寧坂的町家裡喝杯咖啡。",
-      "sourceLibraryIds": [
-        "p_d183ccb6427b5ad9",
-        "p_f5376bbc07bc2d0c"
-      ]
-    },
-    {
-      "id": "kyoto-higashiyama--ninenzaka",
-      "order": 10,
-      "name": "二寧坂（二年坂）",
-      "address": "京都府京都市東山区桝屋町・高台寺南門通周邊",
-      "group": "sights",
-      "categoryLabel": "石階老街",
-      "caption": "沿著石階，把町家屋簷慢慢連起來。",
-      "descriptionParagraphs": [
-        "二寧坂連接高台寺方向與產寧坂，石階、木格窗與商店讓步行本身就是風景。和菓子、咖啡與小物店分布兩側，適合邊走邊決定停留。",
-        "這裡是生活與觀光共用的街道，選購後再往下一段移動會更從容。若遇人潮，可以把注意力放在屋簷、窗框與轉角，仍能讀到細節。"
-      ],
-      "description": "二寧坂連接高台寺方向與產寧坂，石階、木格窗與商店讓步行本身就是風景。和菓子、咖啡與小物店分布兩側，適合邊走邊決定停留。\n\n這裡是生活與觀光共用的街道，選購後再往下一段移動會更從容。若遇人潮，可以把注意力放在屋簷、窗框與轉角，仍能讀到細節。",
-      "note": "石階較多，推車與行李箱不易通行。",
-      "official": "https://plus.kyoto.travel/entry/higashiyamaeki",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 34.99810274,
-        "lng": 135.78083878,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/way/30882783",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/ninenzaka.webp",
-        "alt": "二寧坂（二年坂），依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "kyoto-higashiyama--k36",
-      "order": 11,
-      "name": "K36 The Bar ＆ Rooftop",
-      "address": "京都府京都市東山区清水2丁目204-2 ザ・ホテル青龍 京都清水4階",
-      "group": "food",
-      "categoryLabel": "屋頂景觀餐飲",
-      "caption": "從屋頂，再看一次東山的屋簷。",
-      "descriptionParagraphs": [
-        "K36位在由舊校舍轉為旅館的青龍京都清水內，包含室內酒吧與屋頂餐飲空間。從較高的位置看八坂之塔與城市，能為坡道散步換一個視角。",
-        "適合另外預留下午或傍晚的停留，與寺院的參觀時段分開安排。屋頂是否開放受天候影響，也有年齡、服裝與用餐規則。"
-      ],
-      "description": "K36位在由舊校舍轉為旅館的青龍京都清水內，包含室內酒吧與屋頂餐飲空間。從較高的位置看八坂之塔與城市，能為坡道散步換一個視角。\n\n適合另外預留下午或傍晚的停留，與寺院的參觀時段分開安排。屋頂是否開放受天候影響，也有年齡、服裝與用餐規則。",
-      "note": "室內酒吧限20歲以上；屋頂依時段有未成年人規則，並採服裝規範，雨天可能關閉。",
-      "official": "https://stillfoods.com/k36/",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "_64n7qi0tX0",
-          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
-          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
-          "time": "15:13",
-          "seconds": 913
-        }
-      ],
-      "coordinate": {
-        "lat": 34.9976432,
-        "lng": 135.7795867,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/node/12729911261",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/k36.webp",
-        "alt": "K36 The Bar ＆ Rooftop，依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_bf5385b78fc5342c"
-      ]
-    },
-    {
-      "id": "kyoto-higashiyama--nittodo",
-      "order": 12,
-      "name": "日東堂",
-      "address": "京都府京都市東山区八坂上町385-4",
-      "group": "shops",
-      "categoryLabel": "日本生活道具",
-      "caption": "在塔旁小店，找一件好用的日常。",
-      "descriptionParagraphs": [
-        "日東堂由町家風木造建築改修，選售兼顧設計與機能的日本生活道具。從傳統工藝到新技術，選物的重點放在物件如何進入日常使用。",
-        "一樓也有咖啡站，二樓提供旅人休息交流的空間。適合在八坂之塔附近逛完後進來，讓看風景與看道具接在一起。"
-      ],
-      "description": "日東堂由町家風木造建築改修，選售兼顧設計與機能的日本生活道具。從傳統工藝到新技術，選物的重點放在物件如何進入日常使用。\n\n一樓也有咖啡站，二樓提供旅人休息交流的空間。適合在八坂之塔附近逛完後進來，讓看風景與看道具接在一起。",
-      "note": "",
-      "official": "https://nittodo.jp/",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "lxjgJ6YeSFE",
-          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
-          "time": "4:41",
-          "seconds": 281
-        }
-      ],
-      "coordinate": {
-        "lat": 34.9983581,
-        "lng": 135.7792193,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/node/14104469641",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/nittodo.webp",
-        "alt": "日東堂，依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": "沿坡道往八坂之塔附近，逛生活道具或喝杯咖啡，再走回清水道站。",
-      "sourceLibraryIds": [
-        "p_d5d7dc3fba4b3ad1"
-      ]
-    },
-    {
-      "id": "kyoto-higashiyama--hokanji",
-      "order": 13,
-      "name": "法觀寺・八坂之塔",
-      "address": "京都府京都市東山区八坂上町388",
-      "group": "sights",
-      "categoryLabel": "五重塔與街景",
-      "caption": "沿屋簷回望，找到塔的不同角度。",
-      "descriptionParagraphs": [
-        "法觀寺的五重塔以八坂之塔之名，成為東山街景的重要輪廓。現存塔在室町時代重建，層層屋簷與周邊低矮町家形成清楚的對比。",
-        "可以沿公共街道從不同角度看塔，並與日東堂、庚申堂接成一小段。若希望入內參觀，應將不定期公開的安排和外部街景散步分開。"
-      ],
-      "description": "法觀寺的五重塔以八坂之塔之名，成為東山街景的重要輪廓。現存塔在室町時代重建，層層屋簷與周邊低矮町家形成清楚的對比。\n\n可以沿公共街道從不同角度看塔，並與日東堂、庚申堂接成一小段。若希望入內參觀，應將不定期公開的安排和外部街景散步分開。",
-      "note": "內部拝觀不定期；小學生以下無法入內。",
-      "official": "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 34.9985260875,
-        "lng": 135.779396025,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/way/371717423",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/hokanji.webp",
-        "alt": "法觀寺・八坂之塔，依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": "欣賞塔的外觀與周圍街景。"
-    },
-    {
-      "id": "kyoto-higashiyama--koshindo",
-      "order": 14,
-      "name": "八坂庚申堂（金剛寺）",
-      "address": "京都府京都市東山区金園町390",
-      "group": "sights",
-      "categoryLabel": "庚申信仰",
-      "caption": "在小寺院裡，看見彩色布猿的祈願。",
-      "descriptionParagraphs": [
-        "八坂庚申堂與庚申信仰相連，境內懸掛的彩色くくり猿，把祈願化成一串串布製形象。小小寺院就在八坂之塔附近，從街道轉入後有不同的觀看尺度。",
-        "先安靜參拜，再留意布猿與堂宇的細節。境內空間較小，適合短暫停留後接回街巷，不必把它當成拍照場景久佔動線。"
-      ],
-      "description": "八坂庚申堂與庚申信仰相連，境內懸掛的彩色くくり猿，把祈願化成一串串布製形象。小小寺院就在八坂之塔附近，從街道轉入後有不同的觀看尺度。\n\n先安靜參拜，再留意布猿與堂宇的細節。境內空間較小，適合短暫停留後接回街巷，不必把它當成拍照場景久佔動線。",
-      "note": "",
-      "official": "https://yasakakousinndou.sakura.ne.jp/main3.html",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "lxjgJ6YeSFE",
-          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
-          "time": "6:28",
-          "seconds": 388
-        }
-      ],
-      "coordinate": {
-        "lat": 34.9983718462,
-        "lng": 135.7787656231,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/way/1316622873",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/koshindo.webp",
-        "alt": "八坂庚申堂（金剛寺），依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_db831c718e82d24c"
-      ]
-    },
-    {
-      "id": "kyoto-higashiyama--yojiya",
-      "order": 15,
-      "name": "よーじや 清水店",
-      "address": "京都府京都市東山区清水2丁目211-1",
-      "group": "shops",
-      "categoryLabel": "京都美妝老舖",
-      "caption": "把旅途中的小用品，選成一份京都伴手禮。",
-      "descriptionParagraphs": [
-        "よーじや以吸油面紙等日常美妝用品，成為京都熟悉的老舖名字。清水店位在參道一帶，適合與和菓子、器物形成不同方向的伴手禮選擇。",
-        "這裡是用品販售店，可在參拜後順路進店。若喜歡小巧、容易攜帶的禮物，可以先看看用途再選購，不必一次買齊整套。"
-      ],
-      "description": "よーじや以吸油面紙等日常美妝用品，成為京都熟悉的老舖名字。清水店位在參道一帶，適合與和菓子、器物形成不同方向的伴手禮選擇。\n\n這裡是用品販售店，可在參拜後順路進店。若喜歡小巧、容易攜帶的禮物，可以先看看用途再選購，不必一次買齊整套。",
-      "note": "",
-      "official": "https://www.yojiya.co.jp/archives/shop/195",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "lxjgJ6YeSFE",
-          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
-          "time": "0:35",
-          "seconds": 35
-        }
-      ],
-      "coordinate": {
-        "lat": 34.996288,
-        "lng": 135.77977,
-        "provider": "gsi",
-        "label": "國土地理院 門牌代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B8%85%E6%B0%B42%E4%B8%81%E7%9B%AE211-1",
-        "license": "政府標準利用規約 第2.0版",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/yojiya.webp",
-        "alt": "よーじや 清水店，依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_fb8e3429e2ea31e8"
-      ]
-    },
-    {
-      "id": "kyoto-higashiyama--shichimi",
-      "order": 16,
-      "name": "七味家本舖 清水本店",
-      "address": "京都府京都市東山区清水2丁目221",
-      "group": "shops",
-      "categoryLabel": "七味藥味老舖",
-      "caption": "在清水坂轉角，挑一份香氣的土產。",
-      "descriptionParagraphs": [
-        "七味家本舖從江戶時代延續藥味生意，店舖位在清水坂與產寧坂交會處。七味唐辛子與各式調味品，讓這個轉角除了風景，也有可以帶回家的日常滋味。",
-        "適合在離開清水寺後順路進店，看看不同用途的藥味。之後沿產寧坂下行，還能接上和菓子、器物與小店。"
-      ],
-      "description": "七味家本舖從江戶時代延續藥味生意，店舖位在清水坂與產寧坂交會處。七味唐辛子與各式調味品，讓這個轉角除了風景，也有可以帶回家的日常滋味。\n\n適合在離開清水寺後順路進店，看看不同用途的藥味。之後沿產寧坂下行，還能接上和菓子、器物與小店。",
-      "note": "",
-      "official": "https://www.shichimiya.co.jp/store",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "lxjgJ6YeSFE",
-          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
-          "time": "1:25",
-          "seconds": 85
-        }
-      ],
-      "coordinate": {
-        "lat": 34.9962415,
-        "lng": 135.7807649,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/node/4268229114",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/shichimi.webp",
-        "alt": "七味家本舖 清水本店，依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": "走到清水坂與產寧坂交會處，看看老舖香料與小包裝。",
-      "sourceLibraryIds": [
-        "p_c945b21c2fc425d9"
-      ]
-    },
-    {
-      "id": "kyoto-higashiyama--sannenzaka",
-      "order": 17,
-      "name": "產寧坂（三年坂）",
-      "address": "京都府京都市東山区清水2丁目・3丁目周邊",
-      "group": "sights",
-      "categoryLabel": "坡道與老舖",
-      "caption": "在轉彎的坡道上，逛一段清水門前街。",
-      "descriptionParagraphs": [
-        "產寧坂把清水坂與二寧坂相接，階梯和轉折讓街屋呈現不同角度。藥味老舖、和菓子與器物店，讓風景與採買自然交錯。",
-        "可以從清水寺向下走，沿途挑幾家真正感興趣的店。這段街道有坡度，若想拍照或停下看商品，先走到不影響通行的位置。"
-      ],
-      "description": "產寧坂把清水坂與二寧坂相接，階梯和轉折讓街屋呈現不同角度。藥味老舖、和菓子與器物店，讓風景與採買自然交錯。\n\n可以從清水寺向下走，沿途挑幾家真正感興趣的店。這段街道有坡度，若想拍照或停下看商品，先走到不影響通行的位置。",
-      "note": "街道包含石階與坡道。",
-      "official": "https://plus.kyoto.travel/entry/higashiyamaeki",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 34.9963458,
-        "lng": 135.7808793,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/way/179116810",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/sannenzaka.webp",
-        "alt": "產寧坂（三年坂），依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "kyoto-higashiyama--itosousou",
-      "order": 18,
-      "name": "伊藤軒／SOU・SOU 清水店",
-      "address": "京都府京都市東山区清水3丁目315",
-      "group": "food",
-      "categoryLabel": "和菓子與設計",
-      "caption": "讓數字圖案，接上清水坂的和菓子。",
-      "descriptionParagraphs": [
-        "伊藤軒與SOU・SOU合作，把京都和菓子與鮮明的紋樣設計放在同一間店。串和菓子、烤點心與包裝商品，使傳統食材有了輕快的表情。",
-        "店舖位在產寧坂一帶，適合選一份甜點或伴手禮再繼續走。這裡以外帶為主，若想坐下喝咖啡，可以另留附近喫茶的時間。"
-      ],
-      "description": "伊藤軒與SOU・SOU合作，把京都和菓子與鮮明的紋樣設計放在同一間店。串和菓子、烤點心與包裝商品，使傳統食材有了輕快的表情。\n\n店舖位在產寧坂一帶，適合選一份甜點或伴手禮再繼續走。這裡以外帶為主，若想坐下喝咖啡，可以另留附近喫茶的時間。",
-      "note": "店內沒有一般內用座位。",
-      "official": "https://www.sousou.co.jp/pages/itoken_open",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "lxjgJ6YeSFE",
-          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
-          "time": "2:27",
-          "seconds": 147
-        }
-      ],
-      "coordinate": {
-        "lat": 34.996742,
-        "lng": 135.780838,
-        "provider": "gsi",
-        "label": "國土地理院 門牌代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B8%85%E6%B0%B43%E4%B8%81%E7%9B%AE315",
-        "license": "政府標準利用規約 第2.0版",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/itosousou.webp",
-        "alt": "伊藤軒／SOU・SOU 清水店，依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_af39c3a444b63ce4"
-      ]
-    },
-    {
-      "id": "kyoto-higashiyama--p_84bb23435dfac0af",
-      "name": "GOKAGO",
-      "address": "2-chōme-258 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「GOKAGO」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-258 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 34.9956509,
-        "lng": 135.7818524,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "ROf3HBnMTt8",
-          "title": "THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide",
-          "url": "https://www.youtube.com/watch?v=ROf3HBnMTt8"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_84bb23435dfac0af"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=9995371556413413334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 19
-    },
-    {
-      "id": "kyoto-higashiyama--asahido",
-      "order": 20,
-      "name": "京清水燒 朝日堂 本店",
-      "address": "京都府京都市東山区清水1丁目280",
-      "group": "shops",
-      "categoryLabel": "京燒・清水燒",
-      "caption": "在清水寺參道，看看器物的光澤與手感。",
-      "descriptionParagraphs": [
-        "朝日堂在清水寺參道經營京燒、清水燒等工藝器物，從茶器、餐具到作家作品，讓地方陶藝與生活使用連在一起。不同釉色與成形方式，適合近距離比較。",
-        "可以在參拜之後放慢速度選物，再往二三年坂下行。即使只想認識清水燒，也能從杯、碗與茶器的細節開始看。"
-      ],
-      "description": "朝日堂在清水寺參道經營京燒、清水燒等工藝器物，從茶器、餐具到作家作品，讓地方陶藝與生活使用連在一起。不同釉色與成形方式，適合近距離比較。\n\n可以在參拜之後放慢速度選物，再往二三年坂下行。即使只想認識清水燒，也能從杯、碗與茶器的細節開始看。",
-      "note": "",
-      "official": "https://www.asahido.co.jp/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 34.9954090833,
-        "lng": 135.7824790667,
-        "provider": "osm",
-        "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/way/337601335",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/asahido.webp",
-        "alt": "京清水燒 朝日堂 本店，依真實照片繪製的日系水彩插圖"
-      },
-      "recommendation": "先到朝日堂看清水燒，從日常杯盤挑幾件細看筆觸。"
-    },
-    {
       "id": "kyoto-higashiyama--kiyomizu",
-      "order": 21,
+      "order": 1,
       "name": "音羽山 清水寺",
       "address": "京都府京都市東山区清水1丁目294",
       "group": "sights",
@@ -909,64 +78,169 @@
       "sourceLibraryIds": [
         "p_0c36a13560948419",
         "p_7add765ff0fc5d05"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kiyomizudera.or.jp/",
+          "https://store.starbucks.co.jp/detail-1476/",
+          "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248"
+        ]
+      }
     },
     {
-      "id": "kyoto-higashiyama--p_5db5f810e1ac2ea0",
-      "name": "京都四季酒店",
-      "address": "445-3 Myōhōin Maekawachō, Higashiyama Ward, Kyoto, 605-0932",
-      "group": "sights",
-      "categoryLabel": "住宿",
+      "id": "kyoto-higashiyama--asahido",
+      "order": 2,
+      "name": "京清水燒 朝日堂 本店",
+      "address": "京都府京都市東山区清水1丁目280",
+      "group": "shops",
+      "categoryLabel": "京燒・清水燒",
+      "caption": "在清水寺參道，看看器物的光澤與手感。",
+      "descriptionParagraphs": [
+        "朝日堂在清水寺參道經營京燒、清水燒等工藝器物，從茶器、餐具到作家作品，讓地方陶藝與生活使用連在一起。不同釉色與成形方式，適合近距離比較。",
+        "可以在參拜之後放慢速度選物，再往二三年坂下行。即使只想認識清水燒，也能從杯、碗與茶器的細節開始看。"
+      ],
+      "description": "朝日堂在清水寺參道經營京燒、清水燒等工藝器物，從茶器、餐具到作家作品，讓地方陶藝與生活使用連在一起。不同釉色與成形方式，適合近距離比較。\n\n可以在參拜之後放慢速度選物，再往二三年坂下行。即使只想認識清水燒，也能從杯、碗與茶器的細節開始看。",
+      "note": "",
+      "official": "https://www.asahido.co.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.9954090833,
+        "lng": 135.7824790667,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/337601335",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/asahido.webp",
+        "alt": "京清水燒 朝日堂 本店，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "先到朝日堂看清水燒，從日常杯盤挑幾件細看筆觸。",
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.asahido.co.jp/",
+          "https://www.shichimiya.co.jp/store",
+          "https://nittodo.jp/"
+        ]
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_84bb23435dfac0af",
+      "name": "GOKAGO",
+      "address": "2-chōme-258 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862",
+      "group": "food",
+      "categoryLabel": "咖啡",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「京都四季酒店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 445-3 Myōhōin Maekawachō, Higashiyama Ward, Kyoto, 605-0932。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「GOKAGO」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-258 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "note": "",
       "coordinate": {
-        "lat": 34.9912637,
-        "lng": 135.77558159999998,
+        "lat": 34.9956509,
+        "lng": 135.7818524,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
           "channel": "Hina Life in Japan",
-          "videoId": "_64n7qi0tX0",
-          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
-          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
-          "time": "10:59",
-          "seconds": 659
+          "videoId": "ROf3HBnMTt8",
+          "title": "THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=ROf3HBnMTt8"
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_5db5f810e1ac2ea0"
+          "p_84bb23435dfac0af"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=11450488829936344557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=9995371556413413334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 22
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_84bb23435dfac0af.webp",
+        "alt": "GOKAGO的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      },
+      "recommendation": null
     },
     {
-      "id": "kyoto-higashiyama--yasui",
-      "order": 23,
-      "name": "安井金比羅宮",
-      "address": "京都府京都市東山区下弁天町70",
+      "id": "kyoto-higashiyama--sannenzaka",
+      "order": 4,
+      "name": "產寧坂（三年坂）",
+      "address": "京都府京都市東山区清水2丁目・3丁目周邊",
       "group": "sights",
-      "categoryLabel": "縁切與結緣信仰",
-      "caption": "從老街繞一段路，走進結緣的祈願。",
+      "categoryLabel": "坡道與老舖",
+      "caption": "在轉彎的坡道上，逛一段清水門前街。",
       "descriptionParagraphs": [
-        "安井金比羅宮以斷除惡緣、締結良緣的信仰受到參拜者親近。境內的縁切り縁結び碑覆滿形代，呈現不同於東山大寺院的日常祈願。",
-        "可以從八坂之塔向西延伸，把它安排在回祇園方向的途中。參拜與穿越碑石的儀式，依神社現場指引進行。"
+        "產寧坂把清水坂與二寧坂相接，階梯和轉折讓街屋呈現不同角度。藥味老舖、和菓子與器物店，讓風景與採買自然交錯。",
+        "可以從清水寺向下走，沿途挑幾家真正感興趣的店。這段街道有坡度，若想拍照或停下看商品，先走到不影響通行的位置。"
       ],
-      "description": "安井金比羅宮以斷除惡緣、締結良緣的信仰受到參拜者親近。境內的縁切り縁結び碑覆滿形代，呈現不同於東山大寺院的日常祈願。\n\n可以從八坂之塔向西延伸，把它安排在回祇園方向的途中。參拜與穿越碑石的儀式，依神社現場指引進行。",
+      "description": "產寧坂把清水坂與二寧坂相接，階梯和轉折讓街屋呈現不同角度。藥味老舖、和菓子與器物店，讓風景與採買自然交錯。\n\n可以從清水寺向下走，沿途挑幾家真正感興趣的店。這段街道有坡度，若想拍照或停下看商品，先走到不影響通行的位置。",
+      "note": "街道包含石階與坡道。",
+      "official": "https://plus.kyoto.travel/entry/higashiyamaeki",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.9963458,
+        "lng": 135.7808793,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/179116810",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/sannenzaka.webp",
+        "alt": "產寧坂（三年坂），依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--shichimi",
+      "order": 5,
+      "name": "七味家本舖 清水本店",
+      "address": "京都府京都市東山区清水2丁目221",
+      "group": "shops",
+      "categoryLabel": "七味藥味老舖",
+      "caption": "在清水坂轉角，挑一份香氣的土產。",
+      "descriptionParagraphs": [
+        "七味家本舖從江戶時代延續藥味生意，店舖位在清水坂與產寧坂交會處。七味唐辛子與各式調味品，讓這個轉角除了風景，也有可以帶回家的日常滋味。",
+        "適合在離開清水寺後順路進店，看看不同用途的藥味。之後沿產寧坂下行，還能接上和菓子、器物與小店。"
+      ],
+      "description": "七味家本舖從江戶時代延續藥味生意，店舖位在清水坂與產寧坂交會處。七味唐辛子與各式調味品，讓這個轉角除了風景，也有可以帶回家的日常滋味。\n\n適合在離開清水寺後順路進店，看看不同用途的藥味。之後沿產寧坂下行，還能接上和菓子、器物與小店。",
       "note": "",
-      "official": "http://www.yasui-konpiragu.or.jp/",
+      "official": "https://www.shichimiya.co.jp/store",
       "verifiedAt": "2026-10-24",
       "sources": [
         {
@@ -974,185 +248,532 @@
           "videoId": "lxjgJ6YeSFE",
           "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
           "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
-          "time": "6:52",
-          "seconds": 412
+          "time": "1:25",
+          "seconds": 85
         }
       ],
       "coordinate": {
-        "lat": 34.9998857937,
-        "lng": 135.7761619625,
+        "lat": 34.9962415,
+        "lng": 135.7807649,
         "provider": "osm",
         "label": "OpenStreetMap 設施代表點",
-        "url": "https://www.openstreetmap.org/way/1554873121",
+        "url": "https://www.openstreetmap.org/node/4268229114",
         "license": "ODbL 1.0",
         "licenseUrl": "https://www.openstreetmap.org/copyright",
         "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
       },
       "illustration": {
-        "image": "/art/walks/kyoto-higashiyama/yasui.webp",
-        "alt": "安井金比羅宮，依真實照片繪製的日系水彩插圖"
+        "image": "/art/walks/kyoto-higashiyama/shichimi.webp",
+        "alt": "七味家本舖 清水本店，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "走到清水坂與產寧坂交會處，看看老舖香料與小包裝。",
+      "sourceLibraryIds": [
+        "p_c945b21c2fc425d9"
+      ],
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.asahido.co.jp/",
+          "https://www.shichimiya.co.jp/store",
+          "https://nittodo.jp/"
+        ]
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--itosousou",
+      "order": 6,
+      "name": "伊藤軒／SOU・SOU 清水店",
+      "address": "京都府京都市東山区清水3丁目315",
+      "group": "food",
+      "categoryLabel": "和菓子與設計",
+      "caption": "讓數字圖案，接上清水坂的和菓子。",
+      "descriptionParagraphs": [
+        "伊藤軒與SOU・SOU合作，把京都和菓子與鮮明的紋樣設計放在同一間店。串和菓子、烤點心與包裝商品，使傳統食材有了輕快的表情。",
+        "店舖位在產寧坂一帶，適合選一份甜點或伴手禮再繼續走。這裡以外帶為主，若想坐下喝咖啡，可以另留附近喫茶的時間。"
+      ],
+      "description": "伊藤軒與SOU・SOU合作，把京都和菓子與鮮明的紋樣設計放在同一間店。串和菓子、烤點心與包裝商品，使傳統食材有了輕快的表情。\n\n店舖位在產寧坂一帶，適合選一份甜點或伴手禮再繼續走。這裡以外帶為主，若想坐下喝咖啡，可以另留附近喫茶的時間。",
+      "note": "店內沒有一般內用座位。",
+      "official": "https://www.sousou.co.jp/pages/itoken_open",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "2:27",
+          "seconds": 147
+        }
+      ],
+      "coordinate": {
+        "lat": 34.996742,
+        "lng": 135.780838,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B8%85%E6%B0%B43%E4%B8%81%E7%9B%AE315",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/itosousou.webp",
+        "alt": "伊藤軒／SOU・SOU 清水店，依真實照片繪製的日系水彩插圖"
       },
       "recommendation": null,
       "sourceLibraryIds": [
-        "p_6e16399f63f9ff18"
-      ]
+        "p_af39c3a444b63ce4"
+      ],
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      }
     },
     {
-      "id": "kyoto-higashiyama--p_987f648f151229d0",
-      "name": "西来院",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "id": "kyoto-higashiyama--yojiya",
+      "order": 7,
+      "name": "よーじや 清水店",
+      "address": "京都府京都市東山区清水2丁目211-1",
+      "group": "shops",
+      "categoryLabel": "京都美妝老舖",
+      "caption": "把旅途中的小用品，選成一份京都伴手禮。",
       "descriptionParagraphs": [
-        "「西来院」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "よーじや以吸油面紙等日常美妝用品，成為京都熟悉的老舖名字。清水店位在參道一帶，適合與和菓子、器物形成不同方向的伴手禮選擇。",
+        "這裡是用品販售店，可在參拜後順路進店。若喜歡小巧、容易攜帶的禮物，可以先看看用途再選購，不必一次買齊整套。"
       ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.000497,
-        "lng": 135.7749239,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
+      "description": "よーじや以吸油面紙等日常美妝用品，成為京都熟悉的老舖名字。清水店位在參道一帶，適合與和菓子、器物形成不同方向的伴手禮選擇。\n\n這裡是用品販售店，可在參拜後順路進店。若喜歡小巧、容易攜帶的禮物，可以先看看用途再選購，不必一次買齊整套。",
+      "note": "",
+      "official": "https://www.yojiya.co.jp/archives/shop/195",
+      "verifiedAt": "2026-10-24",
       "sources": [
         {
           "channel": "老辣妹",
-          "videoId": "DYmnbZ8oaws",
-          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
-          "time": "5:29",
-          "seconds": 329
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "0:35",
+          "seconds": 35
         }
       ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_987f648f151229d0"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/%E8%A5%BF%E4%BE%86%E9%99%A2/@35.0001282,135.7745295,18.17z/data=!4m6!3m5!1s0x600108c6b6cc58d7:0xaa3f8ee6357b16de!8m2!3d35.000497!4d135.7749239!16s%2Fg%2F11h1br3tx?entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
-      },
-      "order": 24
-    },
-    {
-      "id": "kyoto-higashiyama--p_c26bee4052bedb00",
-      "name": "両足院",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「両足院」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": null,
       "coordinate": {
-        "lat": 35.0001364,
-        "lng": 135.7744446,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 34.996288,
+        "lng": 135.77977,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B8%85%E6%B0%B42%E4%B8%81%E7%9B%AE211-1",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
       },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "DYmnbZ8oaws",
-          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
-          "time": "3:29",
-          "seconds": 209
-        }
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/yojiya.webp",
+        "alt": "よーじや 清水店，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_fb8e3429e2ea31e8"
       ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_c26bee4052bedb00"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/%E5%85%A9%E8%B6%B3%E9%99%A2/@35.0001364,135.7744446,17z/data=!3m1!4b1!4m6!3m5!1s0x600108c6c7d187a1:0x9e9fd08bc5cf874a!8m2!3d35.0001364!4d135.7744446!16s%2Fg%2F11tck15sw9?q=%E5%85%A9%E8%B6%B3%E9%99%A2591+Komatsucho,+Higashiyama+Ward,+Kyoto,+605-0811%E6%97%A5%E6%9C%AC&ftid=0x600108c6c7d187a1:0x9e9fd08bc5cf874a&lucs=,94246480,94224825,94227247,94227248,47071704,47069508,94218641,94228354,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
-      },
-      "order": 25
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      }
     },
     {
-      "id": "kyoto-higashiyama--p_777a851faf84d814",
-      "name": "建仁寺",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "id": "kyoto-higashiyama--k36",
+      "order": 8,
+      "name": "K36 The Bar ＆ Rooftop",
+      "address": "京都府京都市東山区清水2丁目204-2 ザ・ホテル青龍 京都清水4階",
+      "group": "food",
+      "categoryLabel": "屋頂景觀餐飲",
+      "caption": "從屋頂，再看一次東山的屋簷。",
       "descriptionParagraphs": [
-        "「建仁寺」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "K36位在由舊校舍轉為旅館的青龍京都清水內，包含室內酒吧與屋頂餐飲空間。從較高的位置看八坂之塔與城市，能為坡道散步換一個視角。",
+        "適合另外預留下午或傍晚的停留，與寺院的參觀時段分開安排。屋頂是否開放受天候影響，也有年齡、服裝與用餐規則。"
       ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.0000363,
-        "lng": 135.7735632,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "DYmnbZ8oaws",
-          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
-          "time": "0:36",
-          "seconds": 36
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_777a851faf84d814"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/%E5%BB%BA%E4%BB%81%E5%AF%BA/@35.0000363,135.7735632,17z/data=!3m1!4b1!4m6!3m5!1s0x600108c1242b7b27:0x7e608f1986c5bb52!8m2!3d35.0000363!4d135.7735632!16s%2Fm%2F027phyz?q=%E5%BB%BA%E4%BB%81%E5%AF%BA%EF%BC%95%EF%BC%98%EF%BC%94%E7%95%AA%E5%9C%B0+Komatsucho,+Higashiyama+Ward,+Kyoto,+605-0811%E6%97%A5%E6%9C%AC&ftid=0x600108c1242b7b27:0x7e608f1986c5bb52&lucs=,94246480,94224825,94227247,94227248,47071704,47069508,94218641,94228354,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
-      },
-      "order": 26
-    },
-    {
-      "id": "kyoto-higashiyama--p_7cdfa7c4643b4aea",
-      "name": "Sueyoshicho, Higashiyama Ward, Kyoto",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Sueyoshicho, Higashiyama Ward, Kyoto」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
-      "coordinate": null,
+      "description": "K36位在由舊校舍轉為旅館的青龍京都清水內，包含室內酒吧與屋頂餐飲空間。從較高的位置看八坂之塔與城市，能為坡道散步換一個視角。\n\n適合另外預留下午或傍晚的停留，與寺院的參觀時段分開安排。屋頂是否開放受天候影響，也有年齡、服裝與用餐規則。",
+      "note": "室內酒吧限20歲以上；屋頂依時段有未成年人規則，並採服裝規範，雨天可能關閉。",
+      "official": "https://stillfoods.com/k36/",
+      "verifiedAt": "2026-10-24",
       "sources": [
         {
           "channel": "Hina Life in Japan",
-          "videoId": "MqjDjnqt9IQ",
-          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
-          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ"
+          "videoId": "_64n7qi0tX0",
+          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
+          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
+          "time": "15:13",
+          "seconds": 913
         }
       ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_7cdfa7c4643b4aea"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sueyoshicho%2C+Higashiyama+Ward%2C+Kyoto+ULTIMATE+JAPANESE+FOOD+TOUR+IN+KYOTO+JAPAN+TRAVEL+GUIDE+2023"
+      "coordinate": {
+        "lat": 34.9976432,
+        "lng": 135.7795867,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/12729911261",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
       },
-      "order": 27
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/k36.webp",
+        "alt": "K36 The Bar ＆ Rooftop，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_bf5385b78fc5342c"
+      ],
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--nittodo",
+      "order": 9,
+      "name": "日東堂",
+      "address": "京都府京都市東山区八坂上町385-4",
+      "group": "shops",
+      "categoryLabel": "日本生活道具",
+      "caption": "在塔旁小店，找一件好用的日常。",
+      "descriptionParagraphs": [
+        "日東堂由町家風木造建築改修，選售兼顧設計與機能的日本生活道具。從傳統工藝到新技術，選物的重點放在物件如何進入日常使用。",
+        "一樓也有咖啡站，二樓提供旅人休息交流的空間。適合在八坂之塔附近逛完後進來，讓看風景與看道具接在一起。"
+      ],
+      "description": "日東堂由町家風木造建築改修，選售兼顧設計與機能的日本生活道具。從傳統工藝到新技術，選物的重點放在物件如何進入日常使用。\n\n一樓也有咖啡站，二樓提供旅人休息交流的空間。適合在八坂之塔附近逛完後進來，讓看風景與看道具接在一起。",
+      "note": "",
+      "official": "https://nittodo.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "4:41",
+          "seconds": 281
+        }
+      ],
+      "coordinate": {
+        "lat": 34.9983581,
+        "lng": 135.7792193,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/14104469641",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/nittodo.webp",
+        "alt": "日東堂，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "沿坡道往八坂之塔附近，逛生活道具或喝杯咖啡，再走回清水道站。",
+      "sourceLibraryIds": [
+        "p_d5d7dc3fba4b3ad1"
+      ],
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.asahido.co.jp/",
+          "https://www.shichimiya.co.jp/store",
+          "https://nittodo.jp/"
+        ]
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--hokanji",
+      "order": 10,
+      "name": "法觀寺・八坂之塔",
+      "address": "京都府京都市東山区八坂上町388",
+      "group": "sights",
+      "categoryLabel": "五重塔與街景",
+      "caption": "沿屋簷回望，找到塔的不同角度。",
+      "descriptionParagraphs": [
+        "法觀寺的五重塔以八坂之塔之名，成為東山街景的重要輪廓。現存塔在室町時代重建，層層屋簷與周邊低矮町家形成清楚的對比。",
+        "可以沿公共街道從不同角度看塔，並與日東堂、庚申堂接成一小段。若希望入內參觀，應將不定期公開的安排和外部街景散步分開。"
+      ],
+      "description": "法觀寺的五重塔以八坂之塔之名，成為東山街景的重要輪廓。現存塔在室町時代重建，層層屋簷與周邊低矮町家形成清楚的對比。\n\n可以沿公共街道從不同角度看塔，並與日東堂、庚申堂接成一小段。若希望入內參觀，應將不定期公開的安排和外部街景散步分開。",
+      "note": "內部拝觀不定期；小學生以下無法入內。",
+      "official": "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.9985260875,
+        "lng": 135.779396025,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/371717423",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/hokanji.webp",
+        "alt": "法觀寺・八坂之塔，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "欣賞塔的外觀與周圍街景。",
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kiyomizudera.or.jp/",
+          "https://store.starbucks.co.jp/detail-1476/",
+          "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248"
+        ]
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--koshindo",
+      "order": 11,
+      "name": "八坂庚申堂（金剛寺）",
+      "address": "京都府京都市東山区金園町390",
+      "group": "sights",
+      "categoryLabel": "庚申信仰",
+      "caption": "在小寺院裡，看見彩色布猿的祈願。",
+      "descriptionParagraphs": [
+        "八坂庚申堂與庚申信仰相連，境內懸掛的彩色くくり猿，把祈願化成一串串布製形象。小小寺院就在八坂之塔附近，從街道轉入後有不同的觀看尺度。",
+        "先安靜參拜，再留意布猿與堂宇的細節。境內空間較小，適合短暫停留後接回街巷，不必把它當成拍照場景久佔動線。"
+      ],
+      "description": "八坂庚申堂與庚申信仰相連，境內懸掛的彩色くくり猿，把祈願化成一串串布製形象。小小寺院就在八坂之塔附近，從街道轉入後有不同的觀看尺度。\n\n先安靜參拜，再留意布猿與堂宇的細節。境內空間較小，適合短暫停留後接回街巷，不必把它當成拍照場景久佔動線。",
+      "note": "",
+      "official": "https://yasakakousinndou.sakura.ne.jp/main3.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "6:28",
+          "seconds": 388
+        }
+      ],
+      "coordinate": {
+        "lat": 34.9983718462,
+        "lng": 135.7787656231,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/1316622873",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/koshindo.webp",
+        "alt": "八坂庚申堂（金剛寺），依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_db831c718e82d24c"
+      ],
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--starbucks",
+      "order": 12,
+      "name": "Starbucks 京都二寧坂ヤサカ茶屋店",
+      "address": "京都府京都市東山区高台寺南門通下河原東入桝屋町349",
+      "group": "food",
+      "categoryLabel": "町家咖啡",
+      "caption": "在二寧坂的町家裡，留一杯咖啡的時間。",
+      "descriptionParagraphs": [
+        "京都二寧坂ヤサカ茶屋店把咖啡服務放進町家空間，街側外觀與周邊木造屋簷相接。對想在坡道中途坐下的人來說，這裡是一種熟悉又帶地方尺度的休息方式。",
+        "可在二寧坂與高台寺之間安排，坐下後再決定後半段走向寺院或選物店。室內座位有限，適合把等候時間納入自己的步調。"
+      ],
+      "description": "京都二寧坂ヤサカ茶屋店把咖啡服務放進町家空間，街側外觀與周邊木造屋簷相接。對想在坡道中途坐下的人來說，這裡是一種熟悉又帶地方尺度的休息方式。\n\n可在二寧坂與高台寺之間安排，坐下後再決定後半段走向寺院或選物店。室內座位有限，適合把等候時間納入自己的步調。",
+      "note": "",
+      "official": "https://store.starbucks.co.jp/detail-1476/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "_64n7qi0tX0",
+          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
+          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
+          "time": "09:53",
+          "seconds": 593
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE"
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "6:28",
+          "seconds": 388
+        }
+      ],
+      "coordinate": {
+        "lat": 34.9982841,
+        "lng": 135.7808052,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/10844279757",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/starbucks.webp",
+        "alt": "Starbucks 京都二寧坂ヤサカ茶屋店，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "在二寧坂的町家裡喝杯咖啡。",
+      "sourceLibraryIds": [
+        "p_d183ccb6427b5ad9",
+        "p_f5376bbc07bc2d0c"
+      ],
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kiyomizudera.or.jp/",
+          "https://store.starbucks.co.jp/detail-1476/",
+          "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248"
+        ]
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--ninenzaka",
+      "order": 13,
+      "name": "二寧坂（二年坂）",
+      "address": "京都府京都市東山区桝屋町・高台寺南門通周邊",
+      "group": "sights",
+      "categoryLabel": "石階老街",
+      "caption": "沿著石階，把町家屋簷慢慢連起來。",
+      "descriptionParagraphs": [
+        "二寧坂連接高台寺方向與產寧坂，石階、木格窗與商店讓步行本身就是風景。和菓子、咖啡與小物店分布兩側，適合邊走邊決定停留。",
+        "這裡是生活與觀光共用的街道，選購後再往下一段移動會更從容。若遇人潮，可以把注意力放在屋簷、窗框與轉角，仍能讀到細節。"
+      ],
+      "description": "二寧坂連接高台寺方向與產寧坂，石階、木格窗與商店讓步行本身就是風景。和菓子、咖啡與小物店分布兩側，適合邊走邊決定停留。\n\n這裡是生活與觀光共用的街道，選購後再往下一段移動會更從容。若遇人潮，可以把注意力放在屋簷、窗框與轉角，仍能讀到細節。",
+      "note": "石階較多，推車與行李箱不易通行。",
+      "official": "https://plus.kyoto.travel/entry/higashiyamaeki",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.99810274,
+        "lng": 135.78083878,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/30882783",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/ninenzaka.webp",
+        "alt": "二寧坂（二年坂），依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--kodaiji",
+      "order": 14,
+      "name": "高台寺",
+      "address": "京都府京都市東山区高台寺下河原町526",
+      "group": "sights",
+      "categoryLabel": "庭園與秀吉歷史",
+      "caption": "從石階走進庭園，讀一段ねね的故事。",
+      "descriptionParagraphs": [
+        "高台寺由北政所ねね為追悼豐臣秀吉而創建，堂宇、茶室與庭園留下桃山文化的線索。從市街進入寺域後，池水、竹林與回廊逐漸改變散步的節奏。",
+        "適合另留較完整的參觀時間，再沿ねね之道回到街區。若同時想看圓德院，可先決定主題與體力，避免把兩座庭園排得太趕。"
+      ],
+      "description": "高台寺由北政所ねね為追悼豐臣秀吉而創建，堂宇、茶室與庭園留下桃山文化的線索。從市街進入寺域後，池水、竹林與回廊逐漸改變散步的節奏。\n\n適合另留較完整的參觀時間，再沿ねね之道回到街區。若同時想看圓德院，可先決定主題與體力，避免把兩座庭園排得太趕。",
+      "note": "部分堂宇遇法務不開放；夜間拝觀限指定期間。",
+      "official": "https://www.kodaiji.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0003866038,
+        "lng": 135.7810505115,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/759391880",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/kodaiji.webp",
+        "alt": "高台寺，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--entokuin",
+      "order": 15,
+      "name": "圓德院",
+      "address": "京都府京都市東山区高台寺下河原町530",
+      "group": "sights",
+      "categoryLabel": "庭園與茶文化",
+      "caption": "在石組與屋內之間，看見另一種庭園。",
+      "descriptionParagraphs": [
+        "圓德院與北政所ねね晚年生活相連，庭園和室內空間以較細緻的尺度展開。石組、白砂與綠意，讓東山散步多一種坐下觀看的方式。",
+        "可以與鄰近高台寺組合，也可以只選這裡留出安靜時間。若想體驗茶文化，再將活動與一般庭園參觀分開安排。"
+      ],
+      "description": "圓德院與北政所ねね晚年生活相連，庭園和室內空間以較細緻的尺度展開。石組、白砂與綠意，讓東山散步多一種坐下觀看的方式。\n\n可以與鄰近高台寺組合，也可以只選這裡留出安靜時間。若想體驗茶文化，再將活動與一般庭園參觀分開安排。",
+      "note": "2026年10月29日14–16時及12月11、12日有拝觀休止安排。",
+      "official": "https://www.kodaiji.com/entoku-in/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0007565615,
+        "lng": 135.7795295846,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/371728884",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/entokuin.webp",
+        "alt": "圓德院，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-higashiyama",
+        "name": "京都清水・高台寺",
+        "href": "/walks/kyoto-higashiyama/"
+      }
     }
   ],
   "routes": [
@@ -1202,7 +823,15 @@
         "kyoto-higashiyama--starbucks",
         "kyoto-higashiyama--hokanji"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kiyomizudera.or.jp/",
+          "https://store.starbucks.co.jp/detail-1476/",
+          "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248"
+        ]
+      }
     },
     {
       "id": "kyoto-higashiyama-ceramics-and-everyday-craft",
@@ -1250,38 +879,708 @@
         "kyoto-higashiyama--shichimi",
         "kyoto-higashiyama--nittodo"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.asahido.co.jp/",
+          "https://www.shichimiya.co.jp/store",
+          "https://nittodo.jp/"
+        ]
+      }
     }
   ],
   "defaultSelection": "kyoto-higashiyama-slow-walk",
   "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_c945b21c2fc425d9",
-      "p_d5d7dc3fba4b3ad1",
-      "p_af39c3a444b63ce4",
-      "p_6e16399f63f9ff18",
-      "p_db831c718e82d24c",
-      "p_d183ccb6427b5ad9",
-      "p_f5376bbc07bc2d0c",
       "p_0c36a13560948419",
       "p_7add765ff0fc5d05",
-      "p_bf5385b78fc5342c",
-      "p_fb8e3429e2ea31e8",
-      "p_8b836e89080ccd20",
-      "p_c26bee4052bedb00",
-      "p_987f648f151229d0",
-      "p_5db5f810e1ac2ea0",
-      "p_777a851faf84d814",
-      "p_12b04da60b2b1515",
-      "p_cca86fe0bdd22b1d",
-      "p_5b9922cfea81ca7f",
       "p_84bb23435dfac0af",
-      "p_9f37c326a0bd41ac",
-      "p_758c064e44c195b7",
-      "p_7cdfa7c4643b4aea"
+      "p_c945b21c2fc425d9",
+      "p_af39c3a444b63ce4",
+      "p_fb8e3429e2ea31e8",
+      "p_bf5385b78fc5342c",
+      "p_d5d7dc3fba4b3ad1",
+      "p_db831c718e82d24c",
+      "p_d183ccb6427b5ad9",
+      "p_f5376bbc07bc2d0c"
+    ]
+  },
+  "scope": {
+    "id": "kyoto-higashiyama",
+    "name": "京都清水・高台寺",
+    "kind": "walk",
+    "scope": "五條坂、清水坂、產寧坂與二寧坂，北至高台寺、圓德院與下河原。",
+    "includes": "清水一至三丁目、八坂之塔、二寧坂、產寧坂與高台寺",
+    "excludes": "祇園白川、四條花見小路與建仁寺另區；七條三十三間堂一帶另列。",
+    "basis": "京都官方將祇園與清水分成兩個子區；原「東山」名稱涵蓋面過大。",
+    "sourceUrls": [
+      "https://ja.kyoto.travel/area/area06.php"
     ],
-    "added": 12,
-    "unlocated": 1,
-    "checkedAt": "2026-10-26"
-  }
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 15
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "kyoto-higashiyama--p_758c064e44c195b7",
+      "name": "Pizzeria Da Naghino",
+      "address": "20-2 Shichikenchō, Higashiyama Ward, Kyoto, 605-0011",
+      "group": "food",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Pizzeria Da Naghino」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 20-2 Shichikenchō, Higashiyama Ward, Kyoto, 605-0011。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.0093612,
+        "lng": 135.7772114,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "Aq5FmVZZ6GU",
+          "title": "京都米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Kyoto 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=Aq5FmVZZ6GU",
+          "time": "2:29",
+          "seconds": 149
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_758c064e44c195b7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=1138301091029721086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_758c064e44c195b7.webp",
+        "alt": "Pizzeria Da Naghino的日系水彩插圖"
+      },
+      "order": 1,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-okazaki",
+        "name": "京都岡崎・南禪寺",
+        "href": "/walks/kyoto-okazaki/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--p_5b9922cfea81ca7f",
+      "name": "Gion Shirakawa Namisato",
+      "address": "78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Gion Shirakawa Namisato」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.0052035,
+        "lng": 135.7735253,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ",
+          "time": "0:00",
+          "seconds": 0
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5b9922cfea81ca7f",
+          "p_7cdfa7c4643b4aea"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=381058408919907964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_5b9922cfea81ca7f.webp",
+        "alt": "Gion Shirakawa Namisato的日系水彩插圖"
+      },
+      "order": 2,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--p_cca86fe0bdd22b1d",
+      "name": "茶寮都路里 祇園本店",
+      "address": "573-3 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「茶寮都路里 祇園本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 573-3 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.003665,
+        "lng": 135.774477,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "waHzhracBMk",
+          "title": "【東京站7選咖啡館】可飲用的法式吐司、京都祗園的抹茶、百家名店的水果等等！",
+          "url": "https://www.youtube.com/watch?v=waHzhracBMk"
+        }
+      ],
+      "official": "https://giontsujiri.co.jp/store/saryotsujiri-honten/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cca86fe0bdd22b1d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=7677863780453147220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_cca86fe0bdd22b1d.webp",
+        "alt": "茶寮都路里 祇園本店的日系水彩插圖"
+      },
+      "order": 3,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--p_9f37c326a0bd41ac",
+      "name": "Miffy's Oyatsu-do by Miffy's Kitchen Gion",
+      "address": "572-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Miffy's Oyatsu-do by Miffy's Kitchen Gion」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 572-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.0036558,
+        "lng": 135.7748428,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "EeOiJqCkkXo",
+          "title": "Day trips from Tokyo | Ghibli-Like Seaside Town 'Kamakura' | JAPAN TRAVEL VLOG 2025",
+          "url": "https://www.youtube.com/watch?v=EeOiJqCkkXo"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "H37BTHmfYXc",
+          "title": "HOW TO SPEND 3DAYS IN TOKYO, JAPAN｜Japan Ultimate Guide 2025",
+          "url": "https://www.youtube.com/watch?v=H37BTHmfYXc"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "cd9plh515Yw",
+          "title": "WHAT TO DO IN TOKYO FOR 3 DAYS🗼 | Japan Ultimate Guide 2025",
+          "url": "https://www.youtube.com/watch?v=cd9plh515Yw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9f37c326a0bd41ac"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=1247454680128271484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_9f37c326a0bd41ac.webp",
+        "alt": "Miffy's Oyatsu-do by Miffy's Kitchen Gion的日系水彩插圖"
+      },
+      "order": 4,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--p_12b04da60b2b1515",
+      "name": "祇園 北川半兵衛",
+      "address": "570-188 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「祇園 北川半兵衛」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 570-188 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.002736,
+        "lng": 135.77648499999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6-t-19xIZOA",
+          "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
+          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "ROf3HBnMTt8",
+          "title": "THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=ROf3HBnMTt8"
+        }
+      ],
+      "official": "https://gion-kitagwahanbee.com/en",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_12b04da60b2b1515"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=18390743546623491044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_12b04da60b2b1515.webp",
+        "alt": "祇園 北川半兵衛的日系水彩插圖"
+      },
+      "order": 5,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--p_8b836e89080ccd20",
+      "name": "八坂神社本殿",
+      "address": "625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「八坂神社本殿」出現在Hina Life in Japan、Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.0036559,
+        "lng": 135.7785534,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6-t-19xIZOA",
+          "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
+          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
+        },
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "BTE6Pf10lB4",
+          "title": "京都影片部落格 | 景點和受歡迎的食物 | 探索只園、清水寺 | 日本旅遊 | ASMR",
+          "url": "https://www.youtube.com/watch?v=BTE6Pf10lB4",
+          "time": "3:32",
+          "seconds": 212
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8b836e89080ccd20"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14374021738854095593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_8b836e89080ccd20.webp",
+        "alt": "八坂神社本殿的日系水彩插圖"
+      },
+      "order": 6,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--p_5db5f810e1ac2ea0",
+      "name": "京都四季酒店",
+      "address": "445-3 Myōhōin Maekawachō, Higashiyama Ward, Kyoto, 605-0932",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「京都四季酒店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 445-3 Myōhōin Maekawachō, Higashiyama Ward, Kyoto, 605-0932。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 34.9912637,
+        "lng": 135.77558159999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "_64n7qi0tX0",
+          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
+          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
+          "time": "10:59",
+          "seconds": 659
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5db5f810e1ac2ea0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=11450488829936344557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_5db5f810e1ac2ea0.webp",
+        "alt": "京都四季酒店的日系水彩插圖"
+      },
+      "order": 22,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-shichijo",
+        "name": "京都七條・妙法院",
+        "href": "/walks/kyoto-shichijo/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--yasui",
+      "order": 23,
+      "name": "安井金比羅宮",
+      "address": "京都府京都市東山区下弁天町70",
+      "group": "sights",
+      "categoryLabel": "縁切與結緣信仰",
+      "caption": "從老街繞一段路，走進結緣的祈願。",
+      "descriptionParagraphs": [
+        "安井金比羅宮以斷除惡緣、締結良緣的信仰受到參拜者親近。境內的縁切り縁結び碑覆滿形代，呈現不同於東山大寺院的日常祈願。",
+        "可以從八坂之塔向西延伸，把它安排在回祇園方向的途中。參拜與穿越碑石的儀式，依神社現場指引進行。"
+      ],
+      "description": "安井金比羅宮以斷除惡緣、締結良緣的信仰受到參拜者親近。境內的縁切り縁結び碑覆滿形代，呈現不同於東山大寺院的日常祈願。\n\n可以從八坂之塔向西延伸，把它安排在回祇園方向的途中。參拜與穿越碑石的儀式，依神社現場指引進行。",
+      "note": "",
+      "official": "http://www.yasui-konpiragu.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "6:52",
+          "seconds": 412
+        }
+      ],
+      "coordinate": {
+        "lat": 34.9998857937,
+        "lng": 135.7761619625,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/1554873121",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-higashiyama/yasui.webp",
+        "alt": "安井金比羅宮，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_6e16399f63f9ff18"
+      ],
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--p_987f648f151229d0",
+      "name": "西来院",
+      "address": "京都府京都市東山区小松町590",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「西来院」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 京都府京都市東山区小松町590。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.000497,
+        "lng": 135.7749239,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "DYmnbZ8oaws",
+          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
+          "time": "5:29",
+          "seconds": 329
+        }
+      ],
+      "official": "https://seiraiin.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_987f648f151229d0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E8%A5%BF%E4%BE%86%E9%99%A2/@35.0001282,135.7745295,18.17z/data=!4m6!3m5!1s0x600108c6b6cc58d7:0xaa3f8ee6357b16de!8m2!3d35.000497!4d135.7749239!16s%2Fg%2F11h1br3tx?entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_987f648f151229d0.webp",
+        "alt": "西来院的日系水彩插圖"
+      },
+      "order": 24,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--p_c26bee4052bedb00",
+      "name": "両足院",
+      "address": "京都府京都市東山区小松町591",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「両足院」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 京都府京都市東山区小松町591。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "庭園參觀、坐禪等活動的開放日期與預約方式不同，請先查閱官方公告。",
+      "coordinate": {
+        "lat": 35.0001364,
+        "lng": 135.7744446,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "DYmnbZ8oaws",
+          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
+          "time": "3:29",
+          "seconds": 209
+        }
+      ],
+      "official": "https://ryosokuin.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c26bee4052bedb00"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%85%A9%E8%B6%B3%E9%99%A2/@35.0001364,135.7744446,17z/data=!3m1!4b1!4m6!3m5!1s0x600108c6c7d187a1:0x9e9fd08bc5cf874a!8m2!3d35.0001364!4d135.7744446!16s%2Fg%2F11tck15sw9?q=%E5%85%A9%E8%B6%B3%E9%99%A2591+Komatsucho,+Higashiyama+Ward,+Kyoto,+605-0811%E6%97%A5%E6%9C%AC&ftid=0x600108c6c7d187a1:0x9e9fd08bc5cf874a&lucs=,94246480,94224825,94227247,94227248,47071704,47069508,94218641,94228354,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_c26bee4052bedb00.webp",
+        "alt": "両足院的日系水彩插圖"
+      },
+      "order": 25,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--p_777a851faf84d814",
+      "name": "建仁寺",
+      "address": "京都府京都市東山区小松町584",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「建仁寺」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 京都府京都市東山区小松町584。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.0000363,
+        "lng": 135.7735632,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "DYmnbZ8oaws",
+          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
+          "time": "0:36",
+          "seconds": 36
+        }
+      ],
+      "official": "https://www.kenninji.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_777a851faf84d814"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%BB%BA%E4%BB%81%E5%AF%BA/@35.0000363,135.7735632,17z/data=!3m1!4b1!4m6!3m5!1s0x600108c1242b7b27:0x7e608f1986c5bb52!8m2!3d35.0000363!4d135.7735632!16s%2Fm%2F027phyz?q=%E5%BB%BA%E4%BB%81%E5%AF%BA%EF%BC%95%EF%BC%98%EF%BC%94%E7%95%AA%E5%9C%B0+Komatsucho,+Higashiyama+Ward,+Kyoto,+605-0811%E6%97%A5%E6%9C%AC&ftid=0x600108c1242b7b27:0x7e608f1986c5bb52&lucs=,94246480,94224825,94227247,94227248,47071704,47069508,94218641,94228354,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_777a851faf84d814.webp",
+        "alt": "建仁寺的日系水彩插圖"
+      },
+      "order": 26,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kyoto-higashiyama--p_7cdfa7c4643b4aea",
+      "name": "Gion Shirakawa Namisato",
+      "address": "78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Gion Shirakawa Namisato」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片 MqjDjnqt9IQ 說明欄的 Sueyoshicho, Higashiyama Ward, Kyoto 是 Gion Shirakawa Namisato 下方的地址行，非獨立景點；合併回店家並保留來源。",
+      "coordinate": {
+        "lat": 35.0052035,
+        "lng": 135.7735253,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ",
+          "time": "0:00",
+          "seconds": 0
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5b9922cfea81ca7f",
+          "p_7cdfa7c4643b4aea"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=381058408919907964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_5b9922cfea81ca7f.webp",
+        "alt": "Gion Shirakawa Namisato的日系水彩插圖"
+      },
+      "order": 2,
+      "recommendation": null,
+      "canonicalPlaceId": "kyoto-higashiyama--p_5b9922cfea81ca7f",
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "savedOutsideArea": true
+    }
+  ],
+  "inheritedWalkIds": []
 }

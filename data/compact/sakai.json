@@ -32,7 +32,20 @@
         "image": "/art/walks/sakai/seigakuin.webp",
         "alt": "清學院的日系水彩插圖"
       },
-      "recommendation": "看看寺子屋相關展示，從小尺度的建築認識地方教育。"
+      "recommendation": "看看寺子屋相關展示，從小尺度的建築認識地方教育。",
+      "canonicalArea": {
+        "id": "sakai",
+        "name": "堺環濠北部",
+        "href": "/walks/sakai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.sakai-tcb.or.jp/spot/detail/409",
+          "https://www.sakai-tcb.or.jp/spot/detail/157",
+          "https://www.sakai-tcb.or.jp/spot/detail/146"
+        ]
+      }
     },
     {
       "id": "sakai--teppo",
@@ -65,7 +78,20 @@
         "image": "/art/walks/sakai/teppo.webp",
         "alt": "鐵炮鍛冶屋敷的日系水彩插圖"
       },
-      "recommendation": "在老屋裡認識堺的鍛冶與分工。"
+      "recommendation": "在老屋裡認識堺的鍛冶與分工。",
+      "canonicalArea": {
+        "id": "sakai",
+        "name": "堺環濠北部",
+        "href": "/walks/sakai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.sakai-tcb.or.jp/spot/detail/27",
+          "https://tsuboichi.co.jp/store/sakai",
+          "https://www.sakai-tcb.or.jp/spot/detail/407"
+        ]
+      }
     },
     {
       "id": "sakai--mizuno",
@@ -98,7 +124,12 @@
         "image": "/art/walks/sakai/mizuno.webp",
         "alt": "水野鍛鍊所的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sakai",
+        "name": "堺環濠北部",
+        "href": "/walks/sakai/"
+      }
     },
     {
       "id": "sakai--yamaguchi",
@@ -131,7 +162,20 @@
         "image": "/art/walks/sakai/yamaguchi.webp",
         "alt": "山口家住宅的日系水彩插圖"
       },
-      "recommendation": "留意寬闊土間與木梁，把這裡作主要町家停留。"
+      "recommendation": "留意寬闊土間與木梁，把這裡作主要町家停留。",
+      "canonicalArea": {
+        "id": "sakai",
+        "name": "堺環濠北部",
+        "href": "/walks/sakai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.sakai-tcb.or.jp/spot/detail/409",
+          "https://www.sakai-tcb.or.jp/spot/detail/157",
+          "https://www.sakai-tcb.or.jp/spot/detail/146"
+        ]
+      }
     },
     {
       "id": "sakai--tsuboichi",
@@ -164,7 +208,20 @@
         "image": "/art/walks/sakai/tsuboichi.webp",
         "alt": "茶寮つぼ市製茶本舖 堺本館的日系水彩插圖"
       },
-      "recommendation": "坐進町家茶寮，喝茶休息。"
+      "recommendation": "坐進町家茶寮，喝茶休息。",
+      "canonicalArea": {
+        "id": "sakai",
+        "name": "堺環濠北部",
+        "href": "/walks/sakai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.sakai-tcb.or.jp/spot/detail/27",
+          "https://tsuboichi.co.jp/store/sakai",
+          "https://www.sakai-tcb.or.jp/spot/detail/407"
+        ]
+      }
     },
     {
       "id": "sakai--kakuoji",
@@ -197,7 +254,12 @@
         "image": "/art/walks/sakai/kakuoji.webp",
         "alt": "覺應寺的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sakai",
+        "name": "堺環濠北部",
+        "href": "/walks/sakai/"
+      }
     },
     {
       "id": "sakai--honganji",
@@ -230,7 +292,20 @@
         "image": "/art/walks/sakai/honganji.webp",
         "alt": "本願寺堺別院的日系水彩插圖"
       },
-      "recommendation": "在寺院周邊慢看木造建築，再往花田口站方向收尾。"
+      "recommendation": "在寺院周邊慢看木造建築，再往花田口站方向收尾。",
+      "canonicalArea": {
+        "id": "sakai",
+        "name": "堺環濠北部",
+        "href": "/walks/sakai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.sakai-tcb.or.jp/spot/detail/409",
+          "https://www.sakai-tcb.or.jp/spot/detail/157",
+          "https://www.sakai-tcb.or.jp/spot/detail/146"
+        ]
+      }
     },
     {
       "id": "sakai--myokokuji",
@@ -263,7 +338,12 @@
         "image": "/art/walks/sakai/myokokuji.webp",
         "alt": "妙國寺的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sakai",
+        "name": "堺環濠北部",
+        "href": "/walks/sakai/"
+      }
     },
     {
       "id": "sakai--denshokan",
@@ -296,7 +376,20 @@
         "image": "/art/walks/sakai/denshokan.webp",
         "alt": "堺傳匠館的日系水彩插圖"
       },
-      "recommendation": "從器物與展示，看看堺的工藝。"
+      "recommendation": "從器物與展示，看看堺的工藝。",
+      "canonicalArea": {
+        "id": "sakai",
+        "name": "堺環濠北部",
+        "href": "/walks/sakai/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.sakai-tcb.or.jp/spot/detail/27",
+          "https://tsuboichi.co.jp/store/sakai",
+          "https://www.sakai-tcb.or.jp/spot/detail/407"
+        ]
+      }
     },
     {
       "id": "sakai--zabiel",
@@ -329,7 +422,12 @@
         "image": "/art/walks/sakai/zabiel.webp",
         "alt": "札比耶公園的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sakai",
+        "name": "堺環濠北部",
+        "href": "/walks/sakai/"
+      }
     }
   ],
   "routes": [
@@ -373,13 +471,21 @@
         "sakai--yamaguchi": "順路可選：從土間與木梁，想像町家的日常。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "sakai--seigakuin": "順路可選：小小寺院，留著寺子屋的記憶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/sakai/tsuboichi.webp",
+      "art": "/art/walks/sakai/teppo.webp",
       "highlightIds": [
         "sakai--teppo",
         "sakai--tsuboichi",
         "sakai--denshokan"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.sakai-tcb.or.jp/spot/detail/27",
+          "https://tsuboichi.co.jp/store/sakai",
+          "https://www.sakai-tcb.or.jp/spot/detail/407"
+        ]
+      }
     },
     {
       "id": "sakai-school-and-townhouses",
@@ -427,14 +533,39 @@
         "sakai--yamaguchi",
         "sakai--honganji"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.sakai-tcb.or.jp/spot/detail/409",
+          "https://www.sakai-tcb.or.jp/spot/detail/157",
+          "https://www.sakai-tcb.or.jp/spot/detail/146"
+        ]
+      }
     }
   ],
   "defaultSelection": "sakai-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "sakai",
+    "name": "堺環濠北部",
+    "kind": "walk",
+    "scope": "七道站南側的北旅籠町，沿阪堺線與町家街到妙國寺、堺傳匠館及札比耶公園。",
+    "includes": "北旅籠町、錦之町、九間町、神明町與材木町",
+    "excludes": "百舌鳥古墳群、堺東及環濠南段另區。",
+    "basis": "堺觀光資料以環濠歷史串連町家與工藝；本站只收目前相連的北段。",
+    "sourceUrls": [
+      "https://www.sakai-tcb.or.jp/feature/detail/81"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

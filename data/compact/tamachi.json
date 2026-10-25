@@ -1,0 +1,92 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "nihonbashi--p_8d0c9cba3b47febd",
+      "name": "PASTAVOLA 田町本店",
+      "address": "東京都港区芝4-16-1 カテリーナ三田ウエスト1F",
+      "group": "food",
+      "categoryLabel": "義大利麵",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹田町本店，以生義大利麵與吧檯座位為特色；店址靠近田町與三田站。",
+        "原始資料記錄的地址為 東京都港区芝4-16-1 カテリーナ三田ウエスト1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片連結明確指向田町本店，先前誤配為日本橋分店；已依官方店鋪表修正並獨立收錄。",
+      "coordinate": {
+        "lat": 35.648289,
+        "lng": 139.750854,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D4-16-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院僅回傳芝四丁目代表點，非店門口；精確位置請依店家官方地圖確認。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "wSVSWPyal2U",
+          "title": "【田町/濱松町最佳5午餐】連續3年獲得米其林一星的日本料理和Ayers Rock這樣的草莓餐廳！",
+          "url": "https://www.youtube.com/watch?v=wSVSWPyal2U"
+        }
+      ],
+      "official": "https://pastavola.com/restaurant/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8d0c9cba3b47febd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_8d0c9cba3b47febd.webp",
+        "alt": "PASTAVOLA 田町本店的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "tamachi",
+        "name": "田町・三田站周邊",
+        "href": "/walks/tamachi/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_8d0c9cba3b47febd"
+    ]
+  },
+  "scope": {
+    "id": "tamachi",
+    "name": "田町・三田站周邊",
+    "city": "東京",
+    "region": "關東",
+    "kind": "record-area",
+    "parentWalk": "nihonbashi",
+    "scope": "田町站北側、芝四丁目16番的已核對店址。",
+    "includes": "PASTAVOLA田町本店所在的芝4-16-1。",
+    "excludes": "不將日本橋分店混入，也不以單一店家推導完整散策行程。",
+    "basis": "原影片、店家連結及官方店鋪表確認田町本店地址。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=wSVSWPyal2U",
+      "https://pastavola.com/restaurant/",
+      "https://tabelog.com/tokyo/A1314/A131402/13121025/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "nihonbashi"
+  ]
+}

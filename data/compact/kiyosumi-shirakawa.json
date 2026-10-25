@@ -13,7 +13,7 @@
         "「Farm to Me Restaurant」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 〒135-0006 Tokyo, Koto City, Tokiwa, 1-chōme−4−４ Farm to Me SUGAR FACTORY 3階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.684885,
         "lng": 139.794117,
@@ -54,11 +54,21 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=4413411979074118234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 1
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_b231c7d0ce46bc81.webp",
+        "alt": "Farm to Me Restaurant的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "recommendation": null
     },
     {
       "id": "kiyosumi-shirakawa--p_62bdf99d8fd11928",
-      "name": "小麦の奴隷 LABO×MITSUME",
+      "name": "小麦の奴隷 LABO×MITSUME（清澄白河舊址）",
       "address": "東京都江東区常盤1-15-1 1F MITSUME内",
       "group": "sights",
       "categoryLabel": "其他",
@@ -67,7 +77,7 @@
         "「小麦の奴隷 LABO×MITSUME」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都江東区常盤1-15-1 1F MITSUME内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "影片記錄常盤 1-15-1 的期間限定合作店。原店資料已標示搬遷；此處保留 2021 年舊址紀錄與當時店面插畫，請勿依舊址前往。2026-10-26 核對。",
       "coordinate": {
         "lat": 35.684788,
         "lng": 139.794617,
@@ -88,18 +98,28 @@
           "seconds": 488
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/tokyo/A1312/A131201/13252596/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_62bdf99d8fd11928"
         ],
-        "status": "source-record",
+        "status": "relocated",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/MITSUME/data=!4m7!3m6!1s0x60188969c9899967:0x78a2f22ecd2211b0!8m2!3d35.684812!4d139.7946963!16s%2Fg%2F11xvlpj3vv!19sChIJZ5mJyWmJGGARsBEizS7yong?authuser=0&hl=zh-TW&rclk=1"
       },
-      "order": 2
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_62bdf99d8fd11928.webp",
+        "alt": "小麦の奴隷 LABO×MITSUME（清澄白河舊址）的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "recommendation": null
     },
     {
       "id": "kiyosumi-shirakawa--iki",
@@ -144,7 +164,12 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_f020ab5d020405d4"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     },
     {
       "id": "kiyosumi-shirakawa--p_b604af4fde716f6a",
@@ -157,7 +182,7 @@
         "「BELLA NAPOLI」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.6853425,
         "lng": 139.7991211,
@@ -193,7 +218,17 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Bella+Napoli/@35.6842683,139.7956756,14.75z/data=!4m5!3m4!1s0x0:0x7f9767d1047d7e86!8m2!3d35.6853425!4d139.7991211?coh=164777&shorturl=1"
       },
-      "order": 4
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_b604af4fde716f6a.webp",
+        "alt": "BELLA NAPOLI的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "recommendation": null
     },
     {
       "id": "kiyosumi-shirakawa--reiganji",
@@ -226,7 +261,12 @@
         "image": "/art/walks/kiyosumi-shirakawa/reiganji.webp",
         "alt": "霊巖寺的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     },
     {
       "id": "kiyosumi-shirakawa--edo-museum",
@@ -259,7 +299,20 @@
         "image": "/art/walks/kiyosumi-shirakawa/edo-museum.webp",
         "alt": "深川江戸資料館的日系水彩插圖"
       },
-      "recommendation": "留一段時間看街町展示，想像江戶時代的日常。"
+      "recommendation": "留一段時間看街町展示，想像江戶時代的日常。",
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kcf.or.jp/fukagawa/",
+          "https://koto-kanko.jp/fukagawameshi/introduction/detail.php?shop_id=FS0008",
+          "https://teapond.jp/pages/kiyosumishirakawa"
+        ]
+      }
     },
     {
       "id": "kiyosumi-shirakawa--kamasho",
@@ -302,7 +355,20 @@
       "recommendation": "安排一餐深川飯，長時間候位另留彈性。",
       "sourceLibraryIds": [
         "p_c98fa15e5200b3b3"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kcf.or.jp/fukagawa/",
+          "https://koto-kanko.jp/fukagawameshi/introduction/detail.php?shop_id=FS0008",
+          "https://teapond.jp/pages/kiyosumishirakawa"
+        ]
+      }
     },
     {
       "id": "kiyosumi-shirakawa--bee",
@@ -345,7 +411,12 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_cc5ef1b04a25e7ed"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     },
     {
       "id": "kiyosumi-shirakawa--teapond",
@@ -378,7 +449,20 @@
         "image": "/art/walks/kiyosumi-shirakawa/teapond.webp",
         "alt": "TEAPOND 清澄白河店的日系水彩插圖"
       },
-      "recommendation": "挑選茶葉與茶具，將喝茶的期待帶回家。"
+      "recommendation": "挑選茶葉與茶具，將喝茶的期待帶回家。",
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kcf.or.jp/fukagawa/",
+          "https://koto-kanko.jp/fukagawameshi/introduction/detail.php?shop_id=FS0008",
+          "https://teapond.jp/pages/kiyosumishirakawa"
+        ]
+      }
     },
     {
       "id": "kiyosumi-shirakawa--onnellinen",
@@ -411,7 +495,12 @@
         "image": "/art/walks/kiyosumi-shirakawa/onnellinen.webp",
         "alt": "onnellinen的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     },
     {
       "id": "kiyosumi-shirakawa--garden",
@@ -444,7 +533,20 @@
         "image": "/art/walks/kiyosumi-shirakawa/garden.webp",
         "alt": "清澄庭園的日系水彩插圖"
       },
-      "recommendation": "沿池泉庭園慢走，看看水光與名石。"
+      "recommendation": "沿池泉庭園慢走，看看水光與名石。",
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.tokyo-park.or.jp/park/kiyosumi/index.html",
+          "https://www.rikashitsu.jp/home.html",
+          "https://store.bluebottlecoffee.jp/pages/kiyosumi"
+        ]
+      }
     },
     {
       "id": "kiyosumi-shirakawa--library",
@@ -477,7 +579,12 @@
         "image": "/art/walks/kiyosumi-shirakawa/library.webp",
         "alt": "江東区立深川図書館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     },
     {
       "id": "kiyosumi-shirakawa--p_2dd6bdfe83eae05f",
@@ -490,7 +597,7 @@
         "「TOKAKU coffee+(トカクコーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都江東区清澄3-1-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.679115,
         "lng": 139.796188,
@@ -522,7 +629,17 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=TOKAKU+coffee%2B%28%E3%83%88%E3%82%AB%E3%82%AF%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%29+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%B8%85%E6%BE%843-1-3"
       },
-      "order": 13
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_2dd6bdfe83eae05f.webp",
+        "alt": "TOKAKU coffee+(トカクコーヒー)的日系水彩插圖"
+      },
+      "order": 13,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "recommendation": null
     },
     {
       "id": "kiyosumi-shirakawa--b2",
@@ -567,7 +684,12 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_30dcaa80f4635d46"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     },
     {
       "id": "kiyosumi-shirakawa--rikashitsu",
@@ -600,7 +722,20 @@
         "image": "/art/walks/kiyosumi-shirakawa/rikashitsu.webp",
         "alt": "リカシツ的日系水彩插圖"
       },
-      "recommendation": "逛玻璃器物，挑一件日常小物。"
+      "recommendation": "逛玻璃器物，挑一件日常小物。",
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.tokyo-park.or.jp/park/kiyosumi/index.html",
+          "https://www.rikashitsu.jp/home.html",
+          "https://store.bluebottlecoffee.jp/pages/kiyosumi"
+        ]
+      }
     },
     {
       "id": "kiyosumi-shirakawa--fukadaso",
@@ -633,7 +768,12 @@
         "image": "/art/walks/kiyosumi-shirakawa/fukadaso.webp",
         "alt": "fukadaso CAFE的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     },
     {
       "id": "kiyosumi-shirakawa--arise",
@@ -666,7 +806,12 @@
         "image": "/art/walks/kiyosumi-shirakawa/arise.webp",
         "alt": "ARiSE COFFEE ROASTERS的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     },
     {
       "id": "kiyosumi-shirakawa--blue-bottle",
@@ -720,7 +865,20 @@
       "sourceLibraryIds": [
         "p_067c7eb8e949d13f",
         "p_ea8b348616321e46"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.tokyo-park.or.jp/park/kiyosumi/index.html",
+          "https://www.rikashitsu.jp/home.html",
+          "https://store.bluebottlecoffee.jp/pages/kiyosumi"
+        ]
+      }
     },
     {
       "id": "kiyosumi-shirakawa--p_155fff76ca19dd39",
@@ -733,7 +891,7 @@
         "「Allpress Espresso Tokyo Roastery & Cafe」出現在MissLiv 日本旅行和生活的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 3-chōme-7-2 Hirano, Koto City, Tokyo 135-0023。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.6777551,
         "lng": 139.80517369999998,
@@ -759,7 +917,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=9319004302698675331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 19
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_155fff76ca19dd39.webp",
+        "alt": "Allpress Espresso Tokyo Roastery & Cafe的日系水彩插圖"
+      },
+      "order": 19,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "recommendation": null
     },
     {
       "id": "kiyosumi-shirakawa--p_a4ce61758b9a0179",
@@ -772,7 +940,7 @@
         "「HAGAN ORGANIC COFFEE(ヘイガン オーガニック コーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都江東区平野3-7-21。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.677757,
         "lng": 139.805542,
@@ -804,7 +972,17 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/HAGAN+ORGANIC+COFFEE/@35.6778093,139.8056077,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b266b6d2501:0x7090acc2f345d2b7!8m2!3d35.6778093!4d139.8056077!16s%2Fg%2F11qpr60cg5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
       },
-      "order": 20
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_a4ce61758b9a0179.webp",
+        "alt": "HAGAN ORGANIC COFFEE(ヘイガン オーガニック コーヒー)的日系水彩插圖"
+      },
+      "order": 20,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "recommendation": null
     },
     {
       "id": "kiyosumi-shirakawa--kiba",
@@ -837,7 +1015,12 @@
         "image": "/art/walks/kiyosumi-shirakawa/kiba.webp",
         "alt": "木場公園的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     },
     {
       "id": "kiyosumi-shirakawa--sandwich",
@@ -882,53 +1065,16 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_1ef33351c7e10a78"
-      ]
-    },
-    {
-      "id": "kiyosumi-shirakawa--p_0d5099d4cbbd85aa",
-      "name": "Museum of Contemporary Art Tokyo",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Museum of Contemporary Art Tokyo」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
       ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.6797467,
-        "lng": 139.8081921,
-        "provider": "source-library",
-        "url": "https://maps.app.goo.gl/2hxsdEBc3x6m31PY9",
-        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "YoqqAl6cewU",
-          "title": "15 MUST-VISIT SPOTS IN TOKYO 🍜🍣｜Ramen Cooking Class, Asakusa & Hidden Cafes｜Tokyo vlog 2026",
-          "url": "https://www.youtube.com/watch?v=YoqqAl6cewU",
-          "time": "19:25",
-          "seconds": 1165
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_0d5099d4cbbd85aa"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.app.goo.gl/2hxsdEBc3x6m31PY9"
-      },
-      "order": 23
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     },
     {
       "id": "kiyosumi-shirakawa--mot",
-      "order": 24,
+      "order": 23,
       "name": "東京都現代美術館（MOT）",
       "address": "東京都江東区三好4-1-1 木場公園內",
       "group": "sights",
@@ -942,7 +1088,16 @@
       "note": "展覽需購票。週一休館（假日開館、次一平日休館），另有換展及年末年始休館。",
       "official": "https://www.mot-art-museum.jp/",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "YoqqAl6cewU",
+          "title": "15 MUST-VISIT SPOTS IN TOKYO 🍜🍣｜Ramen Cooking Class, Asakusa & Hidden Cafes｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=YoqqAl6cewU",
+          "time": "19:25",
+          "seconds": 1165
+        }
+      ],
       "coordinate": {
         "lat": 35.6797754,
         "lng": 139.8087878,
@@ -957,46 +1112,15 @@
         "image": "/art/walks/kiyosumi-shirakawa/mot.webp",
         "alt": "東京都現代美術館（MOT）的日系水彩插圖"
       },
-      "recommendation": null
-    },
-    {
-      "id": "kiyosumi-shirakawa--p_448c675d56366a58",
-      "name": "Kashikobo Fukudora",
-      "address": "〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Kashikobo Fukudora」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_0d5099d4cbbd85aa"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 35.6880978,
-        "lng": 139.814531,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "SoloInTokyoLife",
-          "videoId": "WbjuVVVInPo",
-          "title": "東京 🇯🇵 | 百大名店日式銅鑼燒專賣店！從紅豆、地瓜到蒙布朗口味的東京必買伴手禮",
-          "url": "https://www.youtube.com/watch?v=WbjuVVVInPo"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_448c675d56366a58"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=11664622512999259906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 25
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      }
     }
   ],
   "routes": [
@@ -1046,7 +1170,15 @@
         "kiyosumi-shirakawa--rikashitsu",
         "kiyosumi-shirakawa--blue-bottle"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.tokyo-park.or.jp/park/kiyosumi/index.html",
+          "https://www.rikashitsu.jp/home.html",
+          "https://store.bluebottlecoffee.jp/pages/kiyosumi"
+        ]
+      }
     },
     {
       "id": "kiyosumi-shirakawa-edo-and-tea",
@@ -1094,31 +1226,158 @@
         "kiyosumi-shirakawa--kamasho",
         "kiyosumi-shirakawa--teapond"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.kcf.or.jp/fukagawa/",
+          "https://koto-kanko.jp/fukagawameshi/introduction/detail.php?shop_id=FS0008",
+          "https://teapond.jp/pages/kiyosumishirakawa"
+        ]
+      }
     }
   ],
   "defaultSelection": "kiyosumi-shirakawa-slow-walk",
   "libraryCoverage": {
+    "added": 6,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_1ef33351c7e10a78",
-      "p_c98fa15e5200b3b3",
-      "p_30dcaa80f4635d46",
-      "p_cc5ef1b04a25e7ed",
-      "p_067c7eb8e949d13f",
-      "p_ea8b348616321e46",
-      "p_f020ab5d020405d4",
-      "p_62bdf99d8fd11928",
-      "p_155fff76ca19dd39",
-      "p_b604af4fde716f6a",
       "p_b231c7d0ce46bc81",
       "p_4fa0dc1ab378a8bc",
+      "p_62bdf99d8fd11928",
+      "p_f020ab5d020405d4",
+      "p_b604af4fde716f6a",
+      "p_c98fa15e5200b3b3",
+      "p_cc5ef1b04a25e7ed",
+      "p_2dd6bdfe83eae05f",
+      "p_30dcaa80f4635d46",
+      "p_067c7eb8e949d13f",
+      "p_ea8b348616321e46",
+      "p_155fff76ca19dd39",
       "p_a4ce61758b9a0179",
-      "p_448c675d56366a58",
-      "p_0d5099d4cbbd85aa",
-      "p_2dd6bdfe83eae05f"
+      "p_1ef33351c7e10a78",
+      "p_0d5099d4cbbd85aa"
+    ]
+  },
+  "scope": {
+    "id": "kiyosumi-shirakawa",
+    "name": "清澄白河",
+    "kind": "walk",
+    "scope": "清澄庭園、白河與深川資料館通，向東沿三好、平野到東京都現代美術館；北側收常盤鄰近站區。",
+    "includes": "清澄、白河、常盤南側、平野、三好與木場公園北部",
+    "excludes": "住吉、菊川與木場站南側另區，不因江東區地址而納入。",
+    "basis": "江東區觀光協會路線從清澄庭園經資料館通接至現代美術館。",
+    "sourceUrls": [
+      "https://koto-kanko.jp/tourism/detail_course.php?mcid=27"
     ],
-    "added": 8,
-    "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 23
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "kiyosumi-shirakawa--p_448c675d56366a58",
+      "name": "Kashikobo Fukudora",
+      "address": "〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Kashikobo Fukudora」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.6880978,
+        "lng": 139.814531,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "WbjuVVVInPo",
+          "title": "東京 🇯🇵 | 百大名店日式銅鑼燒專賣店！從紅豆、地瓜到蒙布朗口味的東京必買伴手禮",
+          "url": "https://www.youtube.com/watch?v=WbjuVVVInPo"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_448c675d56366a58"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=11664622512999259906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kiyosumi-shirakawa--p_448c675d56366a58.webp",
+        "alt": "Kashikobo Fukudora的日系水彩插圖"
+      },
+      "order": 24,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sumiyoshi",
+        "name": "住吉",
+        "href": "/walks/sumiyoshi/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kiyosumi-shirakawa--p_0d5099d4cbbd85aa",
+      "order": 23,
+      "name": "東京都現代美術館（MOT）",
+      "address": "東京都江東区三好4-1-1 木場公園內",
+      "group": "sights",
+      "categoryLabel": "當代藝術",
+      "caption": "讓幾何屋頂與展覽，替散步打開另一個視角。",
+      "descriptionParagraphs": [
+        "東京都現代美術館於 1995 年開館，透過收藏與企畫展介紹現代、當代藝術。入口的金屬結構與開闊階梯具有鮮明輪廓，讓走近建築的過程也成為觀察的一部分。",
+        "如果想完整看展，建議把它作為當天的主要停留，其他小店依體力加減。看完後可以接著走木場公園，或沿平野街巷回到清澄白河。"
+      ],
+      "description": "東京都現代美術館於 1995 年開館，透過收藏與企畫展介紹現代、當代藝術。入口的金屬結構與開闊階梯具有鮮明輪廓，讓走近建築的過程也成為觀察的一部分。\n\n如果想完整看展，建議把它作為當天的主要停留，其他小店依體力加減。看完後可以接著走木場公園，或沿平野街巷回到清澄白河。",
+      "note": "同一東京都現代美術館的英文重複紀錄，合併影片資料並保留舊收藏。",
+      "official": "https://www.mot-art-museum.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "YoqqAl6cewU",
+          "title": "15 MUST-VISIT SPOTS IN TOKYO 🍜🍣｜Ramen Cooking Class, Asakusa & Hidden Cafes｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=YoqqAl6cewU",
+          "time": "19:25",
+          "seconds": 1165
+        }
+      ],
+      "coordinate": {
+        "lat": 35.6797754,
+        "lng": 139.8087878,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/relation/12077221",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "Nominatim 回傳美術館建築多面體代表點，非公車站或路口。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/mot.webp",
+        "alt": "東京都現代美術館（MOT）的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_0d5099d4cbbd85aa"
+      ],
+      "canonicalPlaceId": "kiyosumi-shirakawa--mot",
+      "canonicalArea": {
+        "id": "kiyosumi-shirakawa",
+        "name": "清澄白河",
+        "href": "/walks/kiyosumi-shirakawa/"
+      },
+      "savedOutsideArea": true
+    }
+  ],
+  "inheritedWalkIds": []
 }

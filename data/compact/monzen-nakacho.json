@@ -32,7 +32,19 @@
         "image": "/art/walks/monzen-nakacho/river.webp",
         "alt": "大橫川護岸（黑船橋周邊）的日系水彩插圖"
       },
-      "recommendation": "在黑船橋周邊沿水岸短走，再循附近小街回到門前仲町站。"
+      "recommendation": "在黑船橋周邊沿水岸短走，再循附近小街回到門前仲町站。",
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://fukagawatokyo.com/",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00264"
+        ]
+      }
     },
     {
       "id": "monzen-nakacho--p_307db0b60498ca6d",
@@ -45,7 +57,7 @@
         "「門仲パン屋 MONPAN」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 1-chōme-2-4 Monzennakachō, Koto City, Tokyo 135-0048。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.6722566,
         "lng": 139.7939618,
@@ -71,7 +83,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=511921581332876117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 2
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_307db0b60498ca6d.webp",
+        "alt": "門仲パン屋 MONPAN的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      },
+      "recommendation": null
     },
     {
       "id": "monzen-nakacho--marushichi",
@@ -114,7 +136,12 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_0e9794fe91cc06c1"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      }
     },
     {
       "id": "monzen-nakacho--modern",
@@ -147,7 +174,19 @@
         "image": "/art/walks/monzen-nakacho/modern.webp",
         "alt": "深川東京摩登館的日系水彩插圖"
       },
-      "recommendation": "看看舊公共食堂的建築與當期展示，不必另排一整場導覽。"
+      "recommendation": "看看舊公共食堂的建築與當期展示，不必另排一整場導覽。",
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://fukagawatokyo.com/",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00264"
+        ]
+      }
     },
     {
       "id": "monzen-nakacho--p_c11ad7477122755a",
@@ -160,7 +199,7 @@
         "「Dorayama」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 〒135-0048 Tokyo, Koto City, Monzennakachō, 2-chōme−6−９ ひいらぎビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.672609099999995,
         "lng": 139.7957982,
@@ -186,7 +225,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=3219265300047906274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 5
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_c11ad7477122755a.webp",
+        "alt": "Dorayama的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      },
+      "recommendation": null
     },
     {
       "id": "monzen-nakacho--park",
@@ -219,11 +268,16 @@
         "image": "/art/walks/monzen-nakacho/park.webp",
         "alt": "深川公園的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      }
     },
     {
       "id": "monzen-nakacho--p_3cee4b6ce07e8b5f",
-      "name": "（有）其角",
+      "name": "其角せんべい",
       "address": "1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047",
       "group": "food",
       "categoryLabel": "餐廳",
@@ -232,7 +286,7 @@
         "「（有）其角」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.6721425,
         "lng": 139.79773699999998,
@@ -258,7 +312,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=1866569147605809423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 7
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_3cee4b6ce07e8b5f.webp",
+        "alt": "其角せんべい的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      },
+      "recommendation": null
     },
     {
       "id": "monzen-nakacho--monz",
@@ -291,20 +355,33 @@
         "image": "/art/walks/monzen-nakacho/monz.webp",
         "alt": "MONZ CAFE 門前仲町店的日系水彩插圖"
       },
-      "recommendation": "先坐下喝杯咖啡，觀察參道往來的人。"
+      "recommendation": "先坐下喝杯咖啡，觀察參道往來的人。",
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.monzcafe.com/aboutus/",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00139",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00007"
+        ]
+      }
     },
     {
       "id": "monzen-nakacho--p_04eb0df096ee3f59",
-      "name": "Tekka",
+      "name": "天然鯛焼き 鉄華",
       "address": "1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047",
-      "group": "shops",
-      "categoryLabel": "購物",
+      "group": "food",
+      "categoryLabel": "和菓子",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Tekka」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.6723868,
         "lng": 139.7979569,
@@ -330,7 +407,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=7886082695827925664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 9
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_04eb0df096ee3f59.webp",
+        "alt": "天然鯛焼き 鉄華的日系水彩插圖"
+      },
+      "order": 9,
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      },
+      "recommendation": null
     },
     {
       "id": "monzen-nakacho--fudo",
@@ -363,7 +450,20 @@
         "image": "/art/walks/monzen-nakacho/fudo.webp",
         "alt": "深川不動堂的日系水彩插圖"
       },
-      "recommendation": "沿短短參道散步，留時間看舊堂與梵字外牆。"
+      "recommendation": "沿短短參道散步，留時間看舊堂與梵字外牆。",
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.monzcafe.com/aboutus/",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00139",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00007"
+        ]
+      }
     },
     {
       "id": "monzen-nakacho--orihara",
@@ -396,11 +496,16 @@
         "image": "/art/walks/monzen-nakacho/orihara.webp",
         "alt": "折原商店 深川不動堂參道店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      }
     },
     {
       "id": "monzen-nakacho--p_e9bded65ce3c24bc",
-      "name": "Fukagawa Iseya Honten",
+      "name": "深川伊勢屋 本店",
       "address": "〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F",
       "group": "food",
       "categoryLabel": "餐廳",
@@ -409,7 +514,7 @@
         "「Fukagawa Iseya Honten」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.6714975,
         "lng": 139.7973477,
@@ -435,7 +540,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=4952709091110168002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 12
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_e9bded65ce3c24bc.webp",
+        "alt": "深川伊勢屋 本店的日系水彩插圖"
+      },
+      "order": 12,
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      },
+      "recommendation": null
     },
     {
       "id": "monzen-nakacho--fukagawajuku",
@@ -468,7 +583,12 @@
         "image": "/art/walks/monzen-nakacho/fukagawajuku.webp",
         "alt": "深川宿 富岡八幡店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      }
     },
     {
       "id": "monzen-nakacho--tomioka",
@@ -501,7 +621,20 @@
         "image": "/art/walks/monzen-nakacho/tomioka.webp",
         "alt": "富岡八幡宮的日系水彩插圖"
       },
-      "recommendation": "走到八幡宮看看社殿與境內石碑，再慢慢回車站。"
+      "recommendation": "走到八幡宮看看社殿與境內石碑，再慢慢回車站。",
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.monzcafe.com/aboutus/",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00139",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00007"
+        ]
+      }
     },
     {
       "id": "monzen-nakacho--hachiman",
@@ -534,48 +667,12 @@
         "image": "/art/walks/monzen-nakacho/hachiman.webp",
         "alt": "八幡橋的日系水彩插圖"
       },
-      "recommendation": null
-    },
-    {
-      "id": "monzen-nakacho--p_18174abe5963517a",
-      "name": "Day Nice Hotel Tokyo",
-      "address": "2-chōme-1-1 Kiba, Koto City, Tokyo 135-0042",
-      "group": "sights",
-      "categoryLabel": "住宿",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Day Nice Hotel Tokyo」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-1-1 Kiba, Koto City, Tokyo 135-0042。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 35.6691875,
-        "lng": 139.8018476,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Unique Japan Travel",
-          "videoId": "LrNyIEgBVhw",
-          "title": "參觀東京神秘的火山島 | 伊豆大島 | 日本旅遊",
-          "url": "https://www.youtube.com/watch?v=LrNyIEgBVhw",
-          "time": "22:27",
-          "seconds": 1347
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_18174abe5963517a"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=6926791937297161831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 16
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "monzen-nakacho",
+        "name": "門前仲町",
+        "href": "/walks/monzen-nakacho/"
+      }
     }
   ],
   "routes": [
@@ -611,7 +708,7 @@
       "estimateKind": "editorial-total",
       "plannedAt": "2026-10-26",
       "summary": "在深川不動堂與八幡宮之間慢走，坐下喝杯咖啡，把餘裕留給參道小店。",
-      "note": "編輯預估包含步行、三處重點停留與 30–45 分鐘自由探索；十點是可選清單。若改吃丸七或深川飯，可替換咖啡停留，餐廳排隊另計。",
+      "note": "編輯預估包含步行、三處重點停留與 30–45 分鐘自由探索；本區地點是可選清單。若改吃丸七或深川飯，可替換咖啡停留，餐廳排隊另計。",
       "stopNotes": {
         "monzen-nakacho--monz": "先坐下喝杯咖啡，觀察參道往來的人。",
         "monzen-nakacho--fudo": "沿短短參道散步，留時間看舊堂與梵字外牆。",
@@ -626,7 +723,15 @@
         "monzen-nakacho--fudo",
         "monzen-nakacho--tomioka"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.monzcafe.com/aboutus/",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00139",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00007"
+        ]
+      }
     },
     {
       "id": "monzen-nakacho-modern-buildings-and-water",
@@ -668,22 +773,102 @@
         "monzen-nakacho--modern",
         "monzen-nakacho--river"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://fukagawatokyo.com/",
+          "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00264"
+        ]
+      }
     }
   ],
   "defaultSelection": "monzen-nakacho-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [
-      "p_0e9794fe91cc06c1",
-      "p_3cee4b6ce07e8b5f",
-      "p_307db0b60498ca6d",
-      "p_18174abe5963517a",
-      "p_c11ad7477122755a",
-      "p_e9bded65ce3c24bc",
-      "p_04eb0df096ee3f59"
-    ],
-    "added": 6,
+    "added": 5,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_307db0b60498ca6d",
+      "p_0e9794fe91cc06c1",
+      "p_c11ad7477122755a",
+      "p_3cee4b6ce07e8b5f",
+      "p_04eb0df096ee3f59",
+      "p_e9bded65ce3c24bc"
+    ]
+  },
+  "scope": {
+    "id": "monzen-nakacho",
+    "name": "門前仲町",
+    "kind": "walk",
+    "scope": "門前仲町站、大橫川與黑船橋，連接深川不動堂、富岡八幡宮和八幡橋。",
+    "includes": "門前仲町、富岡一丁目與參道周邊",
+    "excludes": "木場站區、森下與清澄庭園不因深川之名而合併。",
+    "basis": "江東區的門前仲町路線約1.5小時，核心是參道、兩座寺社與八幡橋。",
+    "sourceUrls": [
+      "https://www.city.koto.lg.jp/103010/bunkasports/kanko/gaido/54964.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 15
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "monzen-nakacho--p_18174abe5963517a",
+      "name": "Hotel Shiraiwa（ホテル白岩）",
+      "address": "東京都大島町元町3-3-3",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片22:27住宿章節介紹伊豆大島的 Hotel Shiraiwa（ホテル白岩），位於元町港附近高地。",
+        "原始資料記錄的地址為 東京都大島町元町3-3-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "伊豆大島住宿紀錄，需另行安排船班或航班。預約與館內設施開放方式請向飯店確認。",
+      "coordinate": {
+        "lat": 34.749569,
+        "lng": 139.359024,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%B3%B6%E7%94%BA%E5%85%83%E7%94%BA3-3-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "元町三丁目3番街廓代表點，非飯店指定入口。"
+      },
+      "sources": [
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "LrNyIEgBVhw",
+          "title": "參觀東京神秘的火山島 | 伊豆大島 | 日本旅遊",
+          "url": "https://www.youtube.com/watch?v=LrNyIEgBVhw",
+          "time": "22:27",
+          "seconds": 1347
+        }
+      ],
+      "official": "https://www.h-shiraiwa.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_18174abe5963517a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/monzen-nakacho--p_18174abe5963517a.webp",
+        "alt": "Hotel Shiraiwa（ホテル白岩）的日系水彩插圖"
+      },
+      "order": 1,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "izu-oshima-motomachi",
+        "name": "伊豆大島・元町",
+        "href": "/walks/izu-oshima-motomachi/"
+      },
+      "savedOutsideArea": true
+    }
+  ],
+  "inheritedWalkIds": []
 }

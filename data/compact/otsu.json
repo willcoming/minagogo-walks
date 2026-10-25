@@ -32,7 +32,12 @@
         "image": "/art/walks/otsu/tenson.webp",
         "alt": "天孫神社的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "otsu",
+        "name": "大津百町・濱大津",
+        "href": "/walks/otsu/"
+      }
     },
     {
       "id": "otsu--betsuin",
@@ -65,7 +70,12 @@
         "image": "/art/walks/otsu/betsuin.webp",
         "alt": "大津別院的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "otsu",
+        "name": "大津百町・濱大津",
+        "href": "/walks/otsu/"
+      }
     },
     {
       "id": "otsu--park",
@@ -98,7 +108,12 @@
         "image": "/art/walks/otsu/park.webp",
         "alt": "大津湖岸渚公園・祭典廣場的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "otsu",
+        "name": "大津百町・濱大津",
+        "href": "/walks/otsu/"
+      }
     },
     {
       "id": "otsu--hall",
@@ -131,7 +146,12 @@
         "image": "/art/walks/otsu/hall.webp",
         "alt": "舊大津公會堂的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "otsu",
+        "name": "大津百町・濱大津",
+        "href": "/walks/otsu/"
+      }
     },
     {
       "id": "otsu--port",
@@ -164,7 +184,20 @@
         "image": "/art/walks/otsu/port.webp",
         "alt": "大津港的日系水彩插圖"
       },
-      "recommendation": "沿湖吹風後，輕鬆走回電車站。"
+      "recommendation": "沿湖吹風後，輕鬆走回電車站。",
+      "canonicalArea": {
+        "id": "otsu",
+        "name": "大津百町・濱大津",
+        "href": "/walks/otsu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.otsu.lg.jp/sc/event/a/s/63192.html",
+          "https://www.tikaramoti.jp/item/",
+          "https://www.biwakokisen.co.jp/access/otsu/"
+        ]
+      }
     },
     {
       "id": "otsu--mochi",
@@ -197,7 +230,20 @@
         "image": "/art/walks/otsu/mochi.webp",
         "alt": "三井寺力餅本家的日系水彩插圖"
       },
-      "recommendation": "吃一份灑滿黃豆粉的力餅，坐下休息。"
+      "recommendation": "吃一份灑滿黃豆粉的力餅，坐下休息。",
+      "canonicalArea": {
+        "id": "otsu",
+        "name": "大津百町・濱大津",
+        "href": "/walks/otsu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.otsu.lg.jp/sc/event/a/s/63192.html",
+          "https://www.tikaramoti.jp/item/",
+          "https://www.biwakokisen.co.jp/access/otsu/"
+        ]
+      }
     },
     {
       "id": "otsu--hikiyama",
@@ -230,7 +276,20 @@
         "image": "/art/walks/otsu/hikiyama.webp",
         "alt": "大津祭曳山展示館的日系水彩插圖"
       },
-      "recommendation": "從曳山與機關人偶，看懂這座城的祭典。"
+      "recommendation": "從曳山與機關人偶，看懂這座城的祭典。",
+      "canonicalArea": {
+        "id": "otsu",
+        "name": "大津百町・濱大津",
+        "href": "/walks/otsu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.otsu.lg.jp/sc/event/a/s/63192.html",
+          "https://www.tikaramoti.jp/item/",
+          "https://www.biwakokisen.co.jp/access/otsu/"
+        ]
+      }
     },
     {
       "id": "otsu--arcade",
@@ -263,7 +322,20 @@
         "image": "/art/walks/otsu/arcade.webp",
         "alt": "大津中町商店街的日系水彩插圖"
       },
-      "recommendation": "穿過相連的商店街，看看街坊買菜與店頭日常。"
+      "recommendation": "穿過相連的商店街，看看街坊買菜與店頭日常。",
+      "canonicalArea": {
+        "id": "otsu",
+        "name": "大津百町・濱大津",
+        "href": "/walks/otsu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://otsu-nakamachi.com/",
+          "https://kanou.com/gnaviplus/store/",
+          "https://otsu.or.jp/thingstodo/spot52"
+        ]
+      }
     },
     {
       "id": "otsu--kanou",
@@ -296,7 +368,20 @@
         "image": "/art/walks/otsu/kanou.webp",
         "alt": "叶匠壽庵長等總本店的日系水彩插圖"
       },
-      "recommendation": "依當日陳列挑一份和菓子帶走，確認保存與賞味期限。"
+      "recommendation": "依當日陳列挑一份和菓子帶走，確認保存與賞味期限。",
+      "canonicalArea": {
+        "id": "otsu",
+        "name": "大津百町・濱大津",
+        "href": "/walks/otsu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://otsu-nakamachi.com/",
+          "https://kanou.com/gnaviplus/store/",
+          "https://otsu.or.jp/thingstodo/spot52"
+        ]
+      }
     },
     {
       "id": "otsu--otsue",
@@ -329,7 +414,20 @@
         "image": "/art/walks/otsu/otsue.webp",
         "alt": "大津繪之店的日系水彩插圖"
       },
-      "recommendation": "從民畫的表情、筆線與題材，選一張喜歡的畫或明信片。"
+      "recommendation": "從民畫的表情、筆線與題材，選一張喜歡的畫或明信片。",
+      "canonicalArea": {
+        "id": "otsu",
+        "name": "大津百町・濱大津",
+        "href": "/walks/otsu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://otsu-nakamachi.com/",
+          "https://kanou.com/gnaviplus/store/",
+          "https://otsu.or.jp/thingstodo/spot52"
+        ]
+      }
     }
   ],
   "routes": [
@@ -369,13 +467,21 @@
         "otsu--port": "沿湖吹風後，輕鬆走回電車站。",
         "otsu--hall": "順路可選：在街角洋樓前，看見老城的新用途。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/otsu/port.webp",
+      "art": "/art/walks/otsu/hikiyama.webp",
       "highlightIds": [
         "otsu--hikiyama",
         "otsu--mochi",
         "otsu--port"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.otsu.lg.jp/sc/event/a/s/63192.html",
+          "https://www.tikaramoti.jp/item/",
+          "https://www.biwakokisen.co.jp/access/otsu/"
+        ]
+      }
     },
     {
       "id": "otsu-arcades-and-folk-art",
@@ -417,14 +523,39 @@
         "otsu--kanou",
         "otsu--otsue"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://otsu-nakamachi.com/",
+          "https://kanou.com/gnaviplus/store/",
+          "https://otsu.or.jp/thingstodo/spot52"
+        ]
+      }
     }
   ],
   "defaultSelection": "otsu-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "otsu",
+    "name": "大津百町・濱大津",
+    "kind": "walk",
+    "scope": "JR大津站北側的京町、中央與長等商店街，向湖岸接濱大津、大津港。",
+    "includes": "大津百町、中央、長等、濱大津與港邊",
+    "excludes": "石山寺、坂本、比叡山及三井寺山內另區。",
+    "basis": "まちづくり大津為百町提供九種步行圖；本站取舊街與濱大津相連區域。",
+    "sourceUrls": [
+      "https://www.machidukuri-otsu.jp/map"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

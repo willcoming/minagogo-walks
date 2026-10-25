@@ -32,11 +32,78 @@
         "image": "/art/walks/narita/shodo.webp",
         "alt": "成田山書道美術館的日系水彩插圖"
       },
-      "recommendation": "看一場書法展覽，將其餘時間留給回程的參道。"
+      "recommendation": "看一場書法展覽，將其餘時間留給回程的參道。",
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.naritasan.or.jp/tour/other/",
+          "https://www.naritashodo.jp/?page_id=10120"
+        ]
+      }
+    },
+    {
+      "id": "kyoto-fushimi--p_b7b5ba7c26c6e0c5",
+      "name": "成田山出世稻荷",
+      "address": "千葉県成田市成田1 成田山新勝寺境內",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "成田山新勝寺境內的出世稻荷，位於大本堂左手階梯上方，供奉稻荷尊。",
+        "原始資料記錄的地址為 千葉県成田市成田1 成田山新勝寺境內。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片「Shusse Inari Daimyojin」連結指向成田山出世稻荷；先前誤配為京都伏見稻荷，已拆分兩處紀錄並修正位置。地圖為新勝寺共同地址代表點，非此御堂入口。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B01",
+        "lat": 35.785233,
+        "lng": 140.317215,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；寺社境內建物共用地址。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "1:49",
+          "seconds": 109
+        }
+      ],
+      "official": "https://www.naritasan.or.jp/tour/hall/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b7b5ba7c26c6e0c5"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-fushimi--p_b7b5ba7c26c6e0c5.webp",
+        "alt": "成田山出世稻荷的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      },
+      "recommendation": null
     },
     {
       "id": "narita--shinshoji",
-      "order": 2,
+      "order": 3,
       "name": "成田山新勝寺",
       "address": "千葉県成田市成田1",
       "group": "sights",
@@ -85,11 +152,24 @@
       "recommendation": "留時間參拜，公園與美術館擇一延伸。",
       "sourceLibraryIds": [
         "p_b1d95c11d2d22829"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nrtk.jp/mypage/00046.html",
+          "https://www.nrtk.jp/mypage/00055.html",
+          "https://www.naritasan.or.jp/"
+        ]
+      }
     },
     {
       "id": "narita--park",
-      "order": 3,
+      "order": 4,
       "name": "成田山公園",
       "address": "千葉県成田市成田1",
       "group": "sights",
@@ -118,11 +198,23 @@
         "image": "/art/walks/narita/park.webp",
         "alt": "成田山公園的日系水彩插圖"
       },
-      "recommendation": "選一段通往池畔與美術館的園路，依體力停留。"
+      "recommendation": "選一段通往池畔與美術館的園路，依體力停留。",
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.naritasan.or.jp/tour/other/",
+          "https://www.naritashodo.jp/?page_id=10120"
+        ]
+      }
     },
     {
       "id": "narita--visitor",
-      "order": 4,
+      "order": 5,
       "name": "成田觀光館",
       "address": "千葉県成田市仲町383-1",
       "group": "sights",
@@ -151,11 +243,16 @@
         "image": "/art/walks/narita/visitor.webp",
         "alt": "成田觀光館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      }
     },
     {
       "id": "narita--fujikura",
-      "order": 5,
+      "order": 6,
       "name": "藤倉商店",
       "address": "千葉県成田市幸町488",
       "group": "shops",
@@ -184,11 +281,24 @@
         "image": "/art/walks/narita/fujikura.webp",
         "alt": "藤倉商店的日系水彩插圖"
       },
-      "recommendation": "挑竹木器物，看看門前町的生活工藝。"
+      "recommendation": "挑竹木器物，看看門前町的生活工藝。",
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nrtk.jp/mypage/00046.html",
+          "https://www.nrtk.jp/mypage/00055.html",
+          "https://www.naritasan.or.jp/"
+        ]
+      }
     },
     {
       "id": "narita--kawatoyo",
-      "order": 6,
+      "order": 7,
       "name": "川豊本店",
       "address": "千葉県成田市仲町386",
       "group": "food",
@@ -217,11 +327,16 @@
         "image": "/art/walks/narita/kawatoyo.webp",
         "alt": "川豊本店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      }
     },
     {
       "id": "narita--miyoshiya",
-      "order": 7,
+      "order": 8,
       "name": "三芳家",
       "address": "千葉県成田市仲町386-2",
       "group": "food",
@@ -250,11 +365,24 @@
         "image": "/art/walks/narita/miyoshiya.webp",
         "alt": "三芳家的日系水彩插圖"
       },
-      "recommendation": "轉入小巷，用一份甘味換段休息。"
+      "recommendation": "轉入小巷，用一份甘味換段休息。",
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nrtk.jp/mypage/00046.html",
+          "https://www.nrtk.jp/mypage/00055.html",
+          "https://www.naritasan.or.jp/"
+        ]
+      }
     },
     {
       "id": "narita--hayashida",
-      "order": 8,
+      "order": 9,
       "name": "林田のおせんべい",
       "address": "千葉県成田市幸町490",
       "group": "shops",
@@ -283,11 +411,16 @@
         "image": "/art/walks/narita/hayashida.webp",
         "alt": "林田のおせんべい的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      }
     },
     {
       "id": "narita--yoneya",
-      "order": 9,
+      "order": 10,
       "name": "なごみの米屋總本店",
       "address": "千葉県成田市上町500",
       "group": "shops",
@@ -316,11 +449,16 @@
         "image": "/art/walks/narita/yoneya.webp",
         "alt": "なごみの米屋總本店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      }
     },
     {
       "id": "narita--goto",
-      "order": 10,
+      "order": 11,
       "name": "後藤だんご屋",
       "address": "千葉県成田市上町499",
       "group": "food",
@@ -349,7 +487,12 @@
         "image": "/art/walks/narita/goto.webp",
         "alt": "後藤だんご屋的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "narita",
+        "name": "成田山表參道",
+        "href": "/walks/narita/"
+      }
     }
   ],
   "routes": [
@@ -394,13 +537,21 @@
         "narita--kawatoyo": "順路可選：木造老店裡，認識成田的鰻魚料理。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "narita--visitor": "順路可選：在老街中段，補上一點祭典故事。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/narita/shinshoji.webp",
+      "art": "/art/walks/narita/fujikura.webp",
       "highlightIds": [
         "narita--fujikura",
         "narita--miyoshiya",
         "narita--shinshoji"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nrtk.jp/mypage/00046.html",
+          "https://www.nrtk.jp/mypage/00055.html",
+          "https://www.naritasan.or.jp/"
+        ]
+      }
     },
     {
       "id": "narita-calligraphy-and-woods",
@@ -437,21 +588,48 @@
         "narita--shodo": "看一場書法展覽，將其餘時間留給回程的參道。",
         "narita--shinshoji": "順路可選：從門前街道，走向開闊的寺院。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/narita/shodo.webp",
+      "art": "/art/walks/narita/park.webp",
       "highlightIds": [
         "narita--park",
         "narita--shodo"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.naritasan.or.jp/tour/other/",
+          "https://www.naritashodo.jp/?page_id=10120"
+        ]
+      }
     }
   ],
   "defaultSelection": "narita-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [
-      "p_b1d95c11d2d22829"
-    ],
-    "added": 0,
+    "added": 1,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_b7b5ba7c26c6e0c5",
+      "p_b1d95c11d2d22829"
+    ]
+  },
+  "scope": {
+    "id": "narita",
+    "name": "成田山表參道",
+    "kind": "walk",
+    "scope": "JR／京成成田站的表參道，經上町、幸町、仲町到新勝寺與成田山公園。",
+    "includes": "表參道、新勝寺、成田山公園與書道美術館",
+    "excludes": "機場、航空科學館及成田市其他商場不納入。",
+    "basis": "成田觀光協會以站至新勝寺的表參道作步行主軸。",
+    "sourceUrls": [
+      "https://www.nrtk.jp/enjoy/attraction/omotesando.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 11
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kyoto-fushimi"
+  ]
 }

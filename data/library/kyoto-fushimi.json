@@ -2,21 +2,25 @@
   "places": [
     {
       "id": "kyoto-fushimi--p_b7b5ba7c26c6e0c5",
-      "name": "伏見稻荷大社",
-      "address": "68 Fukakusa Yabunouchichō, Fushimi Ward, Kyoto, 612-0882",
+      "name": "成田山出世稻荷",
+      "address": "千葉県成田市成田1 成田山新勝寺境內",
       "group": "sights",
       "categoryLabel": "景點",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「伏見稻荷大社」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 68 Fukakusa Yabunouchichō, Fushimi Ward, Kyoto, 612-0882。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "成田山新勝寺境內的出世稻荷，位於大本堂左手階梯上方，供奉稻荷尊。",
+        "原始資料記錄的地址為 千葉県成田市成田1 成田山新勝寺境內。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "note": "原影片「Shusse Inari Daimyojin」連結指向成田山出世稻荷；先前誤配為京都伏見稻荷，已拆分兩處紀錄並修正位置。地圖為新勝寺共同地址代表點，非此御堂入口。",
       "coordinate": {
-        "lat": 34.9676945,
-        "lng": 135.7791876,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B01",
+        "lat": 35.785233,
+        "lng": 140.317215,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；寺社境內建物共用地址。"
       },
       "sources": [
         {
@@ -26,25 +30,22 @@
           "url": "https://www.youtube.com/watch?v=qe945dPQArM",
           "time": "1:49",
           "seconds": 109
-        },
-        {
-          "channel": "Celia Ting",
-          "videoId": "pemI7VRrJ8Y",
-          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
-          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
         }
       ],
-      "official": null,
+      "official": "https://www.naritasan.or.jp/tour/hall/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_b7b5ba7c26c6e0c5",
-          "p_e0d5995132c391a6"
+          "p_b7b5ba7c26c6e0c5"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=8870624639634301673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-fushimi--p_b7b5ba7c26c6e0c5.webp",
+        "alt": "成田山出世稻荷的日系水彩插圖"
       }
     },
     {
@@ -78,6 +79,56 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=ABOUT+US+COFFEE+FUSHIMI+INARI+22-15+Fukakusa+Inaritoriimaecho%2C+Fushimi+Ward%2C+Kyoto%2C+612-0014%2C+Japan"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-fushimi--p_049f187a6d1c8b33.webp",
+        "alt": "ABOUT US COFFEE FUSHIMI INARI的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--p_e0d5995132c391a6",
+      "name": "伏見稻荷大社",
+      "address": "京都府京都市伏見区深草薮之内町68",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Fushimi Inari Taisha」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 京都府京都市伏見区深草薮之内町68。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "保留 Celia Ting 京都影片中的伏見稻荷紀錄；成田山出世稻荷為不同地點，已解除誤合併。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E8%96%AE%E4%B9%8B%E5%86%85%E7%94%BA68",
+        "lat": 34.967037,
+        "lng": 135.773499,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；寺社境內建物共用地址。"
+      },
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ],
+      "official": "https://inari.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e0d5995132c391a6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Fushimi+Inari+Taisha+68+Fukakusa+Yabunouchicho%2C+Fushimi+Ward%2C+Kyoto%2C+612-0882%2C+Japan"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-fushimi--p_e0d5995132c391a6.webp",
+        "alt": "伏見稻荷大社的日系水彩插圖"
       }
     }
   ],

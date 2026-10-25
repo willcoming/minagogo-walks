@@ -1,0 +1,647 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "nihonbashi--p_3a113c1ef51d7720",
+      "name": "Aroma Coffee Yaesu",
+      "address": "2 Chome-1 Yaesu, Chuo City, Tokyo 103-0028",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Aroma Coffee Yaesu」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2 Chome-1 Yaesu, Chuo City, Tokyo 103-0028。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6796077,
+        "lng": 139.77092299999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "kpQqkxuM9JU",
+          "title": "[東京最佳咖啡廳 21 家] 東京 21 家最佳咖啡廳",
+          "url": "https://www.youtube.com/watch?v=kpQqkxuM9JU"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "yh9s6bOVa4c",
+          "title": "【日本橋・三越前ランチ10選】ミシュラン獲得！誰も知らない1,000円台ランチなど",
+          "url": "https://www.youtube.com/watch?v=yh9s6bOVa4c"
+        },
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "-TlQwD3vq88",
+          "title": "【銀座】おすすめカフェ・喫茶店5選！老舗から話題の人気店まで",
+          "url": "https://www.youtube.com/watch?v=-TlQwD3vq88",
+          "time": "7:28",
+          "seconds": 448
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3a113c1ef51d7720",
+          "p_9e466855e0dde0ce"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13407140538440330058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_3a113c1ef51d7720.webp",
+        "alt": "Aroma Coffee Yaesu的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://sarabethsrestaurants.jp/location/tokyo/",
+          "https://aromacoffee.co.jp/yaesu.html"
+        ]
+      },
+      "recommendation": "走入八重洲地下街，在 Aroma 喝杯咖啡休息。 逛過站外街廓與地下街後，到喫茶店小休。"
+    },
+    {
+      "id": "nihonbashi--p_e0ab7f3ab1c42756",
+      "name": "ALLY’S BAR",
+      "address": "東京都中央区八重洲1-7-20 八重洲口会館1F",
+      "group": "food",
+      "categoryLabel": "酒吧",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ALLY’S BAR」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区八重洲1-7-20 八重洲口会館1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6811371,
+        "lng": 139.7699203,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "dD91YblnPT0",
+          "title": "[最佳5日本橋居酒屋] SNS上流行的西班牙語，世界上最美味的朝日啤酒！",
+          "url": "https://www.youtube.com/watch?v=dD91YblnPT0"
+        }
+      ],
+      "official": "https://www.dynac-japan.com/shop/allysbar/allysbar-yaesu/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e0ab7f3ab1c42756"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=375142056758243063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_e0ab7f3ab1c42756.webp",
+        "alt": "ALLY’S BAR的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_33bfdc4d3941512a",
+      "name": "泰興樓 TOKYO本店（八重洲1-5-15舊址）",
+      "address": "東京都中央区八重洲1-5-15 荘栄建物ビル",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「中華料理 泰興樓 本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区八重洲1-5-15 荘栄建物ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "此為原影片收錄的八重洲1-5-15臨時店面，保留舊址與插圖作紀錄。官方宣布2026年9月10日遷至八重洲1-6-1 TOFROM YAESU TOWER 1F，請依官網新址前往。",
+      "coordinate": {
+        "lat": 35.6816406,
+        "lng": 139.7707685,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "LxcczhS0teI",
+          "title": "【東京駅ランチ10選】一人でも入りやすい！絶品東京駅ランチ！",
+          "url": "https://www.youtube.com/watch?v=LxcczhS0teI"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "oW9ypq6LNzs",
+          "title": "【東京駅ランチ10選】コスパ最高の食べ放題、ミシュラン獲得1,000円台ビストロなど！",
+          "url": "https://www.youtube.com/watch?v=oW9ypq6LNzs"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "EaqTd7_3E7Q",
+          "title": "【東京駅ランチ５選】ミシュラン３つ星の味を1,000円台！？、1949年創業の老舗、アジフライ食べ放題など！",
+          "url": "https://www.youtube.com/watch?v=EaqTd7_3E7Q"
+        }
+      ],
+      "official": "https://www.taikourou.com/tokyo/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_33bfdc4d3941512a"
+        ],
+        "status": "relocated",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14579020155997307201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_33bfdc4d3941512a.webp",
+        "alt": "泰興樓 TOKYO本店（八重洲1-5-15舊址）的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_e0a7c1114a83c990",
+      "name": "八重洲 鰻 はし本",
+      "address": "東京都中央区八重洲1-5-10",
+      "group": "food",
+      "categoryLabel": "鰻魚料理",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「八重洲 橋本」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区八重洲1-5-10。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "官網確認現址為八重洲1-5-10；2024年10月返回改建後店面。原收錄兩支影片已合併到同一店家。",
+      "coordinate": {
+        "lat": 35.6816481,
+        "lng": 139.7712793,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "XFOau6fyk6I",
+          "title": "2026 東京米其林，十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Tokyo",
+          "url": "https://www.youtube.com/watch?v=XFOau6fyk6I",
+          "time": "5:52",
+          "seconds": 352
+        },
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "QxEbE9DOiwQ",
+          "title": "2026 東京美食地圖，最想二刷的十家店！TOP 10 Must-Try FOOD in Tokyo",
+          "url": "https://www.youtube.com/watch?v=QxEbE9DOiwQ",
+          "time": "5:50",
+          "seconds": 350
+        }
+      ],
+      "official": "https://www.unahashi.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e0a7c1114a83c990",
+          "p_ba062d5d6f02a72e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=18062077370959770369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_e0a7c1114a83c990.webp",
+        "alt": "八重洲 鰻 はし本的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.unahashi.com/kukan/",
+          "https://www.yaechika.com/shop/sp011/",
+          "https://www.unahashi.com/"
+        ]
+      },
+      "recommendation": "用一份鰻魚飯作為午餐重點，出發前確認訂位與供應。"
+    },
+    {
+      "id": "nihonbashi--p_c1d4f5ff35be4a0a",
+      "name": "割烹 嶋村（八重洲1-4-10舊址）",
+      "address": "東京都中央区八重洲1-4-10 東京建物八重洲仲通りビル1～2F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Kappou Shimamura」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区八重洲1-4-10 東京建物八重洲仲通りビル1～2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "此為原影片收錄的八重洲1-4-10店面。中央區觀光協會2026年9月26日實訪確認已遷至八重洲1-6-1 TOFROM YAESU TOWER 1F；保留舊址與插圖作影片紀錄，請依新址前往。",
+      "coordinate": {
+        "lat": 35.682212799999995,
+        "lng": 139.77183359999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "W9YgyJX98T4",
+          "title": "【日本橋最佳午餐5選】江戶時代的米其林星級餐廳！ ？ 還有站著的蕎麥麵，1杯390日圓！",
+          "url": "https://www.youtube.com/watch?v=W9YgyJX98T4"
+        }
+      ],
+      "official": "https://tokuhain.chuo-kanko.or.jp/detail.php?id=7339",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c1d4f5ff35be4a0a"
+        ],
+        "status": "relocated",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=4853100895790027372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_c1d4f5ff35be4a0a.webp",
+        "alt": "割烹 嶋村（八重洲1-4-10舊址）的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_7cb539100f0f45ba",
+      "name": "花ごよみ東京",
+      "address": "東京都中央区八重洲1-3-22 ホテル龍名館東京15F",
+      "group": "food",
+      "categoryLabel": "日本料理",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Hanagoyomi Tokyo」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区八重洲1-3-22 ホテル龍名館東京15F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6830344,
+        "lng": 139.77115759999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "nsW1KnZISdg",
+          "title": "【東京食べ放題5選】東京駅のホテルビュッフェが1,000円台！？まだ誰も知らないおばんざいビュッフェ",
+          "url": "https://www.youtube.com/watch?v=nsW1KnZISdg"
+        }
+      ],
+      "official": "https://www.ryumeikan-tokyo.jp/restaurant/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7cb539100f0f45ba"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=9525252796458284756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_7cb539100f0f45ba.webp",
+        "alt": "花ごよみ東京的日系水彩插圖"
+      },
+      "order": 6,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_ab201d6aed651632",
+      "name": "Sarabeth’s 東京店",
+      "address": "〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1-chōme−8−２ Tekko Building, 南館2・3F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sarabeth’s 東京店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1-chōme−8−２ Tekko Building, 南館2・3F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6823331,
+        "lng": 139.7697322,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "kpQqkxuM9JU",
+          "title": "[東京最佳咖啡廳 21 家] 東京 21 家最佳咖啡廳",
+          "url": "https://www.youtube.com/watch?v=kpQqkxuM9JU"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ab201d6aed651632"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7282720341661074757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_ab201d6aed651632.webp",
+        "alt": "Sarabeth’s 東京店的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://sarabethsrestaurants.jp/location/tokyo/",
+          "https://aromacoffee.co.jp/yaesu.html"
+        ]
+      },
+      "recommendation": "在鐵鋼大樓的 Sarabeth’s 吃早午餐，避開急著轉車的節奏。"
+    },
+    {
+      "id": "nihonbashi--p_bd63a41a02823cb1",
+      "name": "東京奧克伍德豪景酒店公寓",
+      "address": "1-chōme-8-2 Marunouchi, Chiyoda City, Tokyo 100-0005",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「東京奧克伍德豪景酒店公寓」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-8-2 Marunouchi, Chiyoda City, Tokyo 100-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6821462,
+        "lng": 139.769754,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HLZo1Su4sQg",
+          "title": "LUXURY HOTEL STAY BEST6: Ultimate Tokyo Hotel Tour",
+          "url": "https://www.youtube.com/watch?v=HLZo1Su4sQg",
+          "time": "0:00",
+          "seconds": 0
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bd63a41a02823cb1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=1058549007379660653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_bd63a41a02823cb1.webp",
+        "alt": "東京奧克伍德豪景酒店公寓的日系水彩插圖"
+      },
+      "order": 8,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_e011bbb71cc25cf7",
+      "name": "日本橋錦豊琳PLUS 東京站店",
+      "address": "東京都千代田区丸の内1-9-1 東京駅グランスタ東京B1F（改札內）",
+      "group": "food",
+      "categoryLabel": "花林糖",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「日本橋錦豐琳 本店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都千代田区丸の内1-9-1 東京駅グランスタ東京B1F（改札內）。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片04:40位於東京站GRANSTA，先前誤配為小傳馬町本店，已修正為東京站店。櫃位位於付費區，請確認入站方式。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E4%B8%B8%E3%81%AE%E5%86%851-9-1",
+        "lat": 35.681252,
+        "lng": 139.767242,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "twMCaz41W2g",
+          "title": "東京車站 🇯🇵🍰 12款限定甜點必吃！| 東京伴手禮攻略",
+          "url": "https://www.youtube.com/watch?v=twMCaz41W2g"
+        }
+      ],
+      "official": "https://www.nishikihorin.com/shop/gransta.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e011bbb71cc25cf7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_e011bbb71cc25cf7.webp",
+        "alt": "日本橋錦豊琳PLUS 東京站店的日系水彩插圖"
+      },
+      "order": 9,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "yaesu-eel-and-coffee",
+      "name": "八重洲，鰻魚飯與地下街喫茶",
+      "ids": [
+        "nihonbashi--p_e0a7c1114a83c990",
+        "nihonbashi--p_3a113c1ef51d7720"
+      ],
+      "stopNotes": {
+        "nihonbashi--p_e0a7c1114a83c990": "用一份鰻魚飯作為午餐重點，出發前確認訂位與供應。",
+        "nihonbashi--p_3a113c1ef51d7720": "走入八重洲地下街，在 Aroma 喝杯咖啡休息。"
+      },
+      "start": {
+        "name": "東京站八重洲中央口",
+        "address": "東京都千代田区丸の内 東京駅 八重洲中央口",
+        "access": "JR 各線；從八重洲側出站"
+      },
+      "end": {
+        "name": "東京站八重洲中央口",
+        "address": "東京都千代田区丸の内 東京駅 八重洲中央口"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "八重洲，鰻魚飯與地下街喫茶",
+      "note": "在本區慢慢走，必訪以外的地點依興趣停留。時間包含步行、停留與自由探索，候位另計。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.unahashi.com/kukan/",
+          "https://www.yaechika.com/shop/sp011/",
+          "https://www.unahashi.com/"
+        ]
+      },
+      "highlightIds": [
+        "nihonbashi--p_e0a7c1114a83c990",
+        "nihonbashi--p_3a113c1ef51d7720"
+      ],
+      "art": "/art/source-library/nihonbashi--p_e0a7c1114a83c990.webp",
+      "optionalMinutes": 30
+    },
+    {
+      "id": "yaesu-brunch-and-yaechika",
+      "name": "從早午餐，走進八重洲地下街",
+      "ids": [
+        "nihonbashi--p_ab201d6aed651632",
+        "nihonbashi--p_3a113c1ef51d7720"
+      ],
+      "stopNotes": {
+        "nihonbashi--p_ab201d6aed651632": "在鐵鋼大樓的 Sarabeth’s 吃早午餐，避開急著轉車的節奏。",
+        "nihonbashi--p_3a113c1ef51d7720": "逛過站外街廓與地下街後，到喫茶店小休。"
+      },
+      "start": {
+        "name": "東京站八重洲中央口",
+        "address": "東京都千代田区丸の内 東京駅 八重洲中央口",
+        "access": "JR 各線；從八重洲側出站"
+      },
+      "end": {
+        "name": "東京站八重洲中央口",
+        "address": "東京都千代田区丸の内 東京駅 八重洲中央口"
+      },
+      "totalMinutes": [
+        120,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "從早午餐，走進八重洲地下街",
+      "note": "在本區慢慢走，必訪以外的地點依興趣停留。時間包含步行、停留與自由探索，候位另計。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://sarabethsrestaurants.jp/location/tokyo/",
+          "https://aromacoffee.co.jp/yaesu.html"
+        ]
+      },
+      "highlightIds": [
+        "nihonbashi--p_ab201d6aed651632",
+        "nihonbashi--p_3a113c1ef51d7720"
+      ],
+      "art": "/art/source-library/nihonbashi--p_ab201d6aed651632.webp",
+      "optionalMinutes": 30
+    }
+  ],
+  "defaultSelection": "yaesu-eel-and-coffee",
+  "libraryCoverage": {
+    "added": 9,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_3a113c1ef51d7720",
+      "p_9e466855e0dde0ce",
+      "p_e0ab7f3ab1c42756",
+      "p_33bfdc4d3941512a",
+      "p_e0a7c1114a83c990",
+      "p_ba062d5d6f02a72e",
+      "p_c1d4f5ff35be4a0a",
+      "p_7cb539100f0f45ba",
+      "p_ab201d6aed651632",
+      "p_bd63a41a02823cb1",
+      "p_e011bbb71cc25cf7"
+    ]
+  },
+  "scope": {
+    "id": "yaesu",
+    "name": "東京站・八重洲",
+    "kind": "walk",
+    "parentWalk": "nihonbashi",
+    "scope": "東京站八重洲口、八重洲一至二丁目與鐵鋼大樓的站前街廓。",
+    "includes": "東京站八重洲口、八重洲一至二丁目與鐵鋼大樓的站前街廓。含東京站地下GRANSTA已核對櫃位。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.nihonbashi-tokyo.jp/discover/",
+      "https://www.nishikihorin.com/shop/gransta.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 9
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "nihonbashi"
+  ]
+}

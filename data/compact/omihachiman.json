@@ -3,45 +3,6 @@
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
-      "id": "omihachiman--p_73b8718fe931b3e4",
-      "name": "種家 近江八幡店",
-      "address": "〒523-0894 Shiga, Omihachiman, Nakamurachō, ２２−１３",
-      "group": "food",
-      "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「種家 近江八幡店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒523-0894 Shiga, Omihachiman, Nakamurachō, ２２−１３。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 35.127419599999996,
-        "lng": 136.0963818,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "SoloInTokyoLife",
-          "videoId": "QX4Fl6pW_Hk",
-          "title": "東京 🇯🇵 🥮🍱 銀座三越與松屋銀座必買地下街美食！人氣甜點及精緻便當指南",
-          "url": "https://www.youtube.com/watch?v=QX4Fl6pW_Hk"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_73b8718fe931b3e4"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=7137246681593770710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 1
-    },
-    {
       "name": "池田町洋風住宅街",
       "address": "滋賀県近江八幡市池田町",
       "group": "sights",
@@ -64,7 +25,7 @@
       },
       "note": "私人住宅與住宿建物，請只從公共道路欣賞外觀。",
       "id": "omihachiman--ikeda",
-      "order": 2,
+      "order": 1,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "由沃里斯建築事務所設計的洋風住宅，讓町家之外多了一段帶有殖民地風格的街景。紅磚圍牆、煙囪與木造住宅，和商人街形成不同的表情。\n\n這裡以沿街欣賞外觀為主，部分建物仍是私人住宅或住宿空間。慢慢走過公共道路，留意圍牆與屋頂線條即可，不進入院內也能感受建築氣氛。",
@@ -72,7 +33,12 @@
         "image": "/art/walks/omihachiman/ikeda.webp",
         "alt": "池田町洋風住宅街，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      }
     },
     {
       "name": "旧伴家住宅",
@@ -97,7 +63,7 @@
       },
       "note": "",
       "id": "omihachiman--banke",
-      "order": 3,
+      "order": 2,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "伴家的大宅不只見證商業興盛，也曾作為學校、役場與圖書館使用。現在修復公開的空間，讓建築裡不同年代的用途一起被看見。\n\n沿著廊道與寬敞房間慢慢走，比只從街上看外觀更能理解這座房子的尺度。與舊西川家住宅並訪，也能比較不同近江商家的空間特色。",
@@ -105,7 +71,12 @@
         "image": "/art/walks/omihachiman/banke.webp",
         "alt": "旧伴家住宅，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      }
     },
     {
       "name": "旧西川家住宅",
@@ -130,7 +101,7 @@
       },
       "note": "通常週一、國定假日翌日及年末年始休館；4–5 月、10–11 月另有無休安排。",
       "id": "omihachiman--nishikawa",
-      "order": 4,
+      "order": 3,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "江戶時代近江商人的宅邸，把店面與起居空間分開，也保留主屋、離れ與土藏等建築。厚實的木造立面，讓新町通的繁榮不只停留在一段文字裡。\n\n進屋後可以從空間配置想像做生意與生活的關係，再回到街上比較周邊町家的尺度。這裡適合願意多留一點室內參觀時間的人。",
@@ -138,7 +109,20 @@
         "image": "/art/walks/omihachiman/nishikawa.webp",
         "alt": "旧西川家住宅，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "把入內時間留給一座商人住宅，看看土間與生活尺度。"
+      "recommendation": "把入內時間留給一座商人住宅，看看土間與生活尺度。",
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.omi8.com/spot/detail_1177.html",
+          "https://www.omi8.com/spot/detail_1034.html",
+          "https://clubharie.jp/shop/himure/"
+        ]
+      }
     },
     {
       "name": "新町通り",
@@ -163,7 +147,7 @@
       },
       "note": "",
       "id": "omihachiman--shinmachi",
-      "order": 5,
+      "order": 4,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "近江商人的屋敷與町家沿著整齊街路排列，瓦屋、木格子、うだつ與越過圍牆的松樹，留住了商業城鎮的面貌。這片街景也是重要傳統的建造物群保存地區的一部分。\n\n沿路可以把屋簷、門面與防火細節當成觀察主題，不一定要每間屋子都進去。街道仍承載居民日常，請避開車道中央並尊重未開放的住家。",
@@ -171,7 +155,20 @@
         "image": "/art/walks/omihachiman/shinmachi.webp",
         "alt": "新町通り，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "沿新町通慢看格子窗與老屋輪廓，公共街道以外不任意進入。"
+      "recommendation": "沿新町通慢看格子窗與老屋輪廓，公共街道以外不任意進入。",
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.omi8.com/spot/detail_1177.html",
+          "https://www.omi8.com/spot/detail_1034.html",
+          "https://clubharie.jp/shop/himure/"
+        ]
+      }
     },
     {
       "name": "近江兄弟社メンターム資料館",
@@ -196,7 +193,7 @@
       },
       "note": "週末、國定假日及公司休業日不開放。",
       "id": "omihachiman--menturm",
-      "order": 6,
+      "order": 5,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "近江兄弟社總部一樓的小型展示，介紹沃里斯的足跡與メンターム的歷史。老包裝、照片與資料，把熟悉的日用品連回近江八幡的近代故事。\n\n規模不大，卻很適合插在町家散步之中，為建築之外增加另一個角度。看完後也可看看道路對面的沃里斯紀念小公園，讓人物與街道產生連結。",
@@ -204,7 +201,12 @@
         "image": "/art/walks/omihachiman/menturm.webp",
         "alt": "近江兄弟社メンターム資料館，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      }
     },
     {
       "name": "クラブハリエ 日牟禮館",
@@ -229,7 +231,7 @@
       },
       "note": "此店已停止販售「燒きたてバームクーヘン」。附設日牟禮咖啡區及 Vories 建築特別室因改修休業中，目前以洋菓子選購為主。",
       "id": "omihachiman--harie",
-      "order": 7,
+      "order": 6,
       "verifiedAt": "2026-10-25",
       "sources": [],
       "description": "取材自近江八幡紅磚牆風景的日牟禮館，以紅磚、拱窗與開放工房的空間呈現洋菓子。季節蛋糕與各式點心，讓神社門前也有和菓子以外的選擇。\n\n可以與對面的たねや比較不同建築與甜點語彙，或挑一份適合帶走的伴手禮。店內已不販售出爐立即供應的「燒きたてバームクーヘン」，一般年輪蛋糕仍有供應。",
@@ -237,7 +239,20 @@
         "image": "/art/walks/omihachiman/harie.webp",
         "alt": "クラブハリエ 日牟禮館，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "欣賞紅磚店面並選購洋菓子，這站以帶走點心為主。"
+      "recommendation": "欣賞紅磚店面並選購洋菓子，這站以帶走點心為主。",
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.omi8.com/spot/detail_1177.html",
+          "https://www.omi8.com/spot/detail_1034.html",
+          "https://clubharie.jp/shop/himure/"
+        ]
+      }
     },
     {
       "name": "たねや 日牟禮乃舍",
@@ -262,7 +277,7 @@
       },
       "note": "",
       "id": "omihachiman--taneya",
-      "order": 8,
+      "order": 7,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "日牟禮八幡宮旁的町家造餐飲空間，以つぶら餅、季節甘味與滋賀食材製作的餐食迎接旅人。大樹、白簾與瓦屋的組合，讓坐下來本身就成為散步的一部分。\n\n店鋪於 2025 年重新整修後，以餐食與甘味為主；想吃つぶら餅也有較輕鬆的選擇。可以把它排在參拜之後，再往八幡堀延續午後的節奏。",
@@ -270,7 +285,20 @@
         "image": "/art/walks/omihachiman/taneya.webp",
         "alt": "たねや 日牟禮乃舍，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": "和菓子與喫茶休息，再慢逛新町通。"
+      "recommendation": "和菓子與喫茶休息，再慢逛新町通。",
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.omi8.com/spot/detail_1228.html",
+          "https://www.omi8.com/spot/detail_1008.html",
+          "https://taneya.jp/shop/shiga_himure"
+        ]
+      }
     },
     {
       "name": "日牟禮八幡宮",
@@ -295,7 +323,7 @@
       },
       "note": "",
       "id": "omihachiman--himure",
-      "order": 9,
+      "order": 8,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "長久受到八幡商人信仰的神社，境內的樓門、社殿與大樹，讓近江八幡的歷史有了沉穩的起點。左義長祭與八幡祭，也讓這裡一直是地方文化的重要中心。\n\n從參道慢慢走入，再回到門前的甜點店與水岸，能感受信仰與日常如何留在同一片街區。這一站很適合在開始購物與吃點心之前，先把腳步放慢。",
@@ -303,7 +331,20 @@
         "image": "/art/walks/omihachiman/himure.webp",
         "alt": "日牟禮八幡宮，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": "走進神社境內參拜。"
+      "recommendation": "走進神社境內參拜。",
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.omi8.com/spot/detail_1228.html",
+          "https://www.omi8.com/spot/detail_1008.html",
+          "https://taneya.jp/shop/shiga_himure"
+        ]
+      }
     },
     {
       "name": "白雲館",
@@ -328,7 +369,7 @@
       },
       "note": "",
       "id": "omihachiman--hakuunkan",
-      "order": 10,
+      "order": 9,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "1877 年作為八幡東學校建造的白雲館，把西洋風格與日本傳統木造技術放在同一座建築裡。當年近江商人的捐助，也留下重視教育的地方故事。\n\n現在這裡是觀光案內所與交流空間，適合在散步前認識街區，也可看看在地特產品。別只看塔樓，門廊、窗框與瓦屋的細節同樣值得停下來欣賞。",
@@ -336,7 +377,12 @@
         "image": "/art/walks/omihachiman/hakuunkan.webp",
         "alt": "白雲館，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      }
     },
     {
       "name": "まちや倶楽部",
@@ -361,7 +407,7 @@
       },
       "note": "",
       "id": "omihachiman--machiya",
-      "order": 11,
+      "order": 10,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "以昔日酒藏與町家空間再生的複合設施，聚集選物、在地材料與手工藝相關的店鋪。從麻、竹與葦到帆布，都可以成為認識湖東生活文化的線索。\n\n這裡適合慢慢逛，也可能遇到體驗活動與展示。散步時把它當成有生活手感的一站，比只把老屋當作拍照背景更有收穫。",
@@ -369,7 +415,12 @@
         "image": "/art/walks/omihachiman/machiya.webp",
         "alt": "まちや倶楽部，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      }
     },
     {
       "name": "旧八幡郵便局",
@@ -394,7 +445,7 @@
       },
       "note": "建築內部主要週六、週日公開；咖啡營業日與公開日不同。",
       "id": "omihachiman--postoffice",
-      "order": 12,
+      "order": 11,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "帶著郵政符號與曲線門面的老郵局，是街區裡容易讓人停步的沃里斯建築。保存與再生的活動，讓建築在原有業務結束後仍持續與人相遇。\n\n內部公開以週末為主，並有另行營業的外帶咖啡。即使只從公共道路欣賞外觀，門拱、細窗格與牆面肌理，也足夠成為一次細緻的建築觀察。",
@@ -402,7 +453,12 @@
         "image": "/art/walks/omihachiman/postoffice.webp",
         "alt": "旧八幡郵便局，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      }
     },
     {
       "name": "ボーダレス・アートミュージアム NO-MA",
@@ -427,7 +483,7 @@
       },
       "note": "週一休館，遇國定假日順延至下一個平日。",
       "id": "omihachiman--noma",
-      "order": 13,
+      "order": 12,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "由昭和初期町家改造的藝術館，以「不分界線」的想法介紹各種藝術表達。障礙者的造形作品與當代藝術在同一個場域相遇，也為歷史街區帶來新的閱讀方式。\n\n展覽依期更換，適合喜歡在旅行中保留一段安靜看展時間的人。從建築外觀到室內展場，能看見老屋如何在不失去個性的同時承接新的用途。",
@@ -435,7 +491,12 @@
         "image": "/art/walks/omihachiman/noma.webp",
         "alt": "ボーダレス・アートミュージアム NO-MA，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      }
     },
     {
       "name": "ヴォーリズ記念館（一柳記念館）",
@@ -460,7 +521,7 @@
       },
       "note": "入館須事前電話預約，館內禁止攝影；週一、國定假日及 12/1–1/15 等期間休館。",
       "id": "omihachiman--vories",
-      "order": 14,
+      "order": 13,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "沃里斯與夫人晚年生活的木造洋館，保留橫向木板外牆、煙囪與和洋相融的房間。建築設計、教育與醫療的活動，在這座住宅裡有了更貼近日常的面貌。\n\n這裡採事前電話預約，不適合臨時走到門口才安排入內。若確定想參觀，先把預約時間放進行程，周邊的町家與郵局便能彈性前後串連。",
@@ -468,7 +529,12 @@
         "image": "/art/walks/omihachiman/vories.webp",
         "alt": "ヴォーリズ記念館（一柳記念館），依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      }
     },
     {
       "name": "かわらミュージアム",
@@ -493,7 +559,7 @@
       },
       "note": "週一休館。",
       "id": "omihachiman--kawara",
-      "order": 15,
+      "order": 14,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "以瓦為主題的博物館，白牆、瓦屋與分棟建築呼應八幡堀周邊的街景。平常遠遠看過的屋頂，在這裡可以從鬼瓦、瓦人形與職人工藝重新認識。\n\n除了室內展示，館外以瓦作為素材的步道與建築本身也值得細看。若想安排體驗工房，記得另留製作時間，讓這一站從看建築延伸成親手接觸材料。",
@@ -501,7 +567,12 @@
         "image": "/art/walks/omihachiman/kawara.webp",
         "alt": "かわらミュージアム，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
+      }
     },
     {
       "name": "八幡堀",
@@ -526,7 +597,7 @@
       },
       "note": "水邊部分石階與石畳不平，雨後請留意濕滑。",
       "id": "omihachiman--hachimanbori",
-      "order": 16,
+      "order": 15,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "曾是琵琶湖水運與城下町商業往來的重要水路，如今沿岸仍可見白壁町家、石垣與瓦屋。從橋上看水面，再走近石畳小路，會得到很不一樣的街景尺度。\n\n小船、柳枝與季節植物讓水岸有自己的節奏。這條散步以沿岸步行為主，無須搭船也能欣賞堀的風景；喜歡水上視角的人，則可再另排遊船時間。",
@@ -534,48 +605,20 @@
         "image": "/art/walks/omihachiman/hachimanbori.webp",
         "alt": "八幡堀，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": "沿水岸慢走，看看石牆與瓦屋。"
-    },
-    {
-      "id": "omihachiman--p_a040448ef5601644",
-      "name": "とんこつらーめん豚太近江八幡店",
-      "address": "480-1 Egashirachō, Omihachiman, Shiga 523-0061",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「とんこつらーめん豚太近江八幡店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 480-1 Egashirachō, Omihachiman, Shiga 523-0061。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
-      "coordinate": {
-        "lat": 35.116143199999996,
-        "lng": 136.0580511,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      "recommendation": "沿水岸慢走，看看石牆與瓦屋。",
+      "canonicalArea": {
+        "id": "omihachiman",
+        "name": "近江八幡・八幡堀",
+        "href": "/walks/omihachiman/"
       },
-      "sources": [
-        {
-          "channel": "肥波開吃啦",
-          "videoId": "Y0PSXGfBI3g",
-          "title": "東京美食炸豬排篇，高田馬場爽吃特輯三選 ! 東京炸豬排一級戰區，連吃三家激爽炸豬排名店，米其林認證炸豬菲力、激爽酥炸豬肋排、Tabelog排行榜一豬排豚太! 【 肥波外食記 】",
-          "url": "https://www.youtube.com/watch?v=Y0PSXGfBI3g",
-          "time": "6:16",
-          "seconds": 376
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_a040448ef5601644"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=9417713356913695050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 17
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.omi8.com/spot/detail_1228.html",
+          "https://www.omi8.com/spot/detail_1008.html",
+          "https://taneya.jp/shop/shiga_himure"
+        ]
+      }
     }
   ],
   "routes": [
@@ -619,7 +662,15 @@
         "omihachiman--himure",
         "omihachiman--taneya"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.omi8.com/spot/detail_1228.html",
+          "https://www.omi8.com/spot/detail_1008.html",
+          "https://taneya.jp/shop/shiga_himure"
+        ]
+      }
     },
     {
       "id": "omihachiman-merchant-houses-and-pastries",
@@ -667,17 +718,150 @@
         "omihachiman--nishikawa",
         "omihachiman--harie"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.omi8.com/spot/detail_1177.html",
+          "https://www.omi8.com/spot/detail_1034.html",
+          "https://clubharie.jp/shop/himure/"
+        ]
+      }
     }
   ],
   "defaultSelection": "omihachiman-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [
-      "p_73b8718fe931b3e4",
-      "p_a040448ef5601644"
-    ],
-    "added": 2,
+    "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "omihachiman",
+    "name": "近江八幡・八幡堀",
+    "kind": "walk",
+    "scope": "八幡堀、日牟禮八幡宮與新町通，含池田町、永原町、仲屋町及沃里茲記念館。",
+    "includes": "舊八幡商家街與八幡堀兩岸",
+    "excludes": "近江八幡站周邊、中村町與江頭町另列；不使用整個近江八幡市範圍。",
+    "basis": "官方散策圖主線為新町通、日牟禮八幡宮、八幡堀與沃里茲記念館。",
+    "sourceUrls": [
+      "https://www.omi8.com/spot/detail_1177.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 15
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "omihachiman--p_73b8718fe931b3e4",
+      "name": "たねや 銀座三越店",
+      "address": "東京都中央区銀座4-6-16 銀座三越B2F",
+      "group": "food",
+      "categoryLabel": "和菓子",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹銀座三越地下食品區的たねや，販售栗饅頭及季節和菓子。此處已依影片與品牌店鋪資料修正為銀座三越櫃位，並保留原始影片來源。",
+        "原始資料記錄的地址為 東京都中央区銀座4-6-16 銀座三越B2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片00:30明確介紹銀座三越店，先前名稱搜尋誤配為滋賀近江八幡店，已修正分店。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A74-6-16",
+        "lat": 35.671577,
+        "lng": 139.765594,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "QX4Fl6pW_Hk",
+          "title": "東京 🇯🇵 🥮🍱 銀座三越與松屋銀座必買地下街美食！人氣甜點及精緻便當指南",
+          "url": "https://www.youtube.com/watch?v=QX4Fl6pW_Hk"
+        }
+      ],
+      "official": "https://taneya.jp/shop/tokyo_g-mitsukoshi",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_73b8718fe931b3e4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/omihachiman--p_73b8718fe931b3e4.webp",
+        "alt": "たねや 銀座三越店的日系水彩插圖"
+      },
+      "order": 1,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "ginza",
+        "name": "銀座",
+        "href": "/walks/ginza/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "omihachiman--p_a040448ef5601644",
+      "name": "とんかつ とん太（高田馬場）",
+      "address": "東京都豊島区高田3-17-8",
+      "group": "food",
+      "categoryLabel": "炸豬排",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "とん太是高田馬場站北側的炸豬排店，原影片在這裡品嘗里肌與菲力豬排定食。這筆資料已依影片中的原始店家連結與實訪紀錄修正為東京店址。",
+        "原始資料記錄的地址為 東京都豊島区高田3-17-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片介紹高田馬場炸豬排，先前誤配為滋賀同音的豚骨拉麵店，已修正店名、類別與地址。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E9%AB%98%E7%94%B03-17-8",
+        "lat": 35.715508,
+        "lng": 139.706619,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "Y0PSXGfBI3g",
+          "title": "東京美食炸豬排篇，高田馬場爽吃特輯三選 ! 東京炸豬排一級戰區，連吃三家激爽炸豬排名店，米其林認證炸豬菲力、激爽酥炸豬肋排、Tabelog排行榜一豬排豚太! 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=Y0PSXGfBI3g",
+          "time": "6:16",
+          "seconds": 376
+        }
+      ],
+      "official": "https://map.yahoo.co.jp/v3/place/lWM6zLJTxao",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a040448ef5601644"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/omihachiman--p_a040448ef5601644.webp",
+        "alt": "とんかつ とん太（高田馬場）的日系水彩插圖"
+      },
+      "order": 2,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "takadanobaba",
+        "name": "高田馬場・高田三丁目",
+        "href": "/walks/takadanobaba/"
+      },
+      "savedOutsideArea": true
+    }
+  ],
+  "inheritedWalkIds": []
 }

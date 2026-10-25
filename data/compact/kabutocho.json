@@ -1,0 +1,736 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "nihonbashi--p_f706af44024bb8b9",
+      "name": "串燒 宮川",
+      "address": "3-chōme-5-1 Nihonbashikayabachō, Chuo City, Tokyo 103-0025",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「串燒 宮川」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-5-1 Nihonbashikayabachō, Chuo City, Tokyo 103-0025。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6782889,
+        "lng": 139.7783101,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "yh9s6bOVa4c",
+          "title": "【日本橋・三越前ランチ10選】ミシュラン獲得！誰も知らない1,000円台ランチなど",
+          "url": "https://www.youtube.com/watch?v=yh9s6bOVa4c"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "imShh65JKDI",
+          "title": "【日本橋午餐精選5選】米其林星級！ 1919年創業300年的壽喜燒鰹魚片家族經營的東京第一披薩店！",
+          "url": "https://www.youtube.com/watch?v=imShh65JKDI"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f706af44024bb8b9"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=15761865675505201692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_f706af44024bb8b9.webp",
+        "alt": "串燒 宮川的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kabutocho",
+        "name": "兜町・茅場町",
+        "href": "/walks/kabutocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_6886d94828577668",
+      "name": "HOPPERS",
+      "address": "〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「HOPPERS」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6812057,
+        "lng": 139.7781479,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "a-hJd0A0ys4",
+          "title": "【日本橋午餐精選5選】從香川直送的高性價比烏龍麵、米其林星級斯里蘭卡料理、銀行裝修後的小酒館等等！",
+          "url": "https://www.youtube.com/watch?v=a-hJd0A0ys4"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "T4XQ6gJxUHw",
+          "title": "【日本橋ランチ10選】ホテル空間の焼きたてパン食べ放題、夜は2万超えランチは1,000円台の高級天ぷら",
+          "url": "https://www.youtube.com/watch?v=T4XQ6gJxUHw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6886d94828577668"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=12729643040521954134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_6886d94828577668.webp",
+        "alt": "HOPPERS的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "kabutocho",
+        "name": "兜町・茅場町",
+        "href": "/walks/kabutocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://k5-tokyo.com/information/6547/",
+          "https://k5-tokyo.com/"
+        ]
+      },
+      "recommendation": "在 HOPPERS 吃一份斯里蘭卡風味餐。"
+    },
+    {
+      "id": "nihonbashi--p_9a34828da743d3c5",
+      "name": "KNAG",
+      "address": "〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「KNAG」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6815759,
+        "lng": 139.7785797,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "kpQqkxuM9JU",
+          "title": "[東京最佳咖啡廳 21 家] 東京 21 家最佳咖啡廳",
+          "url": "https://www.youtube.com/watch?v=kpQqkxuM9JU"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "NgmKCgrNSwA",
+          "title": "[Nihonbashi Cafe Best 5] 翻新銀行！ ？ 奶油蘇打看起來很漂亮！",
+          "url": "https://www.youtube.com/watch?v=NgmKCgrNSwA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9a34828da743d3c5"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=6004513892621390097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_9a34828da743d3c5.webp",
+        "alt": "KNAG的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "kabutocho",
+        "name": "兜町・茅場町",
+        "href": "/walks/kabutocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_5551340b561336e3",
+      "name": "Bakery Bank",
+      "address": "〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル 1F",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Bakery Bank」出現在Hiro | Days in Tokyo、SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.681841399999996,
+        "lng": 139.7787471,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "pZqDOn9xh38",
+          "title": "東京的美學散策：遇見莫奈，走進森林圖書館 | A Thoughtful Day in Tokyo",
+          "url": "https://www.youtube.com/watch?v=pZqDOn9xh38",
+          "time": "0:39",
+          "seconds": 39
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "DORb03tMCt0",
+          "title": "東京 🇯🇵 日本橋・三越前美食：現擠蒙布朗、焙茶銅鑼燒等！東京單人觀光美食指南",
+          "url": "https://www.youtube.com/watch?v=DORb03tMCt0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5551340b561336e3"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=15255576181771435386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_5551340b561336e3.webp",
+        "alt": "Bakery Bank的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "kabutocho",
+        "name": "兜町・茅場町",
+        "href": "/walks/kabutocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://k5-tokyo.com/information/6547/"
+        ]
+      },
+      "recommendation": "在 bank 看看麵包與昔日銀行空間。"
+    },
+    {
+      "id": "nihonbashi--p_5ec65c7b62dfc0a1",
+      "name": "Bistro Yen",
+      "address": "〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Bistro Yen」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.681818299999996,
+        "lng": 139.77882069999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "NgmKCgrNSwA",
+          "title": "[Nihonbashi Cafe Best 5] 翻新銀行！ ？ 奶油蘇打看起來很漂亮！",
+          "url": "https://www.youtube.com/watch?v=NgmKCgrNSwA"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "a-hJd0A0ys4",
+          "title": "【日本橋午餐精選5選】從香川直送的高性價比烏龍麵、米其林星級斯里蘭卡料理、銀行裝修後的小酒館等等！",
+          "url": "https://www.youtube.com/watch?v=a-hJd0A0ys4"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "T4XQ6gJxUHw",
+          "title": "【日本橋ランチ10選】ホテル空間の焼きたてパン食べ放題、夜は2万超えランチは1,000円台の高級天ぷら",
+          "url": "https://www.youtube.com/watch?v=T4XQ6gJxUHw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5ec65c7b62dfc0a1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=15577031857259265283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_5ec65c7b62dfc0a1.webp",
+        "alt": "Bistro Yen的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "kabutocho",
+        "name": "兜町・茅場町",
+        "href": "/walks/kabutocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_eebc3054c052ca99",
+      "name": "SR Coffee Roaster",
+      "address": "6-5 Nihonbashikabutochō, Chuo City, Tokyo 103-0026",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「SR Coffee Roaster」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 6-5 Nihonbashikabutochō, Chuo City, Tokyo 103-0026。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "SR於2025年由兜町9-5移至6-5；此處地址與插圖採官方目前店址，原影片連結保留。",
+      "coordinate": {
+        "lat": 35.6819834,
+        "lng": 139.77907489999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "a-bPndpKXiA",
+          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
+          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA",
+          "time": "23:46",
+          "seconds": 1426
+        }
+      ],
+      "official": "https://stockholmroast.jp/pages/visit",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_eebc3054c052ca99"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=5880195892060838461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_eebc3054c052ca99.webp",
+        "alt": "SR Coffee Roaster的日系水彩插圖"
+      },
+      "order": 6,
+      "canonicalArea": {
+        "id": "kabutocho",
+        "name": "兜町・茅場町",
+        "href": "/walks/kabutocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_98c6e450d7807151",
+      "name": "Pâtisserie ease",
+      "address": "9-1 Nihonbashikabutochō, Chuo City, Tokyo 103-0026",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Pâtisserie ease」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 9-1 Nihonbashikabutochō, Chuo City, Tokyo 103-0026。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6818994,
+        "lng": 139.7777509,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "a-bPndpKXiA",
+          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
+          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_98c6e450d7807151"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5160975152042163446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_98c6e450d7807151.webp",
+        "alt": "Pâtisserie ease的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "kabutocho",
+        "name": "兜町・茅場町",
+        "href": "/walks/kabutocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_ec7e511b666baecf",
+      "name": "CAFE DANCE(カフェダンス)",
+      "address": "東京都中央区日本橋兜町3-5",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「CAFE DANCE(カフェダンス)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋兜町3-5。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.682858,
+        "lng": 139.778198,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%85%9C%E7%94%BA3-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "tIg0FjmVmR4",
+          "title": "【2025年総集編】東京モーニング巡り12選🥐 幅広ジャンルで紹介！",
+          "url": "https://www.youtube.com/watch?v=tIg0FjmVmR4",
+          "time": "16:52",
+          "seconds": 1012
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "nkZ7WTaee9A",
+          "title": "【NEW】東京新店舗カフェ10選～2025年上半期☕✨表参道／渋谷／日本橋／世田谷etc. 10 Tokyo New Open cafe tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=nkZ7WTaee9A",
+          "time": "03:48",
+          "seconds": 228
+        }
+      ],
+      "official": "https://k5-tokyo.com/tenant/cafe-dance/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ec7e511b666baecf"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/CAFE+DANCE/@35.6827127,139.7780073,17z/data=!3m1!4b1!4m6!3m5!1s0x601889000bb4a2e9:0x5e360dfc8d624e9a!8m2!3d35.6827127!4d139.7780073!16s%2Fg%2F11x5s8kbyy?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_ec7e511b666baecf.webp",
+        "alt": "CAFE DANCE(カフェダンス)的日系水彩插圖"
+      },
+      "order": 8,
+      "canonicalArea": {
+        "id": "kabutocho",
+        "name": "兜町・茅場町",
+        "href": "/walks/kabutocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_e560d31ba76fbc49",
+      "name": "K5",
+      "address": "〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 3−５ K5ビル 1階",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「K5」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 3−５ K5ビル 1階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6828966,
+        "lng": 139.7781422,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "7E_BQeRh5cE",
+          "title": "7 Must-Visit Hotels in Japan for the Trip of a Lifetime!",
+          "url": "https://www.youtube.com/watch?v=7E_BQeRh5cE",
+          "time": "05:48",
+          "seconds": 348
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HLZo1Su4sQg",
+          "title": "LUXURY HOTEL STAY BEST6: Ultimate Tokyo Hotel Tour",
+          "url": "https://www.youtube.com/watch?v=HLZo1Su4sQg",
+          "time": "3:46",
+          "seconds": 226
+        }
+      ],
+      "official": "https://k5-tokyo.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e560d31ba76fbc49"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10906498574121315795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_e560d31ba76fbc49.webp",
+        "alt": "K5的日系水彩插圖"
+      },
+      "order": 9,
+      "canonicalArea": {
+        "id": "kabutocho",
+        "name": "兜町・茅場町",
+        "href": "/walks/kabutocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://k5-tokyo.com/information/6547/",
+          "https://k5-tokyo.com/"
+        ]
+      },
+      "recommendation": "從街道看 K5 的建築；使用餐飲空間時依現場規定入內。"
+    },
+    {
+      "id": "nihonbashi--p_27c9791341ecf996",
+      "name": "teal （ティール）",
+      "address": "東京都中央区日本橋兜町1-10 日証館 1F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「teal （ティール）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋兜町1-10 日証館 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.68327,
+        "lng": 139.778809,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%85%9C%E7%94%BA1-10",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "GmLcV6nklBQ",
+          "title": "【東京･最旬】この夏食べたい！夏フルーツ巡り〜2024年夏〜🍉🌻 6 Summer fruit tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=GmLcV6nklBQ",
+          "time": "08:34",
+          "seconds": 514
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "a-bPndpKXiA",
+          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
+          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "NgmKCgrNSwA",
+          "title": "[Nihonbashi Cafe Best 5] 翻新銀行！ ？ 奶油蘇打看起來很漂亮！",
+          "url": "https://www.youtube.com/watch?v=NgmKCgrNSwA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_27c9791341ecf996",
+          "p_6f750ca8d1f63693"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=teal+%EF%BC%88%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%85%9C%E7%94%BA1-10+%E6%97%A5%E8%A8%BC%E9%A4%A8+1F"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_27c9791341ecf996.webp",
+        "alt": "teal （ティール）的日系水彩插圖"
+      },
+      "order": 10,
+      "canonicalArea": {
+        "id": "kabutocho",
+        "name": "兜町・茅場町",
+        "href": "/walks/kabutocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://k5-tokyo.com/information/6547/"
+        ]
+      },
+      "recommendation": "到日證館一樓，選巧克力或冰淇淋，沿附近街廓慢走。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "kabutocho-bank-and-cacao",
+      "name": "兜町的新日常，麵包與可可",
+      "ids": [
+        "nihonbashi--p_5551340b561336e3",
+        "nihonbashi--p_27c9791341ecf996"
+      ],
+      "stopNotes": {
+        "nihonbashi--p_5551340b561336e3": "在 bank 看看麵包與昔日銀行空間。",
+        "nihonbashi--p_27c9791341ecf996": "到日證館一樓，選巧克力或冰淇淋，沿附近街廓慢走。"
+      },
+      "start": {
+        "name": "茅場町站",
+        "address": "東京都中央区日本橋茅場町 茅場町駅",
+        "access": "東京 Metro 日比谷線・東西線"
+      },
+      "end": {
+        "name": "茅場町站",
+        "address": "東京都中央区日本橋茅場町 茅場町駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "兜町的新日常，麵包與可可",
+      "note": "在本區慢慢走，必訪以外的地點依興趣停留。時間包含步行、停留與自由探索，候位另計。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://k5-tokyo.com/information/6547/"
+        ]
+      },
+      "highlightIds": [
+        "nihonbashi--p_5551340b561336e3",
+        "nihonbashi--p_27c9791341ecf996"
+      ],
+      "art": "/art/source-library/nihonbashi--p_5551340b561336e3.webp",
+      "optionalMinutes": 30
+    },
+    {
+      "id": "kabutocho-architecture-and-spice",
+      "name": "老建築與香料午餐",
+      "ids": [
+        "nihonbashi--p_e560d31ba76fbc49",
+        "nihonbashi--p_6886d94828577668"
+      ],
+      "stopNotes": {
+        "nihonbashi--p_e560d31ba76fbc49": "從街道看 K5 的建築；使用餐飲空間時依現場規定入內。",
+        "nihonbashi--p_6886d94828577668": "在 HOPPERS 吃一份斯里蘭卡風味餐。"
+      },
+      "start": {
+        "name": "茅場町站",
+        "address": "東京都中央区日本橋茅場町 茅場町駅",
+        "access": "東京 Metro 日比谷線・東西線"
+      },
+      "end": {
+        "name": "茅場町站",
+        "address": "東京都中央区日本橋茅場町 茅場町駅"
+      },
+      "totalMinutes": [
+        120,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "老建築與香料午餐",
+      "note": "K5 為營業中的旅宿與餐飲空間，不包含客房或私人區域參觀。餐後可在兜町街巷自由探索。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://k5-tokyo.com/information/6547/",
+          "https://k5-tokyo.com/"
+        ]
+      },
+      "highlightIds": [
+        "nihonbashi--p_e560d31ba76fbc49",
+        "nihonbashi--p_6886d94828577668"
+      ],
+      "art": "/art/source-library/nihonbashi--p_e560d31ba76fbc49.webp",
+      "optionalMinutes": 30
+    }
+  ],
+  "defaultSelection": "kabutocho-bank-and-cacao",
+  "libraryCoverage": {
+    "added": 10,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_f706af44024bb8b9",
+      "p_6886d94828577668",
+      "p_9a34828da743d3c5",
+      "p_5551340b561336e3",
+      "p_5ec65c7b62dfc0a1",
+      "p_eebc3054c052ca99",
+      "p_98c6e450d7807151",
+      "p_ec7e511b666baecf",
+      "p_e560d31ba76fbc49",
+      "p_27c9791341ecf996",
+      "p_6f750ca8d1f63693"
+    ]
+  },
+  "scope": {
+    "id": "kabutocho",
+    "name": "兜町・茅場町",
+    "kind": "walk",
+    "parentWalk": "nihonbashi",
+    "scope": "日本橋川南岸兜町與茅場町站周邊，沿櫻通至茅場町三丁目。",
+    "includes": "日本橋川南岸兜町與茅場町站周邊，沿櫻通至茅場町三丁目。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.nihonbashi-tokyo.jp/discover/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "nihonbashi"
+  ]
+}

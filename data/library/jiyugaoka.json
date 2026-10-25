@@ -38,6 +38,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=13888666751185333972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_3617c2776b3f5525.webp",
+        "alt": "九品山 唯在念佛院 淨眞寺的日系水彩插圖"
       }
     },
     {
@@ -82,6 +86,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E5%B1%B1%E7%94%9F%E7%85%8E%E5%BA%97/@35.6083488,139.6708585,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f521d7af96e1:0x24e656f5d983d17b!8m2!3d35.6083488!4d139.6708585!16s%2Fg%2F1tdzg0rt?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_6af6bdcf8f27fa44.webp",
+        "alt": "大山生煎店的日系水彩插圖"
       }
     },
     {
@@ -126,6 +134,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E5%8F%A4%E6%B0%91%E5%AE%B6%E8%8C%B6%E5%B1%8B.%E6%8A%B9%E8%8C%B6%E5%86%B0+%E5%8F%A4%E6%A1%91%E5%BA%B5/@35.6106826,139.6685775,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f4e031e0ab65:0xedc7143031af0912!8m2!3d35.6106826!4d139.6685775!16s%2Fg%2F1tmpkk4n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_a8729ae024a2bb45.webp",
+        "alt": "古桑庵的日系水彩插圖"
       }
     },
     {
@@ -170,6 +182,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E5%8F%B0%E6%B9%BE%E5%B8%AD%E8%8C%B6+%E8%93%AE%E6%9C%88%E5%BA%AD/@35.6077777,139.6662703,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f54155ae1507:0xb787893ed01ecaea!8m2!3d35.6077777!4d139.6662703!16s%2Fg%2F11hf1pw8l3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_97c7c35ba75a38b6.webp",
+        "alt": "台湾 席茶 蓮月庭的日系水彩插圖"
       }
     },
     {
@@ -183,7 +199,7 @@
         "「有機茶生どら Dolala」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都目黒区中根1-23-5 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "食べログ標示 Dolala 已由中根 1-23-5 遷往橫濱市旭區南本宿町；本頁保留影片中的中根原址，插圖依原店照片製作。",
       "coordinate": {
         "lat": 35.61377,
         "lng": 139.669785,
@@ -212,16 +228,20 @@
           "seconds": 874
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/dolala.tokyo/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_bbbcfa152724fbf5"
         ],
-        "status": "source-record",
+        "status": "reported-relocated",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Dolala/@35.6137654,139.6697551,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5163e74cccd:0x97c7b15e79776f57!8m2!3d35.6137654!4d139.6697551!16s%2Fg%2F11gxj8414z?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_bbbcfa152724fbf5.webp",
+        "alt": "有機茶生どら Dolala的日系水彩插圖"
       }
     },
     {
@@ -279,6 +299,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/wMyY7tcQBRkt29D97"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_4ec402daf95da05e.webp",
+        "alt": "自由が丘 ミューズスクエア (JIYUGAOKA MUSE SQUARE)的日系水彩插圖"
       }
     },
     {
@@ -321,6 +345,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E5%92%8C%E6%A0%97%E3%83%A2%E3%83%B3%E3%83%96%E3%83%A9%E3%83%B3%E5%B0%82%E9%96%80%E5%BA%97+%E3%80%8C%E6%A0%97%E6%AD%A9%E3%80%8D+%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E5%BA%97/@35.607832,139.6673889,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5a4044a25b5:0x12beb835f31dee2b!8m2!3d35.607832!4d139.6673889!16s%2Fg%2F11k0tccw7z?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_9ecab1cb225726f3.webp",
+        "alt": "和栗モンブラン専門店・栗歩的日系水彩插圖"
       }
     },
     {
@@ -334,7 +362,7 @@
         "「花きゃべつ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都目黒区自由が丘1丁目7-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "食べログ目前將自由之丘花きゃべつ標示為閉店；保留影片與原址紀錄，插圖依原店照片製作。",
       "coordinate": {
         "lat": 35.60741,
         "lng": 139.670837,
@@ -361,10 +389,14 @@
         "sourceIds": [
           "p_235b4857c973520d"
         ],
-        "status": "source-record",
+        "status": "reported-closed",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Hanakyabetsu/@35.6073925,139.6708477,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f51f5f911ed7:0x8b0823d0e1c0fdd1!8m2!3d35.6073925!4d139.6708477!16s%2Fg%2F1tnpl0x5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_235b4857c973520d.webp",
+        "alt": "花きゃべつ的日系水彩插圖"
       }
     },
     {
@@ -406,6 +438,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/H9WbCQiprJYZFFx86"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_bb6b140592115737.webp",
+        "alt": "茶房牡丹 (Sabou Botan)的日系水彩插圖"
       }
     },
     {
@@ -419,7 +455,7 @@
         "「資生堂パーラー 自由が丘店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都目黒区自由が丘1丁目4-10。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "資生堂パーラー自由が丘店已於2024年6月16日結束營業；保留影片與原址紀錄，插圖依當時店面照片製作。",
       "coordinate": {
         "lat": 35.608372,
         "lng": 139.671249,
@@ -446,10 +482,14 @@
         "sourceIds": [
           "p_07ff0e02ab26b303"
         ],
-        "status": "source-record",
+        "status": "reported-closed",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E8%B3%87%E7%94%9F%E5%A0%82PARLOUR+%E8%87%AA%E7%94%B1%E4%B9%8B%E4%B8%98%E5%BA%97/@35.6083038,139.6712061,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5680ba1f029:0xee8692e2a08eb9bf!8m2!3d35.6083038!4d139.6712061!16s%2Fg%2F11h18cyx0x?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_07ff0e02ab26b303.webp",
+        "alt": "資生堂パーラー 自由が丘店的日系水彩插圖"
       }
     },
     {
@@ -503,6 +543,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=8053498175931780579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_29cbaf7b3a1349fe.webp",
+        "alt": "Alpha Beta Coffee Club的日系水彩插圖"
       }
     },
     {
@@ -541,6 +585,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=3877242888044903392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_fe665ea89a684890.webp",
+        "alt": "amber的日系水彩插圖"
       }
     },
     {
@@ -579,6 +627,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=6745104896552956540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_5b4adbf59021de31.webp",
+        "alt": "BAGEL BASE Jiyugaoka store的日系水彩插圖"
       }
     },
     {
@@ -617,6 +669,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=2390357770953928141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_8c0c9d840b80f1d4.webp",
+        "alt": "BAKE the SHOP 自由之丘店的日系水彩插圖"
       }
     },
     {
@@ -657,6 +713,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=12243659246311635522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_0569ab808a6d8933.webp",
+        "alt": "BASIC and ACCENT的日系水彩插圖"
       }
     },
     {
@@ -704,6 +764,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=13763022833513480333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_5dee6593990c8c9c.webp",
+        "alt": "Bel Amer Jiyugaoka的日系水彩插圖"
       }
     },
     {
@@ -744,18 +808,22 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/C'EST+UNE+BONNE+IDEE/@35.6074386,139.6665058,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f58b0f7618f5:0x85bbf460b587f5ee!8m2!3d35.6074386!4d139.6665058!16s%2Fg%2F11pd2h0pry?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_8a0e382077cc0586.webp",
+        "alt": "C'EST UNE BONNE IDÉE 自由が丘店的日系水彩插圖"
       }
     },
     {
       "id": "jiyugaoka--p_192716194be3d6d7",
       "name": "C×Clabo",
-      "address": "〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−20−２０ 19K＆F自由が丘 203",
+      "address": "東京都世田谷区奥沢5-20-19 K&F自由が丘2階",
       "group": "shops",
       "categoryLabel": "購物",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「C×Clabo」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−20−２０ 19K＆F自由が丘 203。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都世田谷区奥沢5-20-19 K&F自由が丘2階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -772,7 +840,7 @@
           "url": "https://www.youtube.com/watch?v=SG1DhXg4akc"
         }
       ],
-      "official": null,
+      "official": "https://cxclabo.we-shop.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -782,6 +850,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=16189541158666466720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_192716194be3d6d7.webp",
+        "alt": "C×Clabo的日系水彩插圖"
       }
     },
     {
@@ -834,6 +906,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=17538204597583444486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_083cfefd907be600.webp",
+        "alt": "Comme'N的日系水彩插圖"
       }
     },
     {
@@ -872,6 +948,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=11807282803910227909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_0bbbb5e0dc468c37.webp",
+        "alt": "Crepe to Espresso to Jiyukei的日系水彩插圖"
       }
     },
     {
@@ -924,6 +1004,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Crepes+No+Ka+'Oi+Tokyo/@35.6069942,139.6711317,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f58a47a16119:0xa9da519cb057d149!8m2!3d35.6069942!4d139.6711317!16s%2Fg%2F11fsq27x7p?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_3e6744963c57f147.webp",
+        "alt": "Crepes NoKa'Oi （クレープス ノカオイ）的日系水彩插圖"
       }
     },
     {
@@ -968,6 +1052,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/place/D%26DEPARTMENT+TOKYO/@35.6021667,139.6582379,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f50376c78587:0xdf00610b7fe28ac2!8m2!3d35.6021667!4d139.6582379!16s%2Fg%2F1tdxqhkt?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_09e4054dfdbf4b2f.webp",
+        "alt": "D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )的日系水彩插圖"
       }
     },
     {
@@ -1006,6 +1094,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=14579334966134692029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_e82f69c0da0a46e2.webp",
+        "alt": "Dulton 自由之丘店的日系水彩插圖"
       }
     },
     {
@@ -1044,6 +1136,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=11568784088500406548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_f408adfdd044c778.webp",
+        "alt": "Dumbo的日系水彩插圖"
       }
     },
     {
@@ -1088,6 +1184,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/GOOD+CHEESE+GOOD+PIZZA+JIYUGAOKA/@35.6092654,139.6672446,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f58c62979315:0x9fa36488ec8d7997!8m2!3d35.6092654!4d139.6672446!16s%2Fg%2F11k0f0zz03?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_9ed7454b024fda82.webp",
+        "alt": "GOOD CHEESE GOOD PIZZA 自由が丘店的日系水彩插圖"
       }
     },
     {
@@ -1101,7 +1201,7 @@
         "「gouter(グテ)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都世田谷区奥沢6-13-7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "note": "食べログ目前標示九品佛的 gouter 已閉店；保留影片與原址紀錄，插圖依原店面照片製作。出發前請另行確認，勿與學藝大學的同名麵包店混淆。",
       "coordinate": {
         "lat": 35.604465,
         "lng": 139.661316,
@@ -1122,16 +1222,20 @@
           "seconds": 582
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/gouter_tokyo/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_83889c8a300ae40e"
         ],
-        "status": "source-record",
+        "status": "reported-closed",
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/place/%E3%82%B0%E3%83%86+%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E5%BA%97/data=!4m7!3m6!1s0x6018f50452fab409:0xd7fa9d14dc307baa!8m2!3d35.6298532!4d139.6856935!16s%2Fg%2F11l5nxvsyp!19sChIJCbT6UgT1GGARqnsw3BSd-tc?authuser=0&hl=zh-TW&rclk=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_83889c8a300ae40e.webp",
+        "alt": "gouter(グテ)的日系水彩插圖"
       }
     },
     {
@@ -1160,7 +1264,7 @@
           "url": "https://www.youtube.com/watch?v=TbSsmQKWbjA"
         }
       ],
-      "official": null,
+      "official": "https://grin-grin.co.jp/shop/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1170,6 +1274,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=1169839174046252349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_d5b7f6f8237e5e25.webp",
+        "alt": "grin的日系水彩插圖"
       }
     },
     {
@@ -1208,6 +1316,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=17482246203602160484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_3e64f819d52576d2.webp",
+        "alt": "I'm donut ? 自由が丘駅前的日系水彩插圖"
       }
     },
     {
@@ -1246,6 +1358,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=4799647859190862783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_6797b81e5d9ebaf3.webp",
+        "alt": "Jiyugaoka Bakery的日系水彩插圖"
       }
     },
     {
@@ -1290,6 +1406,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=3817729770014004645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_4fc1f814d24b0ce2.webp",
+        "alt": "Jiyugaoka Sando的日系水彩插圖"
       }
     },
     {
@@ -1328,6 +1448,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=5270012670766176099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_83645868e06b3292.webp",
+        "alt": "Magie du Chocolat Jiyugaoka的日系水彩插圖"
       }
     },
     {
@@ -1375,20 +1499,24 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=6425774496945274038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_8679edd8f829f7e6.webp",
+        "alt": "MILKLAND HOKKAIDO TOKYO的日系水彩插圖"
       }
     },
     {
       "id": "jiyugaoka--p_c9317f8eb9ebc033",
       "name": "MINIMAL MAAT",
-      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−７ ストークビル道玄坂 2F",
+      "address": "東京都目黒区自由が丘1-26-7 ストークビル2F",
       "group": "food",
       "categoryLabel": "咖啡",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「MINIMAL MAAT」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−７ ストークビル道玄坂 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都目黒区自由が丘1-26-7 ストークビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "部分影片說明中的鎌倉搬遷地址與 MINI DONUT FACTORY 的地址相符；此店依官方資料列於自由之丘，已合併重複影片紀錄。",
       "coordinate": {
         "lat": 35.608688,
         "lng": 139.66887599999998,
@@ -1409,18 +1537,31 @@
           "url": "https://www.youtube.com/watch?v=a-bPndpKXiA",
           "time": "33:35",
           "seconds": 2015
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "65E1KjhHIGg",
+          "title": "cafe vlog｜2021冬NEW OPENカフェ6選！／渋谷／自由が丘／日本橋／銀座／...etc",
+          "url": "https://www.youtube.com/watch?v=65E1KjhHIGg",
+          "time": "7:01",
+          "seconds": 421
         }
       ],
-      "official": null,
+      "official": "https://www.minimalmaat.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_c9317f8eb9ebc033"
+          "p_c9317f8eb9ebc033",
+          "p_254a736eebfc3859"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=9086718311451398777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_c9317f8eb9ebc033.webp",
+        "alt": "MINIMAL MAAT的日系水彩插圖"
       }
     },
     {
@@ -1473,6 +1614,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/MONT-NOM/@35.6099572,139.6687953,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5fbe9123cb3:0x75dbb2bd9409d008!8m2!3d35.6099572!4d139.6687953!16s%2Fg%2F11swfmcl56?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_7a8c49c50fec13c4.webp",
+        "alt": "MONT-NOM(モンノン)的日系水彩插圖"
       }
     },
     {
@@ -1511,6 +1656,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=7976242734637021307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_6c0c53d9d8a99a9e.webp",
+        "alt": "Mrs.BAGEL 自由が丘店的日系水彩插圖"
       }
     },
     {
@@ -1555,6 +1704,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=OZ+bread+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-31-11"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_e9f597835d8dd46c.webp",
+        "alt": "OZ bread的日系水彩插圖"
       }
     },
     {
@@ -1599,6 +1752,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=Paris+S%27eveille%EF%BC%88%E3%83%91%E3%83%AA%E3%82%BB%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%8A2%E4%B8%81%E7%9B%AE14-5"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_07f24538c3b013f1.webp",
+        "alt": "Paris S'eveille（パリセヴェイユ）的日系水彩插圖"
       }
     },
     {
@@ -1643,6 +1800,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%82TISSERIE+Mont+St.+Clair%EF%BC%88%E3%83%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%AB%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-22-4"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_4c734d5af37303a2.webp",
+        "alt": "PÂTISSERIE Mont St. Clair（モンサンクレール）的日系水彩插圖"
       }
     },
     {
@@ -1681,6 +1842,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=5655351390613922296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_af25c633c769e627.webp",
+        "alt": "PIZZA17的日系水彩插圖"
       }
     },
     {
@@ -1725,6 +1890,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=Relief+coffee+stand+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24-4-7+%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%E3%83%84%E5%A5%A5%E6%B2%A2+1F"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_02a9b798f688b70f.webp",
+        "alt": "Relief coffee stand的日系水彩插圖"
       }
     },
     {
@@ -1770,6 +1939,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=5910493606001468937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_0514cc213a0208ee.webp",
+        "alt": "RISTRETTO & CROISSANT LABORATORIO的日系水彩插圖"
       }
     },
     {
@@ -1808,6 +1981,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=2869684513458719067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_fbc6a90d27958efa.webp",
+        "alt": "Royal Crystal Coffee的日系水彩插圖"
       }
     },
     {
@@ -1848,6 +2025,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=17534631109961232462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_968b4be9ee911691.webp",
+        "alt": "Sushi Rinka的日系水彩插圖"
       }
     },
     {
@@ -1892,6 +2073,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=17279255236627517202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_86cf47e50b039bf2.webp",
+        "alt": "Tecona bagel 自由が丘的日系水彩插圖"
       }
     },
     {
@@ -1905,7 +2090,7 @@
         "「THE ESSENCE」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都目黒区自由が丘1-27-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "自由が丘.net 已將 THE ESSENCE 標示為閉店；保留影片與自由が丘ひかり街原址紀錄，插圖依當時店面照片製作。",
       "coordinate": {
         "lat": 35.609245,
         "lng": 139.669708,
@@ -1932,10 +2117,14 @@
         "sourceIds": [
           "p_a708b066a52a91e2"
         ],
-        "status": "source-record",
+        "status": "reported-closed",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE+ESSENCE+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-27-2"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_a708b066a52a91e2.webp",
+        "alt": "THE ESSENCE的日系水彩插圖"
       }
     },
     {
@@ -1989,6 +2178,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE+LAB+TOKYO+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-9-8"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_fab5a844612da925.webp",
+        "alt": "THE LAB TOKYO的日系水彩插圖"
       }
     },
     {
@@ -2027,6 +2220,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=16578050278690128711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_3ce76ce23288ac2b.webp",
+        "alt": "WeLoveDonut 自由が丘的日系水彩插圖"
       }
     },
     {
@@ -2065,6 +2262,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=11158094699012786995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_005ecfdea2b36a17.webp",
+        "alt": "Yohei Miyaguchi的日系水彩插圖"
       }
     },
     {
@@ -2109,6 +2310,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%A4%E3%83%A0%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%EF%BC%9F+%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98+%2F+%E3%83%80%E3%82%B3%E3%83%BC+%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982%E4%B8%81%E7%9B%AE11-3"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_c07261c92342bff3.webp",
+        "alt": "アイムドーナツ？ 自由が丘 / ダコー 自由が丘的日系水彩插圖"
       }
     },
     {
@@ -2153,6 +2358,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%AB+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24%E4%B8%81%E7%9B%AE26-9"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_192e7685627626d7.webp",
+        "alt": "アトリエルル的日系水彩插圖"
       }
     },
     {
@@ -2188,6 +2397,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%81%E3%82%B6%E3%83%B3%E3%83%BB%E3%83%96%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%BB%E3%82%AF%E3%83%94%E3%83%89+%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%94%EF%BC%95%E2%88%92%EF%BC%92+%E5%A5%A5%E6%B2%A2%E9%A7%85+%E5%BE%92%E6%AD%A9%EF%BC%93%E5%88%86"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_caef28ea72e47439.webp",
+        "alt": "アルチザン・ブーランジェ・クピド的日系水彩插圖"
       }
     },
     {
@@ -2229,6 +2442,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/QR5SfDsfVD9fkg6p6"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_144ffd99dc778d70.webp",
+        "alt": "バゲットラビット 自由が丘店 (baguette rabbit Jiyugaoka)的日系水彩插圖"
       }
     },
     {
@@ -2267,6 +2484,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/HAL'S+BAGEL.+%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E5%BA%97/@35.607242,139.6695871,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5fe854b0215:0x88c145805510301b!8m2!3d35.607242!4d139.6695871!16s%2Fg%2F11ymmp6kwg?coh=277533"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_b1968ddbaae6859b.webp",
+        "alt": "ハルズベーグル 自由が丘店 (HAL'S BAGEL Jiyugaoka)的日系水彩插圖"
       }
     },
     {
@@ -2320,6 +2541,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%B3%E3%81%A8%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD%E3%81%A8%E8%87%AA%E7%94%B1%E5%BD%A2+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%99%E2%88%92%EF%BC%96+Luz%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98+%EF%BC%93F"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_a2591f451c34cee9.webp",
+        "alt": "パンとエスプレッソと自由形的日系水彩插圖"
       }
     }
   ],

@@ -1,0 +1,147 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kamakura--p_3dcb05e906f51004",
+      "name": "クレープリー・アルモリック",
+      "address": "神奈川県鎌倉市大町２丁目２−34ｰ1",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「クレープリー・アルモリック」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 神奈川県鎌倉市大町２丁目２−34ｰ1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.314812,
+        "lng": 139.552155,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%A4%A7%E7%94%BA2%E4%B8%81%E7%9B%AE2%E2%88%9234%E3%83%BC1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "iHlWzlTrIOs",
+          "title": "【鎌倉】絶対に外さない鎌倉カフェ・グルメ８選【2024年保存版】古民家／非日常／江ノ電〜Kamakura food tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=iHlWzlTrIOs",
+          "time": "06:42",
+          "seconds": 402
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3dcb05e906f51004"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%A2%E3%83%AA%E3%83%83%E3%82%AF+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%A4%A7%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92%E2%88%9234%EF%BD%B01"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_3dcb05e906f51004.webp",
+        "alt": "クレープリー・アルモリック的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kamakura-omachi",
+        "name": "大町・材木座",
+        "href": "/walks/kamakura-omachi/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kamakura--p_6bc350281a45939c",
+      "name": "amugu. （アムグ）",
+      "address": "神奈川県鎌倉市材木座3-3-37",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「amugu. （アムグ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 神奈川県鎌倉市材木座3-3-37。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.310612,
+        "lng": 139.55014,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E6%9D%90%E6%9C%A8%E5%BA%A73-3-37",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "2Fn2OzljIMg",
+          "title": "cafe vlog｜鎌倉カフェグルメ10選 {2022年保存版}人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=2Fn2OzljIMg",
+          "time": "11:49",
+          "seconds": 709
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6bc350281a45939c"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/amugu./@35.3105734,139.5501435,17z/data=!3m1!4b1!4m6!3m5!1s0x6018450ba68e04a3:0x66111059e6b7db37!8m2!3d35.3105734!4d139.5501435!16s%2Fg%2F11q4bfv_mh?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_6bc350281a45939c.webp",
+        "alt": "amugu. （アムグ）的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "kamakura-omachi",
+        "name": "大町・材木座",
+        "href": "/walks/kamakura-omachi/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 2,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_3dcb05e906f51004",
+      "p_6bc350281a45939c"
+    ]
+  },
+  "scope": {
+    "id": "kamakura-omachi",
+    "name": "大町・材木座",
+    "kind": "record-area",
+    "parentWalk": "kamakura",
+    "scope": "大町大路南側至材木座商店街；與車站南口入口分開。",
+    "includes": "大町大路南側至材木座商店街；與車站南口入口分開。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.trip-kamakura.com/special/detail.php?id=3"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 2
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kamakura"
+  ]
+}

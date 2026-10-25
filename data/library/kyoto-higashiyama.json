@@ -44,20 +44,24 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=14374021738854095593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_8b836e89080ccd20.webp",
+        "alt": "八坂神社本殿的日系水彩插圖"
       }
     },
     {
       "id": "kyoto-higashiyama--p_c26bee4052bedb00",
       "name": "両足院",
-      "address": "",
+      "address": "京都府京都市東山区小松町591",
       "group": "sights",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「両足院」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 京都府京都市東山区小松町591。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "庭園參觀、坐禪等活動的開放日期與預約方式不同，請先查閱官方公告。",
       "coordinate": {
         "lat": 35.0001364,
         "lng": 135.7744446,
@@ -74,7 +78,7 @@
           "seconds": 209
         }
       ],
-      "official": null,
+      "official": "https://ryosokuin.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -84,18 +88,22 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E5%85%A9%E8%B6%B3%E9%99%A2/@35.0001364,135.7744446,17z/data=!3m1!4b1!4m6!3m5!1s0x600108c6c7d187a1:0x9e9fd08bc5cf874a!8m2!3d35.0001364!4d135.7744446!16s%2Fg%2F11tck15sw9?q=%E5%85%A9%E8%B6%B3%E9%99%A2591+Komatsucho,+Higashiyama+Ward,+Kyoto,+605-0811%E6%97%A5%E6%9C%AC&ftid=0x600108c6c7d187a1:0x9e9fd08bc5cf874a&lucs=,94246480,94224825,94227247,94227248,47071704,47069508,94218641,94228354,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_c26bee4052bedb00.webp",
+        "alt": "両足院的日系水彩插圖"
       }
     },
     {
       "id": "kyoto-higashiyama--p_987f648f151229d0",
       "name": "西来院",
-      "address": "",
+      "address": "京都府京都市東山区小松町590",
       "group": "sights",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「西来院」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 京都府京都市東山区小松町590。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -114,7 +122,7 @@
           "seconds": 329
         }
       ],
-      "official": null,
+      "official": "https://seiraiin.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -124,6 +132,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E8%A5%BF%E4%BE%86%E9%99%A2/@35.0001282,135.7745295,18.17z/data=!4m6!3m5!1s0x600108c6b6cc58d7:0xaa3f8ee6357b16de!8m2!3d35.000497!4d135.7749239!16s%2Fg%2F11h1br3tx?entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_987f648f151229d0.webp",
+        "alt": "西来院的日系水彩插圖"
       }
     },
     {
@@ -164,18 +176,22 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=11450488829936344557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_5db5f810e1ac2ea0.webp",
+        "alt": "京都四季酒店的日系水彩插圖"
       }
     },
     {
       "id": "kyoto-higashiyama--p_777a851faf84d814",
       "name": "建仁寺",
-      "address": "",
+      "address": "京都府京都市東山区小松町584",
       "group": "sights",
       "categoryLabel": "景點",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「建仁寺」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 京都府京都市東山区小松町584。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -194,7 +210,7 @@
           "seconds": 36
         }
       ],
-      "official": null,
+      "official": "https://www.kenninji.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -204,6 +220,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E5%BB%BA%E4%BB%81%E5%AF%BA/@35.0000363,135.7735632,17z/data=!3m1!4b1!4m6!3m5!1s0x600108c1242b7b27:0x7e608f1986c5bb52!8m2!3d35.0000363!4d135.7735632!16s%2Fm%2F027phyz?q=%E5%BB%BA%E4%BB%81%E5%AF%BA%EF%BC%95%EF%BC%98%EF%BC%94%E7%95%AA%E5%9C%B0+Komatsucho,+Higashiyama+Ward,+Kyoto,+605-0811%E6%97%A5%E6%9C%AC&ftid=0x600108c1242b7b27:0x7e608f1986c5bb52&lucs=,94246480,94224825,94227247,94227248,47071704,47069508,94218641,94228354,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_777a851faf84d814.webp",
+        "alt": "建仁寺的日系水彩插圖"
       }
     },
     {
@@ -238,7 +258,7 @@
           "url": "https://www.youtube.com/watch?v=ROf3HBnMTt8"
         }
       ],
-      "official": null,
+      "official": "https://gion-kitagwahanbee.com/en",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -248,6 +268,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=18390743546623491044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_12b04da60b2b1515.webp",
+        "alt": "祇園 北川半兵衛的日系水彩插圖"
       }
     },
     {
@@ -276,7 +300,7 @@
           "url": "https://www.youtube.com/watch?v=waHzhracBMk"
         }
       ],
-      "official": null,
+      "official": "https://giontsujiri.co.jp/store/saryotsujiri-honten/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -286,6 +310,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=7677863780453147220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_cca86fe0bdd22b1d.webp",
+        "alt": "茶寮都路里 祇園本店的日系水彩插圖"
       }
     },
     {
@@ -314,18 +342,29 @@
           "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ",
           "time": "0:00",
           "seconds": 0
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ"
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_5b9922cfea81ca7f"
+          "p_5b9922cfea81ca7f",
+          "p_7cdfa7c4643b4aea"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=381058408919907964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_5b9922cfea81ca7f.webp",
+        "alt": "Gion Shirakawa Namisato的日系水彩插圖"
       }
     },
     {
@@ -364,6 +403,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=9995371556413413334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_84bb23435dfac0af.webp",
+        "alt": "GOKAGO的日系水彩插圖"
       }
     },
     {
@@ -414,6 +457,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=1247454680128271484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_9f37c326a0bd41ac.webp",
+        "alt": "Miffy's Oyatsu-do by Miffy's Kitchen Gion的日系水彩插圖"
       }
     },
     {
@@ -454,39 +501,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=1138301091029721086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      }
-    },
-    {
-      "id": "kyoto-higashiyama--p_7cdfa7c4643b4aea",
-      "name": "Sueyoshicho, Higashiyama Ward, Kyoto",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Sueyoshicho, Higashiyama Ward, Kyoto」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
-      "coordinate": null,
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "MqjDjnqt9IQ",
-          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
-          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_7cdfa7c4643b4aea"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sueyoshicho%2C+Higashiyama+Ward%2C+Kyoto+ULTIMATE+JAPANESE+FOOD+TOUR+IN+KYOTO+JAPAN+TRAVEL+GUIDE+2023"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_758c064e44c195b7.webp",
+        "alt": "Pizzeria Da Naghino的日系水彩插圖"
       }
     }
   ],

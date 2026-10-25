@@ -3,214 +3,241 @@
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
-      "id": "kobe-motomachi--p_135871d72948e644",
-      "name": "SWALLOW JAPAN",
-      "address": "3-chōme-1-16 Nakamachidōri, Chuo Ward, Kobe, Hyogo 650-0027",
-      "group": "sights",
-      "categoryLabel": "顧問",
-      "caption": "影片中收錄的停留點",
+      "name": "HUMAN MADE KOBE",
+      "address": "兵庫県神戸市中央区海岸通9-2 チャータードビル1F",
+      "group": "shops",
+      "categoryLabel": "服飾・歷史建築",
+      "caption": "老銀行裡，開出神戶的新店。",
       "descriptionParagraphs": [
-        "「SWALLOW JAPAN」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-1-16 Nakamachidōri, Chuo Ward, Kobe, Hyogo 650-0027。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "2026 年開幕的神戶店，位於舊居留地具有歷史感的チャータードビル。以昔日英國銀行的氛圍為設計線索，把服飾與品牌的視覺語彙放進石造建築。",
+        "就算先從外觀開始，也能觀察石材、細窗格與入口的比例。喜歡當代服飾與歷史建築並置的人，適合把這裡接在博物館與海岸通散步之間。"
       ],
-      "note": null,
+      "official": "https://humanmade.co.jp/news/260210",
       "coordinate": {
-        "lat": 34.678701499999995,
-        "lng": 135.17517960000004,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "kEWIJS-edSk",
-          "title": "Life in Tokyo｜A Local Tokyo Walk Along the Setagaya Line",
-          "url": "https://www.youtube.com/watch?v=kEWIJS-edSk"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_135871d72948e644"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=2812636213210088015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 1
-    },
-    {
-      "id": "kobe-motomachi--minatogawa",
-      "name": "湊川神社",
-      "address": "兵庫県神戸市中央区多聞通3-1-1",
-      "group": "sights",
-      "categoryLabel": "神社・歷史",
-      "caption": "走過港邊，轉進神戶人熟悉的「楠公さん」。",
-      "descriptionParagraphs": [
-        "湊川神社在神戶站北側，祭祀楠木正成，當地人親切地稱它「楠公さん」。神社於1872年創建，境內留下與正成相關的墓所及史跡，讓熱鬧港都的散步，也能接上一段更早的歷史。",
-        "寬闊的木造表門與石燈籠，將街上的節奏慢慢隔開。從Harborland往車站方向走，可以把這裡作為港邊散策的延伸：看過海與現代商場，再進入樹蔭與參道，感受城市不同的安靜面貌。"
-      ],
-      "note": "位於元町西側的自選延伸，可沿港邊接往神戶站；若另去三宮方向用餐，請依體力擇一並另留步行時間。",
-      "official": "https://www.minatogawajinja.or.jp/",
-      "verifiedAt": "2026-10-24",
-      "coordinate": {
-        "lat": 34.68096317826087,
-        "lng": 135.1757241565217,
+        "lat": 34.6864381,
+        "lng": 135.19272214285715,
+        "url": "https://www.openstreetmap.org/way/247610791",
         "provider": "osm",
-        "label": "OpenStreetMap 神社敷地代表點",
-        "url": "https://www.openstreetmap.org/relation/14742022",
+        "label": "OpenStreetMap 地點代表點",
         "license": "ODbL 1.0",
         "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "依神社敷地外框計算代表點，非入口實測；現場請由對外開放的表門參拜。"
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
       },
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/minatogawa.webp",
-        "alt": "湊川神社表門與石燈籠的日系水彩插圖"
-      },
+      "note": "",
+      "id": "kobe-motomachi--humanmade",
+      "order": 1,
+      "verifiedAt": "2026-10-24",
       "sources": [
         {
           "channel": "老辣妹",
           "videoId": "a7EScTAuodo",
           "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
-          "time": "20:48",
-          "seconds": 1248,
-          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1248s"
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=362s",
+          "time": "6:02",
+          "seconds": 362
         }
       ],
-      "description": "湊川神社在神戶站北側，祭祀楠木正成，當地人親切地稱它「楠公さん」。神社於1872年創建，境內留下與正成相關的墓所及史跡，讓熱鬧港都的散步，也能接上一段更早的歷史。\n\n寬闊的木造表門與石燈籠，將街上的節奏慢慢隔開。從Harborland往車站方向走，可以把這裡作為港邊散策的延伸：看過海與現代商場，再進入樹蔭與參道，感受城市不同的安靜面貌。",
-      "order": 2,
-      "recommendation": null
+      "description": "2026 年開幕的神戶店，位於舊居留地具有歷史感的チャータードビル。以昔日英國銀行的氛圍為設計線索，把服飾與品牌的視覺語彙放進石造建築。\n\n就算先從外觀開始，也能觀察石材、細窗格與入口的比例。喜歡當代服飾與歷史建築並置的人，適合把這裡接在博物館與海岸通散步之間。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/humanmade.webp",
+        "alt": "HUMAN MADE KOBE，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-motomachi",
+        "name": "神戶元町・舊居留地",
+        "href": "/walks/kobe-motomachi/"
+      }
     },
     {
-      "name": "神戸ハーバーランドumie・MOSAIC",
-      "address": "兵庫県神戸市中央区東川崎町1-6-1（MOSAIC周邊）",
-      "group": "shops",
-      "categoryLabel": "港邊商場・餐飲",
-      "caption": "在對岸，換一個看港灣的角度。",
+      "name": "神戸市立博物館",
+      "address": "兵庫県神戸市中央区京町24",
+      "group": "sights",
+      "categoryLabel": "博物館・銀行建築",
+      "caption": "先從一座石造銀行，讀神戶的開港故事。",
       "descriptionParagraphs": [
-        "Harborland 的大型商業區，從購物館延伸到臨海的 MOSAIC。餐飲、商店與海邊步道相連，適合在散步最後依天氣與體力自由安排。",
-        "從這一側回望美利堅公園，港塔與船隻會形成不同的構圖。可以只走水岸，也可以找一家店休息；如果想同時看夕陽與夜景，記得留足移動時間。"
+        "舊居留地裡的博物館，以歷史、考古與國際文化交流為主題。原銀行建築的石造立面與古典列柱，也讓看展從走近大門時就已經開始。",
+        "可以先欣賞外觀，再依展覽內容決定停留長短。從這裡走向南京町，建築與街道的轉換，會讓神戶不同文化共存的樣子變得更具體。"
       ],
-      "official": "https://harborland.co.jp/area_guide/umie/",
+      "official": "https://kobecitymuseum.jp/",
       "coordinate": {
-        "lat": 34.679356,
-        "lng": 135.184692,
+        "lat": 34.68732191666667,
+        "lng": 135.19292733333336,
+        "url": "https://www.openstreetmap.org/way/182530400",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "note": "原則週一休館，遇國定假日順延。",
+      "extraSources": [
+        "https://www.feel-kobe.jp/model_course/modelcourse_04/"
+      ],
+      "photoPage": "https://www.feel-kobe.jp/model_course/modelcourse_04/",
+      "id": "kobe-motomachi--museum",
+      "order": 2,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "舊居留地裡的博物館，以歷史、考古與國際文化交流為主題。原銀行建築的石造立面與古典列柱，也讓看展從走近大門時就已經開始。\n\n可以先欣賞外觀，再依展覽內容決定停留長短。從這裡走向南京町，建築與街道的轉換，會讓神戶不同文化共存的樣子變得更具體。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/museum.webp",
+        "alt": "神戸市立博物館，依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": "看一段神戶的城市故事。",
+      "canonicalArea": {
+        "id": "kobe-motomachi",
+        "name": "神戶元町・舊居留地",
+        "href": "/walks/kobe-motomachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nankinmachi.or.jp/about",
+          "https://www.montplus.com/",
+          "https://kobecitymuseum.jp/"
+        ]
+      }
+    },
+    {
+      "name": "KOBEとんぼ玉ミュージアム",
+      "address": "兵庫県神戸市中央区京町79 日本ビルヂング2F",
+      "group": "sights",
+      "categoryLabel": "玻璃工藝博物館",
+      "caption": "把一顆玻璃珠，放大成一個世界。",
+      "descriptionParagraphs": [
+        "以燈工玻璃為主題的博物館，介紹從古代到現代的玻璃珠與工藝作品。小小的色彩、紋樣與透明感，在近距離觀看時展現不同層次。",
+        "館內也安排製作體驗與選物，適合把單純看展延伸成動手做的記憶。若要參加體驗，請另留製作與冷卻等待時間，再接回舊居留地的街道。"
+      ],
+      "official": "https://lampwork-museum.com/",
+      "coordinate": {
+        "lat": 34.6885803,
+        "lng": 135.1937695,
+        "url": "https://www.openstreetmap.org/node/6403847583",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "",
+      "id": "kobe-motomachi--tombodama",
+      "order": 3,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "以燈工玻璃為主題的博物館，介紹從古代到現代的玻璃珠與工藝作品。小小的色彩、紋樣與透明感，在近距離觀看時展現不同層次。\n\n館內也安排製作體驗與選物，適合把單純看展延伸成動手做的記憶。若要參加體驗，請另留製作與冷卻等待時間，再接回舊居留地的街道。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/tombodama.webp",
+        "alt": "KOBEとんぼ玉ミュージアム，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": "往舊居留地看蜻蜓玉與玻璃工藝展示。",
+      "canonicalArea": {
+        "id": "kobe-motomachi",
+        "name": "神戶元町・舊居留地",
+        "href": "/walks/kobe-motomachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kannonya.co.jp/?mode=f3",
+          "https://feelseen.jp/pages/store",
+          "https://lampwork-museum.com/"
+        ]
+      }
+    },
+    {
+      "name": "大丸神戸店",
+      "address": "兵庫県神戸市中央区明石町40",
+      "group": "shops",
+      "categoryLabel": "百貨・街角建築",
+      "caption": "彎過石造街角，再逛一點神戶日常。",
+      "descriptionParagraphs": [
+        "位在舊居留地與元町商店街交界的百貨店，石造外觀與街角空間都是散步的一部分。館內從食品、服飾到生活用品，也讓行程多了自由調整的餘地。",
+        "可以把地下食品區當成挑伴手禮的地方，或在逛完小店後補一段室內休息。從門前往不同方向走，古典街景、商店街與南京町很快就會切換。"
+      ],
+      "official": "https://www.daimaru.co.jp/kobe/",
+      "coordinate": {
+        "lat": 34.68866,
+        "lng": 135.190674,
         "provider": "gsi",
         "label": "日本國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%B7%9D%E5%B4%8E%E7%94%BA%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%96%E7%95%AA",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%98%8E%E7%9F%B3%E7%94%BA%EF%BC%94%EF%BC%90%E7%95%AA%E5%9C%B0",
         "license": "国土地理院コンテンツ利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
         "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
       },
-      "note": "位於元町西側的自選延伸，可沿港邊接往神戶站；若另去三宮方向用餐，請依體力擇一並另留步行時間。",
-      "extraSources": [
-        "https://kannonya.co.jp/?mode=f3"
-      ],
-      "photoPage": "https://harborland.co.jp/area_guide/umie/",
-      "id": "kobe-motomachi--umie",
-      "order": 3,
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "a7EScTAuodo",
-          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=656s",
-          "time": "10:56",
-          "seconds": 656
-        }
-      ],
-      "description": "Harborland 的大型商業區，從購物館延伸到臨海的 MOSAIC。餐飲、商店與海邊步道相連，適合在散步最後依天氣與體力自由安排。\n\n從這一側回望美利堅公園，港塔與船隻會形成不同的構圖。可以只走水岸，也可以找一家店休息；如果想同時看夕陽與夜景，記得留足移動時間。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/umie.webp",
-        "alt": "神戸ハーバーランドumie・MOSAIC，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "神戸ポートタワー",
-      "address": "兵庫県神戸市中央区波止場町5-5",
-      "group": "sights",
-      "categoryLabel": "展望塔",
-      "caption": "紅色塔身，替港都畫一條曲線。",
-      "descriptionParagraphs": [
-        "紅色鋼構與向上展開的塔身，是神戶港最有辨識度的輪廓之一。整修後的展望空間與屋上區域，讓看港景多了不同高度的視角。",
-        "可以先在水岸看它如何與船隻、建築相映，再決定是否購票登塔。傍晚到夜間的燈光變化，也適合留給喜歡慢慢拍街景的人。"
-      ],
-      "official": "https://www.kobe-port-tower.com/",
-      "coordinate": {
-        "lat": 34.68262978666667,
-        "lng": 135.18672204444448,
-        "url": "https://www.openstreetmap.org/way/99457921",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "note": "展望層需購票；屋上區域可能因天候關閉。",
-      "photoPage": "https://www.feel-kobe.jp/facilities/0000000144/",
-      "id": "kobe-motomachi--tower",
+      "note": "",
+      "photoPage": "https://kisspress.jp/articles/62260/",
+      "id": "kobe-motomachi--daimaru",
       "order": 4,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "紅色鋼構與向上展開的塔身，是神戶港最有辨識度的輪廓之一。整修後的展望空間與屋上區域，讓看港景多了不同高度的視角。\n\n可以先在水岸看它如何與船隻、建築相映，再決定是否購票登塔。傍晚到夜間的燈光變化，也適合留給喜歡慢慢拍街景的人。",
+      "description": "位在舊居留地與元町商店街交界的百貨店，石造外觀與街角空間都是散步的一部分。館內從食品、服飾到生活用品，也讓行程多了自由調整的餘地。\n\n可以把地下食品區當成挑伴手禮的地方，或在逛完小店後補一段室內休息。從門前往不同方向走，古典街景、商店街與南京町很快就會切換。",
       "illustration": {
-        "image": "/art/walks/kobe-motomachi/tower.webp",
-        "alt": "神戸ポートタワー，依實照繪製的日系水彩插圖"
+        "image": "/art/walks/kobe-motomachi/daimaru.webp",
+        "alt": "大丸神戸店，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "在地面欣賞港塔的線條與港口街景，不必為登塔趕時間。"
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-motomachi",
+        "name": "神戶元町・舊居留地",
+        "href": "/walks/kobe-motomachi/"
+      }
     },
     {
-      "name": "神戸海洋博物館",
-      "address": "兵庫県神戸市中央区波止場町2-2",
-      "group": "sights",
-      "categoryLabel": "港口・船舶博物館",
-      "caption": "把港灣看見的船，再往裡讀。",
+      "name": "ユーハイム 神戸元町本店",
+      "address": "兵庫県神戸市中央区元町通1-4-13",
+      "group": "food",
+      "categoryLabel": "洋菓子・喫茶",
+      "caption": "沿著元町，留一份老派的甜。",
       "descriptionParagraphs": [
-        "港邊的海洋博物館，從船舶、港口與航運的角度介紹神戶。展場中的船模與資料，讓室外看到的海港景色有了更多可以理解的細節。",
-        "適合對交通、船舶或城市發展有興趣的人，也能作為炎熱或下雨時的室內停留。看完再回到水岸，比只拍下地標輪廓多了一段故事。"
+        "元町商店街上的洋菓子本店，以年輪蛋糕與各式甜點連結神戶的西式點心文化。樓下選購、樓上喫茶的安排，適合依自己的時間決定停留方式。",
+        "想慢慢坐下，可以為茶點留一段完整時間；想繼續散步，也能先挑適合帶走的點心。與周邊泡芙、起司蛋糕相比，這裡又是另一種洋菓子的表情。"
       ],
-      "official": "https://kobe-maritime-museum.com/",
+      "official": "https://www.juchheim.co.jp/shop/%E6%9C%AC%E5%BA%97",
       "coordinate": {
-        "lat": 34.6829503,
-        "lng": 135.1884501,
-        "url": "https://www.openstreetmap.org/node/1423083509",
+        "lat": 34.688696,
+        "lng": 135.189129,
+        "url": "https://www.openstreetmap.org/node/3496550396",
         "provider": "osm",
         "label": "OpenStreetMap 地點代表點",
         "license": "ODbL 1.0",
         "licenseUrl": "https://www.openstreetmap.org/copyright",
         "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
       },
-      "note": "通常週一休館，遇國定假日順延。",
-      "id": "kobe-motomachi--maritime",
+      "note": "週三定休。",
+      "photoPage": "https://kobe-journal.com/archives/9777797262.html",
+      "id": "kobe-motomachi--juchheim",
       "order": 5,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "港邊的海洋博物館，從船舶、港口與航運的角度介紹神戶。展場中的船模與資料，讓室外看到的海港景色有了更多可以理解的細節。\n\n適合對交通、船舶或城市發展有興趣的人，也能作為炎熱或下雨時的室內停留。看完再回到水岸，比只拍下地標輪廓多了一段故事。",
+      "description": "元町商店街上的洋菓子本店，以年輪蛋糕與各式甜點連結神戶的西式點心文化。樓下選購、樓上喫茶的安排，適合依自己的時間決定停留方式。\n\n想慢慢坐下，可以為茶點留一段完整時間；想繼續散步，也能先挑適合帶走的點心。與周邊泡芙、起司蛋糕相比，這裡又是另一種洋菓子的表情。",
       "illustration": {
-        "image": "/art/walks/kobe-motomachi/maritime.webp",
-        "alt": "神戸海洋博物館，依實照繪製的日系水彩插圖"
+        "image": "/art/walks/kobe-motomachi/juchheim.webp",
+        "alt": "ユーハイム 神戸元町本店，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-motomachi",
+        "name": "神戶元町・舊居留地",
+        "href": "/walks/kobe-motomachi/"
+      }
     },
     {
-      "name": "メリケンパーク",
-      "address": "兵庫県神戸市中央区波止場町2",
-      "group": "sights",
-      "categoryLabel": "港灣公園",
-      "caption": "走到草地邊，把目光交給海。",
+      "name": "エストローヤル 南京町本店",
+      "address": "兵庫県神戸市中央区元町通1-5-3",
+      "group": "food",
+      "categoryLabel": "法式泡芙",
+      "caption": "在中華街旁，換一口奶油香。",
       "descriptionParagraphs": [
-        "開闊的港邊公園，把草地、船影、公共藝術與神戶的地標建築放進同一片風景。從密集街巷走出來，海風與水面的尺度會讓午後自然放鬆。",
-        "可以沿著水岸散步，看看港塔與海洋博物館的輪廓，也可以只在草地旁坐一會兒。想延長行程，再往 Harborland 走，將日間港景接到傍晚燈光。"
+        "以シュー・ア・ラ・クレーム聞名的法式甜點店，泡芙之外也供應閃電泡芙、千層與各式烘焙點心。南京町周邊的熱鬧，在這裡轉成另一種神戶的甜味。",
+        "可以挑一份小點心，讓散步有個短暫的味覺轉場。若想帶回伴手禮，烘焙餅乾也是一種選擇；不一定要把每家店都吃成一頓下午茶。"
       ],
-      "official": "https://www.feel-kobe.jp/facilities/0000000144/",
+      "official": "https://www.estroyal.co.jp/",
       "coordinate": {
-        "lat": 34.6835132559322,
-        "lng": 135.18913883559318,
-        "url": "https://www.openstreetmap.org/way/529083594",
+        "lat": 34.6885027,
+        "lng": 135.1886407,
+        "url": "https://www.openstreetmap.org/node/6325721686",
         "provider": "osm",
         "label": "OpenStreetMap 地點代表點",
         "license": "ODbL 1.0",
@@ -218,100 +245,118 @@
         "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
       },
       "note": "",
-      "id": "kobe-motomachi--meriken",
+      "id": "kobe-motomachi--estroyal",
       "order": 6,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "開闊的港邊公園，把草地、船影、公共藝術與神戶的地標建築放進同一片風景。從密集街巷走出來，海風與水面的尺度會讓午後自然放鬆。\n\n可以沿著水岸散步，看看港塔與海洋博物館的輪廓，也可以只在草地旁坐一會兒。想延長行程，再往 Harborland 走，將日間港景接到傍晚燈光。",
+      "description": "以シュー・ア・ラ・クレーム聞名的法式甜點店，泡芙之外也供應閃電泡芙、千層與各式烘焙點心。南京町周邊的熱鬧，在這裡轉成另一種神戶的甜味。\n\n可以挑一份小點心，讓散步有個短暫的味覺轉場。若想帶回伴手禮，烘焙餅乾也是一種選擇；不一定要把每家店都吃成一頓下午茶。",
       "illustration": {
-        "image": "/art/walks/kobe-motomachi/meriken.webp",
-        "alt": "メリケンパーク，依實景照片繪製的日系水彩插圖"
+        "image": "/art/walks/kobe-motomachi/estroyal.webp",
+        "alt": "エストローヤル 南京町本店，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": "沿公園公共步道散步，看見喜歡的海景就停一下。"
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-motomachi",
+        "name": "神戶元町・舊居留地",
+        "href": "/walks/kobe-motomachi/"
+      }
     },
     {
-      "id": "kobe-motomachi--p_16bf5a9d7743a0e1",
-      "name": "FISH IN THE FOREST TOOTH TOOTH",
-      "address": "2-8 Hatobachō, Chuo Ward, Kobe, Hyogo 650-0042",
+      "name": "南京町（廣場周邊）",
+      "address": "兵庫県神戸市中央区栄町通1丁目・元町通1–2丁目",
+      "group": "sights",
+      "categoryLabel": "中華街・街頭小吃",
+      "caption": "轉進燈籠下，街道就熱鬧起來。",
+      "descriptionParagraphs": [
+        "位於元町商店街南側的中華街，店面、紅燈籠與廣場把街道變成神戶最有辨識度的風景之一。這裡的形成與開港後華人的生活、商業活動相連。",
+        "不必把每個攤位排成清單，順著食慾走、留意轉角與門面更輕鬆。以中央廣場附近作為會合點，也方便接著往洋菓子店或海邊移動。"
+      ],
+      "official": "https://www.nankinmachi.or.jp/about",
+      "coordinate": {
+        "lat": 34.688218658333334,
+        "lng": 135.18810417499998,
+        "url": "https://www.openstreetmap.org/relation/8148512",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "note": "",
+      "photoPage": "https://www.japan-guide.com/e/e3551.html",
+      "id": "kobe-motomachi--nankin",
+      "order": 7,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "位於元町商店街南側的中華街，店面、紅燈籠與廣場把街道變成神戶最有辨識度的風景之一。這裡的形成與開港後華人的生活、商業活動相連。\n\n不必把每個攤位排成清單，順著食慾走、留意轉角與門面更輕鬆。以中央廣場附近作為會合點，也方便接著往洋菓子店或海邊移動。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/nankin.webp",
+        "alt": "南京町（廣場周邊），依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": "逛廣場與周邊街道，隨興挑小吃。",
+      "canonicalArea": {
+        "id": "kobe-motomachi",
+        "name": "神戶元町・舊居留地",
+        "href": "/walks/kobe-motomachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nankinmachi.or.jp/about",
+          "https://www.montplus.com/",
+          "https://kobecitymuseum.jp/"
+        ]
+      }
+    },
+    {
+      "name": "観音屋 元町本店",
+      "address": "兵庫県神戸市中央区元町通3-9-23",
       "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "起司蛋糕・喫茶",
+      "caption": "熱起司與甜蛋糕，在這裡相遇。",
       "descriptionParagraphs": [
-        "「FISH IN THE FOREST TOOTH TOOTH」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-8 Hatobachō, Chuo Ward, Kobe, Hyogo 650-0042。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "1975 年在神戶元町創業的喫茶店，以加熱後會拉絲的丹麥起司蛋糕聞名。起司的鹹香與蛋糕的甜味，構成不同於一般冷藏起司蛋糕的口感。",
+        "可以當成逛元町商店街時的下午茶，也可以選擇帶回家加熱享用。若已吃過其他洋菓子，不妨把這裡留作另一日的理由，讓散步保留一點餘裕。"
       ],
-      "note": null,
+      "official": "https://kannonya.co.jp/?mode=f3",
       "coordinate": {
-        "lat": 34.684819399999995,
-        "lng": 135.1897292,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "57OtKo9avlw",
-          "title": "【東京ランチ10選】市川猿之助が食べた楽屋めし、パン食べ放題ニューオープンなど！",
-          "url": "https://www.youtube.com/watch?v=57OtKo9avlw"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_16bf5a9d7743a0e1"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=7042070532357341959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "order": 7
-    },
-    {
-      "name": "FEELSEEN KOBE",
-      "address": "兵庫県神戸市中央区海岸通1-2-8 第三萬利ビル1F",
-      "group": "shops",
-      "categoryLabel": "生活選物",
-      "caption": "讓布料、器物與色彩，接住旅途靈感。",
-      "descriptionParagraphs": [
-        "海岸通的生活風格選物店，把服飾、古物、職人器皿與織品放在同一個空間。不同地方的創作與手作痕跡相遇，像把港都擅長交流的個性搬進室內。",
-        "可以從一塊布、一只盤子或一件想穿的衣服慢慢看，不必急著買什麼。與周邊的石造建築、咖啡館一起逛，能看到觀光地標以外的神戶表情。"
-      ],
-      "official": "https://feelseen.jp/pages/store",
-      "coordinate": {
-        "lat": 34.686428,
-        "lng": 135.188858,
-        "provider": "gsi",
-        "label": "日本國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%92%E7%95%AA%EF%BC%98%E5%8F%B7",
-        "license": "国土地理院コンテンツ利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+        "lat": 34.6882863,
+        "lng": 135.1863732,
+        "url": "https://www.openstreetmap.org/node/7591769111",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
       },
       "note": "",
       "extraSources": [
-        "https://feelseen.jp/pages/about"
+        "https://kannonya.co.jp/"
       ],
-      "id": "kobe-motomachi--feelseen",
+      "photoPage": "https://kannonya.co.jp/",
+      "id": "kobe-motomachi--kannonya",
       "order": 8,
       "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "a7EScTAuodo",
-          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=546s",
-          "time": "9:06",
-          "seconds": 546
-        }
-      ],
-      "description": "海岸通的生活風格選物店，把服飾、古物、職人器皿與織品放在同一個空間。不同地方的創作與手作痕跡相遇，像把港都擅長交流的個性搬進室內。\n\n可以從一塊布、一只盤子或一件想穿的衣服慢慢看，不必急著買什麼。與周邊的石造建築、咖啡館一起逛，能看到觀光地標以外的神戶表情。",
+      "sources": [],
+      "description": "1975 年在神戶元町創業的喫茶店，以加熱後會拉絲的丹麥起司蛋糕聞名。起司的鹹香與蛋糕的甜味，構成不同於一般冷藏起司蛋糕的口感。\n\n可以當成逛元町商店街時的下午茶，也可以選擇帶回家加熱享用。若已吃過其他洋菓子，不妨把這裡留作另一日的理由，讓散步保留一點餘裕。",
       "illustration": {
-        "image": "/art/walks/kobe-motomachi/feelseen.webp",
-        "alt": "FEELSEEN KOBE，依實照繪製的日系水彩插圖"
+        "image": "/art/walks/kobe-motomachi/kannonya.webp",
+        "alt": "観音屋 元町本店，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": "在元町本店吃一份熱起司蛋糕。",
+      "canonicalArea": {
+        "id": "kobe-motomachi",
+        "name": "神戶元町・舊居留地",
+        "href": "/walks/kobe-motomachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kannonya.co.jp/?mode=f3",
+          "https://feelseen.jp/pages/store",
+          "https://lampwork-museum.com/"
+        ]
+      }
     },
     {
       "name": "パティスリー モンプリュ 本店",
@@ -344,333 +389,78 @@
         "image": "/art/walks/kobe-motomachi/monteplus.webp",
         "alt": "パティスリー モンプリュ 本店，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "選一份法式甜點，坐下休息。"
+      "recommendation": "選一份法式甜點，坐下休息。",
+      "canonicalArea": {
+        "id": "kobe-motomachi",
+        "name": "神戶元町・舊居留地",
+        "href": "/walks/kobe-motomachi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nankinmachi.or.jp/about",
+          "https://www.montplus.com/",
+          "https://kobecitymuseum.jp/"
+        ]
+      }
     },
     {
-      "name": "観音屋 元町本店",
-      "address": "兵庫県神戸市中央区元町通3-9-23",
-      "group": "food",
-      "categoryLabel": "起司蛋糕・喫茶",
-      "caption": "熱起司與甜蛋糕，在這裡相遇。",
+      "name": "FEELSEEN KOBE",
+      "address": "兵庫県神戸市中央区海岸通1-2-8 第三萬利ビル1F",
+      "group": "shops",
+      "categoryLabel": "生活選物",
+      "caption": "讓布料、器物與色彩，接住旅途靈感。",
       "descriptionParagraphs": [
-        "1975 年在神戶元町創業的喫茶店，以加熱後會拉絲的丹麥起司蛋糕聞名。起司的鹹香與蛋糕的甜味，構成不同於一般冷藏起司蛋糕的口感。",
-        "可以當成逛元町商店街時的下午茶，也可以選擇帶回家加熱享用。若已吃過其他洋菓子，不妨把這裡留作另一日的理由，讓散步保留一點餘裕。"
+        "海岸通的生活風格選物店，把服飾、古物、職人器皿與織品放在同一個空間。不同地方的創作與手作痕跡相遇，像把港都擅長交流的個性搬進室內。",
+        "可以從一塊布、一只盤子或一件想穿的衣服慢慢看，不必急著買什麼。與周邊的石造建築、咖啡館一起逛，能看到觀光地標以外的神戶表情。"
       ],
-      "official": "https://kannonya.co.jp/?mode=f3",
+      "official": "https://feelseen.jp/pages/store",
       "coordinate": {
-        "lat": 34.6882863,
-        "lng": 135.1863732,
-        "url": "https://www.openstreetmap.org/node/7591769111",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+        "lat": 34.686428,
+        "lng": 135.188858,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%92%E7%95%AA%EF%BC%98%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
       },
       "note": "",
       "extraSources": [
-        "https://kannonya.co.jp/"
+        "https://feelseen.jp/pages/about"
       ],
-      "photoPage": "https://kannonya.co.jp/",
-      "id": "kobe-motomachi--kannonya",
+      "id": "kobe-motomachi--feelseen",
       "order": 10,
       "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "1975 年在神戶元町創業的喫茶店，以加熱後會拉絲的丹麥起司蛋糕聞名。起司的鹹香與蛋糕的甜味，構成不同於一般冷藏起司蛋糕的口感。\n\n可以當成逛元町商店街時的下午茶，也可以選擇帶回家加熱享用。若已吃過其他洋菓子，不妨把這裡留作另一日的理由，讓散步保留一點餘裕。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/kannonya.webp",
-        "alt": "観音屋 元町本店，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": "用起司蛋糕與飲品開始，吃完再往港邊慢走。"
-    },
-    {
-      "name": "南京町（廣場周邊）",
-      "address": "兵庫県神戸市中央区栄町通1丁目・元町通1–2丁目",
-      "group": "sights",
-      "categoryLabel": "中華街・街頭小吃",
-      "caption": "轉進燈籠下，街道就熱鬧起來。",
-      "descriptionParagraphs": [
-        "位於元町商店街南側的中華街，店面、紅燈籠與廣場把街道變成神戶最有辨識度的風景之一。這裡的形成與開港後華人的生活、商業活動相連。",
-        "不必把每個攤位排成清單，順著食慾走、留意轉角與門面更輕鬆。以中央廣場附近作為會合點，也方便接著往洋菓子店或海邊移動。"
-      ],
-      "official": "https://www.nankinmachi.or.jp/about",
-      "coordinate": {
-        "lat": 34.688218658333334,
-        "lng": 135.18810417499998,
-        "url": "https://www.openstreetmap.org/relation/8148512",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
-      },
-      "note": "",
-      "photoPage": "https://www.japan-guide.com/e/e3551.html",
-      "id": "kobe-motomachi--nankin",
-      "order": 11,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "位於元町商店街南側的中華街，店面、紅燈籠與廣場把街道變成神戶最有辨識度的風景之一。這裡的形成與開港後華人的生活、商業活動相連。\n\n不必把每個攤位排成清單，順著食慾走、留意轉角與門面更輕鬆。以中央廣場附近作為會合點，也方便接著往洋菓子店或海邊移動。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/nankin.webp",
-        "alt": "南京町（廣場周邊），依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": "逛廣場與周邊街道，隨興挑小吃。"
-    },
-    {
-      "name": "エストローヤル 南京町本店",
-      "address": "兵庫県神戸市中央区元町通1-5-3",
-      "group": "food",
-      "categoryLabel": "法式泡芙",
-      "caption": "在中華街旁，換一口奶油香。",
-      "descriptionParagraphs": [
-        "以シュー・ア・ラ・クレーム聞名的法式甜點店，泡芙之外也供應閃電泡芙、千層與各式烘焙點心。南京町周邊的熱鬧，在這裡轉成另一種神戶的甜味。",
-        "可以挑一份小點心，讓散步有個短暫的味覺轉場。若想帶回伴手禮，烘焙餅乾也是一種選擇；不一定要把每家店都吃成一頓下午茶。"
-      ],
-      "official": "https://www.estroyal.co.jp/",
-      "coordinate": {
-        "lat": 34.6885027,
-        "lng": 135.1886407,
-        "url": "https://www.openstreetmap.org/node/6325721686",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
-      },
-      "note": "",
-      "id": "kobe-motomachi--estroyal",
-      "order": 12,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "以シュー・ア・ラ・クレーム聞名的法式甜點店，泡芙之外也供應閃電泡芙、千層與各式烘焙點心。南京町周邊的熱鬧，在這裡轉成另一種神戶的甜味。\n\n可以挑一份小點心，讓散步有個短暫的味覺轉場。若想帶回伴手禮，烘焙餅乾也是一種選擇；不一定要把每家店都吃成一頓下午茶。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/estroyal.webp",
-        "alt": "エストローヤル 南京町本店，依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "ユーハイム 神戸元町本店",
-      "address": "兵庫県神戸市中央区元町通1-4-13",
-      "group": "food",
-      "categoryLabel": "洋菓子・喫茶",
-      "caption": "沿著元町，留一份老派的甜。",
-      "descriptionParagraphs": [
-        "元町商店街上的洋菓子本店，以年輪蛋糕與各式甜點連結神戶的西式點心文化。樓下選購、樓上喫茶的安排，適合依自己的時間決定停留方式。",
-        "想慢慢坐下，可以為茶點留一段完整時間；想繼續散步，也能先挑適合帶走的點心。與周邊泡芙、起司蛋糕相比，這裡又是另一種洋菓子的表情。"
-      ],
-      "official": "https://www.juchheim.co.jp/shop/%E6%9C%AC%E5%BA%97",
-      "coordinate": {
-        "lat": 34.688696,
-        "lng": 135.189129,
-        "url": "https://www.openstreetmap.org/node/3496550396",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "note": "週三定休。",
-      "photoPage": "https://kobe-journal.com/archives/9777797262.html",
-      "id": "kobe-motomachi--juchheim",
-      "order": 13,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "元町商店街上的洋菓子本店，以年輪蛋糕與各式甜點連結神戶的西式點心文化。樓下選購、樓上喫茶的安排，適合依自己的時間決定停留方式。\n\n想慢慢坐下，可以為茶點留一段完整時間；想繼續散步，也能先挑適合帶走的點心。與周邊泡芙、起司蛋糕相比，這裡又是另一種洋菓子的表情。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/juchheim.webp",
-        "alt": "ユーハイム 神戸元町本店，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "大丸神戸店",
-      "address": "兵庫県神戸市中央区明石町40",
-      "group": "shops",
-      "categoryLabel": "百貨・街角建築",
-      "caption": "彎過石造街角，再逛一點神戶日常。",
-      "descriptionParagraphs": [
-        "位在舊居留地與元町商店街交界的百貨店，石造外觀與街角空間都是散步的一部分。館內從食品、服飾到生活用品，也讓行程多了自由調整的餘地。",
-        "可以把地下食品區當成挑伴手禮的地方，或在逛完小店後補一段室內休息。從門前往不同方向走，古典街景、商店街與南京町很快就會切換。"
-      ],
-      "official": "https://www.daimaru.co.jp/kobe/",
-      "coordinate": {
-        "lat": 34.68866,
-        "lng": 135.190674,
-        "provider": "gsi",
-        "label": "日本國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%98%8E%E7%9F%B3%E7%94%BA%EF%BC%94%EF%BC%90%E7%95%AA%E5%9C%B0",
-        "license": "国土地理院コンテンツ利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
-      },
-      "note": "",
-      "photoPage": "https://kisspress.jp/articles/62260/",
-      "id": "kobe-motomachi--daimaru",
-      "order": 14,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "位在舊居留地與元町商店街交界的百貨店，石造外觀與街角空間都是散步的一部分。館內從食品、服飾到生活用品，也讓行程多了自由調整的餘地。\n\n可以把地下食品區當成挑伴手禮的地方，或在逛完小店後補一段室內休息。從門前往不同方向走，古典街景、商店街與南京町很快就會切換。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/daimaru.webp",
-        "alt": "大丸神戸店，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "神戸市立博物館",
-      "address": "兵庫県神戸市中央区京町24",
-      "group": "sights",
-      "categoryLabel": "博物館・銀行建築",
-      "caption": "先從一座石造銀行，讀神戶的開港故事。",
-      "descriptionParagraphs": [
-        "舊居留地裡的博物館，以歷史、考古與國際文化交流為主題。原銀行建築的石造立面與古典列柱，也讓看展從走近大門時就已經開始。",
-        "可以先欣賞外觀，再依展覽內容決定停留長短。從這裡走向南京町，建築與街道的轉換，會讓神戶不同文化共存的樣子變得更具體。"
-      ],
-      "official": "https://kobecitymuseum.jp/",
-      "coordinate": {
-        "lat": 34.68732191666667,
-        "lng": 135.19292733333336,
-        "url": "https://www.openstreetmap.org/way/182530400",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
-      },
-      "note": "原則週一休館，遇國定假日順延。",
-      "extraSources": [
-        "https://www.feel-kobe.jp/model_course/modelcourse_04/"
-      ],
-      "photoPage": "https://www.feel-kobe.jp/model_course/modelcourse_04/",
-      "id": "kobe-motomachi--museum",
-      "order": 15,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "舊居留地裡的博物館，以歷史、考古與國際文化交流為主題。原銀行建築的石造立面與古典列柱，也讓看展從走近大門時就已經開始。\n\n可以先欣賞外觀，再依展覽內容決定停留長短。從這裡走向南京町，建築與街道的轉換，會讓神戶不同文化共存的樣子變得更具體。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/museum.webp",
-        "alt": "神戸市立博物館，依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": "看一段神戶的城市故事。"
-    },
-    {
-      "name": "HUMAN MADE KOBE",
-      "address": "兵庫県神戸市中央区海岸通9-2 チャータードビル1F",
-      "group": "shops",
-      "categoryLabel": "服飾・歷史建築",
-      "caption": "老銀行裡，開出神戶的新店。",
-      "descriptionParagraphs": [
-        "2026 年開幕的神戶店，位於舊居留地具有歷史感的チャータードビル。以昔日英國銀行的氛圍為設計線索，把服飾與品牌的視覺語彙放進石造建築。",
-        "就算先從外觀開始，也能觀察石材、細窗格與入口的比例。喜歡當代服飾與歷史建築並置的人，適合把這裡接在博物館與海岸通散步之間。"
-      ],
-      "official": "https://humanmade.co.jp/news/260210",
-      "coordinate": {
-        "lat": 34.6864381,
-        "lng": 135.19272214285715,
-        "url": "https://www.openstreetmap.org/way/247610791",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "note": "",
-      "id": "kobe-motomachi--humanmade",
-      "order": 16,
-      "verifiedAt": "2026-10-24",
       "sources": [
         {
           "channel": "老辣妹",
           "videoId": "a7EScTAuodo",
           "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=362s",
-          "time": "6:02",
-          "seconds": 362
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=546s",
+          "time": "9:06",
+          "seconds": 546
         }
       ],
-      "description": "2026 年開幕的神戶店，位於舊居留地具有歷史感的チャータードビル。以昔日英國銀行的氛圍為設計線索，把服飾與品牌的視覺語彙放進石造建築。\n\n就算先從外觀開始，也能觀察石材、細窗格與入口的比例。喜歡當代服飾與歷史建築並置的人，適合把這裡接在博物館與海岸通散步之間。",
+      "description": "海岸通的生活風格選物店，把服飾、古物、職人器皿與織品放在同一個空間。不同地方的創作與手作痕跡相遇，像把港都擅長交流的個性搬進室內。\n\n可以從一塊布、一只盤子或一件想穿的衣服慢慢看，不必急著買什麼。與周邊的石造建築、咖啡館一起逛，能看到觀光地標以外的神戶表情。",
       "illustration": {
-        "image": "/art/walks/kobe-motomachi/humanmade.webp",
-        "alt": "HUMAN MADE KOBE，依實照繪製的日系水彩插圖"
+        "image": "/art/walks/kobe-motomachi/feelseen.webp",
+        "alt": "FEELSEEN KOBE，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
-    },
-    {
-      "name": "KOBEとんぼ玉ミュージアム",
-      "address": "兵庫県神戸市中央区京町79 日本ビルヂング2F",
-      "group": "sights",
-      "categoryLabel": "玻璃工藝博物館",
-      "caption": "把一顆玻璃珠，放大成一個世界。",
-      "descriptionParagraphs": [
-        "以燈工玻璃為主題的博物館，介紹從古代到現代的玻璃珠與工藝作品。小小的色彩、紋樣與透明感，在近距離觀看時展現不同層次。",
-        "館內也安排製作體驗與選物，適合把單純看展延伸成動手做的記憶。若要參加體驗，請另留製作與冷卻等待時間，再接回舊居留地的街道。"
-      ],
-      "official": "https://lampwork-museum.com/",
-      "coordinate": {
-        "lat": 34.6885803,
-        "lng": 135.1937695,
-        "url": "https://www.openstreetmap.org/node/6403847583",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      "recommendation": "沿榮町街巷到 FEELSEEN 看器物與布料。",
+      "canonicalArea": {
+        "id": "kobe-motomachi",
+        "name": "神戶元町・舊居留地",
+        "href": "/walks/kobe-motomachi/"
       },
-      "note": "",
-      "id": "kobe-motomachi--tombodama",
-      "order": 17,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "以燈工玻璃為主題的博物館，介紹從古代到現代的玻璃珠與工藝作品。小小的色彩、紋樣與透明感，在近距離觀看時展現不同層次。\n\n館內也安排製作體驗與選物，適合把單純看展延伸成動手做的記憶。若要參加體驗，請另留製作與冷卻等待時間，再接回舊居留地的街道。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/tombodama.webp",
-        "alt": "KOBEとんぼ玉ミュージアム，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "name": "ロイヤルモーリヤ",
-      "address": "兵庫県神戸市中央区北長狭通1-9-9 第一岸ビル2F",
-      "group": "food",
-      "categoryLabel": "神戶牛・鐵板料理",
-      "caption": "替一餐，留一段正式的時間。",
-      "descriptionParagraphs": [
-        "三宮西側的鐵板料理餐廳，以較私密的空間、葡萄酒與法式料理元素，呈現神戶牛的用餐體驗。長形鐵板吧檯讓料理過程也成為一餐的一部分。",
-        "這裡適合當成行程中的主要餐食，而不是匆匆路過的點心。想安排進元町散步，可先決定用餐時段，再讓其餘購物與看展彈性前後串連。"
-      ],
-      "official": "https://www.mouriya.co.jp/royal",
-      "coordinate": {
-        "lat": 34.692799,
-        "lng": 135.191467,
-        "provider": "gsi",
-        "label": "日本國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%99%E7%95%AA%EF%BC%99%E5%8F%B7",
-        "license": "国土地理院コンテンツ利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
-      },
-      "note": "店家要求 smart casual 服裝。",
-      "id": "kobe-motomachi--mouriya",
-      "order": 18,
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "a7EScTAuodo",
-          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=815s",
-          "time": "13:35",
-          "seconds": 815
-        }
-      ],
-      "description": "三宮西側的鐵板料理餐廳，以較私密的空間、葡萄酒與法式料理元素，呈現神戶牛的用餐體驗。長形鐵板吧檯讓料理過程也成為一餐的一部分。\n\n這裡適合當成行程中的主要餐食，而不是匆匆路過的點心。想安排進元町散步，可先決定用餐時段，再讓其餘購物與看展彈性前後串連。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/mouriya.webp",
-        "alt": "ロイヤルモーリヤ，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kannonya.co.jp/?mode=f3",
+          "https://feelseen.jp/pages/store",
+          "https://lampwork-museum.com/"
+        ]
+      }
     }
   ],
   "routes": [
@@ -720,18 +510,26 @@
         "kobe-motomachi--monteplus",
         "kobe-motomachi--museum"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.nankinmachi.or.jp/about",
+          "https://www.montplus.com/",
+          "https://kobecitymuseum.jp/"
+        ]
+      }
     },
     {
       "id": "kobe-motomachi-cheesecake-and-harbor",
-      "name": "元町甜點到港邊海風",
+      "name": "起司蛋糕、器物與玻璃工藝",
       "ids": [
         "kobe-motomachi--kannonya",
         "kobe-motomachi--nankin",
-        "kobe-motomachi--monteplus",
-        "kobe-motomachi--tower",
-        "kobe-motomachi--maritime",
-        "kobe-motomachi--meriken"
+        "kobe-motomachi--feelseen",
+        "kobe-motomachi--humanmade",
+        "kobe-motomachi--museum",
+        "kobe-motomachi--tombodama"
       ],
       "start": {
         "name": "元町站",
@@ -752,33 +550,430 @@
       ],
       "estimateKind": "editorial-total",
       "plannedAt": "2026-10-26",
-      "summary": "先在元町吃一份起司蛋糕，再慢慢走向紅色港塔與海邊，把午後留給港口。",
-      "note": "港塔以地面外觀欣賞為主，登塔購票、候場與完整參觀需另留時間。海邊遇強風或下雨可縮短停留。包含 30～45 分鐘自由探索，咖啡店候位另計；不延伸到西側商場。",
+      "summary": "在元町與舊居留地之間，串起甜點、器物與玻璃工藝。",
+      "note": "博物館按約 45 分鐘停留估算，工藝體驗與候位另外留時間。",
       "stopNotes": {
-        "kobe-motomachi--kannonya": "用起司蛋糕與飲品開始，吃完再往港邊慢走。",
-        "kobe-motomachi--tower": "在地面欣賞港塔的線條與港口街景，不必為登塔趕時間。",
-        "kobe-motomachi--meriken": "沿公園公共步道散步，看見喜歡的海景就停一下。",
-        "kobe-motomachi--monteplus": "順路可選：走進海岸通，再挑一塊細緻的甜。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
-        "kobe-motomachi--maritime": "順路可選：把港灣看見的船，再往裡讀。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
-        "kobe-motomachi--nankin": "順路可選：轉進燈籠下，街道就熱鬧起來。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
+        "kobe-motomachi--kannonya": "在元町本店吃一份熱起司蛋糕。",
+        "kobe-motomachi--feelseen": "沿榮町街巷到 FEELSEEN 看器物與布料。",
+        "kobe-motomachi--tombodama": "往舊居留地看蜻蜓玉與玻璃工藝展示。",
+        "kobe-motomachi--museum": "順路可選：先從一座石造銀行，讀神戶的開港故事。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-motomachi--nankin": "順路可選：轉進燈籠下，街道就熱鬧起來。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-motomachi--humanmade": "順路可選：老銀行裡，開出神戶的新店。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
       "art": "/art/walks/kobe-motomachi/kannonya.webp",
       "highlightIds": [
         "kobe-motomachi--kannonya",
-        "kobe-motomachi--tower",
-        "kobe-motomachi--meriken"
+        "kobe-motomachi--feelseen",
+        "kobe-motomachi--tombodama"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kannonya.co.jp/?mode=f3",
+          "https://feelseen.jp/pages/store",
+          "https://lampwork-museum.com/"
+        ]
+      }
     }
   ],
   "defaultSelection": "kobe-motomachi-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [
-      "p_16bf5a9d7743a0e1",
-      "p_135871d72948e644"
-    ],
-    "added": 2,
+    "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "kobe-motomachi",
+    "name": "神戶元町・舊居留地",
+    "kind": "walk",
+    "scope": "元町站南側、南京町、榮町與乙仲通，向東接舊居留地，南以海岸通為街區邊緣。",
+    "includes": "元町商店街東段、南京町、榮町與舊居留地",
+    "excludes": "美利堅公園與Harborland另區；神戶站與三宮站前另列。",
+    "basis": "神戶官方分別介紹三宮元町與美利堅港灣；本站再取元町—舊居留地段。",
+    "sourceUrls": [
+      "https://www.feel-kobe.jp/area-guide/sannomiya-motomachi/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "kobe-motomachi--minatogawa",
+      "name": "湊川神社",
+      "address": "兵庫県神戸市中央区多聞通3-1-1",
+      "group": "sights",
+      "categoryLabel": "神社・歷史",
+      "caption": "走過港邊，轉進神戶人熟悉的「楠公さん」。",
+      "descriptionParagraphs": [
+        "湊川神社在神戶站北側，祭祀楠木正成，當地人親切地稱它「楠公さん」。神社於1872年創建，境內留下與正成相關的墓所及史跡，讓熱鬧港都的散步，也能接上一段更早的歷史。",
+        "寬闊的木造表門與石燈籠，將街上的節奏慢慢隔開。從Harborland往車站方向走，可以把這裡作為港邊散策的延伸：看過海與現代商場，再進入樹蔭與參道，感受城市不同的安靜面貌。"
+      ],
+      "note": "位於元町西側的自選延伸，可沿港邊接往神戶站；若另去三宮方向用餐，請依體力擇一並另留步行時間。",
+      "official": "https://www.minatogawajinja.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "coordinate": {
+        "lat": 34.68096317826087,
+        "lng": 135.1757241565217,
+        "provider": "osm",
+        "label": "OpenStreetMap 神社敷地代表點",
+        "url": "https://www.openstreetmap.org/relation/14742022",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "依神社敷地外框計算代表點，非入口實測；現場請由對外開放的表門參拜。"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/minatogawa.webp",
+        "alt": "湊川神社表門與石燈籠的日系水彩插圖"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "time": "20:48",
+          "seconds": 1248,
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1248s"
+        }
+      ],
+      "description": "湊川神社在神戶站北側，祭祀楠木正成，當地人親切地稱它「楠公さん」。神社於1872年創建，境內留下與正成相關的墓所及史跡，讓熱鬧港都的散步，也能接上一段更早的歷史。\n\n寬闊的木造表門與石燈籠，將街上的節奏慢慢隔開。從Harborland往車站方向走，可以把這裡作為港邊散策的延伸：看過海與現代商場，再進入樹蔭與參道，感受城市不同的安靜面貌。",
+      "order": 1,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-station",
+        "name": "神戶站・湊川神社",
+        "href": "/walks/kobe-station/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "name": "神戸ハーバーランドumie・MOSAIC",
+      "address": "兵庫県神戸市中央区東川崎町1-6-1（MOSAIC周邊）",
+      "group": "shops",
+      "categoryLabel": "港邊商場・餐飲",
+      "caption": "在對岸，換一個看港灣的角度。",
+      "descriptionParagraphs": [
+        "Harborland 的大型商業區，從購物館延伸到臨海的 MOSAIC。餐飲、商店與海邊步道相連，適合在散步最後依天氣與體力自由安排。",
+        "從這一側回望美利堅公園，港塔與船隻會形成不同的構圖。可以只走水岸，也可以找一家店休息；如果想同時看夕陽與夜景，記得留足移動時間。"
+      ],
+      "official": "https://harborland.co.jp/area_guide/umie/",
+      "coordinate": {
+        "lat": 34.679356,
+        "lng": 135.184692,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%B7%9D%E5%B4%8E%E7%94%BA%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%96%E7%95%AA",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "note": "位於元町西側的自選延伸，可沿港邊接往神戶站；若另去三宮方向用餐，請依體力擇一並另留步行時間。",
+      "extraSources": [
+        "https://kannonya.co.jp/?mode=f3"
+      ],
+      "photoPage": "https://harborland.co.jp/area_guide/umie/",
+      "id": "kobe-motomachi--umie",
+      "order": 2,
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=656s",
+          "time": "10:56",
+          "seconds": 656
+        }
+      ],
+      "description": "Harborland 的大型商業區，從購物館延伸到臨海的 MOSAIC。餐飲、商店與海邊步道相連，適合在散步最後依天氣與體力自由安排。\n\n從這一側回望美利堅公園，港塔與船隻會形成不同的構圖。可以只走水岸，也可以找一家店休息；如果想同時看夕陽與夜景，記得留足移動時間。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/umie.webp",
+        "alt": "神戸ハーバーランドumie・MOSAIC，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-harbor",
+        "name": "神戶港灣",
+        "href": "/walks/kobe-harbor/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "name": "神戸ポートタワー",
+      "address": "兵庫県神戸市中央区波止場町5-5",
+      "group": "sights",
+      "categoryLabel": "展望塔",
+      "caption": "紅色塔身，替港都畫一條曲線。",
+      "descriptionParagraphs": [
+        "紅色鋼構與向上展開的塔身，是神戶港最有辨識度的輪廓之一。整修後的展望空間與屋上區域，讓看港景多了不同高度的視角。",
+        "可以先在水岸看它如何與船隻、建築相映，再決定是否購票登塔。傍晚到夜間的燈光變化，也適合留給喜歡慢慢拍街景的人。"
+      ],
+      "official": "https://www.kobe-port-tower.com/",
+      "coordinate": {
+        "lat": 34.68262978666667,
+        "lng": 135.18672204444448,
+        "url": "https://www.openstreetmap.org/way/99457921",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "展望層需購票；屋上區域可能因天候關閉。",
+      "photoPage": "https://www.feel-kobe.jp/facilities/0000000144/",
+      "id": "kobe-motomachi--tower",
+      "order": 3,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "紅色鋼構與向上展開的塔身，是神戶港最有辨識度的輪廓之一。整修後的展望空間與屋上區域，讓看港景多了不同高度的視角。\n\n可以先在水岸看它如何與船隻、建築相映，再決定是否購票登塔。傍晚到夜間的燈光變化，也適合留給喜歡慢慢拍街景的人。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/tower.webp",
+        "alt": "神戸ポートタワー，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-harbor",
+        "name": "神戶港灣",
+        "href": "/walks/kobe-harbor/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "name": "神戸海洋博物館",
+      "address": "兵庫県神戸市中央区波止場町2-2",
+      "group": "sights",
+      "categoryLabel": "港口・船舶博物館",
+      "caption": "把港灣看見的船，再往裡讀。",
+      "descriptionParagraphs": [
+        "港邊的海洋博物館，從船舶、港口與航運的角度介紹神戶。展場中的船模與資料，讓室外看到的海港景色有了更多可以理解的細節。",
+        "適合對交通、船舶或城市發展有興趣的人，也能作為炎熱或下雨時的室內停留。看完再回到水岸，比只拍下地標輪廓多了一段故事。"
+      ],
+      "official": "https://kobe-maritime-museum.com/",
+      "coordinate": {
+        "lat": 34.6829503,
+        "lng": 135.1884501,
+        "url": "https://www.openstreetmap.org/node/1423083509",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "通常週一休館，遇國定假日順延。",
+      "id": "kobe-motomachi--maritime",
+      "order": 4,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "港邊的海洋博物館，從船舶、港口與航運的角度介紹神戶。展場中的船模與資料，讓室外看到的海港景色有了更多可以理解的細節。\n\n適合對交通、船舶或城市發展有興趣的人，也能作為炎熱或下雨時的室內停留。看完再回到水岸，比只拍下地標輪廓多了一段故事。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/maritime.webp",
+        "alt": "神戸海洋博物館，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-harbor",
+        "name": "神戶港灣",
+        "href": "/walks/kobe-harbor/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "name": "メリケンパーク",
+      "address": "兵庫県神戸市中央区波止場町2",
+      "group": "sights",
+      "categoryLabel": "港灣公園",
+      "caption": "走到草地邊，把目光交給海。",
+      "descriptionParagraphs": [
+        "開闊的港邊公園，把草地、船影、公共藝術與神戶的地標建築放進同一片風景。從密集街巷走出來，海風與水面的尺度會讓午後自然放鬆。",
+        "可以沿著水岸散步，看看港塔與海洋博物館的輪廓，也可以只在草地旁坐一會兒。想延長行程，再往 Harborland 走，將日間港景接到傍晚燈光。"
+      ],
+      "official": "https://www.feel-kobe.jp/facilities/0000000144/",
+      "coordinate": {
+        "lat": 34.6835132559322,
+        "lng": 135.18913883559318,
+        "url": "https://www.openstreetmap.org/way/529083594",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "note": "",
+      "id": "kobe-motomachi--meriken",
+      "order": 5,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "開闊的港邊公園，把草地、船影、公共藝術與神戶的地標建築放進同一片風景。從密集街巷走出來，海風與水面的尺度會讓午後自然放鬆。\n\n可以沿著水岸散步，看看港塔與海洋博物館的輪廓，也可以只在草地旁坐一會兒。想延長行程，再往 Harborland 走，將日間港景接到傍晚燈光。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/meriken.webp",
+        "alt": "メリケンパーク，依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-harbor",
+        "name": "神戶港灣",
+        "href": "/walks/kobe-harbor/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "name": "ロイヤルモーリヤ",
+      "address": "兵庫県神戸市中央区北長狭通1-9-9 第一岸ビル2F",
+      "group": "food",
+      "categoryLabel": "神戶牛・鐵板料理",
+      "caption": "替一餐，留一段正式的時間。",
+      "descriptionParagraphs": [
+        "三宮西側的鐵板料理餐廳，以較私密的空間、葡萄酒與法式料理元素，呈現神戶牛的用餐體驗。長形鐵板吧檯讓料理過程也成為一餐的一部分。",
+        "這裡適合當成行程中的主要餐食，而不是匆匆路過的點心。想安排進元町散步，可先決定用餐時段，再讓其餘購物與看展彈性前後串連。"
+      ],
+      "official": "https://www.mouriya.co.jp/royal",
+      "coordinate": {
+        "lat": 34.692799,
+        "lng": 135.191467,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%99%E7%95%AA%EF%BC%99%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "note": "店家要求 smart casual 服裝。",
+      "id": "kobe-motomachi--mouriya",
+      "order": 16,
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=815s",
+          "time": "13:35",
+          "seconds": 815
+        }
+      ],
+      "description": "三宮西側的鐵板料理餐廳，以較私密的空間、葡萄酒與法式料理元素，呈現神戶牛的用餐體驗。長形鐵板吧檯讓料理過程也成為一餐的一部分。\n\n這裡適合當成行程中的主要餐食，而不是匆匆路過的點心。想安排進元町散步，可先決定用餐時段，再讓其餘購物與看展彈性前後串連。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/mouriya.webp",
+        "alt": "ロイヤルモーリヤ，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sannomiya",
+        "name": "三宮站周邊",
+        "href": "/walks/sannomiya/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kobe-motomachi--p_135871d72948e644",
+      "name": "Swallow（三軒茶屋）",
+      "address": "東京都世田谷区下馬2-36-1 2F",
+      "group": "food",
+      "categoryLabel": "咖啡館",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片在世田谷線與三軒茶屋散步，收錄下馬二丁目的二樓咖啡館 Swallow。",
+        "原始資料記錄的地址為 東京都世田谷区下馬2-36-1 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "已依原影片說明、地圖連結與分店地址修正，不再誤列為神戶同名店。",
+      "coordinate": {
+        "lat": 35.641048,
+        "lng": 139.673965,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%B8%8B%E9%A6%AC2-36-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "kEWIJS-edSk",
+          "title": "Life in Tokyo｜A Local Tokyo Walk Along the Setagaya Line",
+          "url": "https://www.youtube.com/watch?v=kEWIJS-edSk"
+        }
+      ],
+      "official": "https://www.instagram.com/swallow_coffee_official/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_135871d72948e644"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-motomachi--p_135871d72948e644.webp",
+        "alt": "Swallow（三軒茶屋）的日系水彩插圖"
+      },
+      "order": 17,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "sangenjaya",
+        "name": "三軒茶屋",
+        "href": "/walks/sangenjaya/"
+      },
+      "savedOutsideArea": true
+    },
+    {
+      "id": "kobe-motomachi--p_16bf5a9d7743a0e1",
+      "name": "TOOTH TOOTH BISTRO & CAFE（高輪）",
+      "address": "東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹東京高輪的 TOOTH TOOTH BISTRO & CAFE，位於 NEWoMan 高輪 SOUTH 五樓。",
+        "原始資料記錄的地址為 東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "已依原影片指定餐廳與品牌官方地址修正，並非神戶港灣的 FISH IN THE FOREST。",
+      "coordinate": {
+        "lat": 35.635559,
+        "lng": 139.739594,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E9%AB%98%E8%BC%AA2-21-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "高輪二丁目21番的地址代表點，非店門或館內櫃位；餐廳位於SOUTH五樓。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "57OtKo9avlw",
+          "title": "【東京ランチ10選】市川猿之助が食べた楽屋めし、パン食べ放題ニューオープンなど！",
+          "url": "https://www.youtube.com/watch?v=57OtKo9avlw"
+        }
+      ],
+      "official": "https://toothtooth.com/restaurant/tooth-tooth-bistrocafe",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_16bf5a9d7743a0e1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-motomachi--p_16bf5a9d7743a0e1.webp",
+        "alt": "TOOTH TOOTH BISTRO & CAFE（高輪）的日系水彩插圖"
+      },
+      "order": 18,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "takanawa-gateway",
+        "name": "高輪Gateway",
+        "href": "/walks/takanawa-gateway/"
+      },
+      "savedOutsideArea": true
+    }
+  ],
+  "inheritedWalkIds": []
 }

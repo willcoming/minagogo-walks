@@ -12,7 +12,7 @@
         "「NEYO （ネヨ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都杉並区高円寺南4-32-5 中屋ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.703804,
         "lng": 139.651871,
@@ -53,7 +53,17 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=NEYO%C2%A0%EF%BC%88%E3%83%8D%E3%83%A8%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-32-5%C2%A0%E4%B8%AD%E5%B1%8B%E3%83%93%E3%83%AB+1F"
       },
-      "order": 1
+      "illustration": {
+        "image": "/art/source-library/koenji--p_bf5abad80c02c192.webp",
+        "alt": "NEYO （ネヨ）的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--hikawa",
@@ -95,7 +105,20 @@
         "image": "/art/walks/koenji/hikawa.webp",
         "alt": "高圓寺冰川神社的日系水彩插圖"
       },
-      "recommendation": "在車站旁的神社安靜參拜，留意境內氣象神社。"
+      "recommendation": "在車站旁的神社安靜參拜，留意境內氣象神社。",
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.koenji-hikawa.com/about/",
+          "https://www.dealer-ship.com/shopguide/",
+          "https://koenjilook.com/shoplist/"
+        ]
+      }
     },
     {
       "id": "koenji--p_fb448694f541d16f",
@@ -108,7 +131,7 @@
         "「気象神社」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7047297,
         "lng": 139.6510269,
@@ -136,7 +159,17 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E6%B0%A3%E8%B1%A1%E7%A5%9E%E7%A4%BE/@35.7047297,139.6510269,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f287ee594475:0x86ecd0e432ebb46f!8m2!3d35.7047297!4d139.6510269!16s%2Fg%2F11c6w1wzm2?entry=tts&g_ep=EgoyMDI1MDcyOC4wIPu8ASoASAFQAw%3D%3D&skid=55602126-8ea0-47c2-ab5e-2a923ead0850"
       },
-      "order": 3
+      "illustration": {
+        "image": "/art/source-library/koenji--p_fb448694f541d16f.webp",
+        "alt": "気象神社的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--p_cbb74abc5d988f50",
@@ -149,7 +182,7 @@
         "「POEM Mano A Mano Coffee」出現在MissLiv 日本旅行和生活的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 4-chōme-44-5 Kōenjiminami, Suginami City, Tokyo 166-0003。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7046509,
         "lng": 139.65077309999998,
@@ -182,7 +215,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=11985498134139093766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 4
+      "illustration": {
+        "image": "/art/source-library/koenji--p_cbb74abc5d988f50.webp",
+        "alt": "POEM Mano A Mano Coffee的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--p_40be30249fedb2a5",
@@ -195,7 +238,7 @@
         "「Kōenji Station」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7053168,
         "lng": 139.6496915,
@@ -224,7 +267,17 @@
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/ikGJSWhZkupwg6jq5"
       },
-      "order": 5
+      "illustration": {
+        "image": "/art/source-library/koenji--p_40be30249fedb2a5.webp",
+        "alt": "Kōenji Station的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--junjo",
@@ -267,20 +320,33 @@
       "recommendation": "從北口拱門下看一段街坊日常，有興趣再向小巷延伸。",
       "sourceLibraryIds": [
         "p_449797f881ce7d07"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://koenjichara.com/junjo/",
+          "https://www.koenji-pal.jp/shop/008",
+          "https://koenjilook.com/shoplist/"
+        ]
+      }
     },
     {
       "id": "koenji--p_ce817611afb28eb9",
-      "name": "YakinikuCocochi",
-      "address": "3-chōme-22-8 Kōenjikita, Suginami City, Tokyo 166-0002",
+      "name": "焼肉ここち 市場店",
+      "address": "東京都杉並区高円寺北3-22-8 大一市場",
       "group": "food",
       "categoryLabel": "餐廳",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「YakinikuCocochi」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-22-8 Kōenjikita, Suginami City, Tokyo 166-0002。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都杉並区高円寺北3-22-8 大一市場。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7060623,
         "lng": 139.6491747,
@@ -297,7 +363,7 @@
           "seconds": 158
         }
       ],
-      "official": null,
+      "official": "https://www.instagram.com/yakiniku_cocochi/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -308,7 +374,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=955084152082569504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 7
+      "illustration": {
+        "image": "/art/source-library/koenji--p_ce817611afb28eb9.webp",
+        "alt": "焼肉ここち 市場店的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--p_c4a949206cdbf91a",
@@ -321,7 +397,7 @@
         "「CURRY SHOP Kujira Koenji」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 3-chōme-22-8 Kōenjikita, Suginami City, Tokyo 166-0002。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.706088699999995,
         "lng": 139.6491563,
@@ -349,7 +425,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=17913667289439532855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 8
+      "illustration": {
+        "image": "/art/source-library/koenji--p_c4a949206cdbf91a.webp",
+        "alt": "CURRY SHOP Kujira Koenji的日系水彩插圖"
+      },
+      "order": 8,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--tensuke",
@@ -417,7 +503,12 @@
       "sourceLibraryIds": [
         "p_8c6abc5bcdb35133",
         "p_4899d574aa6637d7"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      }
     },
     {
       "id": "koenji--p_cb8cd0052c36fed1",
@@ -430,7 +521,7 @@
         "「烤雞串 鳥貴族 高圓寺北口店」出現在MissLiv 日本旅行和生活的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 3-chōme-1-15 Kōenjikita, Suginami City, Tokyo 166-0002。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7055504,
         "lng": 139.6487263,
@@ -445,7 +536,7 @@
           "url": "https://www.youtube.com/watch?v=Q6XluXIKSm8"
         }
       ],
-      "official": null,
+      "official": "https://map.torikizoku.co.jp/detail/51/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -456,7 +547,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=4603337018584933965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 10
+      "illustration": {
+        "image": "/art/source-library/koenji--p_cb8cd0052c36fed1.webp",
+        "alt": "烤雞串 鳥貴族 高圓寺北口店的日系水彩插圖"
+      },
+      "order": 10,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--p_5e43c6527a559e9a",
@@ -469,7 +570,7 @@
         "「BREAD AND BISTRO FLAT」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 〒166-0003 Tokyo, Suginami City, Kōenjiminami, 3-chōme−70−１ 高円寺 マシタ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7052495,
         "lng": 139.6490194,
@@ -501,7 +602,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=16545424658776011234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 11
+      "illustration": {
+        "image": "/art/source-library/koenji--p_5e43c6527a559e9a.webp",
+        "alt": "BREAD AND BISTRO FLAT的日系水彩插圖"
+      },
+      "order": 11,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--bigtime",
@@ -534,7 +645,20 @@
         "image": "/art/walks/koenji/bigtime.webp",
         "alt": "BIG TIME 高圓寺店的日系水彩插圖"
       },
-      "recommendation": "走到南側，挑一間古著店慢慢看材質與搭配。"
+      "recommendation": "走到南側，挑一間古著店慢慢看材質與搭配。",
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://koenjichara.com/junjo/",
+          "https://www.koenji-pal.jp/shop/008",
+          "https://koenjilook.com/shoplist/"
+        ]
+      }
     },
     {
       "id": "koenji--pal",
@@ -567,11 +691,16 @@
         "image": "/art/walks/koenji/pal.webp",
         "alt": "高圓寺 PAL 商店街的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      }
     },
     {
       "id": "koenji--p_a25423a8afe2669f",
-      "name": "Aruza Dokushoukan",
+      "name": "アール座読書館",
       "address": "東京都杉並区高円寺南3-57-6 2F",
       "group": "sights",
       "categoryLabel": "其他",
@@ -580,7 +709,7 @@
         "「Aruza Dokushoukan」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都杉並区高円寺南3-57-6 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7040007,
         "lng": 139.6484251,
@@ -609,7 +738,17 @@
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/AxVqbqawtpjzKBsk7"
       },
-      "order": 14
+      "illustration": {
+        "image": "/art/source-library/koenji--p_a25423a8afe2669f.webp",
+        "alt": "アール座読書館的日系水彩插圖"
+      },
+      "order": 14,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--p_1617db2bc235c573",
@@ -622,7 +761,7 @@
         "「TAW. （タウ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都杉並区高円寺南4-7-6。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.703259,
         "lng": 139.648987,
@@ -654,7 +793,17 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=TAW.%C2%A0%EF%BC%88%E3%82%BF%E3%82%A6%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-7-6"
       },
-      "order": 15
+      "illustration": {
+        "image": "/art/source-library/koenji--p_1617db2bc235c573.webp",
+        "alt": "TAW. （タウ）的日系水彩插圖"
+      },
+      "order": 15,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--dealer",
@@ -707,7 +856,20 @@
       "recommendation": "挑幾件復古玻璃杯慢慢看，店舖位在二樓，依現場動線進入。",
       "sourceLibraryIds": [
         "p_16d4bfc1f5d8f947"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.koenji-hikawa.com/about/",
+          "https://www.dealer-ship.com/shopguide/",
+          "https://koenjilook.com/shoplist/"
+        ]
+      }
     },
     {
       "id": "koenji--look",
@@ -760,20 +922,33 @@
       "recommendation": "沿商店街往南散步，有興趣再停下，最後接新高圓寺站。",
       "sourceLibraryIds": [
         "p_cebfbcd683751022"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.koenji-hikawa.com/about/",
+          "https://www.dealer-ship.com/shopguide/",
+          "https://koenjilook.com/shoplist/"
+        ]
+      }
     },
     {
       "id": "koenji--p_99207d9a2b505c88",
       "name": "Kiarry's キアリーズ",
-      "address": "",
+      "address": "東京都杉並区高円寺南2-21-8",
       "group": "sights",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Kiarry's キアリーズ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都杉並区高円寺南2-21-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7006999,
         "lng": 139.6475246,
@@ -790,7 +965,7 @@
           "seconds": 979
         }
       ],
-      "official": null,
+      "official": "https://koenjilook.com/kiarrys/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -801,7 +976,17 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Kiarrys/@35.7006999,139.6475246,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f26303bb9d95:0x4bf11ff30b0cf4e6!8m2!3d35.7006999!4d139.6475246!16s%2Fg%2F1v9402ww?entry=tts&g_ep=EgoyMDI1MDcyOC4wIPu8ASoASAFQAw%3D%3D&skid=4fb9b2d7-7be6-49ae-abf2-01338648127c"
       },
-      "order": 18
+      "illustration": {
+        "image": "/art/source-library/koenji--p_99207d9a2b505c88.webp",
+        "alt": "Kiarry's キアリーズ的日系水彩插圖"
+      },
+      "order": 18,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--nanatsumori",
@@ -834,7 +1019,20 @@
         "image": "/art/walks/koenji/nanatsumori.webp",
         "alt": "珈琲亭七つ森的日系水彩插圖"
       },
-      "recommendation": "沿 LOOK 商店街往南，在老喫茶坐下，之後就近搭車。"
+      "recommendation": "沿 LOOK 商店街往南，在老喫茶坐下，之後就近搭車。",
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://koenjichara.com/junjo/",
+          "https://www.koenji-pal.jp/shop/008",
+          "https://koenjilook.com/shoplist/"
+        ]
+      }
     },
     {
       "id": "koenji--p_04bd4acce26ada74",
@@ -847,7 +1045,7 @@
         "「Ailnoir （アイノワール）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都杉並区高円寺南2-37-13 ハイム山川 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "note": "食べログ與散歩の達人已將 Ailnoir 標示為閉店；保留影片與高円寺南2-37-13原址紀錄，插圖依2022年店面照片製作。",
       "coordinate": {
         "lat": 35.701416,
         "lng": 139.654175,
@@ -868,31 +1066,41 @@
           "seconds": 114
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/tokyo/A1319/A131904/13162480/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_04bd4acce26ada74"
         ],
-        "status": "source-record",
+        "status": "reported-closed",
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/place/Ail+noir/@35.701358,139.6542449,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f28942c04965:0x7c82eda3d9a329f4!8m2!3d35.701358!4d139.6542449!16s%2Fg%2F1ptxg3c66?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
       },
-      "order": 20
+      "illustration": {
+        "image": "/art/source-library/koenji--p_04bd4acce26ada74.webp",
+        "alt": "Ailnoir （アイノワール）的日系水彩插圖"
+      },
+      "order": 20,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--p_f9d66d426f235979",
-      "name": "Kōenji Temple",
-      "address": "",
+      "name": "宿鳳山 高圓寺",
+      "address": "東京都杉並区高円寺南4-18-11",
       "group": "sights",
       "categoryLabel": "景點",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Kōenji Temple」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都杉並区高円寺南4-18-11。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7036571,
         "lng": 139.6529151,
@@ -921,11 +1129,21 @@
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/2k95bcKaxV4449Dn8"
       },
-      "order": 21
+      "illustration": {
+        "image": "/art/source-library/koenji--p_f9d66d426f235979.webp",
+        "alt": "宿鳳山 高圓寺的日系水彩插圖"
+      },
+      "order": 21,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--p_081026cd08014ba1",
-      "name": "Za Kōenji",
+      "name": "座・高円寺",
       "address": "",
       "group": "sights",
       "categoryLabel": "其他",
@@ -934,7 +1152,7 @@
         "「Za Kōenji」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7057714,
         "lng": 139.6540185,
@@ -952,7 +1170,7 @@
           "seconds": 460
         }
       ],
-      "official": null,
+      "official": "https://za-koenji.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -963,7 +1181,17 @@
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/9idCPXrJKXEuQdkWA"
       },
-      "order": 22
+      "illustration": {
+        "image": "/art/source-library/koenji--p_081026cd08014ba1.webp",
+        "alt": "座・高円寺的日系水彩插圖"
+      },
+      "order": 22,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--p_8126490a810b1dcd",
@@ -976,7 +1204,7 @@
         "「LOCAL - Gallery and books」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都中野区大和町1-67-1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7090892,
         "lng": 139.6516354,
@@ -1005,7 +1233,17 @@
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/wYQbjzStdCTbwV3x5"
       },
-      "order": 23
+      "illustration": {
+        "image": "/art/source-library/koenji--p_8126490a810b1dcd.webp",
+        "alt": "LOCAL - Gallery and books的日系水彩插圖"
+      },
+      "order": 23,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--p_e6df817165135ee2",
@@ -1018,7 +1256,7 @@
         "「Tata bookshop / gallery」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都杉並区高円寺北2-38-15。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7085932,
         "lng": 139.6499577,
@@ -1047,7 +1285,17 @@
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/Q5ZEGLDEPGcF8NJT8"
       },
-      "order": 24
+      "illustration": {
+        "image": "/art/source-library/koenji--p_e6df817165135ee2.webp",
+        "alt": "Tata bookshop / gallery的日系水彩插圖"
+      },
+      "order": 24,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--kosugiyu",
@@ -1080,7 +1328,12 @@
         "image": "/art/walks/koenji/kosugiyu.webp",
         "alt": "小杉湯的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      }
     },
     {
       "id": "koenji--p_6556fa89882cf559",
@@ -1093,7 +1346,7 @@
         "「貝せん」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7064148,
         "lng": 139.6473812,
@@ -1131,11 +1384,21 @@
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/3VbVgKZBdqFxeYM6A"
       },
-      "order": 26
+      "illustration": {
+        "image": "/art/source-library/koenji--p_6556fa89882cf559.webp",
+        "alt": "貝せん的日系水彩插圖"
+      },
+      "order": 26,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--p_fb348b69e46c0a50",
-      "name": "新カステラ",
+      "name": "新カステラ（高円寺北舊址）",
       "address": "東京都杉並区高円寺北3-21-5",
       "group": "sights",
       "categoryLabel": "景點",
@@ -1144,7 +1407,7 @@
         "「新カステラ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都杉並区高円寺北3-21-5。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "保留影片中的高円寺北3-21-5舊址。店家於2022年遷至高円寺南4-32-5；新址目前食べログ標為掲載保留，營運狀態待確認。插圖依2019年北口舊店實景製作。",
       "coordinate": {
         "lat": 35.706062,
         "lng": 139.647949,
@@ -1171,18 +1434,28 @@
           "seconds": 456
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/tokyo/A1319/A131904/13233541/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_fb348b69e46c0a50"
         ],
-        "status": "source-record",
+        "status": "reported-relocated",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/%E6%96%B0%E3%82%AB%E3%82%B9%E3%83%86%E3%83%A9/@35.7050244,139.6503715,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f36ff655b793:0xc38423766cde159e!8m2!3d35.7050244!4d139.6503715!16s%2Fg%2F11h53n47cl?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
       },
-      "order": 27
+      "illustration": {
+        "image": "/art/source-library/koenji--p_fb348b69e46c0a50.webp",
+        "alt": "新カステラ（高円寺北舊址）的日系水彩插圖"
+      },
+      "order": 27,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     },
     {
       "id": "koenji--aimu",
@@ -1235,7 +1508,12 @@
       "recommendation": null,
       "sourceLibraryIds": [
         "p_5e4e0afebfc18521"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      }
     },
     {
       "id": "koenji--p_77b60b0960cfad50",
@@ -1248,7 +1526,7 @@
         "「JULES VERNE COFFEE／ジュールヴェルヌコーヒー」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都杉並区高円寺北4-2-24 A106。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.705509,
         "lng": 139.644119,
@@ -1278,7 +1556,17 @@
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/JULES+VERNE+COFFEE+%E2%9D%B2HARUKANARU+COFFEE%E2%9D%B3/@35.7053219,139.6440028,17z/data=!3m1!4b1!4m6!3m5!1s0x6022733bd45656c5:0x48986908e1b469cc!8m2!3d35.7053219!4d139.6440028!16s%2Fg%2F12hlpywjj?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
       },
-      "order": 29
+      "illustration": {
+        "image": "/art/source-library/koenji--p_77b60b0960cfad50.webp",
+        "alt": "JULES VERNE COFFEE／ジュールヴェルヌコーヒー的日系水彩插圖"
+      },
+      "order": 29,
+      "canonicalArea": {
+        "id": "koenji",
+        "name": "高圓寺",
+        "href": "/walks/koenji/"
+      },
+      "recommendation": null
     }
   ],
   "routes": [
@@ -1313,7 +1601,7 @@
       "estimateKind": "editorial-total",
       "plannedAt": "2026-10-26",
       "summary": "從北口的街坊日常，走到南側的古著與老喫茶，把尋寶留給當下。",
-      "note": "三個重點、沿路逛店與 30～45 分鐘自由探索，約 2～3 小時。十點是可選清單；天すけ候位、小杉湯入浴與指定甜點排隊需另外留時，不必全部安排。",
+      "note": "三個重點、沿路逛店與 30～45 分鐘自由探索，約 2～3 小時。本區地點是可選清單；天すけ候位、小杉湯入浴與指定甜點排隊需另外留時，不必全部安排。",
       "stopNotes": {
         "koenji--junjo": "從北口拱門下看一段街坊日常，有興趣再向小巷延伸。",
         "koenji--bigtime": "走到南側，挑一間古著店慢慢看材質與搭配。",
@@ -1328,7 +1616,15 @@
         "koenji--bigtime",
         "koenji--nanatsumori"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://koenjichara.com/junjo/",
+          "https://www.koenji-pal.jp/shop/008",
+          "https://koenjilook.com/shoplist/"
+        ]
+      }
     },
     {
       "id": "koenji-shrines-and-vintage",
@@ -1368,49 +1664,74 @@
         "koenji--pal": "順路可選：有頂街道，把南口的小店接起來。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "koenji--bigtime": "順路可選：木色門面裡，慢慢尋找古著細節。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/koenji/dealer.webp",
+      "art": "/art/walks/koenji/hikawa.webp",
       "highlightIds": [
         "koenji--hikawa",
         "koenji--dealer",
         "koenji--look"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.koenji-hikawa.com/about/",
+          "https://www.dealer-ship.com/shopguide/",
+          "https://koenjilook.com/shoplist/"
+        ]
+      }
     }
   ],
   "defaultSelection": "koenji-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [
-      "p_8c6abc5bcdb35133",
-      "p_4899d574aa6637d7",
-      "p_449797f881ce7d07",
-      "p_cebfbcd683751022",
-      "p_5e4e0afebfc18521",
-      "p_16d4bfc1f5d8f947",
-      "p_fb448694f541d16f",
-      "p_6556fa89882cf559",
-      "p_956cab41c26aea5c",
-      "p_cb8cd0052c36fed1",
-      "p_fb348b69e46c0a50",
-      "p_04bd4acce26ada74",
-      "p_a25423a8afe2669f",
-      "p_5e43c6527a559e9a",
-      "p_c4a949206cdbf91a",
-      "p_77b60b0960cfad50",
-      "p_99207d9a2b505c88",
-      "p_40be30249fedb2a5",
-      "p_f9d66d426f235979",
-      "p_8126490a810b1dcd",
-      "p_bf5abad80c02c192",
-      "p_f39c3cf3a536d09d",
-      "p_cbb74abc5d988f50",
-      "p_68590d4ead375789",
-      "p_e6df817165135ee2",
-      "p_1617db2bc235c573",
-      "p_ce817611afb28eb9",
-      "p_081026cd08014ba1"
-    ],
     "added": 19,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_bf5abad80c02c192",
+      "p_f39c3cf3a536d09d",
+      "p_fb448694f541d16f",
+      "p_cbb74abc5d988f50",
+      "p_68590d4ead375789",
+      "p_40be30249fedb2a5",
+      "p_449797f881ce7d07",
+      "p_ce817611afb28eb9",
+      "p_c4a949206cdbf91a",
+      "p_8c6abc5bcdb35133",
+      "p_4899d574aa6637d7",
+      "p_cb8cd0052c36fed1",
+      "p_5e43c6527a559e9a",
+      "p_a25423a8afe2669f",
+      "p_1617db2bc235c573",
+      "p_16d4bfc1f5d8f947",
+      "p_cebfbcd683751022",
+      "p_99207d9a2b505c88",
+      "p_04bd4acce26ada74",
+      "p_f9d66d426f235979",
+      "p_081026cd08014ba1",
+      "p_8126490a810b1dcd",
+      "p_e6df817165135ee2",
+      "p_6556fa89882cf559",
+      "p_956cab41c26aea5c",
+      "p_fb348b69e46c0a50",
+      "p_5e4e0afebfc18521",
+      "p_77b60b0960cfad50"
+    ]
+  },
+  "scope": {
+    "id": "koenji",
+    "name": "高圓寺",
+    "kind": "walk",
+    "scope": "高圓寺站南北商店街，北接庚申通，南沿PAL與LOOK至新高圓寺，西至桃園川附近小店。",
+    "includes": "高圓寺北二至四丁目與南二至四丁目的站區、庚申通接大和町街口",
+    "excludes": "阿佐谷、中野站與野方不自動納入。",
+    "basis": "杉並區「站からお散歩」為高圓寺單獨提供地圖；以相連商店街與寺社為核心。",
+    "sourceUrls": [
+      "https://www.city.suginami.tokyo.jp/s033/10599.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 29
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

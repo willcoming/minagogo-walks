@@ -1,0 +1,85 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kamakura--p_a0e6a5ed233c921a",
+      "name": "鎌倉五郎本店（羽田空港取扱）",
+      "address": "東京都大田区羽田空港（影片未標明販售櫃位）",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "影片介紹的是羽田機場販售的「鎌倉きゃらめるサンドだょ」伴手禮；品牌名稱包含鎌倉，但這筆造訪紀錄位於羽田機場。",
+        "原始資料記錄的地址為 東京都大田区羽田空港（影片未標明販售櫃位）。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片沒有標出航廈與販售櫃位，因此保留商品紀錄與影片連結，暫不放置地圖標記；插圖依品牌官方商品照片繪製。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "rywj4dOhET8",
+          "title": "【羽田空港】厳選！最新手土産7選！【2026年最新版】",
+          "url": "https://www.youtube.com/watch?v=rywj4dOhET8",
+          "time": "11:15",
+          "seconds": 675
+        }
+      ],
+      "official": "https://www.kamakuragoro.co.jp/shop.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a0e6a5ed233c921a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%8E%8C%E5%80%89%E4%BA%94%E9%83%8E%E6%9C%AC%E5%BA%97+Japan"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_a0e6a5ed233c921a.webp",
+        "alt": "鎌倉五郎本店（羽田空港取扱）的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "haneda-airport",
+        "name": "羽田機場",
+        "href": "/walks/haneda-airport/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 1,
+    "unlocated": 1,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_a0e6a5ed233c921a"
+    ]
+  },
+  "scope": {
+    "id": "haneda-airport",
+    "name": "羽田機場",
+    "city": "東京",
+    "kind": "record-area",
+    "parentWalk": "kamakura",
+    "scope": "羽田機場內的影片收錄商品與店家；櫃位未確認時保留影片紀錄。",
+    "includes": "已確認與羽田機場相關的收錄",
+    "excludes": "不因品牌名稱包含其他城市，就將機場商品列入該城市的散策。",
+    "basis": "原始影片明示羽田機場，品牌官網亦列出羽田機場銷售通路。",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=rywj4dOhET8",
+      "https://www.kamakuragoro.co.jp/shop.html",
+      "https://haneda-shopping.jp/shop/g/gGS01201818/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 1
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "kamakura"
+  ]
+}

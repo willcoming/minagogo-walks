@@ -32,7 +32,20 @@
         "image": "/art/walks/shibamata/tora.webp",
         "alt": "葛飾柴又寅次郎紀念館的日系水彩插圖"
       },
-      "recommendation": "看電影場景與展示，認識寅次郎的柴又。"
+      "recommendation": "看電影場景與展示，認識寅次郎的柴又。",
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.katsushika-kushouren.jp/store/s30017/",
+          "https://katsushika-kanko.jp/shiba/005toramus.html",
+          "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html"
+        ]
+      }
     },
     {
       "id": "shibamata--yamada",
@@ -65,7 +78,12 @@
         "image": "/art/walks/shibamata/yamada.webp",
         "alt": "山田洋次博物館的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      }
     },
     {
       "id": "shibamata--park",
@@ -98,7 +116,20 @@
         "image": "/art/walks/shibamata/park.webp",
         "alt": "柴又公園的日系水彩插圖"
       },
-      "recommendation": "到公園與江戶川側綠地透透氣，依天候決定停留。"
+      "recommendation": "到公園與江戶川側綠地透透氣，依天候決定停留。",
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.katsushika-kushouren.jp/store/s30017/",
+          "https://katsushika-kanko.jp/shiba/005toramus.html",
+          "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html"
+        ]
+      }
     },
     {
       "id": "shibamata--yamamoto",
@@ -141,7 +172,20 @@
       "recommendation": "坐在老宅，從窗邊看庭園。",
       "sourceLibraryIds": [
         "p_972147635a89f470"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://katsushika-kanko.jp/shiba/001taisyakuten.html",
+          "https://katsushika-kanko.jp/shiba/002yamamototei.html",
+          "https://katsushika-kanko.jp/shiba/010takagiya.html"
+        ]
+      }
     },
     {
       "id": "shibamata--taishakuten",
@@ -174,7 +218,20 @@
         "image": "/art/walks/shibamata/taishakuten.webp",
         "alt": "柴又帝釋天（題經寺）的日系水彩插圖"
       },
-      "recommendation": "參拜、看看木雕與古松。"
+      "recommendation": "參拜、看看木雕與古松。",
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://katsushika-kanko.jp/shiba/001taisyakuten.html",
+          "https://katsushika-kanko.jp/shiba/002yamamototei.html",
+          "https://katsushika-kanko.jp/shiba/010takagiya.html"
+        ]
+      }
     },
     {
       "id": "shibamata--kawachiya",
@@ -207,7 +264,12 @@
         "image": "/art/walks/shibamata/kawachiya.webp",
         "alt": "川千家的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      }
     },
     {
       "id": "shibamata--matsuya",
@@ -240,7 +302,12 @@
         "image": "/art/walks/shibamata/matsuya.webp",
         "alt": "松屋の飴總本店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      }
     },
     {
       "id": "shibamata--ishii",
@@ -273,7 +340,12 @@
         "image": "/art/walks/shibamata/ishii.webp",
         "alt": "い志い的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      }
     },
     {
       "id": "shibamata--toraya",
@@ -306,7 +378,20 @@
         "image": "/art/walks/shibamata/toraya.webp",
         "alt": "門前とらや的日系水彩插圖"
       },
-      "recommendation": "挑一份草糰子，感受參道老店的氣氛。"
+      "recommendation": "挑一份草糰子，感受參道老店的氣氛。",
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.katsushika-kushouren.jp/store/s30017/",
+          "https://katsushika-kanko.jp/shiba/005toramus.html",
+          "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html"
+        ]
+      }
     },
     {
       "id": "shibamata--takagiya",
@@ -349,20 +434,33 @@
       "recommendation": "挑一份草糰子，喝茶休息。",
       "sourceLibraryIds": [
         "p_868c9ff0022a07d5"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://katsushika-kanko.jp/shiba/001taisyakuten.html",
+          "https://katsushika-kanko.jp/shiba/002yamamototei.html",
+          "https://katsushika-kanko.jp/shiba/010takagiya.html"
+        ]
+      }
     },
     {
       "id": "shibamata--p_c159b16530210987",
-      "name": "Taishakuten Sandō",
-      "address": "7-chōme-7-4 Shibamata, 葛飾区 Katsushika City, Tokyo 125-0052",
+      "name": "柴又帝釋天門前參道",
+      "address": "東京都葛飾区柴又7丁目",
       "group": "sights",
-      "categoryLabel": "景點",
+      "categoryLabel": "參道・街景",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Taishakuten Sandō」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 7-chōme-7-4 Shibamata, 葛飾区 Katsushika City, Tokyo 125-0052。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都葛飾区柴又7丁目。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
         "lat": 35.7576512,
         "lng": 139.87658009999998,
@@ -377,7 +475,7 @@
           "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
         }
       ],
-      "official": null,
+      "official": "https://uniquevenues-jp.metro.tokyo.lg.jp/venues/private/21811/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -388,25 +486,40 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=12143433986331728921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 11
+      "illustration": {
+        "image": "/art/source-library/shibamata--p_c159b16530210987.webp",
+        "alt": "柴又帝釋天門前參道的日系水彩插圖"
+      },
+      "order": 11,
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      },
+      "recommendation": null
     },
     {
       "id": "shibamata--p_86f5a24a0efe8535",
-      "name": "Shibamata Haikara Yokocho",
-      "address": "7-chōme-3-12 Shibamata, Katsushika City, Tokyo 125-0052",
-      "group": "food",
-      "categoryLabel": "餐廳",
+      "name": "柴又ハイカラ横丁",
+      "address": "東京都葛飾区柴又7-3-12",
+      "group": "shops",
+      "categoryLabel": "玩具・零食",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Shibamata Haikara Yokocho」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 7-chōme-3-12 Shibamata, Katsushika City, Tokyo 125-0052。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都葛飾区柴又7-3-12。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "",
       "coordinate": {
-        "lat": 35.7573995,
-        "lng": 139.87591079999999,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_86f5a24a0efe8535",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887-3-12",
+        "lat": 35.757355,
+        "lng": 139.875992,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -416,7 +529,7 @@
           "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
         }
       ],
-      "official": null,
+      "official": "https://www.haikarayokotyo.com/haikara.html",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -427,7 +540,17 @@
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=6010531765933556792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "order": 12
+      "illustration": {
+        "image": "/art/source-library/shibamata--p_86f5a24a0efe8535.webp",
+        "alt": "柴又ハイカラ横丁的日系水彩插圖"
+      },
+      "order": 12,
+      "canonicalArea": {
+        "id": "shibamata",
+        "name": "柴又",
+        "href": "/walks/shibamata/"
+      },
+      "recommendation": null
     }
   ],
   "routes": [
@@ -477,7 +600,15 @@
         "shibamata--yamamoto",
         "shibamata--takagiya"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://katsushika-kanko.jp/shiba/001taisyakuten.html",
+          "https://katsushika-kanko.jp/shiba/002yamamototei.html",
+          "https://katsushika-kanko.jp/shiba/010takagiya.html"
+        ]
+      }
     },
     {
       "id": "shibamata-cinema-and-greenery",
@@ -519,25 +650,50 @@
         "shibamata--ishii": "順路可選：在老木屋裡，挑一份參道甜味。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
         "shibamata--matsuya": "順路可選：菱格門面裡的傳統糖果。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/shibamata/tora.webp",
+      "art": "/art/walks/shibamata/toraya.webp",
       "highlightIds": [
         "shibamata--toraya",
         "shibamata--tora",
         "shibamata--park"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.katsushika-kushouren.jp/store/s30017/",
+          "https://katsushika-kanko.jp/shiba/005toramus.html",
+          "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html"
+        ]
+      }
     }
   ],
   "defaultSelection": "shibamata-slow-walk",
   "libraryCoverage": {
+    "added": 2,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
     "sourceIds": [
       "p_972147635a89f470",
       "p_868c9ff0022a07d5",
-      "p_86f5a24a0efe8535",
-      "p_c159b16530210987"
+      "p_c159b16530210987",
+      "p_86f5a24a0efe8535"
+    ]
+  },
+  "scope": {
+    "id": "shibamata",
+    "name": "柴又",
+    "kind": "walk",
+    "scope": "柴又站、帝釋天參道、題經寺，至山本亭、寅次郎紀念館與江戶川岸。",
+    "includes": "柴又站至帝釋天、山本亭、柴又公園的連續步行區",
+    "excludes": "金町、新柴又與遠處江戶川河堤不自動延伸。",
+    "basis": "東京都步行圖列出約1.7公里的站—帝釋天—山本亭—公園環線。",
+    "sourceUrls": [
+      "https://www.tokyo-walkingmap.metro.tokyo.lg.jp/map/detail/207"
     ],
-    "added": 2,
-    "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 12
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

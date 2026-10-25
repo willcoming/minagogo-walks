@@ -1,0 +1,191 @@
+{
+  "updatedAt": "2026-10-26",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "nakazakicho--p_cdd7974d52ec6f06",
+      "name": "HEP FIVE",
+      "address": "大阪府大阪市北区角田町5-15",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「HEP FIVE」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区角田町5-15。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "館內店家與觀覽車各有營業及休館安排，出發前請確認官方最新公告。",
+      "coordinate": {
+        "lat": 34.7040897,
+        "lng": 135.5004632,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "2:05",
+          "seconds": 125
+        }
+      ],
+      "official": "https://www.hepfive.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cdd7974d52ec6f06"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/HEP+FIVE/@34.7040897,135.4978829,17z/data=!3m2!4b1!5s0x6000e693a22a809f:0xa230d50aadac22b0!4m6!3m5!1s0x6000e693a1a0f691:0x6577d55e1884c621!8m2!3d34.7040897!4d135.5004632!16zL20vMDNsdGh2?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nakazakicho--p_cdd7974d52ec6f06.webp",
+        "alt": "HEP FIVE的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "umeda",
+        "name": "梅田站・茶屋町",
+        "href": "/walks/umeda/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nakazakicho--p_75420c1c9ffb6b12",
+      "name": "梅田EST",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「梅田EST」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 34.7046134,
+        "lng": 135.5003413,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "4:04",
+          "seconds": 244
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_75420c1c9ffb6b12"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/%E6%A2%85%E7%94%B0EST/@34.7046134,135.497761,17z/data=!3m2!4b1!5s0x6000e693bf195f27:0x4ceb5b055feae400!4m6!3m5!1s0x6000e6939149a243:0x7d86e33e607a9a0!8m2!3d34.7046134!4d135.5003413!16s%2Fg%2F11fjn2p_f2?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nakazakicho--p_75420c1c9ffb6b12.webp",
+        "alt": "梅田EST的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "umeda",
+        "name": "梅田站・茶屋町",
+        "href": "/walks/umeda/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nakazakicho--p_e078f000f87057e6",
+      "name": "タリーズコーヒー 阪急大阪梅田駅3F店",
+      "address": "大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「タリーズコーヒー 阪急大阪梅田駅3F店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "位於阪急大阪梅田站3樓閘內，須持有效乘車票或符合站方入場規定；請先確認入場方式。",
+      "coordinate": {
+        "lat": 34.7045789,
+        "lng": 135.4990951,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "12:53",
+          "seconds": 773
+        }
+      ],
+      "official": "https://www.ekinaka.hankyu-hanshin.co.jp/shop/sh325/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e078f000f87057e6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/TULLY's+COFFEE+%E9%98%AA%E6%80%A5%E6%A2%85%E7%94%B0%E7%AB%993%E6%A8%93%E5%BA%97/@34.7045789,135.4990951,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e70abf4deaf7:0x4190edc5fd0dbeed!8m2!3d34.7045789!4d135.4990951!16s%2Fg%2F11fln40vzv?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nakazakicho--p_e078f000f87057e6.webp",
+        "alt": "タリーズコーヒー 阪急大阪梅田駅3F店的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "umeda",
+        "name": "梅田站・茶屋町",
+        "href": "/walks/umeda/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [],
+  "defaultSelection": null,
+  "libraryCoverage": {
+    "added": 3,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_cdd7974d52ec6f06",
+      "p_75420c1c9ffb6b12",
+      "p_e078f000f87057e6"
+    ]
+  },
+  "scope": {
+    "id": "umeda",
+    "name": "梅田站・茶屋町",
+    "kind": "record-area",
+    "parentWalk": "nakazakicho",
+    "scope": "阪急大阪梅田站、阪急三番街、HEP與茶屋町南側商場街廓。",
+    "includes": "阪急大阪梅田站、阪急三番街、HEP與茶屋町南側商場街廓。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://umeda-connect.jp/concept/index.html"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 3
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "nakazakicho"
+  ]
+}

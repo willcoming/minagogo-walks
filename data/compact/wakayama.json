@@ -33,7 +33,12 @@
         "image": "/art/walks/wakayama/citymuseum.webp",
         "alt": "和歌山市立博物館，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      }
     },
     {
       "name": "和歌山市立有吉佐和子記念館",
@@ -69,7 +74,12 @@
         "image": "/art/walks/wakayama/ariyoshi.webp",
         "alt": "和歌山市立有吉佐和子記念館，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      }
     },
     {
       "name": "和歌山市民図書館",
@@ -102,7 +112,12 @@
         "image": "/art/walks/wakayama/library.webp",
         "alt": "和歌山市民図書館，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      }
     },
     {
       "name": "和歌山市立こども科学館",
@@ -135,7 +150,12 @@
         "image": "/art/walks/wakayama/science.webp",
         "alt": "和歌山市立こども科学館，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      }
     },
     {
       "name": "総本家駿河屋善右衛門 駿河町本舗",
@@ -172,7 +192,12 @@
         "image": "/art/walks/wakayama/surugaya.webp",
         "alt": "総本家駿河屋善右衛門 駿河町本舗，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      }
     },
     {
       "name": "和歌山城ホール",
@@ -209,7 +234,12 @@
         "image": "/art/walks/wakayama/hall.webp",
         "alt": "和歌山城ホール，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      }
     },
     {
       "name": "わかやま歴史館",
@@ -242,7 +272,12 @@
         "image": "/art/walks/wakayama/history.webp",
         "alt": "わかやま歴史館，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      }
     },
     {
       "name": "茶室 紅松庵",
@@ -276,7 +311,20 @@
         "image": "/art/walks/wakayama/koshoan.webp",
         "alt": "茶室 紅松庵，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": "在茶室休息，喝一席抹茶。"
+      "recommendation": "在茶室休息，喝一席抹茶。",
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.wakayama-kanko.or.jp/spots/detail_661.html",
+          "https://www.wakayama-kanko.or.jp/spots/detail_9.html",
+          "https://wakayamajo.jp/kousyouan/"
+        ]
+      }
     },
     {
       "name": "名勝 西之丸庭園（紅葉渓庭園）",
@@ -309,7 +357,20 @@
         "image": "/art/walks/wakayama/momiji.webp",
         "alt": "名勝 西之丸庭園（紅葉渓庭園），依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": "沿庭園慢走，欣賞池水與綠意。"
+      "recommendation": "沿庭園慢走，欣賞池水與綠意。",
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.wakayama-kanko.or.jp/spots/detail_661.html",
+          "https://www.wakayama-kanko.or.jp/spots/detail_9.html",
+          "https://wakayamajo.jp/kousyouan/"
+        ]
+      }
     },
     {
       "name": "和歌山城 天守閣",
@@ -346,7 +407,20 @@
         "image": "/art/walks/wakayama/castle.webp",
         "alt": "和歌山城 天守閣，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": "經坡道與石階登城，看天守與城下風景。"
+      "recommendation": "經坡道與石階登城，看天守與城下風景。",
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.wakayama-kanko.or.jp/spots/detail_661.html",
+          "https://www.wakayama-kanko.or.jp/spots/detail_9.html",
+          "https://wakayamajo.jp/kousyouan/"
+        ]
+      }
     },
     {
       "name": "和歌山城公園動物園",
@@ -379,7 +453,12 @@
         "image": "/art/walks/wakayama/zoo.webp",
         "alt": "和歌山城公園動物園，依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      }
     },
     {
       "name": "和歌山県立近代美術館",
@@ -412,7 +491,19 @@
         "image": "/art/walks/wakayama/prefart.webp",
         "alt": "和歌山県立近代美術館，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "選一個有興趣的展區細看，給藝術一段不趕時間的停留。"
+      "recommendation": "選一個有興趣的展區細看，給藝術一段不趕時間的停留。",
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.wakayama-kanko.or.jp/spots/detail_668.html",
+          "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1001214/1034245.html"
+        ]
+      }
     },
     {
       "name": "和歌山県立博物館",
@@ -448,7 +539,12 @@
         "image": "/art/walks/wakayama/prefmuseum.webp",
         "alt": "和歌山県立博物館，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      }
     },
     {
       "name": "刺田比古神社（岡の宮）",
@@ -484,7 +580,12 @@
         "image": "/art/walks/wakayama/sasuta.webp",
         "alt": "刺田比古神社（岡の宮），依實照繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      }
     },
     {
       "name": "岡公園",
@@ -517,7 +618,19 @@
         "image": "/art/walks/wakayama/oka.webp",
         "alt": "岡公園，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "沿園路看看保存的蒸汽機車、路面電車與老建築，找個角落休息。"
+      "recommendation": "沿園路看看保存的蒸汽機車、路面電車與老建築，找個角落休息。",
+      "canonicalArea": {
+        "id": "wakayama",
+        "name": "和歌山城下町",
+        "href": "/walks/wakayama/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.wakayama-kanko.or.jp/spots/detail_668.html",
+          "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1001214/1034245.html"
+        ]
+      }
     }
   ],
   "routes": [
@@ -563,7 +676,15 @@
         "wakayama--momiji",
         "wakayama--koshoan"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.wakayama-kanko.or.jp/spots/detail_661.html",
+          "https://www.wakayama-kanko.or.jp/spots/detail_9.html",
+          "https://wakayamajo.jp/kousyouan/"
+        ]
+      }
     },
     {
       "id": "wakayama-art-and-city-memories",
@@ -606,14 +727,38 @@
         "wakayama--prefart",
         "wakayama--oka"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.wakayama-kanko.or.jp/spots/detail_668.html",
+          "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1001214/1034245.html"
+        ]
+      }
     }
   ],
   "defaultSelection": "wakayama-slow-walk",
   "libraryCoverage": {
-    "sourceIds": [],
     "added": 0,
     "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "checkedAt": "2026-10-26",
+    "sourceIds": []
+  },
+  "scope": {
+    "id": "wakayama",
+    "name": "和歌山城下町",
+    "kind": "walk",
+    "scope": "南海和歌山市站至和歌山城，連接城北商街、城內庭園及南側岡公園與縣立館舍。",
+    "includes": "和歌山市站、城北、和歌山城、吹上一丁目與岡公園",
+    "excludes": "JR和歌山站、紀三井寺、和歌浦與碼頭度假區另區。",
+    "basis": "市府有和歌山城周邊まちなか散策；本站取中心段，不把完整10公里路線當2–3小時行程。",
+    "sourceUrls": [
+      "https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/031/362/toranomaki.pdf"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 15
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": []
 }

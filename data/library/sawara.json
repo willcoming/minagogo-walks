@@ -2,21 +2,26 @@
   "places": [
     {
       "id": "sawara--p_a3d238488dfaff0b",
-      "name": "Sawara Merchant Town Hotel NIPPONIA KAGURA",
-      "address": "I-1708-2 Sawara, Katori, Chiba 287-0003",
+      "name": "佐原商家町ホテル NIPPONIA KAGURA棟",
+      "address": "千葉県香取市佐原イ1708-2",
       "group": "sights",
-      "categoryLabel": "住宿",
+      "categoryLabel": "歷史旅宿",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Sawara Merchant Town Hotel NIPPONIA KAGURA」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 I-1708-2 Sawara, Katori, Chiba 287-0003。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 千葉県香取市佐原イ1708-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "KAGURA棟為飯店接待與餐廳所在，非任意開放參觀的客房；住宿、用餐與活動依飯店預約及現場規定。",
       "coordinate": {
-        "lat": 35.8885061,
-        "lng": 140.49524739999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "id": "p_a3d238488dfaff0b",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E9%A6%99%E5%8F%96%E5%B8%82%E4%BD%90%E5%8E%9F%E3%82%A41708-2",
+        "lat": 35.888279,
+        "lng": 140.495453,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -28,7 +33,7 @@
           "seconds": 436
         }
       ],
-      "official": null,
+      "official": "https://www.nipponia-sawara.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -38,6 +43,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=14361266519961008414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/sawara--p_a3d238488dfaff0b.webp",
+        "alt": "佐原商家町ホテル NIPPONIA KAGURA棟的日系水彩插圖"
       }
     }
   ],

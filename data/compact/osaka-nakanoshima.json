@@ -2,164 +2,172 @@
   "updatedAt": "2026-10-26",
   "places": [
     {
-      "id": "osaka-nakanoshima--p_fd6484147b2101f4",
-      "name": "WowUs ワオアス",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「WowUs ワオアス」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": null,
-      "coordinate": {
-        "lat": 34.6953392,
-        "lng": 135.5006598,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "vctjD9CdC54",
-          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=vctjD9CdC54",
-          "time": "8:26",
-          "seconds": 506
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_fd6484147b2101f4"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/WowUs%EF%BC%88%E3%83%AF%E3%82%AA%E3%82%A2%E3%82%B9%EF%BC%89/@34.6953436,135.4980849,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e7004a4a07d9:0x50555c70fac555e2!8m2!3d34.6953392!4d135.5006598!16s%2Fg%2F11w98wgmv8?entry=tts&g_ep=EgoyMDI1MDYwMi4wIPu8ASoASAFQAw%3D%3D&skid=5f4a5def-ccf4-49ba-a01b-42fac8894556"
-      },
-      "order": 1
-    },
-    {
-      "id": "osaka-nakanoshima--library",
-      "order": 2,
-      "name": "大阪府立中之島圖書館",
-      "address": "大阪府大阪市北区中之島1-2-10",
+      "id": "osaka-nakanoshima--bridge",
+      "order": 1,
+      "name": "難波橋",
+      "address": "大阪府大阪市中央区北浜1丁目",
       "group": "sights",
       "categoryLabel": "文化・景點",
-      "caption": "石造柱廊裡，藏著一座城市的閱讀時光",
+      "caption": "沿著獅子橋，從公園走進北濱",
       "descriptionParagraphs": [
-        "中之島圖書館的正面柱廊與中央圓頂，是這一帶醒目的近代建築。館藏與服務重視大阪地方資料，也讓歷史外觀裡保有日常閱讀的用途。",
-        "開館時可依參觀動線看看中央空間，注意正在閱讀的人。若遇休館，外觀仍能與旁邊公會堂一起欣賞，不影響整段河岸散步。"
+        "難波橋兩端的獅子雕像讓它有了親切的別名，橋身跨過河道並連接中之島與北濱。石造細節和開闊視野，是轉換街區氣氛的好位置。",
+        "看過雕像後沿人行道向南過橋，下一段便是茶館與洋樓。它與南邊難波商圈不同，這裡選的是北濱旁的難波橋。"
       ],
-      "description": "中之島圖書館的正面柱廊與中央圓頂，是這一帶醒目的近代建築。館藏與服務重視大阪地方資料，也讓歷史外觀裡保有日常閱讀的用途。\n\n開館時可依參觀動線看看中央空間，注意正在閱讀的人。若遇休館，外觀仍能與旁邊公會堂一起欣賞，不影響整段河岸散步。",
+      "description": "難波橋兩端的獅子雕像讓它有了親切的別名，橋身跨過河道並連接中之島與北濱。石造細節和開闊視野，是轉換街區氣氛的好位置。\n\n看過雕像後沿人行道向南過橋，下一段便是茶館與洋樓。它與南邊難波商圈不同，這裡選的是北濱旁的難波橋。",
       "note": "",
-      "official": "https://www.library.pref.osaka.jp/site/nakato/tatemono.html",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/253",
       "verifiedAt": "2026-10-24",
       "sources": [],
       "coordinate": {
-        "lat": 34.693611,
-        "lng": 135.502899,
+        "lat": 34.691231,
+        "lng": 135.508118,
         "provider": "gsi",
         "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-2-10",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1%E4%B8%81%E7%9B%AE",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
         "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
       },
       "illustration": {
-        "image": "/art/walks/osaka-nakanoshima/library.webp",
-        "alt": "大阪府立中之島圖書館的日系水彩插圖"
-      },
-      "recommendation": "從外觀石柱與中央空間認識建築，參觀以當日開放範圍為準。"
-    },
-    {
-      "id": "osaka-nakanoshima--books",
-      "order": 3,
-      "name": "中之島童書森林",
-      "address": "大阪府大阪市北区中之島1-1-28",
-      "group": "sights",
-      "categoryLabel": "文化・景點",
-      "caption": "讓書架與光線，成為河岸的一座小森林",
-      "descriptionParagraphs": [
-        "中之島童書森林由安藤忠雄設計，連續書牆與挑高空間把閱讀變成可以漫遊的風景。以兒童閱讀為中心的安排，也為河岸公共空間添上一種安靜用途。",
-        "入館需依預約或當日名額安排，不宜把臨時入館當作保證。若打算完整閱讀一個場次，便減少其他室內參觀，留時間慢慢選書。"
-      ],
-      "description": "中之島童書森林由安藤忠雄設計，連續書牆與挑高空間把閱讀變成可以漫遊的風景。以兒童閱讀為中心的安排，也為河岸公共空間添上一種安靜用途。\n\n入館需依預約或當日名額安排，不宜把臨時入館當作保證。若打算完整閱讀一個場次，便減少其他室內參觀，留時間慢慢選書。",
-      "note": "入館採預約與當日名額制度，名額及活動依館方公告。",
-      "official": "https://kodomohonnomori.osaka/",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "vctjD9CdC54",
-          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=vctjD9CdC54"
-        }
-      ],
-      "coordinate": {
-        "lat": 34.693432,
-        "lng": 135.504517,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-1-28",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/osaka-nakanoshima/books.webp",
-        "alt": "中之島童書森林的日系水彩插圖"
+        "image": "/art/walks/osaka-nakanoshima/bridge.webp",
+        "alt": "難波橋的日系水彩插圖"
       },
       "recommendation": null,
-      "sourceLibraryIds": [
-        "p_087c03d0e915a025"
-      ]
+      "canonicalArea": {
+        "id": "osaka-nakanoshima",
+        "name": "中之島東部・北濱",
+        "href": "/walks/osaka-nakanoshima/"
+      }
     },
     {
-      "id": "osaka-nakanoshima--hall",
-      "order": 4,
-      "name": "大阪市中央公會堂",
-      "address": "大阪府大阪市北区中之島1-1-27",
-      "group": "sights",
-      "categoryLabel": "文化・景點",
-      "caption": "紅磚與拱窗，把河岸變成一頁城市雜誌",
+      "id": "osaka-nakanoshima--retro",
+      "order": 2,
+      "name": "北濱レトロ",
+      "address": "大阪府大阪市中央区北浜1-1-26",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在綠色窗框後，坐進英式茶點時間",
       "descriptionParagraphs": [
-        "大阪市中央公會堂以紅磚、石材與層次鮮明的窗飾面向中之島，是市民活動持續使用的歷史建築。繞到不同立面，能看見近代公共建築精細的比例。",
-        "推薦以外觀和開放區域作短停留，特殊室或完整建築導覽需另按場館安排。看過細節便往東走向綠地，讓建築欣賞與休息交替。"
+        "北濱レトロ使用歷史洋樓作英式茶館，磚牆與綠色窗框在高樓之間格外醒目。店內以紅茶、烘焙點心與茶席呈現另一種慢節奏。",
+        "把它作為主要休息點，依當天座位與供應點一壺茶。若等候太久，可以改去附近五感，兩間擇一就能留住午後的從容。"
       ],
-      "description": "大阪市中央公會堂以紅磚、石材與層次鮮明的窗飾面向中之島，是市民活動持續使用的歷史建築。繞到不同立面，能看見近代公共建築精細的比例。\n\n推薦以外觀和開放區域作短停留，特殊室或完整建築導覽需另按場館安排。看過細節便往東走向綠地，讓建築欣賞與休息交替。",
+      "description": "北濱レトロ使用歷史洋樓作英式茶館，磚牆與綠色窗框在高樓之間格外醒目。店內以紅茶、烘焙點心與茶席呈現另一種慢節奏。\n\n把它作為主要休息點，依當天座位與供應點一壺茶。若等候太久，可以改去附近五感，兩間擇一就能留住午後的從容。",
       "note": "",
-      "official": "https://osaka-info.jp/experience/ja/osaka/spot/259",
+      "official": "https://www.kitahama-retro.com/",
       "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "vctjD9CdC54",
-          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=vctjD9CdC54"
-        }
-      ],
+      "sources": [],
       "coordinate": {
-        "lat": 34.693508,
-        "lng": 135.504532,
+        "lat": 34.691673,
+        "lng": 135.507431,
         "provider": "gsi",
         "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-1-27",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1-1-26",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
         "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
       },
       "illustration": {
-        "image": "/art/walks/osaka-nakanoshima/hall.webp",
-        "alt": "大阪市中央公會堂的日系水彩插圖"
+        "image": "/art/walks/osaka-nakanoshima/retro.webp",
+        "alt": "北濱レトロ的日系水彩插圖"
       },
-      "recommendation": "沿紅磚外牆慢走，看看水邊的近代大阪。",
-      "sourceLibraryIds": [
-        "p_33787f173026dd52"
-      ]
+      "recommendation": "過難波橋後，用英式茶點作午後休息。",
+      "canonicalArea": {
+        "id": "osaka-nakanoshima",
+        "name": "中之島東部・北濱",
+        "href": "/walks/osaka-nakanoshima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osaka-info.jp/experience/ja/osaka/spot/259",
+          "https://www.keihan.co.jp/visiting/spot/detail/202.html",
+          "https://www.kitahama-retro.com/"
+        ]
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--exchange",
+      "order": 3,
+      "name": "大阪取引所",
+      "address": "大阪府大阪市中央区北浜1-8-16",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在圓弧立面前，遇見大阪的商業歷史",
+      "descriptionParagraphs": [
+        "大阪取引所現有建築在重建時延續舊市場館外觀，石造立面與前方五代友厚像呼應北濱的金融歷史。近看材質與比例，就能感受老商業街的尺度。",
+        "短散步以外觀作停留即可；想了解交易所歷史，可在開放時段進入見學區。完整看展會增加時間，適合替換另一個室內地點。"
+      ],
+      "description": "大阪取引所現有建築在重建時延續舊市場館外觀，石造立面與前方五代友厚像呼應北濱的金融歷史。近看材質與比例，就能感受老商業街的尺度。\n\n短散步以外觀作停留即可；想了解交易所歷史，可在開放時段進入見學區。完整看展會增加時間，適合替換另一個室內地點。",
+      "note": "",
+      "official": "https://www.jpx.co.jp/corporate/learning/tour/ose/01.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.691498,
+        "lng": 135.506836,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1-8-16",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-nakanoshima/exchange.webp",
+        "alt": "大阪取引所的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "osaka-nakanoshima",
+        "name": "中之島東部・北濱",
+        "href": "/walks/osaka-nakanoshima/"
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--gokan",
+      "order": 4,
+      "name": "五感北濱本館",
+      "address": "大阪府大阪市中央区今橋2-1-1",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "老洋樓的甜香，替街區散步留一張座位",
+      "descriptionParagraphs": [
+        "五感北濱本館坐落於新井大樓的歷史空間，店舖與樓上沙龍把洋菓子接到北濱的老建築風景。糕點與飲品讓散步有了可坐下品嚐的段落。",
+        "可以選購一份點心，也可把沙龍作為北濱レトロ的替代休息點。依當日供應挑選即可，不必為了吃遍兩間而把路線排滿。"
+      ],
+      "description": "五感北濱本館坐落於新井大樓的歷史空間，店舖與樓上沙龍把洋菓子接到北濱的老建築風景。糕點與飲品讓散步有了可坐下品嚐的段落。\n\n可以選購一份點心，也可把沙龍作為北濱レトロ的替代休息點。依當日供應挑選即可，不必為了吃遍兩間而把路線排滿。",
+      "note": "",
+      "official": "https://8ken-ya.osaka/guide/2139/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.690742,
+        "lng": 135.50647,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BB%8A%E6%A9%8B2-1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-nakanoshima/gokan.webp",
+        "alt": "五感北濱本館的日系水彩插圖"
+      },
+      "recommendation": "在舊銀行洋樓裡挑甜點，能坐下時就把休息留久一點。",
+      "canonicalArea": {
+        "id": "osaka-nakanoshima",
+        "name": "中之島東部・北濱",
+        "href": "/walks/osaka-nakanoshima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.library.pref.osaka.jp/site/nakato/tatemono.html",
+          "https://www.tekijuku.osaka-u.ac.jp/ja",
+          "https://8ken-ya.osaka/guide/2139/"
+        ]
+      }
     },
     {
       "id": "osaka-nakanoshima--park",
@@ -212,139 +220,208 @@
       "recommendation": "在玫瑰園附近停留，把河風留進行程。",
       "sourceLibraryIds": [
         "p_b6c48dbeca6d9276"
-      ]
+      ],
+      "canonicalArea": {
+        "id": "osaka-nakanoshima",
+        "name": "中之島東部・北濱",
+        "href": "/walks/osaka-nakanoshima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osaka-info.jp/experience/ja/osaka/spot/259",
+          "https://www.keihan.co.jp/visiting/spot/detail/202.html",
+          "https://www.kitahama-retro.com/"
+        ]
+      }
     },
     {
-      "id": "osaka-nakanoshima--exchange",
+      "id": "osaka-nakanoshima--books",
       "order": 6,
-      "name": "大阪取引所",
-      "address": "大阪府大阪市中央区北浜1-8-16",
+      "name": "中之島童書森林",
+      "address": "大阪府大阪市北区中之島1-1-28",
       "group": "sights",
       "categoryLabel": "文化・景點",
-      "caption": "在圓弧立面前，遇見大阪的商業歷史",
+      "caption": "讓書架與光線，成為河岸的一座小森林",
       "descriptionParagraphs": [
-        "大阪取引所現有建築在重建時延續舊市場館外觀，石造立面與前方五代友厚像呼應北濱的金融歷史。近看材質與比例，就能感受老商業街的尺度。",
-        "短散步以外觀作停留即可；想了解交易所歷史，可在開放時段進入見學區。完整看展會增加時間，適合替換另一個室內地點。"
+        "中之島童書森林由安藤忠雄設計，連續書牆與挑高空間把閱讀變成可以漫遊的風景。以兒童閱讀為中心的安排，也為河岸公共空間添上一種安靜用途。",
+        "入館需依預約或當日名額安排，不宜把臨時入館當作保證。若打算完整閱讀一個場次，便減少其他室內參觀，留時間慢慢選書。"
       ],
-      "description": "大阪取引所現有建築在重建時延續舊市場館外觀，石造立面與前方五代友厚像呼應北濱的金融歷史。近看材質與比例，就能感受老商業街的尺度。\n\n短散步以外觀作停留即可；想了解交易所歷史，可在開放時段進入見學區。完整看展會增加時間，適合替換另一個室內地點。",
-      "note": "",
-      "official": "https://www.jpx.co.jp/corporate/learning/tour/ose/01.html",
+      "description": "中之島童書森林由安藤忠雄設計，連續書牆與挑高空間把閱讀變成可以漫遊的風景。以兒童閱讀為中心的安排，也為河岸公共空間添上一種安靜用途。\n\n入館需依預約或當日名額安排，不宜把臨時入館當作保證。若打算完整閱讀一個場次，便減少其他室內參觀，留時間慢慢選書。",
+      "note": "入館採預約與當日名額制度，名額及活動依館方公告。",
+      "official": "https://kodomohonnomori.osaka/",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vctjD9CdC54",
+          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vctjD9CdC54"
+        }
+      ],
       "coordinate": {
-        "lat": 34.691498,
-        "lng": 135.506836,
+        "lat": 34.693432,
+        "lng": 135.504517,
         "provider": "gsi",
         "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1-8-16",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-1-28",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
         "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
       },
       "illustration": {
-        "image": "/art/walks/osaka-nakanoshima/exchange.webp",
-        "alt": "大阪取引所的日系水彩插圖"
+        "image": "/art/walks/osaka-nakanoshima/books.webp",
+        "alt": "中之島童書森林的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_087c03d0e915a025"
+      ],
+      "canonicalArea": {
+        "id": "osaka-nakanoshima",
+        "name": "中之島東部・北濱",
+        "href": "/walks/osaka-nakanoshima/"
+      }
     },
     {
-      "id": "osaka-nakanoshima--retro",
+      "id": "osaka-nakanoshima--hall",
       "order": 7,
-      "name": "北濱レトロ",
-      "address": "大阪府大阪市中央区北浜1-1-26",
-      "group": "food",
-      "categoryLabel": "喫茶・餐食",
-      "caption": "在綠色窗框後，坐進英式茶點時間",
-      "descriptionParagraphs": [
-        "北濱レトロ使用歷史洋樓作英式茶館，磚牆與綠色窗框在高樓之間格外醒目。店內以紅茶、烘焙點心與茶席呈現另一種慢節奏。",
-        "把它作為主要休息點，依當天座位與供應點一壺茶。若等候太久，可以改去附近五感，兩間擇一就能留住午後的從容。"
-      ],
-      "description": "北濱レトロ使用歷史洋樓作英式茶館，磚牆與綠色窗框在高樓之間格外醒目。店內以紅茶、烘焙點心與茶席呈現另一種慢節奏。\n\n把它作為主要休息點，依當天座位與供應點一壺茶。若等候太久，可以改去附近五感，兩間擇一就能留住午後的從容。",
-      "note": "",
-      "official": "https://www.kitahama-retro.com/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 34.691673,
-        "lng": 135.507431,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1-1-26",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/osaka-nakanoshima/retro.webp",
-        "alt": "北濱レトロ的日系水彩插圖"
-      },
-      "recommendation": "過難波橋後，用英式茶點作午後休息。"
-    },
-    {
-      "id": "osaka-nakanoshima--bridge",
-      "order": 8,
-      "name": "難波橋",
-      "address": "大阪府大阪市中央区北浜1丁目",
+      "name": "大阪市中央公會堂",
+      "address": "大阪府大阪市北区中之島1-1-27",
       "group": "sights",
       "categoryLabel": "文化・景點",
-      "caption": "沿著獅子橋，從公園走進北濱",
+      "caption": "紅磚與拱窗，把河岸變成一頁城市雜誌",
       "descriptionParagraphs": [
-        "難波橋兩端的獅子雕像讓它有了親切的別名，橋身跨過河道並連接中之島與北濱。石造細節和開闊視野，是轉換街區氣氛的好位置。",
-        "看過雕像後沿人行道向南過橋，下一段便是茶館與洋樓。它與南邊難波商圈不同，這裡選的是北濱旁的難波橋。"
+        "大阪市中央公會堂以紅磚、石材與層次鮮明的窗飾面向中之島，是市民活動持續使用的歷史建築。繞到不同立面，能看見近代公共建築精細的比例。",
+        "推薦以外觀和開放區域作短停留，特殊室或完整建築導覽需另按場館安排。看過細節便往東走向綠地，讓建築欣賞與休息交替。"
       ],
-      "description": "難波橋兩端的獅子雕像讓它有了親切的別名，橋身跨過河道並連接中之島與北濱。石造細節和開闊視野，是轉換街區氣氛的好位置。\n\n看過雕像後沿人行道向南過橋，下一段便是茶館與洋樓。它與南邊難波商圈不同，這裡選的是北濱旁的難波橋。",
+      "description": "大阪市中央公會堂以紅磚、石材與層次鮮明的窗飾面向中之島，是市民活動持續使用的歷史建築。繞到不同立面，能看見近代公共建築精細的比例。\n\n推薦以外觀和開放區域作短停留，特殊室或完整建築導覽需另按場館安排。看過細節便往東走向綠地，讓建築欣賞與休息交替。",
       "note": "",
-      "official": "https://osaka-info.jp/experience/ja/osaka/spot/253",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/259",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vctjD9CdC54",
+          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vctjD9CdC54"
+        }
+      ],
       "coordinate": {
-        "lat": 34.691231,
-        "lng": 135.508118,
+        "lat": 34.693508,
+        "lng": 135.504532,
         "provider": "gsi",
         "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1%E4%B8%81%E7%9B%AE",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-1-27",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
         "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
       },
       "illustration": {
-        "image": "/art/walks/osaka-nakanoshima/bridge.webp",
-        "alt": "難波橋的日系水彩插圖"
+        "image": "/art/walks/osaka-nakanoshima/hall.webp",
+        "alt": "大阪市中央公會堂的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": "沿紅磚外牆慢走，看看水邊的近代大阪。",
+      "sourceLibraryIds": [
+        "p_33787f173026dd52"
+      ],
+      "canonicalArea": {
+        "id": "osaka-nakanoshima",
+        "name": "中之島東部・北濱",
+        "href": "/walks/osaka-nakanoshima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osaka-info.jp/experience/ja/osaka/spot/259",
+          "https://www.keihan.co.jp/visiting/spot/detail/202.html",
+          "https://www.kitahama-retro.com/"
+        ]
+      }
     },
     {
-      "id": "osaka-nakanoshima--gokan",
-      "order": 9,
-      "name": "五感北濱本館",
-      "address": "大阪府大阪市中央区今橋2-1-1",
-      "group": "food",
-      "categoryLabel": "喫茶・餐食",
-      "caption": "老洋樓的甜香，替街區散步留一張座位",
+      "id": "osaka-nakanoshima--library",
+      "order": 8,
+      "name": "大阪府立中之島圖書館",
+      "address": "大阪府大阪市北区中之島1-2-10",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "石造柱廊裡，藏著一座城市的閱讀時光",
       "descriptionParagraphs": [
-        "五感北濱本館坐落於新井大樓的歷史空間，店舖與樓上沙龍把洋菓子接到北濱的老建築風景。糕點與飲品讓散步有了可坐下品嚐的段落。",
-        "可以選購一份點心，也可把沙龍作為北濱レトロ的替代休息點。依當日供應挑選即可，不必為了吃遍兩間而把路線排滿。"
+        "中之島圖書館的正面柱廊與中央圓頂，是這一帶醒目的近代建築。館藏與服務重視大阪地方資料，也讓歷史外觀裡保有日常閱讀的用途。",
+        "開館時可依參觀動線看看中央空間，注意正在閱讀的人。若遇休館，外觀仍能與旁邊公會堂一起欣賞，不影響整段河岸散步。"
       ],
-      "description": "五感北濱本館坐落於新井大樓的歷史空間，店舖與樓上沙龍把洋菓子接到北濱的老建築風景。糕點與飲品讓散步有了可坐下品嚐的段落。\n\n可以選購一份點心，也可把沙龍作為北濱レトロ的替代休息點。依當日供應挑選即可，不必為了吃遍兩間而把路線排滿。",
+      "description": "中之島圖書館的正面柱廊與中央圓頂，是這一帶醒目的近代建築。館藏與服務重視大阪地方資料，也讓歷史外觀裡保有日常閱讀的用途。\n\n開館時可依參觀動線看看中央空間，注意正在閱讀的人。若遇休館，外觀仍能與旁邊公會堂一起欣賞，不影響整段河岸散步。",
       "note": "",
-      "official": "https://8ken-ya.osaka/guide/2139/",
+      "official": "https://www.library.pref.osaka.jp/site/nakato/tatemono.html",
       "verifiedAt": "2026-10-24",
       "sources": [],
       "coordinate": {
-        "lat": 34.690742,
-        "lng": 135.50647,
+        "lat": 34.693611,
+        "lng": 135.502899,
         "provider": "gsi",
         "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BB%8A%E6%A9%8B2-1-1",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-2-10",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
         "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
       },
       "illustration": {
-        "image": "/art/walks/osaka-nakanoshima/gokan.webp",
-        "alt": "五感北濱本館的日系水彩插圖"
+        "image": "/art/walks/osaka-nakanoshima/library.webp",
+        "alt": "大阪府立中之島圖書館的日系水彩插圖"
       },
-      "recommendation": "在舊銀行洋樓裡挑甜點，能坐下時就把休息留久一點。"
+      "recommendation": "從外觀石柱與中央空間認識建築，參觀以當日開放範圍為準。",
+      "canonicalArea": {
+        "id": "osaka-nakanoshima",
+        "name": "中之島東部・北濱",
+        "href": "/walks/osaka-nakanoshima/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.library.pref.osaka.jp/site/nakato/tatemono.html",
+          "https://www.tekijuku.osaka-u.ac.jp/ja",
+          "https://8ken-ya.osaka/guide/2139/"
+        ]
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--yodoyabashi",
+      "order": 9,
+      "name": "淀屋橋",
+      "address": "大阪府大阪市中央区北浜3丁目",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從一座橋，讀懂大阪與河流的關係",
+      "descriptionParagraphs": [
+        "淀屋橋承接御堂筋並跨越土佐堀川，現有橋梁以平緩拱線融入中之島街景。附近留下橋名由來的紀念碑，也讓河岸多了一段商人城市的記憶。",
+        "適合作為離站後的第一個停點，看看川面與兩岸建築即可。過橋向圖書館前進時走人行道，不必為拍照在繁忙橋頭久留。"
+      ],
+      "description": "淀屋橋承接御堂筋並跨越土佐堀川，現有橋梁以平緩拱線融入中之島街景。附近留下橋名由來的紀念碑，也讓河岸多了一段商人城市的記憶。\n\n適合作為離站後的第一個停點，看看川面與兩岸建築即可。過橋向圖書館前進時走人行道，不必為拍照在繁忙橋頭久留。",
+      "note": "",
+      "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000030741.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.692009,
+        "lng": 135.502319,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C3%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-nakanoshima/yodoyabashi.webp",
+        "alt": "淀屋橋的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "osaka-nakanoshima",
+        "name": "中之島東部・北濱",
+        "href": "/walks/osaka-nakanoshima/"
+      }
     },
     {
       "id": "osaka-nakanoshima--tekijuku",
@@ -377,40 +454,20 @@
         "image": "/art/walks/osaka-nakanoshima/tekijuku.webp",
         "alt": "適塾的日系水彩插圖"
       },
-      "recommendation": "留意町家裡的學習空間；入內看展或留在外觀停留都可以。"
-    },
-    {
-      "id": "osaka-nakanoshima--yodoyabashi",
-      "order": 11,
-      "name": "淀屋橋",
-      "address": "大阪府大阪市中央区北浜3丁目",
-      "group": "sights",
-      "categoryLabel": "文化・景點",
-      "caption": "從一座橋，讀懂大阪與河流的關係",
-      "descriptionParagraphs": [
-        "淀屋橋承接御堂筋並跨越土佐堀川，現有橋梁以平緩拱線融入中之島街景。附近留下橋名由來的紀念碑，也讓河岸多了一段商人城市的記憶。",
-        "適合作為離站後的第一個停點，看看川面與兩岸建築即可。過橋向圖書館前進時走人行道，不必為拍照在繁忙橋頭久留。"
-      ],
-      "description": "淀屋橋承接御堂筋並跨越土佐堀川，現有橋梁以平緩拱線融入中之島街景。附近留下橋名由來的紀念碑，也讓河岸多了一段商人城市的記憶。\n\n適合作為離站後的第一個停點，看看川面與兩岸建築即可。過橋向圖書館前進時走人行道，不必為拍照在繁忙橋頭久留。",
-      "note": "",
-      "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000030741.html",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 34.692009,
-        "lng": 135.502319,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C3%E4%B8%81%E7%9B%AE",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      "recommendation": "留意町家裡的學習空間；入內看展或留在外觀停留都可以。",
+      "canonicalArea": {
+        "id": "osaka-nakanoshima",
+        "name": "中之島東部・北濱",
+        "href": "/walks/osaka-nakanoshima/"
       },
-      "illustration": {
-        "image": "/art/walks/osaka-nakanoshima/yodoyabashi.webp",
-        "alt": "淀屋橋的日系水彩插圖"
-      },
-      "recommendation": null
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.library.pref.osaka.jp/site/nakato/tatemono.html",
+          "https://www.tekijuku.osaka-u.ac.jp/ja",
+          "https://8ken-ya.osaka/guide/2139/"
+        ]
+      }
     }
   ],
   "routes": [
@@ -460,7 +517,15 @@
         "osaka-nakanoshima--park",
         "osaka-nakanoshima--retro"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://osaka-info.jp/experience/ja/osaka/spot/259",
+          "https://www.keihan.co.jp/visiting/spot/detail/202.html",
+          "https://www.kitahama-retro.com/"
+        ]
+      }
     },
     {
       "id": "osaka-nakanoshima-library-school-and-pastries",
@@ -508,19 +573,100 @@
         "osaka-nakanoshima--tekijuku",
         "osaka-nakanoshima--gokan"
       ],
-      "optionalMinutes": 30
+      "optionalMinutes": 30,
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.library.pref.osaka.jp/site/nakato/tatemono.html",
+          "https://www.tekijuku.osaka-u.ac.jp/ja",
+          "https://8ken-ya.osaka/guide/2139/"
+        ]
+      }
     }
   ],
   "defaultSelection": "osaka-nakanoshima-slow-walk",
   "libraryCoverage": {
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_33787f173026dd52",
       "p_b6c48dbeca6d9276",
       "p_087c03d0e915a025",
-      "p_fd6484147b2101f4"
+      "p_33787f173026dd52"
+    ]
+  },
+  "scope": {
+    "id": "osaka-nakanoshima",
+    "name": "中之島東部・北濱",
+    "kind": "walk",
+    "scope": "淀屋橋至難波橋、中之島公園與中央公會堂，連接南岸北濱與今橋老建築。",
+    "includes": "中之島一丁目、北濱一至三丁目及今橋",
+    "excludes": "中之島美術館、大阪科學館所在的西部另區。",
+    "basis": "大阪府將四橋筋以東與以西分區；現有地點集中東端，名稱應交代北濱。",
+    "sourceUrls": [
+      "https://www.pref.osaka.lg.jp/o140020/daitoshimachi/nakanoshima-sincyoku/index.html"
     ],
-    "added": 1,
-    "unlocated": 0,
-    "checkedAt": "2026-10-26"
-  }
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 10
+  },
+  "savedPlaceArchive": [
+    {
+      "id": "osaka-nakanoshima--p_fd6484147b2101f4",
+      "name": "WowUs ワオアス",
+      "address": "大阪府大阪市北区堂島浜1-1-27 大阪堂島浜タワー16F",
+      "group": "sights",
+      "categoryLabel": "觀景露臺",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "WowUs位於大阪堂島浜塔樓十六樓，設有觀光休憩區與戶外木平台。從露臺可以看向淀屋橋、御堂筋與中之島周邊，活動或天候可能影響開放範圍。",
+        "原始資料記錄的地址為 大阪府大阪市北区堂島浜1-1-27 大阪堂島浜タワー16F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B6%E6%B5%9C1-1-27",
+        "lat": 34.695644,
+        "lng": 135.500992,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vctjD9CdC54",
+          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vctjD9CdC54",
+          "time": "8:26",
+          "seconds": 506
+        }
+      ],
+      "official": "https://www.wow-us.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fd6484147b2101f4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/WowUs%EF%BC%88%E3%83%AF%E3%82%AA%E3%82%A2%E3%82%B9%EF%BC%89/@34.6953436,135.4980849,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e7004a4a07d9:0x50555c70fac555e2!8m2!3d34.6953392!4d135.5006598!16s%2Fg%2F11w98wgmv8?entry=tts&g_ep=EgoyMDI1MDYwMi4wIPu8ASoASAFQAw%3D%3D&skid=5f4a5def-ccf4-49ba-a01b-42fac8894556"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-nakanoshima--p_fd6484147b2101f4.webp",
+        "alt": "WowUs ワオアス的日系水彩插圖"
+      },
+      "order": 1,
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "dojimahama",
+        "name": "堂島浜",
+        "href": "/walks/dojimahama/"
+      },
+      "savedOutsideArea": true
+    }
+  ],
+  "inheritedWalkIds": []
 }

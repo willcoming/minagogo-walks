@@ -1,0 +1,949 @@
+{
+  "updatedAt": "2026-10-26",
+  "places": [
+    {
+      "id": "nihonbashi--p_a6ad4d9612c62296",
+      "name": "Single O Hamacho",
+      "address": "〒103-0007 Tokyo, Chuo City, Nihonbashihamachō, 3-chōme−16−７ スプラウト日本橋浜町 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Single O Hamacho」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0007 Tokyo, Chuo City, Nihonbashihamachō, 3-chōme−16−７ スプラウト日本橋浜町 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6840811,
+        "lng": 139.789312,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "Ugex0oOVHTM",
+          "title": "TOP 10 BEST THINGS TO DO IN TOKYO | Japan Ultimate Guide 2024",
+          "url": "https://www.youtube.com/watch?v=Ugex0oOVHTM"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a6ad4d9612c62296"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=5512988659680013115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_a6ad4d9612c62296.webp",
+        "alt": "Single O Hamacho的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.hamachokaneko.com/",
+          "https://singleo.jp/pages/shop"
+        ]
+      },
+      "recommendation": "到 Single O 選一杯咖啡，再慢慢走回車站。"
+    },
+    {
+      "id": "nihonbashi--p_71a556f6eb9a104d",
+      "name": "Hamacho Kaneko",
+      "address": "3-chōme-7-3 Nihonbashihamachō, Chuo City, Tokyo 103-0007",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Hamacho Kaneko」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-7-3 Nihonbashihamachō, Chuo City, Tokyo 103-0007。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.684037499999995,
+        "lng": 139.7882694,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "-ktxCItkewQ",
+          "title": "BEST 10 Ultimate Japanese Foods to Eat in a Day in Tokyo｜Japan Travel Guide 2025",
+          "url": "https://www.youtube.com/watch?v=-ktxCItkewQ"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "H7dn5qrViCY",
+          "title": "BEST 23 Michelin Guide Tokyo Restaurants 2025 | Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=H7dn5qrViCY"
+        }
+      ],
+      "official": "https://www.hamachokaneko.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_71a556f6eb9a104d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=2324796460619672726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_71a556f6eb9a104d.webp",
+        "alt": "Hamacho Kaneko的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.hamachokaneko.com/",
+          "https://singleo.jp/pages/shop"
+        ]
+      },
+      "recommendation": "在濱町的巷弄吃一份蕎麥麵。"
+    },
+    {
+      "id": "nihonbashi--p_09b2dad39781d022",
+      "name": "Happiness is KATSUDON Nihonbashi",
+      "address": "1-chōme-37-9 Nihonbashikakigarachō, Chuo City, Tokyo 103-0014",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Happiness is KATSUDON Nihonbashi」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-37-9 Nihonbashikakigarachō, Chuo City, Tokyo 103-0014。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.682356999999996,
+        "lng": 139.7855361,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "a-hJd0A0ys4",
+          "title": "【日本橋午餐精選5選】從香川直送的高性價比烏龍麵、米其林星級斯里蘭卡料理、銀行裝修後的小酒館等等！",
+          "url": "https://www.youtube.com/watch?v=a-hJd0A0ys4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_09b2dad39781d022"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=13592575267416660228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_09b2dad39781d022.webp",
+        "alt": "Happiness is KATSUDON Nihonbashi的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_cb4002cae48f8557",
+      "name": "Sandwich Parlor MATSUMURA Ningyocho",
+      "address": "1-chōme-14-4 Nihonbashiningyōchō, Chuo City, Tokyo 103-0013",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sandwich Parlor MATSUMURA Ningyocho」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-14-4 Nihonbashiningyōchō, Chuo City, Tokyo 103-0013。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.684098299999995,
+        "lng": 139.7837074,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "aPTQ2pfN5iI",
+          "title": "東京 🇯🇵 🍞 8間必訪老字號麵包店！必吃栗子紅豆麵包、鬆軟熱狗麵包三明治",
+          "url": "https://www.youtube.com/watch?v=aPTQ2pfN5iI"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cb4002cae48f8557"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=12086344345602493741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_cb4002cae48f8557.webp",
+        "alt": "Sandwich Parlor MATSUMURA Ningyocho的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_cd78694a3c388a13",
+      "name": "彦九郎",
+      "address": "〒103-0013 Tokyo, Chuo City, Nihonbashiningyōchō, 2-chōme−11−３ 竹内ビル",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「彦九郎」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0013 Tokyo, Chuo City, Nihonbashiningyōchō, 2-chōme−11−３ 竹内ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.685404,
+        "lng": 139.784052,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "8b2OxMJC_RQ",
+          "title": "Life in Tokyo 🗼 Discovering Neighborhoods Along the Asakusa Line: Asakusa, Kuramae & Beyond",
+          "url": "https://www.youtube.com/watch?v=8b2OxMJC_RQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cd78694a3c388a13"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=15883261998375326977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_cd78694a3c388a13.webp",
+        "alt": "彦九郎的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://restaurant.imahan.com/honten/",
+          "https://www.hikokurou.jp/shop.html"
+        ]
+      },
+      "recommendation": "挑幾款京菓子帶走，留時間逛人形町街巷。"
+    },
+    {
+      "id": "nihonbashi--p_3f01ec2a73d1b126",
+      "name": "人形町今半 人形町本店",
+      "address": "2-chōme-9-12 Nihonbashiningyōchō, Chuo City, Tokyo 103-0013",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「人形町今半 人形町本店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-9-12 Nihonbashiningyōchō, Chuo City, Tokyo 103-0013。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6857703,
+        "lng": 139.7836715,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "8b2OxMJC_RQ",
+          "title": "Life in Tokyo 🗼 Discovering Neighborhoods Along the Asakusa Line: Asakusa, Kuramae & Beyond",
+          "url": "https://www.youtube.com/watch?v=8b2OxMJC_RQ",
+          "time": "0:44",
+          "seconds": 44
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3f01ec2a73d1b126"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=3488825498050417103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_3f01ec2a73d1b126.webp",
+        "alt": "人形町今半 人形町本店的日系水彩插圖"
+      },
+      "order": 6,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://restaurant.imahan.com/honten/",
+          "https://www.hikokurou.jp/shop.html"
+        ]
+      },
+      "recommendation": "預約一頓壽喜燒午餐，餐後慢慢走過甘酒橫丁。"
+    },
+    {
+      "id": "nihonbashi--p_dd1f7c81ac1aa894",
+      "name": "PIZZA DA BABBO",
+      "address": "〒103-0013 Tokyo, Chuo City, Nihonbashiningyōchō, 2-chōme−21−１ ＦＳビル 1F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「PIZZA DA BABBO」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0013 Tokyo, Chuo City, Nihonbashiningyōchō, 2-chōme−21−１ ＦＳビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.685880399999995,
+        "lng": 139.7845391,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "yh9s6bOVa4c",
+          "title": "【日本橋・三越前ランチ10選】ミシュラン獲得！誰も知らない1,000円台ランチなど",
+          "url": "https://www.youtube.com/watch?v=yh9s6bOVa4c"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "imShh65JKDI",
+          "title": "【日本橋午餐精選5選】米其林星級！ 1919年創業300年的壽喜燒鰹魚片家族經營的東京第一披薩店！",
+          "url": "https://www.youtube.com/watch?v=imShh65JKDI"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "sw2RKptmG9E",
+          "title": "【東京十大午餐】吃到飽的烤牛肉、最適合約會或女孩之夜的小酒館等等！",
+          "url": "https://www.youtube.com/watch?v=sw2RKptmG9E"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_dd1f7c81ac1aa894"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=1487252139206735266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_dd1f7c81ac1aa894.webp",
+        "alt": "PIZZA DA BABBO的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_2ec4cb09ee9f1f26",
+      "name": "Tenbinbou",
+      "address": "〒103-0013 Tokyo, Chuo City, Nihonbashiningyōchō, 2-chōme−25−１１ 三幸ビル １階A号",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tenbinbou」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0013 Tokyo, Chuo City, Nihonbashiningyōchō, 2-chōme−25−１１ 三幸ビル １階A号。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6874359,
+        "lng": 139.7847539,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "bIByoiH3waE",
+          "title": "【東京5種吃到飽】1000日圓以下吃到飽！ ？米其林大廚的自助餐！",
+          "url": "https://www.youtube.com/watch?v=bIByoiH3waE"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2ec4cb09ee9f1f26"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=4620954699025048008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_2ec4cb09ee9f1f26.webp",
+        "alt": "Tenbinbou的日系水彩插圖"
+      },
+      "order": 8,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_173ec3c873bec487",
+      "name": "DIXANS 人形町",
+      "address": "東京都中央区日本橋富沢町16-2",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「DIXANS 人形町」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋富沢町16-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.687965,
+        "lng": 139.784439,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AF%8C%E6%B2%A2%E7%94%BA16-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "AgR7Uh9nByA",
+          "title": "cafe vlog｜2021秋NEW OPENカフェ8選！表参道／銀座／渋谷／人形町／早稲田／...etc",
+          "url": "https://www.youtube.com/watch?v=AgR7Uh9nByA",
+          "time": "13:05",
+          "seconds": 785
+        }
+      ],
+      "official": "https://www.instagram.com/dixans.ningyocho/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_173ec3c873bec487"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/10+DIXANS+NINGYOCHO/@35.6880262,139.7844491,17z/data=!3m1!4b1!4m6!3m5!1s0x601889161ab105f7:0x14843e333dc000b4!8m2!3d35.6880262!4d139.7844491!16s%2Fg%2F11pc1jyn8h?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_173ec3c873bec487.webp",
+        "alt": "DIXANS 人形町的日系水彩插圖"
+      },
+      "order": 9,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_06a195866f3afab1",
+      "name": "Byron Bay Coffee Ningyocho",
+      "address": "東京都中央区日本橋富沢町9-4 富沢町ビル1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Byron Bay Coffee Ningyocho」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋富沢町9-4 富沢町ビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6889514,
+        "lng": 139.7820063,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/qMrrGydDQt3HAnAM8",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "lRJl3E2hsAg",
+          "title": "舊日東京駐足之處：兩國、人形町與日本橋 | 水岸風光、博物館與巷弄咖啡館 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=lRJl3E2hsAg",
+          "time": "17:16",
+          "seconds": 1036
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_06a195866f3afab1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/qMrrGydDQt3HAnAM8"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_06a195866f3afab1.webp",
+        "alt": "Byron Bay Coffee Ningyocho的日系水彩插圖"
+      },
+      "order": 10,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_1be1976d7754dad9",
+      "name": "清寿軒",
+      "address": "東京都中央区日本橋堀留町1-4-16 ピーコス日本橋ビル1F",
+      "group": "food",
+      "categoryLabel": "和菓子",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「清寿軒 (Seijuken)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋堀留町1-4-16 ピーコス日本橋ビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6880039,
+        "lng": 139.7794307,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "iDyk1F7gZCA",
+          "title": "東京 🇯🇵 🗼 和菓子天堂！人形町超人氣銅鑼燒、老牌紅豆湯美食散策",
+          "url": "https://www.youtube.com/watch?v=iDyk1F7gZCA"
+        }
+      ],
+      "official": "https://seijuken.com/corporate",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1be1976d7754dad9"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Seijuken/@35.6880039,139.7768558,17z/data=!3m2!4b1!5s0x60188953be56a0cb:0x7be6c3674e016610!4m6!3m5!1s0x6018895164a308bd:0x8b168c3bab65f372!8m2!3d35.6880039!4d139.7794307!16s%2Fg%2F11cjgdw3pm?coh=277533"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_1be1976d7754dad9.webp",
+        "alt": "清寿軒的日系水彩插圖"
+      },
+      "order": 11,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_b8126df063fb0166",
+      "name": "Katsuyoshi Nihonbashi Ningyōchō",
+      "address": "3-chōme-4-11 Nihonbashiningyōchō, Chuo City, Tokyo 103-0013",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Katsuyoshi Nihonbashi Ningyōchō」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-4-11 Nihonbashiningyōchō, Chuo City, Tokyo 103-0013。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.686228,
+        "lng": 139.781205,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "84p9VmPu1ZY",
+          "title": "My FAVORITE Tonkatsu Spots in Tokyo 🇯🇵🍱 | 10 Must-Try Places You Can't Miss in Japan",
+          "url": "https://www.youtube.com/watch?v=84p9VmPu1ZY",
+          "time": "02:29",
+          "seconds": 149
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b8126df063fb0166"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=15408964047550921505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_b8126df063fb0166.webp",
+        "alt": "Katsuyoshi Nihonbashi Ningyōchō的日系水彩插圖"
+      },
+      "order": 12,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_fa048855eba36dc2",
+      "name": "ハシゴ楼",
+      "address": "〒103-0013 Tokyo, Chuo City, Nihonbashiningyōchō, 1-chōme−19−５ エムズクロス人形町 1Fから5F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ハシゴ楼」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0013 Tokyo, Chuo City, Nihonbashiningyōchō, 1-chōme−19−５ エムズクロス人形町 1Fから5F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "五層樓的餐飲設施；官網註明採無現金付款。",
+      "coordinate": {
+        "lat": 35.6860767,
+        "lng": 139.7822022,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "y9pL7dFCdBM",
+          "title": "【東京最佳7家居酒屋】東京第一咖哩、米其林得獎小酒館、德國啤酒吧等等！",
+          "url": "https://www.youtube.com/watch?v=y9pL7dFCdBM"
+        }
+      ],
+      "official": "https://www.hashigoro.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fa048855eba36dc2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=2779276377988935194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_fa048855eba36dc2.webp",
+        "alt": "ハシゴ楼的日系水彩插圖"
+      },
+      "order": 13,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_8aa5fa568500dc3e",
+      "name": "Ningyōchō Station",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Ningyōchō Station」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6863395,
+        "lng": 139.7823384,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/AVQ3rMuuELY3RoF67",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "lRJl3E2hsAg",
+          "title": "舊日東京駐足之處：兩國、人形町與日本橋 | 水岸風光、博物館與巷弄咖啡館 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=lRJl3E2hsAg",
+          "time": "17:16",
+          "seconds": 1036
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8aa5fa568500dc3e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/AVQ3rMuuELY3RoF67"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_8aa5fa568500dc3e.webp",
+        "alt": "Ningyōchō Station的日系水彩插圖"
+      },
+      "order": 14,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nihonbashi--p_7f2298de9705d9fa",
+      "name": "OZEKI Tokyo Gallery",
+      "address": "1-chōme-2-6 Nihonbashiningyōchō, Chuo City, Tokyo 103-0013",
+      "group": "shops",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「OZEKI Tokyo Gallery」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-2-6 Nihonbashiningyōchō, Chuo City, Tokyo 103-0013。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "東京展示空間於2025年1月更新為OZEKI Tokyo Gallery；參觀樓層與開放時間請以官方為準。",
+      "coordinate": {
+        "lat": 35.685331999999995,
+        "lng": 139.780677,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "8b2OxMJC_RQ",
+          "title": "Life in Tokyo 🗼 Discovering Neighborhoods Along the Asakusa Line: Asakusa, Kuramae & Beyond",
+          "url": "https://www.youtube.com/watch?v=8b2OxMJC_RQ"
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "lRJl3E2hsAg",
+          "title": "舊日東京駐足之處：兩國、人形町與日本橋 | 水岸風光、博物館與巷弄咖啡館 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=lRJl3E2hsAg",
+          "time": "17:16",
+          "seconds": 1036
+        }
+      ],
+      "official": "https://www.ozeki-lantern.co.jp/akari.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7f2298de9705d9fa",
+          "p_ed10f3c63d54f9f1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10332292681439688448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_7f2298de9705d9fa.webp",
+        "alt": "OZEKI Tokyo Gallery的日系水彩插圖"
+      },
+      "order": 15,
+      "canonicalArea": {
+        "id": "ningyocho",
+        "name": "人形町・濱町",
+        "href": "/walks/ningyocho/"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "ningyocho-sukiyaki-and-sweets",
+      "name": "甘酒橫丁，從壽喜燒到和菓子",
+      "ids": [
+        "nihonbashi--p_3f01ec2a73d1b126",
+        "nihonbashi--p_cd78694a3c388a13"
+      ],
+      "stopNotes": {
+        "nihonbashi--p_3f01ec2a73d1b126": "預約一頓壽喜燒午餐，餐後慢慢走過甘酒橫丁。",
+        "nihonbashi--p_cd78694a3c388a13": "挑幾款京菓子帶走，留時間逛人形町街巷。"
+      },
+      "start": {
+        "name": "人形町站",
+        "address": "東京都中央区日本橋人形町 人形町駅",
+        "access": "東京 Metro 日比谷線・都營淺草線"
+      },
+      "end": {
+        "name": "人形町站",
+        "address": "東京都中央区日本橋人形町 人形町駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "甘酒橫丁，從壽喜燒到和菓子",
+      "note": "今半建議先預約；以午餐和外帶和菓子為重點。餐期過長或需要候位時，請另外留時間。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://restaurant.imahan.com/honten/",
+          "https://www.hikokurou.jp/shop.html"
+        ]
+      },
+      "highlightIds": [
+        "nihonbashi--p_3f01ec2a73d1b126",
+        "nihonbashi--p_cd78694a3c388a13"
+      ],
+      "art": "/art/source-library/nihonbashi--p_3f01ec2a73d1b126.webp",
+      "optionalMinutes": 30
+    },
+    {
+      "id": "ningyocho-hamacho-coffee",
+      "name": "走到濱町，蕎麥麵與一杯咖啡",
+      "ids": [
+        "nihonbashi--p_71a556f6eb9a104d",
+        "nihonbashi--p_a6ad4d9612c62296"
+      ],
+      "stopNotes": {
+        "nihonbashi--p_71a556f6eb9a104d": "在濱町的巷弄吃一份蕎麥麵。",
+        "nihonbashi--p_a6ad4d9612c62296": "到 Single O 選一杯咖啡，再慢慢走回車站。"
+      },
+      "start": {
+        "name": "人形町站",
+        "address": "東京都中央区日本橋人形町 人形町駅",
+        "access": "東京 Metro 日比谷線・都營淺草線"
+      },
+      "end": {
+        "name": "人形町站",
+        "address": "東京都中央区日本橋人形町 人形町駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-26",
+      "summary": "走到濱町，蕎麥麵與一杯咖啡",
+      "note": "在本區慢慢走，必訪以外的地點依興趣停留。時間包含步行、停留與自由探索，候位另計。",
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.hamachokaneko.com/",
+          "https://singleo.jp/pages/shop"
+        ]
+      },
+      "highlightIds": [
+        "nihonbashi--p_71a556f6eb9a104d",
+        "nihonbashi--p_a6ad4d9612c62296"
+      ],
+      "art": "/art/source-library/nihonbashi--p_71a556f6eb9a104d.webp",
+      "optionalMinutes": 30
+    }
+  ],
+  "defaultSelection": "ningyocho-sukiyaki-and-sweets",
+  "libraryCoverage": {
+    "added": 15,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26",
+    "sourceIds": [
+      "p_a6ad4d9612c62296",
+      "p_71a556f6eb9a104d",
+      "p_09b2dad39781d022",
+      "p_cb4002cae48f8557",
+      "p_cd78694a3c388a13",
+      "p_3f01ec2a73d1b126",
+      "p_dd1f7c81ac1aa894",
+      "p_2ec4cb09ee9f1f26",
+      "p_173ec3c873bec487",
+      "p_06a195866f3afab1",
+      "p_1be1976d7754dad9",
+      "p_b8126df063fb0166",
+      "p_fa048855eba36dc2",
+      "p_8aa5fa568500dc3e",
+      "p_7f2298de9705d9fa",
+      "p_ed10f3c63d54f9f1"
+    ]
+  },
+  "scope": {
+    "id": "ningyocho",
+    "name": "人形町・濱町",
+    "kind": "walk",
+    "parentWalk": "nihonbashi",
+    "scope": "人形町站、甘酒橫丁與水天宮，東接濱町綠道；含富澤町及小舟町東側。",
+    "includes": "人形町站、甘酒橫丁與水天宮，東接濱町綠道；含富澤町及小舟町東側。",
+    "excludes": "不因鄰近原散策或行政區相同而擴大收錄；新增地點需逐筆核對。",
+    "basis": "依所列街區資料及現有地點位置劃分；步行核心為本站編輯定義。",
+    "sourceUrls": [
+      "https://www.nihonbashi-tokyo.jp/discover/"
+    ],
+    "boundaryKind": "editorial-area",
+    "reviewedAt": "2026-10-26",
+    "placeCount": 15
+  },
+  "savedPlaceArchive": [],
+  "inheritedWalkIds": [
+    "nihonbashi"
+  ]
+}

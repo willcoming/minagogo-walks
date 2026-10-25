@@ -2,21 +2,25 @@
   "places": [
     {
       "id": "omihachiman--p_73b8718fe931b3e4",
-      "name": "種家 近江八幡店",
-      "address": "〒523-0894 Shiga, Omihachiman, Nakamurachō, ２２−１３",
+      "name": "たねや 銀座三越店",
+      "address": "東京都中央区銀座4-6-16 銀座三越B2F",
       "group": "food",
-      "categoryLabel": "甜點",
+      "categoryLabel": "和菓子",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「種家 近江八幡店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒523-0894 Shiga, Omihachiman, Nakamurachō, ２２−１３。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片介紹銀座三越地下食品區的たねや，販售栗饅頭及季節和菓子。此處已依影片與品牌店鋪資料修正為銀座三越櫃位，並保留原始影片來源。",
+        "原始資料記錄的地址為 東京都中央区銀座4-6-16 銀座三越B2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "note": "原影片00:30明確介紹銀座三越店，先前名稱搜尋誤配為滋賀近江八幡店，已修正分店。",
       "coordinate": {
-        "lat": 35.127419599999996,
-        "lng": 136.0963818,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A74-6-16",
+        "lat": 35.671577,
+        "lng": 139.765594,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -26,7 +30,7 @@
           "url": "https://www.youtube.com/watch?v=QX4Fl6pW_Hk"
         }
       ],
-      "official": null,
+      "official": "https://taneya.jp/shop/tokyo_g-mitsukoshi",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -35,26 +39,34 @@
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=7137246681593770710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/omihachiman--p_73b8718fe931b3e4.webp",
+        "alt": "たねや 銀座三越店的日系水彩插圖"
       }
     },
     {
       "id": "omihachiman--p_a040448ef5601644",
-      "name": "とんこつらーめん豚太近江八幡店",
-      "address": "480-1 Egashirachō, Omihachiman, Shiga 523-0061",
+      "name": "とんかつ とん太（高田馬場）",
+      "address": "東京都豊島区高田3-17-8",
       "group": "food",
-      "categoryLabel": "餐廳",
+      "categoryLabel": "炸豬排",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「とんこつらーめん豚太近江八幡店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 480-1 Egashirachō, Omihachiman, Shiga 523-0061。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "とん太是高田馬場站北側的炸豬排店，原影片在這裡品嘗里肌與菲力豬排定食。這筆資料已依影片中的原始店家連結與實訪紀錄修正為東京店址。",
+        "原始資料記錄的地址為 東京都豊島区高田3-17-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "note": "原影片介紹高田馬場炸豬排，先前誤配為滋賀同音的豚骨拉麵店，已修正店名、類別與地址。",
       "coordinate": {
-        "lat": 35.116143199999996,
-        "lng": 136.0580511,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E9%AB%98%E7%94%B03-17-8",
+        "lat": 35.715508,
+        "lng": 139.706619,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
       "sources": [
         {
@@ -66,7 +78,7 @@
           "seconds": 376
         }
       ],
-      "official": null,
+      "official": "https://map.yahoo.co.jp/v3/place/lWM6zLJTxao",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -75,7 +87,11 @@
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=9417713356913695050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/omihachiman--p_a040448ef5601644.webp",
+        "alt": "とんかつ とん太（高田馬場）的日系水彩插圖"
       }
     }
   ],

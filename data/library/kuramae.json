@@ -38,6 +38,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=16744840618390525528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_6160adafced6602d.webp",
+        "alt": "淺草橋的日系水彩插圖"
       }
     },
     {
@@ -78,6 +82,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=2640146096609332255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_c55e83fd1938ebd0.webp",
+        "alt": "野口鮮魚店的日系水彩插圖"
       }
     },
     {
@@ -118,6 +126,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=3862339657960906793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_15d518ad81e7ddb0.webp",
+        "alt": "鳥越神社的日系水彩插圖"
       }
     },
     {
@@ -166,6 +178,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=7376009065730975557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_803a658e21e90dea.webp",
+        "alt": "藏前的日系水彩插圖"
       }
     },
     {
@@ -206,20 +222,24 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=13726656199217205234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_27c24e65b79e6da4.webp",
+        "alt": "饗黑㐂的日系水彩插圖"
       }
     },
     {
       "id": "kuramae--p_20eec8967837e7ad",
-      "name": "atelier tamiser(アトリエ タミゼ)",
+      "name": "atelier tamiser（藏前舊店）",
       "address": "東京都台東区蔵前4-14-11 ウグイスビル 1F",
-      "group": "sights",
+      "group": "food",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「atelier tamiser(アトリエ タミゼ)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都台東区蔵前4-14-11 ウグイスビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "食べログ與開店當日採訪的「かもめと街」皆已標示閉店；保留藏前4-14-11的影片與2021年糕點展示插畫。",
       "coordinate": {
         "lat": 35.703739,
         "lng": 139.789978,
@@ -240,28 +260,32 @@
           "seconds": 555
         }
       ],
-      "official": null,
+      "official": "https://tabelog.com/tokyo/A1311/A131103/13258439/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_20eec8967837e7ad"
         ],
-        "status": "source-record",
+        "status": "reported-closed",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/Atelier+tamiser/@35.7037748,139.7899444,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fdaba893e0b:0x1a9251fa7dc17b8d!8m2!3d35.7037748!4d139.7899444!16s%2Fg%2F11qp0y1t90?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_20eec8967837e7ad.webp",
+        "alt": "atelier tamiser（藏前舊店）的日系水彩插圖"
       }
     },
     {
       "id": "kuramae--p_395efc3f319ac2e1",
-      "name": "BANDAI 株式会社バンダイ",
-      "address": "",
+      "name": "萬代總部（BANDAI）",
+      "address": "東京都台東区駒形1-4-8",
       "group": "sights",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「BANDAI 株式会社バンダイ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都台東区駒形1-4-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
@@ -278,7 +302,7 @@
           "url": "https://www.youtube.com/watch?v=fmBz7azgE1k"
         }
       ],
-      "official": null,
+      "official": "https://t-navi.city.taito.lg.jp/features/72",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -288,20 +312,24 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/BANDAI+CO.,+LTD.+Head+Office/@35.707282,139.7946741,20.67z/data=!4m6!3m5!1s0x60188ec7c29aaf3f:0xaaa9a2202b8cfa06!8m2!3d35.7073176!4d139.7946492!16s%2Fg%2F1tdpg5s4?entry=tts&g_ep=EgoyMDI1MDgzMC4wIPu8ASoASAFQAw%3D%3D&skid=9968e5a4-19e5-4f06-b546-04b6dc840a22"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_395efc3f319ac2e1.webp",
+        "alt": "萬代總部（BANDAI）的日系水彩插圖"
       }
     },
     {
       "id": "kuramae--p_d6be19d6ed446c03",
-      "name": "from afar",
+      "name": "from afar（田原町舊址）",
       "address": "東京都台東区寿２丁目５−１２ 加瀬ビル １階",
-      "group": "sights",
+      "group": "food",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「from afar」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 東京都台東区寿２丁目５−１２ 加瀬ビル １階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "官方確認因建築老舊於2024年搬至東京都墨田区東向島5-2-7；此處保留影片中的壽2-5-12舊址與當時店面插畫，請勿依舊址前往。",
       "coordinate": {
         "lat": 35.709129,
         "lng": 139.789566,
@@ -320,35 +348,43 @@
           "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
         }
       ],
-      "official": null,
+      "official": "https://www.fromafar-tokyo.com/fromafar",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_d6be19d6ed446c03"
         ],
-        "status": "source-record",
+        "status": "relocated",
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/place/from+afar/@35.7247641,139.8204922,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec8de2250e3:0x4313b20d8de2aefd!8m2!3d35.7247641!4d139.8204922!16s%2Fg%2F11bwfm7df9?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_d6be19d6ed446c03.webp",
+        "alt": "from afar（田原町舊址）的日系水彩插圖"
       }
     },
     {
       "id": "kuramae--p_499533cd5ccca793",
-      "name": "Ginza Nishikawa Coffee Roastery",
-      "address": "〒111-0051 Tokyo, Taito City, Kuramae, 4-chōme−1−１ 蔵前ビル",
+      "name": "GINZA NISHIKAWA COFFEE ROASTERY 築地店",
+      "address": "東京都中央区築地2-15-17 築地食パンビル1F",
       "group": "food",
       "categoryLabel": "自助餐廳",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「Ginza Nishikawa Coffee Roastery」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒111-0051 Tokyo, Taito City, Kuramae, 4-chōme−1−１ 蔵前ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "銀座に志かわ在築地的咖啡烘焙店，提供吐司與咖啡。保留原影片的築地店紀錄。",
+        "原始資料記錄的地址為 東京都中央区築地2-15-17 築地食パンビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "原影片VKiiTmD8Iqs為築地散步，店家連結指向築地店；原資料誤配為藏前分店，已依影片與官方地址修正。",
       "coordinate": {
-        "lat": 35.7017654,
-        "lng": 139.7888482,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "lat": 35.667347,
+        "lng": 139.769943,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%AF%89%E5%9C%B02%E4%B8%81%E7%9B%AE15-17",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "築地二丁目15番17號的地址代表點，非店門實測位置。"
       },
       "sources": [
         {
@@ -358,7 +394,7 @@
           "url": "https://www.youtube.com/watch?v=VKiiTmD8Iqs"
         }
       ],
-      "official": null,
+      "official": "https://www.ginza-nishikawa.co.jp/shop/tsukiji",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -366,8 +402,12 @@
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=17670514372474905186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_499533cd5ccca793.webp",
+        "alt": "GINZA NISHIKAWA COFFEE ROASTERY 築地店的日系水彩插圖"
       }
     },
     {
@@ -416,6 +456,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=6553371749865476794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_9022b5fbb1b362ca.webp",
+        "alt": "hamorebi coffee的日系水彩插圖"
       }
     },
     {
@@ -454,6 +498,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=14523238930370528582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_a710bbb8b8d030ce.webp",
+        "alt": "I'll的日系水彩插圖"
       }
     },
     {
@@ -498,6 +546,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://www.google.com/maps/place/Ichibiko+Kuramae/@35.7034197,139.7833206,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f0061b9170d:0xf07789e1ef1068d6!8m2!3d35.7034197!4d139.7833206!16s%2Fg%2F11wwf9tr2d?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_5304d79ce902f709.webp",
+        "alt": "ICHIBIKO KURAMAE的日系水彩插圖"
       }
     },
     {
@@ -536,6 +588,10 @@
         "importedAt": "2026-10-26",
         "extension": true,
         "mapUrl": "https://maps.google.com/?cid=8518855316958365278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_500aed5155361116.webp",
+        "alt": "Lucite Gallery的日系水彩插圖"
       }
     },
     {
@@ -580,6 +636,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.app.goo.gl/XDv9FZNhXua2GDxV8"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_3f9cc41e4c83b0e5.webp",
+        "alt": "Maple Pizza的日系水彩插圖"
       }
     },
     {
@@ -627,6 +687,10 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://maps.google.com/?cid=5398777421191737333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_fd0085ce79d57d3e.webp",
+        "alt": "Pretty Good的日系水彩插圖"
       }
     },
     {
@@ -671,25 +735,33 @@
         "importedAt": "2026-10-26",
         "extension": false,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%83%AA%E3%83%A4%E3%83%97%E3%83%A9%E3%82%B9%E3%82%AB%E3%83%95%E3%82%A7+%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E5%80%89%E5%BA%AB+%EF%BC%88iriya+plus+cafe%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%AF%BF4-7-11"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_92942cbf86942e65.webp",
+        "alt": "イリヤプラスカフェ カスタム倉庫 （iriya plus cafe）的日系水彩插圖"
       }
     },
     {
       "id": "kuramae--p_2e3d82ad3745c664",
-      "name": "はなび",
-      "address": "",
-      "group": "sights",
+      "name": "はなび 東神田店（舊址）",
+      "address": "東京都千代田区東神田2-10-14 日本センヂミアビル1F",
+      "group": "food",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「はなび」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原影片介紹的烏龍麵與串揚店「はなび 東神田店」，保留東神田2-10-14舊址紀錄。",
+        "原始資料記錄的地址為 東京都千代田区東神田2-10-14 日本センヂミアビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": null,
+      "note": "影片原始食べログ連結為東神田店，先前誤配為藏前的ボン花火，已修正。舊址食べログ已標示閉店；現行店家頁位於東神田2-6-9 Daiwaプレイス東神田2 1F，2026年訪客記錄亦確認搬遷。插畫依舊店照片製作。",
       "coordinate": {
-        "lat": 35.7055014,
-        "lng": 139.7947163,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9D%B1%E7%A5%9E%E7%94%B02%E4%B8%81%E7%9B%AE10-14",
+        "lat": 35.695457,
+        "lng": 139.781326,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "舊址的地址代表點，非指定入口。"
       },
       "sources": [
         {
@@ -699,16 +771,20 @@
           "url": "https://www.youtube.com/watch?v=cJpFIy7RiLA"
         }
       ],
-      "official": null,
+      "official": "https://www.hotpepper.jp/strJ004536302/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
           "p_2e3d82ad3745c664"
         ],
-        "status": "source-record",
+        "status": "relocated",
         "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/%E6%B2%B3%E6%99%AF%E5%B1%85%E9%85%92%E5%B1%8B+Bon%E8%8A%B1%E7%81%AB/data=!4m7!3m6!1s0x60188ec86a9affff:0x552bdce1eafd06b3!8m2!3d35.7055014!4d139.7947163!16s%2Fg%2F11bxf5v6sv!19sChIJ__-aasiOGGARswb96uHcK1U?authuser=0&hl=zh-TW&rclk=1"
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_2e3d82ad3745c664.webp",
+        "alt": "はなび 東神田店（舊址）的日系水彩插圖"
       }
     }
   ],
