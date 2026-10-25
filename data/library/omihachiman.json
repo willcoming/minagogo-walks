@@ -1,0 +1,84 @@
+{
+  "places": [
+    {
+      "id": "omihachiman--p_73b8718fe931b3e4",
+      "name": "種家 近江八幡店",
+      "address": "〒523-0894 Shiga, Omihachiman, Nakamurachō, ２２−１３",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「種家 近江八幡店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒523-0894 Shiga, Omihachiman, Nakamurachō, ２２−１３。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.127419599999996,
+        "lng": 136.0963818,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "QX4Fl6pW_Hk",
+          "title": "東京 🇯🇵 🥮🍱 銀座三越與松屋銀座必買地下街美食！人氣甜點及精緻便當指南",
+          "url": "https://www.youtube.com/watch?v=QX4Fl6pW_Hk"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_73b8718fe931b3e4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=7137246681593770710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "omihachiman--p_a040448ef5601644",
+      "name": "とんこつらーめん豚太近江八幡店",
+      "address": "480-1 Egashirachō, Omihachiman, Shiga 523-0061",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「とんこつらーめん豚太近江八幡店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 480-1 Egashirachō, Omihachiman, Shiga 523-0061。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.116143199999996,
+        "lng": 136.0580511,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "Y0PSXGfBI3g",
+          "title": "東京美食炸豬排篇，高田馬場爽吃特輯三選 ! 東京炸豬排一級戰區，連吃三家激爽炸豬排名店，米其林認證炸豬菲力、激爽酥炸豬肋排、Tabelog排行榜一豬排豚太! 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=Y0PSXGfBI3g",
+          "time": "6:16",
+          "seconds": 376
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a040448ef5601644"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=9417713356913695050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    }
+  ],
+  "matches": {},
+  "archived": []
+}

@@ -1,0 +1,306 @@
+{
+  "places": [
+    {
+      "id": "nakazakicho--p_655562a1ff37fac1",
+      "name": "麦と麺助 新梅田中津店",
+      "address": "3-chōme-4-12 Toyosaki, Kita Ward, Osaka, 531-0072",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「麦と麺助 新梅田中津店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-4-12 Toyosaki, Kita Ward, Osaka, 531-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7113526,
+        "lng": 135.50000269999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "hIFJwUQ5LSo",
+          "title": "大阪米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Osaka 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=hIFJwUQ5LSo",
+          "time": "2:22",
+          "seconds": 142
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_655562a1ff37fac1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3279025535520593386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "nakazakicho--p_75420c1c9ffb6b12",
+      "name": "梅田EST",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「梅田EST」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7046134,
+        "lng": 135.5003413,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "4:04",
+          "seconds": 244
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_75420c1c9ffb6b12"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/%E6%A2%85%E7%94%B0EST/@34.7046134,135.497761,17z/data=!3m2!4b1!5s0x6000e693bf195f27:0x4ceb5b055feae400!4m6!3m5!1s0x6000e6939149a243:0x7d86e33e607a9a0!8m2!3d34.7046134!4d135.5003413!16s%2Fg%2F11fjn2p_f2?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "nakazakicho--p_cdd7974d52ec6f06",
+      "name": "HEP FIVE",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「HEP FIVE」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7040897,
+        "lng": 135.5004632,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "2:05",
+          "seconds": 125
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cdd7974d52ec6f06"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/HEP+FIVE/@34.7040897,135.4978829,17z/data=!3m2!4b1!5s0x6000e693a22a809f:0xa230d50aadac22b0!4m6!3m5!1s0x6000e693a1a0f691:0x6577d55e1884c621!8m2!3d34.7040897!4d135.5004632!16zL20vMDNsdGh2?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "nakazakicho--p_f243fdad43222637",
+      "name": "Kiddyland 大阪梅田店",
+      "address": "〒530-0012 Osaka, Kita Ward, Shibata, 1-chōme−1−３ 阪急三番街北館 B1F-1F",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Kiddyland 大阪梅田店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒530-0012 Osaka, Kita Ward, Shibata, 1-chōme−1−３ 阪急三番街北館 B1F-1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.706021899999996,
+        "lng": 135.4982621,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "VlAaqrYfdnE",
+          "title": "tokyo diaries: exploring tokyo itinerary | harajuku, omotesando coffee shops, food, shopping!",
+          "url": "https://www.youtube.com/watch?v=VlAaqrYfdnE",
+          "time": "16:55",
+          "seconds": 1015
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f243fdad43222637"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13799597358099214563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "nakazakicho--p_e078f000f87057e6",
+      "name": "タリーズコーヒー 阪急大阪梅田駅3F店",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「タリーズコーヒー 阪急大阪梅田駅3F店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7045789,
+        "lng": 135.4990951,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "12:53",
+          "seconds": 773
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e078f000f87057e6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/TULLY's+COFFEE+%E9%98%AA%E6%80%A5%E6%A2%85%E7%94%B0%E7%AB%993%E6%A8%93%E5%BA%97/@34.7045789,135.4990951,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e70abf4deaf7:0x4190edc5fd0dbeed!8m2!3d34.7045789!4d135.4990951!16s%2Fg%2F11fln40vzv?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D"
+      }
+    }
+  ],
+  "matches": {
+    "nakazakicho--taiyo": {
+      "sourceIds": [
+        "p_c1207b0c31e6a919"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg"
+        }
+      ]
+    },
+    "nakazakicho--greenpepe": {
+      "sourceIds": [
+        "p_c251d3a82e3fcdd2"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "20:15",
+          "seconds": 1215
+        }
+      ]
+    },
+    "nakazakicho--kaya": {
+      "sourceIds": [
+        "p_fa9ee10df49db510"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg"
+        }
+      ]
+    },
+    "nakazakicho--marble": {
+      "sourceIds": [
+        "p_b1106854d0f77260"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "24:59",
+          "seconds": 1499
+        }
+      ]
+    },
+    "nakazakicho--neel": {
+      "sourceIds": [
+        "p_c727d8ddd4fd6021"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "23:23",
+          "seconds": 1403
+        }
+      ]
+    },
+    "nakazakicho--elemeca": {
+      "sourceIds": [
+        "p_c96658bb62841e00"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg"
+        }
+      ]
+    },
+    "nakazakicho--gori": {
+      "sourceIds": [
+        "p_bf9945320fd6483d"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "E_z5AGwMDSg",
+          "title": "🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
+          "time": "18:08",
+          "seconds": 1088
+        }
+      ]
+    }
+  },
+  "archived": []
+}

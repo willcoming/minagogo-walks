@@ -1,0 +1,92 @@
+{
+  "places": [
+    {
+      "id": "sawara--p_a3d238488dfaff0b",
+      "name": "Sawara Merchant Town Hotel NIPPONIA KAGURA",
+      "address": "I-1708-2 Sawara, Katori, Chiba 287-0003",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sawara Merchant Town Hotel NIPPONIA KAGURA」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 I-1708-2 Sawara, Katori, Chiba 287-0003。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.8885061,
+        "lng": 140.49524739999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "7:16",
+          "seconds": 436
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a3d238488dfaff0b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14361266519961008414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    }
+  ],
+  "matches": {
+    "sawara--ino-residence": {
+      "sourceIds": [
+        "p_63478ac23af841d8"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "10:41",
+          "seconds": 641
+        }
+      ]
+    },
+    "sawara--suppinya": {
+      "sourceIds": [
+        "p_7545204d045b397b"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "17:06",
+          "seconds": 1026
+        }
+      ]
+    },
+    "sawara--mizunosato": {
+      "sourceIds": [
+        "p_e6c8fe87746530fc"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "19:50",
+          "seconds": 1190
+        }
+      ]
+    }
+  },
+  "archived": []
+}

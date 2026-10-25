@@ -1,0 +1,126 @@
+{
+  "places": [
+    {
+      "id": "kyoto-uji--p_07788e6ba852ffcd",
+      "name": "ニンテンドーミュージアム 任天堂博物館",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ニンテンドーミュージアム 任天堂博物館」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.8927989,
+        "lng": 135.784166,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "DYmnbZ8oaws",
+          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
+          "time": "20:11",
+          "seconds": 1211
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_07788e6ba852ffcd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%8D%9A%E7%89%A9%E9%A4%A8/@34.8927989,135.784166,17z/data=!3m1!4b1!4m6!3m5!1s0x60011188b83087d3:0x646fdf4a68b62b4d!8m2!3d34.8927989!4d135.784166!16s%2Fg%2F11vdn6d1cd?entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      }
+    }
+  ],
+  "matches": {
+    "kyoto-uji--nakamura": {
+      "sourceIds": [
+        "p_72e5c8bbdd8a7661"
+      ],
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "mUCN4ALqmRY",
+          "title": "【一週的日本夏日美食特輯】Tokyo vlog｜日本生活",
+          "url": "https://www.youtube.com/watch?v=mUCN4ALqmRY",
+          "time": "08:26",
+          "seconds": 506
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "k9ck4FtsjoU",
+          "title": "[東京甜點最佳 7] 2023 年最新！ 如果你想在東京吃甜食，就去這裡吧！",
+          "url": "https://www.youtube.com/watch?v=k9ck4FtsjoU"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "pVjoR_5dzaY",
+          "title": "【東京スイーツ13選】2025年最新！東京で美味しいスイーツを食べるならここ！",
+          "url": "https://www.youtube.com/watch?v=pVjoR_5dzaY"
+        }
+      ]
+    },
+    "kyoto-uji--soma": {
+      "sourceIds": [
+        "p_5c4e84eb383460f5"
+      ],
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ]
+    },
+    "kyoto-uji--itohjr": {
+      "sourceIds": [
+        "p_4667c0ed9f793518"
+      ],
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ]
+    },
+    "kyoto-uji--marukyu": {
+      "sourceIds": [
+        "p_0cc817b7c35d5ed1"
+      ],
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ]
+    },
+    "kyoto-uji--tsujirihei": {
+      "sourceIds": [
+        "p_d74fa33de0f5fd7f"
+      ],
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ]
+    }
+  },
+  "archived": []
+}

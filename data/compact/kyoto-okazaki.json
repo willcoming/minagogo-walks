@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
@@ -89,9 +89,15 @@
           "channel": "Celia Ting",
           "videoId": "pemI7VRrJ8Y",
           "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
-          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
-          "time": "",
-          "seconds": null
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        },
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "qB0t_EZfeng",
+          "title": "【日本橋散步】走進東京最時髦的第一間百貨 三越本館｜京都老咖啡館Soiree 夢幻甜品 ｜去吃到過南極的烏龍麵｜Tokyo vlog｜日本旅行",
+          "url": "https://www.youtube.com/watch?v=qB0t_EZfeng",
+          "time": "00:30",
+          "seconds": 30
         }
       ],
       "coordinate": {
@@ -108,7 +114,11 @@
         "image": "/art/walks/kyoto-okazaki/bluebottle.webp",
         "alt": "Blue Bottle Coffee 京都咖啡館，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "在附近咖啡館休息，之後沿街道回東山站，沿途可自由短停。"
+      "recommendation": "在附近咖啡館休息，之後沿街道回東山站，沿途可自由短停。",
+      "sourceLibraryIds": [
+        "p_801c9dcdbaa3e196",
+        "p_492aa2d322d62b8f"
+      ]
     },
     {
       "id": "kyoto-okazaki--sosui",
@@ -230,9 +240,7 @@
           "channel": "Hina Life in Japan",
           "videoId": "6-t-19xIZOA",
           "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
-          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA",
-          "time": "",
-          "seconds": null
+          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
         }
       ],
       "coordinate": {
@@ -249,7 +257,10 @@
         "image": "/art/walks/kyoto-okazaki/okakita.webp",
         "alt": "京うどん 生蕎麥 岡北，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_c4078d883c248ad2"
+      ]
     },
     {
       "id": "kyoto-okazaki--kyocera",
@@ -272,9 +283,7 @@
           "channel": "Celia Ting",
           "videoId": "pemI7VRrJ8Y",
           "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
-          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
-          "time": "",
-          "seconds": null
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
         }
       ],
       "coordinate": {
@@ -291,7 +300,10 @@
         "image": "/art/walks/kyoto-okazaki/kyocera.webp",
         "alt": "京都市京瓷美術館，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "選一檔展覽，約60分鐘精選參觀。"
+      "recommendation": "選一檔展覽，約60分鐘精選參觀。",
+      "sourceLibraryIds": [
+        "p_db42bd0ef1d39b24"
+      ]
     },
     {
       "id": "kyoto-okazaki--terrace",
@@ -479,9 +491,7 @@
           "channel": "Hina Life in Japan",
           "videoId": "6-t-19xIZOA",
           "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
-          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA",
-          "time": "",
-          "seconds": null
+          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
         }
       ],
       "coordinate": {
@@ -498,7 +508,10 @@
         "image": "/art/walks/kyoto-okazaki/heian.webp",
         "alt": "平安神宮，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "一般境內散步；神苑另作替換安排。"
+      "recommendation": "一般境內散步；神苑另作替換安排。",
+      "sourceLibraryIds": [
+        "p_0e83e823145dbfdf"
+      ]
     },
     {
       "id": "kyoto-okazaki--okazakijinja",
@@ -521,9 +534,7 @@
           "channel": "Celia Ting",
           "videoId": "pemI7VRrJ8Y",
           "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
-          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
-          "time": "",
-          "seconds": null
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
         }
       ],
       "coordinate": {
@@ -540,7 +551,10 @@
         "image": "/art/walks/kyoto-okazaki/okazakijinja.webp",
         "alt": "岡崎神社，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_7d1ded7a28a58a47"
+      ]
     }
   ],
   "routes": [
@@ -549,7 +563,9 @@
       "name": "一間美術館，一段散步",
       "ids": [
         "kyoto-okazaki--kyocera",
+        "kyoto-okazaki--okakita",
         "kyoto-okazaki--heian",
+        "kyoto-okazaki--rohm",
         "kyoto-okazaki--terrace"
       ],
       "start": {
@@ -570,21 +586,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "選一間美術館，再把時間留給神宮前的天空與咖啡。",
       "note": "單館按約60分鐘精選參觀估算；神苑、動物園或完整特展需替換其他停留。",
       "stopNotes": {
         "kyoto-okazaki--kyocera": "選一檔展覽，約60分鐘精選參觀。",
         "kyoto-okazaki--heian": "一般境內散步；神苑另作替換安排。",
-        "kyoto-okazaki--terrace": "在劇場旁的咖啡餐廳休息。"
+        "kyoto-okazaki--terrace": "在劇場旁的咖啡餐廳休息。",
+        "kyoto-okazaki--rohm": "順路可選：走過公共廊道，看見劇場如何成為街區。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-okazaki--okakita": "順路可選：在美術館與寺院之間，坐下一碗麵的時間。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-okazaki/kyocera.webp"
+      "art": "/art/walks/kyoto-okazaki/kyocera.webp",
+      "highlightIds": [
+        "kyoto-okazaki--kyocera",
+        "kyoto-okazaki--heian",
+        "kyoto-okazaki--terrace"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kyoto-okazaki-garden-and-coffee",
       "name": "庭園與水路旁的咖啡",
       "ids": [
         "kyoto-okazaki--murin",
+        "kyoto-okazaki--zoo",
+        "kyoto-okazaki--sosui",
         "kyoto-okazaki--bluebottle"
       ],
       "start": {
@@ -605,15 +631,35 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "把一座庭園當作午後主角，再到南禪寺前的咖啡館坐下，不急著多逛一座寺院。",
       "note": "含兩處重點、步行與 30～45 分鐘自由探索。無鄰菴限制每小時入場人數，建議先預約；2026 年 12 月 9 日臨時閉場。母屋二樓、茶室與特別活動需另外安排，咖啡候位另計。",
       "stopNotes": {
         "kyoto-okazaki--murin": "預留約 45～60 分鐘看庭園與通常開放的建築，順著園內指引慢走。",
-        "kyoto-okazaki--bluebottle": "在附近咖啡館休息，之後沿街道回東山站，沿途可自由短停。"
+        "kyoto-okazaki--bluebottle": "在附近咖啡館休息，之後沿街道回東山站，沿途可自由短停。",
+        "kyoto-okazaki--sosui": "順路可選：先讀水的故事，再看街區的風景。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-okazaki--zoo": "順路可選：在文化街區裡，留一段看動物的步行。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-okazaki/murin.webp"
+      "art": "/art/walks/kyoto-okazaki/murin.webp",
+      "highlightIds": [
+        "kyoto-okazaki--murin",
+        "kyoto-okazaki--bluebottle"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kyoto-okazaki-slow-walk"
+  "defaultSelection": "kyoto-okazaki-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_0e83e823145dbfdf",
+      "p_c4078d883c248ad2",
+      "p_801c9dcdbaa3e196",
+      "p_492aa2d322d62b8f",
+      "p_db42bd0ef1d39b24",
+      "p_7d1ded7a28a58a47"
+    ],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

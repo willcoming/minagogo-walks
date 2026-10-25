@@ -35,7 +35,7 @@ const WalkState = (() => {
   function filterPlaces(places, chosen, filter, term) {
     const needle = term.trim().toLocaleLowerCase();
     const ordered = filter === 'selected' ? selectedPlaces(places, chosen) : places;
-    return ordered.filter(p => (filter === 'all' || (filter === 'selected' ? chosen.has(p.id) : p.group === filter))
+    return ordered.filter(p => (filter === 'all' || (filter === 'selected' ? chosen.has(p.id) : filter === 'record' ? !!p.libraryRecord : p.group === filter))
       && `${p.name} ${p.address} ${p.categoryLabel}`.toLocaleLowerCase().includes(needle));
   }
   const selectedPlaces = (places, chosen) => [...chosen].map(id => places.find(p => p.id === id)).filter(Boolean);

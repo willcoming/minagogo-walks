@@ -1,0 +1,82 @@
+{
+  "places": [
+    {
+      "id": "kobe-motomachi--p_16bf5a9d7743a0e1",
+      "name": "FISH IN THE FOREST TOOTH TOOTH",
+      "address": "2-8 Hatobachō, Chuo Ward, Kobe, Hyogo 650-0042",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「FISH IN THE FOREST TOOTH TOOTH」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-8 Hatobachō, Chuo Ward, Kobe, Hyogo 650-0042。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.684819399999995,
+        "lng": 135.1897292,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "57OtKo9avlw",
+          "title": "【東京ランチ10選】市川猿之助が食べた楽屋めし、パン食べ放題ニューオープンなど！",
+          "url": "https://www.youtube.com/watch?v=57OtKo9avlw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_16bf5a9d7743a0e1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7042070532357341959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kobe-motomachi--p_135871d72948e644",
+      "name": "SWALLOW JAPAN",
+      "address": "3-chōme-1-16 Nakamachidōri, Chuo Ward, Kobe, Hyogo 650-0027",
+      "group": "sights",
+      "categoryLabel": "顧問",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「SWALLOW JAPAN」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-1-16 Nakamachidōri, Chuo Ward, Kobe, Hyogo 650-0027。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.678701499999995,
+        "lng": 135.17517960000004,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "kEWIJS-edSk",
+          "title": "Life in Tokyo｜A Local Tokyo Walk Along the Setagaya Line",
+          "url": "https://www.youtube.com/watch?v=kEWIJS-edSk"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_135871d72948e644"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=2812636213210088015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    }
+  ],
+  "matches": {},
+  "archived": []
+}

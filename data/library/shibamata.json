@@ -1,0 +1,109 @@
+{
+  "places": [
+    {
+      "id": "shibamata--p_86f5a24a0efe8535",
+      "name": "Shibamata Haikara Yokocho",
+      "address": "7-chōme-3-12 Shibamata, Katsushika City, Tokyo 125-0052",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Shibamata Haikara Yokocho」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 7-chōme-3-12 Shibamata, Katsushika City, Tokyo 125-0052。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7573995,
+        "lng": 139.87591079999999,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "sXbqwt-N8i0",
+          "title": "How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods",
+          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_86f5a24a0efe8535"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6010531765933556792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "shibamata--p_c159b16530210987",
+      "name": "Taishakuten Sandō",
+      "address": "7-chōme-7-4 Shibamata, 葛飾区 Katsushika City, Tokyo 125-0052",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Taishakuten Sandō」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 7-chōme-7-4 Shibamata, 葛飾区 Katsushika City, Tokyo 125-0052。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7576512,
+        "lng": 139.87658009999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "sXbqwt-N8i0",
+          "title": "How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods",
+          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c159b16530210987"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=12143433986331728921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    }
+  ],
+  "matches": {
+    "shibamata--yamamoto": {
+      "sourceIds": [
+        "p_972147635a89f470"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "sXbqwt-N8i0",
+          "title": "How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods",
+          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
+        }
+      ]
+    },
+    "shibamata--takagiya": {
+      "sourceIds": [
+        "p_868c9ff0022a07d5"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "sXbqwt-N8i0",
+          "title": "How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods",
+          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
+        }
+      ]
+    }
+  },
+  "archived": []
+}

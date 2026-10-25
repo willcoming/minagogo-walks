@@ -1,0 +1,421 @@
+{
+  "places": [
+    {
+      "id": "yokohama-yamate--p_c80f8af50707b75e",
+      "name": "横浜山手西洋館",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「横浜山手西洋館」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.4375353,
+        "lng": 139.6512917,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "MluzdR_J4y0",
+          "title": "🇯🇵東京順遊最浪漫的城市就是橫濱了啦！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=MluzdR_J4y0",
+          "time": "2:45",
+          "seconds": 165
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c80f8af50707b75e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/Yokohama+Yamate+Seiyoukan/@35.4395169,139.6494626,16.75z/data=!4m5!3m4!1s0x60185d201e847885:0x4b081f1b982583d8!8m2!3d35.4375353!4d139.6512917?hl=zh-TW&coh=164777&entry=tt&shorturl=1"
+      }
+    },
+    {
+      "id": "yokohama-yamate--p_57f1a52b47d1ba4a",
+      "name": "Cafe Ehrismann",
+      "address": "1-chōme-77-4 Motomachi, Naka Ward, Yokohama, Kanagawa 231-0861",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Cafe Ehrismann」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-77-4 Motomachi, Naka Ward, Yokohama, Kanagawa 231-0861。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.4375854,
+        "lng": 139.6512697,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "WHexI6BjwLY",
+          "title": "The Best Guide Of Yokohama 2023: JAPAN TRAVEL",
+          "url": "https://www.youtube.com/watch?v=WHexI6BjwLY",
+          "time": "02:03",
+          "seconds": 123
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_57f1a52b47d1ba4a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11645962467603956847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "yokohama-yamate--p_c82e714384da856a",
+      "name": "Elysee しょうゆきゃふぇ元町",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Elysee しょうゆきゃふぇ元町」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.4409508,
+        "lng": 139.6501711,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "MluzdR_J4y0",
+          "title": "🇯🇵東京順遊最浪漫的城市就是橫濱了啦！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=MluzdR_J4y0",
+          "time": "3:49",
+          "seconds": 229
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "sZdTatptBvs",
+          "title": "cafe vlog｜横浜中華街グルメ／食べ歩き／小籠包／北京ダック／肉まん／スイーツ",
+          "url": "https://www.youtube.com/watch?v=sZdTatptBvs"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c82e714384da856a",
+          "p_ce83ccc48085b801"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/Elysee/@35.4411008,139.6501771,19.4z/data=!3m1!5s0x60185ce1e1a38beb:0xdf4fb8a7b159161e!4m5!3m4!1s0x60185d201e9dd815:0x1b0131ce2de743f6!8m2!3d35.4409508!4d139.6501711?hl=zh-TW&coh=164777&entry=tt&shorturl=1"
+      }
+    },
+    {
+      "id": "yokohama-yamate--p_567df4cf65d645bd",
+      "name": "Sushi Kissa Sususu",
+      "address": "〒231-0862 Kanagawa, Yokohama, Naka Ward, Yamatechō, １１０ 神奈川近代 文学館内",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sushi Kissa Sususu」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒231-0862 Kanagawa, Yokohama, Naka Ward, Yamatechō, １１０ 神奈川近代 文学館内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.4388411,
+        "lng": 139.6561851,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HcSvq3GprBE",
+          "title": "japan diaries: exploring tokyo + full 5 day itinerary | coffee shops, food, shopping!",
+          "url": "https://www.youtube.com/watch?v=HcSvq3GprBE",
+          "time": "37:30",
+          "seconds": 2250
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_567df4cf65d645bd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13787692550849383459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "yokohama-yamate--p_a727670c29301bf7",
+      "name": "Tsukikoya Specialty Coffee Roaster's shop",
+      "address": "〒231-0023 Kanagawa, Yokohama, Naka Ward, Yamashitachō, １０６ 朱雀門近く シルクロード通り1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tsukikoya Specialty Coffee Roaster's shop」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒231-0023 Kanagawa, Yokohama, Naka Ward, Yamashitachō, １０６ 朱雀門近く シルクロード通り1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.4416931,
+        "lng": 139.64818839999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "WHexI6BjwLY",
+          "title": "The Best Guide Of Yokohama 2023: JAPAN TRAVEL",
+          "url": "https://www.youtube.com/watch?v=WHexI6BjwLY",
+          "time": "03:25",
+          "seconds": 205
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a727670c29301bf7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10202345246945200566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "yokohama-yamate--p_b20acc0524974fa7",
+      "name": "ウチキパン (Uchikipan)",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ウチキパン (Uchikipan)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.4409362,
+        "lng": 139.6506393,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "JFc6eVGxkjc",
+          "title": "横浜 🇯🇵 🥐 東京近郊名店巡禮 | 避開人潮的安靜街道 | 一口就幸福的「背德紅豆夾心」與絕品可頌",
+          "url": "https://www.youtube.com/watch?v=JFc6eVGxkjc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b20acc0524974fa7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Uchiki+Pan+(Uchiki+Bakery)/@35.4409362,139.6480644,17z/data=!3m1!4b1!4m6!3m5!1s0x60185d1e24ed644f:0x76e74a82f730fcb3!8m2!3d35.4409362!4d139.6506393!16s%2Fg%2F1td0m_b6"
+      }
+    },
+    {
+      "id": "yokohama-yamate--p_b3d245cdcbf889b5",
+      "name": "オートウー (O to U)",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「オートウー (O to U)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.4405333,
+        "lng": 139.6509826,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "JFc6eVGxkjc",
+          "title": "横浜 🇯🇵 🥐 東京近郊名店巡禮 | 避開人潮的安靜街道 | 一口就幸福的「背德紅豆夾心」與絕品可頌",
+          "url": "https://www.youtube.com/watch?v=JFc6eVGxkjc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b3d245cdcbf889b5"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/O+to+U/@35.4405333,139.6509826,17z/data=!3m1!4b1!4m6!3m5!1s0x60185dc51212da11:0xa75c8bf469baa870!8m2!3d35.4405333!4d139.6509826!16s%2Fg%2F11h84k6knn"
+      }
+    },
+    {
+      "id": "yokohama-yamate--p_02440d83989ca1ae",
+      "name": "クレープ・ドン",
+      "address": "神奈川県横浜市中区元町1-13",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「クレープ・ドン」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 神奈川県横浜市中区元町1-13。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.441593,
+        "lng": 139.650635,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-13",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "sZdTatptBvs",
+          "title": "cafe vlog｜横浜中華街グルメ／食べ歩き／小籠包／北京ダック／肉まん／スイーツ",
+          "url": "https://www.youtube.com/watch?v=sZdTatptBvs"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_02440d83989ca1ae"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%BB%E3%83%89%E3%83%B3+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-13"
+      }
+    },
+    {
+      "id": "yokohama-yamate--p_db1e1714bc57df22",
+      "name": "ハマブレッド (Hamabread)",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ハマブレッド (Hamabread)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.4385605,
+        "lng": 139.6451183,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "JFc6eVGxkjc",
+          "title": "横浜 🇯🇵 🥐 東京近郊名店巡禮 | 避開人潮的安靜街道 | 一口就幸福的「背德紅豆夾心」與絕品可頌",
+          "url": "https://www.youtube.com/watch?v=JFc6eVGxkjc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_db1e1714bc57df22"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Hamabread+Bakery/@35.4394958,139.6439274,17z/data=!4m6!3m5!1s0x60185d7c6c5ec7c3:0x77f67b7dffa26d68!8m2!3d35.4385605!4d139.6451183!16s%2Fg%2F11j67s649v"
+      }
+    },
+    {
+      "id": "yokohama-yamate--p_f218e8cd0dcd9018",
+      "name": "よつばベーカリー (Yotsuba Bakery)",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「よつばベーカリー (Yotsuba Bakery)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.4376138,
+        "lng": 139.6421918,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "JFc6eVGxkjc",
+          "title": "横浜 🇯🇵 🥐 東京近郊名店巡禮 | 避開人潮的安靜街道 | 一口就幸福的「背德紅豆夾心」與絕品可頌",
+          "url": "https://www.youtube.com/watch?v=JFc6eVGxkjc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f218e8cd0dcd9018"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Yotsuba+Bakery/@35.4376726,139.6374277,17.11z/data=!4m6!3m5!1s0x60185de1ff962d93:0x683bb7fd6fcc5ff3!8m2!3d35.4376138!4d139.6421918!16s%2Fg%2F11fhry_29y"
+      }
+    }
+  ],
+  "matches": {
+    "yokohama-yamate--bakery": {
+      "sourceIds": [
+        "p_9420b3046b8a1c53"
+      ],
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "JFc6eVGxkjc",
+          "title": "横浜 🇯🇵 🥐 東京近郊名店巡禮 | 避開人潮的安靜街道 | 一口就幸福的「背德紅豆夾心」與絕品可頌",
+          "url": "https://www.youtube.com/watch?v=JFc6eVGxkjc"
+        }
+      ]
+    }
+  },
+  "archived": []
+}

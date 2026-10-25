@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "monzen-nakacho--river",
@@ -35,8 +35,47 @@
       "recommendation": "在黑船橋周邊沿水岸短走，再循附近小街回到門前仲町站。"
     },
     {
+      "id": "monzen-nakacho--p_307db0b60498ca6d",
+      "name": "門仲パン屋 MONPAN",
+      "address": "1-chōme-2-4 Monzennakachō, Koto City, Tokyo 135-0048",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「門仲パン屋 MONPAN」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-2-4 Monzennakachō, Koto City, Tokyo 135-0048。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6722566,
+        "lng": 139.7939618,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_307db0b60498ca6d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=511921581332876117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 2
+    },
+    {
       "id": "monzen-nakacho--marushichi",
-      "order": 2,
+      "order": 3,
       "name": "丸七 門前仲町本店",
       "address": "東京都江東区門前仲町1-12-5",
       "group": "food",
@@ -50,7 +89,14 @@
       "note": "本店現採現場依序入店，不接受預約，同行者須到齊；排隊時間另計。請勿與已結束營業的深川不動店混淆。",
       "official": "https://tonkatsu07.jp/",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "RyNnK1L9pqw",
+          "title": "【銀座午餐精選7】蛋飯漢堡牛排、5公分厚炸豬排等吃到飽！",
+          "url": "https://www.youtube.com/watch?v=RyNnK1L9pqw"
+        }
+      ],
       "coordinate": {
         "lat": 35.673512,
         "lng": 139.794891,
@@ -65,11 +111,14 @@
         "image": "/art/walks/monzen-nakacho/marushichi.webp",
         "alt": "丸七 門前仲町本店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_0e9794fe91cc06c1"
+      ]
     },
     {
       "id": "monzen-nakacho--modern",
-      "order": 3,
+      "order": 4,
       "name": "深川東京摩登館",
       "address": "東京都江東区門前仲町1-19-15",
       "group": "sights",
@@ -101,8 +150,47 @@
       "recommendation": "看看舊公共食堂的建築與當期展示，不必另排一整場導覽。"
     },
     {
+      "id": "monzen-nakacho--p_c11ad7477122755a",
+      "name": "Dorayama",
+      "address": "〒135-0048 Tokyo, Koto City, Monzennakachō, 2-chōme−6−９ ひいらぎビル 1F",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Dorayama」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒135-0048 Tokyo, Koto City, Monzennakachō, 2-chōme−6−９ ひいらぎビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.672609099999995,
+        "lng": 139.7957982,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c11ad7477122755a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3219265300047906274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 5
+    },
+    {
       "id": "monzen-nakacho--park",
-      "order": 4,
+      "order": 6,
       "name": "深川公園",
       "address": "東京都江東区富岡1-14-10",
       "group": "sights",
@@ -134,8 +222,47 @@
       "recommendation": null
     },
     {
+      "id": "monzen-nakacho--p_3cee4b6ce07e8b5f",
+      "name": "（有）其角",
+      "address": "1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「（有）其角」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6721425,
+        "lng": 139.79773699999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3cee4b6ce07e8b5f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=1866569147605809423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 7
+    },
+    {
       "id": "monzen-nakacho--monz",
-      "order": 5,
+      "order": 8,
       "name": "MONZ CAFE 門前仲町店",
       "address": "東京都江東区富岡1-14-5",
       "group": "food",
@@ -167,8 +294,47 @@
       "recommendation": "先坐下喝杯咖啡，觀察參道往來的人。"
     },
     {
+      "id": "monzen-nakacho--p_04eb0df096ee3f59",
+      "name": "Tekka",
+      "address": "1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tekka」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6723868,
+        "lng": 139.7979569,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_04eb0df096ee3f59"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7886082695827925664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 9
+    },
+    {
       "id": "monzen-nakacho--fudo",
-      "order": 6,
+      "order": 10,
       "name": "深川不動堂",
       "address": "東京都江東区富岡1-17-13",
       "group": "sights",
@@ -201,7 +367,7 @@
     },
     {
       "id": "monzen-nakacho--orihara",
-      "order": 7,
+      "order": 11,
       "name": "折原商店 深川不動堂參道店",
       "address": "東京都江東区富岡1-13-11",
       "group": "shops",
@@ -233,8 +399,47 @@
       "recommendation": null
     },
     {
+      "id": "monzen-nakacho--p_e9bded65ce3c24bc",
+      "name": "Fukagawa Iseya Honten",
+      "address": "〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Fukagawa Iseya Honten」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6714975,
+        "lng": 139.7973477,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e9bded65ce3c24bc"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=4952709091110168002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 12
+    },
+    {
       "id": "monzen-nakacho--fukagawajuku",
-      "order": 8,
+      "order": 13,
       "name": "深川宿 富岡八幡店",
       "address": "東京都江東区富岡1-23-11",
       "group": "food",
@@ -267,7 +472,7 @@
     },
     {
       "id": "monzen-nakacho--tomioka",
-      "order": 9,
+      "order": 14,
       "name": "富岡八幡宮",
       "address": "東京都江東区富岡1-20-3",
       "group": "sights",
@@ -300,7 +505,7 @@
     },
     {
       "id": "monzen-nakacho--hachiman",
-      "order": 10,
+      "order": 15,
       "name": "八幡橋",
       "address": "東京都江東区富岡1丁目19",
       "group": "sights",
@@ -330,6 +535,47 @@
         "alt": "八幡橋的日系水彩插圖"
       },
       "recommendation": null
+    },
+    {
+      "id": "monzen-nakacho--p_18174abe5963517a",
+      "name": "Day Nice Hotel Tokyo",
+      "address": "2-chōme-1-1 Kiba, Koto City, Tokyo 135-0042",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Day Nice Hotel Tokyo」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-1-1 Kiba, Koto City, Tokyo 135-0042。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6691875,
+        "lng": 139.8018476,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "LrNyIEgBVhw",
+          "title": "參觀東京神秘的火山島 | 伊豆大島 | 日本旅遊",
+          "url": "https://www.youtube.com/watch?v=LrNyIEgBVhw",
+          "time": "22:27",
+          "seconds": 1347
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_18174abe5963517a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6926791937297161831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 16
     }
   ],
   "routes": [
@@ -339,6 +585,9 @@
       "ids": [
         "monzen-nakacho--monz",
         "monzen-nakacho--fudo",
+        "monzen-nakacho--park",
+        "monzen-nakacho--orihara",
+        "monzen-nakacho--fukagawajuku",
         "monzen-nakacho--tomioka"
       ],
       "start": {
@@ -360,21 +609,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "在深川不動堂與八幡宮之間慢走，坐下喝杯咖啡，把餘裕留給參道小店。",
       "note": "編輯預估包含步行、三處重點停留與 30–45 分鐘自由探索；十點是可選清單。若改吃丸七或深川飯，可替換咖啡停留，餐廳排隊另計。",
       "stopNotes": {
         "monzen-nakacho--monz": "先坐下喝杯咖啡，觀察參道往來的人。",
         "monzen-nakacho--fudo": "沿短短參道散步，留時間看舊堂與梵字外牆。",
-        "monzen-nakacho--tomioka": "走到八幡宮看看社殿與境內石碑，再慢慢回車站。"
+        "monzen-nakacho--tomioka": "走到八幡宮看看社殿與境內石碑，再慢慢回車站。",
+        "monzen-nakacho--fukagawajuku": "順路可選：用一碗蛤蜊飯認識深川。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "monzen-nakacho--orihara": "順路可選：參道上的酒屋與老派零食。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "monzen-nakacho--park": "順路可選：寺院旁的一小片日常綠地。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/monzen-nakacho/monz.webp"
+      "art": "/art/walks/monzen-nakacho/monz.webp",
+      "highlightIds": [
+        "monzen-nakacho--monz",
+        "monzen-nakacho--fudo",
+        "monzen-nakacho--tomioka"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "monzen-nakacho-modern-buildings-and-water",
       "name": "老建築與水岸的小繞路",
       "ids": [
         "monzen-nakacho--modern",
+        "monzen-nakacho--marushichi",
         "monzen-nakacho--river"
       ],
       "start": {
@@ -396,15 +655,35 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "在摩登館認識街區，再轉向黑船橋附近，留一大段時間給水邊與小巷。",
       "note": "兩處重點搭配步行、休息與 30～45 分鐘自由探索。摩登館週一休館，逢假日改翌日休；導覽團、完整用餐與季節乘船不含在預估內。河岸活動依現場開放狀況安排。",
       "stopNotes": {
         "monzen-nakacho--modern": "看看舊公共食堂的建築與當期展示，不必另排一整場導覽。",
-        "monzen-nakacho--river": "在黑船橋周邊沿水岸短走，再循附近小街回到門前仲町站。"
+        "monzen-nakacho--river": "在黑船橋周邊沿水岸短走，再循附近小街回到門前仲町站。",
+        "monzen-nakacho--marushichi": "順路可選：厚切豬排飯的飽足選項。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/monzen-nakacho/modern.webp"
+      "art": "/art/walks/monzen-nakacho/modern.webp",
+      "highlightIds": [
+        "monzen-nakacho--modern",
+        "monzen-nakacho--river"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "monzen-nakacho-slow-walk"
+  "defaultSelection": "monzen-nakacho-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_0e9794fe91cc06c1",
+      "p_3cee4b6ce07e8b5f",
+      "p_307db0b60498ca6d",
+      "p_18174abe5963517a",
+      "p_c11ad7477122755a",
+      "p_e9bded65ce3c24bc",
+      "p_04eb0df096ee3f59"
+    ],
+    "added": 6,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

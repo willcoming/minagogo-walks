@@ -1,52 +1,149 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
-      "id": "kagurazaka--akomeya",
-      "order": 1,
-      "name": "AKOMEYA TOKYO in la kagū",
-      "address": "東京都新宿区矢来町67",
-      "group": "shops",
-      "categoryLabel": "食材・生活選物",
-      "caption": "走進大倉庫，把日常選得更有味道。",
+      "id": "kagurazaka--p_29bb3bfb9113e582",
+      "name": "Hotel Vintage Kagurazaka",
+      "address": "〒162-0804 東京都新宿区中里町３０",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "以米飯為核心的 AKOMEYA TOKYO，把產地食品、下飯小菜與生活器物放在同一段購物路徑裡。神樂坂的 la kagū 店保留倉庫開闊的尺度，從外部大階梯便能感受到建築的個性。",
-        "可以慢慢挑米、茶、調味料與餐具，也能在食堂把選物的想像化成一頓飯。鄰近神樂坂站，適合安排在散步尾聲，為家裡帶回一點日本日常。"
+        "「Hotel Vintage Kagurazaka」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0804 東京都新宿区中里町３０。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "description": "以米飯為核心的 AKOMEYA TOKYO，把產地食品、下飯小菜與生活器物放在同一段購物路徑裡。神樂坂的 la kagū 店保留倉庫開闊的尺度，從外部大階梯便能感受到建築的個性。\n\n可以慢慢挑米、茶、調味料與餐具，也能在食堂把選物的想像化成一頓飯。鄰近神樂坂站，適合安排在散步尾聲，為家裡帶回一點日本日常。",
-      "note": "",
-      "official": "https://www.akomeya.jp/store_info/store/sinlakagu/",
-      "verifiedAt": "2026-10-24",
+      "note": null,
+      "coordinate": {
+        "lat": 35.705967,
+        "lng": 139.731461,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E4%B8%AD%E9%87%8C%E7%94%BA30",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
       "sources": [
         {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "1T7dzzPC1ps",
-          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
-          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
-          "time": "",
-          "seconds": null
+          "channel": "Hina Life in Japan",
+          "videoId": "HLZo1Su4sQg",
+          "title": "LUXURY HOTEL STAY BEST6: Ultimate Tokyo Hotel Tour",
+          "url": "https://www.youtube.com/watch?v=HLZo1Su4sQg",
+          "time": "9:29",
+          "seconds": 569
         }
       ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_29bb3bfb9113e582"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7578119546469033430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 1
+    },
+    {
+      "id": "kagurazaka--p_58d1d8cb13c1b87e",
+      "name": "新宿区立あかぎ児童遊園",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「新宿区立あかぎ児童遊園」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
       "coordinate": {
-        "lat": 35.7036493,
-        "lng": 139.7332128,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/node/4496407543",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+        "lat": 35.7049029,
+        "lng": 139.7333402,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
-      "illustration": {
-        "image": "/art/walks/kagurazaka/akomeya.webp",
-        "alt": "AKOMEYA TOKYO in la kagū的日系水彩插圖"
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "0:37",
+          "seconds": 37
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_58d1d8cb13c1b87e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%96%B0%E5%AE%BF%E5%8D%80%E7%AB%8B%E8%B5%A4%E5%9F%8E%E5%85%92%E7%AB%A5%E9%81%8A%E6%A8%82%E5%A0%B4/@35.7049029,139.7333402,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c56753f6d71:0x3aaa238f5bfc6136!8m2!3d35.7049029!4d139.7333402!16s%2Fg%2F11ckw8fkzk?q=%E6%96%B0%E5%AE%BF%E5%8D%80%E7%AB%8B%E8%B5%A4%E5%9F%8E%E5%85%92%E7%AB%A5%E9%81%8A%E6%A8%82%E5%A0%B4+21-21+Akagishitamachi,+%E8%B5%A4%E5%9F%8E%E4%B8%8B%E7%94%BA+Shinjuku+City,+Tokyo+162-0803%E6%97%A5%E6%9C%AC&ftid=0x60188c56753f6d71:0x3aaa238f5bfc6136&lucs=,94231208,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
       },
-      "recommendation": null
+      "order": 2
+    },
+    {
+      "id": "kagurazaka--p_1658a3bb436f44c8",
+      "name": "elm green coffee （エルム グリーン コーヒー）",
+      "address": "東京都新宿区赤城下町10",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「elm green coffee （エルム グリーン コーヒー）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都新宿区赤城下町10。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.70491,
+        "lng": 139.734055,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%B5%A4%E5%9F%8E%E4%B8%8B%E7%94%BA10",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OyO1a5arI-U",
+          "title": "【東京／あんバター】究極の背徳感！一度食べたら忘れられない「あんバター７選」／浅草・蔵前・学芸大学・代官山他",
+          "url": "https://www.youtube.com/watch?v=OyO1a5arI-U",
+          "time": "08:31",
+          "seconds": 511
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zhXMw8zkrFE",
+          "title": "cafe vlog｜人気沸騰中！東京ドーナッツ巡り10選！下北沢／神楽坂／世田谷...etc",
+          "url": "https://www.youtube.com/watch?v=zhXMw8zkrFE",
+          "time": "10:16",
+          "seconds": 616
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1658a3bb436f44c8"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/elm+green+coffee/@35.7048331,139.7346417,17z/data=!3m1!4b1!4m6!3m5!1s0x60188dfcfad6619b:0x7fb054a3ff918c26!8m2!3d35.7048331!4d139.7346417!16s%2Fg%2F11q29w2l76?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "order": 3
     },
     {
       "id": "kagurazaka--kamome",
-      "order": 2,
+      "order": 4,
       "name": "かもめブックス",
       "address": "東京都新宿区矢来町123 DEAR LIFE矢来町1F",
       "group": "shops",
@@ -68,6 +165,14 @@
           "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
           "time": "",
           "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "12:05",
+          "seconds": 725
         }
       ],
       "coordinate": {
@@ -84,53 +189,210 @@
         "image": "/art/walks/kagurazaka/kamome.webp",
         "alt": "かもめブックス的日系水彩插圖"
       },
-      "recommendation": "從書架挑一本感興趣的書，慢看當期選書。"
+      "recommendation": "從書架挑一本感興趣的書，慢看當期選書。",
+      "sourceLibraryIds": [
+        "p_606f839d77573e80"
+      ]
     },
     {
-      "id": "kagurazaka--mori",
-      "order": 3,
-      "name": "ドーナツもり 神楽坂店",
-      "address": "東京都新宿区赤城下町3-9",
-      "group": "food",
-      "categoryLabel": "手作甜甜圈",
-      "caption": "用一份慢慢發酵的甜味，補充散步力氣。",
+      "id": "kagurazaka--akomeya",
+      "order": 5,
+      "name": "AKOMEYA TOKYO in la kagū",
+      "address": "東京都新宿区矢来町67",
+      "group": "shops",
+      "categoryLabel": "食材・生活選物",
+      "caption": "走進大倉庫，把日常選得更有味道。",
       "descriptionParagraphs": [
-        "ドーナツもり以北海道小麥製作麵團，結合湯種與低溫發酵，讓一顆甜甜圈經過三天才完成。柔軟麵團與不同糖霜，帶著法式糕點技法與日常點心的親切感。",
-        "從赤城神社一帶往下走，便能順路挑選原味或季節口味。喜歡簡單甜味的人，可以從招牌的原味糖霜開始，替小巷散步留一份帶走的點心。"
+        "以米飯為核心的 AKOMEYA TOKYO，把產地食品、下飯小菜與生活器物放在同一段購物路徑裡。神樂坂的 la kagū 店保留倉庫開闊的尺度，從外部大階梯便能感受到建築的個性。",
+        "可以慢慢挑米、茶、調味料與餐具，也能在食堂把選物的想像化成一頓飯。鄰近神樂坂站，適合安排在散步尾聲，為家裡帶回一點日本日常。"
       ],
-      "description": "ドーナツもり以北海道小麥製作麵團，結合湯種與低溫發酵，讓一顆甜甜圈經過三天才完成。柔軟麵團與不同糖霜，帶著法式糕點技法與日常點心的親切感。\n\n從赤城神社一帶往下走，便能順路挑選原味或季節口味。喜歡簡單甜味的人，可以從招牌的原味糖霜開始，替小巷散步留一份帶走的點心。",
+      "description": "以米飯為核心的 AKOMEYA TOKYO，把產地食品、下飯小菜與生活器物放在同一段購物路徑裡。神樂坂的 la kagū 店保留倉庫開闊的尺度，從外部大階梯便能感受到建築的個性。\n\n可以慢慢挑米、茶、調味料與餐具，也能在食堂把選物的想像化成一頓飯。鄰近神樂坂站，適合安排在散步尾聲，為家裡帶回一點日本日常。",
       "note": "",
-      "official": "https://doughnutmori.com/",
+      "official": "https://www.akomeya.jp/store_info/store/sinlakagu/",
       "verifiedAt": "2026-10-24",
       "sources": [
         {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "zhXMw8zkrFE",
-          "title": "cafe vlog｜人気沸騰中！東京ドーナッツ巡り10選！下北沢／神楽坂／世田谷...etc",
-          "url": "https://www.youtube.com/watch?v=zhXMw8zkrFE",
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
           "time": "",
           "seconds": null
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "-iodvyH_GRE",
+          "title": "Tokyo Vlog 2026 🇯🇵 Nakameguro, Daikanyama, Jiyugaoka Cafes & Shopping | Japan Travel Guide",
+          "url": "https://www.youtube.com/watch?v=-iodvyH_GRE"
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "12:05",
+          "seconds": 725
         }
       ],
       "coordinate": {
-        "lat": 35.704911,
-        "lng": 139.735289,
+        "lat": 35.7036493,
+        "lng": 139.7332128,
         "provider": "osm",
         "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/node/4405377331",
+        "url": "https://www.openstreetmap.org/node/4496407543",
         "license": "ODbL 1.0",
         "licenseUrl": "https://www.openstreetmap.org/copyright",
         "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
       },
       "illustration": {
-        "image": "/art/walks/kagurazaka/mori.webp",
-        "alt": "ドーナツもり 神楽坂店的日系水彩插圖"
+        "image": "/art/walks/kagurazaka/akomeya.webp",
+        "alt": "AKOMEYA TOKYO in la kagū的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_08ceb84cd2507892"
+      ]
+    },
+    {
+      "id": "kagurazaka--p_44305709e2724aef",
+      "name": "神樂坂站",
+      "address": "日本〒162-0805 東京都新宿區矢來町",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「神樂坂站」出現在Hiro | Days in Tokyo、Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 日本〒162-0805 東京都新宿區矢來町。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.703869,
+        "lng": 139.7344316,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "12:05",
+          "seconds": 725
+        },
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "HfDe4qPbUtg",
+          "title": "你從未見過的東京「小京都」 | 日本旅行vlog",
+          "url": "https://www.youtube.com/watch?v=HfDe4qPbUtg",
+          "time": "9:15",
+          "seconds": 555
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_44305709e2724aef"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5114636314517611954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 6
+    },
+    {
+      "id": "kagurazaka--p_6196a98e381e7bc6",
+      "name": "Aux Merveilleux de Fred",
+      "address": "107-2 Yaraichō, Shinjuku City, Tokyo 162-0805",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Aux Merveilleux de Fred」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 107-2 Yaraichō, Shinjuku City, Tokyo 162-0805。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7037081,
+        "lng": 139.7347442,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HOVPfbroWBg",
+          "title": "Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel",
+          "url": "https://www.youtube.com/watch?v=HOVPfbroWBg"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "EwwWbI13wss",
+          "title": "Life in Tokyo｜The Quiet Side of Shinjuku & Toshima Edition, Cozy Cafes & Shoppin 2025",
+          "url": "https://www.youtube.com/watch?v=EwwWbI13wss",
+          "time": "26:34",
+          "seconds": 1594
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6196a98e381e7bc6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11022841501405716118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 7
+    },
+    {
+      "id": "kagurazaka--p_a9e91c9f9b175073",
+      "name": "神楽坂ねこの郵便局というなまえのお店",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「神楽坂ねこの郵便局というなまえのお店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7042661,
+        "lng": 139.7354165,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "4:03",
+          "seconds": 243
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a9e91c9f9b175073"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E7%A5%9E%E6%A8%82%E5%9D%82%E8%B2%93%E9%83%B5%E5%B1%80/@35.7042661,139.7354165,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c56eee1ba3f:0x3c4ba37ec125f294!8m2!3d35.7042661!4d139.7354165!16s%2Fg%2F1yg58n65l?q=%E7%A5%9E%E6%A8%82%E5%9D%82%E8%B2%93%E9%83%B5%E5%B1%80162+Yaraicho,+Shinjuku+City,+Tokyo+162-0805%E6%97%A5%E6%9C%AC&ftid=0x60188c56eee1ba3f:0x3c4ba37ec125f294&lucs=,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      },
+      "order": 8
     },
     {
       "id": "kagurazaka--akagi",
-      "order": 4,
+      "order": 9,
       "name": "赤城神社",
       "address": "東京都新宿区赤城元町1-10",
       "group": "sights",
@@ -162,8 +424,199 @@
       "recommendation": "境內參拜，看看神社建築。"
     },
     {
+      "id": "kagurazaka--mori",
+      "order": 10,
+      "name": "ドーナツもり 神楽坂店",
+      "address": "東京都新宿区赤城下町3-9",
+      "group": "food",
+      "categoryLabel": "手作甜甜圈",
+      "caption": "用一份慢慢發酵的甜味，補充散步力氣。",
+      "descriptionParagraphs": [
+        "ドーナツもり以北海道小麥製作麵團，結合湯種與低溫發酵，讓一顆甜甜圈經過三天才完成。柔軟麵團與不同糖霜，帶著法式糕點技法與日常點心的親切感。",
+        "從赤城神社一帶往下走，便能順路挑選原味或季節口味。喜歡簡單甜味的人，可以從招牌的原味糖霜開始，替小巷散步留一份帶走的點心。"
+      ],
+      "description": "ドーナツもり以北海道小麥製作麵團，結合湯種與低溫發酵，讓一顆甜甜圈經過三天才完成。柔軟麵團與不同糖霜，帶著法式糕點技法與日常點心的親切感。\n\n從赤城神社一帶往下走，便能順路挑選原味或季節口味。喜歡簡單甜味的人，可以從招牌的原味糖霜開始，替小巷散步留一份帶走的點心。",
+      "note": "",
+      "official": "https://doughnutmori.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zhXMw8zkrFE",
+          "title": "cafe vlog｜人気沸騰中！東京ドーナッツ巡り10選！下北沢／神楽坂／世田谷...etc",
+          "url": "https://www.youtube.com/watch?v=zhXMw8zkrFE"
+        }
+      ],
+      "coordinate": {
+        "lat": 35.704911,
+        "lng": 139.735289,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4405377331",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/mori.webp",
+        "alt": "ドーナツもり 神楽坂店的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_cee942575a642889"
+      ]
+    },
+    {
+      "id": "kagurazaka--p_1b88ee4de929cad8",
+      "name": "今彩",
+      "address": "6-chōme-26-8 Kagurazaka, Shinjuku City, Tokyo 162-0825",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「今彩」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 6-chōme-26-8 Kagurazaka, Shinjuku City, Tokyo 162-0825。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.703701099999996,
+        "lng": 139.7364859,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "uyet74cgrl4",
+          "title": "「【驚愕】10,000円の高級コース料理1名分が完全無料に！？異次元すぎる東京グルメ5選！",
+          "url": "https://www.youtube.com/watch?v=uyet74cgrl4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1b88ee4de929cad8"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=8405865974157690208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 11
+    },
+    {
+      "id": "kagurazaka--baikatei",
+      "order": 12,
+      "name": "神楽坂 梅花亭 本店",
+      "address": "東京都新宿区神楽坂6-15",
+      "group": "food",
+      "categoryLabel": "和菓子",
+      "caption": "把季節，收進一枚手作和菓子。",
+      "descriptionParagraphs": [
+        "梅花亭自1935年創業，在神樂坂延續手作和菓子。職人以餡與造形表達時節，花朵、顏色與細緻切紋，讓一小份甜點也能承載季節的變化。",
+        "可以挑選當季生菓子，也可看看適合帶走的最中與其他小點。沿主街往神樂坂站走時順路停留，替散步加上一份小巧而講究的手土產。"
+      ],
+      "description": "梅花亭自1935年創業，在神樂坂延續手作和菓子。職人以餡與造形表達時節，花朵、顏色與細緻切紋，讓一小份甜點也能承載季節的變化。\n\n可以挑選當季生菓子，也可看看適合帶走的最中與其他小點。沿主街往神樂坂站走時順路停留，替散步加上一份小巧而講究的手土產。",
+      "note": "",
+      "official": "https://www.baikatei.co.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HOVPfbroWBg",
+          "title": "Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel",
+          "url": "https://www.youtube.com/watch?v=HOVPfbroWBg"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "EwwWbI13wss",
+          "title": "Life in Tokyo｜The Quiet Side of Shinjuku & Toshima Edition, Cozy Cafes & Shoppin 2025",
+          "url": "https://www.youtube.com/watch?v=EwwWbI13wss",
+          "time": "30:47",
+          "seconds": 1847
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "0:37",
+          "seconds": 37
+        }
+      ],
+      "coordinate": {
+        "lat": 35.7030439,
+        "lng": 139.7370003,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4408539269",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/baikatei.webp",
+        "alt": "神楽坂 梅花亭 本店的日系水彩插圖"
+      },
+      "recommendation": "挑一份季節和菓子，作為散步的小禮物。",
+      "sourceLibraryIds": [
+        "p_8112c6a672a3ec24",
+        "p_d5d3d1bae6f78e74"
+      ]
+    },
+    {
+      "id": "kagurazaka--tombolo",
+      "order": 13,
+      "name": "喫茶トンボロ",
+      "address": "東京都新宿区神楽坂6-16",
+      "group": "food",
+      "categoryLabel": "老喫茶",
+      "caption": "讓咖啡與木造空間，把步調放慢。",
+      "descriptionParagraphs": [
+        "從神樂坂通轉入小路，トンボロ以木造門面與植栽迎接散步的人。店主夫婦經營的小喫茶，保留改造舊寫植工場留下的板木與物件，空間帶著層層使用的痕跡。",
+        "點一杯現磨咖啡，搭配手作布丁或鬆餅，便能把逛街的節奏暫停一下。它藏在主街旁，卻讓人很快感受到街區日常的親近。"
+      ],
+      "description": "從神樂坂通轉入小路，トンボロ以木造門面與植栽迎接散步的人。店主夫婦經營的小喫茶，保留改造舊寫植工場留下的板木與物件，空間帶著層層使用的痕跡。\n\n點一杯現磨咖啡，搭配手作布丁或鬆餅，便能把逛街的節奏暫停一下。它藏在主街旁，卻讓人很快感受到街區日常的親近。",
+      "note": "",
+      "official": "https://www.enjoytokyo.jp/article/110064/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "VolPlAGf37A",
+          "title": "【漫步神樂坂 東京小巴黎】用法國可頌開啟一天｜飯田橋美景河畔餐廳｜巷弄江戶風情｜大雪的一天｜Japan Lifestyle｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=VolPlAGf37A"
+        }
+      ],
+      "coordinate": {
+        "lat": 35.703049,
+        "lng": 139.737305,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%826-16",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/tombolo.webp",
+        "alt": "喫茶トンボロ的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_243fa7e736a212c8"
+      ]
+    },
+    {
       "id": "kagurazaka--akha",
-      "order": 5,
+      "order": 14,
       "name": "AKHA AMA COFFEE KAGURAZAKA",
       "address": "東京都新宿区赤城元町1-25",
       "group": "food",
@@ -185,6 +638,14 @@
           "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
           "time": "",
           "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "8:05",
+          "seconds": 485
         }
       ],
       "coordinate": {
@@ -201,86 +662,174 @@
         "image": "/art/walks/kagurazaka/akha.webp",
         "alt": "AKHA AMA COFFEE KAGURAZAKA的日系水彩插圖"
       },
-      "recommendation": "咖啡休息，讓腳步慢下來。"
+      "recommendation": "咖啡休息，讓腳步慢下來。",
+      "sourceLibraryIds": [
+        "p_5aeb1e2c85bbe202"
+      ]
     },
     {
-      "id": "kagurazaka--tombolo",
-      "order": 6,
-      "name": "喫茶トンボロ",
-      "address": "東京都新宿区神楽坂6-16",
+      "id": "kagurazaka--p_14bbfa7a1f304ac6",
+      "name": "創作懷石 おいしんぼ",
+      "address": "4 Chome-8 Kagurazaka, Shinjuku City, Tokyo 162-0825",
       "group": "food",
-      "categoryLabel": "老喫茶",
-      "caption": "讓咖啡與木造空間，把步調放慢。",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "從神樂坂通轉入小路，トンボロ以木造門面與植栽迎接散步的人。店主夫婦經營的小喫茶，保留改造舊寫植工場留下的板木與物件，空間帶著層層使用的痕跡。",
-        "點一杯現磨咖啡，搭配手作布丁或鬆餅，便能把逛街的節奏暫停一下。它藏在主街旁，卻讓人很快感受到街區日常的親近。"
+        "「創作懷石 おいしんぼ」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 4 Chome-8 Kagurazaka, Shinjuku City, Tokyo 162-0825。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "description": "從神樂坂通轉入小路，トンボロ以木造門面與植栽迎接散步的人。店主夫婦經營的小喫茶，保留改造舊寫植工場留下的板木與物件，空間帶著層層使用的痕跡。\n\n點一杯現磨咖啡，搭配手作布丁或鬆餅，便能把逛街的節奏暫停一下。它藏在主街旁，卻讓人很快感受到街區日常的親近。",
-      "note": "",
-      "official": "https://www.enjoytokyo.jp/article/110064/",
-      "verifiedAt": "2026-10-24",
+      "note": null,
+      "coordinate": {
+        "lat": 35.7025095,
+        "lng": 139.7399508,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
       "sources": [
         {
-          "channel": "MissLiv 日本旅行和生活",
-          "videoId": "VolPlAGf37A",
-          "title": "【漫步神樂坂 東京小巴黎】用法國可頌開啟一天｜飯田橋美景河畔餐廳｜巷弄江戶風情｜大雪的一天｜Japan Lifestyle｜日本旅行與生活",
-          "url": "https://www.youtube.com/watch?v=VolPlAGf37A",
-          "time": "",
-          "seconds": null
+          "channel": "ハーリーのグルメ",
+          "videoId": "f5fSw52UBzE",
+          "title": "ここ行けば間違いない",
+          "url": "https://www.youtube.com/watch?v=f5fSw52UBzE"
         }
       ],
-      "coordinate": {
-        "lat": 35.703049,
-        "lng": 139.737305,
-        "provider": "gsi",
-        "label": "國土地理院住址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%826-16",
-        "license": "公共資料利用規約（第1.0版）",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_14bbfa7a1f304ac6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7223081089503920615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "illustration": {
-        "image": "/art/walks/kagurazaka/tombolo.webp",
-        "alt": "喫茶トンボロ的日系水彩插圖"
-      },
-      "recommendation": null
+      "order": 15
     },
     {
-      "id": "kagurazaka--baikatei",
-      "order": 7,
-      "name": "神楽坂 梅花亭 本店",
-      "address": "東京都新宿区神楽坂6-15",
+      "id": "kagurazaka--p_5cef684cfaa92fbe",
+      "name": "Taihu Tokyo",
+      "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−４ 河庄ビル １F",
       "group": "food",
-      "categoryLabel": "和菓子",
-      "caption": "把季節，收進一枚手作和菓子。",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "梅花亭自1935年創業，在神樂坂延續手作和菓子。職人以餡與造形表達時節，花朵、顏色與細緻切紋，讓一小份甜點也能承載季節的變化。",
-        "可以挑選當季生菓子，也可看看適合帶走的最中與其他小點。沿主街往神樂坂站走時順路停留，替散步加上一份小巧而講究的手土產。"
+        "「Taihu Tokyo」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−４ 河庄ビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "description": "梅花亭自1935年創業，在神樂坂延續手作和菓子。職人以餡與造形表達時節，花朵、顏色與細緻切紋，讓一小份甜點也能承載季節的變化。\n\n可以挑選當季生菓子，也可看看適合帶走的最中與其他小點。沿主街往神樂坂站走時順路停留，替散步加上一份小巧而講究的手土產。",
-      "note": "",
-      "official": "https://www.baikatei.co.jp/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
+      "note": null,
       "coordinate": {
-        "lat": 35.7030439,
-        "lng": 139.7370003,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/node/4408539269",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+        "lat": 35.702042,
+        "lng": 139.7402191,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
-      "illustration": {
-        "image": "/art/walks/kagurazaka/baikatei.webp",
-        "alt": "神楽坂 梅花亭 本店的日系水彩插圖"
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "1DBMmbnWA2A",
+          "title": "【神樂坂居酒屋Best 5】米其林星級蕎麥麵店、頂級烤肉割烹等！",
+          "url": "https://www.youtube.com/watch?v=1DBMmbnWA2A"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5cef684cfaa92fbe"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=15009835073519293418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "recommendation": "挑一份季節和菓子，作為散步的小禮物。"
+      "order": 16
+    },
+    {
+      "id": "kagurazaka--p_4068a8606217c721",
+      "name": "El Pulpo",
+      "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−３ 宮崎ビル 1F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「El Pulpo」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−３ 宮崎ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.701823,
+        "lng": 139.7401731,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "1DBMmbnWA2A",
+          "title": "【神樂坂居酒屋Best 5】米其林星級蕎麥麵店、頂級烤肉割烹等！",
+          "url": "https://www.youtube.com/watch?v=1DBMmbnWA2A"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_4068a8606217c721"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=2628543093242255270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 17
+    },
+    {
+      "id": "kagurazaka--p_e6819b1546b7f56f",
+      "name": "つみき神楽坂",
+      "address": "東京都新宿区神楽坂4-3 楽山ビル3F",
+      "group": "sights",
+      "categoryLabel": "服務業",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「株式会社tsumiki」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都新宿区神楽坂4-3 楽山ビル3F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原始地圖曾錯配同名公司，已依店家官方資訊更正為神樂坂分店。",
+      "coordinate": {
+        "lat": 35.701981,
+        "lng": 139.739929,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%824-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "1DBMmbnWA2A",
+          "title": "【神樂坂居酒屋Best 5】米其林星級蕎麥麵店、頂級烤肉割烹等！",
+          "url": "https://www.youtube.com/watch?v=1DBMmbnWA2A"
+        }
+      ],
+      "official": "https://www.tsumiki-kagurazaka.com/aboutus",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e6819b1546b7f56f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=8325211707248030319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 18
     },
     {
       "id": "kagurazaka--bretagne",
-      "order": 8,
+      "order": 19,
       "name": "ル ブルターニュ 神楽坂店",
       "address": "東京都新宿区神楽坂4-2",
       "group": "food",
@@ -302,6 +851,14 @@
           "url": "https://www.youtube.com/watch?v=uG3Kcy5aNAI",
           "time": "",
           "seconds": null
+        },
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "uG3Kcy5aNAI",
+          "title": "東京美食神樂坂篇，24小時爽吃特輯四選！神樂坂一日美食地圖，純正法式可麗餅專門店、預約困難起司披薩，牛舌料理居酒屋，激爽和牛內臟燒肉 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=uG3Kcy5aNAI",
+          "time": "0:20",
+          "seconds": 20
         }
       ],
       "coordinate": {
@@ -318,11 +875,14 @@
         "image": "/art/walks/kagurazaka/bretagne.webp",
         "alt": "ル ブルターニュ 神楽坂店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_e0612a1f31084a3a"
+      ]
     },
     {
       "id": "kagurazaka--zenkokuji",
-      "order": 9,
+      "order": 20,
       "name": "毘沙門天 善國寺",
       "address": "東京都新宿区神楽坂5-36",
       "group": "sights",
@@ -354,92 +914,392 @@
       "recommendation": null
     },
     {
-      "id": "kagurazaka--kyoraku",
-      "order": 10,
-      "name": "石臼挽き手打 蕎楽亭",
-      "address": "東京都新宿区神楽坂3-6 神楽坂館1F",
-      "group": "food",
-      "categoryLabel": "手打蕎麥",
-      "caption": "以一碗蕎麥，接住小巷的午餐。",
+      "id": "kagurazaka--p_15d47986aec4c65a",
+      "name": "Kagurazaka Street",
+      "address": "〒162-0825 東京都新宿區神樂坂 3 Chome",
+      "group": "sights",
+      "categoryLabel": "歷史地標",
+      "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "藏在神樂坂路地裡的蕎楽亭，以店內石臼研磨與手打蕎麥為主角，使用店主故鄉會津的蕎麥。櫃台能望向廚房，麵食與天婦羅讓午餐成為一段有節奏的停留。",
-        "適合在逛完飯田橋一側的小巷後坐下，從冷蕎麥或天婦羅組合開始選擇。店內也準備日本酒，讓這一站能依白天或晚間的散步心情調整。"
+        "「Kagurazaka Street」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0825 東京都新宿區神樂坂 3 Chome。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "description": "藏在神樂坂路地裡的蕎楽亭，以店內石臼研磨與手打蕎麥為主角，使用店主故鄉會津的蕎麥。櫃台能望向廚房，麵食與天婦羅讓午餐成為一段有節奏的停留。\n\n適合在逛完飯田橋一側的小巷後坐下，從冷蕎麥或天婦羅組合開始選擇。店內也準備日本酒，讓這一站能依白天或晚間的散步心情調整。",
-      "note": "星期日、星期一及國定假日店休。",
-      "official": "https://gc23000.gorp.jp/",
-      "verifiedAt": "2026-10-24",
+      "note": null,
+      "coordinate": {
+        "lat": 35.7014389,
+        "lng": 139.740062,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "8:05",
+          "seconds": 485
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_15d47986aec4c65a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=18301271459522795294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 21
+    },
+    {
+      "id": "kagurazaka--p_bac953455afffacc",
+      "name": "Spicier(スパイシア)",
+      "address": "東京都新宿区神楽坂3-2-33 芸者新道 Rosy",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Spicier(スパイシア)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都新宿区神楽坂3-2-33 芸者新道 Rosy。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.701534,
+        "lng": 139.740402,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%823-2-33",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "DSO8F_M3xvo",
+          "title": "【東京・パン屋】人気・話題のパン屋さん巡り６選🥐行きたいお店が見つかる！ベーカリーカフェ／トレンドパン／ご褒美パン",
+          "url": "https://www.youtube.com/watch?v=DSO8F_M3xvo",
+          "time": "01:48",
+          "seconds": 108
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bac953455afffacc"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Spicier%28%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B7%E3%82%A2%29+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%823-2-33+%E8%8A%B8%E8%80%85%E6%96%B0%E9%81%93+Rosy"
+      },
+      "order": 22
+    },
+    {
+      "id": "kagurazaka--p_4d61b6144a45bd56",
+      "name": "Torisoba Zagin Kagurazaka Tokyo Honten",
+      "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−2−１２ 摩耶ビル 1F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Torisoba Zagin Kagurazaka Tokyo Honten」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−2−１２ 摩耶ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7014116,
+        "lng": 139.7405459,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "8:05",
+          "seconds": 485
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_4d61b6144a45bd56"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3064548486952515307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 23
+    },
+    {
+      "id": "kagurazaka--p_cf8b58dc935275e2",
+      "name": "豬排 あげづき",
+      "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−２ Yamanouchi Bld, B１",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「豬排 あげづき」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−２ Yamanouchi Bld, B１。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.701323599999995,
+        "lng": 139.7407675,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "H7dn5qrViCY",
+          "title": "BEST 23 Michelin Guide Tokyo Restaurants 2025 | Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=H7dn5qrViCY"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "L5mG_Mi_7i0",
+          "title": "【飯田橋ランチ５選】迷ったらここ行って！食べ放題、百名店を含む飯田橋の名店ランチ！Best lunches at Iidabashi, Japan !",
+          "url": "https://www.youtube.com/watch?v=L5mG_Mi_7i0"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "vgYBmNSQjkk",
+          "title": "TOP 10 MUST-TRY TONKATSU SPOTS IN TOKYO｜Japan Ultimate Guide 2025",
+          "url": "https://www.youtube.com/watch?v=vgYBmNSQjkk"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cf8b58dc935275e2",
+          "p_9ec76226832f9f40"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6872897717193968840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 24
+    },
+    {
+      "id": "kagurazaka--p_f632f65f9a9f3933",
+      "name": "九頭龍蕎麥 本店",
+      "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−3−３−２ クレール神楽坂ＶＩ",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「九頭龍蕎麥 本店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−3−３−２ クレール神楽坂ＶＩ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7014462,
+        "lng": 139.7413383,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "TbSsmQKWbjA",
+          "title": "BEST 10 WHAT I EAT IN A DAY IN TOKYO 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=TbSsmQKWbjA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f632f65f9a9f3933"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=789166825985753120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 25
+    },
+    {
+      "id": "kagurazaka--p_87cd3f0878fb06ca",
+      "name": "ＴＩＭＥＳ ＣＡＦＥ",
+      "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 2-chōme ＴＩＭＥＳ ＣＡＦＥ",
+      "group": "sights",
+      "categoryLabel": "建築物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ＴＩＭＥＳ ＣＡＦＥ」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 2-chōme ＴＩＭＥＳ ＣＡＦＥ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7011615,
+        "lng": 139.7414722,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
       "sources": [
         {
           "channel": "ハーリーのグルメ",
-          "videoId": "1DBMmbnWA2A",
-          "title": "【神樂坂居酒屋Best 5】米其林星級蕎麥麵店、頂級烤肉割烹等！",
-          "url": "https://www.youtube.com/watch?v=1DBMmbnWA2A",
-          "time": "",
-          "seconds": null
+          "videoId": "kpQqkxuM9JU",
+          "title": "[東京最佳咖啡廳 21 家] 東京 21 家最佳咖啡廳",
+          "url": "https://www.youtube.com/watch?v=kpQqkxuM9JU"
         }
       ],
-      "coordinate": {
-        "lat": 35.701012,
-        "lng": 139.739624,
-        "provider": "gsi",
-        "label": "國土地理院住址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%823-6",
-        "license": "公共資料利用規約（第1.0版）",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_87cd3f0878fb06ca"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5391342214888690018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "illustration": {
-        "image": "/art/walks/kagurazaka/kyoraku.webp",
-        "alt": "石臼挽き手打 蕎楽亭的日系水彩插圖"
-      },
-      "recommendation": null
+      "order": 26
     },
     {
-      "id": "kagurazaka--lecoin",
-      "order": 11,
-      "name": "Le Coin Vert Kagurazaka",
-      "address": "東京都新宿区神楽坂2-20-14",
+      "id": "kagurazaka--p_8800c64b83f5f17b",
+      "name": "Le Coquillage",
+      "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 2-chōme−12−１０ ヒルズ神楽坂 1F",
       "group": "food",
-      "categoryLabel": "法式糕點",
-      "caption": "在綠意旁，找回烘焙的香氣。",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "神樂坂巷內的 Le Coin Vert 於2026年10月迎來新的主廚吉川誠，在原址重新開店。店內延續法式糕點與麵包的方向，也加入新主廚對食材與製作的想法。",
-        "可以挑一份可頌、巧克力麵包或烘焙小點，為石疊小路的散步添上法式風味。這裡鄰近飯田橋一側，適合先買點心，再往坂上走。"
+        "「Le Coquillage」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 2-chōme−12−１０ ヒルズ神楽坂 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "description": "神樂坂巷內的 Le Coin Vert 於2026年10月迎來新的主廚吉川誠，在原址重新開店。店內延續法式糕點與麵包的方向，也加入新主廚對食材與製作的想法。\n\n可以挑一份可頌、巧克力麵包或烘焙小點，為石疊小路的散步添上法式風味。這裡鄰近飯田橋一側，適合先買點心，再往坂上走。",
-      "note": "2026年10月起為新主廚經營，影片中的舊店品項未必延續；星期二、三店休。",
-      "official": "https://www.instagram.com/lecoinvert_kagurazaka/",
+      "note": null,
+      "coordinate": {
+        "lat": 35.7012703,
+        "lng": 139.7417755,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "57OtKo9avlw",
+          "title": "【東京ランチ10選】市川猿之助が食べた楽屋めし、パン食べ放題ニューオープンなど！",
+          "url": "https://www.youtube.com/watch?v=57OtKo9avlw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8800c64b83f5f17b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=1257896069927447838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 27
+    },
+    {
+      "id": "kagurazaka--p_54cbfacb64abdd12",
+      "name": "紀の善 神楽坂",
+      "address": "東京都新宿区神楽坂2-12-15 さわやビル1F/B1F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "重新開張的神樂坂甘味處",
+      "descriptionParagraphs": [
+        "紀の善曾於 2022 年結束營業，2025 年由新的經營團隊承接並在神樂坂重新開張。影片保留的是舊店時期的記錄。",
+        "原始資料記錄的地址為 東京都新宿区神楽坂2-12-15 さわやビル1F/B1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "影片拍攝於舊店時期。品牌已於 2025 年 7 月 18 日在神樂坂新址重新開張，此處採新址。",
+      "coordinate": {
+        "lat": 35.701283,
+        "lng": 139.742004,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%822-12-15",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "gIIWahAWNT0",
+          "title": "cafe vlog｜東京かき氷巡り5選／吉祥寺・三軒茶屋・湯島・谷根千・神楽坂",
+          "url": "https://www.youtube.com/watch?v=gIIWahAWNT0",
+          "time": "4:43",
+          "seconds": 283
+        }
+      ],
+      "official": "https://shop.create-restaurants.co.jp/cr1463/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_54cbfacb64abdd12"
+        ],
+        "status": "reopened",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E7%B4%80%E4%B9%8B%E5%96%84/@35.7010776,139.7413524,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c44ca1394cd:0x6074fde0730c2fb4!8m2!3d35.7010776!4d139.7413524!16s%2Fg%2F1v29b_wr?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "order": 28
+    },
+    {
+      "id": "kagurazaka--fujiya",
+      "order": 29,
+      "name": "不二家 飯田橋神楽坂店",
+      "address": "東京都新宿区神楽坂1-12",
+      "group": "food",
+      "categoryLabel": "人形燒",
+      "caption": "把佩可的笑臉，裝進散步紙袋。",
+      "descriptionParagraphs": [
+        "飯田橋站旁的不二家，是神樂坂甜點散步很有辨識度的一站。這裡從1969年起販售佩可造型的人形燒，圓潤的五官與烤色，讓熟悉的角色化成街角小點。",
+        "可選不同內餡的ペコちゃん焼き帶走，也能順路看看店內的洋菓子。位置就在坡道入口，適合作為抵達神樂坂後的第一口甜味。"
+      ],
+      "description": "飯田橋站旁的不二家，是神樂坂甜點散步很有辨識度的一站。這裡從1969年起販售佩可造型的人形燒，圓潤的五官與烤色，讓熟悉的角色化成街角小點。\n\n可選不同內餡的ペコちゃん焼き帶走，也能順路看看店內的洋菓子。位置就在坡道入口，適合作為抵達神樂坂後的第一口甜味。",
+      "note": "",
+      "official": "http://pekochanyaki.jp/",
       "verifiedAt": "2026-10-24",
       "sources": [
         {
           "channel": "MissLiv 日本旅行和生活",
           "videoId": "VolPlAGf37A",
           "title": "【漫步神樂坂 東京小巴黎】用法國可頌開啟一天｜飯田橋美景河畔餐廳｜巷弄江戶風情｜大雪的一天｜Japan Lifestyle｜日本旅行與生活",
-          "url": "https://www.youtube.com/watch?v=VolPlAGf37A",
-          "time": "",
-          "seconds": null
+          "url": "https://www.youtube.com/watch?v=VolPlAGf37A"
         }
       ],
       "coordinate": {
-        "lat": 35.699912,
-        "lng": 139.7407643,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/node/6388933698",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+        "lat": 35.700867,
+        "lng": 139.742706,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%821-12",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
       },
       "illustration": {
-        "image": "/art/walks/kagurazaka/lecoin.webp",
-        "alt": "Le Coin Vert Kagurazaka的日系水彩插圖"
+        "image": "/art/walks/kagurazaka/fujiya.webp",
+        "alt": "不二家 飯田橋神楽坂店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_e491facecb804205"
+      ]
     },
     {
       "id": "kagurazaka--canal",
-      "order": 12,
+      "order": 30,
       "name": "CANAL CAFE",
       "address": "東京都新宿区神楽坂1-9",
       "group": "food",
@@ -466,9 +1326,37 @@
           "channel": "MissLiv 日本旅行和生活",
           "videoId": "VolPlAGf37A",
           "title": "【漫步神樂坂 東京小巴黎】用法國可頌開啟一天｜飯田橋美景河畔餐廳｜巷弄江戶風情｜大雪的一天｜Japan Lifestyle｜日本旅行與生活",
-          "url": "https://www.youtube.com/watch?v=VolPlAGf37A",
-          "time": "",
-          "seconds": null
+          "url": "https://www.youtube.com/watch?v=VolPlAGf37A"
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "0:35",
+          "seconds": 35
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "z1wt1CraUMA",
+          "title": "橫跨東京的櫻花季：中野鐵道、神田川與千鳥之淵 | Sakura Across Tokyo",
+          "url": "https://www.youtube.com/watch?v=z1wt1CraUMA",
+          "time": "10:33",
+          "seconds": 633
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "kpQqkxuM9JU",
+          "title": "[東京最佳咖啡廳 21 家] 東京 21 家最佳咖啡廳",
+          "url": "https://www.youtube.com/watch?v=kpQqkxuM9JU"
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "9:48",
+          "seconds": 588
         }
       ],
       "coordinate": {
@@ -485,86 +1373,355 @@
         "image": "/art/walks/kagurazaka/canal.webp",
         "alt": "CANAL CAFE的日系水彩插圖"
       },
-      "recommendation": "在水邊喝杯飲品，為往飯田橋的慢走留個停頓。"
+      "recommendation": "在水邊喝杯飲品，為往飯田橋的慢走留個停頓。",
+      "sourceLibraryIds": [
+        "p_511912b98c6e8700",
+        "p_a70350e9a310d250"
+      ]
     },
     {
-      "id": "kagurazaka--fujiya",
-      "order": 13,
-      "name": "不二家 飯田橋神楽坂店",
-      "address": "東京都新宿区神楽坂1-12",
+      "id": "kagurazaka--p_b0c7b9ddbd3936a7",
+      "name": "Trattoria Gran Bocca",
+      "address": "〒102-0071 Tokyo, Chiyoda City, Fujimi, 2-chōme−10−２ 飯田橋グランブルーム サクラテラス2F",
       "group": "food",
-      "categoryLabel": "人形燒",
-      "caption": "把佩可的笑臉，裝進散步紙袋。",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "飯田橋站旁的不二家，是神樂坂甜點散步很有辨識度的一站。這裡從1969年起販售佩可造型的人形燒，圓潤的五官與烤色，讓熟悉的角色化成街角小點。",
-        "可選不同內餡的ペコちゃん焼き帶走，也能順路看看店內的洋菓子。位置就在坡道入口，適合作為抵達神樂坂後的第一口甜味。"
+        "「Trattoria Gran Bocca」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒102-0071 Tokyo, Chiyoda City, Fujimi, 2-chōme−10−２ 飯田橋グランブルーム サクラテラス2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "description": "飯田橋站旁的不二家，是神樂坂甜點散步很有辨識度的一站。這裡從1969年起販售佩可造型的人形燒，圓潤的五官與烤色，讓熟悉的角色化成街角小點。\n\n可選不同內餡的ペコちゃん焼き帶走，也能順路看看店內的洋菓子。位置就在坡道入口，適合作為抵達神樂坂後的第一口甜味。",
-      "note": "",
-      "official": "http://pekochanyaki.jp/",
-      "verifiedAt": "2026-10-24",
+      "note": null,
+      "coordinate": {
+        "lat": 35.698997899999995,
+        "lng": 139.7434984,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
       "sources": [
         {
-          "channel": "MissLiv 日本旅行和生活",
-          "videoId": "VolPlAGf37A",
-          "title": "【漫步神樂坂 東京小巴黎】用法國可頌開啟一天｜飯田橋美景河畔餐廳｜巷弄江戶風情｜大雪的一天｜Japan Lifestyle｜日本旅行與生活",
-          "url": "https://www.youtube.com/watch?v=VolPlAGf37A",
-          "time": "",
-          "seconds": null
+          "channel": "ハーリーのグルメ",
+          "videoId": "L5mG_Mi_7i0",
+          "title": "【飯田橋ランチ５選】迷ったらここ行って！食べ放題、百名店を含む飯田橋の名店ランチ！Best lunches at Iidabashi, Japan !",
+          "url": "https://www.youtube.com/watch?v=L5mG_Mi_7i0"
         }
       ],
-      "coordinate": {
-        "lat": 35.700867,
-        "lng": 139.742706,
-        "provider": "gsi",
-        "label": "國土地理院住址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%821-12",
-        "license": "公共資料利用規約（第1.0版）",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b0c7b9ddbd3936a7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=1776960181871382218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "illustration": {
-        "image": "/art/walks/kagurazaka/fujiya.webp",
-        "alt": "不二家 飯田橋神楽坂店的日系水彩插圖"
-      },
-      "recommendation": null
+      "order": 31
     },
     {
-      "id": "kagurazaka--saryo",
-      "order": 14,
-      "name": "神楽坂 茶寮 本店",
-      "address": "東京都新宿区神楽坂3-1",
+      "id": "kagurazaka--p_44d1c7e446275240",
+      "name": "煎餃 おけ以",
+      "address": "2-chōme-12-16 Fujimi, Chiyoda City, Tokyo 102-0071",
       "group": "food",
-      "categoryLabel": "和風茶甜點",
-      "caption": "把一段午後，留給茶與甜味。",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "神楽坂 茶寮本店以和風甜點與茶飲，為坂道散步留下一段坐下來的時間。現在的店位於神樂坂三丁目，淡色牆面與木造細節，讓空間延續街區安靜的氣質。",
-        "可以依季節選擇抹茶系甜點、冰品或現擠蒙布朗等品項，搭配一杯茶。從熱鬧主街轉入店內，午後便有了較慢的步調。"
+        "「煎餃 おけ以」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-12-16 Fujimi, Chiyoda City, Tokyo 102-0071。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "description": "神楽坂 茶寮本店以和風甜點與茶飲，為坂道散步留下一段坐下來的時間。現在的店位於神樂坂三丁目，淡色牆面與木造細節，讓空間延續街區安靜的氣質。\n\n可以依季節選擇抹茶系甜點、冰品或現擠蒙布朗等品項，搭配一杯茶。從熱鬧主街轉入店內，午後便有了較慢的步調。",
-      "note": "店家不接受訂位。",
-      "official": "https://saryo.jp/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
+      "note": null,
       "coordinate": {
-        "lat": 35.7020363,
-        "lng": 139.7410856,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/node/11422123670",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+        "lat": 35.698883099999996,
+        "lng": 139.74448990000002,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
-      "illustration": {
-        "image": "/art/walks/kagurazaka/saryo.webp",
-        "alt": "神楽坂 茶寮 本店的日系水彩插圖"
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "XbA3VJYg378",
+          "title": "【東京】東京で餃子食べるならココ！都内在住でも東京旅行でも人生で一度は行きたい名店です！",
+          "url": "https://www.youtube.com/watch?v=XbA3VJYg378"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "L5mG_Mi_7i0",
+          "title": "【飯田橋ランチ５選】迷ったらここ行って！食べ放題、百名店を含む飯田橋の名店ランチ！Best lunches at Iidabashi, Japan !",
+          "url": "https://www.youtube.com/watch?v=L5mG_Mi_7i0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_44d1c7e446275240"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=214113365449603038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
-      "recommendation": null
+      "order": 32
+    },
+    {
+      "id": "kagurazaka--p_3dc7e9a2120ef7db",
+      "name": "東京大神宮",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「東京大神宮」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6999858,
+        "lng": 139.746891,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "0:37",
+          "seconds": 37
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3dc7e9a2120ef7db"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE/@35.6999858,139.7443161,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c43ddbaaaab:0x7223e2de290136ef!8m2!3d35.6999858!4d139.746891!16s%2Fg%2F122c669h?entry=tts&g_ep=EgoyMDI0MDgyNi4wKgBIAVAD"
+      },
+      "order": 33
+    },
+    {
+      "id": "kagurazaka--p_5bf94a4af47c8b28",
+      "name": "Sakana no Umaiten Īdabashi Honten",
+      "address": "4-chōme-4-12 Iidabashi, Chiyoda City, Tokyo 102-0072",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sakana no Umaiten Īdabashi Honten」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 4-chōme-4-12 Iidabashi, Chiyoda City, Tokyo 102-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7001695,
+        "lng": 139.7472206,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "XEXUausuiug",
+          "title": "[池袋午餐] 2023年池袋午餐最佳7！",
+          "url": "https://www.youtube.com/watch?v=XEXUausuiug"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "1sGdytgUVAw",
+          "title": "[池袋午餐最佳 7] 2023 年最新！ 漢堡牛排600日元，高級酒店椿山莊1000日元！",
+          "url": "https://www.youtube.com/watch?v=1sGdytgUVAw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5bf94a4af47c8b28"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16236921484111315262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 34
+    },
+    {
+      "id": "kagurazaka--p_3bab845b2ec6b12a",
+      "name": "iidabashi Bariton",
+      "address": "4-chōme-9-7 Iidabashi, Chiyoda City, Tokyo 102-0072",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「iidabashi Bariton」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 4-chōme-9-7 Iidabashi, Chiyoda City, Tokyo 102-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.701554,
+        "lng": 139.745622,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "AaE3TWveNjA",
+          "title": "【東京吃到飽5強】1000日圓烤肉吃到飽！ 壽司任你吃！",
+          "url": "https://www.youtube.com/watch?v=AaE3TWveNjA"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "cI8KLigCKtI",
+          "title": "【東京食べ放題】2025年最新！東京食べ放題10選！",
+          "url": "https://www.youtube.com/watch?v=cI8KLigCKtI"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3bab845b2ec6b12a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=12072309668568109381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 35
+    },
+    {
+      "id": "kagurazaka--p_d8638ae37e88cee9",
+      "name": "飯田橋車站",
+      "address": "〒102-0072 東京都千代田区Iidabashi, 4-chōme−９−５",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「飯田橋車站」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒102-0072 東京都千代田区Iidabashi, 4-chōme−９−５。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.702083699999996,
+        "lng": 139.7450232,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "0:35",
+          "seconds": 35
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d8638ae37e88cee9"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=8758022455635161893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 36
+    },
+    {
+      "id": "kagurazaka--p_8ccf12e71b514b4a",
+      "name": "神樂坂 Stagione",
+      "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−１ クレール神楽坂３ 5F",
+      "group": "food",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「神樂坂 Stagione」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−１ クレール神楽坂３ 5F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7017461,
+        "lng": 139.7411563,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "A7ymwsmaja4",
+          "title": "【東京グルメ10選】都内で唯一ゆば食べ放題、ジーコも訪れる名店イタリアン",
+          "url": "https://www.youtube.com/watch?v=A7ymwsmaja4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8ccf12e71b514b4a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16163228630745244580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 37
+    },
+    {
+      "id": "kagurazaka--p_3a0878931788a33a",
+      "name": "latte All day diner(ラテオールデーダイナー)",
+      "address": "東京都新宿区神楽坂3-1 クレールⅡ 3F・4F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「latte All day diner(ラテオールデーダイナー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都新宿区神楽坂3-1 クレールⅡ 3F・4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.701813,
+        "lng": 139.74086,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%823-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "tIg0FjmVmR4",
+          "title": "【2025年総集編】東京モーニング巡り12選🥐 幅広ジャンルで紹介！",
+          "url": "https://www.youtube.com/watch?v=tIg0FjmVmR4",
+          "time": "15:49",
+          "seconds": 949
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3a0878931788a33a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/latte+All+day+diner/@35.7020058,139.7411974,17z/data=!3m1!4b1!4m6!3m5!1s0x60188d0021c24f25:0xe4e62640ec11dc34!8m2!3d35.7020058!4d139.7411974!16s%2Fg%2F11w2xtq8xn?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "order": 38
     },
     {
       "id": "kagurazaka--kakurenbo",
-      "order": 15,
+      "order": 39,
       "name": "かくれんぼ横丁",
       "address": "東京都新宿区神楽坂3丁目周辺",
       "group": "sights",
@@ -578,7 +1735,16 @@
       "note": "巷內仍有營業店家與私人空間，請保持通道暢通。",
       "official": "https://www.kanko-shinjuku.jp/spot/-/article_434.html",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "5:33",
+          "seconds": 333
+        }
+      ],
       "coordinate": {
         "lat": 35.701999442857144,
         "lng": 139.74099982857143,
@@ -593,7 +1759,668 @@
         "image": "/art/walks/kagurazaka/kakurenbo.webp",
         "alt": "かくれんぼ横丁的日系水彩插圖"
       },
-      "recommendation": "走進石疊小巷，欣賞沿街門面。"
+      "recommendation": "走進石疊小巷，欣賞沿街門面。",
+      "sourceLibraryIds": [
+        "p_7ad5d41cd192620c"
+      ]
+    },
+    {
+      "id": "kagurazaka--saryo",
+      "order": 40,
+      "name": "神楽坂 茶寮 本店",
+      "address": "東京都新宿区神楽坂3-1",
+      "group": "food",
+      "categoryLabel": "和風茶甜點",
+      "caption": "把一段午後，留給茶與甜味。",
+      "descriptionParagraphs": [
+        "神楽坂 茶寮本店以和風甜點與茶飲，為坂道散步留下一段坐下來的時間。現在的店位於神樂坂三丁目，淡色牆面與木造細節，讓空間延續街區安靜的氣質。",
+        "可以依季節選擇抹茶系甜點、冰品或現擠蒙布朗等品項，搭配一杯茶。從熱鬧主街轉入店內，午後便有了較慢的步調。"
+      ],
+      "description": "神楽坂 茶寮本店以和風甜點與茶飲，為坂道散步留下一段坐下來的時間。現在的店位於神樂坂三丁目，淡色牆面與木造細節，讓空間延續街區安靜的氣質。\n\n可以依季節選擇抹茶系甜點、冰品或現擠蒙布朗等品項，搭配一杯茶。從熱鬧主街轉入店內，午後便有了較慢的步調。",
+      "note": "店家不接受訂位。",
+      "official": "https://saryo.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "57OtKo9avlw",
+          "title": "【東京ランチ10選】市川猿之助が食べた楽屋めし、パン食べ放題ニューオープンなど！",
+          "url": "https://www.youtube.com/watch?v=57OtKo9avlw"
+        }
+      ],
+      "coordinate": {
+        "lat": 35.7020363,
+        "lng": 139.7410856,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/11422123670",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/saryo.webp",
+        "alt": "神楽坂 茶寮 本店的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_c16beb69a65922f7"
+      ]
+    },
+    {
+      "id": "kagurazaka--p_7cb773b6ebe5331e",
+      "name": "花神樂（Hana Kagura）",
+      "address": "3-chōme-1 Kagurazaka, Shinjuku City, Tokyo 162-0825",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「花神樂（Hana Kagura）」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-1 Kagurazaka, Shinjuku City, Tokyo 162-0825。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.702148699999995,
+        "lng": 139.7404692,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "2-lUsJCWYQ4",
+          "title": "【東京ランチ10選】国産小麦100%のパン食べ放題、2時間待ちの行列ビストロ、世界三大小籠包の天空ランチ！",
+          "url": "https://www.youtube.com/watch?v=2-lUsJCWYQ4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7cb773b6ebe5331e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16947570162467973670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 41
+    },
+    {
+      "id": "kagurazaka--p_7a93f8063c6dc010",
+      "name": "神楽坂 囲炉裏 肉よろず",
+      "address": "〒162-0821 Tokyo, Shinjuku City, Tsukudochō, 3−２０ イサミビル １F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「神楽坂 囲炉裏 肉よろず」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0821 Tokyo, Shinjuku City, Tsukudochō, 3−２０ イサミビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7028451,
+        "lng": 139.7407537,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "1DBMmbnWA2A",
+          "title": "【神樂坂居酒屋Best 5】米其林星級蕎麥麵店、頂級烤肉割烹等！",
+          "url": "https://www.youtube.com/watch?v=1DBMmbnWA2A"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7a93f8063c6dc010"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10922851267082687653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 42
+    },
+    {
+      "id": "kagurazaka--p_a8e0f06ae5f31d70",
+      "name": "Sumizou",
+      "address": "2-22 Tsukudohachimanchō, Shinjuku City, Tokyo 162-0815",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sumizou」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-22 Tsukudohachimanchō, Shinjuku City, Tokyo 162-0815。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7039359,
+        "lng": 139.7409884,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "uG3Kcy5aNAI",
+          "title": "東京美食神樂坂篇，24小時爽吃特輯四選！神樂坂一日美食地圖，純正法式可麗餅專門店、預約困難起司披薩，牛舌料理居酒屋，激爽和牛內臟燒肉 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=uG3Kcy5aNAI",
+          "time": "9:05",
+          "seconds": 545
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a8e0f06ae5f31d70"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5726247286721161347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 43
+    },
+    {
+      "id": "kagurazaka--p_a9be1c6db6efdc27",
+      "name": "Cogs Dining Kagurazaka",
+      "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−６ Kagurazaka Sanchome Terrace, 1F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Cogs Dining Kagurazaka」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−６ Kagurazaka Sanchome Terrace, 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7009456,
+        "lng": 139.74021869999999,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "It4cS76rRSM",
+          "title": "【東京食べ放題5選】この秋限定シャインマスカット食べ放題、1970年ニューヨーク生まれの極上ビュッフェ！",
+          "url": "https://www.youtube.com/watch?v=It4cS76rRSM"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a9be1c6db6efdc27"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=8632321410862775277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 44
+    },
+    {
+      "id": "kagurazaka--p_052bf4ebc2eb0426",
+      "name": "加賀生麩割烹 神樂坂 前田",
+      "address": "3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「加賀生麩割烹 神樂坂 前田」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7008157,
+        "lng": 139.7406695,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "cOTqL7T8Plg",
+          "title": "【東京ランチ10選】今なら穴場！日本洋食発祥のお店など",
+          "url": "https://www.youtube.com/watch?v=cOTqL7T8Plg"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_052bf4ebc2eb0426"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14409164978754992997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 45
+    },
+    {
+      "id": "kagurazaka--p_8d7e229605a7bb05",
+      "name": "別亭 鳥茶屋",
+      "address": "3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「別亭 鳥茶屋」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7007062,
+        "lng": 139.7407235,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "OvWBmxhzQlo",
+          "title": "BEST 10 FOODS YOU MUST TRY IN TOKYO, JAPAN ｜Food and Travel Guide 2025",
+          "url": "https://www.youtube.com/watch?v=OvWBmxhzQlo"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "rXD1_QI-X4A",
+          "title": "BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=rXD1_QI-X4A"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HOVPfbroWBg",
+          "title": "Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel",
+          "url": "https://www.youtube.com/watch?v=HOVPfbroWBg"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "EwwWbI13wss",
+          "title": "Life in Tokyo｜The Quiet Side of Shinjuku & Toshima Edition, Cozy Cafes & Shoppin 2025",
+          "url": "https://www.youtube.com/watch?v=EwwWbI13wss"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "L5mG_Mi_7i0",
+          "title": "【飯田橋ランチ５選】迷ったらここ行って！食べ放題、百名店を含む飯田橋の名店ランチ！Best lunches at Iidabashi, Japan !",
+          "url": "https://www.youtube.com/watch?v=L5mG_Mi_7i0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8d7e229605a7bb05"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=4049445485663135909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 46
+    },
+    {
+      "id": "kagurazaka--lecoin",
+      "order": 47,
+      "name": "Le Coin Vert Kagurazaka",
+      "address": "東京都新宿区神楽坂2-20-14",
+      "group": "food",
+      "categoryLabel": "法式糕點",
+      "caption": "在綠意旁，找回烘焙的香氣。",
+      "descriptionParagraphs": [
+        "神樂坂巷內的 Le Coin Vert 於2026年10月迎來新的主廚吉川誠，在原址重新開店。店內延續法式糕點與麵包的方向，也加入新主廚對食材與製作的想法。",
+        "可以挑一份可頌、巧克力麵包或烘焙小點，為石疊小路的散步添上法式風味。這裡鄰近飯田橋一側，適合先買點心，再往坂上走。"
+      ],
+      "description": "神樂坂巷內的 Le Coin Vert 於2026年10月迎來新的主廚吉川誠，在原址重新開店。店內延續法式糕點與麵包的方向，也加入新主廚對食材與製作的想法。\n\n可以挑一份可頌、巧克力麵包或烘焙小點，為石疊小路的散步添上法式風味。這裡鄰近飯田橋一側，適合先買點心，再往坂上走。",
+      "note": "2026年10月起為新主廚經營，影片中的舊店品項未必延續；星期二、三店休。",
+      "official": "https://www.instagram.com/lecoinvert_kagurazaka/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "VolPlAGf37A",
+          "title": "【漫步神樂坂 東京小巴黎】用法國可頌開啟一天｜飯田橋美景河畔餐廳｜巷弄江戶風情｜大雪的一天｜Japan Lifestyle｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=VolPlAGf37A"
+        }
+      ],
+      "coordinate": {
+        "lat": 35.699912,
+        "lng": 139.7407643,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6388933698",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/lecoin.webp",
+        "alt": "Le Coin Vert Kagurazaka的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_656590243c7fc2f7"
+      ]
+    },
+    {
+      "id": "kagurazaka--p_6d94a726ac20ae03",
+      "name": "400℃ PIZZA TOKYO",
+      "address": "kif annex, 102 13-1 Wakamiyachō, Shinjuku City, Tokyo 162-0827",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「400℃ PIZZA TOKYO」出現在肥波開吃啦、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 kif annex, 102 13-1 Wakamiyachō, Shinjuku City, Tokyo 162-0827。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7002259,
+        "lng": 139.7393865,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "uG3Kcy5aNAI",
+          "title": "東京美食神樂坂篇，24小時爽吃特輯四選！神樂坂一日美食地圖，純正法式可麗餅專門店、預約困難起司披薩，牛舌料理居酒屋，激爽和牛內臟燒肉 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=uG3Kcy5aNAI",
+          "time": "3:14",
+          "seconds": 194
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "s6xeAzXrYR8",
+          "title": "【保存版】東京で絶対外さないランチ10選！食べログ1位・ミシュラン・Diorカフェ",
+          "url": "https://www.youtube.com/watch?v=s6xeAzXrYR8"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6d94a726ac20ae03"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13977966729756026987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 48
+    },
+    {
+      "id": "kagurazaka--p_638672b7a7fa5794",
+      "name": "果房 メロンとロマン",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「果房 メロンとロマン」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7009152,
+        "lng": 139.7394065,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "6:37",
+          "seconds": 397
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DUS2kEeADLo",
+          "title": "[東京甜點最佳7]您只能在東京享受它！ 銀座、表參道、池袋甜點等！",
+          "url": "https://www.youtube.com/watch?v=DUS2kEeADLo"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_638672b7a7fa5794",
+          "p_7b0e485c7e8becea"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Melon+%26+Roman/@35.7009152,139.7394065,17z/data=!3m1!4b1!4m6!3m5!1s0x60188daceaa4305b:0xc4272172964f738c!8m2!3d35.7009152!4d139.7394065!16s%2Fg%2F11hytw83rd?q=Melon+%26+Roman,+3+Chome-6-92+Kagurazaka,+Shinjuku+City,+Tokyo+162-0825%E6%97%A5%E6%9C%AC&ftid=0x60188daceaa4305b:0xc4272172964f738c&lucs=,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      },
+      "order": 49
+    },
+    {
+      "id": "kagurazaka--kyoraku",
+      "order": 50,
+      "name": "石臼挽き手打 蕎楽亭",
+      "address": "東京都新宿区神楽坂3-6 神楽坂館1F",
+      "group": "food",
+      "categoryLabel": "手打蕎麥",
+      "caption": "以一碗蕎麥，接住小巷的午餐。",
+      "descriptionParagraphs": [
+        "藏在神樂坂路地裡的蕎楽亭，以店內石臼研磨與手打蕎麥為主角，使用店主故鄉會津的蕎麥。櫃台能望向廚房，麵食與天婦羅讓午餐成為一段有節奏的停留。",
+        "適合在逛完飯田橋一側的小巷後坐下，從冷蕎麥或天婦羅組合開始選擇。店內也準備日本酒，讓這一站能依白天或晚間的散步心情調整。"
+      ],
+      "description": "藏在神樂坂路地裡的蕎楽亭，以店內石臼研磨與手打蕎麥為主角，使用店主故鄉會津的蕎麥。櫃台能望向廚房，麵食與天婦羅讓午餐成為一段有節奏的停留。\n\n適合在逛完飯田橋一側的小巷後坐下，從冷蕎麥或天婦羅組合開始選擇。店內也準備日本酒，讓這一站能依白天或晚間的散步心情調整。",
+      "note": "星期日、星期一及國定假日店休。",
+      "official": "https://gc23000.gorp.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "1DBMmbnWA2A",
+          "title": "【神樂坂居酒屋Best 5】米其林星級蕎麥麵店、頂級烤肉割烹等！",
+          "url": "https://www.youtube.com/watch?v=1DBMmbnWA2A"
+        },
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "79-liI53PXE",
+          "title": "東京必比登48小時爽吃特輯十選 ! 米其林推薦東京美食，激推粉嫩炸豬菲力、火山生火腿披薩、職人提燈燒鳥初體驗、TABELOG3.81拉麵名店 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=79-liI53PXE",
+          "time": "5:49",
+          "seconds": 349
+        }
+      ],
+      "coordinate": {
+        "lat": 35.701012,
+        "lng": 139.739624,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%823-6",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/kyoraku.webp",
+        "alt": "石臼挽き手打 蕎楽亭的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_d4fc37112ac6d094",
+        "p_373420d9f7041546"
+      ]
+    },
+    {
+      "id": "kagurazaka--p_0233c39473654f5a",
+      "name": "PASSAGE RIVE GAUCHE",
+      "address": "〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ 日仏学院 内",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「PASSAGE RIVE GAUCHE」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ 日仏学院 内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.698347399999996,
+        "lng": 139.7397757,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "0:35",
+          "seconds": 35
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0233c39473654f5a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16439453467937243861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 51
+    },
+    {
+      "id": "kagurazaka--p_d343db3a1e172957",
+      "name": "Institut français Tokyo（舊東京法國學院）",
+      "address": "15 Ichigayafunagawaramachi, Shinjuku City, Tokyo 162-8415",
+      "group": "sights",
+      "categoryLabel": "教育機構",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Institut français Tokyo（舊東京法國學院）」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 15 Ichigayafunagawaramachi, Shinjuku City, Tokyo 162-8415。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.698347,
+        "lng": 139.739776,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "0:35",
+          "seconds": 35
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "8:05",
+          "seconds": 485
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d343db3a1e172957"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6084741616239342967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 52
+    },
+    {
+      "id": "kagurazaka--p_b415ec0c833a414c",
+      "name": "Loiseau de France",
+      "address": "日本〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ ロワゾー・ドゥ・フランス",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Loiseau de France」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 日本〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ ロワゾー・ドゥ・フランス。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.698070799999996,
+        "lng": 139.74003589999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "X7Yqi4vn2IQ",
+          "title": "BEST 11 Michelin Guide Tokyo Restaurants 2026 | Japan Ultimate Guide🗼🇯🇵",
+          "url": "https://www.youtube.com/watch?v=X7Yqi4vn2IQ",
+          "time": "04:34",
+          "seconds": 274
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b415ec0c833a414c"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=17953667981906107553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 53
+    },
+    {
+      "id": "kagurazaka--p_eeada37b4af62a2b",
+      "name": "神楽坂ワイン食堂 ビストロ Entraide",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「神楽坂ワイン食堂 ビストロ Entraide」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "sbMSpI_Ak9U",
+          "title": "【2026年最新】東京ディナー3選｜予約困難ビストロ・パン食べ放題など実食で厳選",
+          "url": "https://www.youtube.com/watch?v=sbMSpI_Ak9U"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_eeada37b4af62a2b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%A5%BD%E5%9D%82%E3%83%AF%E3%82%A4%E3%83%B3%E9%A3%9F%E5%A0%82+%E3%83%93%E3%82%B9%E3%83%88%E3%83%AD%E3%80%80Entraide+Japan"
+      },
+      "order": 54
     }
   ],
   "routes": [
@@ -603,6 +2430,9 @@
       "ids": [
         "kagurazaka--akagi",
         "kagurazaka--akha",
+        "kagurazaka--tombolo",
+        "kagurazaka--bretagne",
+        "kagurazaka--saryo",
         "kagurazaka--kakurenbo"
       ],
       "start": {
@@ -623,15 +2453,24 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "從神社與咖啡出發，沿石疊巷弄慢慢走到飯田橋。",
       "note": "書店與選物店留作沿途停留，喫茶トンボロ可替換咖啡站。",
       "stopNotes": {
         "kagurazaka--akagi": "境內參拜，看看神社建築。",
         "kagurazaka--akha": "咖啡休息，讓腳步慢下來。",
-        "kagurazaka--kakurenbo": "走進石疊小巷，欣賞沿街門面。"
+        "kagurazaka--kakurenbo": "走進石疊小巷，欣賞沿街門面。",
+        "kagurazaka--saryo": "順路可選：把一段午後，留給茶與甜味。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kagurazaka--bretagne": "順路可選：在石疊街區，吃一份布列塔尼。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kagurazaka--tombolo": "順路可選：讓咖啡與木造空間，把步調放慢。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kagurazaka/akagi.webp"
+      "art": "/art/walks/kagurazaka/akagi.webp",
+      "highlightIds": [
+        "kagurazaka--akagi",
+        "kagurazaka--akha",
+        "kagurazaka--kakurenbo"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kagurazaka-books-and-waterside",
@@ -639,6 +2478,9 @@
       "ids": [
         "kagurazaka--kamome",
         "kagurazaka--baikatei",
+        "kagurazaka--tombolo",
+        "kagurazaka--bretagne",
+        "kagurazaka--fujiya",
         "kagurazaka--canal"
       ],
       "start": {
@@ -659,16 +2501,89 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "沿神樂坂往飯田橋，從書頁與季節和菓子，走到水邊的咖啡時光。",
       "note": "かもめブックス自 2026/10 起每週三及第 2、4 週二休店；CANAL CAFE 第 1、3 週一休店，露台使用受天候影響，候位另計。",
       "stopNotes": {
         "kagurazaka--kamome": "從書架挑一本感興趣的書，慢看當期選書。",
         "kagurazaka--baikatei": "挑一份季節和菓子，作為散步的小禮物。",
-        "kagurazaka--canal": "在水邊喝杯飲品，為往飯田橋的慢走留個停頓。"
+        "kagurazaka--canal": "在水邊喝杯飲品，為往飯田橋的慢走留個停頓。",
+        "kagurazaka--bretagne": "順路可選：在石疊街區，吃一份布列塔尼。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kagurazaka--tombolo": "順路可選：讓咖啡與木造空間，把步調放慢。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kagurazaka--fujiya": "順路可選：把佩可的笑臉，裝進散步紙袋。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kagurazaka/canal.webp"
+      "art": "/art/walks/kagurazaka/canal.webp",
+      "highlightIds": [
+        "kagurazaka--kamome",
+        "kagurazaka--baikatei",
+        "kagurazaka--canal"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kagurazaka-slow-walk"
+  "defaultSelection": "kagurazaka-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_d4fc37112ac6d094",
+      "p_373420d9f7041546",
+      "p_606f839d77573e80",
+      "p_c16beb69a65922f7",
+      "p_8112c6a672a3ec24",
+      "p_d5d3d1bae6f78e74",
+      "p_e491facecb804205",
+      "p_5aeb1e2c85bbe202",
+      "p_08ceb84cd2507892",
+      "p_511912b98c6e8700",
+      "p_a70350e9a310d250",
+      "p_e0612a1f31084a3a",
+      "p_656590243c7fc2f7",
+      "p_243fa7e736a212c8",
+      "p_7ad5d41cd192620c",
+      "p_cee942575a642889",
+      "p_6d94a726ac20ae03",
+      "p_f632f65f9a9f3933",
+      "p_1b88ee4de929cad8",
+      "p_052bf4ebc2eb0426",
+      "p_8d7e229605a7bb05",
+      "p_3dc7e9a2120ef7db",
+      "p_638672b7a7fa5794",
+      "p_7b0e485c7e8becea",
+      "p_7cb773b6ebe5331e",
+      "p_54cbfacb64abdd12",
+      "p_e6819b1546b7f56f",
+      "p_7a93f8063c6dc010",
+      "p_a9e91c9f9b175073",
+      "p_eeada37b4af62a2b",
+      "p_8ccf12e71b514b4a",
+      "p_44305709e2724aef",
+      "p_14bbfa7a1f304ac6",
+      "p_d8638ae37e88cee9",
+      "p_58d1d8cb13c1b87e",
+      "p_44d1c7e446275240",
+      "p_cf8b58dc935275e2",
+      "p_9ec76226832f9f40",
+      "p_6196a98e381e7bc6",
+      "p_a9be1c6db6efdc27",
+      "p_4068a8606217c721",
+      "p_1658a3bb436f44c8",
+      "p_29bb3bfb9113e582",
+      "p_3bab845b2ec6b12a",
+      "p_d343db3a1e172957",
+      "p_15d47986aec4c65a",
+      "p_3a0878931788a33a",
+      "p_8800c64b83f5f17b",
+      "p_b415ec0c833a414c",
+      "p_0233c39473654f5a",
+      "p_5bf94a4af47c8b28",
+      "p_bac953455afffacc",
+      "p_a8e0f06ae5f31d70",
+      "p_5cef684cfaa92fbe",
+      "p_87cd3f0878fb06ca",
+      "p_4d61b6144a45bd56",
+      "p_b0c7b9ddbd3936a7"
+    ],
+    "added": 39,
+    "unlocated": 1,
+    "checkedAt": "2026-10-26"
+  }
 }

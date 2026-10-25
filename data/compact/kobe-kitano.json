@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
@@ -593,6 +593,45 @@
       "recommendation": "在北野坂坐下喝杯咖啡。"
     },
     {
+      "id": "kobe-kitano--p_9c5f5c642746adb2",
+      "name": "Shigematsu",
+      "address": "〒650-0004 Hyogo, Kobe, Chuo Ward, Nakayamatedōri, 2-chōme−1−１７ 2階",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Shigematsu」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒650-0004 Hyogo, Kobe, Chuo Ward, Nakayamatedōri, 2-chōme−1−１７ 2階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.6960136,
+        "lng": 135.1908576,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "D-4lF6_WxtQ",
+          "title": "[池袋] 2022年上半年池袋午餐新公開總結！",
+          "url": "https://www.youtube.com/watch?v=D-4lF6_WxtQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9c5f5c642746adb2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6016128166403552080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 17
+    },
+    {
       "name": "神戸北野ノスタ",
       "address": "兵庫県神戸市中央区中山手通3-17-1",
       "group": "shops",
@@ -619,7 +658,7 @@
         "licenseUrl": "https://www.openstreetmap.org/copyright"
       },
       "id": "kobe-kitano--nosta",
-      "order": 17,
+      "order": 18,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "北野ノスタ以舊北野小學校舍為舞台，集合咖啡、麵包、甜點與日本酒等飲食店。這棟 1931 年的校舍，在 2024 年改為以神戶飲食為主題的複合設施，保留老建築的端正尺度。\n\n可先在這裡挑一份麵包或伴手禮，再往坡上的異人館走。每家店的風格不同，適合依當天胃口安排一站；這裡如今是北野ノスタ，與已結束營業的舊「北野工房のまち」不同。",
@@ -637,6 +676,9 @@
       "ids": [
         "kobe-kitano--weathercock",
         "kobe-kitano--line",
+        "kobe-kitano--ben",
+        "kobe-kitano--france",
+        "kobe-kitano--england",
         "kobe-kitano--nishimura"
       ],
       "start": {
@@ -657,21 +699,33 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "先到洋館街，再沿北野坂慢慢走回三宮。",
       "note": "主線只選一間洋館入館；魚鱗之家與天滿神社坡階較多，可依體力替換。",
       "stopNotes": {
         "kobe-kitano--weathercock": "欣賞紅磚建築外觀與廣場。",
         "kobe-kitano--line": "入館看看洋館的室內與庭院。",
-        "kobe-kitano--nishimura": "在北野坂坐下喝杯咖啡。"
+        "kobe-kitano--nishimura": "在北野坂坐下喝杯咖啡。",
+        "kobe-kitano--england": "順路可選：在玫瑰與陽台之間，讀一段英式住宅的風景。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-kitano--france": "順路可選：一座左右對稱的長屋，也能有洋館的表情。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-kitano--ben": "順路可選：沿紅磚圍牆，看一間收藏氣息濃厚的洋館。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kobe-kitano/weathercock.webp"
+      "art": "/art/walks/kobe-kitano/weathercock.webp",
+      "highlightIds": [
+        "kobe-kitano--weathercock",
+        "kobe-kitano--line",
+        "kobe-kitano--nishimura"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kobe-kitano-green-villa-and-coffee",
       "name": "綠色洋館與英式街景",
       "ids": [
         "kobe-kitano--moegi",
+        "kobe-kitano--line",
+        "kobe-kitano--ben",
+        "kobe-kitano--france",
         "kobe-kitano--england",
         "kobe-kitano--starbucks"
       ],
@@ -693,16 +747,33 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "從萌黃的凸窗走到英式洋館，挑一館細看，再順著坡道走向咖啡香。",
       "note": "由北野異人館巴士站出發，仍有坡道與館內樓梯。萌黃之館與英國館只選一館入內，另一館看街側外觀，兩館都完整參觀請延長時間；萌黃之館二月第三個週三、週四休館。含 30～45 分鐘自由探索，巴士接駁、候車與咖啡候位另計。",
       "stopNotes": {
         "kobe-kitano--moegi": "留意淡綠外牆、凸窗與陽台；可把這裡選為今天唯一深入的洋館。",
         "kobe-kitano--england": "看看英式洋館街景，若更喜歡館內主題，可替換前一館的入內時間。",
-        "kobe-kitano--starbucks": "沿坡慢慢走到木造洋館咖啡店，在回三宮前歇一會兒。"
+        "kobe-kitano--starbucks": "沿坡慢慢走到木造洋館咖啡店，在回三宮前歇一會兒。",
+        "kobe-kitano--france": "順路可選：一座左右對稱的長屋，也能有洋館的表情。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-kitano--line": "順路可選：從一條條下見板，看洋館的細緻水平線。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-kitano--ben": "順路可選：沿紅磚圍牆，看一間收藏氣息濃厚的洋館。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kobe-kitano/moegi.webp"
+      "art": "/art/walks/kobe-kitano/moegi.webp",
+      "highlightIds": [
+        "kobe-kitano--moegi",
+        "kobe-kitano--england",
+        "kobe-kitano--starbucks"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kobe-kitano-slow-walk"
+  "defaultSelection": "kobe-kitano-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_9c5f5c642746adb2"
+    ],
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

@@ -1,273 +1,83 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
-      "id": "kyoto-nishijin--toraya",
-      "order": 1,
-      "name": "虎屋菓寮京都一條店",
-      "address": "京都府京都市上京区広橋殿町400",
-      "group": "food",
-      "categoryLabel": "喫茶・餐食",
-      "caption": "面向庭園，為甜點留一段時間",
+      "id": "kyoto-nishijin--p_48a2680d743537ba",
+      "name": "さらさ西陣",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "虎屋菓寮京都一條店以和菓子、茶與庭園構成安靜的休息空間。大面窗景把綠意帶到座位旁，讓散步從熱鬧街道切換成緩慢的節奏。",
-        "可作為鶴屋吉信之外的茶點選項，不必兩間都排進同一個下午。從今出川站往西陣走時順路停留，離開後再往油小路的小街前進。"
+        "「さらさ西陣」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
       ],
-      "description": "虎屋菓寮京都一條店以和菓子、茶與庭園構成安靜的休息空間。大面窗景把綠意帶到座位旁，讓散步從熱鬧街道切換成緩慢的節奏。\n\n可作為鶴屋吉信之外的茶點選項，不必兩間都排進同一個下午。從今出川站往西陣走時順路停留，離開後再往油小路的小街前進。",
-      "note": "",
-      "official": "https://www.toraya-group.co.jp/shops/shop-55",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
-        "lat": 35.026497,
-        "lng": 135.758804,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%BA%83%E6%A9%8B%E6%AE%BF%E7%94%BA400",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+        "lat": 35.0376526,
+        "lng": 135.746866,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
-      "illustration": {
-        "image": "/art/walks/kyoto-nishijin/toraya.webp",
-        "alt": "虎屋菓寮京都一條店的日系水彩插圖"
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "DYmnbZ8oaws",
+          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
+          "time": "13:51",
+          "seconds": 831
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_48a2680d743537ba"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/%E6%BE%A1%E5%A0%82%E6%94%B9%E5%BB%BA%E5%92%96%E5%95%A1%E5%BB%B3+%E8%A5%BF%E9%99%A3/@35.0376526,135.746866,17z/data=!3m1!4b1!4m6!3m5!1s0x600107fb5ad5b30f:0x810cfa5a6ec91ec!8m2!3d35.0376526!4d135.746866!16s%2Fg%2F1tlz_21k?entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
       },
-      "recommendation": "在菓寮看庭園、吃份甜點；若候位過久，可將休息換到附近。"
+      "order": 1
     },
     {
-      "id": "kyoto-nishijin--raku",
+      "id": "kyoto-nishijin--uhoin",
       "order": 2,
-      "name": "樂美術館",
-      "address": "京都府京都市上京区油橋詰町87-1",
+      "name": "雨寶院",
+      "address": "京都府京都市上京区聖天町9-3",
       "group": "sights",
       "categoryLabel": "文化・景點",
-      "caption": "在小巧美術館，細看茶碗的手感",
+      "caption": "小小境內，容納庭木與季節",
       "descriptionParagraphs": [
-        "樂美術館保存與展示樂家歷代作品及相關資料，將京都茶文化收進茶碗的形與色。低調的木構門面，也與油小路的街坊尺度自然相接。",
-        "喜歡陶器的人可以把這裡替換為主要室內停留，慢慢觀看當期展覽。開館依展期安排，出發前先查看館方消息，再決定是否入館。"
+        "雨寶院又被稱作西陣聖天，緊湊境內可見庭木、石徑與小堂。春季櫻花是它廣為人知的一面，其他季節也能從綠蔭感受街坊寺院的尺度。",
+        "這裡適合與鄰近本隆寺搭配，不必為了賞花特地繞到更遠處。依當天開放情況安靜參拜，花況則交給季節，別把滿開當成固定行程。"
       ],
-      "description": "樂美術館保存與展示樂家歷代作品及相關資料，將京都茶文化收進茶碗的形與色。低調的木構門面，也與油小路的街坊尺度自然相接。\n\n喜歡陶器的人可以把這裡替換為主要室內停留，慢慢觀看當期展覽。開館依展期安排，出發前先查看館方消息，再決定是否入館。",
-      "note": "請先確認當期展覽與開館日。",
-      "official": "https://www.raku-yaki.or.jp/museum/index.html",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.025635,
-        "lng": 135.753311,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%B2%B9%E6%A9%8B%E8%A9%B0%E7%94%BA87-1",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-nishijin/raku.webp",
-        "alt": "樂美術館的日系水彩插圖"
-      },
-      "recommendation": "向西走到樂美術館，看當期茶碗與工藝展示，再循小街到堀川今出川站。"
-    },
-    {
-      "id": "kyoto-nishijin--seimei",
-      "order": 3,
-      "name": "晴明神社",
-      "address": "京都府京都市上京区晴明町806",
-      "group": "sights",
-      "categoryLabel": "文化・景點",
-      "caption": "五芒星與社殿，藏在堀川旁",
-      "descriptionParagraphs": [
-        "晴明神社祭祀安倍晴明，境內可見五芒星紋、晴明井與社殿等細節。從大路轉進不大的境內，能在短暫停留中感受街區的信仰風景。",
-        "參拜後沿堀川往北接西陣織會館，或向西走進町家巷弄即可。這一站適合留些觀看時間，無須把所有境內細節逐一找齊。"
-      ],
-      "description": "晴明神社祭祀安倍晴明，境內可見五芒星紋、晴明井與社殿等細節。從大路轉進不大的境內，能在短暫停留中感受街區的信仰風景。\n\n參拜後沿堀川往北接西陣織會館，或向西走進町家巷弄即可。這一站適合留些觀看時間，無須把所有境內細節逐一找齊。",
+      "description": "雨寶院又被稱作西陣聖天，緊湊境內可見庭木、石徑與小堂。春季櫻花是它廣為人知的一面，其他季節也能從綠蔭感受街坊寺院的尺度。\n\n這裡適合與鄰近本隆寺搭配，不必為了賞花特地繞到更遠處。依當天開放情況安靜參拜，花況則交給季節，別把滿開當成固定行程。",
       "note": "",
-      "official": "https://www.seimeijinja.jp/guide/",
+      "official": "https://www.uhoin.com/",
       "verifiedAt": "2026-10-24",
       "sources": [],
       "coordinate": {
-        "lat": 35.027412,
-        "lng": 135.751175,
+        "lat": 35.032585,
+        "lng": 135.74646,
         "provider": "gsi",
         "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%99%B4%E6%98%8E%E7%94%BA806",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E8%81%96%E5%A4%A9%E7%94%BA9-3",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
         "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
       },
       "illustration": {
-        "image": "/art/walks/kyoto-nishijin/seimei.webp",
-        "alt": "晴明神社的日系水彩插圖"
-      },
-      "recommendation": "看看五芒星紋與小巧社殿。"
-    },
-    {
-      "id": "kyoto-nishijin--textile",
-      "order": 4,
-      "name": "西陣織會館",
-      "address": "京都府京都市上京区竪門前町414",
-      "group": "sights",
-      "categoryLabel": "文化・景點",
-      "caption": "看織物的細節，讀懂街區名字",
-      "descriptionParagraphs": [
-        "西陣織會館透過展示與相關活動介紹西陣織，讓絲線、織紋與製作過程變得更容易理解。看過展示，再走回巷弄，街區的工藝背景也更具體。",
-        "把這裡當作散步中的主要工藝停留，挑自己感興趣的部分慢慢看。體驗項目與活動依當日安排，若想參加較長課程，可縮減其他地點。"
-      ],
-      "description": "西陣織會館透過展示與相關活動介紹西陣織，讓絲線、織紋與製作過程變得更容易理解。看過展示，再走回巷弄，街區的工藝背景也更具體。\n\n把這裡當作散步中的主要工藝停留，挑自己感興趣的部分慢慢看。體驗項目與活動依當日安排，若想參加較長課程，可縮減其他地點。",
-      "note": "",
-      "official": "https://nishijin.or.jp/nishijin_textile_center/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.028973,
-        "lng": 135.75119,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%AB%AA%E9%96%80%E5%89%8D%E7%94%BA414",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-nishijin/textile.webp",
-        "alt": "西陣織會館的日系水彩插圖"
-      },
-      "recommendation": "從展示認識西陣織的材料與手藝。"
-    },
-    {
-      "id": "kyoto-nishijin--tsuruya",
-      "order": 5,
-      "name": "鶴屋吉信本店",
-      "address": "京都府京都市上京区西船橋町340-1",
-      "group": "food",
-      "categoryLabel": "喫茶・餐食",
-      "caption": "從和菓子櫃，走向庭園茶席",
-      "descriptionParagraphs": [
-        "鶴屋吉信本店位於堀川今出川街角，店面與茶寮以木構和庭園營造京都和菓子的氣氛。挑選點心時，也能欣賞季節如何被轉化為小巧的形與色。",
-        "可在西陣織會館之後安排茶點休息，再就近搭巴士離開。若想看菓遊茶屋的製菓席，請另外確認預約安排；一般散步保留簡單喫茶即可。"
-      ],
-      "description": "鶴屋吉信本店位於堀川今出川街角，店面與茶寮以木構和庭園營造京都和菓子的氣氛。挑選點心時，也能欣賞季節如何被轉化為小巧的形與色。\n\n可在西陣織會館之後安排茶點休息，再就近搭巴士離開。若想看菓遊茶屋的製菓席，請另外確認預約安排；一般散步保留簡單喫茶即可。",
-      "note": "",
-      "official": "https://www.tsuruyayoshinobu.jp/shop/head",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.029896,
-        "lng": 135.751266,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E8%A5%BF%E8%88%B9%E6%A9%8B%E7%94%BA340-1",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-nishijin/tsuruya.webp",
-        "alt": "鶴屋吉信本店的日系水彩插圖"
-      },
-      "recommendation": "選一份和菓子，把最後一段留給休息。"
-    },
-    {
-      "id": "kyoto-nishijin--shiramine",
-      "order": 6,
-      "name": "白峯神宮",
-      "address": "京都府京都市上京区飛鳥井町261",
-      "group": "sights",
-      "categoryLabel": "文化・景點",
-      "caption": "在球技信仰與樹蔭間停一會",
-      "descriptionParagraphs": [
-        "白峯神宮建於飛鳥井家舊址，與蹴鞠及球技信仰相連。境內的樹木、石鋪地與社殿，讓今出川通旁多了一處安靜的短暫停留。",
-        "可在茶寮前後順路參拜，留意與球類運動相關的細節。離開後就近前往堀川今出川巴士站，或依體力步行返回今出川站。"
-      ],
-      "description": "白峯神宮建於飛鳥井家舊址，與蹴鞠及球技信仰相連。境內的樹木、石鋪地與社殿，讓今出川通旁多了一處安靜的短暫停留。\n\n可在茶寮前後順路參拜，留意與球類運動相關的細節。離開後就近前往堀川今出川巴士站，或依體力步行返回今出川站。",
-      "note": "",
-      "official": "https://souda-kyoto.jp/guide/spot/shiraminejingu.html",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.030041,
-        "lng": 135.752899,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E9%A3%9B%E9%B3%A5%E4%BA%95%E7%94%BA261",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-nishijin/shiramine.webp",
-        "alt": "白峯神宮的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "kyoto-nishijin--archaeology",
-      "order": 7,
-      "name": "京都市考古資料館",
-      "address": "京都府京都市上京区元伊佐町265-1",
-      "group": "sights",
-      "categoryLabel": "文化・景點",
-      "caption": "在老建築裡，認識地下的京都",
-      "descriptionParagraphs": [
-        "考古資料館展示京都市內發掘出土的遺物與調查成果，讓熟悉的街道多出時間深度。館舍本身也保留近代建築的立面與窗戶節奏。",
-        "適合喜歡城市歷史的人順路入館，看一小段展示再回到今出川通。若已安排樂美術館，可依興趣擇一深入，保留足夠的戶外散步時間。"
-      ],
-      "description": "考古資料館展示京都市內發掘出土的遺物與調查成果，讓熟悉的街道多出時間深度。館舍本身也保留近代建築的立面與窗戶節奏。\n\n適合喜歡城市歷史的人順路入館，看一小段展示再回到今出川通。若已安排樂美術館，可依興趣擇一深入，保留足夠的戶外散步時間。",
-      "note": "",
-      "official": "https://www.kyoto-kankou.or.jp/info_search/3624",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.030014,
-        "lng": 135.749527,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%85%83%E4%BC%8A%E4%BD%90%E7%94%BA265-1",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-nishijin/archaeology.webp",
-        "alt": "京都市考古資料館的日系水彩插圖"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "kyoto-nishijin--tondaya",
-      "order": 8,
-      "name": "西陣くらしの美術館 冨田屋",
-      "address": "京都府京都市上京区石薬師町697",
-      "group": "sights",
-      "categoryLabel": "文化・景點",
-      "caption": "從格窗與門簾，看町家生活",
-      "descriptionParagraphs": [
-        "冨田屋保留西陣商家的建築與生活文化，透過町家見學及文化體驗介紹京都的季節習俗。街邊的深色木格與白色門簾，是這段巷弄鮮明的入口。",
-        "若只安排輕鬆散步，可從道路欣賞門面；想進屋了解庭院與生活文化，請預先選擇合適的預約體驗。較長課程不含在基本散策時間裡。"
-      ],
-      "description": "冨田屋保留西陣商家的建築與生活文化，透過町家見學及文化體驗介紹京都的季節習俗。街邊的深色木格與白色門簾，是這段巷弄鮮明的入口。\n\n若只安排輕鬆散步，可從道路欣賞門面；想進屋了解庭院與生活文化，請預先選擇合適的預約體驗。較長課程不含在基本散策時間裡。",
-      "note": "入內見學及文化體驗請預先預約。",
-      "official": "https://tondaya.co.jp/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.027622,
-        "lng": 135.748825,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%9F%B3%E8%96%AC%E5%B8%AB%E7%94%BA697",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/kyoto-nishijin/tondaya.webp",
-        "alt": "西陣くらしの美術館 冨田屋的日系水彩插圖"
+        "image": "/art/walks/kyoto-nishijin/uhoin.webp",
+        "alt": "雨寶院的日系水彩插圖"
       },
       "recommendation": null
     },
     {
       "id": "kyoto-nishijin--honryuji",
-      "order": 9,
+      "order": 3,
       "name": "本隆寺",
       "address": "京都府京都市上京区紋屋町330",
       "group": "sights",
@@ -299,37 +109,401 @@
       "recommendation": null
     },
     {
-      "id": "kyoto-nishijin--uhoin",
-      "order": 10,
-      "name": "雨寶院",
-      "address": "京都府京都市上京区聖天町9-3",
+      "id": "kyoto-nishijin--p_45e861ebd5eb6745",
+      "name": "Kitchen Papa",
+      "address": "591 Ubaganishichō, Kamigyo Ward, Kyoto, 602-8486",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Kitchen Papa」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 591 Ubaganishichō, Kamigyo Ward, Kyoto, 602-8486。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.032489,
+        "lng": 135.74245270000003,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "2ZykAOTHM9c",
+          "title": "京都美食地圖，72小時爽吃特輯十選！三天兩夜京都爽吃指南，米其林推薦熟成和牛、CP值頂天立吞燒鳥、激爽厚切蔥鹽牛舌、京都榜一脆皮煎餃、百名店認證背脂拉麵 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=2ZykAOTHM9c",
+          "time": "17:01",
+          "seconds": 1021
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_45e861ebd5eb6745"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13637715423223872948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 4
+    },
+    {
+      "id": "kyoto-nishijin--archaeology",
+      "order": 5,
+      "name": "京都市考古資料館",
+      "address": "京都府京都市上京区元伊佐町265-1",
       "group": "sights",
       "categoryLabel": "文化・景點",
-      "caption": "小小境內，容納庭木與季節",
+      "caption": "在老建築裡，認識地下的京都",
       "descriptionParagraphs": [
-        "雨寶院又被稱作西陣聖天，緊湊境內可見庭木、石徑與小堂。春季櫻花是它廣為人知的一面，其他季節也能從綠蔭感受街坊寺院的尺度。",
-        "這裡適合與鄰近本隆寺搭配，不必為了賞花特地繞到更遠處。依當天開放情況安靜參拜，花況則交給季節，別把滿開當成固定行程。"
+        "考古資料館展示京都市內發掘出土的遺物與調查成果，讓熟悉的街道多出時間深度。館舍本身也保留近代建築的立面與窗戶節奏。",
+        "適合喜歡城市歷史的人順路入館，看一小段展示再回到今出川通。若已安排樂美術館，可依興趣擇一深入，保留足夠的戶外散步時間。"
       ],
-      "description": "雨寶院又被稱作西陣聖天，緊湊境內可見庭木、石徑與小堂。春季櫻花是它廣為人知的一面，其他季節也能從綠蔭感受街坊寺院的尺度。\n\n這裡適合與鄰近本隆寺搭配，不必為了賞花特地繞到更遠處。依當天開放情況安靜參拜，花況則交給季節，別把滿開當成固定行程。",
+      "description": "考古資料館展示京都市內發掘出土的遺物與調查成果，讓熟悉的街道多出時間深度。館舍本身也保留近代建築的立面與窗戶節奏。\n\n適合喜歡城市歷史的人順路入館，看一小段展示再回到今出川通。若已安排樂美術館，可依興趣擇一深入，保留足夠的戶外散步時間。",
       "note": "",
-      "official": "https://www.uhoin.com/",
+      "official": "https://www.kyoto-kankou.or.jp/info_search/3624",
       "verifiedAt": "2026-10-24",
       "sources": [],
       "coordinate": {
-        "lat": 35.032585,
-        "lng": 135.74646,
+        "lat": 35.030014,
+        "lng": 135.749527,
         "provider": "gsi",
         "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E8%81%96%E5%A4%A9%E7%94%BA9-3",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%85%83%E4%BC%8A%E4%BD%90%E7%94%BA265-1",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
         "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
       },
       "illustration": {
-        "image": "/art/walks/kyoto-nishijin/uhoin.webp",
-        "alt": "雨寶院的日系水彩插圖"
+        "image": "/art/walks/kyoto-nishijin/archaeology.webp",
+        "alt": "京都市考古資料館的日系水彩插圖"
       },
       "recommendation": null
+    },
+    {
+      "id": "kyoto-nishijin--tsuruya",
+      "order": 6,
+      "name": "鶴屋吉信本店",
+      "address": "京都府京都市上京区西船橋町340-1",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "從和菓子櫃，走向庭園茶席",
+      "descriptionParagraphs": [
+        "鶴屋吉信本店位於堀川今出川街角，店面與茶寮以木構和庭園營造京都和菓子的氣氛。挑選點心時，也能欣賞季節如何被轉化為小巧的形與色。",
+        "可在西陣織會館之後安排茶點休息，再就近搭巴士離開。若想看菓遊茶屋的製菓席，請另外確認預約安排；一般散步保留簡單喫茶即可。"
+      ],
+      "description": "鶴屋吉信本店位於堀川今出川街角，店面與茶寮以木構和庭園營造京都和菓子的氣氛。挑選點心時，也能欣賞季節如何被轉化為小巧的形與色。\n\n可在西陣織會館之後安排茶點休息，再就近搭巴士離開。若想看菓遊茶屋的製菓席，請另外確認預約安排；一般散步保留簡單喫茶即可。",
+      "note": "",
+      "official": "https://www.tsuruyayoshinobu.jp/shop/head",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.029896,
+        "lng": 135.751266,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E8%A5%BF%E8%88%B9%E6%A9%8B%E7%94%BA340-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-nishijin/tsuruya.webp",
+        "alt": "鶴屋吉信本店的日系水彩插圖"
+      },
+      "recommendation": "選一份和菓子，把最後一段留給休息。"
+    },
+    {
+      "id": "kyoto-nishijin--textile",
+      "order": 7,
+      "name": "西陣織會館",
+      "address": "京都府京都市上京区竪門前町414",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "看織物的細節，讀懂街區名字",
+      "descriptionParagraphs": [
+        "西陣織會館透過展示與相關活動介紹西陣織，讓絲線、織紋與製作過程變得更容易理解。看過展示，再走回巷弄，街區的工藝背景也更具體。",
+        "把這裡當作散步中的主要工藝停留，挑自己感興趣的部分慢慢看。體驗項目與活動依當日安排，若想參加較長課程，可縮減其他地點。"
+      ],
+      "description": "西陣織會館透過展示與相關活動介紹西陣織，讓絲線、織紋與製作過程變得更容易理解。看過展示，再走回巷弄，街區的工藝背景也更具體。\n\n把這裡當作散步中的主要工藝停留，挑自己感興趣的部分慢慢看。體驗項目與活動依當日安排，若想參加較長課程，可縮減其他地點。",
+      "note": "",
+      "official": "https://nishijin.or.jp/nishijin_textile_center/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.028973,
+        "lng": 135.75119,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%AB%AA%E9%96%80%E5%89%8D%E7%94%BA414",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-nishijin/textile.webp",
+        "alt": "西陣織會館的日系水彩插圖"
+      },
+      "recommendation": "從展示認識西陣織的材料與手藝。"
+    },
+    {
+      "id": "kyoto-nishijin--seimei",
+      "order": 8,
+      "name": "晴明神社",
+      "address": "京都府京都市上京区晴明町806",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "五芒星與社殿，藏在堀川旁",
+      "descriptionParagraphs": [
+        "晴明神社祭祀安倍晴明，境內可見五芒星紋、晴明井與社殿等細節。從大路轉進不大的境內，能在短暫停留中感受街區的信仰風景。",
+        "參拜後沿堀川往北接西陣織會館，或向西走進町家巷弄即可。這一站適合留些觀看時間，無須把所有境內細節逐一找齊。"
+      ],
+      "description": "晴明神社祭祀安倍晴明，境內可見五芒星紋、晴明井與社殿等細節。從大路轉進不大的境內，能在短暫停留中感受街區的信仰風景。\n\n參拜後沿堀川往北接西陣織會館，或向西走進町家巷弄即可。這一站適合留些觀看時間，無須把所有境內細節逐一找齊。",
+      "note": "",
+      "official": "https://www.seimeijinja.jp/guide/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.027412,
+        "lng": 135.751175,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%99%B4%E6%98%8E%E7%94%BA806",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-nishijin/seimei.webp",
+        "alt": "晴明神社的日系水彩插圖"
+      },
+      "recommendation": "看看五芒星紋與小巧社殿。"
+    },
+    {
+      "id": "kyoto-nishijin--tondaya",
+      "order": 9,
+      "name": "西陣くらしの美術館 冨田屋",
+      "address": "京都府京都市上京区石薬師町697",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從格窗與門簾，看町家生活",
+      "descriptionParagraphs": [
+        "冨田屋保留西陣商家的建築與生活文化，透過町家見學及文化體驗介紹京都的季節習俗。街邊的深色木格與白色門簾，是這段巷弄鮮明的入口。",
+        "若只安排輕鬆散步，可從道路欣賞門面；想進屋了解庭院與生活文化，請預先選擇合適的預約體驗。較長課程不含在基本散策時間裡。"
+      ],
+      "description": "冨田屋保留西陣商家的建築與生活文化，透過町家見學及文化體驗介紹京都的季節習俗。街邊的深色木格與白色門簾，是這段巷弄鮮明的入口。\n\n若只安排輕鬆散步，可從道路欣賞門面；想進屋了解庭院與生活文化，請預先選擇合適的預約體驗。較長課程不含在基本散策時間裡。",
+      "note": "入內見學及文化體驗請預先預約。",
+      "official": "https://tondaya.co.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.027622,
+        "lng": 135.748825,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%9F%B3%E8%96%AC%E5%B8%AB%E7%94%BA697",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-nishijin/tondaya.webp",
+        "alt": "西陣くらしの美術館 冨田屋的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-nishijin--shiramine",
+      "order": 10,
+      "name": "白峯神宮",
+      "address": "京都府京都市上京区飛鳥井町261",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在球技信仰與樹蔭間停一會",
+      "descriptionParagraphs": [
+        "白峯神宮建於飛鳥井家舊址，與蹴鞠及球技信仰相連。境內的樹木、石鋪地與社殿，讓今出川通旁多了一處安靜的短暫停留。",
+        "可在茶寮前後順路參拜，留意與球類運動相關的細節。離開後就近前往堀川今出川巴士站，或依體力步行返回今出川站。"
+      ],
+      "description": "白峯神宮建於飛鳥井家舊址，與蹴鞠及球技信仰相連。境內的樹木、石鋪地與社殿，讓今出川通旁多了一處安靜的短暫停留。\n\n可在茶寮前後順路參拜，留意與球類運動相關的細節。離開後就近前往堀川今出川巴士站，或依體力步行返回今出川站。",
+      "note": "",
+      "official": "https://souda-kyoto.jp/guide/spot/shiraminejingu.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.030041,
+        "lng": 135.752899,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E9%A3%9B%E9%B3%A5%E4%BA%95%E7%94%BA261",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-nishijin/shiramine.webp",
+        "alt": "白峯神宮的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-nishijin--raku",
+      "order": 11,
+      "name": "樂美術館",
+      "address": "京都府京都市上京区油橋詰町87-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在小巧美術館，細看茶碗的手感",
+      "descriptionParagraphs": [
+        "樂美術館保存與展示樂家歷代作品及相關資料，將京都茶文化收進茶碗的形與色。低調的木構門面，也與油小路的街坊尺度自然相接。",
+        "喜歡陶器的人可以把這裡替換為主要室內停留，慢慢觀看當期展覽。開館依展期安排，出發前先查看館方消息，再決定是否入館。"
+      ],
+      "description": "樂美術館保存與展示樂家歷代作品及相關資料，將京都茶文化收進茶碗的形與色。低調的木構門面，也與油小路的街坊尺度自然相接。\n\n喜歡陶器的人可以把這裡替換為主要室內停留，慢慢觀看當期展覽。開館依展期安排，出發前先查看館方消息，再決定是否入館。",
+      "note": "請先確認當期展覽與開館日。",
+      "official": "https://www.raku-yaki.or.jp/museum/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.025635,
+        "lng": 135.753311,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%B2%B9%E6%A9%8B%E8%A9%B0%E7%94%BA87-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-nishijin/raku.webp",
+        "alt": "樂美術館的日系水彩插圖"
+      },
+      "recommendation": "向西走到樂美術館，看當期茶碗與工藝展示，再循小街到堀川今出川站。"
+    },
+    {
+      "id": "kyoto-nishijin--toraya",
+      "order": 12,
+      "name": "虎屋菓寮京都一條店",
+      "address": "京都府京都市上京区広橋殿町400",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "面向庭園，為甜點留一段時間",
+      "descriptionParagraphs": [
+        "虎屋菓寮京都一條店以和菓子、茶與庭園構成安靜的休息空間。大面窗景把綠意帶到座位旁，讓散步從熱鬧街道切換成緩慢的節奏。",
+        "可作為鶴屋吉信之外的茶點選項，不必兩間都排進同一個下午。從今出川站往西陣走時順路停留，離開後再往油小路的小街前進。"
+      ],
+      "description": "虎屋菓寮京都一條店以和菓子、茶與庭園構成安靜的休息空間。大面窗景把綠意帶到座位旁，讓散步從熱鬧街道切換成緩慢的節奏。\n\n可作為鶴屋吉信之外的茶點選項，不必兩間都排進同一個下午。從今出川站往西陣走時順路停留，離開後再往油小路的小街前進。",
+      "note": "",
+      "official": "https://www.toraya-group.co.jp/shops/shop-55",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "dT1QNCxJS_w",
+          "title": "A Day in Tokyo : Kioicho, Akasaka, Yotsuya / Some of the Beautiful Architecture | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=dT1QNCxJS_w",
+          "time": "17:57",
+          "seconds": 1077
+        }
+      ],
+      "coordinate": {
+        "lat": 35.026497,
+        "lng": 135.758804,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%BA%83%E6%A9%8B%E6%AE%BF%E7%94%BA400",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-nishijin/toraya.webp",
+        "alt": "虎屋菓寮京都一條店的日系水彩插圖"
+      },
+      "recommendation": "在菓寮看庭園、吃份甜點；若候位過久，可將休息換到附近。",
+      "sourceLibraryIds": [
+        "p_bc76db0f9abd0ff6"
+      ]
+    },
+    {
+      "id": "kyoto-nishijin--p_b68dd810244524bc",
+      "name": "竹邑庵太郎敦盛",
+      "address": "242-12 Yōanchō, Kamigyo Ward, Kyoto, 602-8022",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「竹邑庵太郎敦盛」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 242-12 Yōanchō, Kamigyo Ward, Kyoto, 602-8022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.01850700000001,
+        "lng": 135.7588437,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "Aq5FmVZZ6GU",
+          "title": "京都米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Kyoto 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=Aq5FmVZZ6GU",
+          "time": "0:29",
+          "seconds": 29
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b68dd810244524bc"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=15776756795654271686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 13
+    },
+    {
+      "id": "kyoto-nishijin--p_9870b7da58043dbb",
+      "name": "中深煎珈琲の店 NuCUPCOFFEE",
+      "address": "163-1 Miyoshichō, Kamigyo Ward, Kyoto, 602-0823",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「中深煎珈琲の店 NuCUPCOFFEE」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 163-1 Miyoshichō, Kamigyo Ward, Kyoto, 602-0823。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.0292848,
+        "lng": 135.7693401,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "m133f63cvok",
+          "title": "【2023池袋新開10強】中國人氣百元飲品、冰淇淋、米其林拉麵等！",
+          "url": "https://www.youtube.com/watch?v=m133f63cvok"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9870b7da58043dbb"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=12158661318907855312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 14
     }
   ],
   "routes": [
@@ -359,7 +533,7 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "以晴明神社與西陣織會館為中心，在街坊巷弄與茶寮之間慢慢走。",
       "note": "三個推薦重點加上 30～45 分鐘自由探索，約 2.5～3 小時；十點是可選清單。冨田屋體驗須先預約，樂美術館依展期開館，候位與較長體驗另留時間。",
       "stopNotes": {
@@ -367,7 +541,13 @@
         "kyoto-nishijin--textile": "從展示認識西陣織的材料與手藝。",
         "kyoto-nishijin--tsuruya": "選一份和菓子，把最後一段留給休息。"
       },
-      "art": "/art/walks/kyoto-nishijin/tsuruya.webp"
+      "art": "/art/walks/kyoto-nishijin/tsuruya.webp",
+      "highlightIds": [
+        "kyoto-nishijin--seimei",
+        "kyoto-nishijin--textile",
+        "kyoto-nishijin--tsuruya"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kyoto-nishijin-tea-bowls-and-sweets",
@@ -394,15 +574,32 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "在庭園旁吃一份和菓子，再沿一條通看樂燒，讓一個午後只專注兩件事。",
       "note": "含兩處重點、步行與 30～45 分鐘自由探索；美術館按約 45～60 分鐘參觀估算。樂美術館週一、換展及年末年始休館；虎屋菓寮不接受座位預約，候位另計。",
       "stopNotes": {
         "kyoto-nishijin--toraya": "在菓寮看庭園、吃份甜點；若候位過久，可將休息換到附近。",
         "kyoto-nishijin--raku": "向西走到樂美術館，看當期茶碗與工藝展示，再循小街到堀川今出川站。"
       },
-      "art": "/art/walks/kyoto-nishijin/raku.webp"
+      "art": "/art/walks/kyoto-nishijin/raku.webp",
+      "highlightIds": [
+        "kyoto-nishijin--toraya",
+        "kyoto-nishijin--raku"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kyoto-nishijin-slow-walk"
+  "defaultSelection": "kyoto-nishijin-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_bc76db0f9abd0ff6",
+      "p_9870b7da58043dbb",
+      "p_b68dd810244524bc",
+      "p_45e861ebd5eb6745",
+      "p_48a2680d743537ba"
+    ],
+    "added": 4,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

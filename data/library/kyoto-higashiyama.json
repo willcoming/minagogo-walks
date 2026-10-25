@@ -1,0 +1,679 @@
+{
+  "places": [
+    {
+      "id": "kyoto-higashiyama--p_8b836e89080ccd20",
+      "name": "八坂神社本殿",
+      "address": "625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「八坂神社本殿」出現在Hina Life in Japan、Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.0036559,
+        "lng": 135.7785534,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6-t-19xIZOA",
+          "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
+          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
+        },
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "BTE6Pf10lB4",
+          "title": "京都影片部落格 | 景點和受歡迎的食物 | 探索只園、清水寺 | 日本旅遊 | ASMR",
+          "url": "https://www.youtube.com/watch?v=BTE6Pf10lB4",
+          "time": "3:32",
+          "seconds": 212
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8b836e89080ccd20"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14374021738854095593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_c26bee4052bedb00",
+      "name": "両足院",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「両足院」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.0001364,
+        "lng": 135.7744446,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "DYmnbZ8oaws",
+          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
+          "time": "3:29",
+          "seconds": 209
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c26bee4052bedb00"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%85%A9%E8%B6%B3%E9%99%A2/@35.0001364,135.7744446,17z/data=!3m1!4b1!4m6!3m5!1s0x600108c6c7d187a1:0x9e9fd08bc5cf874a!8m2!3d35.0001364!4d135.7744446!16s%2Fg%2F11tck15sw9?q=%E5%85%A9%E8%B6%B3%E9%99%A2591+Komatsucho,+Higashiyama+Ward,+Kyoto,+605-0811%E6%97%A5%E6%9C%AC&ftid=0x600108c6c7d187a1:0x9e9fd08bc5cf874a&lucs=,94246480,94224825,94227247,94227248,47071704,47069508,94218641,94228354,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_987f648f151229d0",
+      "name": "西来院",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「西来院」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.000497,
+        "lng": 135.7749239,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "DYmnbZ8oaws",
+          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
+          "time": "5:29",
+          "seconds": 329
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_987f648f151229d0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E8%A5%BF%E4%BE%86%E9%99%A2/@35.0001282,135.7745295,18.17z/data=!4m6!3m5!1s0x600108c6b6cc58d7:0xaa3f8ee6357b16de!8m2!3d35.000497!4d135.7749239!16s%2Fg%2F11h1br3tx?entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_5db5f810e1ac2ea0",
+      "name": "京都四季酒店",
+      "address": "445-3 Myōhōin Maekawachō, Higashiyama Ward, Kyoto, 605-0932",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「京都四季酒店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 445-3 Myōhōin Maekawachō, Higashiyama Ward, Kyoto, 605-0932。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 34.9912637,
+        "lng": 135.77558159999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "_64n7qi0tX0",
+          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
+          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
+          "time": "10:59",
+          "seconds": 659
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5db5f810e1ac2ea0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=11450488829936344557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_777a851faf84d814",
+      "name": "建仁寺",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「建仁寺」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.0000363,
+        "lng": 135.7735632,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "DYmnbZ8oaws",
+          "title": "🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
+          "time": "0:36",
+          "seconds": 36
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_777a851faf84d814"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%BB%BA%E4%BB%81%E5%AF%BA/@35.0000363,135.7735632,17z/data=!3m1!4b1!4m6!3m5!1s0x600108c1242b7b27:0x7e608f1986c5bb52!8m2!3d35.0000363!4d135.7735632!16s%2Fm%2F027phyz?q=%E5%BB%BA%E4%BB%81%E5%AF%BA%EF%BC%95%EF%BC%98%EF%BC%94%E7%95%AA%E5%9C%B0+Komatsucho,+Higashiyama+Ward,+Kyoto,+605-0811%E6%97%A5%E6%9C%AC&ftid=0x600108c1242b7b27:0x7e608f1986c5bb52&lucs=,94246480,94224825,94227247,94227248,47071704,47069508,94218641,94228354,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI1MDExMC4wIPu8ASoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_12b04da60b2b1515",
+      "name": "祇園 北川半兵衛",
+      "address": "570-188 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「祇園 北川半兵衛」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 570-188 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.002736,
+        "lng": 135.77648499999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6-t-19xIZOA",
+          "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
+          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "ROf3HBnMTt8",
+          "title": "THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=ROf3HBnMTt8"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_12b04da60b2b1515"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=18390743546623491044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_cca86fe0bdd22b1d",
+      "name": "茶寮都路里 祇園本店",
+      "address": "573-3 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「茶寮都路里 祇園本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 573-3 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.003665,
+        "lng": 135.774477,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "waHzhracBMk",
+          "title": "【東京站7選咖啡館】可飲用的法式吐司、京都祗園的抹茶、百家名店的水果等等！",
+          "url": "https://www.youtube.com/watch?v=waHzhracBMk"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cca86fe0bdd22b1d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=7677863780453147220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_5b9922cfea81ca7f",
+      "name": "Gion Shirakawa Namisato",
+      "address": "78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Gion Shirakawa Namisato」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.0052035,
+        "lng": 135.7735253,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ",
+          "time": "0:00",
+          "seconds": 0
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5b9922cfea81ca7f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=381058408919907964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_84bb23435dfac0af",
+      "name": "GOKAGO",
+      "address": "2-chōme-258 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「GOKAGO」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-258 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.9956509,
+        "lng": 135.7818524,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "ROf3HBnMTt8",
+          "title": "THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=ROf3HBnMTt8"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_84bb23435dfac0af"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=9995371556413413334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_9f37c326a0bd41ac",
+      "name": "Miffy's Oyatsu-do by Miffy's Kitchen Gion",
+      "address": "572-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Miffy's Oyatsu-do by Miffy's Kitchen Gion」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 572-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.0036558,
+        "lng": 135.7748428,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "EeOiJqCkkXo",
+          "title": "Day trips from Tokyo | Ghibli-Like Seaside Town 'Kamakura' | JAPAN TRAVEL VLOG 2025",
+          "url": "https://www.youtube.com/watch?v=EeOiJqCkkXo"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "H37BTHmfYXc",
+          "title": "HOW TO SPEND 3DAYS IN TOKYO, JAPAN｜Japan Ultimate Guide 2025",
+          "url": "https://www.youtube.com/watch?v=H37BTHmfYXc"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "cd9plh515Yw",
+          "title": "WHAT TO DO IN TOKYO FOR 3 DAYS🗼 | Japan Ultimate Guide 2025",
+          "url": "https://www.youtube.com/watch?v=cd9plh515Yw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9f37c326a0bd41ac"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=1247454680128271484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_758c064e44c195b7",
+      "name": "Pizzeria Da Naghino",
+      "address": "20-2 Shichikenchō, Higashiyama Ward, Kyoto, 605-0011",
+      "group": "food",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Pizzeria Da Naghino」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 20-2 Shichikenchō, Higashiyama Ward, Kyoto, 605-0011。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.0093612,
+        "lng": 135.7772114,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "Aq5FmVZZ6GU",
+          "title": "京都米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Kyoto 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=Aq5FmVZZ6GU",
+          "time": "2:29",
+          "seconds": 149
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_758c064e44c195b7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=1138301091029721086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_7cdfa7c4643b4aea",
+      "name": "Sueyoshicho, Higashiyama Ward, Kyoto",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sueyoshicho, Higashiyama Ward, Kyoto」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7cdfa7c4643b4aea"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sueyoshicho%2C+Higashiyama+Ward%2C+Kyoto+ULTIMATE+JAPANESE+FOOD+TOUR+IN+KYOTO+JAPAN+TRAVEL+GUIDE+2023"
+      }
+    }
+  ],
+  "matches": {
+    "kyoto-higashiyama--shichimi": {
+      "sourceIds": [
+        "p_c945b21c2fc425d9"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "1:25",
+          "seconds": 85
+        }
+      ]
+    },
+    "kyoto-higashiyama--nittodo": {
+      "sourceIds": [
+        "p_d5d7dc3fba4b3ad1"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "4:41",
+          "seconds": 281
+        }
+      ]
+    },
+    "kyoto-higashiyama--itosousou": {
+      "sourceIds": [
+        "p_af39c3a444b63ce4"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "2:27",
+          "seconds": 147
+        }
+      ]
+    },
+    "kyoto-higashiyama--yasui": {
+      "sourceIds": [
+        "p_6e16399f63f9ff18"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "6:52",
+          "seconds": 412
+        }
+      ]
+    },
+    "kyoto-higashiyama--koshindo": {
+      "sourceIds": [
+        "p_db831c718e82d24c"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "6:28",
+          "seconds": 388
+        }
+      ]
+    },
+    "kyoto-higashiyama--starbucks": {
+      "sourceIds": [
+        "p_d183ccb6427b5ad9",
+        "p_f5376bbc07bc2d0c"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "_64n7qi0tX0",
+          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
+          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
+          "time": "09:53",
+          "seconds": 593
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "6:28",
+          "seconds": 388
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE"
+        }
+      ]
+    },
+    "kyoto-higashiyama--kiyomizu": {
+      "sourceIds": [
+        "p_0c36a13560948419",
+        "p_7add765ff0fc5d05"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "_64n7qi0tX0",
+          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
+          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
+          "time": "09:17",
+          "seconds": 557
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ",
+          "time": "4:54",
+          "seconds": 294
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ",
+          "time": "19:49",
+          "seconds": 1189
+        },
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "BTE6Pf10lB4",
+          "title": "京都影片部落格 | 景點和受歡迎的食物 | 探索只園、清水寺 | 日本旅遊 | ASMR",
+          "url": "https://www.youtube.com/watch?v=BTE6Pf10lB4",
+          "time": "6:29",
+          "seconds": 389
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "3:45",
+          "seconds": 225
+        }
+      ]
+    },
+    "kyoto-higashiyama--k36": {
+      "sourceIds": [
+        "p_bf5385b78fc5342c"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "_64n7qi0tX0",
+          "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
+          "url": "https://www.youtube.com/watch?v=_64n7qi0tX0",
+          "time": "15:13",
+          "seconds": 913
+        }
+      ]
+    },
+    "kyoto-higashiyama--yojiya": {
+      "sourceIds": [
+        "p_fb8e3429e2ea31e8"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "0:35",
+          "seconds": 35
+        }
+      ]
+    }
+  },
+  "archived": []
+}

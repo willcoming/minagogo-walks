@@ -1,72 +1,96 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
-      "id": "kawagoe--taisho",
+      "id": "kawagoe--vanitoy",
       "order": 1,
-      "name": "大正浪漫夢通り",
-      "address": "埼玉県川越市連雀町・仲町周辺",
-      "group": "shops",
-      "categoryLabel": "近代街景",
-      "caption": "從藏造老街，換一段大正的表情。",
+      "name": "バニトイベーグル 川越店",
+      "address": "埼玉県川越市南通町15-1 金口ビル1F",
+      "group": "food",
+      "categoryLabel": "外帶貝果",
+      "caption": "在車站旁，帶一份明早也喜歡的麵包。",
       "descriptionParagraphs": [
-        "大正浪漫夢通將町屋、洋風看板建築與石板路連在一起，街景和藏造一番街有著不同的韻味。舊商店街撤去拱廊後，重新整理街道尺度，讓天空與立面變得更開闊。",
-        "可以沿路看看喫茶、書店與老店的門面，也可順路走進蓮馨寺或熊野神社。這一段適合放在本川越站與一番街之間，讓建築的變化成為散步的線索。"
+        "バニトイベーグル川越店位在川越站附近的小路，提供多種口味的貝果。小巧店面以外帶為主，圓潤的麵包與不同配料，適合依口味慢慢挑選。",
+        "這一站在主要藏造街區的南側，可以安排在抵達川越站時先買，或回程再停一下。帶回家當早餐，也能讓散步的味道延續到隔天。"
       ],
-      "description": "大正浪漫夢通將町屋、洋風看板建築與石板路連在一起，街景和藏造一番街有著不同的韻味。舊商店街撤去拱廊後，重新整理街道尺度，讓天空與立面變得更開闊。\n\n可以沿路看看喫茶、書店與老店的門面，也可順路走進蓮馨寺或熊野神社。這一段適合放在本川越站與一番街之間，讓建築的變化成為散步的線索。",
-      "note": "",
-      "official": "https://koedo.com/",
+      "description": "バニトイベーグル川越店位在川越站附近的小路，提供多種口味的貝果。小巧店面以外帶為主，圓潤的麵包與不同配料，適合依口味慢慢挑選。\n\n這一站在主要藏造街區的南側，可以安排在抵達川越站時先買，或回程再停一下。帶回家當早餐，也能讓散步的味道延續到隔天。",
+      "note": "僅供外帶，星期二店休。 延伸地點：不在推薦路線內，請另外預留往返時間。",
+      "official": "https://www.vanitoy.com/shop.html",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "-UCmS86LwKs",
+          "title": "cafe vlog｜川 越 食 べ 歩 き グ ル メ 10 選 ／2022年保存版／猫まんま／おだんご／お蕎麦屋さん",
+          "url": "https://www.youtube.com/watch?v=-UCmS86LwKs",
+          "time": "7:15",
+          "seconds": 435
+        }
+      ],
       "coordinate": {
-        "lat": 35.919507816666666,
-        "lng": 139.4835861166667,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/way/35205995",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+        "lat": 35.909935,
+        "lng": 139.484863,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%8D%97%E9%80%9A%E7%94%BA15-1",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「埼玉県川越市南通町１５番」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
       },
       "illustration": {
-        "image": "/art/walks/kawagoe/taisho.webp",
-        "alt": "大正浪漫夢通り的日系水彩插圖"
+        "image": "/art/walks/kawagoe/vanitoy.webp",
+        "alt": "バニトイベーグル 川越店的日系水彩插圖"
       },
-      "recommendation": "沿石疊街道看町屋與看板建築，逛一兩間感興趣的店。"
+      "extension": true,
+      "sourceLibraryIds": [
+        "p_6b559b83f036c12c"
+      ]
     },
     {
-      "id": "kawagoe--kumano",
-      "order": 2,
-      "name": "川越熊野神社",
-      "address": "埼玉県川越市連雀町17-1",
-      "group": "sights",
-      "categoryLabel": "街區神社",
-      "caption": "跟著八咫烏的記號，走進小小境內。",
+      "id": "kawagoe--p_dd7e46911c2680ca",
+      "name": "glin coffee大工町2号店",
+      "address": "埼玉県川越市連雀町27-1（影片記錄的舊址）",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中的大工町舊店址",
       "descriptionParagraphs": [
-        "川越熊野神社以三足八咫烏作為社紋，是街區中受到親近的開運與結緣神社。木造拜殿與樹木構成安靜景色，參道旁還有鋪著小石的足踏路，讓參拜多了一點可親近的趣味。",
-        "境內不大，適合從大正浪漫夢通繞進來短暫停留。看完拜殿、石狛犬與小庭院，再回到相鄰的商店街，神社便成為街角散步的一個自然轉折。"
+        "影片記錄的是 glin coffee 大工町 2 號店。品牌官方沿革確認，這間分店已在 2022 年 10 月遷往伊佐沼。",
+        "原始資料記錄的地址為 埼玉県川越市連雀町27-1（影片記錄的舊址）。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "description": "川越熊野神社以三足八咫烏作為社紋，是街區中受到親近的開運與結緣神社。木造拜殿與樹木構成安靜景色，參道旁還有鋪著小石的足踏路，讓參拜多了一點可親近的趣味。\n\n境內不大，適合從大正浪漫夢通繞進來短暫停留。看完拜殿、石狛犬與小庭院，再回到相鄰的商店街，神社便成為街角散步的一個自然轉折。",
-      "note": "",
-      "official": "https://kawagoekumano.jp/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
+      "note": "此分店已遷移。官方沿革記載 2022 年 10 月大工町店遷往伊佐沼；保留影片收錄記錄，請勿依舊址前往用餐。",
       "coordinate": {
-        "lat": 35.91902338125,
-        "lng": 139.48322044375,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/way/682103596",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+        "lat": 35.91851,
+        "lng": 139.481079,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E9%80%A3%E9%9B%80%E7%94%BA27-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
-      "illustration": {
-        "image": "/art/walks/kawagoe/kumano.webp",
-        "alt": "川越熊野神社的日系水彩插圖"
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "-UCmS86LwKs",
+          "title": "cafe vlog｜川 越 食 べ 歩 き グ ル メ 10 選 ／2022年保存版／猫まんま／おだんご／お蕎麦屋さん",
+          "url": "https://www.youtube.com/watch?v=-UCmS86LwKs",
+          "time": "0:16",
+          "seconds": 16
+        }
+      ],
+      "official": "https://glincoffee.jp/pages/company",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_dd7e46911c2680ca"
+        ],
+        "status": "relocated",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/glincoffee+Nariyukika+1+Do/data=!4m7!3m6!1s0x6018da6184ac5555:0x58c7ba38215a44d!8m2!3d35.9246233!4d139.4850899!16s%2Fg%2F11c7sz3yw0!19sChIJVVWshGHaGGARTaQVgqN7jAU?authuser=0&hl=zh-TW&rclk=1"
       },
-      "recommendation": null
+      "order": 2
     },
     {
       "id": "kawagoe--renkeiji",
@@ -102,8 +126,74 @@
       "recommendation": null
     },
     {
-      "id": "kawagoe--pudding",
+      "id": "kawagoe--kumano",
       "order": 4,
+      "name": "川越熊野神社",
+      "address": "埼玉県川越市連雀町17-1",
+      "group": "sights",
+      "categoryLabel": "街區神社",
+      "caption": "跟著八咫烏的記號，走進小小境內。",
+      "descriptionParagraphs": [
+        "川越熊野神社以三足八咫烏作為社紋，是街區中受到親近的開運與結緣神社。木造拜殿與樹木構成安靜景色，參道旁還有鋪著小石的足踏路，讓參拜多了一點可親近的趣味。",
+        "境內不大，適合從大正浪漫夢通繞進來短暫停留。看完拜殿、石狛犬與小庭院，再回到相鄰的商店街，神社便成為街角散步的一個自然轉折。"
+      ],
+      "description": "川越熊野神社以三足八咫烏作為社紋，是街區中受到親近的開運與結緣神社。木造拜殿與樹木構成安靜景色，參道旁還有鋪著小石的足踏路，讓參拜多了一點可親近的趣味。\n\n境內不大，適合從大正浪漫夢通繞進來短暫停留。看完拜殿、石狛犬與小庭院，再回到相鄰的商店街，神社便成為街角散步的一個自然轉折。",
+      "note": "",
+      "official": "https://kawagoekumano.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.91902338125,
+        "lng": 139.48322044375,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/682103596",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kawagoe/kumano.webp",
+        "alt": "川越熊野神社的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kawagoe--taisho",
+      "order": 5,
+      "name": "大正浪漫夢通り",
+      "address": "埼玉県川越市連雀町・仲町周辺",
+      "group": "shops",
+      "categoryLabel": "近代街景",
+      "caption": "從藏造老街，換一段大正的表情。",
+      "descriptionParagraphs": [
+        "大正浪漫夢通將町屋、洋風看板建築與石板路連在一起，街景和藏造一番街有著不同的韻味。舊商店街撤去拱廊後，重新整理街道尺度，讓天空與立面變得更開闊。",
+        "可以沿路看看喫茶、書店與老店的門面，也可順路走進蓮馨寺或熊野神社。這一段適合放在本川越站與一番街之間，讓建築的變化成為散步的線索。"
+      ],
+      "description": "大正浪漫夢通將町屋、洋風看板建築與石板路連在一起，街景和藏造一番街有著不同的韻味。舊商店街撤去拱廊後，重新整理街道尺度，讓天空與立面變得更開闊。\n\n可以沿路看看喫茶、書店與老店的門面，也可順路走進蓮馨寺或熊野神社。這一段適合放在本川越站與一番街之間，讓建築的變化成為散步的線索。",
+      "note": "",
+      "official": "https://koedo.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.919507816666666,
+        "lng": 139.4835861166667,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/35205995",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kawagoe/taisho.webp",
+        "alt": "大正浪漫夢通り的日系水彩插圖"
+      },
+      "recommendation": "沿石疊街道看町屋與看板建築，逛一兩間感興趣的店。"
+    },
+    {
+      "id": "kawagoe--pudding",
+      "order": 6,
       "name": "川越プリン",
       "address": "埼玉県川越市幸町1-13",
       "group": "food",
@@ -141,11 +231,14 @@
         "image": "/art/walks/kawagoe/pudding.webp",
         "alt": "川越プリン的日系水彩插圖"
       },
-      "recommendation": "挑一瓶布丁作為點心或伴手禮，不必排滿所有名店。"
+      "recommendation": "挑一瓶布丁作為點心或伴手禮，不必排滿所有名店。",
+      "sourceLibraryIds": [
+        "p_31a251818b6b1971"
+      ]
     },
     {
       "id": "kawagoe--kurazukuri",
-      "order": 5,
+      "order": 7,
       "name": "くらづくり本舗 一番街店",
       "address": "埼玉県川越市幸町2-16",
       "group": "shops",
@@ -183,11 +276,14 @@
         "image": "/art/walks/kawagoe/kurazukuri.webp",
         "alt": "くらづくり本舗 一番街店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_95a5a590370fac08"
+      ]
     },
     {
       "id": "kawagoe--juan",
-      "order": 6,
+      "order": 8,
       "name": "寿庵 蔵のまち店",
       "address": "埼玉県川越市幸町3-18",
       "group": "food",
@@ -225,11 +321,14 @@
         "image": "/art/walks/kawagoe/juan.webp",
         "alt": "寿庵 蔵のまち店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_e6320c92bf9396d4"
+      ]
     },
     {
       "id": "kawagoe--nakaichi",
-      "order": 7,
+      "order": 9,
       "name": "中市本店",
       "address": "埼玉県川越市幸町5-2",
       "group": "food",
@@ -267,11 +366,14 @@
         "image": "/art/walks/kawagoe/nakaichi.webp",
         "alt": "中市本店的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_b0e00433096a34e4"
+      ]
     },
     {
       "id": "kawagoe--bell",
-      "order": 8,
+      "order": 10,
       "name": "時の鐘",
       "address": "埼玉県川越市幸町15-7",
       "group": "sights",
@@ -304,7 +406,7 @@
     },
     {
       "id": "kawagoe--starbucks",
-      "order": 9,
+      "order": 11,
       "name": "スターバックス 川越鐘つき通り店",
       "address": "埼玉県川越市幸町15-18",
       "group": "food",
@@ -337,7 +439,7 @@
     },
     {
       "id": "kawagoe--osatsu",
-      "order": 10,
+      "order": 12,
       "name": "小江戸おさつ庵",
       "address": "埼玉県川越市幸町15-21",
       "group": "food",
@@ -375,11 +477,14 @@
         "image": "/art/walks/kawagoe/osatsu.webp",
         "alt": "小江戸おさつ庵的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_de0cfe29b90875b7"
+      ]
     },
     {
       "id": "kawagoe--festival",
-      "order": 11,
+      "order": 13,
       "name": "川越まつり会館",
       "address": "埼玉県川越市元町2-1-10",
       "group": "sights",
@@ -412,7 +517,7 @@
     },
     {
       "id": "kawagoe--miyako",
-      "order": 12,
+      "order": 14,
       "name": "都屋・横丁の焼きだんご",
       "address": "埼玉県川越市元町2-3-16",
       "group": "food",
@@ -450,11 +555,59 @@
         "image": "/art/walks/kawagoe/miyako.webp",
         "alt": "都屋・横丁の焼きだんご的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_526b39f59d4b8892"
+      ]
+    },
+    {
+      "id": "kawagoe--p_a19b544f6e31c30e",
+      "name": "江戸飴細工 鈴木",
+      "address": "埼玉県川越市元町2-7-7",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「江戸飴細工 鈴木」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 埼玉県川越市元町2-7-7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.924809,
+        "lng": 139.481369,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%85%83%E7%94%BA2-7-7",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "-UCmS86LwKs",
+          "title": "cafe vlog｜川 越 食 べ 歩 き グ ル メ 10 選 ／2022年保存版／猫まんま／おだんご／お蕎麦屋さん",
+          "url": "https://www.youtube.com/watch?v=-UCmS86LwKs",
+          "time": "3:02",
+          "seconds": 182
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a19b544f6e31c30e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Suzuki's+Amezaiku/@35.9246326,139.4811351,17z/data=!3m1!4b1!4m6!3m5!1s0x6018dbf935e69ead:0x148ff825aa8e8583!8m2!3d35.9246326!4d139.4811351!16s%2Fg%2F11gwkn1r62?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "order": 15
     },
     {
       "id": "kawagoe--kashiya",
-      "order": 13,
+      "order": 16,
       "name": "菓子屋横丁",
       "address": "埼玉県川越市元町2丁目周辺",
       "group": "shops",
@@ -487,7 +640,7 @@
     },
     {
       "id": "kawagoe--lec",
-      "order": 14,
+      "order": 17,
       "name": "Little Edo Coffee（LEC）",
       "address": "埼玉県川越市志多町2-1",
       "group": "food",
@@ -525,7 +678,10 @@
         "image": "/art/walks/kawagoe/lec.webp",
         "alt": "Little Edo Coffee（LEC）的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_1ea35e82bf4fddca"
+      ]
     }
   ],
   "routes": [
@@ -534,7 +690,10 @@
       "name": "鐘聲與菓子橫丁",
       "ids": [
         "kawagoe--bell",
+        "kawagoe--osatsu",
         "kawagoe--starbucks",
+        "kawagoe--festival",
+        "kawagoe--miyako",
         "kawagoe--kashiya"
       ],
       "start": {
@@ -555,21 +714,33 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "在時之鐘與菓子屋橫丁之間，慢慢挑一份小江戶的甜味。",
       "note": "想看展覽時，可用川越祭會館替換部分小吃與逛街時間。",
       "stopNotes": {
         "kawagoe--bell": "抬頭看木造鐘樓，停一會兒拍照。",
         "kawagoe--starbucks": "在鐘樓旁喝杯咖啡。",
-        "kawagoe--kashiya": "慢逛點心小巷，挑喜歡的伴手禮。"
+        "kawagoe--kashiya": "慢逛點心小巷，挑喜歡的伴手禮。",
+        "kawagoe--festival": "順路可選：不用等到祭日，也能走近山車。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kawagoe--osatsu": "順路可選：把川越的芋香，切成一片金黃。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kawagoe--miyako": "順路可選：用醬油與焦香，記住橫丁的一口。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kawagoe/bell.webp"
+      "art": "/art/walks/kawagoe/bell.webp",
+      "highlightIds": [
+        "kawagoe--bell",
+        "kawagoe--starbucks",
+        "kawagoe--kashiya"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kawagoe-taisho-and-pudding",
       "name": "大正街景與一瓶甜味",
       "ids": [
         "kawagoe--taisho",
+        "kawagoe--kurazukuri",
+        "kawagoe--nakaichi",
+        "kawagoe--juan",
         "kawagoe--pudding"
       ],
       "start": {
@@ -590,15 +761,40 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "把腳步留在大正浪漫夢通與附近商家，挑一瓶川越甜味再慢慢回站。",
       "note": "川越布丁既有地點為幸町的 1 號店，屬外帶店；坐下休息可另從附近自選，排隊另計。沿途小店營業日各異。",
       "stopNotes": {
         "kawagoe--taisho": "沿石疊街道看町屋與看板建築，逛一兩間感興趣的店。",
-        "kawagoe--pudding": "挑一瓶布丁作為點心或伴手禮，不必排滿所有名店。"
+        "kawagoe--pudding": "挑一瓶布丁作為點心或伴手禮，不必排滿所有名店。",
+        "kawagoe--kurazukuri": "順路可選：走進老店，挑一份帶回家的川越。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kawagoe--juan": "順路可選：讓一碗茶蕎麥，替散步留一段午餐。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kawagoe--nakaichi": "順路可選：用鰹節的香氣，替甜味散步換個口味。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kawagoe/taisho.webp"
+      "art": "/art/walks/kawagoe/taisho.webp",
+      "highlightIds": [
+        "kawagoe--taisho",
+        "kawagoe--pudding"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kawagoe-slow-walk"
+  "defaultSelection": "kawagoe-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_de0cfe29b90875b7",
+      "p_31a251818b6b1971",
+      "p_b0e00433096a34e4",
+      "p_e6320c92bf9396d4",
+      "p_526b39f59d4b8892",
+      "p_1ea35e82bf4fddca",
+      "p_95a5a590370fac08",
+      "p_6b559b83f036c12c",
+      "p_a19b544f6e31c30e",
+      "p_dd7e46911c2680ca"
+    ],
+    "added": 2,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

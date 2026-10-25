@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
@@ -504,6 +504,9 @@
       "name": "沿本町讀織都",
       "ids": [
         "kiryu--yurinkan",
+        "kiryu--machinaka",
+        "kiryu--fujiya",
+        "kiryu--ichinoyu",
         "kiryu--tenmangu",
         "kiryu--renga"
       ],
@@ -525,21 +528,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "倉庫、老茶舖與鋸齒屋頂，沿本町展開織都的午後。",
       "note": "這區車站往返步行較長，預留約三小時；一之湯先作外觀選點，入浴另排時間。",
       "stopNotes": {
         "kiryu--yurinkan": "看倉庫群建築與當期開放空間。",
         "kiryu--tenmangu": "走到老街北端，停下參拜。",
-        "kiryu--renga": "在鋸齒屋頂的烘焙咖啡店休息。"
+        "kiryu--renga": "在鋸齒屋頂的烘焙咖啡店休息。",
+        "kiryu--machinaka": "順路可選：走進一座家，讀懂老街的格局。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kiryu--ichinoyu": "順路可選：把老街的尾聲，留給一池熱水。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kiryu--fujiya": "順路可選：把寬麵的形狀，記成桐生的一餐。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kiryu/yurinkan.webp"
+      "art": "/art/walks/kiryu/yurinkan.webp",
+      "highlightIds": [
+        "kiryu--yurinkan",
+        "kiryu--tenmangu",
+        "kiryu--renga"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kiryu-textiles-and-art",
       "name": "織物與山丘美術館",
       "ids": [
         "kiryu--orimono",
+        "kiryu--station",
         "kiryu--okawa"
       ],
       "start": {
@@ -560,15 +573,27 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "從織都的布料與老建築，走到山丘上的一場美術展。",
       "note": "往大川美術館有坡道；館方週一休館，假日改翌日，另有換展休館。織物販售場依每月公告休息；大川館內咖啡目前限週末及假日開放。",
       "stopNotes": {
         "kiryu--orimono": "看織物資料與建築，再依開放情況逛販售場。",
-        "kiryu--okawa": "選當期展覽慢看，將餘下時間留給山丘與回程街景。"
+        "kiryu--okawa": "選當期展覽慢看，將餘下時間留給山丘與回程街景。",
+        "kiryu--station": "順路可選：在列車抵達之前，看看一座老站舍。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kiryu/okawa.webp"
+      "art": "/art/walks/kiryu/okawa.webp",
+      "highlightIds": [
+        "kiryu--orimono",
+        "kiryu--okawa"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kiryu-slow-walk"
+  "defaultSelection": "kiryu-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

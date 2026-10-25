@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "imai--takagi",
@@ -338,6 +338,9 @@
       "name": "町家細節與一杯慢咖啡",
       "ids": [
         "imai--kometani",
+        "imai--machiyakan",
+        "imai--shonenji",
+        "imai--jippensha",
         "imai--narawashi",
         "imai--tamayura"
       ],
@@ -359,22 +362,34 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "在小小寺內町裡看木格、瓦屋與老舖，挑一間町家走進去。",
       "note": "町家展館可擇一深入；今西家需事前預約，高木家依當日掛牌開放。咖啡與選物店有各自休息日，挑兩三站即可，不必逐一入內。",
       "stopNotes": {
         "imai--kometani": "從土間、木梁與庭園，讀懂町家的生活。",
         "imai--narawashi": "在老長屋裡，挑選奈良的食物與器物。",
-        "imai--tamayura": "坐下喝茶或咖啡，讓街角發現有空白。"
+        "imai--tamayura": "坐下喝茶或咖啡，讓街角發現有空白。",
+        "imai--shonenji": "順路可選：在寺內町的中心，停一段安靜時間。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "imai--machiyakan": "順路可選：用一座復原町家，讀懂街區的基本格局。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "imai--jippensha": "順路可選：把季節蔬菜，做成可以帶走的味道。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/imai/kometani.webp"
+      "art": "/art/walks/imai/kometani.webp",
+      "highlightIds": [
+        "imai--kometani",
+        "imai--narawashi",
+        "imai--tamayura"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "imai-windows-and-temple-town",
       "name": "從格子窗讀懂寺內町",
       "ids": [
         "imai--keikan",
+        "imai--kometani",
         "imai--machiyakan",
+        "imai--narawashi",
+        "imai--jippensha",
         "imai--shonenji"
       ],
       "start": {
@@ -395,16 +410,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "從復原町家的格局開始，在幾條街之間看看木窗與瓦簷，再找到寺內町的起點。",
       "note": "今井町家館12:00～13:00午休，年末年始另休；景觀支援中心依當日開放區域參觀，稱念寺以開門及允許範圍為準。只選一座町家深入，其餘短看，保留 30～45 分鐘自由探索；住宅巷弄請放低音量。",
       "stopNotes": {
         "imai--keikan": "先看看復原的町家空間，再帶著對格局的印象走進街區。",
         "imai--machiyakan": "把這座館作主要室內停留，留意木梁、土間與房間的連續。",
-        "imai--shonenji": "看看寺內町核心寺院的外觀，在開放範圍內安靜停留。"
+        "imai--shonenji": "看看寺內町核心寺院的外觀，在開放範圍內安靜停留。",
+        "imai--kometani": "順路可選：從寬敞土間，走向安靜的後院。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "imai--jippensha": "順路可選：把季節蔬菜，做成可以帶走的味道。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "imai--narawashi": "順路可選：老長屋裡，收集奈良的食物與好物。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/imai/keikan.webp"
+      "art": "/art/walks/imai/keikan.webp",
+      "highlightIds": [
+        "imai--keikan",
+        "imai--machiyakan",
+        "imai--shonenji"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "imai-slow-walk"
+  "defaultSelection": "imai-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

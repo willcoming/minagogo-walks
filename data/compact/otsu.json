@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "otsu--tenson",
@@ -339,6 +339,7 @@
       "ids": [
         "otsu--hikiyama",
         "otsu--mochi",
+        "otsu--hall",
         "otsu--port"
       ],
       "start": {
@@ -359,15 +360,22 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "從大津祭的街道到港邊，選一間和菓子店，留時間看看琵琶湖。",
       "note": "十個地點供挑選，主線以三站為重點，保留 30～45 分鐘自由逛街與休息。湖岸只走港邊至祭典廣場，不延伸到膳所或三井寺；遊船與寺院室內導覽需另外安排時間。",
       "stopNotes": {
         "otsu--hikiyama": "從曳山與機關人偶，看懂這座城的祭典。",
         "otsu--mochi": "吃一份灑滿黃豆粉的力餅，坐下休息。",
-        "otsu--port": "沿湖吹風後，輕鬆走回電車站。"
+        "otsu--port": "沿湖吹風後，輕鬆走回電車站。",
+        "otsu--hall": "順路可選：在街角洋樓前，看見老城的新用途。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/otsu/port.webp"
+      "art": "/art/walks/otsu/port.webp",
+      "highlightIds": [
+        "otsu--hikiyama",
+        "otsu--mochi",
+        "otsu--port"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "otsu-arcades-and-folk-art",
@@ -395,7 +403,7 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "沿著連成一片的生活商店街，挑一份和菓子，再到民畫小店看看大津的幽默表情。",
       "note": "叶匠壽庵長等總本店以店頭選購為主，通常週三休息並依月曆調整；大津繪之店第一、第三個週日休息。保留 30～45 分鐘自由逛街與自行選休息點；不把三井寺登坡或遊船加入同一時段，各店休業依當日公告。",
       "stopNotes": {
@@ -403,8 +411,20 @@
         "otsu--kanou": "依當日陳列挑一份和菓子帶走，確認保存與賞味期限。",
         "otsu--otsue": "從民畫的表情、筆線與題材，選一張喜歡的畫或明信片。"
       },
-      "art": "/art/walks/otsu/arcade.webp"
+      "art": "/art/walks/otsu/arcade.webp",
+      "highlightIds": [
+        "otsu--arcade",
+        "otsu--kanou",
+        "otsu--otsue"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "otsu-slow-walk"
+  "defaultSelection": "otsu-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

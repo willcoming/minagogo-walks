@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
@@ -69,8 +69,49 @@
       "recommendation": null
     },
     {
+      "id": "sawara--p_a3d238488dfaff0b",
+      "name": "Sawara Merchant Town Hotel NIPPONIA KAGURA",
+      "address": "I-1708-2 Sawara, Katori, Chiba 287-0003",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sawara Merchant Town Hotel NIPPONIA KAGURA」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 I-1708-2 Sawara, Katori, Chiba 287-0003。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.8885061,
+        "lng": 140.49524739999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "7:16",
+          "seconds": 436
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a3d238488dfaff0b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14361266519961008414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 3
+    },
+    {
       "id": "sawara--leun",
-      "order": 3,
+      "order": 4,
       "name": "LE UN 佐原商家町ホテル NIPPONIA",
       "address": "千葉県香取市佐原イ1708-2 KAGURA棟",
       "group": "food",
@@ -112,7 +153,7 @@
     },
     {
       "id": "sawara--ino-museum",
-      "order": 4,
+      "order": 5,
       "name": "伊能忠敬記念館",
       "address": "千葉県香取市佐原イ1722-1",
       "group": "sights",
@@ -145,7 +186,7 @@
     },
     {
       "id": "sawara--toyo-bridge",
-      "order": 5,
+      "order": 6,
       "name": "樋橋（じゃあじゃあ橋）",
       "address": "千葉県香取市佐原イ 伊能忠敬旧宅前",
       "group": "sights",
@@ -178,7 +219,7 @@
     },
     {
       "id": "sawara--ino-residence",
-      "order": 6,
+      "order": 7,
       "name": "伊能忠敬旧宅",
       "address": "千葉県香取市佐原イ1900-1",
       "group": "sights",
@@ -200,6 +241,14 @@
           "url": "https://www.youtube.com/watch?v=qe945dPQArM",
           "time": "",
           "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "10:41",
+          "seconds": 641
         }
       ],
       "coordinate": {
@@ -216,11 +265,14 @@
         "image": "/art/walks/sawara/ino-residence.webp",
         "alt": "伊能忠敬旧宅的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_63478ac23af841d8"
+      ]
     },
     {
       "id": "sawara--mitsubishi",
-      "order": 7,
+      "order": 8,
       "name": "佐原三菱館・町並み交流館",
       "address": "千葉県香取市佐原イ1903-1",
       "group": "sights",
@@ -253,7 +305,7 @@
     },
     {
       "id": "sawara--suppinya",
-      "order": 8,
+      "order": 9,
       "name": "素顔屋（すっぴんや）",
       "address": "千葉県香取市佐原イ3396",
       "group": "shops",
@@ -275,6 +327,14 @@
           "url": "https://www.youtube.com/watch?v=qe945dPQArM",
           "time": "",
           "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "17:06",
+          "seconds": 1026
         }
       ],
       "coordinate": {
@@ -291,11 +351,14 @@
         "image": "/art/walks/sawara/suppinya.webp",
         "alt": "素顔屋（すっぴんや）的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_7545204d045b397b"
+      ]
     },
     {
       "id": "sawara--nakamuraya",
-      "order": 9,
+      "order": 10,
       "name": "中村屋商店",
       "address": "千葉県香取市佐原イ1720",
       "group": "shops",
@@ -328,7 +391,7 @@
     },
     {
       "id": "sawara--kobori",
-      "order": 10,
+      "order": 11,
       "name": "小堀屋本店",
       "address": "千葉県香取市佐原イ505",
       "group": "food",
@@ -361,7 +424,7 @@
     },
     {
       "id": "sawara--fukushin",
-      "order": 11,
+      "order": 12,
       "name": "福新呉服店",
       "address": "千葉県香取市佐原イ505",
       "group": "shops",
@@ -394,7 +457,7 @@
     },
     {
       "id": "sawara--inae",
-      "order": 12,
+      "order": 13,
       "name": "いなえ",
       "address": "千葉県香取市佐原イ511",
       "group": "food",
@@ -427,7 +490,7 @@
     },
     {
       "id": "sawara--machiya",
-      "order": 13,
+      "order": 14,
       "name": "さわら町屋館",
       "address": "千葉県香取市佐原イ499-1",
       "group": "sights",
@@ -460,7 +523,7 @@
     },
     {
       "id": "sawara--shojou",
-      "order": 14,
+      "order": 15,
       "name": "いかだ焼本舗 正上",
       "address": "千葉県香取市佐原イ3406",
       "group": "shops",
@@ -493,7 +556,7 @@
     },
     {
       "id": "sawara--dashi",
-      "order": 15,
+      "order": 16,
       "name": "水郷佐原山車会館",
       "address": "千葉県香取市佐原イ3368 八坂神社境内",
       "group": "sights",
@@ -523,6 +586,59 @@
         "alt": "水郷佐原山車会館的日系水彩插圖"
       },
       "recommendation": "看看山車、雕刻與祭典文化，挑感興趣的展示細看。"
+    },
+    {
+      "id": "sawara--mizunosato",
+      "order": 17,
+      "name": "道の駅・川の駅 水の郷さわら",
+      "address": "千葉県香取市佐原イ3981-2（道の駅）・4051-3（川の駅）",
+      "group": "shops",
+      "categoryLabel": "河岸市場",
+      "caption": "想再多走一段，就把視線交給利根川。",
+      "descriptionParagraphs": [
+        "水の郷さわら把道之驛與川之驛放在利根川河岸，提供地方農產、伴手禮、餐飲與水邊體驗。寬闊河面與停泊的船，讓小野川商家町的水運故事延伸到今天的河岸。",
+        "位置在主要老街東北側，適合體力充足時另留一段往返。可以挑些地方食材，坐下看河，再決定是否安排當天可參加的船遊等體驗。"
+      ],
+      "description": "水の郷さわら把道之驛與川之驛放在利根川河岸，提供地方農產、伴手禮、餐飲與水邊體驗。寬闊河面與停泊的船，讓小野川商家町的水運故事延伸到今天的河岸。\n\n位置在主要老街東北側，適合體力充足時另留一段往返。可以挑些地方食材，坐下看河，再決定是否安排當天可參加的船遊等體驗。",
+      "note": "此處為老街外的延伸點；川之驛星期一休館，遇假日則翌日休，另有年末年初及點檢休館日。 延伸地點：不在推薦路線內，請另外預留往返時間。",
+      "official": "https://www.e-sawara.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "19:50",
+          "seconds": 1190
+        }
+      ],
+      "coordinate": {
+        "lat": 35.89621192941176,
+        "lng": 140.50652142156864,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/62111068",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/mizunosato.webp",
+        "alt": "道の駅・川の駅 水の郷さわら的日系水彩插圖"
+      },
+      "extension": true,
+      "sourceLibraryIds": [
+        "p_e6c8fe87746530fc"
+      ]
     }
   ],
   "routes": [
@@ -531,6 +647,9 @@
       "name": "小野川與地圖的故事",
       "ids": [
         "sawara--inae",
+        "sawara--fukushin",
+        "sawara--kobori",
+        "sawara--nakamuraya",
         "sawara--toyo-bridge",
         "sawara--ino-museum"
       ],
@@ -552,15 +671,24 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "沿小野川看商家老街，再走進伊能忠敬的地圖故事。",
       "note": "老商家與町屋可沿途自由停留；紀念館休館時改逛舊宅與老街。",
       "stopNotes": {
         "sawara--inae": "在老屋裡喝茶、吃一份甘味。",
         "sawara--toyo-bridge": "沿橋邊與河岸看商家風景。",
-        "sawara--ino-museum": "看看地圖與測量旅行的故事。"
+        "sawara--ino-museum": "看看地圖與測量旅行的故事。",
+        "sawara--nakamuraya": "順路可選：從一件手作小物，走近土藏裡的生活。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sawara--kobori": "順路可選：在老蕎麥店，認識一碗黑色的麵。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sawara--fukushin": "順路可選：從一條手巾，讀出商家町的紋樣。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/sawara/inae.webp"
+      "art": "/art/walks/sawara/inae.webp",
+      "highlightIds": [
+        "sawara--inae",
+        "sawara--toyo-bridge",
+        "sawara--ino-museum"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "sawara-festival-and-merchants",
@@ -568,6 +696,9 @@
       "ids": [
         "sawara--dashi",
         "sawara--shojou",
+        "sawara--machiya",
+        "sawara--nakamuraya",
+        "sawara--suppinya",
         "sawara--mitsubishi"
       ],
       "start": {
@@ -588,16 +719,36 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "從祭典山車到佃煮老舖與紅磚洋館，讀一段佐原商家町的日常。",
       "note": "山車會館週一休館，假日順延，另有年末年始休館；三菱館依當期開館公告安排，關閉時可看外觀。老舖以購物為主，休息留在自由探索時間。",
       "stopNotes": {
         "sawara--dashi": "看看山車、雕刻與祭典文化，挑感興趣的展示細看。",
         "sawara--shojou": "走進老舖挑一份佃煮，看看商家建築。",
-        "sawara--mitsubishi": "欣賞紅磚洋館與館內開放空間，再慢走回車站。"
+        "sawara--mitsubishi": "欣賞紅磚洋館與館內開放空間，再慢走回車站。",
+        "sawara--suppinya": "順路可選：在三棟老屋之間，挑一份樸實小物。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sawara--machiya": "順路可選：走到水邊，找一段可以坐下的空白。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sawara--nakamuraya": "順路可選：從一件手作小物，走近土藏裡的生活。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/sawara/dashi.webp"
+      "art": "/art/walks/sawara/dashi.webp",
+      "highlightIds": [
+        "sawara--dashi",
+        "sawara--shojou",
+        "sawara--mitsubishi"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "sawara-slow-walk"
+  "defaultSelection": "sawara-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_63478ac23af841d8",
+      "p_7545204d045b397b",
+      "p_e6c8fe87746530fc",
+      "p_a3d238488dfaff0b"
+    ],
+    "added": 1,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

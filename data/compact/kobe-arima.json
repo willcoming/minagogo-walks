@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "kobe-arima--kago",
@@ -346,7 +346,10 @@
       "name": "湯本坂的竹藝與茶香",
       "ids": [
         "kobe-arima--kago",
+        "kobe-arima--gin",
+        "kobe-arima--tosen",
         "kobe-arima--onsenji",
+        "kobe-arima--onsendo",
         "kobe-arima--nenbutsuji"
       ],
       "start": {
@@ -367,22 +370,34 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "沿湯本坂走進竹編老舖與寺院，留一段時間給庭園喫茶。",
       "note": "核心街區有坡道；湯泉神社的階梯可依體力略過。金之湯、銀之湯與玩具館擇一替換主要停留，完整泡湯、候位或展館深度參觀另留時間。",
       "stopNotes": {
         "kobe-arima--kago": "在竹編器物之間，看看有馬的日常手藝。",
         "kobe-arima--onsenji": "慢慢上坡，到古寺前停一會兒。",
-        "kobe-arima--nenbutsuji": "在庭園旁喝茶，把餘裕留給老街。"
+        "kobe-arima--nenbutsuji": "在庭園旁喝茶，把餘裕留給老街。",
+        "kobe-arima--gin": "順路可選：在坡道旁的浴場，留一段溫泉時間。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-arima--onsendo": "順路可選：在泉源旁，挑一件有馬日常小物。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-arima--tosen": "順路可選：沿著石階，望向溫泉鄉的守護神社。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kobe-arima/kago.webp"
+      "art": "/art/walks/kobe-arima/kago.webp",
+      "highlightIds": [
+        "kobe-arima--kago",
+        "kobe-arima--onsenji",
+        "kobe-arima--nenbutsuji"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kobe-arima-toys-and-hot-spring-souvenirs",
       "name": "玩具與溫泉街小物",
       "ids": [
         "kobe-arima--toys",
+        "kobe-arima--kin",
         "kobe-arima--mitsumori",
+        "kobe-arima--onsenji",
+        "kobe-arima--nenbutsuji",
         "kobe-arima--onsendo"
       ],
       "start": {
@@ -403,16 +418,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "走進木玩具與機關世界，再沿小街挑炭酸煎餅和溫泉小物，讓有馬多一種輕巧逛法。",
       "note": "玩具博物館收費且不定期休館，溫泉堂亦不定休，先查當日公告。坡道慢行，三津森本舖以選購為主；本線不含完整泡湯或工作坊。保留 30～45 分鐘自由探索，入館與店舖候位另計。",
       "stopNotes": {
         "kobe-arima--toys": "留一段完整時間看看機關、木玩具與遊戲展示，不趕著看完每層。",
         "kobe-arima--mitsumori": "挑一份炭酸煎餅作伴手禮，店名與分店以現場地址核對。",
-        "kobe-arima--onsendo": "看看手巾、入浴用品等溫泉小物，再慢慢走回車站。"
+        "kobe-arima--onsendo": "看看手巾、入浴用品等溫泉小物，再慢慢走回車站。",
+        "kobe-arima--kin": "順路可選：在街角浴場，認識有馬的金泉。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-arima--nenbutsuji": "順路可選：坐在庭園旁，讓午後安靜一點。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-arima--onsenji": "順路可選：走到寺院前，讀一段溫泉街的來歷。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kobe-arima/toys.webp"
+      "art": "/art/walks/kobe-arima/toys.webp",
+      "highlightIds": [
+        "kobe-arima--toys",
+        "kobe-arima--mitsumori",
+        "kobe-arima--onsendo"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kobe-arima-slow-walk"
+  "defaultSelection": "kobe-arima-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

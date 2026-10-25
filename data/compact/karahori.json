@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
@@ -527,7 +527,10 @@
       "name": "長屋裡的生活器物",
       "ids": [
         "karahori--syuca",
+        "karahori--yuion",
+        "karahori--fusaya",
         "karahori--sou",
+        "karahori--dango",
         "karahori--ekchuah"
       ],
       "start": {
@@ -548,22 +551,34 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "沿商店街與長屋，慢慢找到器物、紙品與巧克力。",
       "note": "想吃正餐時，用舊ヤム邸替換巧克力咖啡休息。",
       "stopNotes": {
         "karahori--syuca": "看看器物與當期展覽。",
         "karahori--sou": "慢逛長屋裡各自獨立的小店。",
-        "karahori--ekchuah": "在老建築裡吃巧克力、喝咖啡。"
+        "karahori--ekchuah": "在老建築裡吃巧克力、喝咖啡。",
+        "karahori--dango": "順路可選：逛街的中途，留一口軟糯。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "karahori--fusaya": "順路可選：鐵板上的熱氣，把老街變熱鬧。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "karahori--yuion": "順路可選：走進長屋小路，換一壺茶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/karahori/syuca.webp"
+      "art": "/art/walks/karahori/syuca.webp",
+      "highlightIds": [
+        "karahori--syuca",
+        "karahori--sou",
+        "karahori--ekchuah"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "karahori-paper-tea-and-pantry",
       "name": "紙品、昆布與老屋茶",
       "ids": [
         "karahori--konbudoi",
+        "karahori--kyuyamutei",
         "karahori--emoji",
+        "karahori--syuca",
+        "karahori--mori",
         "karahori--yuion"
       ],
       "start": {
@@ -584,16 +599,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "把空堀的日常收進一小袋：老舖昆布、喜歡的紙品，再用一杯日本茶放慢腳步。",
       "note": "こんぶ土居週日與國定假日休息；結音茶舗週一、第三個週二休息，茶席安排在日間咖啡時段。紙品店依當日營業公告；昆布以店頭選購為主，未安排另外的資料館參觀。保留 30～45 分鐘自由探索，候位另計。",
       "stopNotes": {
         "karahori--konbudoi": "看看老舖的昆布與日常調味，挑一份容易帶走的小禮物。",
         "karahori--emoji": "在紙張、印刷與包裝圖案間，找一件合眼緣的小物。",
-        "karahori--yuion": "走進路地裡的老屋喝日本茶，讓休息成為行程重點。"
+        "karahori--yuion": "走進路地裡的老屋喝日本茶，讓休息成為行程重點。",
+        "karahori--kyuyamutei": "順路可選：老屋與香料，是另一種大阪味。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "karahori--mori": "順路可選：在長屋裡，翻開另一個世界。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "karahori--syuca": "順路可選：讓日常的餐桌，多一點手作溫度。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/karahori/konbudoi.webp"
+      "art": "/art/walks/karahori/konbudoi.webp",
+      "highlightIds": [
+        "karahori--konbudoi",
+        "karahori--emoji",
+        "karahori--yuion"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "karahori-slow-walk"
+  "defaultSelection": "karahori-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

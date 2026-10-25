@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "kyoto-fushimi--sasakipan",
@@ -330,6 +330,88 @@
         "alt": "御香宮神社的日系水彩插圖"
       },
       "recommendation": "看桃山風格社殿與境內名水。"
+    },
+    {
+      "id": "kyoto-fushimi--p_b7b5ba7c26c6e0c5",
+      "name": "伏見稻荷大社",
+      "address": "68 Fukakusa Yabunouchichō, Fushimi Ward, Kyoto, 612-0882",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「伏見稻荷大社」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 68 Fukakusa Yabunouchichō, Fushimi Ward, Kyoto, 612-0882。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 34.9676945,
+        "lng": 135.7791876,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "1:49",
+          "seconds": 109
+        },
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b7b5ba7c26c6e0c5",
+          "p_e0d5995132c391a6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=8870624639634301673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 11
+    },
+    {
+      "id": "kyoto-fushimi--p_049f187a6d1c8b33",
+      "name": "ABOUT US COFFEE FUSHIMI INARI",
+      "address": "22-15 Fukakusa Inaritoriimaecho, Fushimi Ward, Kyoto, 612-0014, Japan",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ABOUT US COFFEE FUSHIMI INARI」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 22-15 Fukakusa Inaritoriimaecho, Fushimi Ward, Kyoto, 612-0014, Japan。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_049f187a6d1c8b33"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=ABOUT+US+COFFEE+FUSHIMI+INARI+22-15+Fukakusa+Inaritoriimaecho%2C+Fushimi+Ward%2C+Kyoto%2C+612-0014%2C+Japan"
+      },
+      "order": 12
     }
   ],
   "routes": [
@@ -338,6 +420,8 @@
       "name": "名水、酒藏與老屋咖啡",
       "ids": [
         "kyoto-fushimi--gokonomiya",
+        "kyoto-fushimi--oishi",
+        "kyoto-fushimi--kappa",
         "kyoto-fushimi--gekkeikan",
         "kyoto-fushimi--yumehyakushu"
       ],
@@ -359,22 +443,33 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "從御香宮走向酒藏與老屋，沿京橋看一段水邊風景。",
       "note": "月桂冠紀念館先確認預約；想以戶外為主，可改走京橋與長建寺。完整用餐、乘船與候位另留時間。",
       "stopNotes": {
         "kyoto-fushimi--gokonomiya": "看桃山風格社殿與境內名水。",
         "kyoto-fushimi--gekkeikan": "認識伏見的釀酒工具與酒藏歷史。",
-        "kyoto-fushimi--yumehyakushu": "在舊本店建築裡喝杯咖啡休息。"
+        "kyoto-fushimi--yumehyakushu": "在舊本店建築裡喝杯咖啡休息。",
+        "kyoto-fushimi--oishi": "順路可選：在老舖裡，看歌牌與遊戲的手感。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-fushimi--kappa": "順路可選：河童、釀酒與老酒藏的記憶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-fushimi/yumehyakushu.webp"
+      "art": "/art/walks/kyoto-fushimi/yumehyakushu.webp",
+      "highlightIds": [
+        "kyoto-fushimi--gokonomiya",
+        "kyoto-fushimi--gekkeikan",
+        "kyoto-fushimi--yumehyakushu"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kyoto-fushimi-cards-and-waterside-lanes",
       "name": "歌牌老舖與水邊街巷",
       "ids": [
         "kyoto-fushimi--oishi",
+        "kyoto-fushimi--yumehyakushu",
+        "kyoto-fushimi--kappa",
         "kyoto-fushimi--ryoma",
+        "kyoto-fushimi--teradaya",
         "kyoto-fushimi--chokenji"
       ],
       "start": {
@@ -395,16 +490,35 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "從歌牌與棋具老舖向西逛小街，再走到紅色寺門，認識酒藏之外的伏見。",
       "note": "含三處重點、步行與 30～45 分鐘自由探索。大石天狗堂週日及國定假日休業；長建寺宜於日間參拜。店家各有營業日，完整用餐、酒藏入館與乘船另留時間。",
       "stopNotes": {
         "kyoto-fushimi--oishi": "看看歌牌圖樣與傳統遊戲用品；不安排未公告的工廠參觀。",
         "kyoto-fushimi--ryoma": "向西走進商店街，挑幾間有興趣的小店，自由安排點心或休息。",
-        "kyoto-fushimi--chokenji": "沿水邊街道往南，到紅色龍宮門前參拜後，再步行到中書島站。"
+        "kyoto-fushimi--chokenji": "沿水邊街道往南，到紅色龍宮門前參拜後，再步行到中書島站。",
+        "kyoto-fushimi--kappa": "順路可選：河童、釀酒與老酒藏的記憶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-fushimi--teradaya": "順路可選：在船宿門面前，讀一段幕末故事。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-fushimi--yumehyakushu": "順路可選：在舊本店的木窗旁，坐下喝杯咖啡。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-fushimi/oishi.webp"
+      "art": "/art/walks/kyoto-fushimi/oishi.webp",
+      "highlightIds": [
+        "kyoto-fushimi--oishi",
+        "kyoto-fushimi--ryoma",
+        "kyoto-fushimi--chokenji"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kyoto-fushimi-slow-walk"
+  "defaultSelection": "kyoto-fushimi-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_b7b5ba7c26c6e0c5",
+      "p_e0d5995132c391a6",
+      "p_049f187a6d1c8b33"
+    ],
+    "added": 2,
+    "unlocated": 1,
+    "checkedAt": "2026-10-26"
+  }
 }

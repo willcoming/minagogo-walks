@@ -1,0 +1,3685 @@
+{
+  "places": [
+    {
+      "id": "asakusa--p_9a5bf40c99333236",
+      "name": "八十八良葉舍 淺草",
+      "address": "2-chōme-14-3 Hanakawado, Taito City, Tokyo 111-0033",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「八十八良葉舍 淺草」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-14-3 Hanakawado, Taito City, Tokyo 111-0033。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7145375,
+        "lng": 139.8014641,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "w87nLAk6Pck",
+          "title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
+          "url": "https://www.youtube.com/watch?v=w87nLAk6Pck"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "00:15",
+          "seconds": 15
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9a5bf40c99333236",
+          "p_95e8fa464a307714"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11813678027075621249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_966a9044c4d40d21",
+      "name": "三定",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「三定」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7109887,
+        "lng": 139.7966179,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "dI0tnFV-NR0",
+          "title": "【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！",
+          "url": "https://www.youtube.com/watch?v=dI0tnFV-NR0",
+          "time": "2:51",
+          "seconds": 171
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_966a9044c4d40d21"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%A4%A9%E5%A9%A6%E7%BE%85+%E4%B8%89%E5%AE%9A/@35.7109887,139.7966179,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec0e739e8a9:0x8232ef6740d31307!8m2!3d35.7109887!4d139.7966179!16s%2Fg%2F1td1ddw9?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_7e64e7c7e5a6ba82",
+      "name": "三鳩堂",
+      "address": "1-chōme-30-37-1 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「三鳩堂」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-30-37-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7126237,
+        "lng": 139.7964532,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "FVyNjkr6Pds",
+          "title": "淺草 🇯🇵🍡 和風甜點的寶庫！Q彈草莓大福＆極品烤地瓜 | 東京美食漫步",
+          "url": "https://www.youtube.com/watch?v=FVyNjkr6Pds"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7e64e7c7e5a6ba82"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=1940782851321643649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_f378645a09727e4f",
+      "name": "大宮 浅草本店",
+      "address": "2-chōme-1-3 Asakusa, 台東区 Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「大宮 浅草本店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-1-3 Asakusa, 台東区 Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7128679,
+        "lng": 139.797224,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "Gr6_zeqZ1nE",
+          "title": "TOKYO STATION FOOD & SHOPPING ULTIMATE GUIDE: Japan Travel Guide 2024",
+          "url": "https://www.youtube.com/watch?v=Gr6_zeqZ1nE",
+          "time": "21:55",
+          "seconds": 1315
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f378645a09727e4f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14130660498633746332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_3884f9d4bd99bc9a",
+      "name": "牛肉蛋包飯 グリルグランド",
+      "address": "3-chōme-24-6 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「牛肉蛋包飯 グリルグランド」出現在肥波開吃啦、Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-24-6 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.716987599999996,
+        "lng": 139.7975519,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "bqEStaNHMV8",
+          "title": "2024東京米其林，八家必比登推介美食 ! 8 Bib Gourmand MICHELIN Restaurants in Tokyo",
+          "url": "https://www.youtube.com/watch?v=bqEStaNHMV8",
+          "time": "2:58",
+          "seconds": 178
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "-ktxCItkewQ",
+          "title": "BEST 10 Ultimate Japanese Foods to Eat in a Day in Tokyo｜Japan Travel Guide 2025",
+          "url": "https://www.youtube.com/watch?v=-ktxCItkewQ"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "X7Yqi4vn2IQ",
+          "title": "BEST 11 Michelin Guide Tokyo Restaurants 2026 | Japan Ultimate Guide🗼🇯🇵",
+          "url": "https://www.youtube.com/watch?v=X7Yqi4vn2IQ",
+          "time": "23:30",
+          "seconds": 1410
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3884f9d4bd99bc9a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13803651010984968009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_02d0f3597385882a",
+      "name": "牛カツ京都勝牛 浅草オレンジ通り店",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「牛カツ京都勝牛 浅草オレンジ通り店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7115624,
+        "lng": 139.7946334,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "_ypi5OsP2h8",
+          "title": "🇯🇵我搜集了一些2025來東京玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=_ypi5OsP2h8",
+          "time": "2:13",
+          "seconds": 133
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_02d0f3597385882a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Gyukatsu+Kyoto+Katsugyu/@35.7115624,139.7946334,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fe7c650ca47:0x513ba5c11498ece6!8m2!3d35.7115624!4d139.7946334!16s%2Fg%2F11wwpj_fp0?entry=tts&g_ep=EgoyMDI1MDMyNC4wIPu8ASoJLDEwMjExNjQwSAFQAw%3D%3D&skid=11b81517-a5f9-463b-b0d7-a987fc769584"
+      }
+    },
+    {
+      "id": "asakusa--p_cc07870cb0906223",
+      "name": "本とさや",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「本とさや」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7143719,
+        "lng": 139.7920081,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/1njtUdtzYcpn954b6",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "QxEbE9DOiwQ",
+          "title": "2026 東京美食地圖，最想二刷的十家店！TOP 10 Must-Try FOOD in Tokyo",
+          "url": "https://www.youtube.com/watch?v=QxEbE9DOiwQ",
+          "time": "2:47",
+          "seconds": 167
+        },
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "9dvDl6CBd_o",
+          "title": "東京美食淺草篇，24小時爽吃特輯四選！淺草一日美食地圖，米其林推薦厚切炸豬排、東京鹽味拉麵代表、淺草超夯和牛燒肉、百名店認證海味居酒屋 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=9dvDl6CBd_o",
+          "time": "5:59",
+          "seconds": 359
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cc07870cb0906223",
+          "p_fa597b5398849918"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/1njtUdtzYcpn954b6"
+      }
+    },
+    {
+      "id": "asakusa--p_7e60fe837ec49422",
+      "name": "立食壽司 日向丸",
+      "address": "1-chōme-20-3 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「立食壽司 日向丸」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-20-3 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.711593799999996,
+        "lng": 139.7960536,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "cau9BML_oF0",
+          "title": "【東京車站最佳5個人餐】人氣漢堡、拉麵、立式壽司等！",
+          "url": "https://www.youtube.com/watch?v=cau9BML_oF0"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "RbopXmf47RU",
+          "title": "【銀座單人餐】壽司1個70日圓、日式套餐1000日圓、連續第二年獲得米其林星級的咖哩等等！",
+          "url": "https://www.youtube.com/watch?v=RbopXmf47RU"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7e60fe837ec49422"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6611446447508385988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_2c2d8618572883d6",
+      "name": "合羽橋",
+      "address": "3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「合羽橋」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.7105797,
+        "lng": 139.7879645,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "5eOcZ6YYiKY",
+          "title": "探索東京的復古街區 | 日本旅行vlog",
+          "url": "https://www.youtube.com/watch?v=5eOcZ6YYiKY",
+          "time": "1:14",
+          "seconds": 74
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2c2d8618572883d6",
+          "p_5166ba32987fb735"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=2397099946291010547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_78a4820290243e28",
+      "name": "安心や",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「安心や」出現在Oimoの休日グルメ旅、Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7127652,
+        "lng": 139.7961957,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "dI0tnFV-NR0",
+          "title": "【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！",
+          "url": "https://www.youtube.com/watch?v=dI0tnFV-NR0",
+          "time": "4:54",
+          "seconds": 294
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_78a4820290243e28"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%AE%89%E5%BF%83%E5%B1%8B/@35.7127652,139.7961957,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec121f3c5d5:0xb453ae3bd29475ba!8m2!3d35.7127652!4d139.7961957!16s%2Fg%2F1thkx84k?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_40381e21c85f35e6",
+      "name": "江戸料理 櫻田",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「江戸料理 櫻田」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7111275,
+        "lng": 139.7934302,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "_ypi5OsP2h8",
+          "title": "🇯🇵我搜集了一些2025來東京玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=_ypi5OsP2h8",
+          "time": "0:25",
+          "seconds": 25
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "_ypi5OsP2h8",
+          "title": "🇯🇵我搜集了一些2025來東京玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=_ypi5OsP2h8"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_40381e21c85f35e6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%AB%BB%E7%94%B0/@35.7111275,139.7934302,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ebf562faaff:0x9d498a5c2dbf85b7!8m2!3d35.7111275!4d139.7934302!16s%2Fg%2F1td2bb4j?entry=tts&g_ep=EgoyMDI1MDMyNC4wIPu8ASoJLDEwMjExNjQwSAFQAw%3D%3D&skid=59de63fd-32f1-4ad6-b926-dc862ef0e1b5"
+      }
+    },
+    {
+      "id": "asakusa--p_a87d13be6ca5b0a4",
+      "name": "老奶奶桃鈴 吉備子屋",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「老奶奶桃鈴 吉備子屋」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7126109,
+        "lng": 139.7963731,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "HC6ngkDc5rY",
+          "title": "🇯🇵東京的淺草、上野一帶還有什麼選擇？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=HC6ngkDc5rY",
+          "time": "3:44",
+          "seconds": 224
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a87d13be6ca5b0a4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E8%80%81%E5%A5%B6%E5%A5%B6%E6%A1%83%E9%88%B4%F0%9F%8D%91/@35.7126109,139.7963731,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec1245e49c5:0xe881b2408290cf2e!8m2!3d35.7126109!4d139.7963731!16s%2Fg%2F1tpf73n_?q=%E8%80%81%E5%A5%B6%E5%A5%B6%E6%A1%83%E9%88%B4%F0%9F%8D%91+1+Chome-37-2+Asakusa,+Taito+City,+Tokyo+111-0032%E6%97%A5%E6%9C%AC&ftid=0x60188ec1245e49c5:0xe881b2408290cf2e&lucs=,47071704,47084304&g_ep=CAISDDYuOTguMS4zODA1MBgAIKzfASoSLDQ3MDcxNzA0LDQ3MDg0MzA0QgJUVw%3D%3D&g_st=ia&entry=tts"
+      }
+    },
+    {
+      "id": "asakusa--p_9122103f19b6d294",
+      "name": "舟和 仲見世3號店",
+      "address": "1-chōme-20-1 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「舟和 仲見世3號店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-20-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7116854,
+        "lng": 139.796502,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "FVyNjkr6Pds",
+          "title": "淺草 🇯🇵🍡 和風甜點的寶庫！Q彈草莓大福＆極品烤地瓜 | 東京美食漫步",
+          "url": "https://www.youtube.com/watch?v=FVyNjkr6Pds"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9122103f19b6d294"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11306177275850441713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_c640420bde17b3a5",
+      "name": "西むら",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「西むら」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7107074,
+        "lng": 139.7966859,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "dI0tnFV-NR0",
+          "title": "【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！",
+          "url": "https://www.youtube.com/watch?v=dI0tnFV-NR0",
+          "time": "1:47",
+          "seconds": 107
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c640420bde17b3a5"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Ryushotei+Nishimura/@35.7107074,139.7966859,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec6eecae46b:0x234285ca3440eb8f!8m2!3d35.7107074!4d139.7966859!16s%2Fg%2F1tgg9zgj?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_cea81a337f83b15d",
+      "name": "並木藪蕎麦麵",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「並木藪蕎麦麵」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7096712,
+        "lng": 139.7959731,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "maw7VXODp8g",
+          "title": "東京美食淺草篇，24小時爽吃之旅 ! 淺草一日美食地圖推薦，巷內江戶前天丼老店、淺草百年蕎麥麵、罕見泥鰍鍋初體驗、油香衝擊和牛壽喜燒、百年關東煮老店 【肥波外食記】ft.Rakuten Travel",
+          "url": "https://www.youtube.com/watch?v=maw7VXODp8g",
+          "time": "2:23",
+          "seconds": 143
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cea81a337f83b15d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E4%B8%A6%E6%9C%A8%E8%97%AA%E8%95%8E%E9%BA%A6%E9%BA%B5/@35.7096723,139.7959432,15z/data=!4m5!3m4!1s0x0:0xf2e639f0c8d1458a!8m2!3d35.7096712!4d139.7959731?sa=X&ved=2ahUKEwi4ju6K-aD8AhXAslYBHUgQBTcQ_BJ6BAhxEAg&coh=164777&shorturl=1"
+      }
+    },
+    {
+      "id": "asakusa--p_8c7d4bfcb11416a6",
+      "name": "抹茶 茶和和",
+      "address": "2-chōme-2-10 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「抹茶 茶和和」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-2-10 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.713512,
+        "lng": 139.79699109999999,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "1:49",
+          "seconds": 109
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8c7d4bfcb11416a6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10180835281867357472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_3b64a1e92e15f371",
+      "name": "花月堂 雷門店",
+      "address": "東京都台東区浅草1-18-11 1F～2F",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「花月堂 雷門店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草1-18-11 1F～2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.71154,
+        "lng": 139.795975,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-18-11",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "05:00",
+          "seconds": 300
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3b64a1e92e15f371"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%B7%BA%E8%8D%89%E8%8A%B1%E6%9C%88%E5%A0%82+%E9%9B%B7%E9%96%80%E5%BA%97/data=!4m7!3m6!1s0x60188ec6d5d32c95:0x6460e7e3618875d5!8m2!3d35.7115289!4d139.7960494!16s%2Fg%2F1vljgb53!19sChIJlSzT1caOGGAR1XWIYePnYGQ?authuser=0&hl=zh-TW&rclk=1"
+      }
+    },
+    {
+      "id": "asakusa--p_f7394e78ad4a7424",
+      "name": "洋食ヨシカミ浅草店",
+      "address": "東京都台東区浅草1ｰ41ｰ4六区ブロードウェイ",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「洋食ヨシカミ浅草店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草1ｰ41ｰ4六区ブロードウェイ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.712952,
+        "lng": 139.793732,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891%E3%83%BC41%E3%83%BC4",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "EEaXBENKpS8",
+          "title": "【東京・洋食】長年愛される老舗洋食店まとめ６選／飯テロ／浅草ランチ／銀座ランチ",
+          "url": "https://www.youtube.com/watch?v=EEaXBENKpS8",
+          "time": "00:18",
+          "seconds": 18
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "13:43",
+          "seconds": 823
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f7394e78ad4a7424"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%B4%8B%E9%A3%9F+%E3%83%A8%E3%82%B7%E3%82%AB%E3%83%9F/@35.712937,139.7937569,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec086615555:0x76010ec518202547!8m2!3d35.712937!4d139.7937569!16s%2Fg%2F11cn9st9sn?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_17ee6864ab985de4",
+      "name": "浅草地下商店街",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「浅草地下商店街」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7114596,
+        "lng": 139.7977801,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "6Bo04P4EmPA",
+          "title": "🇯🇵這些都是你可能不知道的東京觀光小景點？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=6Bo04P4EmPA",
+          "time": "8:04",
+          "seconds": 484
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_17ee6864ab985de4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/Asakusa+Underground+Street/@35.710947,139.794728,17.51z/data=!3m1!5s0x60188ec691f34447:0xdb78b1e55e19b78!4m7!3m6!1s0x60188ec6985348d9:0xe748562bd18595cb!8m2!3d35.7114596!4d139.7977801!15sCgnlnLDkuIvooZdaCyIJ5Zyw5LiL6KGXkgEPc2hvcHBpbmdfY2VudGVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5QZVdKUFQyeFJSUkFC4AEA!16s%2Fg%2F1tftwz1q?hl=zh-TW&entry=tts&g_ep=EgoyMDI0MDUyMi4wKgBIAVAD"
+      }
+    },
+    {
+      "id": "asakusa--p_636b3eec37d37bf7",
+      "name": "浅草製作所",
+      "address": "東京都台東区浅草2-7-13",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「浅草製作所」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草2-7-13。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.714573,
+        "lng": 139.794113,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-7-13",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "03:50",
+          "seconds": 230
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_636b3eec37d37bf7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Asakusa+Seisakusho+Tempura+Chips/@35.7145985,139.7950321,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f0031e980b1:0x5a08b223287b5485!8m2!3d35.7145985!4d139.7950321!16s%2Fg%2F11r38drrns?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_2d8a044bda1415f9",
+      "name": "浅草きびだんご あづま",
+      "address": "東京都台東区浅草1-18-1",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「浅草きびだんご あづま」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草1-18-1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.711227,
+        "lng": 139.796402,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-18-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "0:16",
+          "seconds": 16
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2d8a044bda1415f9"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%B7%BA%E8%8D%89%E5%90%89%E5%82%99%E7%B3%B0%E5%AD%90+AZUMA/@35.7114834,139.7963463,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec6d1ad2f79:0x5df0de52bf1f2200!8m2!3d35.7114834!4d139.7963463!16s%2Fg%2F1tj4bgts?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_2513c195c1d1979a",
+      "name": "浅草コロッケ くろげ 浅草雷門店",
+      "address": "東京都台東区浅草１-２０-２",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「浅草コロッケ くろげ 浅草雷門店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草１-２０-２。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.71154,
+        "lng": 139.79628,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-20-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "07:53",
+          "seconds": 473
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2513c195c1d1979a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E3%81%8F%E3%82%8D%E3%81%92+%E6%B7%BA%E8%8D%89%E9%9B%B7%E9%96%80%E5%BA%97/@35.7116673,139.7962723,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec6d384439b:0x15358b2fd6c5692!8m2!3d35.7116673!4d139.7962723!16s%2Fg%2F11f5dhhkcs?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_6a35a9a8c4960ed4",
+      "name": "浅草やきそば 福ちゃん",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「浅草やきそば 福ちゃん」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7111721,
+        "lng": 139.7977178,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "6Bo04P4EmPA",
+          "title": "🇯🇵這些都是你可能不知道的東京觀光小景點？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=6Bo04P4EmPA",
+          "time": "6:28",
+          "seconds": 388
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6a35a9a8c4960ed4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/%E8%BB%8A%E7%AB%99%E5%85%A7%E7%82%92%E9%BA%B5+%E7%A6%8F%E3%81%A1%E3%82%83%E3%82%93/@35.7111764,139.7951375,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec6b978035d:0xbad21c60b1c239d3!8m2!3d35.7111721!4d139.7977178!16s%2Fg%2F1ttq22yg?hl=zh-TW&entry=tts&g_ep=EgoyMDI0MDUyMi4wKgBIAVAD"
+      }
+    },
+    {
+      "id": "asakusa--p_1689499bb89f1713",
+      "name": "浅草よ兵衛",
+      "address": "東京都台東区浅草2-2-7",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「浅草よ兵衛」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草2-2-7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.713326,
+        "lng": 139.796738,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-2-7",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "06:22",
+          "seconds": 382
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1689499bb89f1713"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Yohei/@35.7134072,139.7967546,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec11699ea5d:0x71146105add44b7e!8m2!3d35.7134072!4d139.7967546!16s%2Fg%2F1tm0t4n2?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_ad9b609d7d486246",
+      "name": "紅鶴",
+      "address": "2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「紅鶴」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7119043,
+        "lng": 139.79188159999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "k9ck4FtsjoU",
+          "title": "[東京甜點最佳 7] 2023 年最新！ 如果你想在東京吃甜食，就去這裡吧！",
+          "url": "https://www.youtube.com/watch?v=k9ck4FtsjoU"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "pVjoR_5dzaY",
+          "title": "【東京スイーツ13選】2025年最新！東京で美味しいスイーツを食べるならここ！",
+          "url": "https://www.youtube.com/watch?v=pVjoR_5dzaY"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "08:42",
+          "seconds": 522
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ad9b609d7d486246",
+          "p_786f709ac9df6eed"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6236813020373834353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_350bb093084df1c6",
+      "name": "狸貓巷 たぬき通り",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「狸貓巷 たぬき通り」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7120198,
+        "lng": 139.794083,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "_ypi5OsP2h8",
+          "title": "🇯🇵我搜集了一些2025來東京玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=_ypi5OsP2h8",
+          "time": "7:20",
+          "seconds": 440
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_350bb093084df1c6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Tanuki+Street/@35.7119509,139.7939179,21z/data=!4m6!3m5!1s0x60188ec0bd11aa2f:0xa05c82d88b5bfb33!8m2!3d35.7120198!4d139.794083!16s%2Fg%2F11fxyhvpqz?entry=tts&g_ep=EgoyMDI1MDMyNC4wIPu8ASoJLDEwMjExNjQwSAFQAw%3D%3D&skid=3b799997-7670-462d-89bf-f423f03155e1"
+      }
+    },
+    {
+      "id": "asakusa--p_2b265bcdb64c8826",
+      "name": "亀十",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「亀十」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7107247,
+        "lng": 139.796774,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "dI0tnFV-NR0",
+          "title": "【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！",
+          "url": "https://www.youtube.com/watch?v=dI0tnFV-NR0",
+          "time": "0:36",
+          "seconds": 36
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "WbjuVVVInPo",
+          "title": "東京 🇯🇵 | 百大名店日式銅鑼燒專賣店！從紅豆、地瓜到蒙布朗口味的東京必買伴手禮",
+          "url": "https://www.youtube.com/watch?v=WbjuVVVInPo"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2b265bcdb64c8826",
+          "p_c3dbfe05ed6933bd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E9%8A%85%E9%91%BC%E7%87%92+%E9%BE%9C%E5%8D%81/@35.7107247,139.796774,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec6eecae46b:0x32ae89e994aad78a!8m2!3d35.7107247!4d139.796774!16s%2Fg%2F1tsyk5pm?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_bbe058922ab15981",
+      "name": "淺草",
+      "address": "1-chōme-1-3 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「淺草」出現在Hiro | Days in Tokyo、Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-1-3 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7098669,
+        "lng": 139.79716750000003,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "12:50",
+          "seconds": 770
+        },
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "6oUIvHPEApc",
+          "title": "免費優惠超多的淺草溫泉飯店 | 日本旅遊 | ASMR",
+          "url": "https://www.youtube.com/watch?v=6oUIvHPEApc",
+          "time": "0:19",
+          "seconds": 19
+        },
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "fKwLuoJ_Gjk",
+          "title": "歡迎來到秘密的東京，從淺草搭火車只需 5 分鐘 | 日本旅遊 vlog",
+          "url": "https://www.youtube.com/watch?v=fKwLuoJ_Gjk",
+          "time": "2:01",
+          "seconds": 121
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bbe058922ab15981"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=17590780981198114800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_a0e7efd6cb4ad816",
+      "name": "淺草 花月堂 本店",
+      "address": "2-chōme-7-13 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「淺草 花月堂 本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-7-13 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7146332,
+        "lng": 139.7951685,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DqIyTuC2Fe4",
+          "title": "[Asakusa] 東京淺草 8 種美味佳餚！",
+          "url": "https://www.youtube.com/watch?v=DqIyTuC2Fe4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a0e7efd6cb4ad816"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=4451824583051951723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_620a570ae0de97be",
+      "name": "淺草寺 雷門",
+      "address": "2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「淺草寺 雷門」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7111163,
+        "lng": 139.7963656,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "Elnh4ZYpWkU",
+          "title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+          "url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_620a570ae0de97be"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=15683880811625452221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_45c75a3a0c9749ad",
+      "name": "淺草炸肉餅",
+      "address": "2-chōme-3-3 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「淺草炸肉餅」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-3-3 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7129114,
+        "lng": 139.7960553,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DqIyTuC2Fe4",
+          "title": "[Asakusa] 東京淺草 8 種美味佳餚！",
+          "url": "https://www.youtube.com/watch?v=DqIyTuC2Fe4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_45c75a3a0c9749ad"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11520710359969543878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_91acb113c6c90210",
+      "name": "淺草滿願堂 仲見世店",
+      "address": "2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「淺草滿願堂 仲見世店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7130459,
+        "lng": 139.7966336,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "WbjuVVVInPo",
+          "title": "東京 🇯🇵 | 百大名店日式銅鑼燒專賣店！從紅豆、地瓜到蒙布朗口味的東京必買伴手禮",
+          "url": "https://www.youtube.com/watch?v=WbjuVVVInPo"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_91acb113c6c90210"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=1047732475970266940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_02386fa3de3e90b4",
+      "name": "淺草關東煮老店 大多福",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「淺草關東煮老店 大多福」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7177144,
+        "lng": 139.7915186,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "maw7VXODp8g",
+          "title": "東京美食淺草篇，24小時爽吃之旅 ! 淺草一日美食地圖推薦，巷內江戶前天丼老店、淺草百年蕎麥麵、罕見泥鰍鍋初體驗、油香衝擊和牛壽喜燒、百年關東煮老店 【肥波外食記】ft.Rakuten Travel",
+          "url": "https://www.youtube.com/watch?v=maw7VXODp8g",
+          "time": "8:36",
+          "seconds": 516
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_02386fa3de3e90b4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%B7%BA%E8%8D%89%E9%97%9C%E6%9D%B1%E7%85%AE%E8%80%81%E5%BA%97+%E5%A4%A7%E5%A4%9A%E7%A6%8F/@35.7138551,139.7958314,16.5z/data=!4m5!3m4!1s0x60188e94ed6e8977:0x5f0590379e5342b1!8m2!3d35.7177144!4d139.7915186?coh=164777&shorturl=1"
+      }
+    },
+    {
+      "id": "asakusa--p_0a9cb4ab0253b5e8",
+      "name": "満願堂 吾妻橋店",
+      "address": "東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「満願堂 吾妻橋店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.709045,
+        "lng": 139.80127,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA%E5%90%BE%E5%A6%BB%E6%A9%8B1-19-16",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "uIT3cWVZ17o",
+          "title": "cafe vlog｜東京お芋スイーツ専門店５選／代官山／吉祥寺／銀座／大井町／浅草",
+          "url": "https://www.youtube.com/watch?v=uIT3cWVZ17o",
+          "time": "06:42",
+          "seconds": 402
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "02:36",
+          "seconds": 156
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0a9cb4ab0253b5e8"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%B7%BA%E8%8D%89%E6%BB%BF%E9%A1%98%E5%A0%82+%E5%90%BE%E5%A6%BB%E6%A9%8B%E5%BA%97/@35.7090436,139.80125,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ecf8136d017:0x2613f003a34f3e9b!8m2!3d35.7090436!4d139.80125!16s%2Fg%2F1tgq6n6h?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_d96169527a0b439c",
+      "name": "郵便ポスト（オレンテくん仕様）",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「郵便ポスト（オレンテくん仕様）」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7124083,
+        "lng": 139.7949569,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "_ypi5OsP2h8",
+          "title": "🇯🇵我搜集了一些2025來東京玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=_ypi5OsP2h8",
+          "time": "5:37",
+          "seconds": 337
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d96169527a0b439c"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Mail+Post/@35.7124668,139.7949105,20.81z/data=!4m6!3m5!1s0x60188f003246645b:0xe91cee6ccd414c54!8m2!3d35.7124083!4d139.7949569!16s%2Fg%2F11w4916_0_?entry=tts&g_ep=EgoyMDI1MDMyNC4wIPu8ASoJLDEwMjExNjQwSAFQAw%3D%3D&skid=252e14e3-f5c8-4b34-a13d-6beca7d209a4"
+      }
+    },
+    {
+      "id": "asakusa--p_51e183cf03182b6e",
+      "name": "蛸たこ",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「蛸たこ」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7122366,
+        "lng": 139.7970628,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "dI0tnFV-NR0",
+          "title": "【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！",
+          "url": "https://www.youtube.com/watch?v=dI0tnFV-NR0",
+          "time": "8:27",
+          "seconds": 507
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_51e183cf03182b6e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Taco-Taco+Asakusa+Koromo+Brothers/@35.7122366,139.7970628,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fa8144fe7c1:0xe07e4ac4ad23f5ca!8m2!3d35.7122366!4d139.7970628!16s%2Fg%2F11tj3rq28f?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_9a5686f72c97327f",
+      "name": "豊福",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「豊福」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DqIyTuC2Fe4",
+          "title": "[Asakusa] 東京淺草 8 種美味佳餚！",
+          "url": "https://www.youtube.com/watch?v=DqIyTuC2Fe4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9a5686f72c97327f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E7%A6%8F+Japan"
+      }
+    },
+    {
+      "id": "asakusa--p_601844f1dec669fd",
+      "name": "壽々喜園 浅草本店",
+      "address": "東京都台東区浅草3-4-3",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「壽々喜園 浅草本店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草3-4-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.71632,
+        "lng": 139.796982,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%893-4-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zR1OI3T8YxY",
+          "title": "cafe vlog｜抹茶好き必見！東京抹茶スイーツ6選！浅草／表参道／吉祥寺／銀座／...etc",
+          "url": "https://www.youtube.com/watch?v=zR1OI3T8YxY",
+          "time": "1:45",
+          "seconds": 105
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "11:45",
+          "seconds": 705
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "ROf3HBnMTt8",
+          "title": "THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=ROf3HBnMTt8"
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "FVyNjkr6Pds",
+          "title": "淺草 🇯🇵🍡 和風甜點的寶庫！Q彈草莓大福＆極品烤地瓜 | 東京美食漫步",
+          "url": "https://www.youtube.com/watch?v=FVyNjkr6Pds"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_601844f1dec669fd",
+          "p_5a3f8eaa139d16f4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%A3%BD%E5%A3%BD%E5%96%9C%E5%9C%92+%E6%B7%BA%E8%8D%89%E6%9C%AC%E5%BA%97/data=!4m7!3m6!1s0x60188ec1dc27d889:0x1abebdcadc452655!8m2!3d35.7163436!4d139.7969391!16s%2Fg%2F11f5q8yl2p!19sChIJidgn3MGOGGARVSZF3Mq9vho?authuser=0&hl=zh-TW&rclk=1"
+      }
+    },
+    {
+      "id": "asakusa--p_03b06522b228de6a",
+      "name": "壽喜燒老店 淺草今半",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「壽喜燒老店 淺草今半」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7139043,
+        "lng": 139.7922209,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "maw7VXODp8g",
+          "title": "東京美食淺草篇，24小時爽吃之旅 ! 淺草一日美食地圖推薦，巷內江戶前天丼老店、淺草百年蕎麥麵、罕見泥鰍鍋初體驗、油香衝擊和牛壽喜燒、百年關東煮老店 【肥波外食記】ft.Rakuten Travel",
+          "url": "https://www.youtube.com/watch?v=maw7VXODp8g",
+          "time": "6:48",
+          "seconds": 408
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_03b06522b228de6a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%A3%BD%E5%96%9C%E7%87%92%E8%80%81%E5%BA%97+%E6%B7%BA%E8%8D%89%E4%BB%8A%E5%8D%8A/@35.7138752,139.7929144,18.5z/data=!4m5!3m4!1s0x60188ebfe994dcf7:0x402534c8b8ced7d8!8m2!3d35.7139043!4d139.7922209?coh=164777&shorturl=1"
+      }
+    },
+    {
+      "id": "asakusa--p_e75994d817aa0aaf",
+      "name": "銀座ブラジル 浅草支店",
+      "address": "東京都台東区浅草1-28-2 ２Ｆ",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「銀座ブラジル 浅草支店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草1-28-2 ２Ｆ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.712158,
+        "lng": 139.79451,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-28-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "07:38",
+          "seconds": 458
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e75994d817aa0aaf"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Ginza+Brazil/@35.7121675,139.7945553,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec0bf938131:0xb26bc97f39c1e798!8m2!3d35.7121675!4d139.7945553!16s%2Fg%2F1tcz89rw?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_41e6f96fb1d39e25",
+      "name": "橙通商店街 オレンジ通り",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「橙通商店街 オレンジ通り」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7119604,
+        "lng": 139.7947951,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "_ypi5OsP2h8",
+          "title": "🇯🇵我搜集了一些2025來東京玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=_ypi5OsP2h8",
+          "time": "2:13",
+          "seconds": 133
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_41e6f96fb1d39e25"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%A9%99%E9%80%9A%E5%95%86%E5%BA%97%E8%A1%97/@35.7113843,139.7942573,18.48z/data=!4m6!3m5!1s0x60188ec0c65128c7:0x98448babfc157e5f!8m2!3d35.7119604!4d139.7947951!16s%2Fg%2F11cs6b5bb0?entry=tts&g_ep=EgoyMDI1MDMyNC4wIPu8ASoJLDEwMjExNjQwSAFQAw%3D%3D&skid=4f621ab3-3234-46ec-b1b2-92b6e08ada37"
+      }
+    },
+    {
+      "id": "asakusa--p_0090ef6203581d49",
+      "name": "藏壽司全球旗艦店 淺草ROX",
+      "address": "〒111-0032 Tokyo, Taito City, Asakusa, 1-chōme−25−１５ ROX4F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「藏壽司全球旗艦店 淺草ROX」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒111-0032 Tokyo, Taito City, Asakusa, 1-chōme−25−１５ ROX4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.712886399999995,
+        "lng": 139.7929709,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "OvWBmxhzQlo",
+          "title": "BEST 10 FOODS YOU MUST TRY IN TOKYO, JAPAN ｜Food and Travel Guide 2025",
+          "url": "https://www.youtube.com/watch?v=OvWBmxhzQlo"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6Sr7Z0XQa5c",
+          "title": "Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025",
+          "url": "https://www.youtube.com/watch?v=6Sr7Z0XQa5c",
+          "time": "0:20",
+          "seconds": 20
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0090ef6203581d49"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=18109923868748812372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_96c292e826cd46f3",
+      "name": "鯛魚燒 浅草浪花家",
+      "address": "2-chōme-12-4 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「鯛魚燒 浅草浪花家」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-12-4 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.714809599999995,
+        "lng": 139.7927384,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "HUdT9Hm3owQ",
+          "title": "東京 🇯🇵 🧇 鯛魚燒 (日式魚形蛋糕) 巡禮！老店到創新的日本街頭美食",
+          "url": "https://www.youtube.com/watch?v=HUdT9Hm3owQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_96c292e826cd46f3"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16190685402307050925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_ff49a9834d92713c",
+      "name": "Alchemist Asakusa",
+      "address": "1-chōme-17-5 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Alchemist Asakusa」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-17-5 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7114769,
+        "lng": 139.79482550000003,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "Ze0IizspsQA",
+          "title": "Life in Tokyo｜10 Favorite Tokyo Spots: My Go-To Japanese Restaurants & Cozy Cafes 2025",
+          "url": "https://www.youtube.com/watch?v=Ze0IizspsQA"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6Sr7Z0XQa5c",
+          "title": "Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025",
+          "url": "https://www.youtube.com/watch?v=6Sr7Z0XQa5c",
+          "time": "0:20",
+          "seconds": 20
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "YoqqAl6cewU",
+          "title": "15 MUST-VISIT SPOTS IN TOKYO 🍜🍣｜Ramen Cooking Class, Asakusa & Hidden Cafes｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=YoqqAl6cewU",
+          "time": "13:53",
+          "seconds": 833
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ff49a9834d92713c",
+          "p_97a6a7103873f66b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16837639886410870107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_f623b7097a99077f",
+      "name": "ASA虎",
+      "address": "1-chōme-8-11 Hanakawado, Taito City, Tokyo 111-0033",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ASA虎」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-8-11 Hanakawado, Taito City, Tokyo 111-0033。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7130456,
+        "lng": 139.7986104,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "9dvDl6CBd_o",
+          "title": "東京美食淺草篇，24小時爽吃特輯四選！淺草一日美食地圖，米其林推薦厚切炸豬排、東京鹽味拉麵代表、淺草超夯和牛燒肉、百名店認證海味居酒屋 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=9dvDl6CBd_o",
+          "time": "9:01",
+          "seconds": 541
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f623b7097a99077f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=88344092343677658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_184e27e9c0f46ecd",
+      "name": "Asakusa Beer Kobo",
+      "address": "〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Asakusa Beer Kobo」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.711985899999995,
+        "lng": 139.7908712,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DqIyTuC2Fe4",
+          "title": "[Asakusa] 東京淺草 8 種美味佳餚！",
+          "url": "https://www.youtube.com/watch?v=DqIyTuC2Fe4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_184e27e9c0f46ecd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16771015038832482993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_bce07ade4f431a5b",
+      "name": "Asakusa Chaya Tabanenoshi",
+      "address": "2-chōme-7-7 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Asakusa Chaya Tabanenoshi」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-7-7 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7143233,
+        "lng": 139.7945603,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "FVyNjkr6Pds",
+          "title": "淺草 🇯🇵🍡 和風甜點的寶庫！Q彈草莓大福＆極品烤地瓜 | 東京美食漫步",
+          "url": "https://www.youtube.com/watch?v=FVyNjkr6Pds"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bce07ade4f431a5b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10799498297337625769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_f9bfb91abc6f1647",
+      "name": "Asakusa Mugitoro Main Branch",
+      "address": "2-chōme-2-4 Kaminarimon, Taito City, Tokyo 111-0034",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Asakusa Mugitoro Main Branch」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-2-4 Kaminarimon, Taito City, Tokyo 111-0034。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.709162,
+        "lng": 139.79670629999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "OGcvrsP4Tos",
+          "title": "【東京吃到飽5選】Pierre Herme、鮭魚子、鰻魚吃到飽！ ？ 東京自助餐還可以享受東京晴空塔！",
+          "url": "https://www.youtube.com/watch?v=OGcvrsP4Tos"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "cI8KLigCKtI",
+          "title": "【東京食べ放題】2025年最新！東京食べ放題10選！",
+          "url": "https://www.youtube.com/watch?v=cI8KLigCKtI"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f9bfb91abc6f1647"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5838523034543711680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_374389a9fc8ad67f",
+      "name": "Asakusa Station",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Asakusa Station」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7119535,
+        "lng": 139.7983367,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/DmBuz1LRsSCthx3y9",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "0:33",
+          "seconds": 33
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_374389a9fc8ad67f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/DmBuz1LRsSCthx3y9"
+      }
+    },
+    {
+      "id": "asakusa--p_4ac35694f110cc77",
+      "name": "Asakusa Unana",
+      "address": "〒111-0032 Tokyo, Taito City, Asakusa, 2-chōme−7−２１ 初音小路 商店街内 浅草うなな本店",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Asakusa Unana」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒111-0032 Tokyo, Taito City, Asakusa, 2-chōme−7−２１ 初音小路 商店街内 浅草うなな本店。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7147474,
+        "lng": 139.7944546,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "KgGlPBfvLA4",
+          "title": "MUST-THINGS TO DO IN TOKYO, JAPAN 2025 | TOKYO BEAUTIFUL TRADITIONAL SPOTS",
+          "url": "https://www.youtube.com/watch?v=KgGlPBfvLA4"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DqIyTuC2Fe4",
+          "title": "[Asakusa] 東京淺草 8 種美味佳餚！",
+          "url": "https://www.youtube.com/watch?v=DqIyTuC2Fe4"
+        },
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "dI0tnFV-NR0",
+          "title": "【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！",
+          "url": "https://www.youtube.com/watch?v=dI0tnFV-NR0",
+          "time": "11:57",
+          "seconds": 717
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "03:51",
+          "seconds": 231
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_4ac35694f110cc77",
+          "p_9ecd03fca23d4f9e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11420205971391832317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_cf12a75d54630bf8",
+      "name": "Cafe Otonova",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Cafe Otonova」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.7153544,
+        "lng": 139.7894614,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/QJbjWU7QTDDcpTyE7",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cf12a75d54630bf8"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/QJbjWU7QTDDcpTyE7"
+      }
+    },
+    {
+      "id": "asakusa--p_cd3505a7d6af58fa",
+      "name": "Chinya すき焼 ちんや 浅草本店",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Chinya すき焼 ちんや 浅草本店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7150136,
+        "lng": 139.8013741,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "HC6ngkDc5rY",
+          "title": "🇯🇵東京的淺草、上野一帶還有什麼選擇？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=HC6ngkDc5rY",
+          "time": "10:38",
+          "seconds": 638
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cd3505a7d6af58fa"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/Chinya/@35.7150179,139.7987992,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f8e16d796bb:0xa517e41f4ee93a54!8m2!3d35.7150136!4d139.8013741!16s%2Fg%2F11csqjp214?hl=zh-TW&entry=tts"
+      }
+    },
+    {
+      "id": "asakusa--p_0c9c659b6d86b287",
+      "name": "Dengama",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Dengama」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.7104353,
+        "lng": 139.7885064,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/BP3PvsrHkxKu5dbi7",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0c9c659b6d86b287"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/BP3PvsrHkxKu5dbi7"
+      }
+    },
+    {
+      "id": "asakusa--p_ab7a6a5209366ef3",
+      "name": "FEBRUARY COFFEE ROASTERY(フェブラリーコーヒーロースタリー)",
+      "address": "東京都台東区浅草2-28-18",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「FEBRUARY COFFEE ROASTERY(フェブラリーコーヒーロースタリー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草2-28-18。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.716042,
+        "lng": 139.795395,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-28-18",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Ean4PJP6KI0",
+          "title": "【最旬】この夏食べたい！東京の桃スイーツ10選🍑浅草/銀座/新大久保etc.",
+          "url": "https://www.youtube.com/watch?v=Ean4PJP6KI0",
+          "time": "10:53",
+          "seconds": 653
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ab7a6a5209366ef3"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=FEBRUARY+COFFEE+ROASTERY%28%E3%83%95%E3%82%A7%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%BC%29+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-28-18"
+      }
+    },
+    {
+      "id": "asakusa--p_e14582b459ac1a42",
+      "name": "Frites Bruges",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Frites Bruges」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7117064,
+        "lng": 139.7936754,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "dI0tnFV-NR0",
+          "title": "【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！",
+          "url": "https://www.youtube.com/watch?v=dI0tnFV-NR0",
+          "time": "10:27",
+          "seconds": 627
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e14582b459ac1a42"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Frites+Bruges/@35.7117064,139.7936754,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f55f8e6547f:0xbdf676c6e9feb11f!8m2!3d35.7117064!4d139.7936754!16s%2Fg%2F11nmjc79h5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_631cc84f7ca598c6",
+      "name": "FU WA RI",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「FU WA RI」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.7131245,
+        "lng": 139.7888028,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/hsMHbAH4mFqQ5FBb6",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_631cc84f7ca598c6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/hsMHbAH4mFqQ5FBb6"
+      }
+    },
+    {
+      "id": "asakusa--p_39c3c18c8c60342f",
+      "name": "Ginkado",
+      "address": "1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Ginkado」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.712128799999995,
+        "lng": 139.7963996,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "FVyNjkr6Pds",
+          "title": "淺草 🇯🇵🍡 和風甜點的寶庫！Q彈草莓大福＆極品烤地瓜 | 東京美食漫步",
+          "url": "https://www.youtube.com/watch?v=FVyNjkr6Pds"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_39c3c18c8c60342f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5980486165623542657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_73fdd3dceaf82422",
+      "name": "KIELO COFFEE ASAKUSA",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「KIELO COFFEE ASAKUSA」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7098979,
+        "lng": 139.7954655,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/xCAorVEapMQQCA4e6",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "0:33",
+          "seconds": 33
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_73fdd3dceaf82422"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/xCAorVEapMQQCA4e6"
+      }
+    },
+    {
+      "id": "asakusa--p_31cbd134a95a2ea5",
+      "name": "Kotobuki Seian",
+      "address": "2-chōme-7-21 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Kotobuki Seian」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-7-21 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.715105699999995,
+        "lng": 139.7944508,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DqIyTuC2Fe4",
+          "title": "[Asakusa] 東京淺草 8 種美味佳餚！",
+          "url": "https://www.youtube.com/watch?v=DqIyTuC2Fe4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_31cbd134a95a2ea5"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=2625547908485225499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_e6d53140c027e6ef",
+      "name": "Majimaya",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Majimaya」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.7125431,
+        "lng": 139.7886654,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/sxLGLEdocuzzXFZh9",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e6d53140c027e6ef"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/sxLGLEdocuzzXFZh9"
+      }
+    },
+    {
+      "id": "asakusa--p_8c860a07786a3ae4",
+      "name": "Maruzen",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Maruzen」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7124232,
+        "lng": 139.7968586,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "dI0tnFV-NR0",
+          "title": "【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！",
+          "url": "https://www.youtube.com/watch?v=dI0tnFV-NR0",
+          "time": "5:57",
+          "seconds": 357
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8c860a07786a3ae4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/MARUZEN+Tea+Roastery/@35.7124232,139.7968586,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fbf0f4c165b:0x20d72e4cba9ed3a0!8m2!3d35.7124232!4d139.7968586!16s%2Fg%2F11x7j159qj?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_25857f2c87705829",
+      "name": "Masaru まさる",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Masaru まさる」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7121217,
+        "lng": 139.7967993,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "maw7VXODp8g",
+          "title": "東京美食淺草篇，24小時爽吃之旅 ! 淺草一日美食地圖推薦，巷內江戶前天丼老店、淺草百年蕎麥麵、罕見泥鰍鍋初體驗、油香衝擊和牛壽喜燒、百年關東煮老店 【肥波外食記】ft.Rakuten Travel",
+          "url": "https://www.youtube.com/watch?v=maw7VXODp8g",
+          "time": "0:19",
+          "seconds": 19
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_25857f2c87705829"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Masaru/@35.7121217,139.7967993,15z/data=!4m5!3m4!1s0x0:0x5d435fbb7ba9eb1f!8m2!3d35.7121217!4d139.7967993?coh=164777&shorturl=1"
+      }
+    },
+    {
+      "id": "asakusa--p_80ce7016fd4645fd",
+      "name": "Petika sukemasacoffee(ペチカスケマサコーヒー)",
+      "address": "東京都台東区浅草3-26-10 トーセイホテル ココネ浅草 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Petika sukemasacoffee(ペチカスケマサコーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草3-26-10 トーセイホテル ココネ浅草 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.716621,
+        "lng": 139.798386,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%893-26-10",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Ean4PJP6KI0",
+          "title": "【最旬】この夏食べたい！東京の桃スイーツ10選🍑浅草/銀座/新大久保etc.",
+          "url": "https://www.youtube.com/watch?v=Ean4PJP6KI0",
+          "time": "05:32",
+          "seconds": 332
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_80ce7016fd4645fd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Petika+sukemasacoffee%28%E3%83%9A%E3%83%81%E3%82%AB%E3%82%B9%E3%82%B1%E3%83%9E%E3%82%B5%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%29+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%893-26-10+%E3%83%88%E3%83%BC%E3%82%BB%E3%82%A4%E3%83%9B%E3%83%86%E3%83%AB+%E3%82%B3%E3%82%B3%E3%83%8D%E6%B5%85%E8%8D%89+1F"
+      }
+    },
+    {
+      "id": "asakusa--p_9c6c24dfaccc3455",
+      "name": "Readin’ Writin’ BOOK STORE",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Readin’ Writin’ BOOK STORE」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.7091529,
+        "lng": 139.7898696,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/dvarszWgeNZh3Hfd6",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "5:58",
+          "seconds": 358
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9c6c24dfaccc3455"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/dvarszWgeNZh3Hfd6"
+      }
+    },
+    {
+      "id": "asakusa--p_dca08acdaf76c016",
+      "name": "Shimizuya",
+      "address": "1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Shimizuya」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7119447,
+        "lng": 139.7963943,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "m_-9egOCb9U",
+          "title": "【池袋とんかつ６選】それぞれのおすすめシーンもご紹介！ランチでも！ディナーでも！",
+          "url": "https://www.youtube.com/watch?v=m_-9egOCb9U"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_dca08acdaf76c016"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3318297544830628083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_8cbf317f85bc2767",
+      "name": "sukemasa coffee",
+      "address": "東京都台東区浅草2-29-2 君塚ビル 102",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「sukemasa coffee」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草2-29-2 君塚ビル 102。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.715084,
+        "lng": 139.795425,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-29-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "01:43",
+          "seconds": 103
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "KJZalKLdpyQ",
+          "title": "【東京･いちご】今が旬！いちごスイーツ巡り７選～2025Ver.～浅草／銀座／横浜etc...",
+          "url": "https://www.youtube.com/watch?v=KJZalKLdpyQ",
+          "time": "11:06",
+          "seconds": 666
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8cbf317f85bc2767",
+          "p_0085131173cfbf87"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=sukemasa+coffee+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-29-2+%E5%90%9B%E5%A1%9A%E3%83%93%E3%83%AB+102"
+      }
+    },
+    {
+      "id": "asakusa--p_9b0464035e71b432",
+      "name": "Taiyaki Sawada- Asakusa Hanayashiki Shop",
+      "address": "2-chōme-28-5 Asakusa, Taito City, Tokyo 111-0032",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Taiyaki Sawada- Asakusa Hanayashiki Shop」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-28-5 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7153224,
+        "lng": 139.79429679999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "HUdT9Hm3owQ",
+          "title": "東京 🇯🇵 🧇 鯛魚燒 (日式魚形蛋糕) 巡禮！老店到創新的日本街頭美食",
+          "url": "https://www.youtube.com/watch?v=HUdT9Hm3owQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9b0464035e71b432"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=12721381515135022423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_58381eaff27a2e6d",
+      "name": "Tasuke Sushi",
+      "address": "2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tasuke Sushi」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.7145309,
+        "lng": 139.7882246,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "TbSsmQKWbjA",
+          "title": "BEST 10 WHAT I EAT IN A DAY IN TOKYO 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=TbSsmQKWbjA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_58381eaff27a2e6d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=4668571184969004298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "asakusa--p_49583cc91c265bf4",
+      "name": "Tawaramachi Station",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tawaramachi Station」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.7098833,
+        "lng": 139.7907335,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/4kqyR7FHZGpGwR4b9",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "5:58",
+          "seconds": 358
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_49583cc91c265bf4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/4kqyR7FHZGpGwR4b9"
+      }
+    },
+    {
+      "id": "asakusa--p_20324c0da415764e",
+      "name": "UMIERE asakusa",
+      "address": "東京都台東区元浅草３丁目１６−１６",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「UMIERE asakusa」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区元浅草３丁目１６−１６。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.707554,
+        "lng": 139.786606,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%85%83%E6%B5%85%E8%8D%893%E4%B8%81%E7%9B%AE16%E2%88%9216",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "79k4XT8vnIM",
+          "title": "【vlog】桃スイーツ巡り〜2020夏ver.〜",
+          "url": "https://www.youtube.com/watch?v=79k4XT8vnIM"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_20324c0da415764e",
+          "p_4e9753b7c5ef6189"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=UMIERE+asakusa+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%85%83%E6%B5%85%E8%8D%89%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%96%E2%88%92%EF%BC%91%EF%BC%96"
+      }
+    },
+    {
+      "id": "asakusa--p_54b927a85af07aef",
+      "name": "Union coffee shop",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Union coffee shop」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.7143461,
+        "lng": 139.7890893,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/TenricttfBuBjEyX6",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "9:31",
+          "seconds": 571
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_54b927a85af07aef"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.app.goo.gl/TenricttfBuBjEyX6"
+      }
+    },
+    {
+      "id": "asakusa--p_d33a03092970931d",
+      "name": "おいもやさん興伸",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「おいもやさん興伸」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.710672,
+        "lng": 139.7969434,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "dI0tnFV-NR0",
+          "title": "【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！",
+          "url": "https://www.youtube.com/watch?v=dI0tnFV-NR0",
+          "time": "15:17",
+          "seconds": 917
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d33a03092970931d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Oimoyasankoshin+Asakusakaminarimonten/data=!4m7!3m6!1s0x60188fd9ab789fc3:0x5b6f964bfd49bbc6!8m2!3d35.710672!4d139.7969434!16s%2Fg%2F11rz9s5j9s!19sChIJw594q9mPGGARxrtJ_UuWb1s?authuser=0&hl=zh-TW&rclk=1"
+      }
+    },
+    {
+      "id": "asakusa--p_c2bc8a559c049512",
+      "name": "かぐらちゃかプチ",
+      "address": "東京都台東区西浅草２丁目２７−１１",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「かぐらちゃかプチ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区西浅草２丁目２７−１１。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.713711,
+        "lng": 139.792221,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%A5%BF%E6%B5%85%E8%8D%892%E4%B8%81%E7%9B%AE27%E2%88%9211",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c2bc8a559c049512"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%81%90%E3%82%89%E3%81%A1%E3%82%83%E3%81%8B%E3%83%97%E3%83%81+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%A5%BF%E6%B5%85%E8%8D%89%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%97%E2%88%92%EF%BC%91%EF%BC%91"
+      }
+    },
+    {
+      "id": "asakusa--p_721ef98102190bf3",
+      "name": "カフェ・ムルソー",
+      "address": "東京都台東区雷門2-1-5 中村ビル",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「カフェ・ムルソー」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区雷門2-1-5 中村ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.709221,
+        "lng": 139.797073,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%802-1-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "L4phMjsbofc",
+          "title": "【東京・秋の味覚】秋の絶品スイーツ･グルメ８選／8 Autumn taste cafe tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=L4phMjsbofc",
+          "time": "08:26",
+          "seconds": 506
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_721ef98102190bf3"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%A0%E3%83%AB%E3%82%BD%E3%83%BC+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%802-1-5+%E4%B8%AD%E6%9D%91%E3%83%93%E3%83%AB"
+      }
+    },
+    {
+      "id": "asakusa--p_75025032e8267add",
+      "name": "サクラ咲",
+      "address": "東京都台東区雷門1-9-2 雷門ウェストビル 1F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「サクラ咲」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区雷門1-9-2 雷門ウェストビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.710384,
+        "lng": 139.792603,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%801-9-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OyO1a5arI-U",
+          "title": "【東京／あんバター】究極の背徳感！一度食べたら忘れられない「あんバター７選」／浅草・蔵前・学芸大学・代官山他",
+          "url": "https://www.youtube.com/watch?v=OyO1a5arI-U",
+          "time": "01:59",
+          "seconds": 119
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_75025032e8267add"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%82%AF%E3%83%A9%E5%92%B2+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%801-9-2+%E9%9B%B7%E9%96%80%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%93%E3%83%AB+1F"
+      }
+    },
+    {
+      "id": "asakusa--p_61588ff8b4415633",
+      "name": "しゃん",
+      "address": "東京都台東区浅草4-36-2",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「しゃん」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区浅草4-36-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.719387,
+        "lng": 139.795258,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%894-36-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "10:41",
+          "seconds": 641
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_61588ff8b4415633"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%81%97%E3%82%83%E3%82%93+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%894-36-2"
+      }
+    },
+    {
+      "id": "asakusa--p_06d937f2f8940ee6",
+      "name": "そばうどん 文殊 浅草店",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「そばうどん 文殊 浅草店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7112132,
+        "lng": 139.7978805,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "6Bo04P4EmPA",
+          "title": "🇯🇵這些都是你可能不知道的東京觀光小景點？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=6Bo04P4EmPA",
+          "time": "13:42",
+          "seconds": 822
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_06d937f2f8940ee6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/%E8%95%8E%E9%BA%A5%E7%83%8F%E9%BE%8D+%E6%96%87%E6%AE%8A+%E6%B7%BA%E8%8D%89%E5%BA%97/@35.7112175,139.7953002,17z/data=!3m2!4b1!5s0x60188ec691f34447:0xdb78b1e55e19b78!4m6!3m5!1s0x60188ec6b978035d:0x9d0117170efd1787!8m2!3d35.7112132!4d139.7978805!16s%2Fg%2F1thf8kld?hl=zh-TW&entry=tts&g_ep=EgoyMDI0MDUyMi4wKgBIAVAD"
+      }
+    },
+    {
+      "id": "asakusa--p_3c430ceeebdb5016",
+      "name": "フグレン",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「フグレン」出現在Oimoの休日グルメ旅、Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7144526,
+        "lng": 139.7939807,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "dI0tnFV-NR0",
+          "title": "【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！",
+          "url": "https://www.youtube.com/watch?v=dI0tnFV-NR0",
+          "time": "15:37",
+          "seconds": 937
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NX3OxRVbo-k",
+          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
+          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k",
+          "time": "07:14",
+          "seconds": 434
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3c430ceeebdb5016"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/FUGLEN+ASAKUSA/@35.7144526,139.7939807,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f94c3ce55cd:0xba4fa108446d25ef!8m2!3d35.7144526!4d139.7939807!16s%2Fg%2F11gjj16wd3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "asakusa--p_8b200cf83a362aa4",
+      "name": "フラワーミッフィー",
+      "address": "東京都台東区雷門２丁目１９−７ 相磯ビル 1F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「フラワーミッフィー」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区雷門２丁目１９−７ 相磯ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.710411,
+        "lng": 139.796936,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%802%E4%B8%81%E7%9B%AE19%E2%88%927",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8b200cf83a362aa4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%9F%E3%83%83%E3%83%95%E3%82%A3%E3%83%BC+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%80%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%99%E2%88%92%EF%BC%97+%E7%9B%B8%E7%A3%AF%E3%83%93%E3%83%AB+1F"
+      }
+    },
+    {
+      "id": "asakusa--p_e276e4bda0a5962e",
+      "name": "ミハラシ・カフェ",
+      "address": "東京都台東区雷門2-18-9 浅草文化観光センター 8F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ミハラシ・カフェ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区雷門2-18-9 浅草文化観光センター 8F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.710716,
+        "lng": 139.796432,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%802-18-9",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "05:24",
+          "seconds": 324
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e276e4bda0a5962e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%9F%E3%83%8F%E3%83%A9%E3%82%B7%E3%83%BB%E3%82%AB%E3%83%95%E3%82%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%802-18-9+%E6%B5%85%E8%8D%89%E6%96%87%E5%8C%96%E8%A6%B3%E5%85%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+8F"
+      }
+    },
+    {
+      "id": "asakusa--p_6e2a78d98b382be0",
+      "name": "よろし化粧堂 仲見世店",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「よろし化粧堂 仲見世店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7113135,
+        "lng": 139.7964548,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "HC6ngkDc5rY",
+          "title": "🇯🇵東京的淺草、上野一帶還有什麼選擇？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=HC6ngkDc5rY",
+          "time": "5:58",
+          "seconds": 358
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6e2a78d98b382be0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/Yoroshi+Cosmetics/@35.7113135,139.7964548,17z/data=!4m6!3m5!1s0x60188fc1446a183f:0x9d3d674c97c8a7ee!8m2!3d35.7113135!4d139.7964548!16s%2Fg%2F11lfq0b63d?hl=zh-TW&entry=tts"
+      }
+    }
+  ],
+  "matches": {
+    "asakusa--kimuraya": {
+      "sourceIds": [
+        "p_bea9a0322d9c78b7",
+        "p_6e30e4ddc2bdaa66"
+      ],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "02:15",
+          "seconds": 135
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "H1eG3mU17T4",
+          "title": "Life in Tokyo | Asakusa, Skytree Area & Local Tokyo in 3 Days",
+          "url": "https://www.youtube.com/watch?v=H1eG3mU17T4"
+        }
+      ]
+    },
+    "asakusa--nakamise": {
+      "sourceIds": [
+        "p_3c9ea0b8181fbbc5"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "IVKuzZmnQ0g",
+          "title": "BEST 10 MUST - VISIT SPOTS IN TOKYO, JAPAN 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=IVKuzZmnQ0g"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "KgGlPBfvLA4",
+          "title": "MUST-THINGS TO DO IN TOKYO, JAPAN 2025 | TOKYO BEAUTIFUL TRADITIONAL SPOTS",
+          "url": "https://www.youtube.com/watch?v=KgGlPBfvLA4"
+        }
+      ]
+    },
+    "asakusa--funawa": {
+      "sourceIds": [
+        "p_2896ba16f2853e69",
+        "p_72d82d8cf4743004"
+      ],
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "JlU8lwG8cNE",
+          "title": "[東京伴手禮] 7種不容錯過的東京伴手禮！ 7種最好的日本紀念品",
+          "url": "https://www.youtube.com/watch?v=JlU8lwG8cNE"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "10:26",
+          "seconds": 626
+        }
+      ]
+    },
+    "asakusa--tengoku": {
+      "sourceIds": [
+        "p_19b9a181aba5b960"
+      ],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "11:49",
+          "seconds": 709
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "TSWyQJ0G8uU",
+          "title": "【東京・ホットケーキ】ほっこり懐かしい𓂃𓈒𓏸大好きなホットケーキ6選！人気店／名店／老舗",
+          "url": "https://www.youtube.com/watch?v=TSWyQJ0G8uU",
+          "time": "05:46",
+          "seconds": 346
+        }
+      ]
+    },
+    "asakusa--umezono": {
+      "sourceIds": [
+        "p_8e9eae9bd0d111d2"
+      ],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "09:34",
+          "seconds": 574
+        }
+      ]
+    },
+    "asakusa--temple": {
+      "sourceIds": [
+        "p_ce28faa1b22378bc"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "12:50",
+          "seconds": 770
+        },
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "dcX9kmkNMiE",
+          "title": "2024 年遊覽淺草的最佳方式 | 日本旅遊",
+          "url": "https://www.youtube.com/watch?v=dcX9kmkNMiE",
+          "time": "3:14",
+          "seconds": 194
+        },
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "uVDw0L3eoTg",
+          "title": "淺草之旅 | 參觀淺草寺和人氣美食 | 日本旅遊 | ASMR",
+          "url": "https://www.youtube.com/watch?v=uVDw0L3eoTg",
+          "time": "3:35",
+          "seconds": 215
+        }
+      ]
+    },
+    "asakusa--shrine": {
+      "sourceIds": [
+        "p_ce49935826972b97"
+      ],
+      "sources": [
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "FeqWDE_Fbyw",
+          "title": "享受東京附近的大自然 | 秋季日光一日遊 | 日本旅遊影片博客",
+          "url": "https://www.youtube.com/watch?v=FeqWDE_Fbyw",
+          "time": "8:46",
+          "seconds": 526
+        }
+      ]
+    },
+    "asakusa--center": {
+      "sourceIds": [
+        "p_ce94d4fb984f5355"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "0:33",
+          "seconds": 33
+        }
+      ]
+    },
+    "asakusa--sumida": {
+      "sourceIds": [
+        "p_fe9d991ff3c23de1"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "16:35",
+          "seconds": 995
+        }
+      ]
+    }
+  },
+  "archived": []
+}

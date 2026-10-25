@@ -1,0 +1,86 @@
+{
+  "places": [
+    {
+      "id": "kyoto-fushimi--p_b7b5ba7c26c6e0c5",
+      "name": "伏見稻荷大社",
+      "address": "68 Fukakusa Yabunouchichō, Fushimi Ward, Kyoto, 612-0882",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「伏見稻荷大社」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 68 Fukakusa Yabunouchichō, Fushimi Ward, Kyoto, 612-0882。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 34.9676945,
+        "lng": 135.7791876,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "1:49",
+          "seconds": 109
+        },
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b7b5ba7c26c6e0c5",
+          "p_e0d5995132c391a6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=8870624639634301673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--p_049f187a6d1c8b33",
+      "name": "ABOUT US COFFEE FUSHIMI INARI",
+      "address": "22-15 Fukakusa Inaritoriimaecho, Fushimi Ward, Kyoto, 612-0014, Japan",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ABOUT US COFFEE FUSHIMI INARI」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 22-15 Fukakusa Inaritoriimaecho, Fushimi Ward, Kyoto, 612-0014, Japan。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_049f187a6d1c8b33"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=ABOUT+US+COFFEE+FUSHIMI+INARI+22-15+Fukakusa+Inaritoriimaecho%2C+Fushimi+Ward%2C+Kyoto%2C+612-0014%2C+Japan"
+      }
+    }
+  ],
+  "matches": {},
+  "archived": []
+}

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "omiya--coffee",
@@ -338,7 +338,10 @@
       "name": "參道樹影、神社與咖啡",
       "ids": [
         "omiya--coffee",
+        "omiya--dango",
+        "omiya--sando",
         "omiya--shrine",
+        "omiya--zoo",
         "omiya--park"
       ],
       "start": {
@@ -360,15 +363,24 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "從大宮站接上氷川參道，樹影、團子與咖啡陪你走向神社和公園。",
       "note": "散步集中在參道北段，不必從最南端第一鳥居走起。博物館或動物園可替換公園停留，參拜與店家候位另留彈性。",
       "stopNotes": {
         "omiya--coffee": "在參道北段先休息，慢慢感受綠蔭。",
         "omiya--shrine": "通過鳥居參拜，留意神橋與社殿。",
-        "omiya--park": "選一段公園步道，再往北大宮站離開。"
+        "omiya--park": "選一段公園步道，再往北大宮站離開。",
+        "omiya--zoo": "順路可選：公園裡的小動物園，適合慢慢觀察。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "omiya--sando": "順路可選：一條綠蔭大道，串起大宮的日常。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "omiya--dango": "順路可選：烤團子的香氣，留在參道旁。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/omiya/sando.webp"
+      "art": "/art/walks/omiya/sando.webp",
+      "highlightIds": [
+        "omiya--coffee",
+        "omiya--shrine",
+        "omiya--park"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "omiya-living-history",
@@ -376,6 +388,9 @@
       "ids": [
         "omiya--bibli",
         "omiya--dango",
+        "omiya--culture",
+        "omiya--zoo",
+        "omiya--park",
         "omiya--museum"
       ],
       "start": {
@@ -397,16 +412,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "從舊圖書館逛到參道點心，再用一段看展時間認識埼玉的日常。",
       "note": "含步行、三處重點與 30～45 分鐘自由探索。博物館以約 45～60 分鐘精選參觀安排；完整看展、工坊與排隊另留時間。Bibli 依現場開放區域參觀，出發前確認博物館開館日。",
       "stopNotes": {
         "omiya--bibli": "先看看舊圖書館改造後的公共空間與當天營業的小店。",
         "omiya--dango": "在參道旁挑一份團子短暫休息，不必為排隊壓縮看展時間。",
-        "omiya--museum": "挑感興趣的生活器物與地方故事細看，再往北大宮站離開。"
+        "omiya--museum": "挑感興趣的生活器物與地方故事細看，再往北大宮站離開。",
+        "omiya--culture": "順路可選：白牆與瓦簷裡，延續傳統文化。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "omiya--park": "順路可選：池畔與老樹，讓午後繼續延伸。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "omiya--zoo": "順路可選：公園裡的小動物園，適合慢慢觀察。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/omiya/bibli.webp"
+      "art": "/art/walks/omiya/bibli.webp",
+      "highlightIds": [
+        "omiya--bibli",
+        "omiya--dango",
+        "omiya--museum"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "omiya-slow-walk"
+  "defaultSelection": "omiya-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

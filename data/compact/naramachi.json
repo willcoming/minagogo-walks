@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "routes": [
     {
@@ -7,7 +7,10 @@
       "name": "町家・喫茶・工藝",
       "ids": [
         "nara_nakagawa",
+        "nara_sakura",
+        "nara_museum",
         "nara_nigiwai",
+        "nara_gangoji",
         "nara_kanakana"
       ],
       "start": {
@@ -28,22 +31,34 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "先看奈良工藝，再走進百年町家，最後留一段時間喝茶或用餐。",
       "note": "工藝購物、町家參觀與喫茶各留一段時間，不另排付費體驗。にぎわいの家通常週三休館、カナカナ通常週一休息（假日另有調整）；遇休館或長候位可改走池畔、另選附近喫茶。",
       "stopNotes": {
         "nara_nakagawa": "看看奈良工藝與生活用品，體驗課程另行預約與計時。",
         "nara_nigiwai": "走進町家，慢慢看庭園與生活空間。",
-        "nara_kanakana": "在老屋裡喝杯茶或吃一餐；長時間候位不計入規劃。"
+        "nara_kanakana": "在老屋裡喝杯茶或吃一餐；長時間候位不計入規劃。",
+        "nara_gangoji": "順路可選：抬頭看瓦色，把散步接回更久遠的奈良。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "nara_museum": "順路可選：從一串紅色身代猿，認識奈良町的生活記憶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "nara_sakura": "順路可選：為一碗現做葛切，留一段清爽的休息。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/nara/kanakana.webp"
+      "art": "/art/nara/kanakana.webp",
+      "highlightIds": [
+        "nara_nakagawa",
+        "nara_nigiwai",
+        "nara_kanakana"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "machiya",
       "name": "池畔與町家慢走",
       "ids": [
         "nara_sarusawa",
+        "nara_gangoji",
         "nara_nigiwai",
+        "nara_museum",
+        "nara_kondou",
         "nara_koshi"
       ],
       "start": {
@@ -64,15 +79,24 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "從猿澤池沿街巷向南，看看兩種町家空間，再到京終站搭車。",
       "note": "沿池岸道路散步，再依序往町家與京終站走。にぎわいの家通常週三休館、格子之家通常週一休館（假日另有調整），休館時可保留外觀與街巷散步。出發前確認京終站班次，候車另計。",
       "stopNotes": {
         "nara_sarusawa": "沿池畔散步、拍照，不需要繞池一整圈。",
         "nara_nigiwai": "看庭園與老屋格局，讓腳步在町家裡慢下來。",
-        "nara_koshi": "認識格子窗與傳統住家，之後繼續向南到京終站。"
+        "nara_koshi": "認識格子窗與傳統住家，之後繼續向南到京終站。",
+        "nara_museum": "順路可選：從一串紅色身代猿，認識奈良町的生活記憶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "nara_kondou": "順路可選：在老町家裡，吃一頓溫柔的豆腐料理。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "nara_gangoji": "順路可選：抬頭看瓦色，把散步接回更久遠的奈良。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/nara/koshi.webp"
+      "art": "/art/nara/koshi.webp",
+      "highlightIds": [
+        "nara_sarusawa",
+        "nara_nigiwai",
+        "nara_koshi"
+      ],
+      "optionalMinutes": 30
     }
   ],
   "places": [
@@ -521,7 +545,16 @@
       "note": "布蔵僅對參加體驗者開放，需事先查看官方預約。館內各店營業時間不同。",
       "official": "https://www.nakagawa-masashichi.jp/shop/pages/shikasarukitsune.aspx",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "3VfSXV2XX-Q",
+          "title": "A Day in Tokyo | Yurakucho, Shimbashi & Toranomon / A Holiday in Tokyo’s Business Area | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=3VfSXV2XX-Q",
+          "time": "10:35",
+          "seconds": 635
+        }
+      ],
       "coordinate": {
         "lat": 34.6811013,
         "lng": 135.8298753,
@@ -536,7 +569,10 @@
         "image": "/art/nara/nakagawa.webp",
         "alt": "中川政七商店 奈良本店・鹿猿狐ビルヂング，依真實照片繪製的日系水彩插圖"
       },
-      "recommendation": "看看奈良工藝與生活用品，體驗課程另行預約與計時。"
+      "recommendation": "看看奈良工藝與生活用品，體驗課程另行預約與計時。",
+      "sourceLibraryIds": [
+        "p_b16ad4ff0009fade"
+      ]
     },
     {
       "id": "nara_manmando",
@@ -572,5 +608,13 @@
       "recommendation": null
     }
   ],
-  "defaultSelection": "naramachi-day"
+  "defaultSelection": "naramachi-day",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_b16ad4ff0009fade"
+    ],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

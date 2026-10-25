@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "kyoto-ichijoji--enkouji",
@@ -338,7 +338,10 @@
       "name": "庭園、菓子與選書",
       "ids": [
         "kyoto-ichijoji--shisendo",
+        "kyoto-ichijoji--hachidai",
+        "kyoto-ichijoji--sagarimatsu",
         "kyoto-ichijoji--nakatani",
+        "kyoto-ichijoji--pan",
         "kyoto-ichijoji--keibunsha"
       ],
       "start": {
@@ -359,21 +362,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "沿山麓的寺院與小街往車站慢走，把一座庭園、一份甜點與一家書店放進午後。",
       "note": "三個推薦重點約 2.5～3 小時，含 30～45 分鐘自由探索。寺院一帶有上坡與階梯；詩仙堂、圓光寺、金福寺可依興趣擇一深入。排隊、較長用餐或多寺入內需另留時間。",
       "stopNotes": {
         "kyoto-ichijoji--shisendo": "選一座庭園慢慢看，坐著欣賞窗框裡的綠意。",
         "kyoto-ichijoji--nakatani": "下坡途中停下，從和洋菓子裡挑喜歡的一份。",
-        "kyoto-ichijoji--keibunsha": "沿街道走回書店，留時間翻書與挑小物。"
+        "kyoto-ichijoji--keibunsha": "沿街道走回書店，留時間翻書與挑小物。",
+        "kyoto-ichijoji--pan": "順路可選：車站旁的小麵包店，方便帶走一點香氣。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-ichijoji--sagarimatsu": "順路可選：路口的一棵松，留下古道的記憶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-ichijoji--hachidai": "順路可選：在山麓的小社，讀宮本武藏的故事。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-ichijoji/keibunsha.webp"
+      "art": "/art/walks/kyoto-ichijoji/keibunsha.webp",
+      "highlightIds": [
+        "kyoto-ichijoji--shisendo",
+        "kyoto-ichijoji--nakatani",
+        "kyoto-ichijoji--keibunsha"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kyoto-ichijoji-bakery-and-coffee",
       "name": "車站旁的麵包與咖啡",
       "ids": [
         "kyoto-ichijoji--pan",
+        "kyoto-ichijoji--keibunsha",
         "kyoto-ichijoji--bastet"
       ],
       "start": {
@@ -394,15 +407,27 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "留在一乘寺站旁，挑一份麵包、喝杯咖啡，把走遠的時間換成巷口探索。",
       "note": "含兩處重點、步行與 30～45 分鐘自由探索。麵包店週三定休；咖啡店請先確認當日營業公告。麵包以外帶選購安排，不預設可帶入咖啡店；完整正餐與候位另計。",
       "stopNotes": {
         "kyoto-ichijoji--pan": "在車站旁挑喜歡的麵包，沿小街看看日常店鋪。",
-        "kyoto-ichijoji--bastet": "往南稍作延伸，坐下喝杯咖啡，再沿附近街道回一乘寺站。"
+        "kyoto-ichijoji--bastet": "往南稍作延伸，坐下喝杯咖啡，再沿附近街道回一乘寺站。",
+        "kyoto-ichijoji--keibunsha": "順路可選：翻書、看器物，停在沒有清單的角落。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-ichijoji/bastet.webp"
+      "art": "/art/walks/kyoto-ichijoji/bastet.webp",
+      "highlightIds": [
+        "kyoto-ichijoji--pan",
+        "kyoto-ichijoji--bastet"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kyoto-ichijoji-slow-walk"
+  "defaultSelection": "kyoto-ichijoji-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

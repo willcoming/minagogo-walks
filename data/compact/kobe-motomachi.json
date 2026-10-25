@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
+    {
+      "id": "kobe-motomachi--p_135871d72948e644",
+      "name": "SWALLOW JAPAN",
+      "address": "3-chōme-1-16 Nakamachidōri, Chuo Ward, Kobe, Hyogo 650-0027",
+      "group": "sights",
+      "categoryLabel": "顧問",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「SWALLOW JAPAN」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-1-16 Nakamachidōri, Chuo Ward, Kobe, Hyogo 650-0027。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.678701499999995,
+        "lng": 135.17517960000004,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "kEWIJS-edSk",
+          "title": "Life in Tokyo｜A Local Tokyo Walk Along the Setagaya Line",
+          "url": "https://www.youtube.com/watch?v=kEWIJS-edSk"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_135871d72948e644"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=2812636213210088015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 1
+    },
     {
       "id": "kobe-motomachi--minatogawa",
       "name": "湊川神社",
@@ -41,7 +80,7 @@
         }
       ],
       "description": "湊川神社在神戶站北側，祭祀楠木正成，當地人親切地稱它「楠公さん」。神社於1872年創建，境內留下與正成相關的墓所及史跡，讓熱鬧港都的散步，也能接上一段更早的歷史。\n\n寬闊的木造表門與石燈籠，將街上的節奏慢慢隔開。從Harborland往車站方向走，可以把這裡作為港邊散策的延伸：看過海與現代商場，再進入樹蔭與參道，感受城市不同的安靜面貌。",
-      "order": 1,
+      "order": 2,
       "recommendation": null
     },
     {
@@ -71,7 +110,7 @@
       ],
       "photoPage": "https://harborland.co.jp/area_guide/umie/",
       "id": "kobe-motomachi--umie",
-      "order": 2,
+      "order": 3,
       "verifiedAt": "2026-10-24",
       "sources": [
         {
@@ -114,7 +153,7 @@
       "note": "展望層需購票；屋上區域可能因天候關閉。",
       "photoPage": "https://www.feel-kobe.jp/facilities/0000000144/",
       "id": "kobe-motomachi--tower",
-      "order": 3,
+      "order": 4,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "紅色鋼構與向上展開的塔身，是神戶港最有辨識度的輪廓之一。整修後的展望空間與屋上區域，讓看港景多了不同高度的視角。\n\n可以先在水岸看它如何與船隻、建築相映，再決定是否購票登塔。傍晚到夜間的燈光變化，也適合留給喜歡慢慢拍街景的人。",
@@ -147,7 +186,7 @@
       },
       "note": "通常週一休館，遇國定假日順延。",
       "id": "kobe-motomachi--maritime",
-      "order": 4,
+      "order": 5,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "港邊的海洋博物館，從船舶、港口與航運的角度介紹神戶。展場中的船模與資料，讓室外看到的海港景色有了更多可以理解的細節。\n\n適合對交通、船舶或城市發展有興趣的人，也能作為炎熱或下雨時的室內停留。看完再回到水岸，比只拍下地標輪廓多了一段故事。",
@@ -180,7 +219,7 @@
       },
       "note": "",
       "id": "kobe-motomachi--meriken",
-      "order": 5,
+      "order": 6,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "開闊的港邊公園，把草地、船影、公共藝術與神戶的地標建築放進同一片風景。從密集街巷走出來，海風與水面的尺度會讓午後自然放鬆。\n\n可以沿著水岸散步，看看港塔與海洋博物館的輪廓，也可以只在草地旁坐一會兒。想延長行程，再往 Harborland 走，將日間港景接到傍晚燈光。",
@@ -189,6 +228,45 @@
         "alt": "メリケンパーク，依實景照片繪製的日系水彩插圖"
       },
       "recommendation": "沿公園公共步道散步，看見喜歡的海景就停一下。"
+    },
+    {
+      "id": "kobe-motomachi--p_16bf5a9d7743a0e1",
+      "name": "FISH IN THE FOREST TOOTH TOOTH",
+      "address": "2-8 Hatobachō, Chuo Ward, Kobe, Hyogo 650-0042",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「FISH IN THE FOREST TOOTH TOOTH」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-8 Hatobachō, Chuo Ward, Kobe, Hyogo 650-0042。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.684819399999995,
+        "lng": 135.1897292,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "57OtKo9avlw",
+          "title": "【東京ランチ10選】市川猿之助が食べた楽屋めし、パン食べ放題ニューオープンなど！",
+          "url": "https://www.youtube.com/watch?v=57OtKo9avlw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_16bf5a9d7743a0e1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7042070532357341959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 7
     },
     {
       "name": "FEELSEEN KOBE",
@@ -216,7 +294,7 @@
         "https://feelseen.jp/pages/about"
       ],
       "id": "kobe-motomachi--feelseen",
-      "order": 6,
+      "order": 8,
       "verifiedAt": "2026-10-24",
       "sources": [
         {
@@ -258,7 +336,7 @@
       },
       "note": "週二及部分週三休店。",
       "id": "kobe-motomachi--monteplus",
-      "order": 7,
+      "order": 9,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "海岸通的法式甜點店，從生菓子、常溫烘焙點心到糖果與禮盒，展現不同的法式點心形式。它很適合接在選物店之後，讓午後多一段甜味。\n\n喜歡研究甜點造型與層次的人，可以先從櫥窗選一份最感興趣的作品。散步不必變成甜點競賽，挑一家坐下，或帶一份走，都能慢慢享受。",
@@ -295,7 +373,7 @@
       ],
       "photoPage": "https://kannonya.co.jp/",
       "id": "kobe-motomachi--kannonya",
-      "order": 8,
+      "order": 10,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "1975 年在神戶元町創業的喫茶店，以加熱後會拉絲的丹麥起司蛋糕聞名。起司的鹹香與蛋糕的甜味，構成不同於一般冷藏起司蛋糕的口感。\n\n可以當成逛元町商店街時的下午茶，也可以選擇帶回家加熱享用。若已吃過其他洋菓子，不妨把這裡留作另一日的理由，讓散步保留一點餘裕。",
@@ -329,7 +407,7 @@
       "note": "",
       "photoPage": "https://www.japan-guide.com/e/e3551.html",
       "id": "kobe-motomachi--nankin",
-      "order": 9,
+      "order": 11,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "位於元町商店街南側的中華街，店面、紅燈籠與廣場把街道變成神戶最有辨識度的風景之一。這裡的形成與開港後華人的生活、商業活動相連。\n\n不必把每個攤位排成清單，順著食慾走、留意轉角與門面更輕鬆。以中央廣場附近作為會合點，也方便接著往洋菓子店或海邊移動。",
@@ -362,7 +440,7 @@
       },
       "note": "",
       "id": "kobe-motomachi--estroyal",
-      "order": 10,
+      "order": 12,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "以シュー・ア・ラ・クレーム聞名的法式甜點店，泡芙之外也供應閃電泡芙、千層與各式烘焙點心。南京町周邊的熱鬧，在這裡轉成另一種神戶的甜味。\n\n可以挑一份小點心，讓散步有個短暫的味覺轉場。若想帶回伴手禮，烘焙餅乾也是一種選擇；不一定要把每家店都吃成一頓下午茶。",
@@ -396,7 +474,7 @@
       "note": "週三定休。",
       "photoPage": "https://kobe-journal.com/archives/9777797262.html",
       "id": "kobe-motomachi--juchheim",
-      "order": 11,
+      "order": 13,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "元町商店街上的洋菓子本店，以年輪蛋糕與各式甜點連結神戶的西式點心文化。樓下選購、樓上喫茶的安排，適合依自己的時間決定停留方式。\n\n想慢慢坐下，可以為茶點留一段完整時間；想繼續散步，也能先挑適合帶走的點心。與周邊泡芙、起司蛋糕相比，這裡又是另一種洋菓子的表情。",
@@ -430,7 +508,7 @@
       "note": "",
       "photoPage": "https://kisspress.jp/articles/62260/",
       "id": "kobe-motomachi--daimaru",
-      "order": 12,
+      "order": 14,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "位在舊居留地與元町商店街交界的百貨店，石造外觀與街角空間都是散步的一部分。館內從食品、服飾到生活用品，也讓行程多了自由調整的餘地。\n\n可以把地下食品區當成挑伴手禮的地方，或在逛完小店後補一段室內休息。從門前往不同方向走，古典街景、商店街與南京町很快就會切換。",
@@ -467,7 +545,7 @@
       ],
       "photoPage": "https://www.feel-kobe.jp/model_course/modelcourse_04/",
       "id": "kobe-motomachi--museum",
-      "order": 13,
+      "order": 15,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "舊居留地裡的博物館，以歷史、考古與國際文化交流為主題。原銀行建築的石造立面與古典列柱，也讓看展從走近大門時就已經開始。\n\n可以先欣賞外觀，再依展覽內容決定停留長短。從這裡走向南京町，建築與街道的轉換，會讓神戶不同文化共存的樣子變得更具體。",
@@ -500,7 +578,7 @@
       },
       "note": "",
       "id": "kobe-motomachi--humanmade",
-      "order": 14,
+      "order": 16,
       "verifiedAt": "2026-10-24",
       "sources": [
         {
@@ -542,7 +620,7 @@
       },
       "note": "",
       "id": "kobe-motomachi--tombodama",
-      "order": 15,
+      "order": 17,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "以燈工玻璃為主題的博物館，介紹從古代到現代的玻璃珠與工藝作品。小小的色彩、紋樣與透明感，在近距離觀看時展現不同層次。\n\n館內也安排製作體驗與選物，適合把單純看展延伸成動手做的記憶。若要參加體驗，請另留製作與冷卻等待時間，再接回舊居留地的街道。",
@@ -575,7 +653,7 @@
       },
       "note": "店家要求 smart casual 服裝。",
       "id": "kobe-motomachi--mouriya",
-      "order": 16,
+      "order": 18,
       "verifiedAt": "2026-10-24",
       "sources": [
         {
@@ -601,7 +679,10 @@
       "name": "南京町與舊居留地午後",
       "ids": [
         "kobe-motomachi--nankin",
+        "kobe-motomachi--estroyal",
         "kobe-motomachi--monteplus",
+        "kobe-motomachi--feelseen",
+        "kobe-motomachi--humanmade",
         "kobe-motomachi--museum"
       ],
       "start": {
@@ -622,22 +703,34 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "在南京町、榮町與舊居留地之間，慢慢看建築、吃甜點。",
       "note": "博物館按約45～60分鐘估算，可替換為蜻蜓玉博物館；甜點店擇一。",
       "stopNotes": {
         "kobe-motomachi--nankin": "逛廣場與周邊街道，隨興挑小吃。",
         "kobe-motomachi--monteplus": "選一份法式甜點，坐下休息。",
-        "kobe-motomachi--museum": "看一段神戶的城市故事。"
+        "kobe-motomachi--museum": "看一段神戶的城市故事。",
+        "kobe-motomachi--feelseen": "順路可選：讓布料、器物與色彩，接住旅途靈感。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-motomachi--humanmade": "順路可選：老銀行裡，開出神戶的新店。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-motomachi--estroyal": "順路可選：在中華街旁，換一口奶油香。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kobe-motomachi/nankin.webp"
+      "art": "/art/walks/kobe-motomachi/nankin.webp",
+      "highlightIds": [
+        "kobe-motomachi--nankin",
+        "kobe-motomachi--monteplus",
+        "kobe-motomachi--museum"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kobe-motomachi-cheesecake-and-harbor",
       "name": "元町甜點到港邊海風",
       "ids": [
         "kobe-motomachi--kannonya",
+        "kobe-motomachi--nankin",
+        "kobe-motomachi--monteplus",
         "kobe-motomachi--tower",
+        "kobe-motomachi--maritime",
         "kobe-motomachi--meriken"
       ],
       "start": {
@@ -658,16 +751,34 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "先在元町吃一份起司蛋糕，再慢慢走向紅色港塔與海邊，把午後留給港口。",
       "note": "港塔以地面外觀欣賞為主，登塔購票、候場與完整參觀需另留時間。海邊遇強風或下雨可縮短停留。包含 30～45 分鐘自由探索，咖啡店候位另計；不延伸到西側商場。",
       "stopNotes": {
         "kobe-motomachi--kannonya": "用起司蛋糕與飲品開始，吃完再往港邊慢走。",
         "kobe-motomachi--tower": "在地面欣賞港塔的線條與港口街景，不必為登塔趕時間。",
-        "kobe-motomachi--meriken": "沿公園公共步道散步，看見喜歡的海景就停一下。"
+        "kobe-motomachi--meriken": "沿公園公共步道散步，看見喜歡的海景就停一下。",
+        "kobe-motomachi--monteplus": "順路可選：走進海岸通，再挑一塊細緻的甜。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-motomachi--maritime": "順路可選：把港灣看見的船，再往裡讀。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kobe-motomachi--nankin": "順路可選：轉進燈籠下，街道就熱鬧起來。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kobe-motomachi/kannonya.webp"
+      "art": "/art/walks/kobe-motomachi/kannonya.webp",
+      "highlightIds": [
+        "kobe-motomachi--kannonya",
+        "kobe-motomachi--tower",
+        "kobe-motomachi--meriken"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kobe-motomachi-slow-walk"
+  "defaultSelection": "kobe-motomachi-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_16bf5a9d7743a0e1",
+      "p_135871d72948e644"
+    ],
+    "added": 2,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

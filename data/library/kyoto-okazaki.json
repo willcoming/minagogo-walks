@@ -1,0 +1,80 @@
+{
+  "places": [],
+  "matches": {
+    "kyoto-okazaki--heian": {
+      "sourceIds": [
+        "p_0e83e823145dbfdf"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6-t-19xIZOA",
+          "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
+          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
+        }
+      ]
+    },
+    "kyoto-okazaki--okakita": {
+      "sourceIds": [
+        "p_c4078d883c248ad2"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6-t-19xIZOA",
+          "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
+          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
+        }
+      ]
+    },
+    "kyoto-okazaki--bluebottle": {
+      "sourceIds": [
+        "p_801c9dcdbaa3e196",
+        "p_492aa2d322d62b8f"
+      ],
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "qB0t_EZfeng",
+          "title": "【日本橋散步】走進東京最時髦的第一間百貨 三越本館｜京都老咖啡館Soiree 夢幻甜品 ｜去吃到過南極的烏龍麵｜Tokyo vlog｜日本旅行",
+          "url": "https://www.youtube.com/watch?v=qB0t_EZfeng",
+          "time": "00:30",
+          "seconds": 30
+        },
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ]
+    },
+    "kyoto-okazaki--kyocera": {
+      "sourceIds": [
+        "p_db42bd0ef1d39b24"
+      ],
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ]
+    },
+    "kyoto-okazaki--okazakijinja": {
+      "sourceIds": [
+        "p_7d1ded7a28a58a47"
+      ],
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+        }
+      ]
+    }
+  },
+  "archived": []
+}

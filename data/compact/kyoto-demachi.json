@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "kyoto-demachi--shimogamo",
@@ -50,7 +50,16 @@
       "note": "",
       "official": "https://www.shimogamo-jinja.or.jp/bireikigan",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "FQwT5D4AH4w",
+          "title": "🇯🇵京都自由行精選 第二章：鴨川、錦市場、天橋立、伊根灣｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=FQwT5D4AH4w",
+          "time": "2:18",
+          "seconds": 138
+        }
+      ],
       "coordinate": {
         "lat": 35.0347053,
         "lng": 135.77193640000002,
@@ -66,7 +75,10 @@
         "image": "/art/walks/kyoto-demachi/kawai.webp",
         "alt": "河合神社的日系水彩插圖"
       },
-      "recommendation": null
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_3e6418bbb64b123b"
+      ]
     },
     {
       "id": "kyoto-demachi--mitsui",
@@ -125,6 +137,14 @@
           "url": "https://www.youtube.com/watch?v=FQwT5D4AH4w",
           "time": "",
           "seconds": null
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "FQwT5D4AH4w",
+          "title": "🇯🇵京都自由行精選 第二章：鴨川、錦市場、天橋立、伊根灣｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=FQwT5D4AH4w",
+          "time": "0:50",
+          "seconds": 50
         }
       ],
       "coordinate": {
@@ -141,7 +161,10 @@
         "image": "/art/walks/kyoto-demachi/river.webp",
         "alt": "鴨川三角洲與飛石的日系水彩插圖"
       },
-      "recommendation": "從河岸看兩河交會，留一段不趕路的空白。"
+      "recommendation": "從河岸看兩河交會，留一段不趕路的空白。",
+      "sourceLibraryIds": [
+        "p_ad51d74a07f848eb"
+      ]
     },
     {
       "id": "kyoto-demachi--futaba",
@@ -348,7 +371,10 @@
       "name": "豆餅、森林與鴨川",
       "ids": [
         "kyoto-demachi--futaba",
+        "kyoto-demachi--isehan",
         "kyoto-demachi--shimogamo",
+        "kyoto-demachi--kawai",
+        "kyoto-demachi--mitsui",
         "kyoto-demachi--river"
       ],
       "start": {
@@ -369,15 +395,24 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "從出町柳站走進商店街與下鴨的樹蔭，最後回到兩條河流交會的水邊。",
       "note": "三個推薦重點與沿途散步約 2.5～3 小時，含 30～45 分鐘自由探索；排隊、電影與較長入館另留時間。河水上漲或石面濕滑時留在岸邊，過河使用橋梁即可。",
       "stopNotes": {
         "kyoto-demachi--futaba": "選一份豆餅；若隊伍太長，可改在附近茶房休息。",
         "kyoto-demachi--shimogamo": "沿糺之森慢行，將神社作為主要文化停留。",
-        "kyoto-demachi--river": "從河岸看兩河交會，留一段不趕路的空白。"
+        "kyoto-demachi--river": "從河岸看兩河交會，留一段不趕路的空白。",
+        "kyoto-demachi--isehan": "順路可選：一碗餡蜜，替腳步安排休息。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-demachi--kawai": "順路可選：手鏡形繪馬，藏在森林南端。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-demachi--mitsui": "順路可選：望樓、木窗與苔庭，留下近代京都。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-demachi/river.webp"
+      "art": "/art/walks/kyoto-demachi/river.webp",
+      "highlightIds": [
+        "kyoto-demachi--futaba",
+        "kyoto-demachi--shimogamo",
+        "kyoto-demachi--river"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kyoto-demachi-books-market-and-villa",
@@ -385,6 +420,9 @@
       "ids": [
         "kyoto-demachi--cinema",
         "kyoto-demachi--masugata",
+        "kyoto-demachi--isehan",
+        "kyoto-demachi--futaba",
+        "kyoto-demachi--river",
         "kyoto-demachi--mitsui"
       ],
       "start": {
@@ -405,16 +443,34 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "從出町座的選書走進街坊商店街，再到河邊老別邸看庭園與木造建築。",
       "note": "含三處重點、步行與 30～45 分鐘自由探索。出町座安排書店與咖啡短停，完整電影另計；舊三井家別邸依當日一般公開範圍參觀，二、三樓與茶室不預設開放。跨河使用橋梁。",
       "stopNotes": {
         "kyoto-demachi--cinema": "看看電影海報與選書，想喝飲料就留一小段時間坐下。",
         "kyoto-demachi--masugata": "沿短短拱廊看日常買賣，不必每間店都停。",
-        "kyoto-demachi--mitsui": "過橋後看一般公開的主屋與庭園，再回出町柳站。"
+        "kyoto-demachi--mitsui": "過橋後看一般公開的主屋與庭園，再回出町柳站。",
+        "kyoto-demachi--river": "順路可選：兩條河流相遇，天空忽然開闊。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-demachi--futaba": "順路可選：豆餅與季節菓子，裝進午後的小紙袋。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kyoto-demachi--isehan": "順路可選：一碗餡蜜，替腳步安排休息。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kyoto-demachi/cinema.webp"
+      "art": "/art/walks/kyoto-demachi/cinema.webp",
+      "highlightIds": [
+        "kyoto-demachi--cinema",
+        "kyoto-demachi--masugata",
+        "kyoto-demachi--mitsui"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kyoto-demachi-slow-walk"
+  "defaultSelection": "kyoto-demachi-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_ad51d74a07f848eb",
+      "p_3e6418bbb64b123b"
+    ],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

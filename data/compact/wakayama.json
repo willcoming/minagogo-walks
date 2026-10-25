@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
@@ -527,6 +527,7 @@
       "ids": [
         "wakayama--castle",
         "wakayama--momiji",
+        "wakayama--history",
         "wakayama--koshoan"
       ],
       "start": {
@@ -547,21 +548,30 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "沿城公園的綠意，慢慢走到庭園與茶室。",
       "note": "已為登城坡階留時間；雨天可用縣立博物館或近代美術館替換登城。",
       "stopNotes": {
         "wakayama--castle": "經坡道與石階登城，看天守與城下風景。",
         "wakayama--momiji": "沿庭園慢走，欣賞池水與綠意。",
-        "wakayama--koshoan": "在茶室休息，喝一席抹茶。"
+        "wakayama--koshoan": "在茶室休息，喝一席抹茶。",
+        "wakayama--history": "順路可選：在城的入口，先接上幾段故事。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/wakayama/castle.webp"
+      "art": "/art/walks/wakayama/castle.webp",
+      "highlightIds": [
+        "wakayama--castle",
+        "wakayama--momiji",
+        "wakayama--koshoan"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "wakayama-art-and-city-memories",
       "name": "城南看展與公園留白",
       "ids": [
         "wakayama--prefart",
+        "wakayama--prefmuseum",
+        "wakayama--sasuta",
         "wakayama--oka"
       ],
       "start": {
@@ -582,15 +592,28 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "把一個午後留給城南的藝術與綠意：只看一館展覽，再去公園找老電車與城市記憶。",
       "note": "近代美術館週一休館，遇國定假日順延，展覽內容依當期公告。只安排一座美術館，不把天守登城或隔壁博物館一併塞入。包含 30～45 分鐘自由探索；公園依園路與現場告示慢行，巴士接駁及候車另計。",
       "stopNotes": {
         "wakayama--prefart": "選一個有興趣的展區細看，給藝術一段不趕時間的停留。",
-        "wakayama--oka": "沿園路看看保存的蒸汽機車、路面電車與老建築，找個角落休息。"
+        "wakayama--oka": "沿園路看看保存的蒸汽機車、路面電車與老建築，找個角落休息。",
+        "wakayama--prefmuseum": "順路可選：走進展場，先讀一點紀州。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "wakayama--sasuta": "順路可選：沿著老樹，聽一段吉宗的故事。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/wakayama/prefart.webp"
+      "art": "/art/walks/wakayama/prefart.webp",
+      "highlightIds": [
+        "wakayama--prefart",
+        "wakayama--oka"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "wakayama-slow-walk"
+  "defaultSelection": "wakayama-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

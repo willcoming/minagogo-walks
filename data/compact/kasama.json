@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
@@ -504,7 +504,10 @@
       "name": "稻荷門前的小店時光",
       "ids": [
         "kasama--inari",
+        "kasama--nakaya",
+        "kasama--lemidi",
         "kasama--idutsuya",
+        "kasama--littlecu",
         "kasama--futaba"
       ],
       "start": {
@@ -525,15 +528,24 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "從稻荷神社走過門前通，在老屋與咖啡之間慢慢逛。",
       "note": "日動美術館可替換井筒屋與部分逛店時間；回程巴士依班次安排。",
       "stopNotes": {
         "kasama--inari": "慢慢參拜與欣賞境內。",
         "kasama--idutsuya": "走進老旅館改成的交流空間。",
-        "kasama--futaba": "咖啡休息，再決定想逛的小店。"
+        "kasama--futaba": "咖啡休息，再決定想逛的小店。",
+        "kasama--littlecu": "順路可選：在小小店面裡，慢慢找一件喜歡的器物。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kasama--lemidi": "順路可選：在藍色窗框旁，挑一只日常的杯。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kasama--nakaya": "順路可選：在木格子老店前，選一份饅頭。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kasama/inari.webp"
+      "art": "/art/walks/kasama/inari.webp",
+      "highlightIds": [
+        "kasama--inari",
+        "kasama--idutsuya",
+        "kasama--futaba"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "kasama-art-and-sweet-things",
@@ -541,6 +553,9 @@
       "ids": [
         "kasama--nichido",
         "kasama--choco",
+        "kasama--idutsuya",
+        "kasama--littlecu",
+        "kasama--nakaya",
         "kasama--lemidi"
       ],
       "start": {
@@ -561,16 +576,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "先把時間留給畫作，再沿回門前的方向挑巧克力與笠間器物。",
       "note": "日動美術館週一休館，假日安排依館方公告；巧克力店與 LE MIDI 週二休店。三處擇重點逛，不必看完所有展館；巴士接駁與候車另計。",
       "stopNotes": {
         "kasama--nichido": "選一段最感興趣的展示慢看，別急著逛完全部展館。",
         "kasama--choco": "挑一份巧克力點心，補上散步的小甜味。",
-        "kasama--lemidi": "看笠間燒與生活雜貨，想休息時再安排咖啡。"
+        "kasama--lemidi": "看笠間燒與生活雜貨，想休息時再安排咖啡。",
+        "kasama--nakaya": "順路可選：在木格子老店前，選一份饅頭。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kasama--idutsuya": "順路可選：在三層木造老旅館裡，讀一點笠間。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "kasama--littlecu": "順路可選：在小小店面裡，慢慢找一件喜歡的器物。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/kasama/nichido.webp"
+      "art": "/art/walks/kasama/nichido.webp",
+      "highlightIds": [
+        "kasama--nichido",
+        "kasama--choco",
+        "kasama--lemidi"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "kasama-slow-walk"
+  "defaultSelection": "kasama-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

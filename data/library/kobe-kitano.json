@@ -1,0 +1,44 @@
+{
+  "places": [
+    {
+      "id": "kobe-kitano--p_9c5f5c642746adb2",
+      "name": "Shigematsu",
+      "address": "〒650-0004 Hyogo, Kobe, Chuo Ward, Nakayamatedōri, 2-chōme−1−１７ 2階",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Shigematsu」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒650-0004 Hyogo, Kobe, Chuo Ward, Nakayamatedōri, 2-chōme−1−１７ 2階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.6960136,
+        "lng": 135.1908576,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "D-4lF6_WxtQ",
+          "title": "[池袋] 2022年上半年池袋午餐新公開總結！",
+          "url": "https://www.youtube.com/watch?v=D-4lF6_WxtQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9c5f5c642746adb2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6016128166403552080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    }
+  ],
+  "matches": {},
+  "archived": []
+}

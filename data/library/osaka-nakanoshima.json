@@ -1,0 +1,88 @@
+{
+  "places": [
+    {
+      "id": "osaka-nakanoshima--p_fd6484147b2101f4",
+      "name": "WowUs ワオアス",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「WowUs ワオアス」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.6953392,
+        "lng": 135.5006598,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vctjD9CdC54",
+          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vctjD9CdC54",
+          "time": "8:26",
+          "seconds": 506
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fd6484147b2101f4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/WowUs%EF%BC%88%E3%83%AF%E3%82%AA%E3%82%A2%E3%82%B9%EF%BC%89/@34.6953436,135.4980849,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e7004a4a07d9:0x50555c70fac555e2!8m2!3d34.6953392!4d135.5006598!16s%2Fg%2F11w98wgmv8?entry=tts&g_ep=EgoyMDI1MDYwMi4wIPu8ASoASAFQAw%3D%3D&skid=5f4a5def-ccf4-49ba-a01b-42fac8894556"
+      }
+    }
+  ],
+  "matches": {
+    "osaka-nakanoshima--hall": {
+      "sourceIds": [
+        "p_33787f173026dd52"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vctjD9CdC54",
+          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vctjD9CdC54"
+        }
+      ]
+    },
+    "osaka-nakanoshima--park": {
+      "sourceIds": [
+        "p_b6c48dbeca6d9276"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vctjD9CdC54",
+          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vctjD9CdC54",
+          "time": "21:09",
+          "seconds": 1269
+        }
+      ]
+    },
+    "osaka-nakanoshima--books": {
+      "sourceIds": [
+        "p_087c03d0e915a025"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vctjD9CdC54",
+          "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vctjD9CdC54"
+        }
+      ]
+    }
+  },
+  "archived": []
+}

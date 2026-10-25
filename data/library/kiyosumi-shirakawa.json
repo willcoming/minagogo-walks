@@ -1,0 +1,452 @@
+{
+  "places": [
+    {
+      "id": "kiyosumi-shirakawa--p_62bdf99d8fd11928",
+      "name": "小麦の奴隷 LABO×MITSUME",
+      "address": "東京都江東区常盤1-15-1 1F MITSUME内",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「小麦の奴隷 LABO×MITSUME」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都江東区常盤1-15-1 1F MITSUME内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.684788,
+        "lng": 139.794617,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%B8%B8%E7%9B%A41-15-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "8:08",
+          "seconds": 488
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_62bdf99d8fd11928"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/MITSUME/data=!4m7!3m6!1s0x60188969c9899967:0x78a2f22ecd2211b0!8m2!3d35.684812!4d139.7946963!16s%2Fg%2F11xvlpj3vv!19sChIJZ5mJyWmJGGARsBEizS7yong?authuser=0&hl=zh-TW&rclk=1"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--p_155fff76ca19dd39",
+      "name": "Allpress Espresso Tokyo Roastery & Cafe",
+      "address": "3-chōme-7-2 Hirano, Koto City, Tokyo 135-0023",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Allpress Espresso Tokyo Roastery & Cafe」出現在MissLiv 日本旅行和生活的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-7-2 Hirano, Koto City, Tokyo 135-0023。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6777551,
+        "lng": 139.80517369999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "zijMVFsbSLE",
+          "title": "【清澄白河 散策】穿越時空品味東京｜Dior絕美特展｜在地美食 深川飯｜咖啡＆蜂蜜專賣店｜川邊櫻花步道｜Tokyo Vlog｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=zijMVFsbSLE"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_155fff76ca19dd39"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=9319004302698675331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--p_b604af4fde716f6a",
+      "name": "BELLA NAPOLI",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「BELLA NAPOLI」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6853425,
+        "lng": 139.7991211,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "79-liI53PXE",
+          "title": "東京必比登48小時爽吃特輯十選 ! 米其林推薦東京美食，激推粉嫩炸豬菲力、火山生火腿披薩、職人提燈燒鳥初體驗、TABELOG3.81拉麵名店 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=79-liI53PXE",
+          "time": "7:44",
+          "seconds": 464
+        },
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "yjFRrLFfEeg",
+          "title": "東京美食地圖，最想二刷的10家店 ! TOP 10 Must-Try FOOD in Tokyo",
+          "url": "https://www.youtube.com/watch?v=yjFRrLFfEeg",
+          "time": "20:52",
+          "seconds": 1252
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b604af4fde716f6a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Bella+Napoli/@35.6842683,139.7956756,14.75z/data=!4m5!3m4!1s0x0:0x7f9767d1047d7e86!8m2!3d35.6853425!4d139.7991211?coh=164777&shorturl=1"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--p_b231c7d0ce46bc81",
+      "name": "Farm to Me Restaurant",
+      "address": "〒135-0006 Tokyo, Koto City, Tokiwa, 1-chōme−4−４ Farm to Me SUGAR FACTORY 3階",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Farm to Me Restaurant」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒135-0006 Tokyo, Koto City, Tokiwa, 1-chōme−4−４ Farm to Me SUGAR FACTORY 3階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.684885,
+        "lng": 139.794117,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "KBCfPUMACUw",
+          "title": "【東京朝ごはん10選】5つ星ホテルモーニングが500円!?築地本願寺で食べる全18品の至福モーニングなど！",
+          "url": "https://www.youtube.com/watch?v=KBCfPUMACUw"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DXc_pL3Gp94",
+          "title": "【東京モーニング10選】百名店シェフのパン食べ放題、ウルフ・アロンも訪れる朝食ビュッフェなど！",
+          "url": "https://www.youtube.com/watch?v=DXc_pL3Gp94"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "tIg0FjmVmR4",
+          "title": "【2025年総集編】東京モーニング巡り12選🥐 幅広ジャンルで紹介！",
+          "url": "https://www.youtube.com/watch?v=tIg0FjmVmR4",
+          "time": "00:19",
+          "seconds": 19
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b231c7d0ce46bc81",
+          "p_4fa0dc1ab378a8bc"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=4413411979074118234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--p_a4ce61758b9a0179",
+      "name": "HAGAN ORGANIC COFFEE(ヘイガン オーガニック コーヒー)",
+      "address": "東京都江東区平野3-7-21",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「HAGAN ORGANIC COFFEE(ヘイガン オーガニック コーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都江東区平野3-7-21。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.677757,
+        "lng": 139.805542,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%B9%B3%E9%87%8E3-7-21",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "1:40",
+          "seconds": 100
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a4ce61758b9a0179"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/HAGAN+ORGANIC+COFFEE/@35.6778093,139.8056077,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b266b6d2501:0x7090acc2f345d2b7!8m2!3d35.6778093!4d139.8056077!16s%2Fg%2F11qpr60cg5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--p_448c675d56366a58",
+      "name": "Kashikobo Fukudora",
+      "address": "〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Kashikobo Fukudora」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.6880978,
+        "lng": 139.814531,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "WbjuVVVInPo",
+          "title": "東京 🇯🇵 | 百大名店日式銅鑼燒專賣店！從紅豆、地瓜到蒙布朗口味的東京必買伴手禮",
+          "url": "https://www.youtube.com/watch?v=WbjuVVVInPo"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_448c675d56366a58"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=11664622512999259906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--p_0d5099d4cbbd85aa",
+      "name": "Museum of Contemporary Art Tokyo",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Museum of Contemporary Art Tokyo」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6797467,
+        "lng": 139.8081921,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/2hxsdEBc3x6m31PY9",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "YoqqAl6cewU",
+          "title": "15 MUST-VISIT SPOTS IN TOKYO 🍜🍣｜Ramen Cooking Class, Asakusa & Hidden Cafes｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=YoqqAl6cewU",
+          "time": "19:25",
+          "seconds": 1165
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0d5099d4cbbd85aa"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/2hxsdEBc3x6m31PY9"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--p_2dd6bdfe83eae05f",
+      "name": "TOKAKU coffee+(トカクコーヒー)",
+      "address": "東京都江東区清澄3-1-3",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「TOKAKU coffee+(トカクコーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都江東区清澄3-1-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.679115,
+        "lng": 139.796188,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%B8%85%E6%BE%843-1-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "4:39",
+          "seconds": 279
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2dd6bdfe83eae05f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=TOKAKU+coffee%2B%28%E3%83%88%E3%82%AB%E3%82%AF%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%29+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%B8%85%E6%BE%843-1-3"
+      }
+    }
+  ],
+  "matches": {
+    "kiyosumi-shirakawa--sandwich": {
+      "sourceIds": [
+        "p_1ef33351c7e10a78"
+      ],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "2:55",
+          "seconds": 175
+        }
+      ]
+    },
+    "kiyosumi-shirakawa--kamasho": {
+      "sourceIds": [
+        "p_c98fa15e5200b3b3"
+      ],
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "zijMVFsbSLE",
+          "title": "【清澄白河 散策】穿越時空品味東京｜Dior絕美特展｜在地美食 深川飯｜咖啡＆蜂蜜專賣店｜川邊櫻花步道｜Tokyo Vlog｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=zijMVFsbSLE"
+        }
+      ]
+    },
+    "kiyosumi-shirakawa--b2": {
+      "sourceIds": [
+        "p_30dcaa80f4635d46"
+      ],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "0:14",
+          "seconds": 14
+        }
+      ]
+    },
+    "kiyosumi-shirakawa--bee": {
+      "sourceIds": [
+        "p_cc5ef1b04a25e7ed"
+      ],
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "zijMVFsbSLE",
+          "title": "【清澄白河 散策】穿越時空品味東京｜Dior絕美特展｜在地美食 深川飯｜咖啡＆蜂蜜專賣店｜川邊櫻花步道｜Tokyo Vlog｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=zijMVFsbSLE"
+        }
+      ]
+    },
+    "kiyosumi-shirakawa--blue-bottle": {
+      "sourceIds": [
+        "p_067c7eb8e949d13f",
+        "p_ea8b348616321e46"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "YoqqAl6cewU",
+          "title": "15 MUST-VISIT SPOTS IN TOKYO 🍜🍣｜Ramen Cooking Class, Asakusa & Hidden Cafes｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=YoqqAl6cewU",
+          "time": "27:27",
+          "seconds": 1647
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "6:59",
+          "seconds": 419
+        }
+      ]
+    },
+    "kiyosumi-shirakawa--iki": {
+      "sourceIds": [
+        "p_f020ab5d020405d4"
+      ],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "5:42",
+          "seconds": 342
+        }
+      ]
+    }
+  },
+  "archived": []
+}

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "sakai--seigakuin",
@@ -338,6 +338,9 @@
       "name": "老町家、工藝與一杯茶",
       "ids": [
         "sakai--teppo",
+        "sakai--seigakuin",
+        "sakai--mizuno",
+        "sakai--yamaguchi",
         "sakai--tsuboichi",
         "sakai--denshokan"
       ],
@@ -359,22 +362,34 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "從北旅籠町的老屋出發，沿職人街區走向茶寮與傳匠館。",
       "note": "三座町家展館可擇一深入；水野鍛鍊所參觀先確認安排。完整工藝體驗、候位與用餐另留時間。",
       "stopNotes": {
         "sakai--teppo": "在老屋裡認識堺的鍛冶與分工。",
         "sakai--tsuboichi": "坐進町家茶寮，喝茶休息。",
-        "sakai--denshokan": "從器物與展示，看看堺的工藝。"
+        "sakai--denshokan": "從器物與展示，看看堺的工藝。",
+        "sakai--mizuno": "順路可選：從老鍛冶屋，看見器物的來處。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sakai--yamaguchi": "順路可選：從土間與木梁，想像町家的日常。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sakai--seigakuin": "順路可選：小小寺院，留著寺子屋的記憶。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/sakai/tsuboichi.webp"
+      "art": "/art/walks/sakai/tsuboichi.webp",
+      "highlightIds": [
+        "sakai--teppo",
+        "sakai--tsuboichi",
+        "sakai--denshokan"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "sakai-school-and-townhouses",
       "name": "寺子屋與町家的歲月",
       "ids": [
         "sakai--seigakuin",
+        "sakai--teppo",
+        "sakai--mizuno",
         "sakai--yamaguchi",
+        "sakai--kakuoji",
         "sakai--honganji"
       ],
       "start": {
@@ -395,16 +410,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "從小小寺子屋走到町家大梁，再在寺院前停一停，沿著街巷讀懂堺的日常歷史。",
       "note": "清學院、山口家住宅通常週二休館，遇假日順延，年末年始另休。挑一館深入，另一館短看即可；本願寺堺別院依開放範圍參觀，不預設內殿或活動開放。保留 30～45 分鐘自由探索與休息，展館臨時休館依公告。",
       "stopNotes": {
         "sakai--seigakuin": "看看寺子屋相關展示，從小尺度的建築認識地方教育。",
         "sakai--yamaguchi": "留意寬闊土間與木梁，把這裡作主要町家停留。",
-        "sakai--honganji": "在寺院周邊慢看木造建築，再往花田口站方向收尾。"
+        "sakai--honganji": "在寺院周邊慢看木造建築，再往花田口站方向收尾。",
+        "sakai--kakuoji": "順路可選：在安靜境內，遇見與謝野晶子的詩。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sakai--mizuno": "順路可選：從老鍛冶屋，看見器物的來處。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "sakai--teppo": "順路可選：走進鍛冶職人的作業場與住居。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/sakai/seigakuin.webp"
+      "art": "/art/walks/sakai/seigakuin.webp",
+      "highlightIds": [
+        "sakai--seigakuin",
+        "sakai--yamaguchi",
+        "sakai--honganji"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "sakai-slow-walk"
+  "defaultSelection": "sakai-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

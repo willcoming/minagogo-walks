@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "shibamata--tora",
@@ -121,9 +121,7 @@
           "channel": "Hina Life in Japan",
           "videoId": "sXbqwt-N8i0",
           "title": "How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods",
-          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0",
-          "time": "",
-          "seconds": null
+          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
         }
       ],
       "coordinate": {
@@ -140,7 +138,10 @@
         "image": "/art/walks/shibamata/yamamoto.webp",
         "alt": "山本亭的日系水彩插圖"
       },
-      "recommendation": "坐在老宅，從窗邊看庭園。"
+      "recommendation": "坐在老宅，從窗邊看庭園。",
+      "sourceLibraryIds": [
+        "p_972147635a89f470"
+      ]
     },
     {
       "id": "shibamata--taishakuten",
@@ -328,9 +329,7 @@
           "channel": "Hina Life in Japan",
           "videoId": "sXbqwt-N8i0",
           "title": "How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods",
-          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0",
-          "time": "",
-          "seconds": null
+          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
         }
       ],
       "coordinate": {
@@ -347,7 +346,88 @@
         "image": "/art/walks/shibamata/takagiya.webp",
         "alt": "高木屋老舖的日系水彩插圖"
       },
-      "recommendation": "挑一份草糰子，喝茶休息。"
+      "recommendation": "挑一份草糰子，喝茶休息。",
+      "sourceLibraryIds": [
+        "p_868c9ff0022a07d5"
+      ]
+    },
+    {
+      "id": "shibamata--p_c159b16530210987",
+      "name": "Taishakuten Sandō",
+      "address": "7-chōme-7-4 Shibamata, 葛飾区 Katsushika City, Tokyo 125-0052",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Taishakuten Sandō」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 7-chōme-7-4 Shibamata, 葛飾区 Katsushika City, Tokyo 125-0052。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7576512,
+        "lng": 139.87658009999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "sXbqwt-N8i0",
+          "title": "How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods",
+          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c159b16530210987"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=12143433986331728921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 11
+    },
+    {
+      "id": "shibamata--p_86f5a24a0efe8535",
+      "name": "Shibamata Haikara Yokocho",
+      "address": "7-chōme-3-12 Shibamata, Katsushika City, Tokyo 125-0052",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Shibamata Haikara Yokocho」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 7-chōme-3-12 Shibamata, Katsushika City, Tokyo 125-0052。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7573995,
+        "lng": 139.87591079999999,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "sXbqwt-N8i0",
+          "title": "How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods",
+          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_86f5a24a0efe8535"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6010531765933556792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "order": 12
     }
   ],
   "routes": [
@@ -357,6 +437,9 @@
       "ids": [
         "shibamata--taishakuten",
         "shibamata--yamamoto",
+        "shibamata--matsuya",
+        "shibamata--ishii",
+        "shibamata--toraya",
         "shibamata--takagiya"
       ],
       "start": {
@@ -377,21 +460,33 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "參道點心、古寺與庭園，在柴又留一個慢慢走的午後。",
       "note": "喜歡電影可用紀念館替換山本亭；兩座電影展館擇一即可。完整用餐與候位另留時間。",
       "stopNotes": {
         "shibamata--taishakuten": "參拜、看看木雕與古松。",
         "shibamata--yamamoto": "坐在老宅，從窗邊看庭園。",
-        "shibamata--takagiya": "挑一份草糰子，喝茶休息。"
+        "shibamata--takagiya": "挑一份草糰子，喝茶休息。",
+        "shibamata--toraya": "順路可選：老街門面下的一份草糰子。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "shibamata--ishii": "順路可選：在老木屋裡，挑一份參道甜味。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "shibamata--matsuya": "順路可選：菱格門面裡的傳統糖果。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/shibamata/taishakuten.webp"
+      "art": "/art/walks/shibamata/taishakuten.webp",
+      "highlightIds": [
+        "shibamata--taishakuten",
+        "shibamata--yamamoto",
+        "shibamata--takagiya"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "shibamata-cinema-and-greenery",
       "name": "電影街景與江戶川綠地",
       "ids": [
         "shibamata--toraya",
+        "shibamata--ishii",
+        "shibamata--matsuya",
+        "shibamata--yamada",
         "shibamata--tora",
         "shibamata--park"
       ],
@@ -413,16 +508,36 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "用草糰子的甜味開場，走入寅次郎的電影世界，再在公園放慢腳步。",
       "note": "寅次郎紀念館原則第 3 週二休館，假日順延，另有歲末休館日；先以一座電影館為重點，公園只選一段好走的路，候位另計。",
       "stopNotes": {
         "shibamata--toraya": "挑一份草糰子，感受參道老店的氣氛。",
         "shibamata--tora": "看電影場景與展示，認識寅次郎的柴又。",
-        "shibamata--park": "到公園與江戶川側綠地透透氣，依天候決定停留。"
+        "shibamata--park": "到公園與江戶川側綠地透透氣，依天候決定停留。",
+        "shibamata--yamada": "順路可選：從器材與作品，看看電影怎麼誕生。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "shibamata--ishii": "順路可選：在老木屋裡，挑一份參道甜味。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "shibamata--matsuya": "順路可選：菱格門面裡的傳統糖果。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/shibamata/tora.webp"
+      "art": "/art/walks/shibamata/tora.webp",
+      "highlightIds": [
+        "shibamata--toraya",
+        "shibamata--tora",
+        "shibamata--park"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "shibamata-slow-walk"
+  "defaultSelection": "shibamata-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_972147635a89f470",
+      "p_868c9ff0022a07d5",
+      "p_86f5a24a0efe8535",
+      "p_c159b16530210987"
+    ],
+    "added": 2,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

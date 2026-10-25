@@ -1,0 +1,2410 @@
+{
+  "places": [
+    {
+      "id": "jiyugaoka--p_3617c2776b3f5525",
+      "name": "九品山 唯在念佛院 淨眞寺",
+      "address": "7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「九品山 唯在念佛院 淨眞寺」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.6082361,
+        "lng": 139.6609528,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "sdg7anUPcHI",
+          "title": "東京櫻花綻放時：走進谷中靈園與六義園點燈 | Spring is here again in Tokyo",
+          "url": "https://www.youtube.com/watch?v=sdg7anUPcHI",
+          "time": "0:40",
+          "seconds": 40
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3617c2776b3f5525"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=13888666751185333972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_6af6bdcf8f27fa44",
+      "name": "大山生煎店",
+      "address": "東京都目黒区自由が丘１丁目４−６",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「大山生煎店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘１丁目４−６。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.608299,
+        "lng": 139.670746,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981%E4%B8%81%E7%9B%AE4%E2%88%926",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "jpwAX4pNvzA",
+          "title": "cafe vlog｜東横線沿線カフェ・グルメ10選 ⚘⠜／自由が丘／学芸大学／祐天寺／都立大学",
+          "url": "https://www.youtube.com/watch?v=jpwAX4pNvzA",
+          "time": "03:39",
+          "seconds": 219
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6af6bdcf8f27fa44"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E5%B1%B1%E7%94%9F%E7%85%8E%E5%BA%97/@35.6083488,139.6708585,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f521d7af96e1:0x24e656f5d983d17b!8m2!3d35.6083488!4d139.6708585!16s%2Fg%2F1tdzg0rt?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_a8729ae024a2bb45",
+      "name": "古桑庵",
+      "address": "東京都目黒区自由が丘1丁目24-23",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「古桑庵」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘1丁目24-23。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.610561,
+        "lng": 139.668472,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981%E4%B8%81%E7%9B%AE24-23",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NPntk8Pbcic",
+          "title": "【自由が丘】スイーツ激戦区！自由が丘おすすめカフェ７選／人気店・有名店・老舗店など",
+          "url": "https://www.youtube.com/watch?v=NPntk8Pbcic",
+          "time": "03:51",
+          "seconds": 231
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a8729ae024a2bb45"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%8F%A4%E6%B0%91%E5%AE%B6%E8%8C%B6%E5%B1%8B.%E6%8A%B9%E8%8C%B6%E5%86%B0+%E5%8F%A4%E6%A1%91%E5%BA%B5/@35.6106826,139.6685775,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f4e031e0ab65:0xedc7143031af0912!8m2!3d35.6106826!4d139.6685775!16s%2Fg%2F1tmpkk4n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_97c7c35ba75a38b6",
+      "name": "台湾 席茶 蓮月庭",
+      "address": "東京都目黒区自由が丘2-15-10 A&Dハウス102",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「台湾 席茶 蓮月庭」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘2-15-10 A&Dハウス102。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.607529,
+        "lng": 139.666061,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-15-10",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "jpwAX4pNvzA",
+          "title": "cafe vlog｜東横線沿線カフェ・グルメ10選 ⚘⠜／自由が丘／学芸大学／祐天寺／都立大学",
+          "url": "https://www.youtube.com/watch?v=jpwAX4pNvzA",
+          "time": "12:53",
+          "seconds": 773
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_97c7c35ba75a38b6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%8F%B0%E6%B9%BE%E5%B8%AD%E8%8C%B6+%E8%93%AE%E6%9C%88%E5%BA%AD/@35.6077777,139.6662703,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f54155ae1507:0xb787893ed01ecaea!8m2!3d35.6077777!4d139.6662703!16s%2Fg%2F11hf1pw8l3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_bbbcfa152724fbf5",
+      "name": "有機茶生どら Dolala",
+      "address": "東京都目黒区中根1-23-5 1F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「有機茶生どら Dolala」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区中根1-23-5 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.61377,
+        "lng": 139.669785,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%AD%E6%A0%B91-23-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "qacCtvyNScw",
+          "title": "cafe vlog｜東 京 抹 茶 ス イ ー ツ 巡 り ８ 選／表参道・銀座・下北沢・自由が丘・日本橋他",
+          "url": "https://www.youtube.com/watch?v=qacCtvyNScw",
+          "time": "1:56",
+          "seconds": 116
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "jpwAX4pNvzA",
+          "title": "cafe vlog｜東横線沿線カフェ・グルメ10選 ⚘⠜／自由が丘／学芸大学／祐天寺／都立大学",
+          "url": "https://www.youtube.com/watch?v=jpwAX4pNvzA",
+          "time": "14:34",
+          "seconds": 874
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bbbcfa152724fbf5"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Dolala/@35.6137654,139.6697551,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5163e74cccd:0x97c7b15e79776f57!8m2!3d35.6137654!4d139.6697551!16s%2Fg%2F11gxj8414z?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_4ec402daf95da05e",
+      "name": "自由が丘 ミューズスクエア (JIYUGAOKA MUSE SQUARE)",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「自由が丘 ミューズスクエア (JIYUGAOKA MUSE SQUARE)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6079434,
+        "lng": 139.6684941,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/wMyY7tcQBRkt29D97",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "MfR2nDwyS6o",
+          "title": "東京自由之丘 MUSE SQUARE 🇯🇵 站前新商場開幕！蒙布朗名店與甜點麵包巡禮 | 日本美食",
+          "url": "https://www.youtube.com/watch?v=MfR2nDwyS6o"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "fVIwSECYBgk",
+          "title": "Tokyo Vlog 🗼✨ A Winter Guide to Shopping, Eating and Coffee in Tokyo",
+          "url": "https://www.youtube.com/watch?v=fVIwSECYBgk",
+          "time": "27:06",
+          "seconds": 1626
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "a-bPndpKXiA",
+          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
+          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA",
+          "time": "30:36",
+          "seconds": 1836
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_4ec402daf95da05e",
+          "p_288d299893f22bcd",
+          "p_ef2c15d59833f411"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/wMyY7tcQBRkt29D97"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_9ecab1cb225726f3",
+      "name": "和栗モンブラン専門店・栗歩",
+      "address": "東京都目黒区自由が丘1-9-6 オハナビル2F",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「和栗モンブラン専門店・栗歩」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘1-9-6 オハナビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.607357,
+        "lng": 139.669373,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-9-6",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "qiXX35U42pk",
+          "title": "【自由が丘】和栗モンブラン専門店-栗歩-2020年8月オープン！",
+          "url": "https://www.youtube.com/watch?v=qiXX35U42pk"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9ecab1cb225726f3"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%92%8C%E6%A0%97%E3%83%A2%E3%83%B3%E3%83%96%E3%83%A9%E3%83%B3%E5%B0%82%E9%96%80%E5%BA%97+%E3%80%8C%E6%A0%97%E6%AD%A9%E3%80%8D+%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E5%BA%97/@35.607832,139.6673889,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5a4044a25b5:0x12beb835f31dee2b!8m2!3d35.607832!4d139.6673889!16s%2Fg%2F11k0tccw7z?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_235b4857c973520d",
+      "name": "花きゃべつ",
+      "address": "東京都目黒区自由が丘1丁目7-3",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「花きゃべつ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘1丁目7-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.60741,
+        "lng": 139.670837,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981%E4%B8%81%E7%9B%AE7-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NPntk8Pbcic",
+          "title": "【自由が丘】スイーツ激戦区！自由が丘おすすめカフェ７選／人気店・有名店・老舗店など",
+          "url": "https://www.youtube.com/watch?v=NPntk8Pbcic",
+          "time": "00:17",
+          "seconds": 17
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_235b4857c973520d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Hanakyabetsu/@35.6073925,139.6708477,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f51f5f911ed7:0x8b0823d0e1c0fdd1!8m2!3d35.6073925!4d139.6708477!16s%2Fg%2F1tnpl0x5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_bb6b140592115737",
+      "name": "茶房牡丹 (Sabou Botan)",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「茶房牡丹 (Sabou Botan)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6037442,
+        "lng": 139.6676007,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/H9WbCQiprJYZFFx86",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "TkrG4kGLWgQ",
+          "title": "東京 🇯🇵 必吃日式和菓子！絕品黑芝麻麻糬與水果大福 甜點",
+          "url": "https://www.youtube.com/watch?v=TkrG4kGLWgQ",
+          "time": "00:37",
+          "seconds": 37
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bb6b140592115737"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/H9WbCQiprJYZFFx86"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_07ff0e02ab26b303",
+      "name": "資生堂パーラー 自由が丘店",
+      "address": "東京都目黒区自由が丘1丁目4-10",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「資生堂パーラー 自由が丘店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘1丁目4-10。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.608372,
+        "lng": 139.671249,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981%E4%B8%81%E7%9B%AE4-10",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NPntk8Pbcic",
+          "title": "【自由が丘】スイーツ激戦区！自由が丘おすすめカフェ７選／人気店・有名店・老舗店など",
+          "url": "https://www.youtube.com/watch?v=NPntk8Pbcic",
+          "time": "09:06",
+          "seconds": 546
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_07ff0e02ab26b303"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E8%B3%87%E7%94%9F%E5%A0%82PARLOUR+%E8%87%AA%E7%94%B1%E4%B9%8B%E4%B8%98%E5%BA%97/@35.6083038,139.6712061,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5680ba1f029:0xee8692e2a08eb9bf!8m2!3d35.6083038!4d139.6712061!16s%2Fg%2F11h18cyx0x?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_29cbaf7b3a1349fe",
+      "name": "Alpha Beta Coffee Club",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−10−４ ミルシェ自由が丘 3F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Alpha Beta Coffee Club」出現在Celia Ting、Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−10−４ ミルシェ自由が丘 3F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.608203599999996,
+        "lng": 139.66807269999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "w87nLAk6Pck",
+          "title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
+          "url": "https://www.youtube.com/watch?v=w87nLAk6Pck"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "-iodvyH_GRE",
+          "title": "Tokyo Vlog 2026 🇯🇵 Nakameguro, Daikanyama, Jiyugaoka Cafes & Shopping | Japan Travel Guide",
+          "url": "https://www.youtube.com/watch?v=-iodvyH_GRE"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "n5bMQOSdyoI",
+          "title": "cafe vlog｜自由が丘カフェ7店舗！クレープ／パン屋／ワッフル／アボカド／...etc",
+          "url": "https://www.youtube.com/watch?v=n5bMQOSdyoI",
+          "time": "0:12",
+          "seconds": 12
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_29cbaf7b3a1349fe",
+          "p_3dcfd6d7882e8635"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=8053498175931780579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_fe665ea89a684890",
+      "name": "amber",
+      "address": "〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 2F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「amber」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6065095,
+        "lng": 139.6668731,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "Ze0IizspsQA",
+          "title": "Life in Tokyo｜10 Favorite Tokyo Spots: My Go-To Japanese Restaurants & Cozy Cafes 2025",
+          "url": "https://www.youtube.com/watch?v=Ze0IizspsQA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fe665ea89a684890"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3877242888044903392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_5b4adbf59021de31",
+      "name": "BAGEL BASE Jiyugaoka store",
+      "address": "103 2-chōme-15-17 Midorigaoka, Meguro City, Tokyo 152-0034",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「BAGEL BASE Jiyugaoka store」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 103 2-chōme-15-17 Midorigaoka, Meguro City, Tokyo 152-0034。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6086159,
+        "lng": 139.6738105,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "66fdnk_smUA",
+          "title": "自由が丘 | 黒トリュフたまご🥐 いちじくサンド | 美味しい朝の店 6 選",
+          "url": "https://www.youtube.com/watch?v=66fdnk_smUA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5b4adbf59021de31"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6745104896552956540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_8c0c9d840b80f1d4",
+      "name": "BAKE the SHOP 自由之丘店",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−31−１０ BAKEビル 1F",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「BAKE the SHOP 自由之丘店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−31−１０ BAKEビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6069081,
+        "lng": 139.6682044,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "FmcLy5k16Qo",
+          "title": "東京🍠地瓜・栗子・南瓜秋季甜點精選7選｜地瓜布丁・蒙布朗可麗餅・南瓜巴斯克起司蛋糕",
+          "url": "https://www.youtube.com/watch?v=FmcLy5k16Qo"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8c0c9d840b80f1d4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=2390357770953928141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_0569ab808a6d8933",
+      "name": "BASIC and ACCENT",
+      "address": "5-chōme-20-19 Okusawa, Setagaya City, Tokyo 158-0083",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「BASIC and ACCENT」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 5-chōme-20-19 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6062443,
+        "lng": 139.6697541,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "3VfSXV2XX-Q",
+          "title": "A Day in Tokyo | Yurakucho, Shimbashi & Toranomon / A Holiday in Tokyo’s Business Area | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=3VfSXV2XX-Q",
+          "time": "10:35",
+          "seconds": 635
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0569ab808a6d8933"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=12243659246311635522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_5dee6593990c8c9c",
+      "name": "Bel Amer Jiyugaoka",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−４ 岡ビル 1F",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Bel Amer Jiyugaoka」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−４ 岡ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6092722,
+        "lng": 139.6680314,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "8tJtr3aI6Mk",
+          "title": "東京 🇯🇵 日式甜點新潮流：進化系羊羹 | 紅豆控必看，迷你羊羹總整理！",
+          "url": "https://www.youtube.com/watch?v=8tJtr3aI6Mk"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "gQsRCBilyEk",
+          "title": "cafe vlog｜東京チョコレートスイーツ６選／チョコ好き必見！人気ショコラティエ／話題のお店／自由が丘／表参道等",
+          "url": "https://www.youtube.com/watch?v=gQsRCBilyEk",
+          "time": "6:59",
+          "seconds": 419
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5dee6593990c8c9c",
+          "p_dca87196fc216214"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13763022833513480333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_8a0e382077cc0586",
+      "name": "C'EST UNE BONNE IDÉE 自由が丘店",
+      "address": "目黒区自由が丘２丁目１５−７ 自由が丘駅 徒歩４分",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「C'EST UNE BONNE IDÉE 自由が丘店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 目黒区自由が丘２丁目１５−７ 自由が丘駅 徒歩４分。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6074386,
+        "lng": 139.6665058,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "yUgM36GeGwo",
+          "title": "【東京・パン屋】バターたっぷり！デニッシュが美味しいベーカリー特集８選！８danish pastries",
+          "url": "https://www.youtube.com/watch?v=yUgM36GeGwo",
+          "time": "07:45",
+          "seconds": 465
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8a0e382077cc0586"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/C'EST+UNE+BONNE+IDEE/@35.6074386,139.6665058,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f58b0f7618f5:0x85bbf460b587f5ee!8m2!3d35.6074386!4d139.6665058!16s%2Fg%2F11pd2h0pry?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_192716194be3d6d7",
+      "name": "C×Clabo",
+      "address": "〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−20−２０ 19K＆F自由が丘 203",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「C×Clabo」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−20−２０ 19K＆F自由が丘 203。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6061961,
+        "lng": 139.6697527,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "SG1DhXg4akc",
+          "title": "自由が丘 | 街の様子/ 食べ歩き | 美味しいベーグル & 🍌スフレサンド",
+          "url": "https://www.youtube.com/watch?v=SG1DhXg4akc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_192716194be3d6d7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16189541158666466720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_083cfefd907be600",
+      "name": "Comme'N",
+      "address": "7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Comme'N」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.6056157,
+        "lng": 139.66190179999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "Y8piJqgoyJM",
+          "title": "東京 🇯🇵 超好吃的蛋沙拉三明治 🥪 從人氣名店到在地人推薦的隱藏版8選｜東京麵包店巡禮",
+          "url": "https://www.youtube.com/watch?v=Y8piJqgoyJM"
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "ipyHXYcSKTs",
+          "title": "東京🇯🇵人氣新店【I'm donut?】&【daco】自由之丘麵包甜甜圈之旅 | 最新東京美食散步指南",
+          "url": "https://www.youtube.com/watch?v=ipyHXYcSKTs"
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "237ZlSb1vFo",
+          "title": "東京麻布台之丘 🇯🇵🍞 世界第一麵包店 Comme'N TOKYO | 美食市集與%Arabica咖啡探索",
+          "url": "https://www.youtube.com/watch?v=237ZlSb1vFo"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_083cfefd907be600",
+          "p_4f67c84ecb544322",
+          "p_24a0c72573b60d49"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=17538204597583444486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_0bbbb5e0dc468c37",
+      "name": "Crepe to Espresso to Jiyukei",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−６ Luz自由が丘 １F",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Crepe to Espresso to Jiyukei」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−６ Luz自由が丘 １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6090391,
+        "lng": 139.6680704,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "66fdnk_smUA",
+          "title": "自由が丘 | 黒トリュフたまご🥐 いちじくサンド | 美味しい朝の店 6 選",
+          "url": "https://www.youtube.com/watch?v=66fdnk_smUA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0bbbb5e0dc468c37"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11807282803910227909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_3e6744963c57f147",
+      "name": "Crepes NoKa'Oi （クレープス ノカオイ）",
+      "address": "東京都世田谷区奥沢2-37-10 ホームズ自由が丘 1F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Crepes NoKa'Oi （クレープス ノカオイ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢2-37-10 ホームズ自由が丘 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.606972,
+        "lng": 139.671127,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A22-37-10",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "U6lcj88lfnQ",
+          "title": "【東京･いちご】今こそ食べたい！旬のいちごスイーツ巡り5選【丁寧解説】表参道／原宿／自由が丘etc...",
+          "url": "https://www.youtube.com/watch?v=U6lcj88lfnQ",
+          "time": "05:07",
+          "seconds": 307
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "n5bMQOSdyoI",
+          "title": "cafe vlog｜自由が丘カフェ7店舗！クレープ／パン屋／ワッフル／アボカド／...etc",
+          "url": "https://www.youtube.com/watch?v=n5bMQOSdyoI",
+          "time": "8:43",
+          "seconds": 523
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3e6744963c57f147"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Crepes+No+Ka+'Oi+Tokyo/@35.6069942,139.6711317,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f58a47a16119:0xa9da519cb057d149!8m2!3d35.6069942!4d139.6711317!16s%2Fg%2F11fsq27x7p?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_09e4054dfdbf4b2f",
+      "name": "D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )",
+      "address": "東京都世田谷区奥沢8-3-2",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢8-3-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.602158,
+        "lng": 139.658234,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A28-3-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "WHISuV4aXW8",
+          "title": "Cafe Vlog | 10 Best Ice Cream Spots in Tokyo / 2021 Guide ✧˖ Omotesando / Ginza / Shinjuku / Shib...",
+          "url": "https://www.youtube.com/watch?v=WHISuV4aXW8",
+          "time": "06:42",
+          "seconds": 402
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_09e4054dfdbf4b2f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/D%26DEPARTMENT+TOKYO/@35.6021667,139.6582379,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f50376c78587:0xdf00610b7fe28ac2!8m2!3d35.6021667!4d139.6582379!16s%2Fg%2F1tdxqhkt?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_e82f69c0da0a46e2",
+      "name": "Dulton 自由之丘店",
+      "address": "2-chōme-25-14 Midorigaoka, Meguro City, Tokyo 152-0034",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Dulton 自由之丘店」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-25-14 Midorigaoka, Meguro City, Tokyo 152-0034。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.608272299999996,
+        "lng": 139.67141519999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "w87nLAk6Pck",
+          "title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
+          "url": "https://www.youtube.com/watch?v=w87nLAk6Pck"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e82f69c0da0a46e2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14579334966134692029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_f408adfdd044c778",
+      "name": "Dumbo",
+      "address": "〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 1F",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Dumbo」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6065095,
+        "lng": 139.6668731,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "FmcLy5k16Qo",
+          "title": "東京🍠地瓜・栗子・南瓜秋季甜點精選7選｜地瓜布丁・蒙布朗可麗餅・南瓜巴斯克起司蛋糕",
+          "url": "https://www.youtube.com/watch?v=FmcLy5k16Qo"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f408adfdd044c778"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11568784088500406548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_9ed7454b024fda82",
+      "name": "GOOD CHEESE GOOD PIZZA 自由が丘店",
+      "address": "東京都目黒区自由が丘2-17-8",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「GOOD CHEESE GOOD PIZZA 自由が丘店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘2-17-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.609325,
+        "lng": 139.667358,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-17-8",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "n5bMQOSdyoI",
+          "title": "cafe vlog｜自由が丘カフェ7店舗！クレープ／パン屋／ワッフル／アボカド／...etc",
+          "url": "https://www.youtube.com/watch?v=n5bMQOSdyoI",
+          "time": "3:32",
+          "seconds": 212
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9ed7454b024fda82"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/GOOD+CHEESE+GOOD+PIZZA+JIYUGAOKA/@35.6092654,139.6672446,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f58c62979315:0x9fa36488ec8d7997!8m2!3d35.6092654!4d139.6672446!16s%2Fg%2F11k0f0zz03?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_83889c8a300ae40e",
+      "name": "gouter(グテ)",
+      "address": "東京都世田谷区奥沢6-13-7",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「gouter(グテ)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢6-13-7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.604465,
+        "lng": 139.661316,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A26-13-7",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "8b9eRzSw6bk",
+          "title": "cafe vlog｜2022年最新カフェ12店舗𖠿𖥧上半期ver. 表参道／銀座／渋谷／代官山／中目黒／...etc",
+          "url": "https://www.youtube.com/watch?v=8b9eRzSw6bk",
+          "time": "09:42",
+          "seconds": 582
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_83889c8a300ae40e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/%E3%82%B0%E3%83%86+%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E5%BA%97/data=!4m7!3m6!1s0x6018f50452fab409:0xd7fa9d14dc307baa!8m2!3d35.6298532!4d139.6856935!16s%2Fg%2F11l5nxvsyp!19sChIJCbT6UgT1GGARqnsw3BSd-tc?authuser=0&hl=zh-TW&rclk=1"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_d5b7f6f8237e5e25",
+      "name": "grin",
+      "address": "5-chōme-20-18 Okusawa, Setagaya City, Tokyo 158-0083",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「grin」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 5-chōme-20-18 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6061768,
+        "lng": 139.66957,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "TbSsmQKWbjA",
+          "title": "BEST 10 WHAT I EAT IN A DAY IN TOKYO 2025｜Japan Ultimate Guide",
+          "url": "https://www.youtube.com/watch?v=TbSsmQKWbjA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d5b7f6f8237e5e25"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=1169839174046252349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_3e64f819d52576d2",
+      "name": "I'm donut ? 自由が丘駅前",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−11−３ SMBC自由が丘ビル 1階",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「I'm donut ? 自由が丘駅前」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−11−３ SMBC自由が丘ビル 1階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6076419,
+        "lng": 139.6681377,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "ipyHXYcSKTs",
+          "title": "東京🇯🇵人氣新店【I'm donut?】&【daco】自由之丘麵包甜甜圈之旅 | 最新東京美食散步指南",
+          "url": "https://www.youtube.com/watch?v=ipyHXYcSKTs"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3e64f819d52576d2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=17482246203602160484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_6797b81e5d9ebaf3",
+      "name": "Jiyugaoka Bakery",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−９ 三笠ビル 1F",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Jiyugaoka Bakery」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−９ 三笠ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.608792699999995,
+        "lng": 139.6686273,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "ipyHXYcSKTs",
+          "title": "東京🇯🇵人氣新店【I'm donut?】&【daco】自由之丘麵包甜甜圈之旅 | 最新東京美食散步指南",
+          "url": "https://www.youtube.com/watch?v=ipyHXYcSKTs"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6797b81e5d9ebaf3"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=4799647859190862783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_4fc1f814d24b0ce2",
+      "name": "Jiyugaoka Sando",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１８ チェスナットヒルズ 2 1F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Jiyugaoka Sando」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１８ チェスナットヒルズ 2 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.609215,
+        "lng": 139.66898860000003,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "66fdnk_smUA",
+          "title": "自由が丘 | 黒トリュフたまご🥐 いちじくサンド | 美味しい朝の店 6 選",
+          "url": "https://www.youtube.com/watch?v=66fdnk_smUA"
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "SG1DhXg4akc",
+          "title": "自由が丘 | 街の様子/ 食べ歩き | 美味しいベーグル & 🍌スフレサンド",
+          "url": "https://www.youtube.com/watch?v=SG1DhXg4akc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_4fc1f814d24b0ce2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3817729770014004645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_83645868e06b3292",
+      "name": "Magie du Chocolat Jiyugaoka",
+      "address": "6-chōme-33-14 Okusawa, Setagaya City, Tokyo 158-0083",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Magie du Chocolat Jiyugaoka」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 6-chōme-33-14 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6061213,
+        "lng": 139.666267,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "7G5N9wLxHwk",
+          "title": "東京🍵🍡 太厲害了！8間抹茶甜點推薦店家｜從經典名品到意想不到的創意甜點｜絕對讓人喜歡的東京伴手禮",
+          "url": "https://www.youtube.com/watch?v=7G5N9wLxHwk"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_83645868e06b3292"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5270012670766176099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_8679edd8f829f7e6",
+      "name": "MILKLAND HOKKAIDO TOKYO",
+      "address": "1-chōme-26-16 Jiyūgaoka, Meguro City, Tokyo 152-0035",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「MILKLAND HOKKAIDO TOKYO」出現在MissLiv 日本旅行和生活的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-26-16 Jiyūgaoka, Meguro City, Tokyo 152-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6092195,
+        "lng": 139.66864089999999,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "sx-f7pHklcQ",
+          "title": "【東京生活日常】銀座 無印良品微型生活展｜自由之丘 北海道牛乳專賣店｜第一次在日本看『整形外科』｜Tokyo Vlog ｜日本生活和旅行",
+          "url": "https://www.youtube.com/watch?v=sx-f7pHklcQ"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "GmLcV6nklBQ",
+          "title": "【東京･最旬】この夏食べたい！夏フルーツ巡り〜2024年夏〜🍉🌻 6 Summer fruit tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=GmLcV6nklBQ",
+          "time": "02:07",
+          "seconds": 127
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8679edd8f829f7e6",
+          "p_6c7121d9ea3d2f4e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6425774496945274038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_c9317f8eb9ebc033",
+      "name": "MINIMAL MAAT",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−７ ストークビル道玄坂 2F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「MINIMAL MAAT」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−７ ストークビル道玄坂 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.608688,
+        "lng": 139.66887599999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "Ze0IizspsQA",
+          "title": "Life in Tokyo｜10 Favorite Tokyo Spots: My Go-To Japanese Restaurants & Cozy Cafes 2025",
+          "url": "https://www.youtube.com/watch?v=Ze0IizspsQA"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "a-bPndpKXiA",
+          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
+          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA",
+          "time": "33:35",
+          "seconds": 2015
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c9317f8eb9ebc033"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=9086718311451398777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_7a8c49c50fec13c4",
+      "name": "MONT-NOM(モンノン)",
+      "address": "東京都目黒区自由が丘1丁目24-16",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「MONT-NOM(モンノン)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘1丁目24-16。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.609867,
+        "lng": 139.66864,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981%E4%B8%81%E7%9B%AE24-16",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NPntk8Pbcic",
+          "title": "【自由が丘】スイーツ激戦区！自由が丘おすすめカフェ７選／人気店・有名店・老舗店など",
+          "url": "https://www.youtube.com/watch?v=NPntk8Pbcic",
+          "time": "11:10",
+          "seconds": 670
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "DSO8F_M3xvo",
+          "title": "【東京・パン屋】人気・話題のパン屋さん巡り６選🥐行きたいお店が見つかる！ベーカリーカフェ／トレンドパン／ご褒美パン",
+          "url": "https://www.youtube.com/watch?v=DSO8F_M3xvo",
+          "time": "04:16",
+          "seconds": 256
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7a8c49c50fec13c4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/MONT-NOM/@35.6099572,139.6687953,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5fbe9123cb3:0x75dbb2bd9409d008!8m2!3d35.6099572!4d139.6687953!16s%2Fg%2F11swfmcl56?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_6c0c53d9d8a99a9e",
+      "name": "Mrs.BAGEL 自由が丘店",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１４ オクズミビル 1F",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Mrs.BAGEL 自由が丘店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１４ オクズミビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6091928,
+        "lng": 139.6684232,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "Svd-da64MLI",
+          "title": "東京 🇯🇵 🥯 最新貝果專賣店巡禮！經典紅豆奶油到創新奶茶奶油貝果三明治",
+          "url": "https://www.youtube.com/watch?v=Svd-da64MLI"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6c0c53d9d8a99a9e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7976242734637021307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_e9f597835d8dd46c",
+      "name": "OZ bread",
+      "address": "東京都目黒区自由が丘1-31-11",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「OZ bread」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘1-31-11。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.607059,
+        "lng": 139.668213,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-31-11",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "n5bMQOSdyoI",
+          "title": "cafe vlog｜自由が丘カフェ7店舗！クレープ／パン屋／ワッフル／アボカド／...etc",
+          "url": "https://www.youtube.com/watch?v=n5bMQOSdyoI",
+          "time": "2:42",
+          "seconds": 162
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e9f597835d8dd46c"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=OZ+bread+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-31-11"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_07f24538c3b013f1",
+      "name": "Paris S'eveille（パリセヴェイユ）",
+      "address": "東京都目黒区自由が上2丁目14-5",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Paris S'eveille（パリセヴェイユ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が上2丁目14-5。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.610138,
+        "lng": 139.669952,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%8A2%E4%B8%81%E7%9B%AE14-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NPntk8Pbcic",
+          "title": "【自由が丘】スイーツ激戦区！自由が丘おすすめカフェ７選／人気店・有名店・老舗店など",
+          "url": "https://www.youtube.com/watch?v=NPntk8Pbcic",
+          "time": "02:24",
+          "seconds": 144
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_07f24538c3b013f1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Paris+S%27eveille%EF%BC%88%E3%83%91%E3%83%AA%E3%82%BB%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%8A2%E4%B8%81%E7%9B%AE14-5"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_4c734d5af37303a2",
+      "name": "PÂTISSERIE Mont St. Clair（モンサンクレール）",
+      "address": "東京都目黒区自由が丘2-22-4",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「PÂTISSERIE Mont St. Clair（モンサンクレール）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘2-22-4。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.612675,
+        "lng": 139.666595,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-22-4",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "jpwAX4pNvzA",
+          "title": "cafe vlog｜東横線沿線カフェ・グルメ10選 ⚘⠜／自由が丘／学芸大学／祐天寺／都立大学",
+          "url": "https://www.youtube.com/watch?v=jpwAX4pNvzA",
+          "time": "08:26",
+          "seconds": 506
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_4c734d5af37303a2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%82TISSERIE+Mont+St.+Clair%EF%BC%88%E3%83%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%AB%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-22-4"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_af25c633c769e627",
+      "name": "PIZZA17",
+      "address": "2-chōme-14-2 Jiyūgaoka, Meguro City, Tokyo 152-0035",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「PIZZA17」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-14-2 Jiyūgaoka, Meguro City, Tokyo 152-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.607210699999996,
+        "lng": 139.6666717,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "-iodvyH_GRE",
+          "title": "Tokyo Vlog 2026 🇯🇵 Nakameguro, Daikanyama, Jiyugaoka Cafes & Shopping | Japan Travel Guide",
+          "url": "https://www.youtube.com/watch?v=-iodvyH_GRE"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_af25c633c769e627"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5655351390613922296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_02a9b798f688b70f",
+      "name": "Relief coffee stand",
+      "address": "東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Relief coffee stand」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.599781,
+        "lng": 139.669693,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24-4-7",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "ZtNSe_zKHfw",
+          "title": "【NEW】東京新店舗カフェ10選～2025年下半期☕✨銀座／表参道／新宿／高輪etc.",
+          "url": "https://www.youtube.com/watch?v=ZtNSe_zKHfw",
+          "time": "17:06",
+          "seconds": 1026
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_02a9b798f688b70f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Relief+coffee+stand+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24-4-7+%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%E3%83%84%E5%A5%A5%E6%B2%A2+1F"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_0514cc213a0208ee",
+      "name": "RISTRETTO & CROISSANT LABORATORIO",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−15−４ de aone 2F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「RISTRETTO & CROISSANT LABORATORIO」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−15−４ de aone 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.607914,
+        "lng": 139.6668953,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "66fdnk_smUA",
+          "title": "自由が丘 | 黒トリュフたまご🥐 いちじくサンド | 美味しい朝の店 6 選",
+          "url": "https://www.youtube.com/watch?v=66fdnk_smUA"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "0W-IMThv0OE",
+          "title": "【東京・最新】最新カフェ8店舗～2023年下半期ニューオープン～中目黒／自由が丘／虎ノ門etc. 8 Tokyo New Open cafe tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=0W-IMThv0OE"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0514cc213a0208ee",
+          "p_91ff2b6df6b8fd1f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5910493606001468937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_fbc6a90d27958efa",
+      "name": "Royal Crystal Coffee",
+      "address": "2-chōme-16-3 Jiyūgaoka, Meguro City, Tokyo 152-0035",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Royal Crystal Coffee」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-16-3 Jiyūgaoka, Meguro City, Tokyo 152-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.608448599999996,
+        "lng": 139.6670127,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "f5fSw52UBzE",
+          "title": "ここ行けば間違いない",
+          "url": "https://www.youtube.com/watch?v=f5fSw52UBzE"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fbc6a90d27958efa"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=2869684513458719067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_968b4be9ee911691",
+      "name": "Sushi Rinka",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１７ 自由が丘センタービル",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sushi Rinka」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１７ 自由が丘センタービル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6087689,
+        "lng": 139.6706208,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "a-bPndpKXiA",
+          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
+          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA",
+          "time": "35:17",
+          "seconds": 2117
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_968b4be9ee911691"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=17534631109961232462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_86cf47e50b039bf2",
+      "name": "Tecona bagel 自由が丘",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−16−１０ メイプルファームA 1",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tecona bagel 自由が丘」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−16−１０ メイプルファームA 1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6084567,
+        "lng": 139.66639089999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "SG1DhXg4akc",
+          "title": "自由が丘 | 街の様子/ 食べ歩き | 美味しいベーグル & 🍌スフレサンド",
+          "url": "https://www.youtube.com/watch?v=SG1DhXg4akc"
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "j2YpwWjKtWQ",
+          "title": "東京🥯抹茶紅豆奶油起司・鮪魚酪梨・生貝果等絕品嚴選9款｜麵包店巡禮",
+          "url": "https://www.youtube.com/watch?v=j2YpwWjKtWQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_86cf47e50b039bf2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=17279255236627517202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_a708b066a52a91e2",
+      "name": "THE ESSENCE",
+      "address": "東京都目黒区自由が丘1-27-2",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「THE ESSENCE」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘1-27-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.609245,
+        "lng": 139.669708,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-27-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "n5bMQOSdyoI",
+          "title": "cafe vlog｜自由が丘カフェ7店舗！クレープ／パン屋／ワッフル／アボカド／...etc",
+          "url": "https://www.youtube.com/watch?v=n5bMQOSdyoI",
+          "time": "6:18",
+          "seconds": 378
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a708b066a52a91e2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE+ESSENCE+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-27-2"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_fab5a844612da925",
+      "name": "THE LAB TOKYO",
+      "address": "東京都目黒区自由が丘2-9-8",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「THE LAB TOKYO」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘2-9-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.60881,
+        "lng": 139.668182,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-9-8",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "gQsRCBilyEk",
+          "title": "cafe vlog｜東京チョコレートスイーツ６選／チョコ好き必見！人気ショコラティエ／話題のお店／自由が丘／表参道等",
+          "url": "https://www.youtube.com/watch?v=gQsRCBilyEk",
+          "time": "9:17",
+          "seconds": 557
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "jpwAX4pNvzA",
+          "title": "cafe vlog｜東横線沿線カフェ・グルメ10選 ⚘⠜／自由が丘／学芸大学／祐天寺／都立大学",
+          "url": "https://www.youtube.com/watch?v=jpwAX4pNvzA",
+          "time": "09:56",
+          "seconds": 596
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fab5a844612da925",
+          "p_0482401f0021e6a2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE+LAB+TOKYO+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-9-8"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_3ce76ce23288ac2b",
+      "name": "WeLoveDonut 自由が丘",
+      "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１３ 8ビル 1階",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「WeLoveDonut 自由が丘」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１３ 8ビル 1階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6084722,
+        "lng": 139.6709406,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "w87nLAk6Pck",
+          "title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
+          "url": "https://www.youtube.com/watch?v=w87nLAk6Pck"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3ce76ce23288ac2b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16578050278690128711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_005ecfdea2b36a17",
+      "name": "Yohei Miyaguchi",
+      "address": "1-chōme-28-8 Jiyūgaoka, Meguro City, Tokyo 152-0035",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Yohei Miyaguchi」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-28-8 Jiyūgaoka, Meguro City, Tokyo 152-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.608365299999996,
+        "lng": 139.6690969,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "gmVkGWBNNCI",
+          "title": "東京🥯正宗貝果店的蘭姆葡萄、豆腐奶酪、紅豆奶油等口味｜貝果三明治｜貝果專賣店・咖啡廳",
+          "url": "https://www.youtube.com/watch?v=gmVkGWBNNCI"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_005ecfdea2b36a17"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11158094699012786995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_c07261c92342bff3",
+      "name": "アイムドーナツ？ 自由が丘 / ダコー 自由が丘",
+      "address": "東京都目黒区自由が丘2丁目11-3",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「アイムドーナツ？ 自由が丘 / ダコー 自由が丘」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘2丁目11-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.60762,
+        "lng": 139.668152,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982%E4%B8%81%E7%9B%AE11-3",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "ZtNSe_zKHfw",
+          "title": "【NEW】東京新店舗カフェ10選～2025年下半期☕✨銀座／表参道／新宿／高輪etc.",
+          "url": "https://www.youtube.com/watch?v=ZtNSe_zKHfw",
+          "time": "05:43",
+          "seconds": 343
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c07261c92342bff3"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%A4%E3%83%A0%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%EF%BC%9F+%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98+%2F+%E3%83%80%E3%82%B3%E3%83%BC+%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982%E4%B8%81%E7%9B%AE11-3"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_192e7685627626d7",
+      "name": "アトリエルル",
+      "address": "東京都世田谷区奥沢4丁目26-9",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「アトリエルル」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢4丁目26-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.602654,
+        "lng": 139.671753,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24%E4%B8%81%E7%9B%AE26-9",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NPntk8Pbcic",
+          "title": "【自由が丘】スイーツ激戦区！自由が丘おすすめカフェ７選／人気店・有名店・老舗店など",
+          "url": "https://www.youtube.com/watch?v=NPntk8Pbcic",
+          "time": "07:18",
+          "seconds": 438
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_192e7685627626d7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%AB+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24%E4%B8%81%E7%9B%AE26-9"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_caef28ea72e47439",
+      "name": "アルチザン・ブーランジェ・クピド",
+      "address": "世田谷区奥沢３丁目４５−２ 奥沢駅 徒歩３分",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「アルチザン・ブーランジェ・クピド」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 世田谷区奥沢３丁目４５−２ 奥沢駅 徒歩３分。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "yUgM36GeGwo",
+          "title": "【東京・パン屋】バターたっぷり！デニッシュが美味しいベーカリー特集８選！８danish pastries",
+          "url": "https://www.youtube.com/watch?v=yUgM36GeGwo",
+          "time": "09:15",
+          "seconds": 555
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_caef28ea72e47439"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%81%E3%82%B6%E3%83%B3%E3%83%BB%E3%83%96%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%BB%E3%82%AF%E3%83%94%E3%83%89+%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%94%EF%BC%95%E2%88%92%EF%BC%92+%E5%A5%A5%E6%B2%A2%E9%A7%85+%E5%BE%92%E6%AD%A9%EF%BC%93%E5%88%86"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_144ffd99dc778d70",
+      "name": "バゲットラビット 自由が丘店 (baguette rabbit Jiyugaoka)",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「バゲットラビット 自由が丘店 (baguette rabbit Jiyugaoka)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6115215,
+        "lng": 139.6700626,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/QR5SfDsfVD9fkg6p6",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "fPDNOzngzb0",
+          "title": "東京麵包店巡禮 🍞 2026年Tabelog百名店 療癒系咖啡廳＆道地德式椒鹽捲餅 🇯🇵",
+          "url": "https://www.youtube.com/watch?v=fPDNOzngzb0",
+          "time": "04:27",
+          "seconds": 267
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_144ffd99dc778d70"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/QR5SfDsfVD9fkg6p6"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_b1968ddbaae6859b",
+      "name": "ハルズベーグル 自由が丘店 (HAL'S BAGEL Jiyugaoka)",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ハルズベーグル 自由が丘店 (HAL'S BAGEL Jiyugaoka)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.607242,
+        "lng": 139.6695871,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "Lducb5kMS8Q",
+          "title": "東京 🇯🇵 🥯 日式貝果 vs 紐約貝果！探訪日本最強超人氣貝果專賣店",
+          "url": "https://www.youtube.com/watch?v=Lducb5kMS8Q"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b1968ddbaae6859b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/HAL'S+BAGEL.+%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E5%BA%97/@35.607242,139.6695871,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f5fe854b0215:0x88c145805510301b!8m2!3d35.607242!4d139.6695871!16s%2Fg%2F11ymmp6kwg?coh=277533"
+      }
+    },
+    {
+      "id": "jiyugaoka--p_a2591f451c34cee9",
+      "name": "パンとエスプレッソと自由形",
+      "address": "東京都目黒区自由が丘２丁目９−６ Luz自由が丘 ３F",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「パンとエスプレッソと自由形」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都目黒区自由が丘２丁目９−６ Luz自由が丘 ３F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.609055,
+        "lng": 139.668289,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982%E4%B8%81%E7%9B%AE9%E2%88%926",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "CWkJ2jezhG0",
+          "title": "【東京・パン屋】おすすめ！パンが美味しいランチ特集６選！6 bakery cafe tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=CWkJ2jezhG0",
+          "time": "00:21",
+          "seconds": 21
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "n5bMQOSdyoI",
+          "title": "cafe vlog｜自由が丘カフェ7店舗！クレープ／パン屋／ワッフル／アボカド／...etc",
+          "url": "https://www.youtube.com/watch?v=n5bMQOSdyoI",
+          "time": "7:19",
+          "seconds": 439
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a2591f451c34cee9",
+          "p_386cae5ea1adba5c"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%B3%E3%81%A8%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD%E3%81%A8%E8%87%AA%E7%94%B1%E5%BD%A2+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%99%E2%88%92%EF%BC%96+Luz%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98+%EF%BC%93F"
+      }
+    }
+  ],
+  "matches": {
+    "jiyugaoka--kurofune": {
+      "sourceIds": [
+        "p_bbc18e3164f99d21"
+      ],
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "g8-39BbAbDY",
+          "title": "東京🥧不吃太可惜！頂級銅鑼燒嚴選8家超推薦店｜日本酒紅豆餡、紅豆奶油等｜東京送禮首選",
+          "url": "https://www.youtube.com/watch?v=g8-39BbAbDY"
+        }
+      ]
+    },
+    "jiyugaoka--montblanc": {
+      "sourceIds": [
+        "p_672e752577d3c923"
+      ],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "CImZHtbH_hs",
+          "title": "【東京】秋の味覚を楽しむスイーツ巡り8選🍠~2026~",
+          "url": "https://www.youtube.com/watch?v=CImZHtbH_hs",
+          "time": "00:19",
+          "seconds": 19
+        }
+      ]
+    },
+    "jiyugaoka--onibus": {
+      "sourceIds": [
+        "p_afa5797fa1315d96",
+        "p_658bbfa505685ffe",
+        "p_bc658a5c3a79181f",
+        "p_1e1c901fcc256b71"
+      ],
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "66fdnk_smUA",
+          "title": "自由が丘 | 黒トリュフたまご🥐 いちじくサンド | 美味しい朝の店 6 選",
+          "url": "https://www.youtube.com/watch?v=66fdnk_smUA"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "XzwVChNhBXQ",
+          "title": "【東京･桃】今が旬！桃スイーツ巡り７選～2025Ver.～銀座／自由が丘／etc...",
+          "url": "https://www.youtube.com/watch?v=XzwVChNhBXQ",
+          "time": "00:19",
+          "seconds": 19
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "8b9eRzSw6bk",
+          "title": "cafe vlog｜2022年最新カフェ12店舗𖠿𖥧上半期ver. 表参道／銀座／渋谷／代官山／中目黒／...etc",
+          "url": "https://www.youtube.com/watch?v=8b9eRzSw6bk",
+          "time": "03:52",
+          "seconds": 232
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NPntk8Pbcic",
+          "title": "【自由が丘】スイーツ激戦区！自由が丘おすすめカフェ７選／人気店・有名店・老舗店など",
+          "url": "https://www.youtube.com/watch?v=NPntk8Pbcic",
+          "time": "05:51",
+          "seconds": 351
+        }
+      ]
+    },
+    "jiyugaoka--todays": {
+      "sourceIds": [
+        "p_1fbf281feebfcef0"
+      ],
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "w87nLAk6Pck",
+          "title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
+          "url": "https://www.youtube.com/watch?v=w87nLAk6Pck"
+        }
+      ]
+    }
+  },
+  "archived": []
+}

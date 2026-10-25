@@ -1,0 +1,250 @@
+{
+  "places": [
+    {
+      "id": "monzen-nakacho--p_3cee4b6ce07e8b5f",
+      "name": "（有）其角",
+      "address": "1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「（有）其角」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6721425,
+        "lng": 139.79773699999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3cee4b6ce07e8b5f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=1866569147605809423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "monzen-nakacho--p_307db0b60498ca6d",
+      "name": "門仲パン屋 MONPAN",
+      "address": "1-chōme-2-4 Monzennakachō, Koto City, Tokyo 135-0048",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「門仲パン屋 MONPAN」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-2-4 Monzennakachō, Koto City, Tokyo 135-0048。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6722566,
+        "lng": 139.7939618,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_307db0b60498ca6d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=511921581332876117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "monzen-nakacho--p_18174abe5963517a",
+      "name": "Day Nice Hotel Tokyo",
+      "address": "2-chōme-1-1 Kiba, Koto City, Tokyo 135-0042",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Day Nice Hotel Tokyo」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-1-1 Kiba, Koto City, Tokyo 135-0042。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6691875,
+        "lng": 139.8018476,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Unique Japan Travel",
+          "videoId": "LrNyIEgBVhw",
+          "title": "參觀東京神秘的火山島 | 伊豆大島 | 日本旅遊",
+          "url": "https://www.youtube.com/watch?v=LrNyIEgBVhw",
+          "time": "22:27",
+          "seconds": 1347
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_18174abe5963517a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6926791937297161831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "monzen-nakacho--p_c11ad7477122755a",
+      "name": "Dorayama",
+      "address": "〒135-0048 Tokyo, Koto City, Monzennakachō, 2-chōme−6−９ ひいらぎビル 1F",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Dorayama」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒135-0048 Tokyo, Koto City, Monzennakachō, 2-chōme−6−９ ひいらぎビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.672609099999995,
+        "lng": 139.7957982,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c11ad7477122755a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3219265300047906274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "monzen-nakacho--p_e9bded65ce3c24bc",
+      "name": "Fukagawa Iseya Honten",
+      "address": "〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Fukagawa Iseya Honten」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6714975,
+        "lng": 139.7973477,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e9bded65ce3c24bc"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=4952709091110168002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "monzen-nakacho--p_04eb0df096ee3f59",
+      "name": "Tekka",
+      "address": "1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tekka」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6723868,
+        "lng": 139.7979569,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "IyamUppQ5DQ",
+          "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
+          "url": "https://www.youtube.com/watch?v=IyamUppQ5DQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_04eb0df096ee3f59"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7886082695827925664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    }
+  ],
+  "matches": {
+    "monzen-nakacho--marushichi": {
+      "sourceIds": [
+        "p_0e9794fe91cc06c1"
+      ],
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "RyNnK1L9pqw",
+          "title": "【銀座午餐精選7】蛋飯漢堡牛排、5公分厚炸豬排等吃到飽！",
+          "url": "https://www.youtube.com/watch?v=RyNnK1L9pqw"
+        }
+      ]
+    }
+  },
+  "archived": []
+}

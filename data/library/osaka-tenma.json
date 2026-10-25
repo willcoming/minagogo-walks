@@ -1,0 +1,589 @@
+{
+  "places": [
+    {
+      "id": "osaka-tenma--p_65391eb9038efe61",
+      "name": "千鳥屋宗家 天滿店",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「千鳥屋宗家 天滿店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7042448,
+        "lng": 135.5113682,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vwqKXsYACrs",
+          "title": "🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_65391eb9038efe61"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%8D%83%E9%B3%A5%E5%B1%8B%E5%AE%97%E5%AE%B6+%E5%A4%A9%E6%BB%BF%E5%BA%97/@34.7042448,135.5087933,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e6c6d42f2e17:0x1c2a89b6ad90ec6d!8m2!3d34.7042448!4d135.5113682!16s%2Fg%2F1thw6m8b?hl=zh-TW&entry=tts"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_72393c30d77d056b",
+      "name": "和牛タン次郎 大阪天満店",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「和牛タン次郎 大阪天満店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7052034,
+        "lng": 135.5121399,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vwqKXsYACrs",
+          "title": "🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vwqKXsYACrs",
+          "time": "23:18",
+          "seconds": 1398
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_72393c30d77d056b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%92%8C%E7%89%9B%E3%82%BF%E3%83%B3%E6%AC%A1%E9%83%8E+%E5%A4%A7%E9%98%AA%E5%A4%A9%E6%BA%80%E5%BA%97/@34.7052034,135.5121399,16z/data=!4m6!3m5!1s0x6000e7ff28bd0dd1:0x785372c238e3497b!8m2!3d34.7052034!4d135.5121399!16s%2Fg%2F11t6n8knmq?hl=zh-TW&gl=tw&entry=tts"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_9c9b0fb489ef24e7",
+      "name": "春駒壽司 本店",
+      "address": "5-chōme-5-2 Tenjinbashi, Kita Ward, Osaka, 530-0041",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「春駒壽司 本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 5-chōme-5-2 Tenjinbashi, Kita Ward, Osaka, 530-0041。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.707733999999995,
+        "lng": 135.5116005,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "jqnjWQicy9k",
+          "title": "[池袋] 中國菜最佳6@池袋",
+          "url": "https://www.youtube.com/watch?v=jqnjWQicy9k"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9c9b0fb489ef24e7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6656831565755969603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_bbbbe65f98b0f2d7",
+      "name": "鳴門鯛焼本舗 天神橋3丁目店",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「鳴門鯛焼本舗 天神橋3丁目店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7025306,
+        "lng": 135.5114084,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vwqKXsYACrs",
+          "title": "🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bbbbe65f98b0f2d7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E9%B3%B4%E9%96%80%E9%AF%9B%E7%87%92%E6%9C%AC%E8%88%96+%E5%A4%A9%E7%A5%9E%E6%A9%8B3%E4%B8%81%E7%9B%AE%E5%BA%97/@34.7061685,135.5014539,15.9z/data=!4m7!3m6!1s0x6000e6c6aebc6c19:0x375342363e71ffde!8m2!3d34.7025306!4d135.5114084!15sChLps7TploDpr5vnhLzmnKzoiJciA4gBAVoWIhTps7TploAg6a-b54S8IOacrOiIl5IBG2phcGFuZXNlX2NvbmZlY3Rpb25lcnlfc2hvcOABAA!16s%2Fg%2F11b7clnq13?hl=zh-TW&entry=tts"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_8d389b499ace1d13",
+      "name": "CAFE TOKIONA",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「CAFE TOKIONA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.6946077,
+        "lng": 135.5117995,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/29jnLoC7snxtRB6h8",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8d389b499ace1d13"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/29jnLoC7snxtRB6h8"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_7878919f4b11b5ef",
+      "name": "COBATO STAND OSAKA",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「COBATO STAND OSAKA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.6934865,
+        "lng": 135.5157492,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/ZTdZC3mQ4vJ9p9tN7",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0",
+          "time": "17:33",
+          "seconds": 1053
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7878919f4b11b5ef"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/ZTdZC3mQ4vJ9p9tN7"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_3f0e16ea37fefebb",
+      "name": "COBATO STORE OSAKA",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「COBATO STORE OSAKA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.6934865,
+        "lng": 135.5157492,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/7aBtS9cSvy3AwEo48",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0",
+          "time": "17:33",
+          "seconds": 1053
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3f0e16ea37fefebb"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/7aBtS9cSvy3AwEo48"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_bb1c5e2b626b74d1",
+      "name": "COBATO836",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「COBATO836」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.692163,
+        "lng": 135.515843,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/WZmTjmknWTkK6EHo7",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0",
+          "time": "19:05",
+          "seconds": 1145
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bb1c5e2b626b74d1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/WZmTjmknWTkK6EHo7"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_465fbe52caf5a842",
+      "name": "Niku Sangourmand",
+      "address": "〒530-0041 Osaka, Kita Ward, Tenjinbashi, 3-chōme−10−８ 与力町スカイハイツ 102",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Niku Sangourmand」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 3-chōme−10−８ 与力町スカイハイツ 102。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7019722,
+        "lng": 135.5123308,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "9aARBMYZ9OI",
+          "title": "大阪美食地圖，72小時爽吃特輯十選！三天兩夜大阪爽吃指南，百名店認證香料咖哩、大阪榜三炸豬排、厚切蒜味牛舌、肉汁炸裂漢堡排 72 hours FOOD tour in Osaka !【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=9aARBMYZ9OI",
+          "time": "20:52",
+          "seconds": 1252
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_465fbe52caf5a842"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7324549046019363727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_e3738d31a2438ec1",
+      "name": "Ogimachi Udon-ya Asuroh",
+      "address": "〒530-0041 Osaka, Kita Ward, Tenjinbashi, 3-chōme−8−３ マチスビル",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Ogimachi Udon-ya Asuroh」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 3-chōme−8−３ マチスビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.701752,
+        "lng": 135.511235,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "hIFJwUQ5LSo",
+          "title": "大阪米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Osaka 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=hIFJwUQ5LSo",
+          "time": "9:39",
+          "seconds": 579
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e3738d31a2438ec1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14951123387409938968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_e2ad476b03a2cbbd",
+      "name": "Satsumakko Ramen Higashi Tenma",
+      "address": "1-chōme-26-12 Tenma, Kita Ward, Osaka, 530-0043",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Satsumakko Ramen Higashi Tenma」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-26-12 Tenma, Kita Ward, Osaka, 530-0043。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 34.6967211,
+        "lng": 135.518331,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "mkKt-P9GfpI",
+          "title": "環台拉麵圖鑑，各大派系通吃特輯30選 ! 拉麵控必備寶典，全台各地拉麵名店通包 ! 【 肥波外食記 】 ft.10萬訂閱QA",
+          "url": "https://www.youtube.com/watch?v=mkKt-P9GfpI",
+          "time": "1:17:33",
+          "seconds": 4653
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e2ad476b03a2cbbd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=14364847982411927304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_46f7c0f05a9077ef",
+      "name": "SECOND BANANA",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「SECOND BANANA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.6926918,
+        "lng": 135.51574,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/iDsdhdkoYKPVan8c9",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_46f7c0f05a9077ef"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/iDsdhdkoYKPVan8c9"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_27a8fd777f23578d",
+      "name": "お好み焼 焼きそば 味の 双月",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「お好み焼 焼きそば 味の 双月」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7019927,
+        "lng": 135.5116751,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vwqKXsYACrs",
+          "title": "🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_27a8fd777f23578d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E9%98%AA%E7%87%92+%E9%9B%99%E6%9C%88/@34.7019927,135.5091002,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e6c41b472699:0xf2b13966e965b80d!8m2!3d34.7019927!4d135.5116751!16s%2Fg%2F1td5x139?hl=zh-TW&entry=tts"
+      }
+    },
+    {
+      "id": "osaka-tenma--p_7adca45c474ed8da",
+      "name": "コバトパン工場 COBATOPAN",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「コバトパン工場 COBATOPAN」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.6927259,
+        "lng": 135.5157141,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/BkUbfNRXv8d1JeNZA",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "wkFi6kLjUO0",
+          "title": "🇯🇵我搜集了一些2026來京阪玩的新選擇｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=wkFi6kLjUO0",
+          "time": "17:33",
+          "seconds": 1053
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7adca45c474ed8da"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/BkUbfNRXv8d1JeNZA"
+      }
+    }
+  ],
+  "matches": {
+    "osaka-tenma--temmangu": {
+      "sourceIds": [
+        "p_f076f9f0ba74c5b3"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vwqKXsYACrs",
+          "title": "🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
+        }
+      ]
+    },
+    "osaka-tenma--seiyo": {
+      "sourceIds": [
+        "p_ffc782c4f76c1d96"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "vwqKXsYACrs",
+          "title": "🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=vwqKXsYACrs",
+          "time": "25:18",
+          "seconds": 1518
+        }
+      ]
+    }
+  },
+  "archived": []
+}

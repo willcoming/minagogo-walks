@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "places": [
     {
       "id": "narita--shodo",
@@ -58,6 +58,14 @@
           "url": "https://www.youtube.com/watch?v=qe945dPQArM",
           "time": "",
           "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "1:49",
+          "seconds": 109
         }
       ],
       "coordinate": {
@@ -74,7 +82,10 @@
         "image": "/art/walks/narita/shinshoji.webp",
         "alt": "成田山新勝寺的日系水彩插圖"
       },
-      "recommendation": "留時間參拜，公園與美術館擇一延伸。"
+      "recommendation": "留時間參拜，公園與美術館擇一延伸。",
+      "sourceLibraryIds": [
+        "p_b1d95c11d2d22829"
+      ]
     },
     {
       "id": "narita--park",
@@ -347,7 +358,10 @@
       "name": "參道老舖、庭院茶點與古寺",
       "ids": [
         "narita--fujikura",
+        "narita--kawatoyo",
         "narita--miyoshiya",
+        "narita--visitor",
+        "narita--park",
         "narita--shinshoji"
       ],
       "start": {
@@ -369,21 +383,31 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-24",
+      "plannedAt": "2026-10-26",
       "summary": "從車站沿參道慢慢下坡，在老舖、甘味與寺院之間，留一段自己的時間。",
       "note": "十處為自由替換選項；寺院與公園有階梯、坡道。鰻魚用餐或美術館完整參觀宜取代其他停留，候位另計。",
       "stopNotes": {
         "narita--fujikura": "挑竹木器物，看看門前町的生活工藝。",
         "narita--miyoshiya": "轉入小巷，用一份甘味換段休息。",
-        "narita--shinshoji": "留時間參拜，公園與美術館擇一延伸。"
+        "narita--shinshoji": "留時間參拜，公園與美術館擇一延伸。",
+        "narita--park": "順路可選：池水與樹影，替參拜加一段綠意。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "narita--kawatoyo": "順路可選：木造老店裡，認識成田的鰻魚料理。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。",
+        "narita--visitor": "順路可選：在老街中段，補上一點祭典故事。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/narita/shinshoji.webp"
+      "art": "/art/walks/narita/shinshoji.webp",
+      "highlightIds": [
+        "narita--fujikura",
+        "narita--miyoshiya",
+        "narita--shinshoji"
+      ],
+      "optionalMinutes": 30
     },
     {
       "id": "narita-calligraphy-and-woods",
       "name": "書法與林間慢走",
       "ids": [
         "narita--park",
+        "narita--shinshoji",
         "narita--shodo"
       ],
       "start": {
@@ -405,15 +429,29 @@
         45
       ],
       "estimateKind": "editorial-total",
-      "plannedAt": "2026-10-25",
+      "plannedAt": "2026-10-26",
       "summary": "穿過參道，將主要時間留給公園綠蔭與池畔的書道美術館。",
       "note": "公園與回程有階梯、坡道，選通往美術館的一段即可；書道美術館週一休館，假日改翌平日，最晚入館 15:30。建議午前或中午出發，完整用餐另排時間。",
       "stopNotes": {
         "narita--park": "選一段通往池畔與美術館的園路，依體力停留。",
-        "narita--shodo": "看一場書法展覽，將其餘時間留給回程的參道。"
+        "narita--shodo": "看一場書法展覽，將其餘時間留給回程的參道。",
+        "narita--shinshoji": "順路可選：從門前街道，走向開闊的寺院。可短暫看看，想入店或完整參觀時，請從自由探索時間中安排。"
       },
-      "art": "/art/walks/narita/shodo.webp"
+      "art": "/art/walks/narita/shodo.webp",
+      "highlightIds": [
+        "narita--park",
+        "narita--shodo"
+      ],
+      "optionalMinutes": 30
     }
   ],
-  "defaultSelection": "narita-slow-walk"
+  "defaultSelection": "narita-slow-walk",
+  "libraryCoverage": {
+    "sourceIds": [
+      "p_b1d95c11d2d22829"
+    ],
+    "added": 0,
+    "unlocated": 0,
+    "checkedAt": "2026-10-26"
+  }
 }

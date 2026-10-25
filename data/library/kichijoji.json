@@ -1,0 +1,1688 @@
+{
+  "places": [
+    {
+      "id": "kichijoji--p_f80fc9bfe72ab20f",
+      "name": "中田ベーカリー",
+      "address": "〒181-0001 Tokyo, Mitaka, Inokashira, 3-chōme−31, 三鷹市井の頭３丁目３１－１５",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「中田ベーカリー」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒181-0001 Tokyo, Mitaka, Inokashira, 3-chōme−31, 三鷹市井の頭３丁目３１－１５。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.697569099999996,
+        "lng": 139.58221039999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "1:22",
+          "seconds": 82
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f80fc9bfe72ab20f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=2272180136265370938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_1e1dbc9a535ca172",
+      "name": "台湾茶藝館 月和茶 吉祥寺店 （ユエフウチャ）",
+      "address": "東京都武蔵野市吉祥寺本町2-14-28 大住ビル2F",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「台湾茶藝館 月和茶 吉祥寺店 （ユエフウチャ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町2-14-28 大住ビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.705708,
+        "lng": 139.577606,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-14-28",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "stIz0FSDi-Q",
+          "title": "cafe vlog｜東京おすすめ台湾グルメ第2段！🇹🇼台湾カステラ／台湾朝ごはん／豆花／魯肉飯／豆漿",
+          "url": "https://www.youtube.com/watch?v=stIz0FSDi-Q",
+          "time": "6:43",
+          "seconds": 403
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1e1dbc9a535ca172"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Yuehecha/@35.705722,139.5775458,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee48c70f24b3:0x4570171de3b102f2!8m2!3d35.705722!4d139.5775458!16s%2Fg%2F1th1v29f?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kichijoji--p_6e160efa9e48596b",
+      "name": "四步 選品店",
+      "address": "1-chōme-18-25 Kichijōji Kitamachi, Musashino, Tokyo 180-0001",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「四步 選品店」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-18-25 Kichijōji Kitamachi, Musashino, Tokyo 180-0001。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.708404099999996,
+        "lng": 139.5773666,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "10:55",
+          "seconds": 655
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zVmpLi_Ybk0",
+          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
+          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
+          "time": "9:04",
+          "seconds": 544
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6e160efa9e48596b",
+          "p_43eec9463a44b325"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11755254195243829755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_150b1cd36fc48f3b",
+      "name": "白髭のシュークリーム工房 吉祥寺店",
+      "address": "東京都武蔵野市吉祥寺南町2-7-5",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「白髭のシュークリーム工房 吉祥寺店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺南町2-7-5。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.70137,
+        "lng": 139.582611,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E5%8D%97%E7%94%BA2-7-5",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "TMcqhuqLL9I",
+          "title": "cafe vlog｜吉祥寺・西荻窪・高円寺カフェ巡り／食べ歩き／中央線",
+          "url": "https://www.youtube.com/watch?v=TMcqhuqLL9I"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_150b1cd36fc48f3b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/%E7%99%BD%E9%AB%AD%E6%B3%A1%E8%8A%99%E5%B7%A5%E6%88%BF+%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97/@35.7014532,139.5825677,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef6546f38b69:0x80bb8bdf086556f7!8m2!3d35.7014532!4d139.5825677!16s%2Fg%2F11gwknl08l?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kichijoji--p_dc70911ce703e354",
+      "name": "吉祥寺SUN ROAD商店街",
+      "address": "1-chōme-15-1 Kichijōji Honchō, Musashino, Tokyo 180-0004",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「吉祥寺SUN ROAD商店街」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-15-1 Kichijōji Honchō, Musashino, Tokyo 180-0004。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7038362,
+        "lng": 139.5798441,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "SRMGYVuiIAs",
+          "title": "東京美食吉祥寺篇，24小時爽吃特輯四選 ! 吉祥寺一日美食地圖，日本人最愛街區 ! 水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=SRMGYVuiIAs",
+          "time": "3:31",
+          "seconds": 211
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_dc70911ce703e354",
+          "p_1b49d4b24a53d7ae"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=15726371054052479114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_94ccf769cbf0d2b8",
+      "name": "吉祥寺プティット村",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「吉祥寺プティット村」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7045998,
+        "lng": 139.5746884,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU"
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "10:55",
+          "seconds": 655
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_94ccf769cbf0d2b8",
+          "p_dca4056346d58f58"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Kichij%C5%8Dji+Petit+Mura/@35.7045998,139.5746884,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee494564f00b:0x10f918221a23dade!8m2!3d35.7045998!4d139.5746884!16s%2Fg%2F11fz8xrblm?entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      }
+    },
+    {
+      "id": "kichijoji--p_7f2ead42564eabc1",
+      "name": "肉山",
+      "address": "〒180-0001 Tokyo, Musashino, Kichijōji Kitamachi, 1-chōme−1−２０ 藤野ビル 2F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「肉山」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒180-0001 Tokyo, Musashino, Kichijōji Kitamachi, 1-chōme−1−２０ 藤野ビル 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.70796860000001,
+        "lng": 139.5795784,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "SRMGYVuiIAs",
+          "title": "東京美食吉祥寺篇，24小時爽吃特輯四選 ! 吉祥寺一日美食地圖，日本人最愛街區 ! 水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=SRMGYVuiIAs",
+          "time": "11:41",
+          "seconds": 701
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7f2ead42564eabc1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=9058918658014451966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_f8cfae7c4598ffc5",
+      "name": "咖啡館 chai break",
+      "address": "1-chōme-3-2 Gotenyama, Musashino, Tokyo 180-0005",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「咖啡館 chai break」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-3-2 Gotenyama, Musashino, Tokyo 180-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7017808,
+        "lng": 139.57643489999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DXc_pL3Gp94",
+          "title": "【東京モーニング10選】百名店シェフのパン食べ放題、ウルフ・アロンも訪れる朝食ビュッフェなど！",
+          "url": "https://www.youtube.com/watch?v=DXc_pL3Gp94"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f8cfae7c4598ffc5"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5578845799133552367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_48f2de742a36fa5c",
+      "name": "Blue Sky Coffee",
+      "address": "〒181-0001 Tokyo, Mitaka, Inokashira, 4-chōme−1−１ 公園内",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Blue Sky Coffee」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒181-0001 Tokyo, Mitaka, Inokashira, 4-chōme−1−１ 公園内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6984594,
+        "lng": 139.5789017,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HOVPfbroWBg",
+          "title": "Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel",
+          "url": "https://www.youtube.com/watch?v=HOVPfbroWBg"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "a-bPndpKXiA",
+          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
+          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA",
+          "time": "4:45",
+          "seconds": 285
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_48f2de742a36fa5c"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7189875142270522751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_aba6b2bf0d69dad4",
+      "name": "cafe du lievre うさぎ館 吉祥寺",
+      "address": "東京都武蔵野市御殿山1-19-43",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「cafe du lievre うさぎ館 吉祥寺」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市御殿山1-19-43。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.699162,
+        "lng": 139.573135,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%BE%A1%E6%AE%BF%E5%B1%B11-19-43",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Lmo5EYrRMZA",
+          "title": "cafe vlog｜東京絶品チーズグルメ／飯テロ𓌈˒˒表参道／吉祥寺／学芸大学／二子玉川／新橋",
+          "url": "https://www.youtube.com/watch?v=Lmo5EYrRMZA",
+          "time": "9:10",
+          "seconds": 550
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_aba6b2bf0d69dad4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Caf%C3%A9+du+Li%C3%A8vre+(Bunny+House)/@35.699016,139.573124,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee35e8153071:0xd0c97d12709f5033!8m2!3d35.699016!4d139.573124!16s%2Fg%2F1tk1n09w?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kichijoji--p_4269210f45c83916",
+      "name": "Cafe Lumiere(カフェ ルミエール)",
+      "address": "東京都武蔵野市吉祥寺南町1-2-2 東山ビル 4F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Cafe Lumiere(カフェ ルミエール)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺南町1-2-2 東山ビル 4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.70232,
+        "lng": 139.580124,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E5%8D%97%E7%94%BA1-2-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "gIIWahAWNT0",
+          "title": "cafe vlog｜東京かき氷巡り5選／吉祥寺・三軒茶屋・湯島・谷根千・神楽坂",
+          "url": "https://www.youtube.com/watch?v=gIIWahAWNT0",
+          "time": "1:51",
+          "seconds": 111
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_4269210f45c83916"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Lumiere/@35.7022581,139.580084,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee38128c8d6b:0x5b53dd7cf9f7de3e!8m2!3d35.7022581!4d139.580084!16s%2Fg%2F11xgsgst5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kichijoji--p_5872c116235617b7",
+      "name": "Cafe salon & Bar Arg",
+      "address": "〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−18−２３ Minamicho Garden, 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Cafe salon & Bar Arg」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−18−２３ Minamicho Garden, 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.701167,
+        "lng": 139.579328,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "5lS-2thcoYw",
+          "title": "10 Japan coffee shops you should visit in Tokyo: Japan Travel Guide",
+          "url": "https://www.youtube.com/watch?v=5lS-2thcoYw",
+          "time": "10:22",
+          "seconds": 622
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "FebbZm7bZCY",
+          "title": "The best of KICHIJOJI, Tokyo🇯🇵｜Must-Visit Cafes, Inokashira Park & Local Zoo 2026🌿",
+          "url": "https://www.youtube.com/watch?v=FebbZm7bZCY"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5872c116235617b7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13903869794625776119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_517cc986a7d87ba7",
+      "name": "Cat cafe てまりのおしろ",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Cat cafe てまりのおしろ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7045889,
+        "lng": 139.5746969,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "14:04",
+          "seconds": 844
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_517cc986a7d87ba7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Temari+No+Oshiro/@35.7045889,139.5746969,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee494564f00b:0xcaeeea4e9ba7c588!8m2!3d35.7045889!4d139.5746969!16s%2Fg%2F11hbrpngv8?entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      }
+    },
+    {
+      "id": "kichijoji--p_e3a9a9d054306c5d",
+      "name": "Corn Barley",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Corn Barley」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7035204,
+        "lng": 139.5816965,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "5:33",
+          "seconds": 333
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e3a9a9d054306c5d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com.tw/maps/place/Corn+Barley/@35.7035204,139.4169016,11z/data=!4m7!3m6!1s0x6018ef9289dbfc91:0xc6e1b777da6d2596!8m2!3d35.7035204!4d139.5816965!15sCgtDb3JuIEJhcmxleVoNIgtjb3JuIGJhcmxleZIBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11fpd6_5j0?entry=tts&g_ep=EgoyMDI0MDgyNi4wKgBIAVAD"
+      }
+    },
+    {
+      "id": "kichijoji--p_cb8a5e8cba50ff7e",
+      "name": "Crayon House",
+      "address": "2-chōme-15-6 Kichijōji Honchō, Musashino, Tokyo 180-0004",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Crayon House」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-15-6 Kichijōji Honchō, Musashino, Tokyo 180-0004。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7060154,
+        "lng": 139.57672639999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "It4cS76rRSM",
+          "title": "【東京食べ放題5選】この秋限定シャインマスカット食べ放題、1970年ニューヨーク生まれの極上ビュッフェ！",
+          "url": "https://www.youtube.com/watch?v=It4cS76rRSM"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_cb8a5e8cba50ff7e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3141349727123340452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_779e3432c8c95742",
+      "name": "Ibuki Udon Kichijoji",
+      "address": "1-chōme-1-1 Gotenyama, Musashino, Tokyo 180-0005",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Ibuki Udon Kichijoji」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-1-1 Gotenyama, Musashino, Tokyo 180-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7031424,
+        "lng": 139.5772546,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "6:00",
+          "seconds": 360
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_779e3432c8c95742"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11889922840241589079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_1e37c0fe78ec1257",
+      "name": "KANNON COFFEE吉祥寺店(カンノンコーヒー)",
+      "address": "東京都三鷹市下連雀5-1-1 プラウドシティ吉祥寺",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「KANNON COFFEE吉祥寺店(カンノンコーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都三鷹市下連雀5-1-1 プラウドシティ吉祥寺。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.690895,
+        "lng": 139.57135,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%89%E9%B7%B9%E5%B8%82%E4%B8%8B%E9%80%A3%E9%9B%805-1-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zVmpLi_Ybk0",
+          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
+          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
+          "time": "7:15",
+          "seconds": 435
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1e37c0fe78ec1257"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/KANNON+COFFEE+kichijoji/@35.6907498,139.5711483,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef6d117181bf:0x1c61f6ba1bbafcbe!8m2!3d35.6907498!4d139.5711483!16s%2Fg%2F11n5l2lbrb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kichijoji--p_b1aa292c554fce71",
+      "name": "Kichijoji",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Kichijoji」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7031485,
+        "lng": 139.5798087,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "a-bPndpKXiA",
+          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
+          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA",
+          "time": "0:38",
+          "seconds": 38
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b1aa292c554fce71"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%90%89%E7%A5%A5%E5%AF%BA%E8%BB%8A%E7%AB%99/data=!4m7!3m6!1s0x6018ee47f6226cc3:0x34e6b69989d52a4e!8m2!3d35.7031485!4d139.5798087!16s%2Fg%2F1tznmcvr!19sChIJw2wi9kfuGGARTirViZm25jQ?authuser=0&hl=zh-TW&rclk=1"
+      }
+    },
+    {
+      "id": "kichijoji--p_7fc9261079dd1cfd",
+      "name": "KIKi Cafe 吉祥寺",
+      "address": "4-chōme-6-10 Kichijōji Honchō, Musashino, Tokyo 180-0004",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「KIKi Cafe 吉祥寺」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 4-chōme-6-10 Kichijōji Honchō, Musashino, Tokyo 180-0004。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7058371,
+        "lng": 139.57398949999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "14:10",
+          "seconds": 850
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7fc9261079dd1cfd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13405406695890848810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_0bbf2b9501ceef47",
+      "name": "LIBERTÉ PÂTISSERIE BOULANGERIE 東京本店",
+      "address": "東京都武蔵野市吉祥寺本町２丁目１４−3 1F･2F",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「LIBERTÉ PÂTISSERIE BOULANGERIE 東京本店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町２丁目１４−3 1F･2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.705864,
+        "lng": 139.577225,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2%E4%B8%81%E7%9B%AE14%E2%88%923",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "CWkJ2jezhG0",
+          "title": "【東京・パン屋】おすすめ！パンが美味しいランチ特集６選！6 bakery cafe tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=CWkJ2jezhG0",
+          "time": "07:20",
+          "seconds": 440
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "TMcqhuqLL9I",
+          "title": "cafe vlog｜吉祥寺・西荻窪・高円寺カフェ巡り／食べ歩き／中央線",
+          "url": "https://www.youtube.com/watch?v=TMcqhuqLL9I"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "r4CNx93ofjw",
+          "title": "【東京食べ放題】1000円台で神過ぎる！ミシュランやホテルビュッフェなど！",
+          "url": "https://www.youtube.com/watch?v=r4CNx93ofjw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0bbf2b9501ceef47",
+          "p_80109c4d96f514f0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Libert%C3%A9+P%C3%A2tisserie+Boulangerie+Tokyo+Kichij%C5%8Dji/@35.7058765,139.5773157,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee48cf5f6b9f:0x868bbdf20b2d7b4e!8m2!3d35.7058765!4d139.5773157!16s%2Fg%2F11h9__27v5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kichijoji--p_80c5f46f31229ce2",
+      "name": "Melrose and Morgan （メルローズ アンド モーガン）",
+      "address": "東京都武蔵野市吉祥寺本町4-10-9",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Melrose and Morgan （メルローズ アンド モーガン）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町4-10-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.709145,
+        "lng": 139.57428,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA4-10-9",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zVmpLi_Ybk0",
+          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
+          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
+          "time": "13:16",
+          "seconds": 796
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_80c5f46f31229ce2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Melrose+and+Morgan+Kichijoji+Shop/@35.7090924,139.5743207,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef096c09ef5f:0x447ec8765fb725ec!8m2!3d35.7090924!4d139.5743207!16s%2Fg%2F11rstl6qqb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kichijoji--p_71fce2dd1f0ba0aa",
+      "name": "Mlesna Tea Tokyo",
+      "address": "1-chōme-12-12 Kichijōji Minamichō, Musashino, Tokyo 180-0003",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Mlesna Tea Tokyo」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-12-12 Kichijōji Minamichō, Musashino, Tokyo 180-0003。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7017599,
+        "lng": 139.57687149999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "s6xeAzXrYR8",
+          "title": "【保存版】東京で絶対外さないランチ10選！食べログ1位・ミシュラン・Diorカフェ",
+          "url": "https://www.youtube.com/watch?v=s6xeAzXrYR8"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_71fce2dd1f0ba0aa"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14250221709862983261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_b805fa6ddf547529",
+      "name": "OVER COFFEE HUB (Coffee & Coworking)",
+      "address": "2-chōme-10-6 Kichijōji Honchō, Musashino, Tokyo 180-0004",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「OVER COFFEE HUB (Coffee & Coworking)」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-10-6 Kichijōji Honchō, Musashino, Tokyo 180-0004。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.704525,
+        "lng": 139.57705199999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "FebbZm7bZCY",
+          "title": "The best of KICHIJOJI, Tokyo🇯🇵｜Must-Visit Cafes, Inokashira Park & Local Zoo 2026🌿",
+          "url": "https://www.youtube.com/watch?v=FebbZm7bZCY",
+          "time": "01:10",
+          "seconds": 70
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b805fa6ddf547529"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10086207857384265421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_2737f387b183baff",
+      "name": "Pizzeria GG",
+      "address": "〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−17−１ プレジール 地下一階",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Pizzeria GG」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−17−１ プレジール 地下一階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7009391,
+        "lng": 139.57868779999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "SRMGYVuiIAs",
+          "title": "東京美食吉祥寺篇，24小時爽吃特輯四選 ! 吉祥寺一日美食地圖，日本人最愛街區 ! 水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=SRMGYVuiIAs",
+          "time": "0:25",
+          "seconds": 25
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2737f387b183baff"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11234568371062029738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_f18fbfef46e36302",
+      "name": "poooL",
+      "address": "〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 3-chōme−8−１１ ブルーメゾン吉祥寺 101",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「poooL」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 3-chōme−8−１１ ブルーメゾン吉祥寺 101。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7044253,
+        "lng": 139.57160489999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "BKRRht8xk9I",
+          "title": "Hokkaido Winter Trip | Exploring Snowy Sapporo, Cafes & Sushi | JAPAN VLOG",
+          "url": "https://www.youtube.com/watch?v=BKRRht8xk9I"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f18fbfef46e36302"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14112806049168852768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_af8aafb5a0b02c0e",
+      "name": "Sajilo Cafe",
+      "address": "東京都武蔵野市吉祥寺本町1-36-8",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sajilo Cafe」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町1-36-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.704468,
+        "lng": 139.585297,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-36-8",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Lmo5EYrRMZA",
+          "title": "cafe vlog｜東京絶品チーズグルメ／飯テロ𓌈˒˒表参道／吉祥寺／学芸大学／二子玉川／新橋",
+          "url": "https://www.youtube.com/watch?v=Lmo5EYrRMZA",
+          "time": "8:17",
+          "seconds": 497
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_af8aafb5a0b02c0e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sajilo+Cafe+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-36-8"
+      }
+    },
+    {
+      "id": "kichijoji--p_791e7342964ac3a7",
+      "name": "SUNDAY VEGAN",
+      "address": "1-chōme-15-6 Kichijōji Minamichō, Musashino, Tokyo 180-0003",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「SUNDAY VEGAN」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-15-6 Kichijōji Minamichō, Musashino, Tokyo 180-0003。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7009522,
+        "lng": 139.5783145,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HOVPfbroWBg",
+          "title": "Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel",
+          "url": "https://www.youtube.com/watch?v=HOVPfbroWBg"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "a-bPndpKXiA",
+          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
+          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA",
+          "time": "01:30",
+          "seconds": 90
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "el-f-xjGF3o",
+          "title": "【東京・ドーナツ】最新・人気のドーナツ巡り６選！本当においしいお店をピックアップ／表参道／吉祥寺／渋谷",
+          "url": "https://www.youtube.com/watch?v=el-f-xjGF3o",
+          "time": "09:06",
+          "seconds": 546
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_791e7342964ac3a7",
+          "p_78e314227c118f53"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=932964477376723205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_c94ea4fe6f953c30",
+      "name": "Sushi Tomikawa",
+      "address": "〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 2-chōme−2−３ オリエンタルビル ２F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sushi Tomikawa」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 2-chōme−2−３ オリエンタルビル ２F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.702200999999995,
+        "lng": 139.58060079999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "1tm-naFWG1I",
+          "title": "【東京最佳3壽司】米其林星級餐廳前主廚，超值壽司配11000日圓無限暢飲，帶茶室的櫃檯壽司！",
+          "url": "https://www.youtube.com/watch?v=1tm-naFWG1I"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c94ea4fe6f953c30"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=9518355402417079008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_8318379e6d85acc7",
+      "name": "Tokyu Department Store Kichijoji Store",
+      "address": "2-chōme-3-1 Kichijōji Honchō, Musashino, Tokyo 180-8519",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Tokyu Department Store Kichijoji Store」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-3-1 Kichijōji Honchō, Musashino, Tokyo 180-8519。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7050678,
+        "lng": 139.5777986,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "15:41",
+          "seconds": 941
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8318379e6d85acc7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=573281083070198444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_0b49693e62654562",
+      "name": "Yakiniku Miyuki En",
+      "address": "〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−10−５ 三慶ビル 2階",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Yakiniku Miyuki En」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−10−５ 三慶ビル 2階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.704366,
+        "lng": 139.577061,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "SRMGYVuiIAs",
+          "title": "東京美食吉祥寺篇，24小時爽吃特輯四選 ! 吉祥寺一日美食地圖，日本人最愛街區 ! 水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=SRMGYVuiIAs",
+          "time": "07:54",
+          "seconds": 474
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_0b49693e62654562"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16490144661265249967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kichijoji--p_ff7f8ce817e4ddc2",
+      "name": "いせや 公園店",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「いせや 公園店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.70065,
+        "lng": 139.57814,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "19:54",
+          "seconds": 1194
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ff7f8ce817e4ddc2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Iseya+Koen-ten/@35.70065,139.57814,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef7adb31c1dd:0x8b72a34fd23f7b26!8m2!3d35.70065!4d139.57814!16s%2Fg%2F1tdgpv_d?entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      }
+    },
+    {
+      "id": "kichijoji--p_6cf905ca7452a75a",
+      "name": "カプーン 抹茶製造所",
+      "address": "東京都武蔵野市吉祥寺本町2-33-2",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「カプーン 抹茶製造所」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町2-33-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.704613,
+        "lng": 139.57457,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-33-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zR1OI3T8YxY",
+          "title": "cafe vlog｜抹茶好き必見！東京抹茶スイーツ6選！浅草／表参道／吉祥寺／銀座／...etc",
+          "url": "https://www.youtube.com/watch?v=zR1OI3T8YxY",
+          "time": "2:54",
+          "seconds": 174
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6cf905ca7452a75a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%97%E3%83%BC%E3%83%B3+%E6%8A%B9%E8%8C%B6%E8%A3%BD%E9%80%A0%E6%89%80+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-33-2"
+      }
+    },
+    {
+      "id": "kichijoji--p_7ed9511870056fa4",
+      "name": "クレープハウスCircus",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「クレープハウスCircus」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7053604,
+        "lng": 139.5809021,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "11:23",
+          "seconds": 683
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7ed9511870056fa4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Cr%C3%AApe+House+Circus/@35.7053604,139.5809021,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee47ac39d35f:0x2c4b98e84290a2fd!8m2!3d35.7053604!4d139.5809021!16s%2Fg%2F1w8wb13g?q=Cr%C3%AApe+House+Circus,+%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%A0%E5%90%89%E7%A5%A5%E5%AF%BA%E3%83%93%E3%83%AB+1+Chome-12-13+Kichijoji+Honcho,+Musashino,+Tokyo+180-0004%E6%97%A5%E6%9C%AC&ftid=0x6018ee47ac39d35f:0x2c4b98e84290a2fd&lucs=,94231208,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      }
+    },
+    {
+      "id": "kichijoji--p_ccebea293404c2be",
+      "name": "ティーハウス はっぱ",
+      "address": "東京都武蔵野市吉祥寺本町2-33-2 吉祥寺プティット村",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ティーハウス はっぱ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町2-33-2 吉祥寺プティット村。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.704613,
+        "lng": 139.57457,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-33-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zVmpLi_Ybk0",
+          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
+          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
+          "time": "5:13",
+          "seconds": 313
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ccebea293404c2be"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9+%E3%81%AF%E3%81%A3%E3%81%B1+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-33-2+%E5%90%89%E7%A5%A5%E5%AF%BA%E3%83%97%E3%83%86%E3%82%A3%E3%83%83%E3%83%88%E6%9D%91"
+      }
+    },
+    {
+      "id": "kichijoji--p_3b713381d8cda60b",
+      "name": "はらドーナッツ 吉祥寺店",
+      "address": "東京都武蔵野市吉祥寺本町４丁目１３−１５",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「はらドーナッツ 吉祥寺店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町４丁目１３−１５。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.705471,
+        "lng": 139.572662,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA4%E4%B8%81%E7%9B%AE13%E2%88%9215",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "M16TwoRib7o",
+          "title": "cafe vlog｜東京ドーナッツ巡り7選！原宿／池袋／日本橋／永田町／...etc",
+          "url": "https://www.youtube.com/watch?v=M16TwoRib7o",
+          "time": "6:28",
+          "seconds": 388
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3b713381d8cda60b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%F0%9F%8D%A9%E3%81%AF%E3%82%89%E3%83%89%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84+%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%93%E2%88%92%EF%BC%91%EF%BC%95"
+      }
+    },
+    {
+      "id": "kichijoji--p_ef86f6def7c79400",
+      "name": "ピワン",
+      "address": "東京都武蔵野市吉祥寺本町２丁目１４−７",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ピワン」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町２丁目１４−７。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.706524,
+        "lng": 139.577591,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2%E4%B8%81%E7%9B%AE14%E2%88%927",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zVmpLi_Ybk0",
+          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
+          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
+          "time": "14:15",
+          "seconds": 855
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ef86f6def7c79400"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%AF%E3%83%B3+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%94%E2%88%92%EF%BC%97"
+      }
+    },
+    {
+      "id": "kichijoji--p_7ec71078c5dda06e",
+      "name": "ボート売店",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ボート売店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6995689,
+        "lng": 139.5770591,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "16:14",
+          "seconds": 974
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7ec71078c5dda06e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Inokashira+Park+Boat+Store/@35.6995689,139.5770591,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee37a626a79d:0x849efdd9d5938685!8m2!3d35.6995689!4d139.5770591!16s%2Fg%2F11c6cy6sbb?q=Inokashira+Park+Boat+Store,+4+Chome-1-5+Inokashira,+Mitaka,+Tokyo+181-0001%E6%97%A5%E6%9C%AC&ftid=0x6018ee37a626a79d:0x849efdd9d5938685&lucs=,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      }
+    },
+    {
+      "id": "kichijoji--p_fb1e21949acd0c59",
+      "name": "ラウンジ＆ダイニング SORAE（ソラエ)",
+      "address": "〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−4−１４ 吉祥寺エクセルホテル 東急2F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ラウンジ＆ダイニング SORAE（ソラエ)」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−4−１４ 吉祥寺エクセルホテル 東急2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.706213399999996,
+        "lng": 139.5785335,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "KBCfPUMACUw",
+          "title": "【東京朝ごはん10選】5つ星ホテルモーニングが500円!?築地本願寺で食べる全18品の至福モーニングなど！",
+          "url": "https://www.youtube.com/watch?v=KBCfPUMACUw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fb1e21949acd0c59"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=2197431888597839816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    }
+  ],
+  "matches": {
+    "kichijoji--temple": {
+      "sourceIds": [
+        "p_7620a0ac5fb043e7"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "6:00",
+          "seconds": 360
+        }
+      ]
+    },
+    "kichijoji--park": {
+      "sourceIds": [
+        "p_af9c67ce9a3da4c6",
+        "p_23bc7737e4e5c576"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HOVPfbroWBg",
+          "title": "Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel",
+          "url": "https://www.youtube.com/watch?v=HOVPfbroWBg"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "FebbZm7bZCY",
+          "title": "The best of KICHIJOJI, Tokyo🇯🇵｜Must-Visit Cafes, Inokashira Park & Local Zoo 2026🌿",
+          "url": "https://www.youtube.com/watch?v=FebbZm7bZCY",
+          "time": "03:13",
+          "seconds": 193
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "3:45",
+          "seconds": 225
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU"
+        }
+      ]
+    },
+    "kichijoji--harmonica": {
+      "sourceIds": [
+        "p_c4264cc2e1d4d053"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU"
+        }
+      ]
+    }
+  },
+  "archived": []
+}

@@ -1,0 +1,1171 @@
+{
+  "places": [
+    {
+      "id": "kuramae--p_6160adafced6602d",
+      "name": "淺草橋",
+      "address": "日本〒111-0053 東京都台東區淺草橋 1 Chome−18",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「淺草橋」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 日本〒111-0053 東京都台東區淺草橋 1 Chome−18。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "淺草橋方向的延伸點；請另留步行時間。",
+      "coordinate": {
+        "lat": 35.6974952,
+        "lng": 139.7859834,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "0:44",
+          "seconds": 44
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6160adafced6602d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=16744840618390525528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kuramae--p_c55e83fd1938ebd0",
+      "name": "野口鮮魚店",
+      "address": "4-chōme-6-9 Higashikomagata, Sumida City, Tokyo 130-0005",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「野口鮮魚店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 4-chōme-6-9 Higashikomagata, Sumida City, Tokyo 130-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.7064163,
+        "lng": 139.80561609999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "X-nIPhjpsvA",
+          "title": "東京美食地圖，72小時爽吃特輯十選！三天兩夜東京爽吃指南，百名店炸豬排、激爽浮誇海鮮丼、香辣和牛擔擔麵、蜂蜜五起司披薩，72 hours FOOD tour in Tokyo !【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=X-nIPhjpsvA",
+          "time": "0:32",
+          "seconds": 32
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c55e83fd1938ebd0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=2640146096609332255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kuramae--p_15d518ad81e7ddb0",
+      "name": "鳥越神社",
+      "address": "2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「鳥越神社」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7020221,
+        "lng": 139.7856654,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "0:44",
+          "seconds": 44
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_15d518ad81e7ddb0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=3862339657960906793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kuramae--p_803a658e21e90dea",
+      "name": "藏前",
+      "address": "2-chōme-3-1 Kuramae, Taito City, Tokyo 111-0051",
+      "group": "sights",
+      "categoryLabel": "交通",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「藏前」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-3-1 Kuramae, Taito City, Tokyo 111-0051。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7031637,
+        "lng": 139.7908275,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "36mT1AvxWrI",
+          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
+          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
+          "time": "6:35",
+          "seconds": 395
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "6:03",
+          "seconds": 363
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_803a658e21e90dea"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7376009065730975557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kuramae--p_27c24e65b79e6da4",
+      "name": "饗黑㐂",
+      "address": "1-chōme-28-9 Asakusabashi, Taito City, Tokyo 111-0053",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「饗黑㐂」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-28-9 Asakusabashi, Taito City, Tokyo 111-0053。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "淺草橋方向的延伸點；請另留步行時間。",
+      "coordinate": {
+        "lat": 35.6979964,
+        "lng": 139.7854476,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "9dvDl6CBd_o",
+          "title": "東京美食淺草篇，24小時爽吃特輯四選！淺草一日美食地圖，米其林推薦厚切炸豬排、東京鹽味拉麵代表、淺草超夯和牛燒肉、百名店認證海味居酒屋 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=9dvDl6CBd_o",
+          "time": "2:52",
+          "seconds": 172
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_27c24e65b79e6da4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=13726656199217205234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kuramae--p_20eec8967837e7ad",
+      "name": "atelier tamiser(アトリエ タミゼ)",
+      "address": "東京都台東区蔵前4-14-11 ウグイスビル 1F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「atelier tamiser(アトリエ タミゼ)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区蔵前4-14-11 ウグイスビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.703739,
+        "lng": 139.789978,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%94%B5%E5%89%8D4-14-11",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NX3OxRVbo-k",
+          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
+          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k",
+          "time": "09:15",
+          "seconds": 555
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_20eec8967837e7ad"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Atelier+tamiser/@35.7037748,139.7899444,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fdaba893e0b:0x1a9251fa7dc17b8d!8m2!3d35.7037748!4d139.7899444!16s%2Fg%2F11qp0y1t90?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kuramae--p_395efc3f319ac2e1",
+      "name": "BANDAI 株式会社バンダイ",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「BANDAI 株式会社バンダイ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7073176,
+        "lng": 139.7946492,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_395efc3f319ac2e1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/BANDAI+CO.,+LTD.+Head+Office/@35.707282,139.7946741,20.67z/data=!4m6!3m5!1s0x60188ec7c29aaf3f:0xaaa9a2202b8cfa06!8m2!3d35.7073176!4d139.7946492!16s%2Fg%2F1tdpg5s4?entry=tts&g_ep=EgoyMDI1MDgzMC4wIPu8ASoASAFQAw%3D%3D&skid=9968e5a4-19e5-4f06-b546-04b6dc840a22"
+      }
+    },
+    {
+      "id": "kuramae--p_d6be19d6ed446c03",
+      "name": "from afar",
+      "address": "東京都台東区寿２丁目５−１２ 加瀬ビル １階",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「from afar」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区寿２丁目５−１２ 加瀬ビル １階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.709129,
+        "lng": 139.789566,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%AF%BF2%E4%B8%81%E7%9B%AE5%E2%88%9212",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d6be19d6ed446c03"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/from+afar/@35.7247641,139.8204922,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec8de2250e3:0x4313b20d8de2aefd!8m2!3d35.7247641!4d139.8204922!16s%2Fg%2F11bwfm7df9?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kuramae--p_499533cd5ccca793",
+      "name": "Ginza Nishikawa Coffee Roastery",
+      "address": "〒111-0051 Tokyo, Taito City, Kuramae, 4-chōme−1−１ 蔵前ビル",
+      "group": "food",
+      "categoryLabel": "自助餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Ginza Nishikawa Coffee Roastery」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒111-0051 Tokyo, Taito City, Kuramae, 4-chōme−1−１ 蔵前ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7017654,
+        "lng": 139.7888482,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "VKiiTmD8Iqs",
+          "title": "MUST-VISIT ULTIMATE FOOD SPOTS IN TSUKIJI, TOKYO🇯🇵｜Tokyo vlog 2026｜Tsukiji Outer Market",
+          "url": "https://www.youtube.com/watch?v=VKiiTmD8Iqs"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_499533cd5ccca793"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=17670514372474905186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kuramae--p_9022b5fbb1b362ca",
+      "name": "hamorebi coffee",
+      "address": "3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「hamorebi coffee」出現在Hina Life in Japan、Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "淺草橋方向的延伸點；請另留步行時間。",
+      "coordinate": {
+        "lat": 35.7005538,
+        "lng": 139.7857425,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "5lS-2thcoYw",
+          "title": "10 Japan coffee shops you should visit in Tokyo: Japan Travel Guide",
+          "url": "https://www.youtube.com/watch?v=5lS-2thcoYw",
+          "time": "8:32",
+          "seconds": 512
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "0:44",
+          "seconds": 44
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_9022b5fbb1b362ca"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6553371749865476794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kuramae--p_a710bbb8b8d030ce",
+      "name": "I'll",
+      "address": "1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「I'll」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7055271,
+        "lng": 139.79719160000002,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6Sr7Z0XQa5c",
+          "title": "Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025",
+          "url": "https://www.youtube.com/watch?v=6Sr7Z0XQa5c"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a710bbb8b8d030ce"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14523238930370528582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kuramae--p_5304d79ce902f709",
+      "name": "ICHIBIKO KURAMAE",
+      "address": "東京都台東区鳥越1-30-10",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ICHIBIKO KURAMAE」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区鳥越1-30-10。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.703503,
+        "lng": 139.783371,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%B3%A5%E8%B6%8A1-30-10",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "R3-jk7HihhI",
+          "title": "【最旬】東京ご褒美いちごスイーツ10選｜-2026年-前編🍓ˎˊ˗",
+          "url": "https://www.youtube.com/watch?v=R3-jk7HihhI",
+          "time": "14:05",
+          "seconds": 845
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5304d79ce902f709"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Ichibiko+Kuramae/@35.7034197,139.7833206,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f0061b9170d:0xf07789e1ef1068d6!8m2!3d35.7034197!4d139.7833206!16s%2Fg%2F11wwf9tr2d?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "id": "kuramae--p_500aed5155361116",
+      "name": "Lucite Gallery",
+      "address": "〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Lucite Gallery」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.6974223,
+        "lng": 139.7892454,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "w87nLAk6Pck",
+          "title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
+          "url": "https://www.youtube.com/watch?v=w87nLAk6Pck"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_500aed5155361116"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=8518855316958365278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kuramae--p_3f9cc41e4c83b0e5",
+      "name": "Maple Pizza",
+      "address": "東京都台東区寿2-4-8-101",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Maple Pizza」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区寿2-4-8-101。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.709152,
+        "lng": 139.789932,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%AF%BF2-4-8-101",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "QNJFzhnOReA",
+          "title": "淺草與合羽橋散策：下町街道、古民家咖啡館、隅田川夕陽與晴空塔夜景 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=QNJFzhnOReA",
+          "time": "5:58",
+          "seconds": 358
+        }
+      ],
+      "official": "https://maplepizza.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3f9cc41e4c83b0e5"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/XDv9FZNhXua2GDxV8"
+      }
+    },
+    {
+      "id": "kuramae--p_fd0085ce79d57d3e",
+      "name": "Pretty Good",
+      "address": "〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F",
+      "group": "food",
+      "categoryLabel": "甜點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Pretty Good」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.699055,
+        "lng": 139.7901626,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6Sr7Z0XQa5c",
+          "title": "Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025",
+          "url": "https://www.youtube.com/watch?v=6Sr7Z0XQa5c"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OyO1a5arI-U",
+          "title": "【東京／あんバター】究極の背徳感！一度食べたら忘れられない「あんバター７選」／浅草・蔵前・学芸大学・代官山他",
+          "url": "https://www.youtube.com/watch?v=OyO1a5arI-U",
+          "time": "05:32",
+          "seconds": 332
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fd0085ce79d57d3e",
+          "p_e418febe599fa95d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5398777421191737333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      }
+    },
+    {
+      "id": "kuramae--p_92942cbf86942e65",
+      "name": "イリヤプラスカフェ カスタム倉庫 （iriya plus cafe）",
+      "address": "東京都台東区寿4-7-11",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「イリヤプラスカフェ カスタム倉庫 （iriya plus cafe）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都台東区寿4-7-11。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.708633,
+        "lng": 139.791855,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%AF%BF4-7-11",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "7xy4Ofe_Cjw",
+          "title": "【東京】至高のフレンチトースト巡り７選［保存版］French toast tour (with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=7xy4Ofe_Cjw",
+          "time": "04:22",
+          "seconds": 262
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_92942cbf86942e65"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%83%AA%E3%83%A4%E3%83%97%E3%83%A9%E3%82%B9%E3%82%AB%E3%83%95%E3%82%A7+%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E5%80%89%E5%BA%AB+%EF%BC%88iriya+plus+cafe%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%AF%BF4-7-11"
+      }
+    },
+    {
+      "id": "kuramae--p_2e3d82ad3745c664",
+      "name": "はなび",
+      "address": "",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「はなび」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.7055014,
+        "lng": 139.7947163,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "cJpFIy7RiLA",
+          "title": "【東京食べ放題7選】1,000円でおつりが来る！？500円中華食べ放題、700円コーヒートースト食べ飲み放題など！",
+          "url": "https://www.youtube.com/watch?v=cJpFIy7RiLA"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2e3d82ad3745c664"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%B2%B3%E6%99%AF%E5%B1%85%E9%85%92%E5%B1%8B+Bon%E8%8A%B1%E7%81%AB/data=!4m7!3m6!1s0x60188ec86a9affff:0x552bdce1eafd06b3!8m2!3d35.7055014!4d139.7947163!16s%2Fg%2F11bxf5v6sv!19sChIJ__-aasiOGGARswb96uHcK1U?authuser=0&hl=zh-TW&rclk=1"
+      }
+    }
+  ],
+  "matches": {
+    "p_088547dbd6fad237": {
+      "sourceIds": [
+        "p_088547dbd6fad237"
+      ],
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "maw7VXODp8g",
+          "title": "東京美食淺草篇，24小時爽吃之旅 ! 淺草一日美食地圖推薦，巷內江戶前天丼老店、淺草百年蕎麥麵、罕見泥鰍鍋初體驗、油香衝擊和牛壽喜燒、百年關東煮老店 【肥波外食記】ft.Rakuten Travel",
+          "url": "https://www.youtube.com/watch?v=maw7VXODp8g",
+          "time": "5:06",
+          "seconds": 306
+        }
+      ]
+    },
+    "p_3be500963da21948": {
+      "sourceIds": [
+        "p_3be500963da21948"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "8b2OxMJC_RQ",
+          "title": "Life in Tokyo 🗼 Discovering Neighborhoods Along the Asakusa Line: Asakusa, Kuramae & Beyond",
+          "url": "https://www.youtube.com/watch?v=8b2OxMJC_RQ"
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0",
+          "time": "1:39",
+          "seconds": 99
+        }
+      ]
+    },
+    "p_58015a8c60b78515": {
+      "sourceIds": [
+        "p_58015a8c60b78515"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "HC6ngkDc5rY",
+          "title": "🇯🇵東京的淺草、上野一帶還有什麼選擇？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=HC6ngkDc5rY",
+          "time": "6:51",
+          "seconds": 411
+        }
+      ]
+    },
+    "p_32eedb3b96b57916": {
+      "sourceIds": [
+        "p_32eedb3b96b57916"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k",
+          "time": "19:45",
+          "seconds": 1185
+        }
+      ]
+    },
+    "p_2faa023ac911baa6": {
+      "sourceIds": [
+        "p_38dfa5a513fa580b",
+        "p_2faa023ac911baa6"
+      ],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NX3OxRVbo-k",
+          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
+          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k",
+          "time": "00:14",
+          "seconds": 14
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "6:03",
+          "seconds": 363
+        }
+      ]
+    },
+    "p_7ea40bdd99c4bed6": {
+      "sourceIds": [
+        "p_7ea40bdd99c4bed6"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k"
+        }
+      ]
+    },
+    "p_8e426a44d227b5f9": {
+      "sourceIds": [
+        "p_8e426a44d227b5f9"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k",
+          "time": "21:53",
+          "seconds": 1313
+        }
+      ]
+    },
+    "bark": {
+      "sourceIds": [
+        "p_22c144de79c690aa"
+      ],
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6Sr7Z0XQa5c",
+          "title": "Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025",
+          "url": "https://www.youtube.com/watch?v=6Sr7Z0XQa5c"
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "36mT1AvxWrI",
+          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
+          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
+          "time": "6:35",
+          "seconds": 395
+        }
+      ]
+    },
+    "chigaya": {
+      "sourceIds": [
+        "p_85cb198a78fc3448",
+        "p_59d92382124a4dba",
+        "p_87b2ad46846ed88d"
+      ],
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "Elnh4ZYpWkU",
+          "title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+          "url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NX3OxRVbo-k",
+          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
+          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k",
+          "time": "09:56",
+          "seconds": 596
+        }
+      ]
+    },
+    "p_40d37e8b90f1d3a2": {
+      "sourceIds": [
+        "p_40d37e8b90f1d3a2"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k"
+        }
+      ]
+    },
+    "p_4f678d160f4ac364": {
+      "sourceIds": [
+        "p_4f678d160f4ac364"
+      ],
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "Elnh4ZYpWkU",
+          "title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+          "url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6Sr7Z0XQa5c",
+          "title": "Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025",
+          "url": "https://www.youtube.com/watch?v=6Sr7Z0XQa5c",
+          "time": "08:48",
+          "seconds": 528
+        }
+      ]
+    },
+    "p_5ab99f7b092e719f": {
+      "sourceIds": [
+        "p_5ab99f7b092e719f",
+        "p_2e2630c77d84ab66"
+      ],
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "Elnh4ZYpWkU",
+          "title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+          "url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU"
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0",
+          "time": "8:53",
+          "seconds": 533
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NX3OxRVbo-k",
+          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
+          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k",
+          "time": "05:56",
+          "seconds": 356
+        }
+      ]
+    },
+    "p_765b0f07994197bb": {
+      "sourceIds": [
+        "p_765b0f07994197bb"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0",
+          "time": "5:28",
+          "seconds": 328
+        }
+      ]
+    },
+    "p_755e902f96d154b8": {
+      "sourceIds": [
+        "p_755e902f96d154b8"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "6:03",
+          "seconds": 363
+        }
+      ]
+    },
+    "p_2ca59cf0ccfab515": {
+      "sourceIds": [
+        "p_2ca59cf0ccfab515"
+      ],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NX3OxRVbo-k",
+          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
+          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k",
+          "time": "03:46",
+          "seconds": 226
+        }
+      ]
+    },
+    "p_40162bcb1904fe28": {
+      "sourceIds": [
+        "p_40162bcb1904fe28"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "0:44",
+          "seconds": 44
+        }
+      ]
+    },
+    "p_91fd233286b858f4": {
+      "sourceIds": [
+        "p_91fd233286b858f4"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "6:03",
+          "seconds": 363
+        }
+      ]
+    },
+    "p_f858fe6d8b9f148d": {
+      "sourceIds": [
+        "p_f858fe6d8b9f148d"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k",
+          "time": "19:45",
+          "seconds": 1185
+        }
+      ]
+    },
+    "p_4587f83ff726cc8b": {
+      "sourceIds": [
+        "p_4587f83ff726cc8b"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k",
+          "time": "17:05",
+          "seconds": 1025
+        }
+      ]
+    },
+    "p_9e11b0025b540196": {
+      "sourceIds": [
+        "p_9e11b0025b540196"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "36mT1AvxWrI",
+          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
+          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
+          "time": "6:35",
+          "seconds": 395
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0",
+          "time": "3:43",
+          "seconds": 223
+        }
+      ]
+    },
+    "p_614823c1d1799627": {
+      "sourceIds": [
+        "p_614823c1d1799627"
+      ],
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "Svd-da64MLI",
+          "title": "東京 🇯🇵 🥯 最新貝果專賣店巡禮！經典紅豆奶油到創新奶茶奶油貝果三明治",
+          "url": "https://www.youtube.com/watch?v=Svd-da64MLI"
+        }
+      ]
+    },
+    "p_105ef59e5ba74a8a": {
+      "sourceIds": [
+        "p_105ef59e5ba74a8a"
+      ],
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "bXb5psl7rUo",
+          "title": "【東京・最新】2022年最新カフェ８店舗～2022年下半期版～ 新大久保／銀座／丸の内／日本橋／蔵前／...etc",
+          "url": "https://www.youtube.com/watch?v=bXb5psl7rUo",
+          "time": "11:41",
+          "seconds": 701
+        }
+      ]
+    },
+    "p_5134c4a12795d5bd": {
+      "sourceIds": [
+        "p_5134c4a12795d5bd",
+        "p_007b2269caeaaed6"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NX3OxRVbo-k",
+          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
+          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k",
+          "time": "02:22",
+          "seconds": 142
+        }
+      ]
+    },
+    "tomei": {
+      "sourceIds": [
+        "p_98fbb2de866a60dc"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0",
+          "time": "7:03",
+          "seconds": 423
+        }
+      ]
+    },
+    "nobori": {
+      "sourceIds": [
+        "p_4b852ed74eb38325"
+      ],
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0",
+          "time": "4:56",
+          "seconds": 296
+        }
+      ]
+    },
+    "p_0baebe3d3ec9b05c": {
+      "sourceIds": [
+        "p_0baebe3d3ec9b05c"
+      ],
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k"
+        }
+      ]
+    }
+  },
+  "archived": []
+}
