@@ -1,0 +1,603 @@
+{
+  "updatedAt": "2026-10-25",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "sawara--suwa",
+      "order": 1,
+      "name": "諏訪神社",
+      "address": "千葉県香取市佐原イ1020",
+      "group": "sights",
+      "categoryLabel": "高台神社",
+      "caption": "從河岸轉上高台，換一段樹蔭。",
+      "descriptionParagraphs": [
+        "諏訪神社是佐原新宿地區的氏神，也是秋季佐原大祭的祭祀中心。現有社殿建於一八五三年，古老樹木與石燈籠讓境內保有與河岸不同的安靜。",
+        "這一站在主要商家街景的西側，可以留給想多走一段的人。沿石階登上高台，看完拜殿與樹蔭，再回到街區，便能感受水邊與山丘之間的地形變化。"
+      ],
+      "description": "諏訪神社是佐原新宿地區的氏神，也是秋季佐原大祭的祭祀中心。現有社殿建於一八五三年，古老樹木與石燈籠讓境內保有與河岸不同的安靜。\n\n這一站在主要商家街景的西側，可以留給想多走一段的人。沿石階登上高台，看完拜殿與樹蔭，再回到街區，便能感受水邊與山丘之間的地形變化。",
+      "note": "前往社殿的參道有長石階。",
+      "official": "http://osuwa3.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.8912618,
+        "lng": 140.4898113,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1121128487",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/suwa.webp",
+        "alt": "諏訪神社的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "sawara--tokun",
+      "order": 2,
+      "name": "東薫酒造 直売店",
+      "address": "千葉県香取市佐原イ627",
+      "group": "shops",
+      "categoryLabel": "地方酒藏",
+      "caption": "從酒藏門前，認識米與水釀出的味道。",
+      "descriptionParagraphs": [
+        "東薫酒造於一八二五年在佐原創業，延續水鄉米作與釀造的歷史。品牌以「東薫」「二人静」等酒款，讓老商家町的發酵文化繼續留在日常。",
+        "散步時可到直營店認識不同酒款與包裝，挑一份適合帶走的地方風味。酒藏的歷史也能與附近正上的醬油、佃煮連在一起，構成佐原另一條味覺線索。"
+      ],
+      "description": "東薫酒造於一八二五年在佐原創業，延續水鄉米作與釀造的歷史。品牌以「東薫」「二人静」等酒款，讓老商家町的發酵文化繼續留在日常。\n\n散步時可到直營店認識不同酒款與包裝，挑一份適合帶走的地方風味。酒藏的歷史也能與附近正上的醬油、佃煮連在一起，構成佐原另一條味覺線索。",
+      "note": "酒藏內部見學目前暫停，僅安排直營店到訪；星期三休店，國定假日及菖蒲祭期間例外。",
+      "official": "https://www.tokun.co.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.889622,
+        "lng": 140.494354,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E9%A6%99%E5%8F%96%E5%B8%82%E4%BD%90%E5%8E%9F%E3%82%A4627",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「千葉県香取市佐原イ６２７番地」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/tokun.webp",
+        "alt": "東薫酒造 直売店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "sawara--leun",
+      "order": 3,
+      "name": "LE UN 佐原商家町ホテル NIPPONIA",
+      "address": "千葉県香取市佐原イ1708-2 KAGURA棟",
+      "group": "food",
+      "categoryLabel": "酒藏法式料理",
+      "caption": "把發酵的風味，留給一段完整用餐。",
+      "descriptionParagraphs": [
+        "LE UN 利用江戶時代老酒藏，將佐原的發酵文化與法式料理接在一起。酒粕、味噌、麴與地方食材成為料理線索，也讓歷史建築保有持續使用的日常。",
+        "餐廳可供非住宿旅客用餐，適合想把散步安排得從容一點的人。可以選擇一段午餐或晚餐，把沿途看見的商家與釀造故事，換成桌上的味道。"
+      ],
+      "description": "LE UN 利用江戶時代老酒藏，將佐原的發酵文化與法式料理接在一起。酒粕、味噌、麴與地方食材成為料理線索，也讓歷史建築保有持續使用的日常。\n\n餐廳可供非住宿旅客用餐，適合想把散步安排得從容一點的人。可以選擇一段午餐或晚餐，把沿途看見的商家與釀造故事，換成桌上的味道。",
+      "note": "餐廳可供非住宿旅客預約用餐；旅館客房區不作自由參觀。",
+      "official": "https://www.nipponia-sawara.jp/restaurant",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.888279,
+        "lng": 140.495453,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E9%A6%99%E5%8F%96%E5%B8%82%E4%BD%90%E5%8E%9F%E3%82%A41708-2",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「千葉県香取市佐原イ１７０８番地」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/leun.webp",
+        "alt": "LE UN 佐原商家町ホテル NIPPONIA的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "sawara--ino-museum",
+      "order": 4,
+      "name": "伊能忠敬記念館",
+      "address": "千葉県香取市佐原イ1722-1",
+      "group": "sights",
+      "categoryLabel": "地圖博物館",
+      "caption": "把一段散步，接到一張日本地圖。",
+      "descriptionParagraphs": [
+        "伊能忠敬記念館透過地圖、測量與相關資料，介紹忠敬從佐原商家走向全國測量的歷程。與對岸舊宅一起看，能理解他在出發之前累積的生活與學習。",
+        "館方建議約二十至三十分鐘參觀，適合放在散步的開頭。先看清楚人物與地圖，再走回小野川，日常的一步也會多一點想像。"
+      ],
+      "description": "伊能忠敬記念館透過地圖、測量與相關資料，介紹忠敬從佐原商家走向全國測量的歷程。與對岸舊宅一起看，能理解他在出發之前累積的生活與學習。\n\n館方建議約二十至三十分鐘參觀，適合放在散步的開頭。先看清楚人物與地圖，再走回小野川，日常的一步也會多一點想像。",
+      "note": "星期一休館，遇假日則翌平日休；12月29日至1月1日休館。展示室僅指定區可攝影。",
+      "official": "https://www.city.katori.lg.jp/sightseeing/museum/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.8883898,
+        "lng": 140.4971635,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1420725043",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/ino-museum.webp",
+        "alt": "伊能忠敬記念館的日系水彩插圖"
+      },
+      "recommendation": "看看地圖與測量旅行的故事。"
+    },
+    {
+      "id": "sawara--toyo-bridge",
+      "order": 5,
+      "name": "樋橋（じゃあじゃあ橋）",
+      "address": "千葉県香取市佐原イ 伊能忠敬旧宅前",
+      "group": "sights",
+      "categoryLabel": "水聲小橋",
+      "caption": "停下來，聽一段流過街區的水聲。",
+      "descriptionParagraphs": [
+        "樋橋原本是把農業用水送到小野川對岸的大水樋，後來因溢流的聲音而被稱作「じゃあじゃあ橋」。如今的觀光用橋仍定時落水，讓水運街區留下一段鮮明的聲音風景。",
+        "橋就在伊能忠敬舊宅前，上午九點至下午五點每三十分鐘落水。可以等一個水聲響起的時刻，再沿河岸慢慢走，看看低處的舟與上方的老店。"
+      ],
+      "description": "樋橋原本是把農業用水送到小野川對岸的大水樋，後來因溢流的聲音而被稱作「じゃあじゃあ橋」。如今的觀光用橋仍定時落水，讓水運街區留下一段鮮明的聲音風景。\n\n橋就在伊能忠敬舊宅前，上午九點至下午五點每三十分鐘落水。可以等一個水聲響起的時刻，再沿河岸慢慢走，看看低處的舟與上方的老店。",
+      "note": "",
+      "official": "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.8882146,
+        "lng": 140.49779395,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/27039614",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/toyo-bridge.webp",
+        "alt": "樋橋（じゃあじゃあ橋）的日系水彩插圖"
+      },
+      "recommendation": "沿橋邊與河岸看商家風景。"
+    },
+    {
+      "id": "sawara--ino-residence",
+      "order": 6,
+      "name": "伊能忠敬旧宅",
+      "address": "千葉県香取市佐原イ1900-1",
+      "group": "sights",
+      "categoryLabel": "歷史商家",
+      "caption": "在開始測量日本之前，先看他的日常。",
+      "descriptionParagraphs": [
+        "伊能忠敬在十七歲至四十九歲之間生活的家，就在小野川旁。土藏造店鋪、炊事場、書院與倉庫保留下來，讓這位地圖製作者也回到經營商家的生活尺度。",
+        "舊宅前方的「だし」原是荷物上下船的地方，如今成了觀光船乘船處。看完木格窗與庭院，再走過樋橋到對岸記念館，人物與水運街區便能連成一段故事。"
+      ],
+      "description": "伊能忠敬在十七歲至四十九歲之間生活的家，就在小野川旁。土藏造店鋪、炊事場、書院與倉庫保留下來，讓這位地圖製作者也回到經營商家的生活尺度。\n\n舊宅前方的「だし」原是荷物上下船的地方，如今成了觀光船乘船處。看完木格窗與庭院，再走過樋橋到對岸記念館，人物與水運街區便能連成一段故事。",
+      "note": "12月29日至1月1日休館；敷地與建物有石階、門檻等高低差。",
+      "official": "https://www.city.katori.lg.jp/sightseeing/meisho/rekishi/s_kyutaku.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.88805165454546,
+        "lng": 140.4981448909091,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/1169647828",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/ino-residence.webp",
+        "alt": "伊能忠敬旧宅的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "sawara--mitsubishi",
+      "order": 7,
+      "name": "佐原三菱館・町並み交流館",
+      "address": "千葉県香取市佐原イ1903-1",
+      "group": "sights",
+      "categoryLabel": "近代建築",
+      "caption": "在紅磚洋館裡，讀一點商家町的背景。",
+      "descriptionParagraphs": [
+        "佐原三菱館是大正三年建成的紅磚銀行建築，與周圍木造商家形成不同的表情。經保存修復後一般公開，鄰接的町並交流館也提供街區歷史、文化與觀光資訊。",
+        "可以先在這裡看看展示，再沿小野川找想去的店。紅磚、窗框與屋頂的細節，也替以木色與白牆為主的散步增添一段近代風景。"
+      ],
+      "description": "佐原三菱館是大正三年建成的紅磚銀行建築，與周圍木造商家形成不同的表情。經保存修復後一般公開，鄰接的町並交流館也提供街區歷史、文化與觀光資訊。\n\n可以先在這裡看看展示，再沿小野川找想去的店。紅磚、窗框與屋頂的細節，也替以木色與白牆為主的散步增添一段近代風景。",
+      "note": "每月第二個星期一休館，遇假日則翌平日休；元旦休館。",
+      "official": "https://sawara-machinami.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.887802,
+        "lng": 140.498871,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E9%A6%99%E5%8F%96%E5%B8%82%E4%BD%90%E5%8E%9F%E3%82%A41903-1",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「千葉県香取市佐原イ１９０３番地」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/mitsubishi.webp",
+        "alt": "佐原三菱館・町並み交流館的日系水彩插圖"
+      },
+      "recommendation": "欣賞紅磚洋館與館內開放空間，再慢走回車站。"
+    },
+    {
+      "id": "sawara--suppinya",
+      "order": 8,
+      "name": "素顔屋（すっぴんや）",
+      "address": "千葉県香取市佐原イ3396",
+      "group": "shops",
+      "categoryLabel": "和風生活選物",
+      "caption": "在三棟老屋之間，挑一份樸實小物。",
+      "descriptionParagraphs": [
+        "素顔屋以「和ナチュラル」為主題，在三棟明治後期與大正時期建築裡販售和風生活雜貨。木造町家與洋風看板建築並排，讓逛店也像是在讀不同年代的街景。",
+        "原本的家具店經過修繕，保留老屋立面的比例與工法。可以和對面的三菱館一起看，再挑一件喜歡的小物，讓商家町的記憶跟著日常生活回家。"
+      ],
+      "description": "素顔屋以「和ナチュラル」為主題，在三棟明治後期與大正時期建築裡販售和風生活雜貨。木造町家與洋風看板建築並排，讓逛店也像是在讀不同年代的街景。\n\n原本的家具店經過修繕，保留老屋立面的比例與工法。可以和對面的三菱館一起看，再挑一件喜歡的小物，讓商家町的記憶跟著日常生活回家。",
+      "note": "",
+      "official": "https://suppinya.jimdofree.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.888658557142854,
+        "lng": 140.49894247142856,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/272346722",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/suppinya.webp",
+        "alt": "素顔屋（すっぴんや）的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "sawara--nakamuraya",
+      "order": 9,
+      "name": "中村屋商店",
+      "address": "千葉県香取市佐原イ1720",
+      "group": "shops",
+      "categoryLabel": "和雜貨・土藏",
+      "caption": "從一件手作小物，走近土藏裡的生活。",
+      "descriptionParagraphs": [
+        "中村屋商店以和風雜貨與手作品連結佐原的街區記憶，手巾與地方小物都適合慢慢挑。店家也參與「まちぐるみ博物館」，讓商店裡的收藏與建物成為可親近的文化。",
+        "土藏中的連鶴收藏，展現從一張紙延伸出的細緻造形。可以先逛一樓的小物，再依開放情況看看店家保存的手藝，將伴手禮與參觀放在同一站。"
+      ],
+      "description": "中村屋商店以和風雜貨與手作品連結佐原的街區記憶，手巾與地方小物都適合慢慢挑。店家也參與「まちぐるみ博物館」，讓商店裡的收藏與建物成為可親近的文化。\n\n土藏中的連鶴收藏，展現從一張紙延伸出的細緻造形。可以先逛一樓的小物，再依開放情況看看店家保存的手藝，將伴手禮與參觀放在同一站。",
+      "note": "",
+      "official": "https://www.city.katori.lg.jp/sightseeing/machinami/gurumi/gurumi_21-30.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.8889152,
+        "lng": 140.4978351,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1735172839",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/nakamuraya.webp",
+        "alt": "中村屋商店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "sawara--kobori",
+      "order": 10,
+      "name": "小堀屋本店",
+      "address": "千葉県香取市佐原イ505",
+      "group": "food",
+      "categoryLabel": "黑切蕎麥",
+      "caption": "在老蕎麥店，認識一碗黑色的麵。",
+      "descriptionParagraphs": [
+        "小堀屋本店於一七八二年轉做蕎麥麵，招牌黑切蕎麥以加工昆布呈現深黑色澤。二層木造店鋪在明治時期重現江戶樣式，建物與飲食一同保留了商家町的時間。",
+        "可以把這裡當作沿河散步的午餐，坐下來看看木質空間，再細嚐蕎麥與昆布的組合。吃完往旁邊的呉服店與小野川走，行程便能自然接回街道。"
+      ],
+      "description": "小堀屋本店於一七八二年轉做蕎麥麵，招牌黑切蕎麥以加工昆布呈現深黑色澤。二層木造店鋪在明治時期重現江戶樣式，建物與飲食一同保留了商家町的時間。\n\n可以把這裡當作沿河散步的午餐，坐下來看看木質空間，再細嚐蕎麥與昆布的組合。吃完往旁邊的呉服店與小野川走，行程便能自然接回街道。",
+      "note": "星期三店休。",
+      "official": "https://tanocity.com/shop_detail.php?shop_id=72",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.8891436,
+        "lng": 140.4977133,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1735205749",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/kobori.webp",
+        "alt": "小堀屋本店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "sawara--fukushin",
+      "order": 11,
+      "name": "福新呉服店",
+      "address": "千葉県香取市佐原イ505",
+      "group": "shops",
+      "categoryLabel": "織物・和小物",
+      "caption": "從一條手巾，讀出商家町的紋樣。",
+      "descriptionParagraphs": [
+        "福新呉服店自一八〇四年在佐原經營，現在除了和服，也販售江戶小紋手巾、手作和小物與祭典風呂敷。日常布料裡的細小紋樣，讓地方工藝變得容易接近。",
+        "店家是佐原まちぐるみ博物館第一號館，格子、樑架、時鐘與通往中庭的土間都值得細看。可以用挑小物的節奏認識老店，也看看商業空間如何繼續被使用。"
+      ],
+      "description": "福新呉服店自一八〇四年在佐原經營，現在除了和服，也販售江戶小紋手巾、手作和小物與祭典風呂敷。日常布料裡的細小紋樣，讓地方工藝變得容易接近。\n\n店家是佐原まちぐるみ博物館第一號館，格子、樑架、時鐘與通往中庭的土間都值得細看。可以用挑小物的節奏認識老店，也看看商業空間如何繼續被使用。",
+      "note": "",
+      "official": "https://www.fukushin-sawara.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.8892089,
+        "lng": 140.49765,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1735172868",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/fukushin.webp",
+        "alt": "福新呉服店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "sawara--inae",
+      "order": 12,
+      "name": "いなえ",
+      "address": "千葉県香取市佐原イ511",
+      "group": "food",
+      "categoryLabel": "甘味・藝廊",
+      "caption": "穿過町家與中庭，留一段甜味時間。",
+      "descriptionParagraphs": [
+        "いなえ將兩棟明治町家、土藏、洋館與倉庫透過中庭連在一起，成為甘味、藝廊與選物共存的空間。庭院保留舊瓦與土藏基礎石材的記憶，走進去便能感受建築修復的細節。",
+        "可以用一份和風甘味或飲品，替沿河散步安排座位。展覽與工藝選物讓這一站也適合慢慢看，讓休息自然成為認識佐原生活的一部分。"
+      ],
+      "description": "いなえ將兩棟明治町家、土藏、洋館與倉庫透過中庭連在一起，成為甘味、藝廊與選物共存的空間。庭院保留舊瓦與土藏基礎石材的記憶，走進去便能感受建築修復的細節。\n\n可以用一份和風甘味或飲品，替沿河散步安排座位。展覽與工藝選物讓這一站也適合慢慢看，讓休息自然成為認識佐原生活的一部分。",
+      "note": "星期三店休。",
+      "official": "https://sawara-inae.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.8893855,
+        "lng": 140.4969815,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/2672427605",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/inae.webp",
+        "alt": "いなえ的日系水彩插圖"
+      },
+      "recommendation": "在老屋裡喝茶、吃一份甘味。"
+    },
+    {
+      "id": "sawara--machiya",
+      "order": 13,
+      "name": "さわら町屋館",
+      "address": "千葉県香取市佐原イ499-1",
+      "group": "sights",
+      "categoryLabel": "町屋休憩所",
+      "caption": "走到水邊，找一段可以坐下的空白。",
+      "descriptionParagraphs": [
+        "さわら町屋館以佐原傳統町屋的意匠建成，讓新設的休憩空間融入小野川街景。館內設有座位與賣店，前方廣場也作為街區活動的場地。",
+        "可以在走完幾間店之後進來休息，整理下一段路線，再繼續沿河探索。木格窗與寬屋簷回應周圍建築，也讓散步途中有一個容易辨認的停靠點。"
+      ],
+      "description": "さわら町屋館以佐原傳統町屋的意匠建成，讓新設的休憩空間融入小野川街景。館內設有座位與賣店，前方廣場也作為街區活動的場地。\n\n可以在走完幾間店之後進來休息，整理下一段路線，再繼續沿河探索。木格窗與寬屋簷回應周圍建築，也讓散步途中有一個容易辨認的停靠點。",
+      "note": "星期一休館，遇假日則翌日休；12月29日至1月1日休館。",
+      "official": "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/machiyakan.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.8896051,
+        "lng": 140.498184,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/1094022100",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/machiya.webp",
+        "alt": "さわら町屋館的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "sawara--shojou",
+      "order": 14,
+      "name": "いかだ焼本舗 正上",
+      "address": "千葉県香取市佐原イ3406",
+      "group": "shops",
+      "categoryLabel": "醬油・佃煮",
+      "caption": "把水鄉的鹹香，帶回日常餐桌。",
+      "descriptionParagraphs": [
+        "正上自一八〇〇年創業，以醬油起家，後來發展出佃煮與「いかだ焼」等地方風味。小魚、貝類與蔬菜經過調味保存，讓水鄉的食材成為可以帶走的佐原記憶。",
+        "歷史店鋪就在小野川旁，可以看老商家的空間，也能挑選配飯與下酒的味道。當沿途建築看得差不多，這一站讓街區的歷史回到餐桌。"
+      ],
+      "description": "正上自一八〇〇年創業，以醬油起家，後來發展出佃煮與「いかだ焼」等地方風味。小魚、貝類與蔬菜經過調味保存，讓水鄉的食材成為可以帶走的佐原記憶。\n\n歷史店鋪就在小野川旁，可以看老商家的空間，也能挑選配飯與下酒的味道。當沿途建築看得差不多，這一站讓街區的歷史回到餐桌。",
+      "note": "",
+      "official": "https://www.shoujyou.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.88969087,
+        "lng": 140.498693915,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/143949535",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/shojou.webp",
+        "alt": "いかだ焼本舗 正上的日系水彩插圖"
+      },
+      "recommendation": "走進老舖挑一份佃煮，看看商家建築。"
+    },
+    {
+      "id": "sawara--dashi",
+      "order": 15,
+      "name": "水郷佐原山車会館",
+      "address": "千葉県香取市佐原イ3368 八坂神社境内",
+      "group": "sights",
+      "categoryLabel": "祭典文化",
+      "caption": "走近大人形，感受祭典的尺度。",
+      "descriptionParagraphs": [
+        "水鄉佐原山車會館收藏與展示佐原大祭使用的山車、雕刻與樂器，讓祭日以外也能走近地方文化。實際山車與高大的傳統人形，把街道上熱鬧的場景縮成可慢慢看的展覽。",
+        "可以留約四十分鐘，從木雕細節看到囃子與祭典影像。看完再走回小野川，剛才經過的老店與街道，也會多一層屬於地方共同生活的意義。"
+      ],
+      "description": "水鄉佐原山車會館收藏與展示佐原大祭使用的山車、雕刻與樂器，讓祭日以外也能走近地方文化。實際山車與高大的傳統人形，把街道上熱鬧的場景縮成可慢慢看的展覽。\n\n可以留約四十分鐘，從木雕細節看到囃子與祭典影像。看完再走回小野川，剛才經過的老店與街道，也會多一層屬於地方共同生活的意義。",
+      "note": "星期一休館，遇假日則翌平日休；12月29日至1月1日休館。",
+      "official": "https://www.city.katori.lg.jp/sightseeing/sawaradashikaikan/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.889678733333334,
+        "lng": 140.50125147777777,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/284934090",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/sawara/dashi.webp",
+        "alt": "水郷佐原山車会館的日系水彩插圖"
+      },
+      "recommendation": "看看山車、雕刻與祭典文化，挑感興趣的展示細看。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "sawara-slow-walk",
+      "name": "小野川與地圖的故事",
+      "ids": [
+        "sawara--inae",
+        "sawara--toyo-bridge",
+        "sawara--ino-museum"
+      ],
+      "start": {
+        "name": "佐原站",
+        "address": "千葉県香取市 佐原駅",
+        "access": "JR 成田線；從車站步行前往小野川"
+      },
+      "end": {
+        "name": "佐原站",
+        "address": "千葉県香取市 佐原駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "沿小野川看商家老街，再走進伊能忠敬的地圖故事。",
+      "note": "老商家與町屋可沿途自由停留；紀念館休館時改逛舊宅與老街。",
+      "stopNotes": {
+        "sawara--inae": "在老屋裡喝茶、吃一份甘味。",
+        "sawara--toyo-bridge": "沿橋邊與河岸看商家風景。",
+        "sawara--ino-museum": "看看地圖與測量旅行的故事。"
+      },
+      "art": "/art/walks/sawara/inae.webp"
+    },
+    {
+      "id": "sawara-festival-and-merchants",
+      "name": "山車祭典與商家風景",
+      "ids": [
+        "sawara--dashi",
+        "sawara--shojou",
+        "sawara--mitsubishi"
+      ],
+      "start": {
+        "name": "佐原站",
+        "address": "千葉県香取市 佐原駅",
+        "access": "JR 成田線；從車站步行前往小野川"
+      },
+      "end": {
+        "name": "佐原站",
+        "address": "千葉県香取市 佐原駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "從祭典山車到佃煮老舖與紅磚洋館，讀一段佐原商家町的日常。",
+      "note": "山車會館週一休館，假日順延，另有年末年始休館；三菱館依當期開館公告安排，關閉時可看外觀。老舖以購物為主，休息留在自由探索時間。",
+      "stopNotes": {
+        "sawara--dashi": "看看山車、雕刻與祭典文化，挑感興趣的展示細看。",
+        "sawara--shojou": "走進老舖挑一份佃煮，看看商家建築。",
+        "sawara--mitsubishi": "欣賞紅磚洋館與館內開放空間，再慢走回車站。"
+      },
+      "art": "/art/walks/sawara/dashi.webp"
+    }
+  ],
+  "defaultSelection": "sawara-slow-walk"
+}

@@ -1,0 +1,616 @@
+{
+  "updatedAt": "2026-10-24",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kamakura--hachimangu",
+      "order": 1,
+      "name": "鶴岡八幡宮",
+      "address": "神奈川県鎌倉市雪ノ下2-1-31",
+      "group": "sights",
+      "categoryLabel": "神社",
+      "caption": "從小町街景，走進鎌倉的歷史中心。",
+      "descriptionParagraphs": [
+        "沿若宮大路走向鶴岡八幡宮，視線會由街道轉向樹木、池水與朱紅色社殿。上宮與若宮都是重要文化財，境內的舞殿、大石段與源平池，讓一段參拜也能慢慢讀出古都的層次。",
+        "可以先在境內平地散步，再依體力決定是否登上大石段。這裡適合當作小町散步的北端，讓沿途的甜味與選物，最後接回鎌倉的歷史風景。"
+      ],
+      "description": "沿若宮大路走向鶴岡八幡宮，視線會由街道轉向樹木、池水與朱紅色社殿。上宮與若宮都是重要文化財，境內的舞殿、大石段與源平池，讓一段參拜也能慢慢讀出古都的層次。\n\n可以先在境內平地散步，再依體力決定是否登上大石段。這裡適合當作小町散步的北端，讓沿途的甜味與選物，最後接回鎌倉的歷史風景。",
+      "note": "前往上宮需登階；境內部分文化設施另有開放時間與收費。",
+      "official": "https://www.hachimangu.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.32544600555556,
+        "lng": 139.55620424722224,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/34550401",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/hachimangu.webp",
+        "alt": "鶴岡八幡宮的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--komachi",
+      "order": 2,
+      "name": "小町通り",
+      "address": "神奈川県鎌倉市小町・雪ノ下",
+      "group": "shops",
+      "categoryLabel": "商店街",
+      "caption": "從紅色鳥居，開始挑自己的鎌倉。",
+      "descriptionParagraphs": [
+        "鎌倉站東口旁的紅色鳥居，標記著小町通散步的起點。往鶴岡八幡宮方向延伸的街道，聚集甜點、茶食、伴手禮與生活小店，很適合邊看邊決定下一站。",
+        "主街熱鬧，小巷則藏著老喫茶與小型美術館。可以先走一段主街，再轉入平行的路地，依當下的心情穿梭，讓散步保留選擇的餘地。"
+      ],
+      "description": "鎌倉站東口旁的紅色鳥居，標記著小町通散步的起點。往鶴岡八幡宮方向延伸的街道，聚集甜點、茶食、伴手禮與生活小店，很適合邊看邊決定下一站。\n\n主街熱鬧，小巷則藏著老喫茶與小型美術館。可以先走一段主街，再轉入平行的路地，依當下的心情穿梭，讓散步保留選擇的餘地。",
+      "note": "",
+      "official": "https://kamakura-komachi.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.32040330588235,
+        "lng": 139.55177554117645,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/460141218",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/komachi.webp",
+        "alt": "小町通り的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--iwata",
+      "order": 3,
+      "name": "イワタコーヒー店",
+      "address": "神奈川県鎌倉市小町1-5-7",
+      "group": "food",
+      "categoryLabel": "老喫茶",
+      "caption": "在庭院旁，等一份厚厚的午後。",
+      "descriptionParagraphs": [
+        "1945年創業的イワタコーヒー店，就在小町通入口附近。深色木質座席與窗外中庭，延續了老喫茶的從容，招牌厚鬆餅也成為許多人認識這家店的方式。",
+        "可以用一杯濾布滴煮咖啡配鬆餅，或選擇水果三明治與當季甜點。逛街之前或之後坐下，窗邊的綠意會替熱鬧的小町通留下另一種節奏。"
+      ],
+      "description": "1945年創業的イワタコーヒー店，就在小町通入口附近。深色木質座席與窗外中庭，延續了老喫茶的從容，招牌厚鬆餅也成為許多人認識這家店的方式。\n\n可以用一杯濾布滴煮咖啡配鬆餅，或選擇水果三明治與當季甜點。逛街之前或之後坐下，窗邊的綠意會替熱鬧的小町通留下另一種節奏。",
+      "note": "",
+      "official": "https://iwatacoffee.sakura.ne.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "2Fn2OzljIMg",
+          "title": "cafe vlog｜鎌倉カフェグルメ10選 {2022年保存版}人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=2Fn2OzljIMg",
+          "time": "8:16",
+          "seconds": 496
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "v-7r4zc7lkk",
+          "title": "【鎌倉食べ歩き】OLの休日/グルメ食べ歩きvlogおすすめ８選〜2020秋〜",
+          "url": "https://www.youtube.com/watch?v=v-7r4zc7lkk",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.3194255,
+        "lng": 139.5513869,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4363689197",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/iwata.webp",
+        "alt": "イワタコーヒー店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--milk",
+      "order": 4,
+      "name": "ミルクホール",
+      "address": "神奈川県鎌倉市小町2-3-8",
+      "group": "food",
+      "categoryLabel": "古董喫茶",
+      "caption": "從小巷的木門，走進爵士午後。",
+      "descriptionParagraphs": [
+        "ミルクホール藏在小町通旁的小路，以大正時代的喫茶氛圍為想像。深色木桌椅、古董物件與爵士樂，把熱鬧街區的聲音輕輕隔在門外。",
+        "這裡可喝咖啡，也能用布丁或一份餐點延長停留。適合喜歡老喫茶與室內細節的人，在主街之外尋找一段較安靜的鎌倉。"
+      ],
+      "description": "ミルクホール藏在小町通旁的小路，以大正時代的喫茶氛圍為想像。深色木桌椅、古董物件與爵士樂，把熱鬧街區的聲音輕輕隔在門外。\n\n這裡可喝咖啡，也能用布丁或一份餐點延長停留。適合喜歡老喫茶與室內細節的人，在主街之外尋找一段較安靜的鎌倉。",
+      "note": "",
+      "official": "https://www.at-yokohama.net/spots/816",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "2Fn2OzljIMg",
+          "title": "cafe vlog｜鎌倉カフェグルメ10選 {2022年保存版}人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=2Fn2OzljIMg",
+          "time": "10:53",
+          "seconds": 653
+        }
+      ],
+      "coordinate": {
+        "lat": 35.3211259,
+        "lng": 139.5514635,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6331400109",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/milk.webp",
+        "alt": "ミルクホール的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--bank",
+      "order": 5,
+      "name": "CHOCOLATE BANK",
+      "address": "神奈川県鎌倉市御成町11-8",
+      "group": "food",
+      "categoryLabel": "可可・烘焙",
+      "caption": "走進舊銀行，為散步存一點可可。",
+      "descriptionParagraphs": [
+        "鎌倉站西口的 CHOCOLATE BANK，使用原東日本銀行支店的空間，把可可、甜點與烘焙放進新的街角日常。玻璃門內可看見開放的製作與陳列，舊銀行的名字也延續在品牌裡。",
+        "可以先挑一份巧克力甜點或麵包，再從御成町走回車站東側。可可的濃郁與烘焙香氣，很適合替一段古都散步開場。"
+      ],
+      "description": "鎌倉站西口的 CHOCOLATE BANK，使用原東日本銀行支店的空間，把可可、甜點與烘焙放進新的街角日常。玻璃門內可看見開放的製作與陳列，舊銀行的名字也延續在品牌裡。\n\n可以先挑一份巧克力甜點或麵包，再從御成町走回車站東側。可可的濃郁與烘焙香氣，很適合替一段古都散步開場。",
+      "note": "星期一店休，遇國定假日則翌日休。",
+      "official": "https://chocolatebank.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "2Fn2OzljIMg",
+          "title": "cafe vlog｜鎌倉カフェグルメ10選 {2022年保存版}人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=2Fn2OzljIMg",
+          "time": "5:34",
+          "seconds": 334
+        }
+      ],
+      "coordinate": {
+        "lat": 35.3184606,
+        "lng": 139.5497882,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6618874125",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/bank.webp",
+        "alt": "CHOCOLATE BANK的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--daily",
+      "order": 6,
+      "name": "DAILY by LONG TRACK FOODS",
+      "address": "神奈川県鎌倉市小町1-13-10 鎌倉市農協連即売所内",
+      "group": "shops",
+      "categoryLabel": "熟食・生活選物",
+      "caption": "在市場一角，找到可以帶回家的日常。",
+      "descriptionParagraphs": [
+        "DAILY by LONG TRACK FOODS 位於若宮大路旁的鎌倉市農協連即賣所裡，是一間把熟食、烘焙與生活選物放在一起的小店。自製醃菜、餅乾、磅蛋糕與司康，讓市場旁多了一份慢慢挑的樂趣。",
+        "也能看看原創衣物、袋子等雜貨，為家中餐桌帶回一點鎌倉日常。位置在車站東口南側，適合在往小町方向出發前繞一小段。"
+      ],
+      "description": "DAILY by LONG TRACK FOODS 位於若宮大路旁的鎌倉市農協連即賣所裡，是一間把熟食、烘焙與生活選物放在一起的小店。自製醃菜、餅乾、磅蛋糕與司康，讓市場旁多了一份慢慢挑的樂趣。\n\n也能看看原創衣物、袋子等雜貨，為家中餐桌帶回一點鎌倉日常。位置在車站東口南側，適合在往小町方向出發前繞一小段。",
+      "note": "星期一店休，國定假日營業。",
+      "official": "https://longtrackfoods.com/shop/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "2Fn2OzljIMg",
+          "title": "cafe vlog｜鎌倉カフェグルメ10選 {2022年保存版}人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=2Fn2OzljIMg",
+          "time": "7:09",
+          "seconds": 429
+        }
+      ],
+      "coordinate": {
+        "lat": 35.317112,
+        "lng": 139.551041,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%B0%8F%E7%94%BA1-13-10",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌的代表位置，非店門口實測。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/daily.webp",
+        "alt": "DAILY by LONG TRACK FOODS的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--toshimaya",
+      "order": 7,
+      "name": "豊島屋 本店",
+      "address": "神奈川県鎌倉市小町2-11-19",
+      "group": "shops",
+      "categoryLabel": "和洋菓子",
+      "caption": "把鎌倉的鳩，帶進旅行袋。",
+      "descriptionParagraphs": [
+        "豊島屋本店面向若宮大路，明亮的白色店面與鳩サブレー，成為許多人對鎌倉伴手禮的記憶。從小町通轉出一個街口，就能把熱鬧逛街接到這間熟悉的老店。",
+        "適合挑選帶回家的餅乾與菓子，也能看看本店陳列，感受地方品牌與城市相連的方式。可以把採買安排在散步後半段，讓手上的紙袋陪你回車站。"
+      ],
+      "description": "豊島屋本店面向若宮大路，明亮的白色店面與鳩サブレー，成為許多人對鎌倉伴手禮的記憶。從小町通轉出一個街口，就能把熱鬧逛街接到這間熟悉的老店。\n\n適合挑選帶回家的餅乾與菓子，也能看看本店陳列，感受地方品牌與城市相連的方式。可以把採買安排在散步後半段，讓手上的紙袋陪你回車站。",
+      "note": "",
+      "official": "https://www.hato.co.jp/shop",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.320428275,
+        "lng": 139.55256805,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/53733094",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/toshimaya.webp",
+        "alt": "豊島屋 本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--coquelicot",
+      "order": 8,
+      "name": "コクリコクレープ店 小町通り店",
+      "address": "神奈川県鎌倉市雪ノ下1-6-4",
+      "group": "food",
+      "categoryLabel": "薄餅",
+      "caption": "在綠色小店前，等一張剛好的薄餅。",
+      "descriptionParagraphs": [
+        "コクリコ自1972年起在鎌倉製作可麗餅，綠色小店與簡單的口味，成為小町通散步的經典停留。薄薄的餅皮現場攤開，香氣便在窄小店內散出。",
+        "可以從檸檬砂糖等簡單搭配開始，把注意力放回餅皮與酸甜的平衡。挑好一份，再接著往附近的茶店、小巷或鶴岡八幡宮走。"
+      ],
+      "description": "コクリコ自1972年起在鎌倉製作可麗餅，綠色小店與簡單的口味，成為小町通散步的經典停留。薄薄的餅皮現場攤開，香氣便在窄小店內散出。\n\n可以從檸檬砂糖等簡單搭配開始，把注意力放回餅皮與酸甜的平衡。挑好一份，再接著往附近的茶店、小巷或鶴岡八幡宮走。",
+      "note": "",
+      "official": "https://enokama.jp/feature/9450/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "v-7r4zc7lkk",
+          "title": "【鎌倉食べ歩き】OLの休日/グルメ食べ歩きvlogおすすめ８選〜2020秋〜",
+          "url": "https://www.youtube.com/watch?v=v-7r4zc7lkk",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.3225733,
+        "lng": 139.5529284,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6698252753",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/coquelicot.webp",
+        "alt": "コクリコクレープ店 小町通り店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--tomoya",
+      "order": 9,
+      "name": "ともや 鎌倉小町店",
+      "address": "神奈川県鎌倉市雪ノ下1-6-8",
+      "group": "food",
+      "categoryLabel": "大佛人形燒",
+      "caption": "把大佛的笑容，留在一份小點裡。",
+      "descriptionParagraphs": [
+        "ともや的小點，以圓潤安靜的大佛表情最有辨識度。這款「大仏さま焼き」把鎌倉的意象變成可以帶走的甜味，店內也販售糰子與其他和風點心。",
+        "可從紅豆、卡士達或其他內餡挑選一份，搭配小町通的逛街節奏。位置鄰近可麗餅與抹茶店，適合選自己最喜歡的甜味停一站。"
+      ],
+      "description": "ともや的小點，以圓潤安靜的大佛表情最有辨識度。這款「大仏さま焼き」把鎌倉的意象變成可以帶走的甜味，店內也販售糰子與其他和風點心。\n\n可從紅豆、卡士達或其他內餡挑選一份，搭配小町通的逛街節奏。位置鄰近可麗餅與抹茶店，適合選自己最喜歡的甜味停一站。",
+      "note": "",
+      "official": "https://www.at-yokohama.net/spots/1710",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "v-7r4zc7lkk",
+          "title": "【鎌倉食べ歩き】OLの休日/グルメ食べ歩きvlogおすすめ８選〜2020秋〜",
+          "url": "https://www.youtube.com/watch?v=v-7r4zc7lkk",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.3227629,
+        "lng": 139.55303,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6698252759",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/tomoya.webp",
+        "alt": "ともや 鎌倉小町店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--chacha",
+      "order": 10,
+      "name": "総本家 鎌倉茶々",
+      "address": "神奈川県鎌倉市雪ノ下1-6-8",
+      "group": "food",
+      "categoryLabel": "抹茶甜點",
+      "caption": "用抹茶的深淺，選一份自己的濃度。",
+      "descriptionParagraphs": [
+        "鎌倉茶々以茶的風味為核心，將抹茶做成冰淇淋、霜淇淋與其他甜點。招牌抹茶義式冰淇淋可依濃度選擇，讓喜歡清爽或濃厚的人都能找到方向。",
+        "雪之下的總本家就在小町通北段，適合接在參拜前後。也可看看店內的茶與南部鐵器，讓短暫的甜點停留，延伸成一段對茶的認識。"
+      ],
+      "description": "鎌倉茶々以茶的風味為核心，將抹茶做成冰淇淋、霜淇淋與其他甜點。招牌抹茶義式冰淇淋可依濃度選擇，讓喜歡清爽或濃厚的人都能找到方向。\n\n雪之下的總本家就在小町通北段，適合接在參拜前後。也可看看店內的茶與南部鐵器，讓短暫的甜點停留，延伸成一段對茶的認識。",
+      "note": "",
+      "official": "https://kamakura-chacha.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "v-7r4zc7lkk",
+          "title": "【鎌倉食べ歩き】OLの休日/グルメ食べ歩きvlogおすすめ８選〜2020秋〜",
+          "url": "https://www.youtube.com/watch?v=v-7r4zc7lkk",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.3228236,
+        "lng": 139.5530568,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6698252760",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/chacha.webp",
+        "alt": "総本家 鎌倉茶々的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--ruru",
+      "order": 11,
+      "name": "RURU KAMAKURA",
+      "address": "神奈川県鎌倉市雪ノ下1-6-28 ランプ雪ノ下2A",
+      "group": "food",
+      "categoryLabel": "水景茶咖啡",
+      "caption": "讓流動的水，替午後降一點速度。",
+      "descriptionParagraphs": [
+        "RURU KAMAKURA 位在小町通旁的二樓，以「濡山水」水桌作為空間主角。水流經仿砂紋的桌面與小石景，把日本庭園的意象帶進一段坐下喝茶的時間。",
+        "可用抹茶飲品搭配羊羹意象的濃郁 terrine，從味覺與水景一起感受店家的設計。走到小町通中段時，這裡提供了一種與老喫茶不同的休息方式。"
+      ],
+      "description": "RURU KAMAKURA 位在小町通旁的二樓，以「濡山水」水桌作為空間主角。水流經仿砂紋的桌面與小石景，把日本庭園的意象帶進一段坐下喝茶的時間。\n\n可用抹茶飲品搭配羊羹意象的濃郁 terrine，從味覺與水景一起感受店家的設計。走到小町通中段時，這裡提供了一種與老喫茶不同的休息方式。",
+      "note": "",
+      "official": "https://www.instagram.com/ruru_kamakura/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "iHlWzlTrIOs",
+          "title": "【鎌倉】絶対に外さない鎌倉カフェ・グルメ８選【2024年保存版】古民家／非日常／江ノ電〜Kamakura food tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=iHlWzlTrIOs",
+          "time": "09:55",
+          "seconds": 595
+        }
+      ],
+      "coordinate": {
+        "lat": 35.322147,
+        "lng": 139.553009,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E9%9B%AA%E3%83%8E%E4%B8%8B1-6-28",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌的代表位置，非店門口實測。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/ruru.webp",
+        "alt": "RURU KAMAKURA的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--shiratama",
+      "order": 12,
+      "name": "しらたまや",
+      "address": "神奈川県鎌倉市小町2-9-17 柳沢ビルA号室",
+      "group": "food",
+      "categoryLabel": "白玉甘味",
+      "caption": "轉進裏小町，吃一口剛煮好的柔軟。",
+      "descriptionParagraphs": [
+        "しらたまや把現煮白玉作為甘味的中心，搭配自製紅豆餡、黑糖蜜與寒天。店藏在與小町通平行的小路上，熱鬧的主街轉一個彎，便換成比較安靜的氣氛。",
+        "可選白玉餡蜜或創作和風甜點，享受糯米糰柔軟而溫潤的口感。很適合想為散步留一段坐下時間、又喜歡日式甘味的人。"
+      ],
+      "description": "しらたまや把現煮白玉作為甘味的中心，搭配自製紅豆餡、黑糖蜜與寒天。店藏在與小町通平行的小路上，熱鬧的主街轉一個彎，便換成比較安靜的氣氛。\n\n可選白玉餡蜜或創作和風甜點，享受糯米糰柔軟而溫潤的口感。很適合想為散步留一段坐下時間、又喜歡日式甘味的人。",
+      "note": "不接受訂位。",
+      "official": "https://shiratamaya.wixsite.com/wakou/home",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "iHlWzlTrIOs",
+          "title": "【鎌倉】絶対に外さない鎌倉カフェ・グルメ８選【2024年保存版】古民家／非日常／江ノ電〜Kamakura food tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=iHlWzlTrIOs",
+          "time": "08:38",
+          "seconds": 518
+        }
+      ],
+      "coordinate": {
+        "lat": 35.320415,
+        "lng": 139.552353,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%B0%8F%E7%94%BA2-9-17",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌的代表位置，非店門口實測。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/shiratama.webp",
+        "alt": "しらたまや的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--yuria",
+      "order": 13,
+      "name": "鎌倉 ゆりあぺむぺる",
+      "address": "神奈川県鎌倉市御成町15-7",
+      "group": "food",
+      "categoryLabel": "洋館喫茶",
+      "caption": "讓彩色蘇打，映出一小段洋館午後。",
+      "descriptionParagraphs": [
+        "ゆりあぺむぺる鎌倉店以文人別墅為想像，蒐集西洋古董與新藝術風格燈具，營造明亮又古典的喫茶空間。色彩繽紛的奶油蘇打與手作布丁，是這裡很有辨識度的甜味。",
+        "店位在車站西口一側，適合把御成町也放進散步。從小町通回到車站後，再坐下喝一杯，讓鎌倉的午後多出一點洋館風景。"
+      ],
+      "description": "ゆりあぺむぺる鎌倉店以文人別墅為想像，蒐集西洋古董與新藝術風格燈具，營造明亮又古典的喫茶空間。色彩繽紛的奶油蘇打與手作布丁，是這裡很有辨識度的甜味。\n\n店位在車站西口一側，適合把御成町也放進散步。從小町通回到車站後，再坐下喝一杯，讓鎌倉的午後多出一點洋館風景。",
+      "note": "",
+      "official": "https://yuriapemuperu.com/restaurant/k-yuriapemuperu/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "iHlWzlTrIOs",
+          "title": "【鎌倉】絶対に外さない鎌倉カフェ・グルメ８選【2024年保存版】古民家／非日常／江ノ電〜Kamakura food tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=iHlWzlTrIOs",
+          "time": "05:15",
+          "seconds": 315
+        }
+      ],
+      "coordinate": {
+        "lat": 35.31958,
+        "lng": 139.547913,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%BE%A1%E6%88%90%E7%94%BA15-7",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌的代表位置，非店門口實測。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/yuria.webp",
+        "alt": "鎌倉 ゆりあぺむぺる的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--montblanc",
+      "order": 14,
+      "name": "Mont Blanc Stand",
+      "address": "神奈川県鎌倉市大町1-1-12 WALK大町 II-A",
+      "group": "food",
+      "categoryLabel": "現做蒙布朗",
+      "caption": "沿大町多走一小段，等一份現擠栗香。",
+      "descriptionParagraphs": [
+        "Mont Blanc Stand 專注於現點現做的蒙布朗，以栗子、鮮奶油與蛋白霜堆疊細緻口感。小巧店面以土與木材為基調，牆面的線條也呼應蒙布朗的細長栗泥。",
+        "從車站東口往大町方向走幾分鐘，就能把這間甜點小店加入行程。適合喜歡栗子與烘焙香氣的人，為散步選一份簡單卻講究的甜點。"
+      ],
+      "description": "Mont Blanc Stand 專注於現點現做的蒙布朗，以栗子、鮮奶油與蛋白霜堆疊細緻口感。小巧店面以土與木材為基調，牆面的線條也呼應蒙布朗的細長栗泥。\n\n從車站東口往大町方向走幾分鐘，就能把這間甜點小店加入行程。適合喜歡栗子與烘焙香氣的人，為散步選一份簡單卻講究的甜點。",
+      "note": "",
+      "official": "https://www.instagram.com/mont.blanc.stand/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "v-7r4zc7lkk",
+          "title": "【鎌倉食べ歩き】OLの休日/グルメ食べ歩きvlogおすすめ８選〜2020秋〜",
+          "url": "https://www.youtube.com/watch?v=v-7r4zc7lkk",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.315704,
+        "lng": 139.551193,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%A4%A7%E7%94%BA1-1-12",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌的代表位置，非店門口實測。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/montblanc.webp",
+        "alt": "Mont Blanc Stand的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--kaburaki",
+      "order": 15,
+      "name": "鎌倉市鏑木清方記念美術館",
+      "address": "神奈川県鎌倉市雪ノ下1-5-25",
+      "group": "sights",
+      "categoryLabel": "日本畫美術館",
+      "caption": "離開主街一點點，走進畫家的安靜。",
+      "descriptionParagraphs": [
+        "鏑木清方記念美術館建在畫家晚年鎌倉舊居的所在地，和風建築與小庭院安靜藏在雪之下住宅街。館藏以日本畫與相關資料，呈現他對市井生活與文學的細膩目光。",
+        "從小町通轉入小巷，步行即可抵達。適合在甜點與採買之間安排一場小型展覽，換一種角度觀看鎌倉與日常生活。"
+      ],
+      "description": "鏑木清方記念美術館建在畫家晚年鎌倉舊居的所在地，和風建築與小庭院安靜藏在雪之下住宅街。館藏以日本畫與相關資料，呈現他對市井生活與文學的細膩目光。\n\n從小町通轉入小巷，步行即可抵達。適合在甜點與採買之間安排一場小型展覽，換一種角度觀看鎌倉與日常生活。",
+      "note": "星期一休館，遇國定假日則翌平日休；年末年始及換展期間另休館。",
+      "official": "https://www.kamakura-arts.or.jp/kaburaki/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.322966194444454,
+        "lng": 139.55232908333335,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/440428908",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kamakura/kaburaki.webp",
+        "alt": "鎌倉市鏑木清方記念美術館的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "kamakura-walk",
+      "name": "可可・小町・日本畫・參拜",
+      "ids": [
+        "kamakura--bank",
+        "kamakura--komachi",
+        "kamakura--kaburaki",
+        "kamakura--hachimangu"
+      ],
+      "walking": {
+        "distanceMeters": 1362.5,
+        "durationSeconds": 1092.2,
+        "checkedAt": "2026-10-24"
+      },
+      "visitMinutes": [
+        120,
+        190
+      ],
+      "art": "/art/walks/kamakura/komachi.webp"
+    }
+  ],
+  "defaultSelection": "kamakura-walk"
+}

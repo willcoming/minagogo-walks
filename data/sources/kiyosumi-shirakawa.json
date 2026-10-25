@@ -1,0 +1,580 @@
+{
+  "walkId": "kiyosumi-shirakawa",
+  "checkedAt": "2026-10-24",
+  "method": "官方與實訪內容查證後以繁體中文原創撰寫，座標採 OpenStreetMap 與國土地理院開放資料，精度各別註明，步行距離以 OSRM foot 路網估算。",
+  "places": [
+    {
+      "id": "kiyosumi-shirakawa--garden",
+      "contentSources": [
+        "https://www.tokyo-park.or.jp/park/kiyosumi/index.html",
+        "https://www.tokyo-park.or.jp/park/kiyosumi/assets/files/kiyosumi_bf.pdf?date=20260519180910"
+      ],
+      "coordinate": {
+        "lat": 35.68091325555556,
+        "lng": 139.79719496666667,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/519345220",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "採用庭園售票服務中心建築各不重複頂點的算術中心作入園側代表點，非水池中心或大正記念館入口。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.tokyo-park.or.jp/park/kiyosumi/index.html",
+          "imageUrl": "https://www.tokyo-park.or.jp/park/kiyosumi/assets/images/P033_2.webp"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--edo-museum",
+      "contentSources": [
+        "https://www.kcf.or.jp/fukagawa/outline/",
+        "https://www.kcf.or.jp/fukagawa/josetsu/",
+        "https://www.kcf.or.jp/fukagawa/outline/barrierfree/"
+      ],
+      "coordinate": {
+        "lat": 35.6810519,
+        "lng": 139.8005482,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1420787694",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "採用 tourism=museum 的館舍節點，非同名的共享單車站。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.kcf.or.jp/fukagawa/josetsu/",
+          "imageUrl": "https://www.kcf.or.jp/images/fukagawa/josetsu.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--rikashitsu",
+      "contentSources": [
+        "https://www.rikashitsu.jp/home.html",
+        "https://toden-arakawasen.tokyo-np.co.jp/spot/spot-318/",
+        "https://althaus.jp/customer/fukadaso-cafe/"
+      ],
+      "coordinate": {
+        "lat": 35.6786695,
+        "lng": 139.8001519,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/14229581601",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 未有 102 室專用節點；採同棟 fukadaso 101 咖啡館節點作整棟代表點。兩店官方門牌均為平野 1-9-7；不宣稱為選物店實測入口。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.rikashitsu.jp/home.html",
+          "imageUrl": "https://www.rikashitsu.jp/img/top/yoko01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--blue-bottle",
+      "contentSources": [
+        "https://store.bluebottlecoffee.jp/pages/kiyosumi"
+      ],
+      "coordinate": {
+        "lat": 35.6777434,
+        "lng": 139.80060494,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/606993803",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "店家建築不重複頂點算術中心，OSM 地址為平野一丁目 4-8，與官方一致。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://store.bluebottlecoffee.jp/pages/kiyosumi",
+          "imageUrl": "https://i.shgcdn.com/e8566331-0265-49a4-8d79-af6f412a8062/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--fukadaso",
+      "contentSources": [
+        "https://fukadaso.com/cafe/"
+      ],
+      "coordinate": {
+        "lat": 35.6786695,
+        "lng": 139.8001519,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/14229581601",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM Fukadaso Cafe 專用節點，官方地址為平野 1-9-7 的 101 室。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://fukadaso.com/cafe/",
+          "imageUrl": "https://fukadaso.com/wp-content/uploads/img_cafe_1200x630.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--teapond",
+      "contentSources": [
+        "https://teapond.jp/pages/kiyosumishirakawa",
+        "https://teapond.jp/pages/company"
+      ],
+      "coordinate": {
+        "lat": 35.6807491,
+        "lng": 139.7992966,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/12491767201",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 茶葉店節點，與官方白河 1-1-11 核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://teapond.jp/pages/kiyosumishirakawa",
+          "imageUrl": "https://metafields-manager-by-hulkapps.s3-accelerate.amazonaws.com/uploads/unit-teapond.myshopify.com/1706172416-_____TEAPOND_____03___.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--iki",
+      "contentSources": [
+        "https://iki-espresso.com/pages/iki-espresso",
+        "https://iki-espresso.com/",
+        "https://harumari.tokyo/spot/254/"
+      ],
+      "coordinate": {
+        "lat": 35.6844146,
+        "lng": 139.7966401,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4317978289",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM iki Espresso 節點，與常盤 2-2-12 本店地址一致；非西側 iki Roastery。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://iki-espresso.com/pages/iki-espresso",
+          "imageUrl": "https://iki-espresso.com/cdn/shop/files/iki_Espresso_2.jpg?v=1750405368&width=1600"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--arise",
+      "contentSources": [
+        "https://goodcoffee.me/coffeeshop/arise-coffee-roasters/",
+        "https://tabelog.com/en/tokyo/A1313/A131303/13160545/"
+      ],
+      "coordinate": {
+        "lat": 35.6783632,
+        "lng": 139.8009787,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/13240668378",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM ARiSE 節點，與官方連結店家資料平野 1-13-8 核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://goodcoffee.me/coffeeshop/arise-coffee-roasters/",
+          "imageUrl": "https://goodcoffee.me/wp-content/uploads/IMG-2157-11.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--mot",
+      "contentSources": [
+        "https://www.mot-art-museum.jp/guide/",
+        "https://www.gotokyo.org/jp/spot/141/index.html",
+        "https://www.fujitec.co.jp/project/5183"
+      ],
+      "coordinate": {
+        "lat": 35.6797754,
+        "lng": 139.8087878,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/relation/12077221",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "Nominatim 回傳美術館建築多面體代表點，非公車站或路口。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.fujitec.co.jp/project/5183",
+          "imageUrl": "https://www.fujitec.co.jp/uploads/2019/08/genbi_6-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--kiba",
+      "contentSources": [
+        "https://www.tokyo-park.or.jp/park/kiba/index.html"
+      ],
+      "coordinate": {
+        "lat": 35.678458880952384,
+        "lng": 139.8083481666667,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/845051277",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 北園區公園多邊形代表點，非整座公園唯一入口或白色大橋位置。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.tokyo-park.or.jp/park/kiba/index.html",
+          "imageUrl": "https://www.tokyo-park.or.jp/park/kiba/assets/images/main02.webp"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--library",
+      "contentSources": [
+        "https://www.koto-lib.tokyo.jp/viewer/genre.html?id=5",
+        "https://www.city.koto.lg.jp/011501/kuse/koho/kuho/r08/text/102105.html"
+      ],
+      "coordinate": {
+        "lat": 35.679154,
+        "lng": 139.796721,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1420787707",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 圖書館節點，官方清澄 3-3-39 核對一致。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.koto-lib.tokyo.jp/viewer/genre.html?id=5",
+          "imageUrl": "https://www.koto-lib.tokyo.jp/manage/top/upload/00000_20240809_0001.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--reiganji",
+      "contentSources": [
+        "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00070",
+        "https://www.city.koto.lg.jp/103010/bunkasports/kanko/spot/5444.html"
+      ],
+      "coordinate": {
+        "lat": 35.68130746666667,
+        "lng": 139.799983025,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/407976671",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 寺院境內多邊形不重複頂點中心，非墓所或單一參拜入口。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00070",
+          "imageUrl": "https://koto-kanko.jp/img_data/S00070_photo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--onnellinen",
+      "contentSources": [
+        "https://onnellinen.store/",
+        "https://onnellinen.store/pages/about"
+      ],
+      "coordinate": {
+        "lat": 35.6809191,
+        "lng": 139.7990692,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6163717917",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM gift 店節點，並以國土地理院白河 1-1-2 門牌回應交叉核對，相差約 1.5 公尺。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://onnellinen.store/",
+          "imageUrl": "https://onnellinen.store/cdn/shop/files/IMG_5412.jpg?v=1766793825&width=1200"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--kamasho",
+      "contentSources": [
+        "https://koto-kanko.jp/fukagawameshi/introduction/detail.php?shop_id=FS0008"
+      ],
+      "coordinate": {
+        "lat": 35.680981,
+        "lng": 139.801468,
+        "provider": "gsi",
+        "label": "国土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E7%99%BD%E6%B2%B32-1-13",
+        "license": "公共データ利用規約 第1.0版（PDL1.0）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地名搜尋回傳完整門牌「東京都江東区白河二丁目１番１３号」的代表座標，非實測店門入口。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://koto-kanko.jp/fukagawameshi/introduction/detail.php?shop_id=FS0008",
+          "imageUrl": "https://koto-kanko.jp/img_data/main-f_FS0008.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--b2",
+      "contentSources": [
+        "https://bsquared.jp/pages/location",
+        "https://bsquared.jp/",
+        "https://bsquared.jp/pages/bakery"
+      ],
+      "coordinate": {
+        "lat": 35.677444,
+        "lng": 139.797195,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%B7%B1%E5%B7%9D1-9-10",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都江東区深川一丁目９番１０号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://bsquared.jp/pages/location",
+          "imageUrl": "https://bsquared.jp/cdn/shop/t/4/assets/location_kiyosumi-1.jpg?v=27964719571250552771784909522"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--sandwich",
+      "contentSources": [
+        "https://www.mot-art-museum.jp/guide/shop/",
+        "https://www.mot-art-museum.jp/guide/"
+      ],
+      "coordinate": {
+        "lat": 35.6796608,
+        "lng": 139.8084677,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/11879354170",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.mot-art-museum.jp/guide/shop/",
+          "imageUrl": "https://www.mot-art-museum.jp/_assets/images/guide-shop-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kiyosumi-shirakawa--bee",
+      "contentSources": [
+        "https://kotomise.jp/shops/%E5%AE%8C%E7%86%9F%E5%B1%8B-bee-friendship/",
+        "https://f-kurashi.tokyo/bee-friendship/",
+        "https://koto-okaimono-premium.jp/list/detail/c19fd18d704c487f014aae5a14761c33",
+        "https://www.kanjyukuya.com/kiyosumi/"
+      ],
+      "coordinate": {
+        "lat": 35.681057,
+        "lng": 139.80159,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E7%99%BD%E6%B2%B32-2-1",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都江東区白河二丁目２番１号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kotomise.jp/shops/%E5%AE%8C%E7%86%9F%E5%B1%8B-bee-friendship/",
+          "imageUrl": "https://kotomise.jp/wp/wp-content/uploads/2018/06/IMG_9317.jpg"
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "garden": {
+      "pageUrl": "https://www.tokyo-park.or.jp/park/kiyosumi/index.html",
+      "imageUrl": "https://www.tokyo-park.or.jp/park/kiyosumi/assets/images/P033_2.webp"
+    },
+    "edo-museum": {
+      "pageUrl": "https://www.kcf.or.jp/fukagawa/josetsu/",
+      "imageUrl": "https://www.kcf.or.jp/images/fukagawa/josetsu.jpg"
+    },
+    "rikashitsu": {
+      "pageUrl": "https://www.rikashitsu.jp/home.html",
+      "imageUrl": "https://www.rikashitsu.jp/img/top/yoko01.jpg"
+    },
+    "blue-bottle": {
+      "pageUrl": "https://store.bluebottlecoffee.jp/pages/kiyosumi",
+      "imageUrl": "https://i.shgcdn.com/e8566331-0265-49a4-8d79-af6f412a8062/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+    },
+    "fukadaso": {
+      "pageUrl": "https://fukadaso.com/cafe/",
+      "imageUrl": "https://fukadaso.com/wp-content/uploads/img_cafe_1200x630.jpg"
+    },
+    "teapond": {
+      "pageUrl": "https://teapond.jp/pages/kiyosumishirakawa",
+      "imageUrl": "https://metafields-manager-by-hulkapps.s3-accelerate.amazonaws.com/uploads/unit-teapond.myshopify.com/1706172416-_____TEAPOND_____03___.jpeg"
+    },
+    "iki": {
+      "pageUrl": "https://iki-espresso.com/pages/iki-espresso",
+      "imageUrl": "https://iki-espresso.com/cdn/shop/files/iki_Espresso_2.jpg?v=1750405368&width=1600"
+    },
+    "arise": {
+      "pageUrl": "https://goodcoffee.me/coffeeshop/arise-coffee-roasters/",
+      "imageUrl": "https://goodcoffee.me/wp-content/uploads/IMG-2157-11.jpg"
+    },
+    "mot": {
+      "pageUrl": "https://www.fujitec.co.jp/project/5183",
+      "imageUrl": "https://www.fujitec.co.jp/uploads/2019/08/genbi_6-1.jpg"
+    },
+    "kiba": {
+      "pageUrl": "https://www.tokyo-park.or.jp/park/kiba/index.html",
+      "imageUrl": "https://www.tokyo-park.or.jp/park/kiba/assets/images/main02.webp"
+    },
+    "library": {
+      "pageUrl": "https://www.koto-lib.tokyo.jp/viewer/genre.html?id=5",
+      "imageUrl": "https://www.koto-lib.tokyo.jp/manage/top/upload/00000_20240809_0001.jpg"
+    },
+    "reiganji": {
+      "pageUrl": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00070",
+      "imageUrl": "https://koto-kanko.jp/img_data/S00070_photo.jpg"
+    },
+    "onnellinen": {
+      "pageUrl": "https://onnellinen.store/",
+      "imageUrl": "https://onnellinen.store/cdn/shop/files/IMG_5412.jpg?v=1766793825&width=1200"
+    },
+    "kamasho": {
+      "pageUrl": "https://koto-kanko.jp/fukagawameshi/introduction/detail.php?shop_id=FS0008",
+      "imageUrl": "https://koto-kanko.jp/img_data/main-f_FS0008.jpg"
+    },
+    "b2": {
+      "pageUrl": "https://bsquared.jp/pages/location",
+      "imageUrl": "https://bsquared.jp/cdn/shop/t/4/assets/location_kiyosumi-1.jpg?v=27964719571250552771784909522"
+    },
+    "sandwich": {
+      "pageUrl": "https://www.mot-art-museum.jp/guide/shop/",
+      "imageUrl": "https://www.mot-art-museum.jp/_assets/images/guide-shop-2.jpg"
+    },
+    "bee": {
+      "pageUrl": "https://kotomise.jp/shops/%E5%AE%8C%E7%86%9F%E5%B1%8B-bee-friendship/",
+      "imageUrl": "https://kotomise.jp/wp/wp-content/uploads/2018/06/IMG_9317.jpg"
+    }
+  },
+  "walking": {
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/139.79719496666667,35.68091325555556;139.8005482,35.6810519;139.8001519,35.6786695;139.80060494,35.6777434?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "gardenOfficeCoordinate": {
+      "lat": 35.68091325555556,
+      "lon": 139.79719496666667
+    },
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 36.65,
+              "summary": "",
+              "duration": 336.2,
+              "distance": 411.1
+            },
+            {
+              "steps": [],
+              "weight": 32.73,
+              "summary": "",
+              "duration": 269.6,
+              "distance": 337
+            },
+            {
+              "steps": [],
+              "weight": 12.8,
+              "summary": "",
+              "duration": 123.1,
+              "distance": 153.5
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 82.18,
+          "duration": 728.9,
+          "distance": 901.6
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "NI7xhTaO8YVdAAAAAAAAAAAAAABSAQAAyp3QQAAAAAAAAAAAtIa9QUMAAAAAAAAAAAAAAPQAAABxAgAA3iJVCK5yIALLIlUIkXIgAgAA3xAAAAAA",
+          "location": [
+            139.797214,
+            35.680942
+          ],
+          "name": "",
+          "distance": 3.648557095
+        },
+        {
+          "hint": "zf_9idD__Ym-AQAA2gAAAAAAAAATAAAAgbNWQjp70EEAAAAAyYsRQK0BAADRAAAAAAAAABIAAABxAgAABTBVCGByIALkL1UIHHMgAgAAHwUAAAAA",
+          "location": [
+            139.800581,
+            35.680864
+          ],
+          "name": "",
+          "distance": 21.07202294
+        },
+        {
+          "hint": "DgD-iRML_omjAAAAhAAAAFgCAAAAAAAAF0WdQevFfEFQF5BCAAAAAJwAAACAAAAAQAIAAAAAAABxAgAAey5VCPNpIAJYLlUIzmkgAgQA7wcAAAAA",
+          "location": [
+            139.800187,
+            35.678707
+          ],
+          "name": "",
+          "distance": 5.185880531
+        },
+        {
+          "hint": "qdiHhwcA_ol0AAAAhAAAABwAAAAmAAAA_55fQSSpfEHvvFZAh_eSQG8AAAB_AAAAGwAAACUAAABxAgAAkzBVCARmIAIdMFUIL2YgAgIAzwwAAAAA",
+          "location": [
+            139.800723,
+            35.6777
+          ],
+          "name": "",
+          "distance": 11.69976044
+        }
+      ]
+    }
+  },
+  "visitEstimate": {
+    "minutes": [
+      120,
+      195
+    ],
+    "method": "編輯估算：庭園 35–60 分、資料館 40–60 分、選物 15–25 分、咖啡 30–50 分；不含候位與交通。"
+  },
+  "geocoding": {
+    "kamasho": {
+      "query": "東京都江東区白河2-1-13",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E7%99%BD%E6%B2%B32-1-13",
+      "response": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.801468,
+              35.680981
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区白河二丁目１番１３号"
+          }
+        }
+      ]
+    }
+  }
+}

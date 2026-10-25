@@ -1,0 +1,438 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "kyoto-fushimi--gokonomiya",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "contentSources": [
+        "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+      ],
+      "coordinate": {
+        "lat": 34.934155,
+        "lng": 135.767197,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%BE%A1%E9%A6%99%E5%AE%AE%E9%96%80%E5%89%8D%E7%94%BA174",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+        "imageUrl": "https://www.city.kyoto.lg.jp/fushimi/cmsfiles/contents/0000336/336748/gokonomiya.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-fushimi/gokonomiya.jpg"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--oishi",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "contentSources": [
+        "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+      ],
+      "coordinate": {
+        "lat": 34.930317,
+        "lng": 135.764175,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E4%B8%A1%E6%9B%BF%E7%94%BA2%E4%B8%81%E7%9B%AE350-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+        "imageUrl": "https://www.city.kyoto.lg.jp/fushimi/cmsfiles/contents/0000336/336748/tengudo.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-fushimi/oishi.jpg"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--sasakipan",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "contentSources": [
+        "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+      ],
+      "coordinate": {
+        "lat": 34.932301,
+        "lng": 135.760132,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E7%B4%8D%E5%B1%8B%E7%94%BA117",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+        "imageUrl": "https://www.city.kyoto.lg.jp/fushimi/cmsfiles/contents/0000336/336748/sasakipan.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-fushimi/sasakipan.jpg"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--ryoma",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "contentSources": [
+        "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+      ],
+      "coordinate": {
+        "lat": 34.930809,
+        "lng": 135.75946,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E8%BB%8A%E7%94%BA",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+        "imageUrl": "https://www.city.kyoto.lg.jp/fushimi/cmsfiles/contents/0000336/336748/ryoma.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-fushimi/ryoma.jpg"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--kappa",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "contentSources": [
+        "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+      ],
+      "coordinate": {
+        "lat": 34.93095,
+        "lng": 135.760437,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%A1%A9%E5%B1%8B%E7%94%BA228",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+        "imageUrl": "https://www.city.kyoto.lg.jp/fushimi/cmsfiles/contents/0000336/336748/kappa.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-fushimi/kappa.jpg"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--teradaya",
+      "official": "https://www.kyoto-kankou.or.jp/info_search/3710",
+      "contentSources": [
+        "https://www.kyoto-kankou.or.jp/info_search/3710"
+      ],
+      "coordinate": {
+        "lat": 34.930389,
+        "lng": 135.75943,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%8D%97%E6%B5%9C%E7%94%BA263",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kyoto-kankou.or.jp/info_search/3710",
+        "imageUrl": "https://www.kyoto-kankou.or.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--910d4663dbc0a2192ccecc61e27d2883caef780f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzEwMjQsbnVsbF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--b319ad3b8cf077b6bb3e72ea85c7a0f708334d72/5775.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-fushimi/teradaya.jpg"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--kyobashi",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "contentSources": [
+        "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+      ],
+      "coordinate": {
+        "lat": 34.930641,
+        "lng": 135.758682,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E4%BA%AC%E6%A9%8B%E7%94%BA",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+        "imageUrl": "https://www.city.kyoto.lg.jp/fushimi/cmsfiles/contents/0000336/336748/kyobashi.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-fushimi/kyobashi.jpg"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--yumehyakushu",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "contentSources": [
+        "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+      ],
+      "coordinate": {
+        "lat": 34.930042,
+        "lng": 135.760834,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%8D%97%E6%B5%9C%E7%94%BA247",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+        "imageUrl": "https://www.city.kyoto.lg.jp/fushimi/cmsfiles/contents/0000336/336748/yumehyakusyu.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-fushimi/yumehyakushu.jpg"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--gekkeikan",
+      "official": "https://shugakuryoko.kyoto.travel/spot/490/",
+      "contentSources": [
+        "https://shugakuryoko.kyoto.travel/spot/490/"
+      ],
+      "coordinate": {
+        "lat": 34.930042,
+        "lng": 135.760834,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%8D%97%E6%B5%9C%E7%94%BA247",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://shugakuryoko.kyoto.travel/spot/490/",
+        "imageUrl": "https://shugakuryoko.kyoto.travel/article/wp-content/uploads/2017/02/image1_0000000490.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-fushimi/gekkeikan.jpg"
+      }
+    },
+    {
+      "id": "kyoto-fushimi--chokenji",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "contentSources": [
+        "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html"
+      ],
+      "coordinate": {
+        "lat": 34.928391,
+        "lng": 135.760635,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%9D%B1%E6%9F%B3%E7%94%BA511",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+        "imageUrl": "https://www.city.kyoto.lg.jp/fushimi/cmsfiles/contents/0000336/336748/tyoukennji.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-fushimi/chokenji.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "kyoto-fushimi--gokonomiya",
+      "query": "京都府京都市伏見区御香宮門前町174",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%BE%A1%E9%A6%99%E5%AE%AE%E9%96%80%E5%89%8D%E7%94%BA174",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.767197,
+              34.934155
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市伏見区御香宮門前町１７４番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-fushimi--oishi",
+      "query": "京都府京都市伏見区両替町2丁目350-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E4%B8%A1%E6%9B%BF%E7%94%BA2%E4%B8%81%E7%9B%AE350-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.764175,
+              34.930317
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市伏見区両替町二丁目３５０番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-fushimi--sasakipan",
+      "query": "京都府京都市伏見区納屋町117",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E7%B4%8D%E5%B1%8B%E7%94%BA117",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.760132,
+              34.932301
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市伏見区納屋町１１７番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-fushimi--ryoma",
+      "query": "京都府京都市伏見区車町",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E8%BB%8A%E7%94%BA",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.75946,
+              34.930809
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市伏見区車町"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-fushimi--kappa",
+      "query": "京都府京都市伏見区塩屋町228",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%A1%A9%E5%B1%8B%E7%94%BA228",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.760437,
+              34.93095
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市伏見区塩屋町２２８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-fushimi--teradaya",
+      "query": "京都府京都市伏見区南浜町263",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%8D%97%E6%B5%9C%E7%94%BA263",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.75943,
+              34.930389
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市伏見区南浜町２６３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-fushimi--kyobashi",
+      "query": "京都府京都市伏見区京橋町",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E4%BA%AC%E6%A9%8B%E7%94%BA",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.758682,
+              34.930641
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市伏見区京橋町"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-fushimi--yumehyakushu",
+      "query": "京都府京都市伏見区南浜町247",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%8D%97%E6%B5%9C%E7%94%BA247",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.760834,
+              34.930042
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市伏見区南浜町２４７番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-fushimi--gekkeikan",
+      "query": "京都府京都市伏見区南浜町247",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%8D%97%E6%B5%9C%E7%94%BA247",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.760834,
+              34.930042
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市伏見区南浜町２４７番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-fushimi--chokenji",
+      "query": "京都府京都市伏見区東柳町511",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%9D%B1%E6%9F%B3%E7%94%BA511",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.760635,
+              34.928391
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市伏見区東柳町５１１番地"
+          }
+        }
+      ]
+    }
+  ]
+}

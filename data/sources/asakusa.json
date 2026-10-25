@@ -1,0 +1,443 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "asakusa--center",
+      "official": "https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/index.html",
+      "contentSources": [
+        "https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/index.html"
+      ],
+      "coordinate": {
+        "lat": 35.710716,
+        "lng": 139.796432,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%802-18-9",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/index.html",
+        "imageUrl": "https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/index.images/IMGP1077.jpg",
+        "referencePath": "design/photo-references/expansion/asakusa/center.jpg"
+      }
+    },
+    {
+      "id": "asakusa--umezono",
+      "official": "https://asakusa-shoren.jp/stores/636/",
+      "contentSources": [
+        "https://asakusa-shoren.jp/stores/636/"
+      ],
+      "coordinate": {
+        "lat": 35.712414,
+        "lng": 139.796265,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-31-12",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://asakusanioideyo.com/13/387/",
+        "imageUrl": "https://asakusanioideyo.com/shop/13_10_16.jpg",
+        "referencePath": "design/photo-references/expansion/asakusa/umezono.jpg"
+      }
+    },
+    {
+      "id": "asakusa--funawa",
+      "official": "https://www.funawa.jp/fr/129",
+      "contentSources": [
+        "https://www.funawa.jp/fr/129"
+      ],
+      "coordinate": {
+        "lat": 35.712044,
+        "lng": 139.794632,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-22-10",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.funawa.jp/fr/129",
+        "imageUrl": "https://image.raku-uru.jp/01/22132/396/shop01_img01_1658978649986.png",
+        "referencePath": "design/photo-references/expansion/asakusa/funawa.jpg"
+      }
+    },
+    {
+      "id": "asakusa--tengoku",
+      "official": "https://www.instagram.com/coffee_tengoku/",
+      "contentSources": [
+        "https://www.instagram.com/coffee_tengoku/",
+        "https://matcha-jp.com/jp/1532"
+      ],
+      "coordinate": {
+        "lat": 35.713078,
+        "lng": 139.794052,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-41-9",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://matcha-jp.com/jp/1532",
+        "imageUrl": "https://resources.matcha-jp.com/resize/720x2000/2022/04/14-125634.webp",
+        "referencePath": "design/photo-references/expansion/asakusa/tengoku.jpg"
+      }
+    },
+    {
+      "id": "asakusa--craft",
+      "official": "https://www.city.taito.lg.jp/bunka_kanko/tiikidentou/tradition/kogeikan/index.html",
+      "contentSources": [
+        "https://www.city.taito.lg.jp/bunka_kanko/tiikidentou/tradition/kogeikan/index.html"
+      ],
+      "coordinate": {
+        "lat": 35.716389,
+        "lng": 139.793884,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-22-13",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.taito.lg.jp/bunka_kanko/tiikidentou/tradition/kogeikan/index.html",
+        "imageUrl": "https://www.city.taito.lg.jp/bunka_kanko/tiikidentou/tradition/kogeikan/index.images/newkogeikan.JPG",
+        "referencePath": "design/photo-references/expansion/asakusa/craft.jpg"
+      }
+    },
+    {
+      "id": "asakusa--temple",
+      "official": "https://www.senso-ji.jp/",
+      "contentSources": [
+        "https://www.senso-ji.jp/",
+        "https://www.senso-ji.jp/access/"
+      ],
+      "coordinate": {
+        "lat": 35.712856,
+        "lng": 139.796585,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-3-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.senso-ji.jp/guide/guide04.html",
+        "imageUrl": "https://www.senso-ji.jp/images/guide/images/guide04_img01.jpg",
+        "referencePath": "design/photo-references/expansion/asakusa/temple.jpg"
+      }
+    },
+    {
+      "id": "asakusa--shrine",
+      "official": "https://asakusajinja.jp/asakusajinja/about/",
+      "contentSources": [
+        "https://asakusajinja.jp/asakusajinja/about/",
+        "https://asakusajinja.jp/asakusajinja/map/"
+      ],
+      "coordinate": {
+        "lat": 35.712856,
+        "lng": 139.796585,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-3-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://asakusajinja.jp/asakusajinja/about/",
+        "imageUrl": "https://asakusajinja.jp/uploads/2018/02/im_asakusa_syaden01.png",
+        "referencePath": "design/photo-references/expansion/asakusa/shrine.jpg"
+      }
+    },
+    {
+      "id": "asakusa--kimuraya",
+      "official": "https://asakusa-shoren.jp/stores/796/",
+      "contentSources": [
+        "https://asakusa-shoren.jp/stores/796/",
+        "https://www.taito-miyage.tokyo/shops/8"
+      ],
+      "coordinate": {
+        "lat": 35.712856,
+        "lng": 139.796585,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-3-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.taito-miyage.tokyo/shops/8",
+        "imageUrl": "https://www.taito-miyage.tokyo/storage/shops/image/08.kimuraya.jpg",
+        "referencePath": "design/photo-references/expansion/asakusa/kimuraya.jpg"
+      }
+    },
+    {
+      "id": "asakusa--nakamise",
+      "official": "https://www.asakusa-nakamise.jp/about/index.html",
+      "contentSources": [
+        "https://www.asakusa-nakamise.jp/about/index.html",
+        "https://filmcommission.city.taito.lg.jp/location/nakamise/"
+      ],
+      "coordinate": {
+        "lat": 35.712429,
+        "lng": 139.796707,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-36-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://filmcommission.city.taito.lg.jp/location/nakamise/",
+        "imageUrl": "https://filmcommission.city.taito.lg.jp/wp/wp-content/uploads/2016/04/P5120367-1024x683.jpg",
+        "referencePath": "design/photo-references/expansion/asakusa/nakamise.jpg"
+      }
+    },
+    {
+      "id": "asakusa--sumida",
+      "official": "https://filmcommission.city.taito.lg.jp/location/sumida-park/",
+      "contentSources": [
+        "https://filmcommission.city.taito.lg.jp/location/sumida-park/"
+      ],
+      "coordinate": {
+        "lat": 35.712254,
+        "lng": 139.799652,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%8A%B1%E5%B7%9D%E6%88%B81%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://filmcommission.city.taito.lg.jp/location/sumida-park/",
+        "imageUrl": "https://filmcommission.city.taito.lg.jp/wp/wp-content/uploads/2016/04/P5120279-1024x683.jpg",
+        "referencePath": "design/photo-references/expansion/asakusa/sumida.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "asakusa--center",
+      "query": "東京都台東区雷門2-18-9",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%802-18-9",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.796432,
+              35.710716
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都台東区雷門二丁目１８番９号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asakusa--umezono",
+      "query": "東京都台東区浅草1-31-12",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-31-12",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.796265,
+              35.712414
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都台東区浅草一丁目３１番１２号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asakusa--funawa",
+      "query": "東京都台東区浅草1-22-10",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-22-10",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.794632,
+              35.712044
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都台東区浅草一丁目２２番１０号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asakusa--tengoku",
+      "query": "東京都台東区浅草1-41-9",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-41-9",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.794052,
+              35.713078
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都台東区浅草一丁目４１番９号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asakusa--craft",
+      "query": "東京都台東区浅草2-22-13",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-22-13",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.793884,
+              35.716389
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都台東区浅草二丁目２２番１３号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asakusa--temple",
+      "query": "東京都台東区浅草2-3-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-3-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.796585,
+              35.712856
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都台東区浅草二丁目３番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asakusa--shrine",
+      "query": "東京都台東区浅草2-3-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-3-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.796585,
+              35.712856
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都台東区浅草二丁目３番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asakusa--kimuraya",
+      "query": "東京都台東区浅草2-3-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-3-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.796585,
+              35.712856
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都台東区浅草二丁目３番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asakusa--nakamise",
+      "query": "東京都台東区浅草1-36-3",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-36-3",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.796707,
+              35.712429
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都台東区浅草一丁目３６番３号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asakusa--sumida",
+      "query": "東京都台東区花川戸1丁目1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%8A%B1%E5%B7%9D%E6%88%B81%E4%B8%81%E7%9B%AE1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.799652,
+              35.712254
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都台東区花川戸一丁目１番"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "updatedAt": "2026-10-24",
+  "places": [
+    {
+      "id": "narita--yoneya",
+      "order": 1,
+      "name": "なごみの米屋總本店",
+      "address": "千葉県成田市上町500",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "羊羹與花生最中，把成田甜味帶走",
+      "descriptionParagraphs": [
+        "米屋總本店從成田山表參道起家，栗羊羹與花生最中是認識這間和菓子老舖的入口。櫃檯上的季節點心，也讓伴手禮選擇不只一種。",
+        "一樓有甘味與輕食空間，後方還有羊羹資料館及庭園可按興趣延伸。若想在別家喝茶，這裡挑一份點心帶走就好。"
+      ],
+      "description": "米屋總本店從成田山表參道起家，栗羊羹與花生最中是認識這間和菓子老舖的入口。櫃檯上的季節點心，也讓伴手禮選擇不只一種。\n\n一樓有甘味與輕食空間，後方還有羊羹資料館及庭園可按興趣延伸。若想在別家喝茶，這裡挑一份點心帶走就好。",
+      "note": "",
+      "official": "https://nagomi-yoneya.co.jp/souhonten/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.781818,
+        "lng": 140.315842,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%B8%8A%E7%94%BA500",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/narita/yoneya.webp",
+        "alt": "なごみの米屋總本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "narita--goto",
+      "order": 2,
+      "name": "後藤だんご屋",
+      "address": "千葉県成田市上町499",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "一串甘鹹團子，接住老街的步調",
+      "descriptionParagraphs": [
+        "後藤だんご屋是參道上的團子老舖，烤過的團子裹上甘鹹醬汁，樸實的香氣與老店空間很相襯。喜歡傳統點心，可以把它當作途中短歇。",
+        "團子可能提早售完，想吃時可在路過先看看當天情況。與米屋總本店相近，兩家可擇一停留，替後面的參拜留時間。"
+      ],
+      "description": "後藤だんご屋是參道上的團子老舖，烤過的團子裹上甘鹹醬汁，樸實的香氣與老店空間很相襯。喜歡傳統點心，可以把它當作途中短歇。\n\n團子可能提早售完，想吃時可在路過先看看當天情況。與米屋總本店相近，兩家可擇一停留，替後面的參拜留時間。",
+      "note": "",
+      "official": "https://www.nrtk.jp/enjoy/attraction/04.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.781818,
+        "lng": 140.315842,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%B8%8A%E7%94%BA499",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/narita/goto.webp",
+        "alt": "後藤だんご屋的日系水彩插圖"
+      }
+    },
+    {
+      "id": "narita--hayashida",
+      "order": 3,
+      "name": "林田のおせんべい",
+      "address": "千葉県成田市幸町490",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "米香與醬香，藏在一片煎餅裡",
+      "descriptionParagraphs": [
+        "林田從成田山門前的煎餅生意出發，堅燒、柿餅與海苔口味展現不同的口感。從米製生地到烘烤調味，店家都把心力放在米菓本身。",
+        "沿參道路過時，適合挑一袋容易攜帶的小點心。想繼續坐下喝茶，也可以把煎餅留到旅程後半，不必邊走邊趕著吃。"
+      ],
+      "description": "林田從成田山門前的煎餅生意出發，堅燒、柿餅與海苔口味展現不同的口感。從米製生地到烘烤調味，店家都把心力放在米菓本身。\n\n沿參道路過時，適合挑一袋容易攜帶的小點心。想繼續坐下喝茶，也可以把煎餅留到旅程後半，不必邊走邊趕著吃。",
+      "note": "",
+      "official": "https://www.kaiun-senbei.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.782764,
+        "lng": 140.316208,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E5%B9%B8%E7%94%BA490",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/narita/hayashida.webp",
+        "alt": "林田のおせんべい的日系水彩插圖"
+      }
+    },
+    {
+      "id": "narita--fujikura",
+      "order": 4,
+      "name": "藤倉商店",
+      "address": "千葉県成田市幸町488",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "竹籃與木器，讓旅途多一點日常",
+      "descriptionParagraphs": [
+        "藤倉商店的店面擺滿竹、木與藤編生活器物，從盛裝食物的籃子到廚房小工具，都能看見材料和手作的質感。這是參道上值得放慢腳步的選物停留。",
+        "可以從每天會用到的小物開始看，留意編法與握在手中的重量。店前與室內物件較多，慢慢瀏覽，也替其他客人保留通行空間。"
+      ],
+      "description": "藤倉商店的店面擺滿竹、木與藤編生活器物，從盛裝食物的籃子到廚房小工具，都能看見材料和手作的質感。這是參道上值得放慢腳步的選物停留。\n\n可以從每天會用到的小物開始看，留意編法與握在手中的重量。店前與室內物件較多，慢慢瀏覽，也替其他客人保留通行空間。",
+      "note": "",
+      "official": "https://www.nrtk.jp/mypage/00046.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.783691,
+        "lng": 140.315872,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E5%B9%B8%E7%94%BA488",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/narita/fujikura.webp",
+        "alt": "藤倉商店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "narita--visitor",
+      "order": 5,
+      "name": "成田觀光館",
+      "address": "千葉県成田市仲町383-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在老街中段，補上一點祭典故事",
+      "descriptionParagraphs": [
+        "成田觀光館的白牆與瓦頂很容易辨認，館內提供旅遊資訊，也展示成田祇園祭使用的山車。想知道參道與祭典的關係，可在這裡短暫停留。",
+        "入口周邊可作為整理路線的中繼點，先確認當天可使用的樓層再入內。若只想輕鬆散步，拿取地圖後繼續往寺院方向即可。"
+      ],
+      "description": "成田觀光館的白牆與瓦頂很容易辨認，館內提供旅遊資訊，也展示成田祇園祭使用的山車。想知道參道與祭典的關係，可在這裡短暫停留。\n\n入口周邊可作為整理路線的中繼點，先確認當天可使用的樓層再入內。若只想輕鬆散步，拿取地圖後繼續往寺院方向即可。",
+      "note": "2026 年 10 月至 11 月部分設施施工，館內另有供水設備維修；開放區域與洗手間依現場公告。",
+      "official": "https://www.city.narita.chiba.jp/kanko/page150800.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.78389,
+        "lng": 140.316467,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%BB%B2%E7%94%BA383-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/narita/visitor.webp",
+        "alt": "成田觀光館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "narita--kawatoyo",
+      "order": 6,
+      "name": "川豊本店",
+      "address": "千葉県成田市仲町386",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "木造老店裡，認識成田的鰻魚料理",
+      "descriptionParagraphs": [
+        "川豊本店以鰻魚料理與傳統木造店屋成為參道上的醒目風景。沿街可以看見大屋簷與細密窗格，讓一頓飯也接上門前町的歷史氣氛。",
+        "若把鰻魚飯列為今天重點，就減少其他店家的停留。熱門時段需要依現場取號候位，等候時間應另外保留，不算進輕鬆散步的估時。"
+      ],
+      "description": "川豊本店以鰻魚料理與傳統木造店屋成為參道上的醒目風景。沿街可以看見大屋簷與細密窗格，讓一頓飯也接上門前町的歷史氣氛。\n\n若把鰻魚飯列為今天重點，就減少其他店家的停留。熱門時段需要依現場取號候位，等候時間應另外保留，不算進輕鬆散步的估時。",
+      "note": "",
+      "official": "https://www.nrtk.jp/mypage/00002.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.783443,
+        "lng": 140.316879,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%BB%B2%E7%94%BA386",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/narita/kawatoyo.webp",
+        "alt": "川豊本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "narita--miyoshiya",
+      "order": 7,
+      "name": "三芳家",
+      "address": "千葉県成田市仲町386-2",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "轉入小巷，找一份庭院甘味",
+      "descriptionParagraphs": [
+        "三芳家藏在表參道旁的小巷，庭院與甘味讓熱鬧街道的節奏柔和下來。白玉、餡蜜與茶點，適合坐著慢慢享用。",
+        "這裡可以作為參拜前後的主要休息站，挑一份喜歡的點心就足夠。座位與候位情況依當天安排，若客滿也可改選參道上的其他甘味店。"
+      ],
+      "description": "三芳家藏在表參道旁的小巷，庭院與甘味讓熱鬧街道的節奏柔和下來。白玉、餡蜜與茶點，適合坐著慢慢享用。\n\n這裡可以作為參拜前後的主要休息站，挑一份喜歡的點心就足夠。座位與候位情況依當天安排，若客滿也可改選參道上的其他甘味店。",
+      "note": "",
+      "official": "https://www.nrtk.jp/mypage/00055.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.783443,
+        "lng": 140.316879,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%BB%B2%E7%94%BA386-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/narita/miyoshiya.webp",
+        "alt": "三芳家的日系水彩插圖"
+      }
+    },
+    {
+      "id": "narita--shinshoji",
+      "order": 8,
+      "name": "成田山新勝寺",
+      "address": "千葉県成田市成田1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從門前街道，走向開闊的寺院",
+      "descriptionParagraphs": [
+        "成田山新勝寺的境內把大本堂、塔與歷史建築連成豐富的參拜空間。由商店街走進寺院，視線從招牌與點心轉向屋簷、石階與庭木。",
+        "建議在此保留一段完整時間，不必將所有殿堂逐一走完。參拜後依體力選擇公園散步或直接回到表參道，讓返程依然從容。"
+      ],
+      "description": "成田山新勝寺的境內把大本堂、塔與歷史建築連成豐富的參拜空間。由商店街走進寺院，視線從招牌與點心轉向屋簷、石階與庭木。\n\n建議在此保留一段完整時間，不必將所有殿堂逐一走完。參拜後依體力選擇公園散步或直接回到表參道，讓返程依然從容。",
+      "note": "",
+      "official": "https://www.naritasan.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "qe945dPQArM",
+          "title": "\"Sawara\" Escape from Tokyo | 1 Night in \"Little Edo\" | Road Trip Vlog",
+          "url": "https://www.youtube.com/watch?v=qe945dPQArM",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.785233,
+        "lng": 140.317215,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B01",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/narita/shinshoji.webp",
+        "alt": "成田山新勝寺的日系水彩插圖"
+      }
+    },
+    {
+      "id": "narita--park",
+      "order": 9,
+      "name": "成田山公園",
+      "address": "千葉県成田市成田1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "池水與樹影，替參拜加一段綠意",
+      "descriptionParagraphs": [
+        "成田山公園在寺院後方展開，池塘與林間步道讓門前街道的熱鬧慢慢遠去。季節樹色映在水面，很適合把注意力交回風與腳步。",
+        "公園範圍比初看更大，挑一段池畔步道即可，不必繞遍全部區域。沿途有高低起伏與階梯，若已感疲累，可將這裡留待下次。"
+      ],
+      "description": "成田山公園在寺院後方展開，池塘與林間步道讓門前街道的熱鬧慢慢遠去。季節樹色映在水面，很適合把注意力交回風與腳步。\n\n公園範圍比初看更大，挑一段池畔步道即可，不必繞遍全部區域。沿途有高低起伏與階梯，若已感疲累，可將這裡留待下次。",
+      "note": "",
+      "official": "https://www.naritasan.or.jp/tour/other/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.785233,
+        "lng": 140.317215,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B01",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/narita/park.webp",
+        "alt": "成田山公園的日系水彩插圖"
+      }
+    },
+    {
+      "id": "narita--shodo",
+      "order": 10,
+      "name": "成田山書道美術館",
+      "address": "千葉県成田市成田640",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在公園深處，看筆墨留下的節奏",
+      "descriptionParagraphs": [
+        "成田山書道美術館位在公園池畔附近，收藏與展示讓書法從文字走向線條、墨色和空間。對筆墨有興趣的人，可把這裡當作今天的文化停留。",
+        "入館參觀適合取代一部分逛店時間，避免把展覽與所有寺院建築排在同一個下午。看完沿公園返回，留意閉館時間及回程坡道。"
+      ],
+      "description": "成田山書道美術館位在公園池畔附近，收藏與展示讓書法從文字走向線條、墨色和空間。對筆墨有興趣的人，可把這裡當作今天的文化停留。\n\n入館參觀適合取代一部分逛店時間，避免把展覽與所有寺院建築排在同一個下午。看完沿公園返回，留意閉館時間及回程坡道。",
+      "note": "",
+      "official": "https://www.naritashodo.jp/?page_id=10120",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.78754,
+        "lng": 140.32222,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B0640",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/narita/shodo.webp",
+        "alt": "成田山書道美術館的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "narita-slow-walk",
+      "name": "參道老舖、庭院茶點與古寺",
+      "ids": [
+        "narita--fujikura",
+        "narita--miyoshiya",
+        "narita--shinshoji"
+      ],
+      "start": {
+        "name": "JR 成田站東口",
+        "address": "千葉県成田市花崎町839 成田駅",
+        "access": "JR 成田線；京成成田站亦可步行接上表參道"
+      },
+      "end": {
+        "name": "JR 成田站／京成成田站",
+        "address": "千葉県成田市花崎町839 成田駅",
+        "access": "沿表參道返回，回程有緩上坡"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從車站沿參道慢慢下坡，在老舖、甘味與寺院之間，留一段自己的時間。",
+      "note": "十處為自由替換選項；寺院與公園有階梯、坡道。鰻魚用餐或美術館完整參觀宜取代其他停留，候位另計。",
+      "stopNotes": {
+        "narita--fujikura": "挑竹木器物，看看門前町的生活工藝。",
+        "narita--miyoshiya": "轉入小巷，用一份甘味換段休息。",
+        "narita--shinshoji": "留時間參拜，公園與美術館擇一延伸。"
+      },
+      "art": "/art/walks/narita/shinshoji.webp"
+    }
+  ],
+  "defaultSelection": "narita-slow-walk"
+}

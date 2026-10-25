@@ -1,0 +1,447 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "kyoto-ichijoji--shisendo",
+      "official": "https://kyoto-shisendo.net/",
+      "contentSources": [
+        "https://kyoto-shisendo.net/",
+        "https://travel.jr-central.co.jp/plan/area/kyoto/guide/20250605.html"
+      ],
+      "coordinate": {
+        "lat": 35.043816,
+        "lng": 135.795837,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E9%96%80%E5%8F%A3%E7%94%BA27",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://travel.jr-central.co.jp/plan/area/kyoto/guide/20250605.html",
+        "imageUrl": "https://travel.jr-central.co.jp/plan/area/kyoto/guide/kyomachi_images/2506aruku/2506aruku_shisendo1.webp",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-ichijoji/shisendo.jpg"
+      }
+    },
+    {
+      "id": "kyoto-ichijoji--hachidai",
+      "official": "https://www.hatidai-jinja.com/",
+      "contentSources": [
+        "https://www.hatidai-jinja.com/"
+      ],
+      "coordinate": {
+        "lat": 35.043629,
+        "lng": 135.796738,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%9D%BE%E5%8E%9F%E7%94%BA1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.hatidai-jinja.com/",
+        "imageUrl": "https://www.hatidai-jinja.com/wp-content/uploads/2020/06/hachidai_topimgs01.png",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-ichijoji/hachidai.jpg"
+      }
+    },
+    {
+      "id": "kyoto-ichijoji--enkouji",
+      "official": "https://www.enkouji.jp/news/",
+      "contentSources": [
+        "https://www.enkouji.jp/news/",
+        "https://www.kyoto-kankou.or.jp/info_search/9508",
+        "https://www.enkouji.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.045174,
+        "lng": 135.796814,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E5%B0%8F%E8%B0%B7%E7%94%BA13",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.enkouji.jp/",
+        "imageUrl": "https://www.enkouji.jp/wp/wp-content/uploads/2026/09/fv_slide_autumn2026-01.jpg",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-ichijoji/enkouji.jpg"
+      }
+    },
+    {
+      "id": "kyoto-ichijoji--sagarimatsu",
+      "official": "https://www.hatidai-jinja.com/musashi-miyamoto/sagarimatsu/",
+      "contentSources": [
+        "https://www.hatidai-jinja.com/musashi-miyamoto/sagarimatsu/"
+      ],
+      "coordinate": {
+        "lat": 35.044235,
+        "lng": 135.792877,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E4%B8%8B%E3%82%8A%E6%9D%BE%E7%94%BA",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.hatidai-jinja.com/musashi-miyamoto/sagarimatsu/",
+        "imageUrl": "https://www.hatidai-jinja.com/wp-content/uploads/2024/09/sagarimatu_r6_08_01_hp-768x576.jpg",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-ichijoji/sagarimatsu.jpg"
+      }
+    },
+    {
+      "id": "kyoto-ichijoji--nakatani",
+      "official": "https://ja.kyoto.travel/tourism/single01.php?category_id=5&tourism_id=1847",
+      "contentSources": [
+        "https://ja.kyoto.travel/tourism/single01.php?category_id=5&tourism_id=1847",
+        "https://travel.jr-central.co.jp/plan/area/kyoto/guide/20250605.html"
+      ],
+      "coordinate": {
+        "lat": 35.04327,
+        "lng": 135.792206,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E8%8A%B1%E3%83%8E%E6%9C%A8%E7%94%BA5",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://travel.jr-central.co.jp/plan/area/kyoto/guide/20250605.html",
+        "imageUrl": "https://travel.jr-central.co.jp/plan/area/kyoto/guide/kyomachi_images/2506aruku/2506aruku_nakatani3.webp",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-ichijoji/nakatani.jpg"
+      }
+    },
+    {
+      "id": "kyoto-ichijoji--keibunsha",
+      "official": "https://www.keibunsha-store.com/",
+      "contentSources": [
+        "https://www.keibunsha-store.com/",
+        "https://travel.jr-central.co.jp/plan/area/kyoto/guide/20250605.html"
+      ],
+      "coordinate": {
+        "lat": 35.043781,
+        "lng": 135.785263,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%89%95%E6%AE%BF%E7%94%BA10",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://travel.jr-central.co.jp/plan/area/kyoto/guide/20250605.html",
+        "imageUrl": "https://travel.jr-central.co.jp/plan/area/kyoto/guide/kyomachi_images/2506aruku/2506aruku_keibunsha3.webp",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-ichijoji/keibunsha.jpg"
+      }
+    },
+    {
+      "id": "kyoto-ichijoji--pan",
+      "official": "https://pannhare.stores.jp/about",
+      "contentSources": [
+        "https://pannhare.stores.jp/about",
+        "https://www.mapple.net/spot/26014900/",
+        "http://kyoto1966.blog.fc2.com/blog-entry-1432.html"
+      ],
+      "coordinate": {
+        "lat": 35.044319,
+        "lng": 135.786453,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E5%8D%97%E5%A4%A7%E4%B8%B8%E7%94%BA48-6",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "http://kyoto1966.blog.fc2.com/blog-entry-1432.html",
+        "imageUrl": "https://blog-imgs-160.fc2.com/k/y/o/kyoto1966/phare-11.jpg",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-ichijoji/pan.jpg"
+      }
+    },
+    {
+      "id": "kyoto-ichijoji--chinyu",
+      "official": "https://www.chinyu.jp/information/",
+      "contentSources": [
+        "https://www.chinyu.jp/information/",
+        "https://www.chinyu.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.043819,
+        "lng": 135.783829,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%89%95%E6%AE%BF%E7%94%BA24",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.chinyu.jp/",
+        "imageUrl": "https://www.chinyu.jp/images/top/tenpo01.jpg",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-ichijoji/chinyu.jpg"
+      }
+    },
+    {
+      "id": "kyoto-ichijoji--bastet",
+      "official": "https://bastetcoffee.com/",
+      "contentSources": [
+        "https://bastetcoffee.com/"
+      ],
+      "coordinate": {
+        "lat": 35.041878,
+        "lng": 135.785873,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E5%A4%A7%E5%8E%9F%E7%94%B0%E7%94%BA23-11",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://bastetcoffee.com/",
+        "imageUrl": "https://bastetcoffee.com/cdn/shop/files/gempages_518261948719039651-d4fc0d54-22c5-435d-aff2-4c06c7b938a3.jpg?v=1718437980&width=1500",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-ichijoji/bastet.jpg"
+      }
+    },
+    {
+      "id": "kyoto-ichijoji--konpukuji",
+      "official": "https://www.kyoto-kankou.or.jp/info_search/212",
+      "contentSources": [
+        "https://www.kyoto-kankou.or.jp/info_search/212",
+        "https://www.kyotobus.jp/spot/2012/06/post-14.html"
+      ],
+      "coordinate": {
+        "lat": 35.04224,
+        "lng": 135.79512,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%89%8D%E5%BD%A2%E7%94%BA20",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kyotobus.jp/spot/2012/06/post-14.html",
+        "imageUrl": "http://153.126.154.69/spot/assets_c/2012/08/kinpukuji01-thumb-1200xauto-101.jpg",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-ichijoji/konpukuji.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "kyoto-ichijoji--shisendo",
+      "query": "京都府京都市左京区一乗寺門口町27",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E9%96%80%E5%8F%A3%E7%94%BA27",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.795837,
+              35.043816
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区一乗寺門口町２７番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-ichijoji--hachidai",
+      "query": "京都府京都市左京区一乗寺松原町1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%9D%BE%E5%8E%9F%E7%94%BA1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.796738,
+              35.043629
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区一乗寺松原町１番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-ichijoji--enkouji",
+      "query": "京都府京都市左京区一乗寺小谷町13",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E5%B0%8F%E8%B0%B7%E7%94%BA13",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.796814,
+              35.045174
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区一乗寺小谷町１３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-ichijoji--sagarimatsu",
+      "query": "京都府京都市左京区一乗寺下り松町",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E4%B8%8B%E3%82%8A%E6%9D%BE%E7%94%BA",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.792877,
+              35.044235
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区一乗寺下リ松町"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-ichijoji--nakatani",
+      "query": "京都府京都市左京区一乗寺花ノ木町5",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E8%8A%B1%E3%83%8E%E6%9C%A8%E7%94%BA5",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.792206,
+              35.04327
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区一乗寺花ノ木町５番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-ichijoji--keibunsha",
+      "query": "京都府京都市左京区一乗寺払殿町10",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%89%95%E6%AE%BF%E7%94%BA10",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.785263,
+              35.043781
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区一乗寺払殿町１０番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-ichijoji--pan",
+      "query": "京都府京都市左京区一乗寺南大丸町48-6",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E5%8D%97%E5%A4%A7%E4%B8%B8%E7%94%BA48-6",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.786453,
+              35.044319
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区一乗寺南大丸町４８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-ichijoji--chinyu",
+      "query": "京都府京都市左京区一乗寺払殿町24",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%89%95%E6%AE%BF%E7%94%BA24",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.783829,
+              35.043819
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区一乗寺払殿町２４番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-ichijoji--bastet",
+      "query": "京都府京都市左京区一乗寺大原田町23-11",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E5%A4%A7%E5%8E%9F%E7%94%B0%E7%94%BA23-11",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.785873,
+              35.041878
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区一乗寺大原田町２３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-ichijoji--konpukuji",
+      "query": "京都府京都市左京区一乗寺才形町20",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%89%8D%E5%BD%A2%E7%94%BA20",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.79512,
+              35.04224
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区一乗寺才形町２０番地"
+          }
+        }
+      ]
+    }
+  ]
+}

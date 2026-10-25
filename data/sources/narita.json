@@ -1,0 +1,441 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "narita--yoneya",
+      "official": "https://nagomi-yoneya.co.jp/souhonten/",
+      "contentSources": [
+        "https://nagomi-yoneya.co.jp/souhonten/"
+      ],
+      "coordinate": {
+        "lat": 35.781818,
+        "lng": 140.315842,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%B8%8A%E7%94%BA500",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://nagomi-yoneya.co.jp/souhonten/",
+        "imageUrl": "https://nagomi-yoneya.co.jp/wp2021/wp-content/uploads/img06_09.jpg",
+        "referencePath": "design/photo-references/expansion/narita/yoneya.jpg"
+      }
+    },
+    {
+      "id": "narita--goto",
+      "official": "https://www.nrtk.jp/enjoy/attraction/04.html",
+      "contentSources": [
+        "https://www.nrtk.jp/enjoy/attraction/04.html"
+      ],
+      "coordinate": {
+        "lat": 35.781818,
+        "lng": 140.315842,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%B8%8A%E7%94%BA499",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.nrtk.jp/enjoy/attraction/04.html",
+        "imageUrl": "https://www.nrtk.jp/enjoy/attraction/images/top_img_5.jpg",
+        "referencePath": "design/photo-references/expansion/narita/goto.jpg"
+      }
+    },
+    {
+      "id": "narita--hayashida",
+      "official": "https://www.kaiun-senbei.com/",
+      "contentSources": [
+        "https://www.kaiun-senbei.com/",
+        "https://www.kaiun-senbei.com/hpgen/HPB/shop/business.html"
+      ],
+      "coordinate": {
+        "lat": 35.782764,
+        "lng": 140.316208,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E5%B9%B8%E7%94%BA490",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kaiun-senbei.com/",
+        "imageUrl": "https://www.kaiun-senbei.com/pic-labo/limg/mikkusu.jpg",
+        "referencePath": "design/photo-references/expansion/narita/hayashida.jpg"
+      }
+    },
+    {
+      "id": "narita--fujikura",
+      "official": "https://www.nrtk.jp/mypage/00046.html",
+      "contentSources": [
+        "https://www.nrtk.jp/mypage/00046.html"
+      ],
+      "coordinate": {
+        "lat": 35.783691,
+        "lng": 140.315872,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E5%B9%B8%E7%94%BA488",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.nrtk.jp/mypage/00046.html",
+        "imageUrl": "https://www.nrtk.jp/shared/images/data/46/main_image_web_2.jpg?_=1495609331",
+        "referencePath": "design/photo-references/expansion/narita/fujikura.jpg"
+      }
+    },
+    {
+      "id": "narita--visitor",
+      "official": "https://www.city.narita.chiba.jp/kanko/page150800.html",
+      "contentSources": [
+        "https://www.city.narita.chiba.jp/kanko/page150800.html",
+        "https://www.city.narita.chiba.jp/shisetsu/page000096.html"
+      ],
+      "coordinate": {
+        "lat": 35.78389,
+        "lng": 140.316467,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%BB%B2%E7%94%BA383-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.narita.chiba.jp/kanko/page150800.html",
+        "imageUrl": "https://www.city.narita.chiba.jp/content/000011311.jpg",
+        "referencePath": "design/photo-references/expansion/narita/visitor.jpg"
+      }
+    },
+    {
+      "id": "narita--kawatoyo",
+      "official": "https://www.nrtk.jp/mypage/00002.html",
+      "contentSources": [
+        "https://www.nrtk.jp/mypage/00002.html"
+      ],
+      "coordinate": {
+        "lat": 35.783443,
+        "lng": 140.316879,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%BB%B2%E7%94%BA386",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.nrtk.jp/mypage/00002.html",
+        "imageUrl": "https://www.nrtk.jp/shared/images/data/2/like1_image_web_2.jpg?_=1521705661",
+        "referencePath": "design/photo-references/expansion/narita/kawatoyo.jpg"
+      }
+    },
+    {
+      "id": "narita--miyoshiya",
+      "official": "https://www.nrtk.jp/mypage/00055.html",
+      "contentSources": [
+        "https://www.nrtk.jp/mypage/00055.html"
+      ],
+      "coordinate": {
+        "lat": 35.783443,
+        "lng": 140.316879,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%BB%B2%E7%94%BA386-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.nrtk.jp/mypage/00055.html",
+        "imageUrl": "https://www.nrtk.jp/shared/images/data/55/main_image_web_2.jpg?_=1495191029",
+        "referencePath": "design/photo-references/expansion/narita/miyoshiya.jpg"
+      }
+    },
+    {
+      "id": "narita--shinshoji",
+      "official": "https://www.naritasan.or.jp/",
+      "contentSources": [
+        "https://www.naritasan.or.jp/",
+        "https://www.naritasan.or.jp/access/"
+      ],
+      "coordinate": {
+        "lat": 35.785233,
+        "lng": 140.317215,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B01",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.naritasan.or.jp/",
+        "imageUrl": "https://www.naritasan.or.jp/nswp/wp-content/uploads/2025/09/naritasan_01.jpg",
+        "referencePath": "design/photo-references/expansion/narita/shinshoji.jpg"
+      }
+    },
+    {
+      "id": "narita--park",
+      "official": "https://www.naritasan.or.jp/tour/other/",
+      "contentSources": [
+        "https://www.naritasan.or.jp/tour/other/"
+      ],
+      "coordinate": {
+        "lat": 35.785233,
+        "lng": 140.317215,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B01",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.naritasan.or.jp/tour/other/",
+        "imageUrl": "https://www.naritasan.or.jp/nswp/wp-content/uploads/2025/06/d7_photo06.jpg",
+        "referencePath": "design/photo-references/expansion/narita/park.jpg"
+      }
+    },
+    {
+      "id": "narita--shodo",
+      "official": "https://www.naritashodo.jp/?page_id=10120",
+      "contentSources": [
+        "https://www.naritashodo.jp/?page_id=10120"
+      ],
+      "coordinate": {
+        "lat": 35.78754,
+        "lng": 140.32222,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B0640",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.naritashodo.jp/?page_id=10120",
+        "imageUrl": "https://www.naritashodo.jp/wp-content/uploads/2018/06/top-2.jpg",
+        "referencePath": "design/photo-references/expansion/narita/shodo.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "narita--yoneya",
+      "query": "千葉県成田市上町500",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%B8%8A%E7%94%BA500",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.315842,
+              35.781818
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "千葉県成田市上町５００番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "narita--goto",
+      "query": "千葉県成田市上町499",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%B8%8A%E7%94%BA499",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.315842,
+              35.781818
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "千葉県成田市上町４９９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "narita--hayashida",
+      "query": "千葉県成田市幸町490",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E5%B9%B8%E7%94%BA490",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.316208,
+              35.782764
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "千葉県成田市幸町４９０番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "narita--fujikura",
+      "query": "千葉県成田市幸町488",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E5%B9%B8%E7%94%BA488",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.315872,
+              35.783691
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "千葉県成田市幸町４８８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "narita--visitor",
+      "query": "千葉県成田市仲町383-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%BB%B2%E7%94%BA383-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.316467,
+              35.78389
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "千葉県成田市仲町３８３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "narita--kawatoyo",
+      "query": "千葉県成田市仲町386",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%BB%B2%E7%94%BA386",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.316879,
+              35.783443
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "千葉県成田市仲町３８６番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "narita--miyoshiya",
+      "query": "千葉県成田市仲町386-2",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E4%BB%B2%E7%94%BA386-2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.316879,
+              35.783443
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "千葉県成田市仲町３８６番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "narita--shinshoji",
+      "query": "千葉県成田市成田1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B01",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.317215,
+              35.785233
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "千葉県成田市成田１番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "narita--park",
+      "query": "千葉県成田市成田1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B01",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.317215,
+              35.785233
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "千葉県成田市成田１番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "narita--shodo",
+      "query": "千葉県成田市成田640",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E6%88%90%E7%94%B0%E5%B8%82%E6%88%90%E7%94%B0640",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.32222,
+              35.78754
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "千葉県成田市成田６４０番地"
+          }
+        }
+      ]
+    }
+  ]
+}

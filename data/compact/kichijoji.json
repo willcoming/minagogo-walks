@@ -1,0 +1,455 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "kichijoji--lightup",
+      "order": 1,
+      "name": "LIGHT UP COFFEE 吉祥寺店",
+      "address": "東京都武蔵野市吉祥寺本町4-13-15",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "中道通西端，一杯明亮的咖啡",
+      "descriptionParagraphs": [
+        "LIGHT UP COFFEE 吉祥寺店以咖啡產地與風味作為探索入口，小店的明亮門面也很適合中途歇腳。不確定選哪一杯，可以從自己喜歡的口感開始。",
+        "走到中道通西端後，在這裡安排咖啡休息，再往車站方向慢慢逛回去。店內座位有限，外帶也是保留散步彈性的方式。"
+      ],
+      "description": "LIGHT UP COFFEE 吉祥寺店以咖啡產地與風味作為探索入口，小店的明亮門面也很適合中途歇腳。不確定選哪一杯，可以從自己喜歡的口感開始。\n\n走到中道通西端後，在這裡安排咖啡休息，再往車站方向慢慢逛回去。店內座位有限，外帶也是保留散步彈性的方式。",
+      "note": "",
+      "official": "https://lightupcoffee.com/pages/store",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.705471,
+        "lng": 139.572662,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA4-13-15",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/lightup.webp",
+        "alt": "LIGHT UP COFFEE 吉祥寺店的日系水彩插圖"
+      },
+      "recommendation": "以一杯咖啡作為午後休息。"
+    },
+    {
+      "id": "kichijoji--nakamichi",
+      "order": 2,
+      "name": "中道通",
+      "address": "東京都武蔵野市吉祥寺本町2丁目",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "沿著磚鋪小街，隨興推開店門",
+      "descriptionParagraphs": [
+        "中道通的磚鋪道路把服飾、雜貨、咖啡與生活小店串在一起。走得愈慢，愈容易注意到路旁的小招牌、紅色椅子與轉角的不同表情。",
+        "這段商店街適合預留自由探索時間，喜歡哪家就進去哪家。走到西端後可以原路邊逛邊回，也可用平行巷道換個視角。"
+      ],
+      "description": "中道通的磚鋪道路把服飾、雜貨、咖啡與生活小店串在一起。走得愈慢，愈容易注意到路旁的小招牌、紅色椅子與轉角的不同表情。\n\n這段商店街適合預留自由探索時間，喜歡哪家就進去哪家。走到西端後可以原路邊逛邊回，也可用平行巷道換個視角。",
+      "note": "",
+      "official": "https://kichijoji-nakamichi.com/about/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.705791,
+        "lng": 139.576614,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/nakamichi.webp",
+        "alt": "中道通的日系水彩插圖"
+      },
+      "recommendation": "沿中道通回站，隨興走進喜歡的小店。"
+    },
+    {
+      "id": "kichijoji--bunko",
+      "order": 3,
+      "name": "茶房武蔵野文庫",
+      "address": "東京都武蔵野市吉祥寺本町2-13-4",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "咖啡、咖哩與帶著文學氣息的老喫茶",
+      "descriptionParagraphs": [
+        "茶房武蔵野文庫延續早稻田文庫的部分風格與味道，咖啡、咖哩和自家製甜點陪伴許多午後。木質空間與古典音樂，讓休息有一點閱讀般的安靜。",
+        "如果更喜歡傳統喫茶，可以用這裡替換推薦咖啡站。選一杯飲料或一份餐點坐下，讓逛店前後都有一段不趕時間的空白。"
+      ],
+      "description": "茶房武蔵野文庫延續早稻田文庫的部分風格與味道，咖啡、咖哩和自家製甜點陪伴許多午後。木質空間與古典音樂，讓休息有一點閱讀般的安靜。\n\n如果更喜歡傳統喫茶，可以用這裡替換推薦咖啡站。選一杯飲料或一份餐點坐下，讓逛店前後都有一段不趕時間的空白。",
+      "note": "",
+      "official": "https://sabo-musashinobunko.jimdofree.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.70517,
+        "lng": 139.576843,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-13-4",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/bunko.webp",
+        "alt": "茶房武蔵野文庫的日系水彩插圖"
+      },
+      "recommendation": "在老喫茶喝杯咖啡，想吃咖哩時以用餐取代部分逛街。"
+    },
+    {
+      "id": "kichijoji--museum",
+      "order": 4,
+      "name": "吉祥寺美術館",
+      "address": "東京都武蔵野市吉祥寺本町1-8-16",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "商場樓上，藏著一段安靜的看展時間",
+      "descriptionParagraphs": [
+        "吉祥寺美術館位於商場樓上，企劃展與浜口陽三、萩原英雄的紀念展示，讓站前街區多了一種較安靜的體驗。逛街途中也能自然轉換成看畫的節奏。",
+        "展覽依檔期更換，想專程參觀可先確認當期內容。選擇入館時，就少排一段公園或購物，讓作品有被慢慢觀看的時間。"
+      ],
+      "description": "吉祥寺美術館位於商場樓上，企劃展與浜口陽三、萩原英雄的紀念展示，讓站前街區多了一種較安靜的體驗。逛街途中也能自然轉換成看畫的節奏。\n\n展覽依檔期更換，想專程參觀可先確認當期內容。選擇入館時，就少排一段公園或購物，讓作品有被慢慢觀看的時間。",
+      "note": "",
+      "official": "https://www.musashino.or.jp/museum/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.705029,
+        "lng": 139.579239,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-8-16",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/museum.webp",
+        "alt": "吉祥寺美術館的日系水彩插圖"
+      },
+      "recommendation": "選一場當期展覽或一間常設展室細看。"
+    },
+    {
+      "id": "kichijoji--satou",
+      "order": 5,
+      "name": "吉祥寺さとう",
+      "address": "東京都武蔵野市吉祥寺本町1-1-8",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "圓滾滾炸肉餅，是站前熟悉的香氣",
+      "descriptionParagraphs": [
+        "吉祥寺さとう以圓形炸肉餅聞名，牛肉與洋蔥藏在酥脆外皮裡，形成厚實的口感。它位在熱鬧街口，常讓路過的人被香氣吸引。",
+        "想嘗鮮可依現場隊伍決定是否等待，別讓排隊占滿整段午後。剛炸好的內餡很燙，找合適位置稍作停留再享用。"
+      ],
+      "description": "吉祥寺さとう以圓形炸肉餅聞名，牛肉與洋蔥藏在酥脆外皮裡，形成厚實的口感。它位在熱鬧街口，常讓路過的人被香氣吸引。\n\n想嘗鮮可依現場隊伍決定是否等待，別讓排隊占滿整段午後。剛炸好的內餡很燙，找合適位置稍作停留再享用。",
+      "note": "",
+      "official": "https://www.shop-satou.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.703987,
+        "lng": 139.579132,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-1-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/satou.webp",
+        "alt": "吉祥寺さとう的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kichijoji--ozasa",
+      "order": 6,
+      "name": "小ざさ",
+      "address": "東京都武蔵野市吉祥寺本町1-1-8",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "兩種餡的最中，藏著老舖的專注",
+      "descriptionParagraphs": [
+        "小ざさ專注於最中與羊羹，最中有紅豆餡、白餡兩種選擇，樸實外皮裡是細緻的甜味。小小店面是吉祥寺老舖風景的一部分。",
+        "散步時可把最中當成容易帶走的點心選項。羊羹的販售數量與方式另有安排，不必為了限定商品打亂原本輕鬆的步調。"
+      ],
+      "description": "小ざさ專注於最中與羊羹，最中有紅豆餡、白餡兩種選擇，樸實外皮裡是細緻的甜味。小小店面是吉祥寺老舖風景的一部分。\n\n散步時可把最中當成容易帶走的點心選項。羊羹的販售數量與方式另有安排，不必為了限定商品打亂原本輕鬆的步調。",
+      "note": "",
+      "official": "https://www.ozasa.co.jp/goods.php",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.703987,
+        "lng": 139.579132,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-1-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/ozasa.webp",
+        "alt": "小ざさ的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kichijoji--harmonica",
+      "order": 7,
+      "name": "口琴橫丁",
+      "address": "東京都武蔵野市吉祥寺本町1丁目1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "窄巷裡的小店，把車站前變得有趣",
+      "descriptionParagraphs": [
+        "口琴橫丁由狹窄通道與小型店面交織而成，餐飲、雜貨與老店在幾步之間切換。白天和夜晚各有不同表情，適合用散步的速度認識。",
+        "回站前挑一兩條巷子走走即可，不必每間店都停。通道狹窄，拍照時留出空間，也讓店家的出入與送貨順暢。"
+      ],
+      "description": "口琴橫丁由狹窄通道與小型店面交織而成，餐飲、雜貨與老店在幾步之間切換。白天和夜晚各有不同表情，適合用散步的速度認識。\n\n回站前挑一兩條巷子走走即可，不必每間店都停。通道狹窄，拍照時留出空間，也讓店家的出入與送貨順暢。",
+      "note": "",
+      "official": "https://kichijoji.me/column/guide/street-info0409/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.703716,
+        "lng": 139.578995,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/harmonica.webp",
+        "alt": "口琴橫丁的日系水彩插圖"
+      },
+      "recommendation": "慢走橫丁窄巷，看看當天開門的小店。"
+    },
+    {
+      "id": "kichijoji--temple",
+      "order": 8,
+      "name": "井之頭弁財天",
+      "address": "東京都三鷹市井の頭4丁目1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "池畔朱色殿堂，為綠意添一個停頓",
+      "descriptionParagraphs": [
+        "井之頭弁財天位在池畔，朱色建築與水面、樹木相互映照。和周邊公園一起看，既有參拜的安靜，也保留日常散步的親近感。",
+        "可在沿池行走時順路參拜，留意寺院與公園的開放時間不同。若只是想欣賞景色，從池邊看建築與倒影也很有味道。"
+      ],
+      "description": "井之頭弁財天位在池畔，朱色建築與水面、樹木相互映照。和周邊公園一起看，既有參拜的安靜，也保留日常散步的親近感。\n\n可在沿池行走時順路參拜，留意寺院與公園的開放時間不同。若只是想欣賞景色，從池邊看建築與倒影也很有味道。",
+      "note": "",
+      "official": "https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/sisetu",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.700344,
+        "lng": 139.577789,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%89%E9%B7%B9%E5%B8%82%E4%BA%95%E3%81%AE%E9%A0%AD4%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/temple.webp",
+        "alt": "井之頭弁財天的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kichijoji--park",
+      "order": 9,
+      "name": "井之頭恩賜公園",
+      "address": "東京都武蔵野市御殿山1-18-31",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "池水與樹影，離車站只有一段散步",
+      "descriptionParagraphs": [
+        "井之頭恩賜公園以池水、樹林與步道形成吉祥寺的綠色日常。沿岸的長椅和季節植物，讓人很容易找到一個願意多停幾分鐘的位置。",
+        "不必走遍園區，挑一段喜歡的池畔路線就能感受氣氛。春季賞櫻人潮較多，換個時段或沿較安靜的步道走也很好。"
+      ],
+      "description": "井之頭恩賜公園以池水、樹林與步道形成吉祥寺的綠色日常。沿岸的長椅和季節植物，讓人很容易找到一個願意多停幾分鐘的位置。\n\n不必走遍園區，挑一段喜歡的池畔路線就能感受氣氛。春季賞櫻人潮較多，換個時段或沿較安靜的步道走也很好。",
+      "note": "",
+      "official": "https://www.tokyo-park.or.jp/park/inokashira/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HOVPfbroWBg",
+          "title": "Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel",
+          "url": "https://www.youtube.com/watch?v=HOVPfbroWBg",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "FebbZm7bZCY",
+          "title": "The best of KICHIJOJI, Tokyo🇯🇵｜Must-Visit Cafes, Inokashira Park & Local Zoo 2026🌿",
+          "url": "https://www.youtube.com/watch?v=FebbZm7bZCY",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.701012,
+        "lng": 139.574203,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%BE%A1%E6%AE%BF%E5%B1%B11-18-31",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/park.webp",
+        "alt": "井之頭恩賜公園的日系水彩插圖"
+      },
+      "recommendation": "挑一段池畔步道，不必環繞整座公園。"
+    },
+    {
+      "id": "kichijoji--zoo",
+      "order": 10,
+      "name": "井之頭自然文化園",
+      "address": "東京都武蔵野市御殿山1-17-6",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在樹蔭裡，觀察動物的日常",
+      "descriptionParagraphs": [
+        "井之頭自然文化園由動物園與水生物園組成，在綠樹間介紹動物、生態與雕刻。喜歡觀察生物的人，可把這裡選為吉祥寺散步的主要停留。",
+        "若決定入園，就減少美術館或逛店時間，慢慢看比匆匆走完更有趣。各區展示與活動可能調整，依現場動線選擇即可。"
+      ],
+      "description": "井之頭自然文化園由動物園與水生物園組成，在綠樹間介紹動物、生態與雕刻。喜歡觀察生物的人，可把這裡選為吉祥寺散步的主要停留。\n\n若決定入園，就減少美術館或逛店時間，慢慢看比匆匆走完更有趣。各區展示與活動可能調整，依現場動線選擇即可。",
+      "note": "",
+      "official": "https://www.tokyo-zoo.net/inokashira/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.700573,
+        "lng": 139.573074,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%BE%A1%E6%AE%BF%E5%B1%B11-17-6",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/zoo.webp",
+        "alt": "井之頭自然文化園的日系水彩插圖"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "kichijoji-slow-walk",
+      "name": "池畔、選物與一杯咖啡",
+      "ids": [
+        "kichijoji--park",
+        "kichijoji--lightup",
+        "kichijoji--nakamichi"
+      ],
+      "start": {
+        "name": "吉祥寺站公園口",
+        "address": "東京都武蔵野市吉祥寺南町1丁目 吉祥寺駅",
+        "access": "JR 中央線、總武線或京王井之頭線"
+      },
+      "end": {
+        "name": "吉祥寺站北口",
+        "address": "東京都武蔵野市吉祥寺南町1丁目 吉祥寺駅",
+        "access": "由中道通或口琴橫丁步行回站"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "先沿池畔放慢腳步，再走進中道通與咖啡店，收集日常的小發現。",
+      "note": "自然文化園與美術館適合作為替換主題，不必同時入館；名店排隊與划船時間另計。公園與街區間有些坡道。",
+      "stopNotes": {
+        "kichijoji--park": "挑一段池畔步道，不必環繞整座公園。",
+        "kichijoji--lightup": "以一杯咖啡作為午後休息。",
+        "kichijoji--nakamichi": "沿中道通回站，隨興走進喜歡的小店。"
+      },
+      "art": "/art/walks/kichijoji/park.webp"
+    },
+    {
+      "id": "kichijoji-lanes-and-gallery",
+      "name": "橫丁小展覽與老喫茶",
+      "ids": [
+        "kichijoji--harmonica",
+        "kichijoji--museum",
+        "kichijoji--bunko"
+      ],
+      "start": {
+        "name": "吉祥寺站北口",
+        "address": "東京都武蔵野市吉祥寺南町1丁目 吉祥寺駅",
+        "access": "JR 中央線、總武線或京王井之頭線；由車站北口出發"
+      },
+      "end": {
+        "name": "吉祥寺站北口",
+        "address": "東京都武蔵野市吉祥寺南町1丁目 吉祥寺駅",
+        "access": "由中道通或口琴橫丁步行回站"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "在吉祥寺站北側的小巷、美術館與喫茶店之間，留一個自在的午後。",
+      "note": "吉祥寺美術館每月最後一個週三休館，假日順延，另有換展休館；武藏野文庫週一休店，遇假日改週二。橫丁各店營業時間不同，候位另計。",
+      "stopNotes": {
+        "kichijoji--harmonica": "慢走橫丁窄巷，看看當天開門的小店。",
+        "kichijoji--museum": "選一場當期展覽或一間常設展室細看。",
+        "kichijoji--bunko": "在老喫茶喝杯咖啡，想吃咖哩時以用餐取代部分逛街。"
+      },
+      "art": "/art/walks/kichijoji/museum.webp"
+    }
+  ],
+  "defaultSelection": "kichijoji-slow-walk"
+}

@@ -1,0 +1,537 @@
+{
+  "geocoding": [
+    {
+      "id": "kyoto-higashiyama--itosousou",
+      "query": "京都府京都市東山区清水3丁目315",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B8%85%E6%B0%B43%E4%B8%81%E7%9B%AE315",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.780838,
+              34.996742
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市東山区清水三丁目３１５番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-higashiyama--yojiya",
+      "query": "京都府京都市東山区清水2丁目211-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B8%85%E6%B0%B42%E4%B8%81%E7%9B%AE211-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.77977,
+              34.996288
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市東山区清水二丁目２１１番地"
+          }
+        }
+      ]
+    }
+  ],
+  "checkedAt": "2026-10-24",
+  "method": "官方及地方觀光資訊查證後，以繁體中文原創改寫；照片僅作私下插圖參考，公開圖為獨立生成水彩。",
+  "places": [
+    {
+      "id": "kyoto-higashiyama--kiyomizu",
+      "official": "https://www.kiyomizudera.or.jp/",
+      "contentSources": [
+        "https://www.kiyomizudera.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.9948315421,
+        "lng": 135.7840370079,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/336641107",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kiyomizudera.or.jp/",
+        "imageUrl": "https://www.kiyomizudera.or.jp/assets/img/top/content_season_sp.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/kiyomizu.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kiyomizudera.or.jp/",
+        "imageUrl": "https://www.kiyomizudera.or.jp/assets/img/top/content_season_sp.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/kiyomizu.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--shichimi",
+      "official": "https://www.shichimiya.co.jp/store",
+      "contentSources": [
+        "https://www.shichimiya.co.jp/store"
+      ],
+      "coordinate": {
+        "lat": 34.9962415,
+        "lng": 135.7807649,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/4268229114",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.shichimiya.co.jp/store",
+        "imageUrl": "https://www.shichimiya.co.jp/wp-content/themes/shichimiya/img/store-photo-001.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/shichimi.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.shichimiya.co.jp/store",
+        "imageUrl": "https://www.shichimiya.co.jp/wp-content/themes/shichimiya/img/store-photo-001.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/shichimi.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--itosousou",
+      "official": "https://www.sousou.co.jp/pages/itoken_open",
+      "contentSources": [
+        "https://www.sousou.co.jp/pages/itoken_open"
+      ],
+      "coordinate": {
+        "lat": 34.996742,
+        "lng": 135.780838,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B8%85%E6%B0%B43%E4%B8%81%E7%9B%AE315",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kyoto-itoken.co.jp/okashinohitorigoto/okashinohitorigoto-2519/",
+        "imageUrl": "https://www.kyoto-itoken.co.jp/corp/wp-content/uploads/2021/09/01-1.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/itosousou.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kyoto-itoken.co.jp/okashinohitorigoto/okashinohitorigoto-2519/",
+        "imageUrl": "https://www.kyoto-itoken.co.jp/corp/wp-content/uploads/2021/09/01-1.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/itosousou.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--nittodo",
+      "official": "https://nittodo.jp/",
+      "contentSources": [
+        "https://nittodo.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.9983581,
+        "lng": 135.7792193,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/14104469641",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://nittodo.jp/",
+        "imageUrl": "https://nittodo.jp/wordpress/wp-content/themes/nittodo_v3/assets/images/concept_visual.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/nittodo.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://nittodo.jp/",
+        "imageUrl": "https://nittodo.jp/wordpress/wp-content/themes/nittodo_v3/assets/images/concept_visual.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/nittodo.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--koshindo",
+      "official": "https://yasakakousinndou.sakura.ne.jp/main3.html",
+      "contentSources": [
+        "https://yasakakousinndou.sakura.ne.jp/main3.html"
+      ],
+      "coordinate": {
+        "lat": 34.9983718462,
+        "lng": 135.7787656231,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/1316622873",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.tw-kyoto.yumeyakata.com/gojo-guide/kanko/koshindo.html",
+        "imageUrl": "https://www.tw-kyoto.yumeyakata.com/common/img/gojo-guide/koshindo_1.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/koshindo.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.tw-kyoto.yumeyakata.com/gojo-guide/kanko/koshindo.html",
+        "imageUrl": "https://www.tw-kyoto.yumeyakata.com/common/img/gojo-guide/koshindo_1.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/koshindo.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--yasui",
+      "official": "http://www.yasui-konpiragu.or.jp/",
+      "contentSources": [
+        "http://www.yasui-konpiragu.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.9998857937,
+        "lng": 135.7761619625,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/1554873121",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.yasui-konpiragu.com/",
+        "imageUrl": "https://static.wixstatic.com/media/edcccc_cd83dccc501a4d1f8cf4f25fe9e487f7~mv2.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/yasui.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.yasui-konpiragu.com/",
+        "imageUrl": "https://static.wixstatic.com/media/edcccc_cd83dccc501a4d1f8cf4f25fe9e487f7~mv2.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/yasui.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--starbucks",
+      "official": "https://store.starbucks.co.jp/detail-1476/",
+      "contentSources": [
+        "https://store.starbucks.co.jp/detail-1476/"
+      ],
+      "coordinate": {
+        "lat": 34.9982841,
+        "lng": 135.7808052,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/10844279757",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://store.starbucks.co.jp/detail-1476/",
+        "imageUrl": "https://d3vgbguy0yofad.cloudfront.net/store/images/img-concept-store-detail-1476-01.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/starbucks.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://store.starbucks.co.jp/detail-1476/",
+        "imageUrl": "https://d3vgbguy0yofad.cloudfront.net/store/images/img-concept-store-detail-1476-01.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/starbucks.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--k36",
+      "official": "https://stillfoods.com/k36/",
+      "contentSources": [
+        "https://stillfoods.com/k36/"
+      ],
+      "coordinate": {
+        "lat": 34.9976432,
+        "lng": 135.7795867,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/12729911261",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.princehotels.com/seiryu-kiyomizu/restaurant/k36-the-bar-rooftoppartner-restaurant/",
+        "imageUrl": "https://www.princehotels.com/seiryu-kiyomizu/wp-content/uploads/sites/66/2025/03/K36-Rooftop_night-1024x683.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/k36.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.princehotels.com/seiryu-kiyomizu/restaurant/k36-the-bar-rooftoppartner-restaurant/",
+        "imageUrl": "https://www.princehotels.com/seiryu-kiyomizu/wp-content/uploads/sites/66/2025/03/K36-Rooftop_night-1024x683.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/k36.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--hokanji",
+      "official": "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248",
+      "contentSources": [
+        "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248"
+      ],
+      "coordinate": {
+        "lat": 34.9985260875,
+        "lng": 135.779396025,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/371717423",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://ja.kyoto.travel/kiyomori/detail/080.html",
+        "imageUrl": "https://ja.kyoto.travel/kiyomori/thumbnail/080.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/hokanji.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://ja.kyoto.travel/kiyomori/detail/080.html",
+        "imageUrl": "https://ja.kyoto.travel/kiyomori/thumbnail/080.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/hokanji.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--kodaiji",
+      "official": "https://www.kodaiji.com/",
+      "contentSources": [
+        "https://www.kodaiji.com/"
+      ],
+      "coordinate": {
+        "lat": 35.0003866038,
+        "lng": 135.7810505115,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/759391880",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kodaiji.com/",
+        "imageUrl": "https://www.kodaiji.com/top_slide/chikurin_image.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/kodaiji.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kodaiji.com/",
+        "imageUrl": "https://www.kodaiji.com/top_slide/chikurin_image.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/kodaiji.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--entokuin",
+      "official": "https://www.kodaiji.com/entoku-in/",
+      "contentSources": [
+        "https://www.kodaiji.com/entoku-in/"
+      ],
+      "coordinate": {
+        "lat": 35.0007565615,
+        "lng": 135.7795295846,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/371728884",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kodaiji.com/entoku-in/",
+        "imageUrl": "https://www.kodaiji.com/entoku-in/top_image/image001.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/entokuin.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kodaiji.com/entoku-in/",
+        "imageUrl": "https://www.kodaiji.com/entoku-in/top_image/image001.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/entokuin.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--asahido",
+      "official": "https://www.asahido.co.jp/",
+      "contentSources": [
+        "https://www.asahido.co.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.9954090833,
+        "lng": 135.7824790667,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/337601335",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.asahido.co.jp/shops/main-store/",
+        "imageUrl": "https://www.asahido.co.jp/wp-content/uploads/2018/06/m-store1.png",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/asahido.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.asahido.co.jp/shops/main-store/",
+        "imageUrl": "https://www.asahido.co.jp/wp-content/uploads/2018/06/m-store1.png",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/asahido.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--ninenzaka",
+      "official": "https://plus.kyoto.travel/entry/higashiyamaeki",
+      "contentSources": [
+        "https://plus.kyoto.travel/entry/higashiyamaeki"
+      ],
+      "coordinate": {
+        "lat": 34.99810274,
+        "lng": 135.78083878,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/30882783",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://plus.kyoto.travel/entry/higashiyamaeki",
+        "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kyokanko/20231030/20231030191524.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/ninenzaka.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://plus.kyoto.travel/entry/higashiyamaeki",
+        "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kyokanko/20231030/20231030191524.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/ninenzaka.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--sannenzaka",
+      "official": "https://plus.kyoto.travel/entry/higashiyamaeki",
+      "contentSources": [
+        "https://plus.kyoto.travel/entry/higashiyamaeki"
+      ],
+      "coordinate": {
+        "lat": 34.9963458,
+        "lng": 135.7808793,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/179116810",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kyoto-manjiro.com/sightseeing.html",
+        "imageUrl": "https://www.kyoto-manjiro.com/img/sightseeing/photo_guide_sannneizaka.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/sannenzaka.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kyoto-manjiro.com/sightseeing.html",
+        "imageUrl": "https://www.kyoto-manjiro.com/img/sightseeing/photo_guide_sannneizaka.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/sannenzaka.jpg"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--yojiya",
+      "official": "https://www.yojiya.co.jp/archives/shop/195",
+      "contentSources": [
+        "https://www.yojiya.co.jp/archives/shop/195"
+      ],
+      "coordinate": {
+        "lat": 34.996288,
+        "lng": 135.77977,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B8%85%E6%B0%B42%E4%B8%81%E7%9B%AE211-1",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.yojiya.co.jp/archives/shop/195",
+        "imageUrl": "https://www.yojiya.co.jp/yojiya/wp-content/uploads/2026/05/清水.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/yojiya.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.yojiya.co.jp/archives/shop/195",
+        "imageUrl": "https://www.yojiya.co.jp/yojiya/wp-content/uploads/2026/05/清水.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-higashiyama/yojiya.jpg"
+      }
+    }
+  ],
+  "walking": {
+    "provider": "OSRM OpenStreetMap.de routed-foot",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/135.7840370079,34.9948315421;135.7807649,34.9962415;135.780838,34.996742;135.7792193,34.9983581?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "rawResponse": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 31.31,
+              "summary": "",
+              "duration": 297.9,
+              "distance": 372.1
+            },
+            {
+              "steps": [],
+              "weight": 5.42,
+              "summary": "",
+              "duration": 48.3,
+              "distance": 60.5
+            },
+            {
+              "steps": [],
+              "weight": 25.61,
+              "summary": "",
+              "duration": 242.1,
+              "distance": 302.7
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 62.34,
+          "duration": 588.3,
+          "distance": 735.3
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "YovagWWL2oEtAAAATwAAAAwAAAAPAAAAJLifQF2VCkFmRbg_EN3tPycAAABGAAAADAAAAA8AAABxAgAAaOYXCJr6FQJl5hcIkPoVAgIAzxEAAAAA",
+          "location": [
+            135.78404,
+            34.994842
+          ],
+          "name": "",
+          "distance": 1.142724085
+        },
+        {
+          "hint": "o4kTgKeJE4CPAAAAEQAAADUBAAAfAAAAi2d8QTmg6D_3CA9CQH1xQH4AAAAPAAAAHgEAAB4AAABxAgAA0NkXCAAAFgKd2RcIEgAWAgQAvwwAAAAA",
+          "location": [
+            135.780816,
+            34.996224
+          ],
+          "name": "産寧坂",
+          "distance": 5.067187797
+        },
+        {
+          "hint": "ookTgKkxKYBaAAAA6AAAAAAAAAAAAAAAXtgPQS2LuUEAAAAAAAAAAEcAAAC6AAAAAAAAAAAAAABxAgAAntoXCAICFgLm2RcIBgIWAgAAHwAAAAAA",
+          "location": [
+            135.781022,
+            34.996738
+          ],
+          "name": "産寧坂",
+          "distance": 16.80798944
+        },
+        {
+          "hint": "-HxRg9dI4oQVAAAAWQAAAAAAAAAAAAAAnRUmQCseKkEAAAAAAAAAABQAAABWAAAAAAAAAAAAAABxAgAAnNMXCIUIFgKT0xcIVggWAgAAfxEAAAAA",
+          "location": [
+            135.779228,
+            34.998405
+          ],
+          "name": "",
+          "distance": 5.278556316
+        }
+      ]
+    },
+    "visitMinutes": [
+      120,
+      200
+    ],
+    "visitEstimateNote": "編輯估算四處參訪、逛店與喫茶停留，未含候位及車站接駁；步行時間採道路網路回傳值。"
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "geocoding": [
+    {
+      "id": "ashikaga--taihei",
+      "query": "栃木県足利市伊勢町3丁目6-4",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E4%BC%8A%E5%8B%A2%E7%94%BA3%E4%B8%81%E7%9B%AE6-4",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.454346,
+              36.334896
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "栃木県足利市伊勢町三丁目６番"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ashikaga--yugaku",
+      "query": "栃木県足利市通1丁目2673",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A1%E4%B8%81%E7%9B%AE2673",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.453186,
+              36.33427
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "栃木県足利市通一丁目２６７３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ashikaga--orimono",
+      "query": "栃木県足利市通3丁目2589",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A3%E4%B8%81%E7%9B%AE2589",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.446884,
+              36.336712
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "栃木県足利市通三丁目２５８９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ashikaga--butsugai",
+      "query": "栃木県足利市通6丁目3165-2",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A6%E4%B8%81%E7%9B%AE3165-2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.441559,
+              36.33873
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "栃木県足利市通六丁目３１６５番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ashikaga--orihime",
+      "query": "栃木県足利市西宮町3889",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E8%A5%BF%E5%AE%AE%E7%94%BA3889",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.442505,
+              36.345867
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "栃木県足利市西宮町"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ashikaga--souun",
+      "query": "栃木県足利市緑町2丁目3768",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E7%B7%91%E7%94%BA2%E4%B8%81%E7%9B%AE3768",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.433853,
+              36.335556
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "栃木県足利市緑町二丁目３７６８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ashikaga--hachikura",
+      "query": "栃木県足利市大門通2381-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E5%A4%A7%E9%96%80%E9%80%9A2381-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.451782,
+              36.335987
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "栃木県足利市大門通２３８１番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ashikaga--usagiya",
+      "query": "栃木県足利市大門通2380-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E5%A4%A7%E9%96%80%E9%80%9A2380-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.451782,
+              36.335987
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "栃木県足利市大門通２３８０番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ashikaga--artspace",
+      "query": "栃木県足利市通2丁目2658",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A2%E4%B8%81%E7%9B%AE2658",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.451462,
+              36.33503
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "栃木県足利市通二丁目２６５８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ashikaga--heki",
+      "query": "栃木県足利市巴町2547",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E5%B7%B4%E7%94%BA2547",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.445694,
+              36.337811
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "栃木県足利市巴町２５４７番地"
+          }
+        }
+      ]
+    }
+  ],
+  "checkedAt": "2026-10-24",
+  "method": "官方及地方觀光資訊查證後，以繁體中文原創改寫；照片僅作私下插圖參考，公開圖為獨立生成水彩。",
+  "places": [
+    {
+      "id": "ashikaga--gakko",
+      "official": "https://www.ashikaga-kankou.jp/special/ashikagagakko",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/special/ashikagagakko"
+      ],
+      "coordinate": {
+        "lat": 36.3359544389,
+        "lng": 139.4536913167,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/256397654",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "referencePath": "design/photo-references/expansion/ashikaga/gakko.jpg"
+      },
+      "photoReference": {
+        "referencePath": "design/photo-references/expansion/ashikaga/gakko.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--bannaji",
+      "official": "https://www.ashikaga-kankou.jp/spot/bannaji",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/spot/bannaji"
+      ],
+      "coordinate": {
+        "lat": 36.3374074,
+        "lng": 139.452088,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/1112896625",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "referencePath": "design/photo-references/expansion/ashikaga/bannaji.jpg"
+      },
+      "photoReference": {
+        "referencePath": "design/photo-references/expansion/ashikaga/bannaji.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--koundo",
+      "official": "https://koundohonten.jp/about-us",
+      "contentSources": [
+        "https://koundohonten.jp/about-us"
+      ],
+      "coordinate": {
+        "lat": 36.3370077,
+        "lng": 139.4452863,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/8553182821",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "referencePath": "design/photo-references/expansion/ashikaga/koundo.jpg"
+      },
+      "photoReference": {
+        "referencePath": "design/photo-references/expansion/ashikaga/koundo.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--museum",
+      "official": "https://www.watv.ne.jp/ashi-bi/",
+      "contentSources": [
+        "https://www.watv.ne.jp/ashi-bi/"
+      ],
+      "coordinate": {
+        "lat": 36.33406215,
+        "lng": 139.4503460125,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/509383229",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "referencePath": "design/photo-references/expansion/ashikaga/museum.jpg"
+      },
+      "photoReference": {
+        "referencePath": "design/photo-references/expansion/ashikaga/museum.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--taihei",
+      "official": "https://www.ashikaga-kankou.jp/spot/taiheikikan",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/spot/taiheikikan"
+      ],
+      "coordinate": {
+        "lat": 36.334896,
+        "lng": 139.454346,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E4%BC%8A%E5%8B%A2%E7%94%BA3%E4%B8%81%E7%9B%AE6-4",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/taiheikikan",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/163_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/taihei.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/taiheikikan",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/163_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/taihei.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--yugaku",
+      "official": "https://www.ashikaga-kankou.jp/spot/machinaka_yuugakukan",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/spot/machinaka_yuugakukan"
+      ],
+      "coordinate": {
+        "lat": 36.33427,
+        "lng": 139.453186,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A1%E4%B8%81%E7%9B%AE2673",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/machinaka_yuugakukan",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/164_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/yugaku.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/machinaka_yuugakukan",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/164_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/yugaku.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--orimono",
+      "official": "https://www.ashikaga-kankou.jp/spot/orimonodensyokan",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/spot/orimonodensyokan"
+      ],
+      "coordinate": {
+        "lat": 36.336712,
+        "lng": 139.446884,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A3%E4%B8%81%E7%9B%AE2589",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/orimonodensyokan",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/174_ext_09_0.png",
+        "referencePath": "design/photo-references/expansion/ashikaga/orimono-alt.png"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/orimonodensyokan",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/174_ext_09_0.png",
+        "referencePath": "design/photo-references/expansion/ashikaga/orimono-alt.png"
+      }
+    },
+    {
+      "id": "ashikaga--butsugai",
+      "official": "https://www.ashikaga-kankou.jp/spot/butsugaiken",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/spot/butsugaiken"
+      ],
+      "coordinate": {
+        "lat": 36.33873,
+        "lng": 139.441559,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A6%E4%B8%81%E7%9B%AE3165-2",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/butsugaiken",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/142_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/butsugai.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/butsugaiken",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/142_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/butsugai.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--orihime",
+      "official": "https://www.ashikaga-kankou.jp/spot/orihime_jinjya",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/spot/orihime_jinjya"
+      ],
+      "coordinate": {
+        "lat": 36.33926501,
+        "lng": 139.44494519,
+        "provider": "osm",
+        "label": "OpenStreetMap 神社建築代表點",
+        "url": "https://www.openstreetmap.org/way/429990200",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "神社建築代表點，需沿參道登階抵達。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/orihime_jinjya",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/144_ext_08_0.png",
+        "referencePath": "design/photo-references/expansion/ashikaga/orihime.png"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/orihime_jinjya",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/144_ext_08_0.png",
+        "referencePath": "design/photo-references/expansion/ashikaga/orihime.png"
+      }
+    },
+    {
+      "id": "ashikaga--bridge",
+      "official": "https://www.ashikaga-kankou.jp/spot/watarasebashi",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/spot/watarasebashi"
+      ],
+      "coordinate": {
+        "lat": 36.33330278,
+        "lng": 139.44402464,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/828119225",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/watarasebashi",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/175_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/bridge.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/watarasebashi",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/175_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/bridge.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--souun",
+      "official": "https://www.city.ashikaga.tochigi.jp/facility/000100/000509/p000881.html",
+      "contentSources": [
+        "https://www.city.ashikaga.tochigi.jp/facility/000100/000509/p000881.html"
+      ],
+      "coordinate": {
+        "lat": 36.335556,
+        "lng": 139.433853,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E7%B7%91%E7%94%BA2%E4%B8%81%E7%9B%AE3768",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.ashikaga.tochigi.jp/facility/000100/000509/p000881.html",
+        "imageUrl": "https://www.city.ashikaga.tochigi.jp/manage/contents/upload/633fc8dbbb940.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/souun.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.city.ashikaga.tochigi.jp/facility/000100/000509/p000881.html",
+        "imageUrl": "https://www.city.ashikaga.tochigi.jp/manage/contents/upload/633fc8dbbb940.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/souun.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--hachikura",
+      "official": "https://www.ashikaga-kankou.jp/ashikaga-gosyuinl/detail/Recommendedcafe.html",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/ashikaga-gosyuinl/detail/Recommendedcafe.html"
+      ],
+      "coordinate": {
+        "lat": 36.335987,
+        "lng": 139.451782,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E5%A4%A7%E9%96%80%E9%80%9A2381-1",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://ashikaga-midtown.com/member/hachikura/",
+        "imageUrl": "https://ashikaga-midtown.com/wp-content/uploads/2020/02/main_hachikura.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/hachikura-main.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://ashikaga-midtown.com/member/hachikura/",
+        "imageUrl": "https://ashikaga-midtown.com/wp-content/uploads/2020/02/main_hachikura.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/hachikura-main.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--usagiya",
+      "official": "https://www.ashikaga-kankou.jp/buy/usagiya",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/buy/usagiya"
+      ],
+      "coordinate": {
+        "lat": 36.335987,
+        "lng": 139.451782,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E5%A4%A7%E9%96%80%E9%80%9A2380-1",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/buy/usagiya",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/314_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/usagiya.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/buy/usagiya",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/314_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/usagiya.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--artspace",
+      "official": "https://www.ashikaga-kankou.jp/spot/artspaceandcafe",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/spot/artspaceandcafe"
+      ],
+      "coordinate": {
+        "lat": 36.33503,
+        "lng": 139.451462,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A2%E4%B8%81%E7%9B%AE2658",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/artspaceandcafe",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/1358_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/artspace.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/artspaceandcafe",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/1358_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/artspace.jpg"
+      }
+    },
+    {
+      "id": "ashikaga--heki",
+      "official": "https://www.ashikaga-kankou.jp/spot/g_heki",
+      "contentSources": [
+        "https://www.ashikaga-kankou.jp/spot/g_heki"
+      ],
+      "coordinate": {
+        "lat": 36.337811,
+        "lng": 139.445694,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E5%B7%B4%E7%94%BA2547",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/g_heki",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/173_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/heki.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ashikaga-kankou.jp/spot/g_heki",
+        "imageUrl": "https://www.ashikaga-kankou.jp/files/topics/173_ext_08_0.jpg",
+        "referencePath": "design/photo-references/expansion/ashikaga/heki.jpg"
+      }
+    }
+  ],
+  "walking": {
+    "provider": "OSRM OpenStreetMap.de routed-foot",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/139.4536913167,36.3359544389;139.452088,36.3374074;139.4452863,36.3370077;139.4503460125,36.33406215?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "rawResponse": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 52.1,
+              "summary": "",
+              "duration": 443.2,
+              "distance": 551.7
+            },
+            {
+              "steps": [],
+              "weight": 76.95,
+              "summary": "",
+              "duration": 620.4,
+              "distance": 775.4
+            },
+            {
+              "steps": [],
+              "weight": 68.48,
+              "summary": "",
+              "duration": 549.7,
+              "distance": 684.7
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 197.53,
+          "duration": 1613.3,
+          "distance": 2011.8
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "Ot03gW1S04sAAAAAUgAAAAAAAAAAAAAAAAAAAAiyAkEAAAAAAAAAAAAAAABBAAAAAAAAAAAAAABxAgAA7uZPCP1wKgL75E8IUnEqAgAA3wYAAAAA",
+          "location": [
+            139.45419,
+            36.335869
+          ],
+          "name": "",
+          "distance": 45.78834175
+        },
+        {
+          "hint": "kkYjgnGAYIp3AAAAcgAAAAAAAAAAAAAA2R5lQdmpWUEAAAAAAAAAAHIAAABtAAAAAAAAAAAAAABxAgAAtd5PCOB2KgK43k8I_3YqAgAALxEAAAAA",
+          "location": [
+            139.452085,
+            36.337376
+          ],
+          "name": "",
+          "distance": 3.45044735
+        },
+        {
+          "hint": "c8UigpfFIoLiAAAAugIAAAAAAAAAAAAAXWm1QfF6i0IAAAAAAAAAALUAAAAuAgAAAAAAAAAAAABxAgAAVMNPCLh1KgImxE8IcHUqAgAAfwEAAAAA",
+          "location": [
+            139.445076,
+            36.33708
+          ],
+          "name": "",
+          "distance": 20.47913342
+        },
+        {
+          "hint": "cJU9hrVZRIyyAAAANAEAAAAAAAAAAAAATiuPQYRi9UEAAAAAAAAAAI8AAAD2AAAAAAAAAAAAAABxAgAApddPCGVpKgLq108I7mkqAgAAPxIAAAAA",
+          "location": [
+            139.450277,
+            36.333925
+          ],
+          "name": "",
+          "distance": 16.41625684
+        }
+      ]
+    },
+    "visitMinutes": [
+      100,
+      170
+    ],
+    "visitEstimateNote": "編輯估算四處參訪、逛店與喫茶停留，未含候位及車站接駁；步行時間採道路網路回傳值。"
+  }
+}

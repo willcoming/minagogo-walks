@@ -1,0 +1,509 @@
+{
+  "updatedAt": "2026-10-24",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kasama--inari",
+      "order": 1,
+      "name": "笠間稻荷神社",
+      "address": "茨城県笠間市笠間1",
+      "group": "sights",
+      "categoryLabel": "門前神社",
+      "caption": "穿過門前通，走進木雕與綠蔭。",
+      "descriptionParagraphs": [
+        "笠間稻荷神社供奉宇迦之御魂神，與五穀、產業的信仰相連。參道、社殿與門前商店連在一起，是認識笠間市街很自然的起點。",
+        "先沿境內開放動線參拜，留意屋簷與木雕，再回到門前街看看老舖。神社一帶平日也有生活節奏，適合把參拜與喫茶接成自己的散步。"
+      ],
+      "description": "笠間稻荷神社供奉宇迦之御魂神，與五穀、產業的信仰相連。參道、社殿與門前商店連在一起，是認識笠間市街很自然的起點。\n\n先沿境內開放動線參拜，留意屋簷與木雕，再回到門前街看看老舖。神社一帶平日也有生活節奏，適合把參拜與喫茶接成自己的散步。",
+      "note": "",
+      "official": "https://www.kasama.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.3860502,
+        "lng": 140.2538855,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/759269732",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/inari.webp",
+        "alt": "笠間稻荷神社，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--idutsuya",
+      "order": 2,
+      "name": "かさま歷史交流館 井筒屋",
+      "address": "茨城県笠間市笠間987",
+      "group": "sights",
+      "categoryLabel": "老旅館與歷史",
+      "caption": "在三層木造老旅館裡，讀一點笠間。",
+      "descriptionParagraphs": [
+        "井筒屋由舊旅館修復而成，木造三層的建築本身就值得細看。今日結合觀光資訊、歷史展示與休息機能，讓旅客在街區裡找到一處停留。",
+        "可以先認識門前街與佐白山一帶的背景，再接著逛附近商店。館內也能體會笠間燒與喫茶的關係，歷史並沒有停留在櫥窗裡。"
+      ],
+      "description": "井筒屋由舊旅館修復而成，木造三層的建築本身就值得細看。今日結合觀光資訊、歷史展示與休息機能，讓旅客在街區裡找到一處停留。\n\n可以先認識門前街與佐白山一帶的背景，再接著逛附近商店。館內也能體會笠間燒與喫茶的關係，歷史並沒有停留在櫥窗裡。",
+      "note": "原則每週一休館，遇假日順延；另有年末年始休館。",
+      "official": "https://www.city.kasama.lg.jp/page/page009195.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.384529,
+        "lng": 140.256644,
+        "provider": "osm",
+        "label": "OpenStreetMap 井筒屋門前單車站代表點",
+        "url": "https://www.openstreetmap.org/node/11434836754",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "採有「かさま歴史交流館井筒屋」名稱的門前單車站位置，表示設施前方，非建築入口。官方門牌987的GSI結果過粗，已排除。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/idutsuya.webp",
+        "alt": "かさま歷史交流館 井筒屋，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--nichido",
+      "order": 3,
+      "name": "笠間日動美術館",
+      "address": "茨城県笠間市笠間978-4",
+      "group": "sights",
+      "categoryLabel": "繪畫與雕塑庭園",
+      "caption": "讓一段門前散步，接上繪畫與庭園。",
+      "descriptionParagraphs": [
+        "笠間日動美術館由日動畫廊創辦人長谷川仁夫婦在故鄉創設，收藏日本與海外近現代繪畫。多棟展示空間與戶外雕塑，讓看展有了不同的步行節奏。",
+        "可依當期展覽分配停留時間，再看看館方收藏的畫家調色板。這站在門前街東側，適合與井筒屋、山麓寺院一起安排。"
+      ],
+      "description": "笠間日動美術館由日動畫廊創辦人長谷川仁夫婦在故鄉創設，收藏日本與海外近現代繪畫。多棟展示空間與戶外雕塑，讓看展有了不同的步行節奏。\n\n可依當期展覽分配停留時間，再看看館方收藏的畫家調色板。這站在門前街東側，適合與井筒屋、山麓寺院一起安排。",
+      "note": "每週一及年末年始休館；遇假日的休館調整依館方安排。",
+      "official": "https://www.nichido-museum.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.3845417,
+        "lng": 140.2583554,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/741579283",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/nichido.webp",
+        "alt": "笠間日動美術館，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--lemidi",
+      "order": 4,
+      "name": "LE MIDI",
+      "address": "茨城県笠間市笠間1357-2",
+      "group": "shops",
+      "categoryLabel": "器物與生活選物",
+      "caption": "在藍色窗框旁，挑一只日常的杯。",
+      "descriptionParagraphs": [
+        "LE MIDI結合笠間燒器物、衣著與生活雜貨，讓逛店的目光在材質與色彩之間移動。白牆與藍色窗框，也使這間小店容易成為門前散步的記憶。",
+        "可以先慢慢看器物，再依店內空間安排喝咖啡。它靠近稻荷門前，適合放在參拜與美術館之間，不必把採買排得太趕。"
+      ],
+      "description": "LE MIDI結合笠間燒器物、衣著與生活雜貨，讓逛店的目光在材質與色彩之間移動。白牆與藍色窗框，也使這間小店容易成為門前散步的記憶。\n\n可以先慢慢看器物，再依店內空間安排喝咖啡。它靠近稻荷門前，適合放在參拜與美術館之間，不必把採買排得太趕。",
+      "note": "",
+      "official": "https://www.kasama-shoko.jp/member/id119",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.384113,
+        "lng": 140.255493,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931357-2",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/lemidi.webp",
+        "alt": "LE MIDI，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--shofukuji",
+      "order": 5,
+      "name": "佐白山 正福寺",
+      "address": "茨城県笠間市笠間1056-1",
+      "group": "sights",
+      "categoryLabel": "坂東觀音靈場",
+      "caption": "從街屋轉入山麓，換一段安靜的參拜。",
+      "descriptionParagraphs": [
+        "正福寺是坂東三十三觀音第二十三番札所，供奉千手千眼十一面觀世音菩薩。寺院位在佐白山麓，讓市街散步接上較安靜的宗教空間。",
+        "可與日動美術館安排在同一段向東延伸的行程。參拜時依境內動線慢行，與門前商店街的熱鬧形成不同節奏。"
+      ],
+      "description": "正福寺是坂東三十三觀音第二十三番札所，供奉千手千眼十一面觀世音菩薩。寺院位在佐白山麓，讓市街散步接上較安靜的宗教空間。\n\n可與日動美術館安排在同一段向東延伸的行程。參拜時依境內動線慢行，與門前商店街的熱鬧形成不同節奏。",
+      "note": "",
+      "official": "https://shouhukuji.net/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.3862892,
+        "lng": 140.2595928,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/2473495390",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/shofukuji.webp",
+        "alt": "佐白山 正福寺，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--sasame",
+      "order": 6,
+      "name": "笹目宗兵衛商店",
+      "address": "茨城県笠間市笠間1339",
+      "group": "shops",
+      "categoryLabel": "清酒老舖",
+      "caption": "看看門前老酒舖，讀一點地方釀造。",
+      "descriptionParagraphs": [
+        "笹目宗兵衛商店在笠間稻荷門前延續釀酒事業，代表酒款為松綠，也與神社御神酒相連。店舖讓米、水與地方信仰在同一條街上相遇。",
+        "適合來選一份笠間的酒類伴手禮，再順路看看同一街區的咖啡館與器物店。購物空間與釀酒作業區是不同範圍，依店內引導停留。"
+      ],
+      "description": "笹目宗兵衛商店在笠間稻荷門前延續釀酒事業，代表酒款為松綠，也與神社御神酒相連。店舖讓米、水與地方信仰在同一條街上相遇。\n\n適合來選一份笠間的酒類伴手禮，再順路看看同一街區的咖啡館與器物店。購物空間與釀酒作業區是不同範圍，依店內引導停留。",
+      "note": "釀酒作業區不對一般旅客開放。",
+      "official": "https://www.kasama-shoko.jp/member/id112",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.384468,
+        "lng": 140.254013,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931339",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/sasame.webp",
+        "alt": "笹目宗兵衛商店，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--littlecu",
+      "order": 7,
+      "name": "Little cu.",
+      "address": "茨城県笠間市笠間1184",
+      "group": "shops",
+      "categoryLabel": "陶器與玻璃選物",
+      "caption": "在小小店面裡，慢慢找一件喜歡的器物。",
+      "descriptionParagraphs": [
+        "Little cu.在笠間市街販售陶器、玻璃及生活器物，讓地方工藝不只停在展館裡。大小、釉色與手感不同的作品，適合放慢速度比較。",
+        "這裡可與附近的小咖啡館安排在同一段逛街。若喜歡某種材質，不妨沿著杯、盤與小物的使用方式，想像它回到日常後的樣子。"
+      ],
+      "description": "Little cu.在笠間市街販售陶器、玻璃及生活器物，讓地方工藝不只停在展館裡。大小、釉色與手感不同的作品，適合放慢速度比較。\n\n這裡可與附近的小咖啡館安排在同一段逛街。若喜歡某種材質，不妨沿著杯、盤與小物的使用方式，想像它回到日常後的樣子。",
+      "note": "",
+      "official": "https://www.cigr.co.jp/etowa/kasama/activity/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.38538,
+        "lng": 140.255737,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931184",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/littlecu.webp",
+        "alt": "Little cu.，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--imo",
+      "order": 8,
+      "name": "芋好きの芋好きによる芋好きのためのお店",
+      "address": "茨城県笠間市笠間1337",
+      "group": "food",
+      "categoryLabel": "烤地瓜甜點",
+      "caption": "在粉紅色小店，停一份地瓜點心。",
+      "descriptionParagraphs": [
+        "這間名字長長的地瓜甜點店由鍋屋集團經營，位在笠間稻荷門前通，粉紅色建築是辨認線索。從烤地瓜到地瓜甜點，讓街區的米食、栗子之外，多了一種食材的選擇。",
+        "可以在逛器物與參拜之間選一份簡單點心，再沿門前街慢慢走。店面靠近かさまカフェ與蔬果店，幾種食材也呈現門前生活不同的面貌。"
+      ],
+      "description": "這間名字長長的地瓜甜點店由鍋屋集團經營，位在笠間稻荷門前通，粉紅色建築是辨認線索。從烤地瓜到地瓜甜點，讓街區的米食、栗子之外，多了一種食材的選擇。\n\n可以在逛器物與參拜之間選一份簡單點心，再沿門前街慢慢走。店面靠近かさまカフェ與蔬果店，幾種食材也呈現門前生活不同的面貌。",
+      "note": "",
+      "official": "https://www.nabeya-rice.com/access.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.386284,
+        "lng": 140.251389,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931337",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌1337比對的地址代表點，非店舖入口。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/imo.webp",
+        "alt": "芋好き門前粉紅色店面的水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--futatsugi",
+      "order": 9,
+      "name": "二ツ木",
+      "address": "茨城県笠間市笠間1343",
+      "group": "food",
+      "categoryLabel": "胡桃稻荷壽司",
+      "caption": "把門前的稻荷壽司，帶成簡單的一餐。",
+      "descriptionParagraphs": [
+        "二ツ木以加入胡桃的稻荷壽司受到地方觀光資訊介紹，米飯與豆皮之間多了堅果的口感。位在神社附近，適合在門前散步時順路選購。",
+        "若不打算坐下吃完整餐食，可以把這裡排進較短的行程。用餐與包裝方式依店內供應選擇，街區還有不少適合接著逛的小店。"
+      ],
+      "description": "二ツ木以加入胡桃的稻荷壽司受到地方觀光資訊介紹，米飯與豆皮之間多了堅果的口感。位在神社附近，適合在門前散步時順路選購。\n\n若不打算坐下吃完整餐食，可以把這裡排進較短的行程。用餐與包裝方式依店內供應選擇，街區還有不少適合接著逛的小店。",
+      "note": "",
+      "official": "https://www.ibarakiguide.jp/spot.php?code=878&mode=detail",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.384468,
+        "lng": 140.254013,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931343",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/futatsugi.webp",
+        "alt": "二ツ木，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--futaba",
+      "order": 10,
+      "name": "CAFÉ 二葉",
+      "address": "茨城県笠間市笠間1188-2",
+      "group": "food",
+      "categoryLabel": "老屋咖啡",
+      "caption": "在植物與老屋之間，留一杯咖啡的時間。",
+      "descriptionParagraphs": [
+        "CAFÉ二葉以自家烘焙咖啡與笠間燒器皿，營造市街裡的小型喫茶空間。帶點復古感的門窗、植物與器物，讓喝咖啡也能接上逛陶器的興趣。",
+        "可以與附近的Little cu.安排在同一段步行。比起把店家排成任務，這一站更適合留點空白，坐下後再決定要去神社或美術館。"
+      ],
+      "description": "CAFÉ二葉以自家烘焙咖啡與笠間燒器皿，營造市街裡的小型喫茶空間。帶點復古感的門窗、植物與器物，讓喝咖啡也能接上逛陶器的興趣。\n\n可以與附近的Little cu.安排在同一段步行。比起把店家排成任務，這一站更適合留點空白，坐下後再決定要去神社或美術館。",
+      "note": "",
+      "official": "https://cafefutaba.jimdosite.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.38538,
+        "lng": 140.255737,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931188-2",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/futaba.webp",
+        "alt": "CAFÉ 二葉，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--kula",
+      "order": 11,
+      "name": "庭カフェ KULA",
+      "address": "茨城県笠間市笠間1339",
+      "group": "food",
+      "categoryLabel": "藏屋咖啡",
+      "caption": "走進老藏屋，把午餐與庭景放在一起。",
+      "descriptionParagraphs": [
+        "庭カフェKULA由老藏屋改造，建築與庭院保留門前街的時間感。店內提供以主菜搭配多樣小菜的餐食，也有適合散步途中停留的喫茶。",
+        "這裡和笹目宗兵衛商店位在相連的街區空間，可以將老酒舖與藏屋咖啡一起看。用餐時留意木構架、庭院與窗邊的光線。"
+      ],
+      "description": "庭カフェKULA由老藏屋改造，建築與庭院保留門前街的時間感。店內提供以主菜搭配多樣小菜的餐食，也有適合散步途中停留的喫茶。\n\n這裡和笹目宗兵衛商店位在相連的街區空間，可以將老酒舖與藏屋咖啡一起看。用餐時留意木構架、庭院與窗邊的光線。",
+      "note": "",
+      "official": "https://page.line.me/634fbcdm",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.384468,
+        "lng": 140.254013,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931339",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/kula.webp",
+        "alt": "庭カフェ KULA，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--nakaya",
+      "order": 12,
+      "name": "中屋總本店",
+      "address": "茨城県笠間市笠間1356",
+      "group": "food",
+      "categoryLabel": "門前和菓子",
+      "caption": "在木格子老店前，選一份饅頭。",
+      "descriptionParagraphs": [
+        "中屋總本店是笠間門前街的和菓子店，福福饅頭與栗子相關點心都與地方土產文化相連。木造店面和陳列，讓買點心也是看街景的一部分。",
+        "可在離開門前通前選幾樣伴手禮，再慢慢走向下一站。若喜歡栗子，也可以把這裡與附近的咖啡、米食安排成不同口味的停留。"
+      ],
+      "description": "中屋總本店是笠間門前街的和菓子店，福福饅頭與栗子相關點心都與地方土產文化相連。木造店面和陳列，讓買點心也是看街景的一部分。\n\n可在離開門前通前選幾樣伴手禮，再慢慢走向下一站。若喜歡栗子，也可以把這裡與附近的咖啡、米食安排成不同口味的停留。",
+      "note": "",
+      "official": "https://www.isshinji.jp/nakaya-kasama/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.384113,
+        "lng": 140.255493,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931356",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/nakaya.webp",
+        "alt": "中屋總本店，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--choco",
+      "order": 13,
+      "name": "かさまとチョコレート工場",
+      "address": "茨城県笠間市笠間984-1",
+      "group": "food",
+      "categoryLabel": "巧克力甜點",
+      "caption": "讓門前老街，換一點巧克力的味道。",
+      "descriptionParagraphs": [
+        "かさまとチョコレート工場是鍋屋本店延伸的巧克力品牌，在井筒屋附近設有店舖。割片巧克力、巧克力脆餅與水果甜點，讓米與栗子之外又多了一種選擇。",
+        "可以在看完井筒屋後順路選購，或把甜點留在美術館行程之後。商品形式從攜帶型伴手禮到現場甜點都有，依自己的散步安排挑選。"
+      ],
+      "description": "かさまとチョコレート工場是鍋屋本店延伸的巧克力品牌，在井筒屋附近設有店舖。割片巧克力、巧克力脆餅與水果甜點，讓米與栗子之外又多了一種選擇。\n\n可以在看完井筒屋後順路選購，或把甜點留在美術館行程之後。商品形式從攜帶型伴手禮到現場甜點都有，依自己的散步安排挑選。",
+      "note": "",
+      "official": "https://cfactory.nabeya-rice.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.383881,
+        "lng": 140.257828,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%93984-1",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/choco.webp",
+        "alt": "かさまとチョコレート工場，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--okai",
+      "order": 14,
+      "name": "八百屋カフェ Okai",
+      "address": "茨城県笠間市笠間1338-1",
+      "group": "food",
+      "categoryLabel": "蔬果咖啡",
+      "caption": "從一樓蔬果店，走向樓上的季節餐桌。",
+      "descriptionParagraphs": [
+        "Okai把蔬果店與二樓咖啡空間放在同一棟建築，提供以蔬菜為主題的餐食與水果甜點。門前街的採買日常，因此自然延伸成旅人的午餐停留。",
+        "可以先看一樓陳列，再依用餐需求上樓。若行程以器物與神社為主，這裡適合安排在中段，坐下後重新分配午後的時間。"
+      ],
+      "description": "Okai把蔬果店與二樓咖啡空間放在同一棟建築，提供以蔬菜為主題的餐食與水果甜點。門前街的採買日常，因此自然延伸成旅人的午餐停留。\n\n可以先看一樓陳列，再依用餐需求上樓。若行程以器物與神社為主，這裡適合安排在中段，坐下後重新分配午後的時間。",
+      "note": "",
+      "official": "https://www.oka-syo.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.384468,
+        "lng": 140.254013,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931338-1",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/okai.webp",
+        "alt": "八百屋カフェ Okai，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kasama--kasamacafe",
+      "order": 15,
+      "name": "かさまカフェ（鍋屋 幸せだんご）",
+      "address": "茨城県笠間市笠間1338-2",
+      "group": "food",
+      "categoryLabel": "米店的門前糰子",
+      "caption": "在門前街，挑一串白米與玄米的糰子。",
+      "descriptionParagraphs": [
+        "かさまカフェ由當地米店鍋屋經營，以白米、玄米製作的幸せだんご，讓門前散步多了一份容易親近的點心。老屋空間也讓米食與笠間器物接上街區日常。",
+        "可以在參拜前後選一份糰子，再繼續逛附近的蔬果店與酒舖。這裡是門前的咖啡店，與笠間1100番地的鍋屋本店為不同據點。"
+      ],
+      "description": "かさまカフェ由當地米店鍋屋經營，以白米、玄米製作的幸せだんご，讓門前散步多了一份容易親近的點心。老屋空間也讓米食與笠間器物接上街區日常。\n\n可以在參拜前後選一份糰子，再繼續逛附近的蔬果店與酒舖。這裡是門前的咖啡店，與笠間1100番地的鍋屋本店為不同據點。",
+      "note": "",
+      "official": "https://omusubi.nabeya-rice.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.384468,
+        "lng": 140.254013,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931338",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kasama/kasamacafe.webp",
+        "alt": "かさまカフェ（鍋屋 幸せだんご），依真實照片繪製的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "kasama-walk",
+      "name": "門前・器物・美術館",
+      "ids": [
+        "kasama--inari",
+        "kasama--lemidi",
+        "kasama--idutsuya",
+        "kasama--nichido"
+      ],
+      "walking": {
+        "distanceMeters": 869.7,
+        "durationSeconds": 697.8,
+        "checkedAt": "2026-10-24"
+      },
+      "visitMinutes": [
+        100,
+        165
+      ],
+      "art": "/art/walks/kasama/inari.webp"
+    }
+  ],
+  "defaultSelection": "kasama-walk"
+}

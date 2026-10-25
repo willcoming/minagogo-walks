@@ -1,0 +1,439 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "nihonbashi--haibara",
+      "official": "https://museum.haibara.co.jp/shop/",
+      "contentSources": [
+        "https://museum.haibara.co.jp/shop/"
+      ],
+      "coordinate": {
+        "lat": 35.682316,
+        "lng": 139.773773,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B2-7-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://museum.haibara.co.jp/shop/",
+        "imageUrl": "https://museum.haibara.co.jp/wp/wp-content/uploads/2023/01/shop_top_img.jpg",
+        "referencePath": "design/photo-references/expansion/nihonbashi/haibara.jpg"
+      }
+    },
+    {
+      "id": "nihonbashi--bridge",
+      "official": "https://www.city.chuo.lg.jp/miryoku/imamukashi/nihonbashi.html",
+      "contentSources": [
+        "https://www.city.chuo.lg.jp/miryoku/imamukashi/nihonbashi.html"
+      ],
+      "coordinate": {
+        "lat": 35.683861,
+        "lng": 139.773697,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.chuo.lg.jp/miryoku/imamukashi/nihonbashi.html",
+        "imageUrl": "https://www.city.chuo.lg.jp/images/13354/img8394.jpg",
+        "referencePath": "design/photo-references/expansion/nihonbashi/bridge.jpg"
+      }
+    },
+    {
+      "id": "nihonbashi--nori",
+      "official": "https://www.yamamoto-noriten.co.jp/store/store-39/",
+      "contentSources": [
+        "https://www.yamamoto-noriten.co.jp/store/store-39/",
+        "https://prtimes.jp/main/html/rd/p/000000001.000172490.html"
+      ],
+      "coordinate": {
+        "lat": 35.684505,
+        "lng": 139.775162,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA1-8-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://prtimes.jp/main/html/rd/p/000000001.000172490.html",
+        "imageUrl": "https://prcdn.freetls.fastly.net/release_image/172490/1/172490-1-380a721e13f30e9dc872e6a9452bd12d-3000x2001.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+        "referencePath": "design/photo-references/expansion/nihonbashi/nori.jpg"
+      }
+    },
+    {
+      "id": "nihonbashi--ibasen",
+      "official": "https://www.nihonbashi-tokyo.jp/shops/tech-201107/",
+      "contentSources": [
+        "https://www.nihonbashi-tokyo.jp/shops/tech-201107/"
+      ],
+      "coordinate": {
+        "lat": 35.687435,
+        "lng": 139.777206,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%B0%8F%E8%88%9F%E7%94%BA4-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.nihonbashi-tokyo.jp/shops/tech-201107/",
+        "imageUrl": "https://www.nihonbashi-tokyo.jp/QjZ4UWvX/wp-content/uploads/2024/12/ibasen03-edited.jpg",
+        "referencePath": "design/photo-references/expansion/nihonbashi/ibasen.jpg"
+      }
+    },
+    {
+      "id": "nihonbashi--fukutoku",
+      "official": "https://mebuki.jp/",
+      "contentSources": [
+        "https://mebuki.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.687042,
+        "lng": 139.774246,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-4-14",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://mebuki.jp/",
+        "imageUrl": "https://mebuki.jp/wp-content/themes/fukutoku/images/pc_slider_01.png",
+        "referencePath": "design/photo-references/expansion/nihonbashi/fukutoku.jpg"
+      }
+    },
+    {
+      "id": "nihonbashi--ninben",
+      "official": "https://www.ninben.co.jp/store/dashiba/index.html",
+      "contentSources": [
+        "https://www.ninben.co.jp/store/dashiba/index.html"
+      ],
+      "coordinate": {
+        "lat": 35.686451,
+        "lng": 139.774048,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-2-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ninben.co.jp/store/dashiba/index.html",
+        "imageUrl": "https://www.ninben.co.jp/img/store/store_cover_img_02.jpg",
+        "referencePath": "design/photo-references/expansion/nihonbashi/ninben.jpg"
+      }
+    },
+    {
+      "id": "nihonbashi--kiya",
+      "official": "https://www.kiya-hamono.co.jp/shop/kiya_honten.html",
+      "contentSources": [
+        "https://www.kiya-hamono.co.jp/shop/kiya_honten.html"
+      ],
+      "coordinate": {
+        "lat": 35.686451,
+        "lng": 139.774048,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-2-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kiya-hamono.co.jp/shop/kiya_honten.html",
+        "imageUrl": "https://www.kiya-hamono.co.jp/_src/582/honten1000.jpg?v=1792457702346",
+        "referencePath": "design/photo-references/expansion/nihonbashi/kiya.jpg"
+      }
+    },
+    {
+      "id": "nihonbashi--sembikiya",
+      "official": "https://www.sembikiya.co.jp/shop-list/main-store",
+      "contentSources": [
+        "https://www.sembikiya.co.jp/shop-list/main-store"
+      ],
+      "coordinate": {
+        "lat": 35.686127,
+        "lng": 139.772583,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-1-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.sembikiya.co.jp/shop-list/main-store",
+        "imageUrl": "https://www.sembikiya.co.jp/_bosys/wp-content/uploads/2019/05/mainstore-1.jpg",
+        "referencePath": "design/photo-references/expansion/nihonbashi/sembikiya.jpg"
+      }
+    },
+    {
+      "id": "nihonbashi--museum",
+      "official": "https://www.mitsui-museum.jp/overview/overview.html",
+      "contentSources": [
+        "https://www.mitsui-museum.jp/overview/overview.html"
+      ],
+      "coordinate": {
+        "lat": 35.686001,
+        "lng": 139.772644,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.mitsui-museum.jp/overview/overview.html",
+        "imageUrl": "https://www.mitsui-museum.jp/overview/images/img06.jpg",
+        "referencePath": "design/photo-references/expansion/nihonbashi/museum.jpg"
+      }
+    },
+    {
+      "id": "nihonbashi--mitsukoshi",
+      "official": "https://www.city.chuo.lg.jp/miryoku/imamukashi/mitsukoshi.html",
+      "contentSources": [
+        "https://www.city.chuo.lg.jp/miryoku/imamukashi/mitsukoshi.html"
+      ],
+      "coordinate": {
+        "lat": 35.685177,
+        "lng": 139.77298,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA1-4-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.chuo.lg.jp/miryoku/imamukashi/mitsukoshi.html",
+        "imageUrl": "https://www.city.chuo.lg.jp/images/13356/ima_11.jpg",
+        "referencePath": "design/photo-references/expansion/nihonbashi/mitsukoshi.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "nihonbashi--haibara",
+      "query": "東京都中央区日本橋2-7-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B2-7-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.773773,
+              35.682316
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都中央区日本橋二丁目７番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nihonbashi--bridge",
+      "query": "東京都中央区日本橋1-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B1-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.773697,
+              35.683861
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都中央区日本橋一丁目１番"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nihonbashi--nori",
+      "query": "東京都中央区日本橋室町1-8-3",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA1-8-3",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.775162,
+              35.684505
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都中央区日本橋室町一丁目８番３号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nihonbashi--ibasen",
+      "query": "東京都中央区日本橋小舟町4-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%B0%8F%E8%88%9F%E7%94%BA4-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.777206,
+              35.687435
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都中央区日本橋小舟町４番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nihonbashi--fukutoku",
+      "query": "東京都中央区日本橋室町2-4-14",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-4-14",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.774246,
+              35.687042
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都中央区日本橋室町二丁目４番１４号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nihonbashi--ninben",
+      "query": "東京都中央区日本橋室町2-2-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-2-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.774048,
+              35.686451
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都中央区日本橋室町二丁目２番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nihonbashi--kiya",
+      "query": "東京都中央区日本橋室町2-2-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-2-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.774048,
+              35.686451
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都中央区日本橋室町二丁目２番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nihonbashi--sembikiya",
+      "query": "東京都中央区日本橋室町2-1-2",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-1-2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.772583,
+              35.686127
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都中央区日本橋室町二丁目１番２号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nihonbashi--museum",
+      "query": "東京都中央区日本橋室町2-1-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-1-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.772644,
+              35.686001
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都中央区日本橋室町二丁目１番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nihonbashi--mitsukoshi",
+      "query": "東京都中央区日本橋室町1-4-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA1-4-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.77298,
+              35.685177
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都中央区日本橋室町一丁目４番１号"
+          }
+        }
+      ]
+    }
+  ]
+}

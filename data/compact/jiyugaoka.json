@@ -1,0 +1,446 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "jiyugaoka--katakana",
+      "order": 1,
+      "name": "katakana 自由之丘店",
+      "address": "東京都世田谷区奥沢5-20-21",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "把日本各地的手作，收進小店",
+      "descriptionParagraphs": [
+        "katakana 以日本各地選物為主題，將手作器物、生活用品與趣味小物放在親切店面中。比起大量購物，更適合慢慢看材質與製作者留下的細節。",
+        "店在自由之丘南側，離綠道與車站都不遠，可作為散步尾聲。展售與季節企劃會改變陳列內容，找到一件有感覺的小物，就足以成為這天的紀念。"
+      ],
+      "description": "katakana 以日本各地選物為主題，將手作器物、生活用品與趣味小物放在親切店面中。比起大量購物，更適合慢慢看材質與製作者留下的細節。\n\n店在自由之丘南側，離綠道與車站都不遠，可作為散步尾聲。展售與季節企劃會改變陳列內容，找到一件有感覺的小物，就足以成為這天的紀念。",
+      "note": "",
+      "official": "https://www.jiyugaoka-abc.com/shopguide/living_life/304000.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.606224,
+        "lng": 139.669952,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A25-20-21",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/jiyugaoka/katakana.webp",
+        "alt": "katakana 自由之丘店的日系水彩插圖"
+      },
+      "recommendation": "看看日本各地的手作選物，再從附近綠道返回車站。"
+    },
+    {
+      "id": "jiyugaoka--greenway",
+      "order": 2,
+      "name": "九品佛川綠道",
+      "address": "東京都目黒区自由が丘1-5",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "沿樹蔭走一小段，不必追到終點",
+      "descriptionParagraphs": [
+        "九品佛川綠道沿昔日河道形成步行空間，樹木與花季讓街區保留柔和的綠色邊界。這裡能把逛店的片段接起來，也適合暫時放下購物心情。",
+        "本次只選自由之丘站附近的一段，不需要一路走到其他車站。找合適的公共座位休息，或循樹蔭慢慢返回南口，讓收尾保有彈性。"
+      ],
+      "description": "九品佛川綠道沿昔日河道形成步行空間，樹木與花季讓街區保留柔和的綠色邊界。這裡能把逛店的片段接起來，也適合暫時放下購物心情。\n\n本次只選自由之丘站附近的一段，不需要一路走到其他車站。找合適的公共座位休息，或循樹蔭慢慢返回南口，讓收尾保有彈性。",
+      "note": "",
+      "official": "https://www.city.meguro.tokyo.jp/shougaigakushuu/bunkasports/areanavi/kuhonbutu.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.607826,
+        "lng": 139.671112,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-5",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/jiyugaoka/greenway.webp",
+        "alt": "九品佛川綠道的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "jiyugaoka--onibus",
+      "order": 3,
+      "name": "ONIBUS COFFEE 自由之丘店",
+      "address": "東京都目黒区緑が丘2-24-8",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在街角窗邊，讓咖啡接住腳步",
+      "descriptionParagraphs": [
+        "ONIBUS COFFEE 自由之丘店位於車站東側的街角，大片玻璃與木色座位把咖啡空間接向街道。從北側小店或南側綠道轉來，都能自然加上一段休息。",
+        "選一杯喜歡的咖啡，再依當日菜單決定是否搭配點心。若店內客滿，可調整停留順序，先走附近綠道，避免把散步變成長時間排隊。"
+      ],
+      "description": "ONIBUS COFFEE 自由之丘店位於車站東側的街角，大片玻璃與木色座位把咖啡空間接向街道。從北側小店或南側綠道轉來，都能自然加上一段休息。\n\n選一杯喜歡的咖啡，再依當日菜單決定是否搭配點心。若店內客滿，可調整停留順序，先走附近綠道，避免把散步變成長時間排隊。",
+      "note": "",
+      "official": "https://onibuscoffee.com/pages/locations/jiyugaoka",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "66fdnk_smUA",
+          "title": "自由が丘 | 黒トリュフたまご🥐 いちじくサンド | 美味しい朝の店 6 選",
+          "url": "https://www.youtube.com/watch?v=66fdnk_smUA",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.608719,
+        "lng": 139.671936,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%B7%91%E3%81%8C%E4%B8%982-24-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/jiyugaoka/onibus.webp",
+        "alt": "ONIBUS COFFEE 自由之丘店的日系水彩插圖"
+      },
+      "recommendation": "坐下喝杯咖啡，再沿附近街道回自由之丘站南口。"
+    },
+    {
+      "id": "jiyugaoka--hikari",
+      "order": 4,
+      "name": "自由之丘ひかり街",
+      "address": "東京都目黒区自由が丘1-27-2",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "在老商場裡，找到日常的自由之丘",
+      "descriptionParagraphs": [
+        "ひかり街沿著車站北側鐵道延伸，是由各式個人商店組成的老商場。和菓子、服飾與生活用品交錯排列，與周邊新商業設施形成有趣的街景層次。",
+        "從入口慢慢逛過一小段，遇到感興趣的店再停留即可。各店休息時間不同，不必追求每間都開門，將它當成認識街坊生活的通道。"
+      ],
+      "description": "ひかり街沿著車站北側鐵道延伸，是由各式個人商店組成的老商場。和菓子、服飾與生活用品交錯排列，與周邊新商業設施形成有趣的街景層次。\n\n從入口慢慢逛過一小段，遇到感興趣的店再停留即可。各店休息時間不同，不必追求每間都開門，將它當成認識街坊生活的通道。",
+      "note": "",
+      "official": "https://www.hikarigai.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.609245,
+        "lng": 139.669708,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-27-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/jiyugaoka/hikari.webp",
+        "alt": "自由之丘ひかり街的日系水彩插圖"
+      },
+      "recommendation": "在車站旁的短商場挑幾間小店，保留隨興轉彎的餘裕。"
+    },
+    {
+      "id": "jiyugaoka--kurofune",
+      "order": 5,
+      "name": "黑船自由之丘本店",
+      "address": "東京都目黒区自由が丘1-24-11",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "白色門簾後，是糕點的香氣",
+      "descriptionParagraphs": [
+        "黑船本店以長崎蛋糕與銅鑼燒等甜點為特色，白色門簾與簡潔店面帶出俐落氣質。店內商品的包裝設計，也讓甜點成為容易帶走的小紀念。",
+        "就在熊野神社旁，適合參拜前後順路挑選點心。想使用樓上咖啡空間時，再依當天營業情況安排，不需為了吃遍甜點而把午後排滿。"
+      ],
+      "description": "黑船本店以長崎蛋糕與銅鑼燒等甜點為特色，白色門簾與簡潔店面帶出俐落氣質。店內商品的包裝設計，也讓甜點成為容易帶走的小紀念。\n\n就在熊野神社旁，適合參拜前後順路挑選點心。想使用樓上咖啡空間時，再依當天營業情況安排，不需為了吃遍甜點而把午後排滿。",
+      "note": "",
+      "official": "https://www.jiyugaoka-abc.com/shopguide/gourmet/257200.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "g8-39BbAbDY",
+          "title": "東京🥧不吃太可惜！頂級銅鑼燒嚴選8家超推薦店｜日本酒紅豆餡、紅豆奶油等｜東京送禮首選",
+          "url": "https://www.youtube.com/watch?v=g8-39BbAbDY",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.609863,
+        "lng": 139.669464,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-24-11",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/jiyugaoka/kurofune.webp",
+        "alt": "黑船自由之丘本店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "jiyugaoka--kumano",
+      "order": 6,
+      "name": "自由之丘熊野神社",
+      "address": "東京都目黒区自由が丘1-24-12",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在商店街旁，遇見一片綠意",
+      "descriptionParagraphs": [
+        "熊野神社長年作為自由之丘一帶的鎮守，朱色社殿被成熟樹木包圍。從商店街轉入境內，車站周邊的熱鬧便縮成一段安靜的參拜時間。",
+        "這裡與黑船、ひかり街相近，適合排在北側小店之前。簡單參拜、看看樹影後再往西走，不必把神社當成急著拍完照的打卡點。"
+      ],
+      "description": "熊野神社長年作為自由之丘一帶的鎮守，朱色社殿被成熟樹木包圍。從商店街轉入境內，車站周邊的熱鬧便縮成一段安靜的參拜時間。\n\n這裡與黑船、ひかり街相近，適合排在北側小店之前。簡單參拜、看看樹影後再往西走，不必把神社當成急著拍完照的打卡點。",
+      "note": "",
+      "official": "https://www.mec-h.com/town/mh-jiyugaoka/35",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.609863,
+        "lng": 139.669296,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-24-12",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/jiyugaoka/kumano.webp",
+        "alt": "自由之丘熊野神社的日系水彩插圖"
+      },
+      "recommendation": "在社殿前停下，換成散步的速度。"
+    },
+    {
+      "id": "jiyugaoka--lavita",
+      "order": 7,
+      "name": "La Vita 自由之丘",
+      "address": "東京都目黒区自由が丘2-8-3",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "小橋與水道，藏在街角轉彎處",
+      "descriptionParagraphs": [
+        "La Vita 以威尼斯風格營造商業空間，小水道、拱橋與磚造門面形成與東京街道不同的表情。步入短短一段空間，就像把散步視角換了一頁。",
+        "可在熊野神社與西側選物店之間順路看看，停留不用太長。這裡是商業私有空間，參觀與攝影依現場規範，讓通行與店家使用保持順暢。"
+      ],
+      "description": "La Vita 以威尼斯風格營造商業空間，小水道、拱橋與磚造門面形成與東京街道不同的表情。步入短短一段空間，就像把散步視角換了一頁。\n\n可在熊野神社與西側選物店之間順路看看，停留不用太長。這裡是商業私有空間，參觀與攝影依現場規範，讓通行與店家使用保持順暢。",
+      "note": "",
+      "official": "https://www.jiyugaoka-abc.com/?p=16128",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.61063,
+        "lng": 139.668396,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-8-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/jiyugaoka/lavita.webp",
+        "alt": "La Vita 自由之丘的日系水彩插圖"
+      },
+      "recommendation": "看磚牆、石板與小運河的空間層次，依開放範圍短暫停留。"
+    },
+    {
+      "id": "jiyugaoka--todays",
+      "order": 8,
+      "name": "TODAY’S SPECIAL 自由之丘",
+      "address": "東京都目黒区自由が丘2-17-8",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "從器皿與植物，挑選日常靈感",
+      "descriptionParagraphs": [
+        "TODAY’S SPECIAL 自由之丘店將餐具、食材、衣物、書與植物放在同一個生活視角裡。開放陳列讓人可以從一只碗或一盆綠意，想到回家後的使用方式。",
+        "喜歡生活選物的人可在這裡多留一點時間，再接南側的小店。當日活動與商品會更換，放下指定購物清單，往往更容易遇見喜歡的東西。"
+      ],
+      "description": "TODAY’S SPECIAL 自由之丘店將餐具、食材、衣物、書與植物放在同一個生活視角裡。開放陳列讓人可以從一只碗或一盆綠意，想到回家後的使用方式。\n\n喜歡生活選物的人可在這裡多留一點時間，再接南側的小店。當日活動與商品會更換，放下指定購物清單，往往更容易遇見喜歡的東西。",
+      "note": "",
+      "official": "https://www.todaysspecial.jp/storelocation/jiyugaoka/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "w87nLAk6Pck",
+          "title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
+          "url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.609325,
+        "lng": 139.667358,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-17-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/jiyugaoka/todays.webp",
+        "alt": "TODAY’S SPECIAL 自由之丘的日系水彩插圖"
+      },
+      "recommendation": "從餐具與植物之間找一件喜歡的日常物。"
+    },
+    {
+      "id": "jiyugaoka--hachinoya",
+      "order": 9,
+      "name": "蜂の家自由之丘本店",
+      "address": "東京都目黒区自由が丘2-10-6",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "一口大小的最中，替午後留甜味",
+      "descriptionParagraphs": [
+        "蜂の家是自由之丘的和菓子老店，以小巧繭形的まゆ最中受到喜愛。不同餡料與柔和外形，讓日式甜點在洋菓子眾多的街區裡有自己的表情。",
+        "可在往南口的途中挑一份帶走，與坐下喝咖啡的安排分開。季節生菓子依當日供應選擇，讓這站保持輕鬆短暫就很好。"
+      ],
+      "description": "蜂の家是自由之丘的和菓子老店，以小巧繭形的まゆ最中受到喜愛。不同餡料與柔和外形，讓日式甜點在洋菓子眾多的街區裡有自己的表情。\n\n可在往南口的途中挑一份帶走，與坐下喝咖啡的安排分開。季節生菓子依當日供應選擇，讓這站保持輕鬆短暫就很好。",
+      "note": "",
+      "official": "https://www.jiyugaoka-abc.com/?p=16112",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.608025,
+        "lng": 139.668121,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-10-6",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/jiyugaoka/hachinoya.webp",
+        "alt": "蜂の家自由之丘本店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "jiyugaoka--montblanc",
+      "order": 10,
+      "name": "東京自由之丘 Mont-Blanc",
+      "address": "東京都目黒区自由が丘1-29-1",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在新店裡，品嘗老字號栗子蛋糕",
+      "descriptionParagraphs": [
+        "Mont-Blanc 自一九三三年在自由之丘經營洋菓子，栗子蛋糕是店裡的代表風景。如今本店位於 Muse Square，仍以甜點將街區的洋菓子記憶延續下去。",
+        "適合從車站出發時先看當日甜點，也可把這裡留作回程休息。請前往自由之丘一丁目二十九番一號的新本店，避免依舊資料走到已結束營業的臨時店。"
+      ],
+      "description": "Mont-Blanc 自一九三三年在自由之丘經營洋菓子，栗子蛋糕是店裡的代表風景。如今本店位於 Muse Square，仍以甜點將街區的洋菓子記憶延續下去。\n\n適合從車站出發時先看當日甜點，也可把這裡留作回程休息。請前往自由之丘一丁目二十九番一號的新本店，避免依舊資料走到已結束營業的臨時店。",
+      "note": "",
+      "official": "https://jiyugaoka-muse-square.jp/shop/detail.html?act=11291",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "CImZHtbH_hs",
+          "title": "【東京】秋の味覚を楽しむスイーツ巡り8選🍠~2026~",
+          "url": "https://www.youtube.com/watch?v=CImZHtbH_hs",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.608524,
+        "lng": 139.669067,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-29-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/jiyugaoka/montblanc.webp",
+        "alt": "東京自由之丘 Mont-Blanc的日系水彩插圖"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "jiyugaoka-slow-walk",
+      "name": "甜點、選物與樹蔭小路",
+      "ids": [
+        "jiyugaoka--kumano",
+        "jiyugaoka--todays",
+        "jiyugaoka--katakana"
+      ],
+      "start": {
+        "name": "自由之丘站正面口",
+        "address": "東京都目黒区自由が丘1-9-8 自由が丘駅",
+        "access": "東急東橫線、大井町線"
+      },
+      "end": {
+        "name": "自由之丘站南口",
+        "address": "東京都目黒区自由が丘1-9-8 自由が丘駅 南口"
+      },
+      "totalMinutes": [
+        120,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從車站周邊走向神社與小店，挑一份甜點，將剩下的時間交給綠道。",
+      "note": "三個重點加上一間沿路咖啡或甜點店與 30～45 分鐘自由探索，約 2～3 小時。十點是可選清單，甜點店不必全部排入；候位與正餐另留時間。",
+      "stopNotes": {
+        "jiyugaoka--kumano": "在社殿前停下，換成散步的速度。",
+        "jiyugaoka--todays": "從餐具與植物之間找一件喜歡的日常物。",
+        "jiyugaoka--katakana": "看看日本各地的手作選物，再從附近綠道返回車站。"
+      },
+      "art": "/art/walks/jiyugaoka/onibus.webp"
+    },
+    {
+      "id": "jiyugaoka-lanes-and-coffee",
+      "name": "巷弄建築、小店與咖啡",
+      "ids": [
+        "jiyugaoka--lavita",
+        "jiyugaoka--hikari",
+        "jiyugaoka--onibus"
+      ],
+      "start": {
+        "name": "自由之丘站正面口",
+        "address": "東京都目黒区自由が丘1-9-8 自由が丘駅",
+        "access": "東急東橫線、大井町線"
+      },
+      "end": {
+        "name": "自由之丘站南口",
+        "address": "東京都目黒区自由が丘1-9-8 自由が丘駅 南口"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "從異國感小巷回到街坊商場，最後找一杯咖啡，看看自由之丘不同的日常表情。",
+      "note": "含三處重點、步行與 30～45 分鐘自由探索。La Vita 與ひかり街的店家各有營業日；咖啡候位另計，建築參觀以對外開放空間為限。",
+      "stopNotes": {
+        "jiyugaoka--lavita": "看磚牆、石板與小運河的空間層次，依開放範圍短暫停留。",
+        "jiyugaoka--hikari": "在車站旁的短商場挑幾間小店，保留隨興轉彎的餘裕。",
+        "jiyugaoka--onibus": "坐下喝杯咖啡，再沿附近街道回自由之丘站南口。"
+      },
+      "art": "/art/walks/jiyugaoka/lavita.webp"
+    }
+  ],
+  "defaultSelection": "jiyugaoka-slow-walk"
+}

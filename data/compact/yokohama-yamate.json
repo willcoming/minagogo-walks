@@ -1,0 +1,454 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "yokohama-yamate--harbor",
+      "order": 1,
+      "name": "港見丘公園",
+      "address": "神奈川県横浜市中区山手町114",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從山丘看港口，把散步收在開闊處",
+      "descriptionParagraphs": [
+        "港見丘公園的展望處可以看見橫濱港與海灣大橋，周邊也有花園與洋館。由街道走到這裡，視野從窗框與樹影轉成港口的天空。",
+        "適合放在散步尾聲，找一處看景的地方停一下。離開時往元町・中華街站方向走，依現場動線使用坡道或升降設施。"
+      ],
+      "description": "港見丘公園的展望處可以看見橫濱港與海灣大橋，周邊也有花園與洋館。由街道走到這裡，視野從窗框與樹影轉成港口的天空。\n\n適合放在散步尾聲，找一處看景的地方停一下。離開時往元町・中華街站方向走，依現場動線使用坡道或升降設施。",
+      "note": "",
+      "official": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.43898,
+        "lng": 139.655029,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA114",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/harbor.webp",
+        "alt": "港見丘公園的日系水彩插圖"
+      },
+      "recommendation": "從山丘看港口，再前往車站。"
+    },
+    {
+      "id": "yokohama-yamate--111",
+      "order": 2,
+      "name": "山手111番館",
+      "address": "神奈川県横浜市中区山手町111",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "三連拱與玫瑰庭園之間",
+      "descriptionParagraphs": [
+        "山手111番館以白牆、紅瓦與三連拱門呈現西班牙式風格，前方草坪讓建築顯得開闊。庭園與館舍相連，適合從不同角度看窗與屋簷。",
+        "可與英國館、港見丘公園合併成散步尾段。入館或只看外觀都能成立，讓最後一段保有看港口和休息的時間。"
+      ],
+      "description": "山手111番館以白牆、紅瓦與三連拱門呈現西班牙式風格，前方草坪讓建築顯得開闊。庭園與館舍相連，適合從不同角度看窗與屋簷。\n\n可與英國館、港見丘公園合併成散步尾段。入館或只看外觀都能成立，讓最後一段保有看港口和休息的時間。",
+      "note": "",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate111/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.439133,
+        "lng": 139.654556,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA111",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/111.webp",
+        "alt": "山手111番館的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yokohama-yamate--british",
+      "order": 3,
+      "name": "橫濱市英國館",
+      "address": "神奈川県横浜市中区山手町115-3",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "舊領事住宅與花園的午後光線",
+      "descriptionParagraphs": [
+        "英國館曾作為英國總領事官邸，面向草坪的建築有寬敞窗面與舒展的輪廓。周邊玫瑰與四季草花，替端正的住宅添上一點柔和。",
+        "和港見丘公園、山手111番館彼此相鄰，可依花況與天氣自由停留。若前面已看足洋館，沿花園走一小段就很舒服。"
+      ],
+      "description": "英國館曾作為英國總領事官邸，面向草坪的建築有寬敞窗面與舒展的輪廓。周邊玫瑰與四季草花，替端正的住宅添上一點柔和。\n\n和港見丘公園、山手111番館彼此相鄰，可依花況與天氣自由停留。若前面已看足洋館，沿花園走一小段就很舒服。",
+      "note": "",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/british-house/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.439133,
+        "lng": 139.654556,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA115-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/british.webp",
+        "alt": "橫濱市英國館的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yokohama-yamate--234",
+      "order": 4,
+      "name": "山手234番館",
+      "address": "神奈川県横浜市中区山手町234-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從小型公寓，看山手日常的一面",
+      "descriptionParagraphs": [
+        "山手234番館原為外國人使用的共同住宅，對稱門廊與緊湊格局呈現不同於大宅的生活尺度。外觀的柱廊、窗與遮蔭，是沿路值得細看的細節。",
+        "它就在茶室與其他洋館附近，可以短暫順路停留。樓層展示與活動依現場安排，無需為了看齊每間房而趕路。"
+      ],
+      "description": "山手234番館原為外國人使用的共同住宅，對稱門廊與緊湊格局呈現不同於大宅的生活尺度。外觀的柱廊、窗與遮蔭，是沿路值得細看的細節。\n\n它就在茶室與其他洋館附近，可以短暫順路停留。樓層展示與活動依現場安排，無需為了看齊每間房而趕路。",
+      "note": "",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.437599,
+        "lng": 139.652496,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA234-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/234.webp",
+        "alt": "山手234番館的日系水彩插圖"
+      },
+      "recommendation": "走進昔日共同住宅，從空間格局想像山手生活。"
+    },
+    {
+      "id": "yokohama-yamate--enoki",
+      "order": 5,
+      "name": "えの木てい",
+      "address": "神奈川県横浜市中区山手町89-6",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在紅窗洋館裡，留一段紅茶時間",
+      "descriptionParagraphs": [
+        "えの木てい把洋館空間與手作洋菓子放在一起，茶室裡的老家具也延續山手的氣氛。蛋糕、司康與紅茶，適合作為坡道散步的休息。",
+        "一般茶點可依當天座位安排；正式下午茶有預約條件，想專程體驗可先查詢。若人多，改買甜點或換附近茶室也很好。"
+      ],
+      "description": "えの木てい把洋館空間與手作洋菓子放在一起，茶室裡的老家具也延續山手的氣氛。蛋糕、司康與紅茶，適合作為坡道散步的休息。\n\n一般茶點可依當天座位安排；正式下午茶有預約條件，想專程體驗可先查詢。若人多，改買甜點或換附近茶室也很好。",
+      "note": "",
+      "official": "https://www.enokitei.co.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.437599,
+        "lng": 139.652496,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA89-6",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/enoki.webp",
+        "alt": "えの木てい的日系水彩插圖"
+      },
+      "recommendation": "以紅茶或甜點安排一段休息。"
+    },
+    {
+      "id": "yokohama-yamate--berrick",
+      "order": 6,
+      "name": "貝里克廳",
+      "address": "神奈川県横浜市中区山手町72",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "拱門與瓦頂，換成西班牙式風景",
+      "descriptionParagraphs": [
+        "貝里克廳以三連拱入口、紅瓦屋頂與帶有裝飾感的小窗呈現西班牙式住宅特色。寬敞的房間與細部設計，讓喜歡建築的人有許多可看之處。",
+        "這裡可替換推薦路線中的洋館參觀，與愛麗絲曼邸相距不遠。若已在前段看過一棟，欣賞外觀與庭園也很適合。"
+      ],
+      "description": "貝里克廳以三連拱入口、紅瓦屋頂與帶有裝飾感的小窗呈現西班牙式住宅特色。寬敞的房間與細部設計，讓喜歡建築的人有許多可看之處。\n\n這裡可替換推薦路線中的洋館參觀，與愛麗絲曼邸相距不遠。若已在前段看過一棟，欣賞外觀與庭園也很適合。",
+      "note": "",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/Berrick-Hall/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.437996,
+        "lng": 139.650391,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA72",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/berrick.webp",
+        "alt": "貝里克廳的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yokohama-yamate--bakery",
+      "order": 7,
+      "name": "BLUFF BAKERY 本店",
+      "address": "神奈川県横浜市中区元町2丁目80-9",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "藍色門面裡，挑一份山手的麵包",
+      "descriptionParagraphs": [
+        "代官坂上的 BLUFF BAKERY 以山手地形取名，藍色門面與紐約風格麵包替洋館散步接上街區日常。推門看看當天烘焙的品項，再挑一份喜歡的帶走。",
+        "本店以購買麵包為主，想坐下喝茶仍可安排えの木てい。從洋館街轉來只需短短一段坡道，不必另跑到日本大通或其他分店。"
+      ],
+      "description": "代官坂上的 BLUFF BAKERY 以山手地形取名，藍色門面與紐約風格麵包替洋館散步接上街區日常。推門看看當天烘焙的品項，再挑一份喜歡的帶走。\n\n本店以購買麵包為主，想坐下喝茶仍可安排えの木てい。從洋館街轉來只需短短一段坡道，不必另跑到日本大通或其他分店。",
+      "note": "",
+      "official": "https://bluffbakery.com/aboutus/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "JFc6eVGxkjc",
+          "title": "横浜 🇯🇵 🥐 東京近郊名店巡禮 | 避開人潮的安靜街道 | 一口就幸福的「背德紅豆夾心」與絕品可頌",
+          "url": "https://www.youtube.com/watch?v=JFc6eVGxkjc",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.439125,
+        "lng": 139.649933,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA2%E4%B8%81%E7%9B%AE80-9",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/bakery.webp",
+        "alt": "BLUFF BAKERY 本店的日系水彩插圖"
+      },
+      "recommendation": "挑一份麵包，從代官坂的日常店舖展開散步。"
+    },
+    {
+      "id": "yokohama-yamate--ehrismann",
+      "order": 8,
+      "name": "愛麗絲曼邸",
+      "address": "神奈川県横浜市中区元町1丁目77-4",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "樹影裡的白色洋館與綠窗框",
+      "descriptionParagraphs": [
+        "愛麗絲曼邸坐落在綠意之中，白牆、綠色窗框與日光室帶來輕盈的感覺。建築由雷蒙德設計，簡潔線條與庭園相處得十分自然。",
+        "沿山手本通走來，可以先從樹影間欣賞建築。若想入內看格局，就減少另一棟洋館的停留，維持午後的餘裕。"
+      ],
+      "description": "愛麗絲曼邸坐落在綠意之中，白牆、綠色窗框與日光室帶來輕盈的感覺。建築由雷蒙德設計，簡潔線條與庭園相處得十分自然。\n\n沿山手本通走來，可以先從樹影間欣賞建築。若想入內看格局，就減少另一棟洋館的停留，維持午後的餘裕。",
+      "note": "",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.439472,
+        "lng": 139.65036,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1%E4%B8%81%E7%9B%AE77-4",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/ehrismann.webp",
+        "alt": "愛麗絲曼邸的日系水彩插圖"
+      },
+      "recommendation": "看看洋館室內、窗邊與家具細節。"
+    },
+    {
+      "id": "yokohama-yamate--bluff18",
+      "order": 9,
+      "name": "布拉夫18番館",
+      "address": "神奈川県横浜市中区山手町16",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "綠窗框與白牆，打開洋館散步",
+      "descriptionParagraphs": [
+        "布拉夫18番館以白牆、綠色窗框和明亮日光室呈現山手住宅的親切尺度。移築至義大利山庭園後，館內的家具與格局讓人想像往日生活。",
+        "從石川町站上坡後，可先在周邊庭園喘口氣。與外交官之家相鄰，兩館可依喜好擇一入內，不必把停留排得太密。"
+      ],
+      "description": "布拉夫18番館以白牆、綠色窗框和明亮日光室呈現山手住宅的親切尺度。移築至義大利山庭園後，館內的家具與格局讓人想像往日生活。\n\n從石川町站上坡後，可先在周邊庭園喘口氣。與外交官之家相鄰，兩館可依喜好擇一入內，不必把停留排得太密。",
+      "note": "",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/bluff18/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.436699,
+        "lng": 139.643356,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA16",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/bluff18.webp",
+        "alt": "布拉夫18番館的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "yokohama-yamate--gaikokan",
+      "order": 10,
+      "name": "外交官之家",
+      "address": "神奈川県横浜市中区山手町16",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "尖塔與窗光，藏著一段生活故事",
+      "descriptionParagraphs": [
+        "外交官之家有醒目的塔樓與尖頂，深淺交錯的外牆讓建築格外有層次。從庭園回望洋館，窗框與樹影成為很適合慢慢觀看的風景。",
+        "建議把這裡當作山手的一個主要停留，留意室內空間與庭園的關係。看完後沿山手街道前進，其他洋館可自由替換。"
+      ],
+      "description": "外交官之家有醒目的塔樓與尖頂，深淺交錯的外牆讓建築格外有層次。從庭園回望洋館，窗框與樹影成為很適合慢慢觀看的風景。\n\n建議把這裡當作山手的一個主要停留，留意室內空間與庭園的關係。看完後沿山手街道前進，其他洋館可自由替換。",
+      "note": "",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/gaikoukan/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.436699,
+        "lng": 139.643356,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA16",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/gaikokan.webp",
+        "alt": "外交官之家的日系水彩插圖"
+      },
+      "recommendation": "選一棟洋館入內，看窗框與生活空間。"
+    },
+    {
+      "id": "yokohama-yamate--italia",
+      "order": 11,
+      "name": "山手義大利山庭園",
+      "address": "神奈川県横浜市中区山手町16",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "幾何花壇與港口遠景之間",
+      "descriptionParagraphs": [
+        "山手義大利山庭園以整齊的花壇、水景與幾何布局，讓洋館周圍多了一段可以慢慢走的綠地。地名來自明治時期曾設於此的義大利領事館，露臺也能眺望橫濱港方向。",
+        "它與外交官之家、布拉夫18番館相鄰，適合上坡後稍作停留。可以只看季節花木與建築外觀，再依興趣選一棟洋館參觀，不必為了走遍每個地點而趕路。"
+      ],
+      "description": "山手義大利山庭園以整齊的花壇、水景與幾何布局，讓洋館周圍多了一段可以慢慢走的綠地。地名來自明治時期曾設於此的義大利領事館，露臺也能眺望橫濱港方向。\n\n它與外交官之家、布拉夫18番館相鄰，適合上坡後稍作停留。可以只看季節花木與建築外觀，再依興趣選一棟洋館參觀，不必為了走遍每個地點而趕路。",
+      "note": "",
+      "official": "https://www.hama-midorinokyokai.or.jp/park/italia/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.436699,
+        "lng": 139.643356,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA16",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/yokohama-yamate/italia.webp",
+        "alt": "山手義大利山庭園的日系水彩插圖"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "yokohama-yamate-slow-walk",
+      "name": "洋館、庭園與一杯紅茶",
+      "ids": [
+        "yokohama-yamate--gaikokan",
+        "yokohama-yamate--enoki",
+        "yokohama-yamate--harbor"
+      ],
+      "start": {
+        "name": "石川町站元町口",
+        "address": "神奈川県横浜市中区石川町2丁目 石川町駅 元町口",
+        "access": "JR 根岸線；出站後往山手方向，前段有上坡"
+      },
+      "end": {
+        "name": "元町・中華街站",
+        "address": "神奈川県横浜市中区山下町 元町・中華街駅",
+        "access": "港未來線"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "沿山手的洋館與庭園慢走，選一間茶室，把港景留在散步尾聲。",
+      "note": "沿途有坡道；多座洋館是替換選項，建議只選一兩棟入內。正式下午茶須依店家規定預約，候位另計。",
+      "stopNotes": {
+        "yokohama-yamate--gaikokan": "選一棟洋館入內，看窗框與生活空間。",
+        "yokohama-yamate--enoki": "以紅茶或甜點安排一段休息。",
+        "yokohama-yamate--harbor": "從山丘看港口，再前往車站。"
+      },
+      "art": "/art/walks/yokohama-yamate/gaikokan.webp"
+    },
+    {
+      "id": "yokohama-yamate-bread-and-house-details",
+      "name": "山手麵包與洋館細節",
+      "ids": [
+        "yokohama-yamate--bakery",
+        "yokohama-yamate--ehrismann",
+        "yokohama-yamate--234"
+      ],
+      "start": {
+        "name": "石川町站元町口",
+        "address": "神奈川県横浜市中区石川町2丁目 石川町駅 元町口",
+        "access": "JR 根岸線；出站後往山手方向，前段有上坡"
+      },
+      "end": {
+        "name": "元町・中華街站",
+        "address": "神奈川県横浜市中区山下町 元町・中華街駅",
+        "access": "港未來線"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "沿代官坂買一份麵包，再挑兩座相近洋館，看窗框、家具與昔日生活。",
+      "note": "山手有坡道；愛麗絲曼邸第 2 週三、山手 234 番館第 4 週三休館，假日順延，年末年始另休。只安排兩棟入內，麵包店以購物停留，不預設內用座位。",
+      "stopNotes": {
+        "yokohama-yamate--bakery": "挑一份麵包，從代官坂的日常店舖展開散步。",
+        "yokohama-yamate--ehrismann": "看看洋館室內、窗邊與家具細節。",
+        "yokohama-yamate--234": "走進昔日共同住宅，從空間格局想像山手生活。"
+      },
+      "art": "/art/walks/yokohama-yamate/ehrismann.webp"
+    }
+  ],
+  "defaultSelection": "yokohama-yamate-slow-walk"
+}

@@ -1,0 +1,244 @@
+{
+  "provider": "FOSSGIS OSRM foot / OpenStreetMap",
+  "sourceUrl": "https://routing.openstreetmap.de/about.html",
+  "license": "ODbL-1.0",
+  "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "attribution": "© OpenStreetMap contributors",
+  "checkedAt": "2026-10-23",
+  "routes": [
+    {
+      "id": "books",
+      "ids": [
+        "chigaya",
+        "nobori",
+        "tomei",
+        "bark"
+      ],
+      "requestUrl": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/139.789459,35.705116;139.791198847,35.706055822;139.792694,35.706409;139.7920654,35.704663?overview=false&steps=false&generate_hints=false",
+      "response": {
+        "code": "Ok",
+        "routes": [
+          {
+            "legs": [
+              {
+                "steps": [],
+                "weight": 25.29,
+                "summary": "",
+                "duration": 226.8,
+                "distance": 283.6
+              },
+              {
+                "steps": [],
+                "weight": 18.57,
+                "summary": "",
+                "duration": 163.7,
+                "distance": 204.6
+              },
+              {
+                "steps": [],
+                "weight": 24.13,
+                "summary": "",
+                "duration": 198.9,
+                "distance": 248.6
+              }
+            ],
+            "weight_name": "routability",
+            "weight": 67.99,
+            "duration": 589.4,
+            "distance": 736.8
+          }
+        ],
+        "waypoints": [
+          {
+            "distance": 5.339218067,
+            "name": "三桂通り",
+            "location": [
+              139.7894,
+              35.705117
+            ]
+          },
+          {
+            "distance": 2.875720071,
+            "name": "",
+            "location": [
+              139.791187,
+              35.706032
+            ]
+          },
+          {
+            "distance": 3.686884353,
+            "name": "",
+            "location": [
+              139.792732,
+              35.706397
+            ]
+          },
+          {
+            "distance": 6.828802883,
+            "name": "",
+            "location": [
+              139.792011,
+              35.704706
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "coffee",
+      "ids": [
+        "chigaya",
+        "p_4f678d160f4ac364",
+        "p_5ab99f7b092e719f",
+        "p_2faa023ac911baa6"
+      ],
+      "requestUrl": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/139.789459,35.705116;139.7897117,35.7040738;139.789579,35.7035934;139.789978,35.703739?overview=false&steps=false&generate_hints=false",
+      "response": {
+        "code": "Ok",
+        "routes": [
+          {
+            "legs": [
+              {
+                "steps": [],
+                "weight": 14.31,
+                "summary": "",
+                "duration": 119.1,
+                "distance": 149
+              },
+              {
+                "steps": [],
+                "weight": 5.48,
+                "summary": "",
+                "duration": 43.7,
+                "distance": 54.8
+              },
+              {
+                "steps": [],
+                "weight": 10.85,
+                "summary": "",
+                "duration": 90.1,
+                "distance": 112.6
+              }
+            ],
+            "weight_name": "routability",
+            "weight": 30.64,
+            "duration": 252.9,
+            "distance": 316.4
+          }
+        ],
+        "waypoints": [
+          {
+            "distance": 5.339218067,
+            "name": "三桂通り",
+            "location": [
+              139.7894,
+              35.705117
+            ]
+          },
+          {
+            "distance": 6.5603059,
+            "name": "",
+            "location": [
+              139.789641,
+              35.704086
+            ]
+          },
+          {
+            "distance": 5.164106259,
+            "name": "",
+            "location": [
+              139.789523,
+              35.703602
+            ]
+          },
+          {
+            "distance": 4.144824612,
+            "name": "",
+            "location": [
+              139.790023,
+              35.703732
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "tools",
+      "ids": [
+        "nobori",
+        "p_32eedb3b96b57916",
+        "p_40162bcb1904fe28",
+        "p_f858fe6d8b9f148d"
+      ],
+      "requestUrl": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/139.791198847,35.706055822;139.7896783,35.7027433;139.788807539,35.702160786;139.795746,35.707775?overview=false&steps=false&generate_hints=false",
+      "response": {
+        "code": "Ok",
+        "routes": [
+          {
+            "legs": [
+              {
+                "steps": [],
+                "weight": 37.15,
+                "summary": "",
+                "duration": 357,
+                "distance": 446.4
+              },
+              {
+                "steps": [],
+                "weight": 11.4,
+                "summary": "",
+                "duration": 95.7,
+                "distance": 119.6
+              },
+              {
+                "steps": [],
+                "weight": 82.54,
+                "summary": "",
+                "duration": 775.3,
+                "distance": 968.8
+              }
+            ],
+            "weight_name": "routability",
+            "weight": 131.09,
+            "duration": 1228,
+            "distance": 1534.8
+          }
+        ],
+        "waypoints": [
+          {
+            "distance": 2.875720071,
+            "name": "",
+            "location": [
+              139.791187,
+              35.706032
+            ]
+          },
+          {
+            "distance": 5.548433274,
+            "name": "",
+            "location": [
+              139.789679,
+              35.702793
+            ]
+          },
+          {
+            "distance": 0.8876312886,
+            "name": "",
+            "location": [
+              139.788808,
+              35.702169
+            ]
+          },
+          {
+            "distance": 3.88651383,
+            "name": "",
+            "location": [
+              139.795766,
+              35.707806
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

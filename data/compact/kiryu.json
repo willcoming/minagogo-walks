@@ -1,0 +1,574 @@
+{
+  "updatedAt": "2026-10-25",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kiryu--tenmangu",
+      "order": 1,
+      "name": "桐生天滿宮",
+      "address": "群馬県桐生市天神町1丁目2-1",
+      "group": "sights",
+      "categoryLabel": "社殿建築",
+      "caption": "抬頭看木雕與曲線，走到老街的北端。",
+      "descriptionParagraphs": [
+        "桐生天滿宮位在桐生新町北端，是這段街區散策的重要地標。神社與學問信仰相連，社殿的木雕、彩色細節與屋簷曲線，讓參拜之外也有建築可看。",
+        "沿參道安靜走近，先看整體屋頂，再留意雕刻的層次。這裡與麵包店レンガ距離不遠，可以將參拜和舊工場建築放在同一段步行。"
+      ],
+      "description": "桐生天滿宮位在桐生新町北端，是這段街區散策的重要地標。神社與學問信仰相連，社殿的木雕、彩色細節與屋簷曲線，讓參拜之外也有建築可看。\n\n沿參道安靜走近，先看整體屋頂，再留意雕刻的層次。這裡與麵包店レンガ距離不遠，可以將參拜和舊工場建築放在同一段步行。",
+      "note": "祈願需另向神社確認預約；一般境內參拜與昇殿祈願為不同安排。",
+      "official": "https://kiryutenjin.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.4218434,
+        "lng": 139.3461826,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/390462756",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/tenmangu.webp",
+        "alt": "桐生天滿宮，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "走到老街北端，停下參拜。"
+    },
+    {
+      "id": "kiryu--renga",
+      "order": 2,
+      "name": "ベーカリーカフェ・レンガ",
+      "address": "群馬県桐生市東久方町1丁目1-55",
+      "group": "food",
+      "categoryLabel": "舊工場麵包店",
+      "caption": "在鋸齒屋頂下，安排一段麵包時間。",
+      "descriptionParagraphs": [
+        "レンガ把大正時代的磚造鋸齒屋頂織物工場轉為麵包店與咖啡空間。連續的三角屋頂仍清楚可辨，讓原本服務織物工作的建築，接上今天的早餐與午後休息。",
+        "可以挑選麵包，也可以依店內供應安排喫茶。先在街側看屋頂，再進屋感受較高的空間；這站適合作為看完老街與神社後的收尾。"
+      ],
+      "description": "レンガ把大正時代的磚造鋸齒屋頂織物工場轉為麵包店與咖啡空間。連續的三角屋頂仍清楚可辨，讓原本服務織物工作的建築，接上今天的早餐與午後休息。\n\n可以挑選麵包，也可以依店內供應安排喫茶。先在街側看屋頂，再進屋感受較高的空間；這站適合作為看完老街與神社後的收尾。",
+      "note": "一般用餐與建物、製麵包見學是不同安排；見學需求請先向店家確認。",
+      "official": "https://www.kiryu-renga.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.420415,
+        "lng": 139.3469688,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/536784326",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/renga.webp",
+        "alt": "ベーカリーカフェ・レンガ，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "在鋸齒屋頂的烘焙咖啡店休息。"
+    },
+    {
+      "id": "kiryu--saika",
+      "order": 3,
+      "name": "四辻の齋嘉",
+      "address": "群馬県桐生市東久方町2丁目1-45",
+      "group": "food",
+      "categoryLabel": "老宅喫茶與交流",
+      "caption": "在老宅的窗邊，停下一個午後。",
+      "descriptionParagraphs": [
+        "四辻の齋嘉利用原織物業者齋藤家的住宅，延續老宅的玻璃窗、木作與室內尺度。如今可在此用餐、休息，也作為地方文化活動的空間。",
+        "距離天滿宮與レンガ不遠，適合依當天用餐計畫擇一停留。若為演出或活動而來，需另看活動安排。"
+      ],
+      "description": "四辻の齋嘉利用原織物業者齋藤家的住宅，延續老宅的玻璃窗、木作與室內尺度。如今可在此用餐、休息，也作為地方文化活動的空間。\n\n距離天滿宮與レンガ不遠，適合依當天用餐計畫擇一停留。若為演出或活動而來，需另看活動安排。",
+      "note": "",
+      "official": "https://www.wataraseza.jp/2026/yotsuji_saika/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.4201792,
+        "lng": 139.3464957,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/12920431987",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/saika.webp",
+        "alt": "四辻の齋嘉，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kiryu--ichinoyu",
+      "order": 4,
+      "name": "桐生銭湯 一の湯",
+      "address": "群馬県桐生市本町1丁目4-35",
+      "group": "sights",
+      "categoryLabel": "老街錢湯",
+      "caption": "把老街的尾聲，留給一池熱水。",
+      "descriptionParagraphs": [
+        "一の湯是一度停業後重新營運的老錢湯，延續本町的生活風景。保留傳統澡堂的空間，也讓散步多了一種放鬆的收尾方式。",
+        "若想實際入浴，應依入浴營業時段另留時間；白天經過時，也能從街側看看入口與屋簷。"
+      ],
+      "description": "一の湯是一度停業後重新營運的老錢湯，延續本町的生活風景。保留傳統澡堂的空間，也讓散步多了一種放鬆的收尾方式。\n\n若想實際入浴，應依入浴營業時段另留時間；白天經過時，也能從街側看看入口與屋簷。",
+      "note": "週一及每月 7、17、27 日休息；一般平日入浴以傍晚時段為主。",
+      "official": "https://1noyu.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.419993,
+        "lng": 139.3453178,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/8929073417",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/ichinoyu.webp",
+        "alt": "桐生銭湯 一の湯，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kiryu--fujiya",
+      "order": 5,
+      "name": "藤屋本店",
+      "address": "群馬県桐生市本町1丁目6-35",
+      "group": "food",
+      "categoryLabel": "ひもかわ麵食",
+      "caption": "把寬麵的形狀，記成桐生的一餐。",
+      "descriptionParagraphs": [
+        "藤屋本店是本町的麵食老舖，以桐生地方的寬帶狀ひもかわ烏龍麵為特色。不同於一般細麵的外形，讓一餐也成為認識地方飲食的入口。",
+        "可在天滿宮與老街之間安排用餐，再接著看周邊的工場與老屋。用餐停留應與純步行時間分開估計。"
+      ],
+      "description": "藤屋本店是本町的麵食老舖，以桐生地方的寬帶狀ひもかわ烏龍麵為特色。不同於一般細麵的外形，讓一餐也成為認識地方飲食的入口。\n\n可在天滿宮與老街之間安排用餐，再接著看周邊的工場與老屋。用餐停留應與純步行時間分開估計。",
+      "note": "",
+      "official": "https://worldheritage.pref.gunma.jp/kinutabi/kiryu/joshi.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.4191307,
+        "lng": 139.3448828,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/538623933",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/fujiya.webp",
+        "alt": "藤屋本店，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kiryu--machinaka",
+      "order": 6,
+      "name": "桐生新町 まちなか交流館",
+      "address": "群馬県桐生市本町1丁目7-4",
+      "group": "sights",
+      "categoryLabel": "織物商家老屋",
+      "caption": "走進一座家，讀懂老街的格局。",
+      "descriptionParagraphs": [
+        "まちなか交流館保存舊眞尾邸，把店舖、住居、工場與藏屋相連的織物商家格局展現出來。這座公開設施，也是認識桐生新町保存街區的據點。",
+        "可先看建築與庭院，再回本町街道對照其他商家屋形。參觀與租借空間使用是不同安排。"
+      ],
+      "description": "まちなか交流館保存舊眞尾邸，把店舖、住居、工場與藏屋相連的織物商家格局展現出來。這座公開設施，也是認識桐生新町保存街區的據點。\n\n可先看建築與庭院，再回本町街道對照其他商家屋形。參觀與租借空間使用是不同安排。",
+      "note": "週二、假日翌翌日及年末年始休館；館內禁止一般飲食。",
+      "official": "https://www.city.kiryu.lg.jp/shisetsu/bunka/1023669/1023671.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.418556,
+        "lng": 139.344101,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E6%A1%90%E7%94%9F%E5%B8%82%E6%9C%AC%E7%94%BA1%E4%B8%81%E7%9B%AE7-4",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/machinaka.webp",
+        "alt": "桐生新町 まちなか交流館，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kiryu--yurinkan",
+      "order": 7,
+      "name": "桐生市有鄰館",
+      "address": "群馬県桐生市本町2丁目6-32",
+      "group": "sights",
+      "categoryLabel": "倉庫文化空間",
+      "caption": "走進磚蔵與土藏之間，看看老建築的新用途。",
+      "descriptionParagraphs": [
+        "有鄰館保存了舊矢野商店用於酒、味噌與醬油等事業的倉庫群。十一棟藏屋中，土牆、木門與磚牆呈現不同年代的材料，也留下桐生商業繁盛的痕跡。",
+        "今天的倉庫群作為展覽、演出與文化活動空間。可以沿著開放動線看建物，也可依當期活動安排入內；每座藏屋的開放情況不一定相同。"
+      ],
+      "description": "有鄰館保存了舊矢野商店用於酒、味噌與醬油等事業的倉庫群。十一棟藏屋中，土牆、木門與磚牆呈現不同年代的材料，也留下桐生商業繁盛的痕跡。\n\n今天的倉庫群作為展覽、演出與文化活動空間。可以沿著開放動線看建物，也可依當期活動安排入內；每座藏屋的開放情況不一定相同。",
+      "note": "休館與各藏屋開放情況依官方催物、開館公告；活動可能另有票券。",
+      "official": "https://www.city.kiryu.lg.jp/shisetsu/bunka/yuurinkan/1002917.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.416555,
+        "lng": 139.3431216,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/5170550038",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/yurinkan.webp",
+        "alt": "桐生市有鄰館，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "看倉庫群建築與當期開放空間。"
+    },
+    {
+      "id": "kiryu--yanoen",
+      "order": 8,
+      "name": "矢野園",
+      "address": "群馬県桐生市本町2丁目6-30",
+      "group": "shops",
+      "categoryLabel": "茶葉老舖",
+      "caption": "在瓦簷與暖簾下，挑一份桐生的日常。",
+      "descriptionParagraphs": [
+        "矢野園是本町街景裡仍持續營業的老舖，販售日本茶、米與點心。店舖與店藏延續矢野家商業活動的歷史，木格子、瓦屋簷與白色暖簾也讓散步多了一站看建築的理由。",
+        "可以先逛茶葉與伴手禮，再視行程到店內喫茶有鄰休息。兩者都在有鄰館旁，適合把購物、文化參訪與喝茶接成一小段。"
+      ],
+      "description": "矢野園是本町街景裡仍持續營業的老舖，販售日本茶、米與點心。店舖與店藏延續矢野家商業活動的歷史，木格子、瓦屋簷與白色暖簾也讓散步多了一站看建築的理由。\n\n可以先逛茶葉與伴手禮，再視行程到店內喫茶有鄰休息。兩者都在有鄰館旁，適合把購物、文化參訪與喝茶接成一小段。",
+      "note": "",
+      "official": "https://www.kkyanoen.com/yanoen",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.4164234,
+        "lng": 139.3428557,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/12920452897",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/yanoen.webp",
+        "alt": "矢野園，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kiryu--nishinomiya",
+      "order": 9,
+      "name": "桐生西宮神社",
+      "address": "群馬県桐生市宮本町2丁目1-3",
+      "group": "sights",
+      "categoryLabel": "商都信仰",
+      "caption": "從老街轉進樹蔭，看看商都的守護信仰。",
+      "descriptionParagraphs": [
+        "桐生西宮神社以惠比壽信仰與商業繁盛的祈願為人熟知，每年えびす講是地方重要活動。平日走來，則能從參道與社殿看見另一種安靜的街區表情。",
+        "可從本町向西接近神社，再延伸至美術館方向。參拜和大型祭典的動線不同，應依現場指示行走。"
+      ],
+      "description": "桐生西宮神社以惠比壽信仰與商業繁盛的祈願為人熟知，每年えびす講是地方重要活動。平日走來，則能從參道與社殿看見另一種安靜的街區表情。\n\n可從本町向西接近神社，再延伸至美術館方向。參拜和大型祭典的動線不同，應依現場指示行走。",
+      "note": "",
+      "official": "https://kiryu-nishinomiya-ebisu.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.4178423,
+        "lng": 139.3397692,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/12920489477",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/nishinomiya.webp",
+        "alt": "桐生西宮神社，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kiryu--zoo",
+      "order": 10,
+      "name": "桐生が岡動物園",
+      "address": "群馬県桐生市宮本町3丁目8-13",
+      "group": "sights",
+      "categoryLabel": "山丘動物園",
+      "caption": "沿著山丘，換一段有綠意的散步。",
+      "descriptionParagraphs": [
+        "桐生が岡動物園位在市街北側的山丘，是地方家庭熟悉的公共動物園。園區的坡道與樹蔭，提供不同於本町街屋的步行風景。",
+        "若帶孩子同行，可以從老街另留時間走進園區。動物展示和園內移動需獨立安排，無須一次與所有街區景點走完。"
+      ],
+      "description": "桐生が岡動物園位在市街北側的山丘，是地方家庭熟悉的公共動物園。園區的坡道與樹蔭，提供不同於本町街屋的步行風景。\n\n若帶孩子同行，可以從老街另留時間走進園區。動物展示和園內移動需獨立安排，無須一次與所有街區景點走完。",
+      "note": "目前小熊貓館臨時休館，母子不公開；部分區域僅於現場開放時可進入。通往寂光院的通用口關閉，請由正式入口進出。",
+      "official": "https://www.city.kiryu.lg.jp/zoo/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.4204631,
+        "lng": 139.3399109,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/438892179",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/zoo.webp",
+        "alt": "桐生が岡動物園，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kiryu--azuma",
+      "order": 11,
+      "name": "吾妻公園",
+      "address": "群馬県桐生市宮本町3丁目10-1",
+      "group": "sights",
+      "categoryLabel": "山麓植物公園",
+      "caption": "走進山腳，讓綠意接上老街。",
+      "descriptionParagraphs": [
+        "吾妻公園位在吾妻山麓的谷間，園內以植物與季節花景為特色。與本町的商業街景相比，這裡讓散步多一段較開闊的自然空間。",
+        "可從美術館與西桐生方向延伸前往，依季節看看園路旁的花木。花況隨時節變化，不必為特定花期才安排停留。"
+      ],
+      "description": "吾妻公園位在吾妻山麓的谷間，園內以植物與季節花景為特色。與本町的商業街景相比，這裡讓散步多一段較開闊的自然空間。\n\n可從美術館與西桐生方向延伸前往，依季節看看園路旁的花木。花況隨時節變化，不必為特定花期才安排停留。",
+      "note": "",
+      "official": "https://www.ryomo-kouiki.jp/location/gunma/kiryu/984.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.4208103,
+        "lng": 139.3345966,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/438893714",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/azuma.webp",
+        "alt": "吾妻公園，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kiryu--okawa",
+      "order": 12,
+      "name": "大川美術館",
+      "address": "群馬県桐生市小曽根町3-69",
+      "group": "sights",
+      "categoryLabel": "山麓美術館",
+      "caption": "坐一會兒，和一幅畫慢慢相處。",
+      "descriptionParagraphs": [
+        "大川美術館位在水道山中腹，以大川榮二長年蒐集的日本與海外藝術品為基礎。展示空間設有沙發，讓看畫帶有更接近日常客廳的節奏。",
+        "可以把這站安排在向西延伸的散步中。館內展示與戶外綠意交錯，適合喜歡小型美術館的人多留一段時間。"
+      ],
+      "description": "大川美術館位在水道山中腹，以大川榮二長年蒐集的日本與海外藝術品為基礎。展示空間設有沙發，讓看畫帶有更接近日常客廳的節奏。\n\n可以把這站安排在向西延伸的散步中。館內展示與戶外綠意交錯，適合喜歡小型美術館的人多留一段時間。",
+      "note": "週一及換展期間休館；展覽內容依當期安排。",
+      "official": "https://okawamuseum.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.416889,
+        "lng": 139.333862,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/1420710142",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/okawa.webp",
+        "alt": "大川美術館，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "選當期展覽慢看，將餘下時間留給山丘與回程街景。"
+    },
+    {
+      "id": "kiryu--station",
+      "order": 13,
+      "name": "西桐生站",
+      "address": "群馬県桐生市宮前町2丁目1-33",
+      "group": "sights",
+      "categoryLabel": "歷史車站",
+      "caption": "在列車抵達之前，看看一座老站舍。",
+      "descriptionParagraphs": [
+        "西桐生站保留上毛電鐵開通時期的站舍，建物已登錄為有形文化財。小站的屋頂、候車空間與地方鐵道氣氛，適合作為走進桐生的開場。",
+        "它與 JR 桐生站距離不遠，也可作為散步結束後的交通銜接。看站舍時請留意旅客動線，月台區依鐵道規則使用。"
+      ],
+      "description": "西桐生站保留上毛電鐵開通時期的站舍，建物已登錄為有形文化財。小站的屋頂、候車空間與地方鐵道氣氛，適合作為走進桐生的開場。\n\n它與 JR 桐生站距離不遠，也可作為散步結束後的交通銜接。看站舍時請留意旅客動線，月台區依鐵道規則使用。",
+      "note": "",
+      "official": "https://jomorailway.com/nishikiryu.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.413773,
+        "lng": 139.333954,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E6%A1%90%E7%94%9F%E5%B8%82%E5%AE%AE%E5%89%8D%E7%94%BA2%E4%B8%81%E7%9B%AE1-33",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/station.webp",
+        "alt": "西桐生站，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kiryu--orimono",
+      "order": 14,
+      "name": "桐生織物記念館",
+      "address": "群馬県桐生市永楽町6-6",
+      "group": "shops",
+      "categoryLabel": "織物展示與選物",
+      "caption": "看過織機，再挑一份織都小物。",
+      "descriptionParagraphs": [
+        "桐生織物記念館將昭和初期的建築、二樓資料展示與一樓織物販售結合。可從織機與圖樣認識地方產業，再看看布料、小物與服飾。",
+        "這裡靠近車站，適合安排在散步前後。展示室和販售場的開放時間與休息日略有不同，兩者可分別規劃。"
+      ],
+      "description": "桐生織物記念館將昭和初期的建築、二樓資料展示與一樓織物販售結合。可從織機與圖樣認識地方產業，再看看布料、小物與服飾。\n\n這裡靠近車站，適合安排在散步前後。展示室和販售場的開放時間與休息日略有不同，兩者可分別規劃。",
+      "note": "販售場另於每月最後一個週六及翌週日休息；展示室較早關閉。",
+      "official": "https://kiryuorimonokinenkan.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.412521,
+        "lng": 139.337143,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E6%A1%90%E7%94%9F%E5%B8%82%E6%B0%B8%E6%A5%BD%E7%94%BA6-6",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/orimono.webp",
+        "alt": "桐生織物記念館，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "看織物資料與建築，再依開放情況逛販售場。"
+    },
+    {
+      "id": "kiryu--yukari",
+      "order": 15,
+      "name": "織物參考館「紫」",
+      "address": "群馬県桐生市東4丁目2-24",
+      "group": "sights",
+      "categoryLabel": "工場與織機",
+      "caption": "在鋸齒屋頂下，看見一條線的旅程。",
+      "descriptionParagraphs": [
+        "織物參考館「紫」利用昔日工場建築，展示桐生染織相關的工具、織機與資料。機械的尺度與屋頂採光，讓織都歷史有了可以近看的形狀。",
+        "可先看常設展示，再依興趣另安排手織或染色體驗。它位在本町東側，適合從老街延伸一段。"
+      ],
+      "description": "織物參考館「紫」利用昔日工場建築，展示桐生染織相關的工具、織機與資料。機械的尺度與屋頂採光，讓織都歷史有了可以近看的形狀。\n\n可先看常設展示，再依興趣另安排手織或染色體驗。它位在本町東側，適合從老街延伸一段。",
+      "note": "週一休館，夏季冬季另休週三；手作體驗請事先預約。",
+      "official": "https://www.city.kiryu.lg.jp/kankou/spot/kiryu/1001866.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.4103,
+        "lng": 139.344711,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/1420713152",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiryu/yukari.webp",
+        "alt": "織物參考館「紫」，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "kiryu-slow-walk",
+      "name": "沿本町讀織都",
+      "ids": [
+        "kiryu--yurinkan",
+        "kiryu--tenmangu",
+        "kiryu--renga"
+      ],
+      "start": {
+        "name": "桐生站",
+        "address": "群馬県桐生市 桐生駅",
+        "access": "JR 兩毛線・渡良瀨溪谷鐵道；含車站往返步行"
+      },
+      "end": {
+        "name": "桐生站",
+        "address": "群馬県桐生市 桐生駅"
+      },
+      "totalMinutes": [
+        180,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "倉庫、老茶舖與鋸齒屋頂，沿本町展開織都的午後。",
+      "note": "這區車站往返步行較長，預留約三小時；一之湯先作外觀選點，入浴另排時間。",
+      "stopNotes": {
+        "kiryu--yurinkan": "看倉庫群建築與當期開放空間。",
+        "kiryu--tenmangu": "走到老街北端，停下參拜。",
+        "kiryu--renga": "在鋸齒屋頂的烘焙咖啡店休息。"
+      },
+      "art": "/art/walks/kiryu/yurinkan.webp"
+    },
+    {
+      "id": "kiryu-textiles-and-art",
+      "name": "織物與山丘美術館",
+      "ids": [
+        "kiryu--orimono",
+        "kiryu--okawa"
+      ],
+      "start": {
+        "name": "桐生站",
+        "address": "群馬県桐生市 桐生駅",
+        "access": "JR 兩毛線・渡良瀨溪谷鐵道；含車站往返步行"
+      },
+      "end": {
+        "name": "桐生站",
+        "address": "群馬県桐生市 桐生駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "從織都的布料與老建築，走到山丘上的一場美術展。",
+      "note": "往大川美術館有坡道；館方週一休館，假日改翌日，另有換展休館。織物販售場依每月公告休息；大川館內咖啡目前限週末及假日開放。",
+      "stopNotes": {
+        "kiryu--orimono": "看織物資料與建築，再依開放情況逛販售場。",
+        "kiryu--okawa": "選當期展覽慢看，將餘下時間留給山丘與回程街景。"
+      },
+      "art": "/art/walks/kiryu/okawa.webp"
+    }
+  ],
+  "defaultSelection": "kiryu-slow-walk"
+}

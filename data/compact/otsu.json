@@ -1,0 +1,410 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "otsu--tenson",
+      "order": 1,
+      "name": "天孫神社",
+      "address": "滋賀県大津市京町3-3-36",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "先在樹蔭下，認識大津祭的起點",
+      "descriptionParagraphs": [
+        "天孫神社又稱四宮神社，是大津祭與這座城市生活的重要連結。庭院、社殿與樹木在車站附近留下一片安靜，也替老街散步提供清楚的開場。",
+        "先依參拜動線短暫停留，再往大津別院與商店街方向走。祭典期間人潮與交通會改變，平日則適合用較慢的腳步看建築細節。"
+      ],
+      "description": "天孫神社又稱四宮神社，是大津祭與這座城市生活的重要連結。庭院、社殿與樹木在車站附近留下一片安靜，也替老街散步提供清楚的開場。\n\n先依參拜動線短暫停留，再往大津別院與商店街方向走。祭典期間人潮與交通會改變，平日則適合用較慢的腳步看建築細節。",
+      "note": "",
+      "official": "https://www.keihan.co.jp/visiting/spot/detail/167.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.005489,
+        "lng": 135.867218,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%BA%AC%E7%94%BA3-3-36",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/otsu/tenson.webp",
+        "alt": "天孫神社的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "otsu--betsuin",
+      "order": 2,
+      "name": "大津別院",
+      "address": "滋賀県大津市中央2-5-25",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在老街寺門前，看見大屋頂的層次",
+      "descriptionParagraphs": [
+        "大津別院是東本願寺的別院，創建與地方信眾的支持緊密相連。門內本堂與書院保有歷史建築價值，與周圍住宅形成沉穩的街景。",
+        "本散策以寺門與可開放範圍的短停留為主，室內參觀另向寺方確認。若當天有法務活動，安靜欣賞外觀即可繼續前進。"
+      ],
+      "description": "大津別院是東本願寺的別院，創建與地方信眾的支持緊密相連。門內本堂與書院保有歷史建築價值，與周圍住宅形成沉穩的街景。\n\n本散策以寺門與可開放範圍的短停留為主，室內參觀另向寺方確認。若當天有法務活動，安靜欣賞外觀即可繼續前進。",
+      "note": "",
+      "official": "https://www.k-kyoku.net/betsuin",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.006897,
+        "lng": 135.86702,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%B8%AD%E5%A4%AE2-5-25",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/otsu/betsuin.webp",
+        "alt": "大津別院的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "otsu--park",
+      "order": 3,
+      "name": "大津湖岸渚公園・祭典廣場",
+      "address": "滋賀県大津市島の関",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "走一小段水邊，讓眼睛離開老街",
+      "descriptionParagraphs": [
+        "渚公園沿琵琶湖延伸，本路線選擇靠近大津港與琵琶湖酒店的祭典廣場一帶。水面、遠山與湖岸步道提供開闊景色，和剛走過的窄街形成變化。",
+        "在港邊到廣場之間選一段舒服的距離即可，風大或日曬強時提早折回。較遠的渚露台與由美濱不列入這次步行，留下真正的休息時間。"
+      ],
+      "description": "渚公園沿琵琶湖延伸，本路線選擇靠近大津港與琵琶湖酒店的祭典廣場一帶。水面、遠山與湖岸步道提供開闊景色，和剛走過的窄街形成變化。\n\n在港邊到廣場之間選一段舒服的距離即可，風大或日曬強時提早折回。較遠的渚露台與由美濱不列入這次步行，留下真正的休息時間。",
+      "note": "",
+      "official": "https://www.keihanhotels-resorts.co.jp/biwakohotel/sightseeing/nagisa/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.008633,
+        "lng": 135.869949,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E5%B3%B6%E3%81%AE%E9%96%A2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/otsu/park.webp",
+        "alt": "大津湖岸渚公園・祭典廣場的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "otsu--hall",
+      "order": 4,
+      "name": "舊大津公會堂",
+      "address": "滋賀県大津市浜大津1-4-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在街角洋樓前，看見老城的新用途",
+      "descriptionParagraphs": [
+        "舊大津公會堂建於昭和初期，整修後結合餐飲與公共交流空間，仍保有厚實外牆與古典窗形。從商店街向湖邊移動時，建築成了明顯的轉場。",
+        "短路線可以只欣賞外觀與開放空間；若想在館內用餐，便把它替換成主要休息點。各餐廳有自己的營業安排，不需為逛完整棟而趕路。"
+      ],
+      "description": "舊大津公會堂建於昭和初期，整修後結合餐飲與公共交流空間，仍保有厚實外牆與古典窗形。從商店街向湖邊移動時，建築成了明顯的轉場。\n\n短路線可以只欣賞外觀與開放空間；若想在館內用餐，便把它替換成主要休息點。各餐廳有自己的營業安排，不需為逛完整棟而趕路。",
+      "note": "",
+      "official": "https://www.biwako-visitors.jp/spot/detail/19105/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.010204,
+        "lng": 135.865494,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E6%B5%9C%E5%A4%A7%E6%B4%A51-4-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/otsu/hall.webp",
+        "alt": "舊大津公會堂的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "otsu--port",
+      "order": 5,
+      "name": "大津港",
+      "address": "滋賀県大津市浜大津5-1-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在碼頭看看船，再把湖風帶回車站",
+      "descriptionParagraphs": [
+        "大津港是琵琶湖遊船的出發地，碼頭與旅客設施面向開闊水景。即使不搭船，也能沿岸看船、觀察天光與遠山，感受老港口的節奏。",
+        "把這裡作為散步收尾，再走回附近的琵琶湖濱大津站。若想加入遊船，請另計乘船與候船時間，並相應減少老街停留。"
+      ],
+      "description": "大津港是琵琶湖遊船的出發地，碼頭與旅客設施面向開闊水景。即使不搭船，也能沿岸看船、觀察天光與遠山，感受老港口的節奏。\n\n把這裡作為散步收尾，再走回附近的琵琶湖濱大津站。若想加入遊船，請另計乘船與候船時間，並相應減少老街停留。",
+      "note": "",
+      "official": "https://www.biwakokisen.co.jp/access/otsu/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.012074,
+        "lng": 135.866165,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E6%B5%9C%E5%A4%A7%E6%B4%A55-1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/otsu/port.webp",
+        "alt": "大津港的日系水彩插圖"
+      },
+      "recommendation": "沿湖吹風後，輕鬆走回電車站。"
+    },
+    {
+      "id": "otsu--mochi",
+      "order": 6,
+      "name": "三井寺力餅本家",
+      "address": "滋賀県大津市浜大津2-1-30",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "黃豆粉與蜜香，留住一段甜甜的休息",
+      "descriptionParagraphs": [
+        "三井寺力餅本家把柔軟小餅串起，淋上蜜再撒滿黃豆粉，是濱大津熟悉的地方味道。港邊老舖也提供店內餐飲，適合散步途中坐下。",
+        "推薦在這裡休息後再往公會堂與湖岸走，依當天供應選點心或飲品。這次採用浜大津二丁目本店，與三井寺境內的其他茶店不同。"
+      ],
+      "description": "三井寺力餅本家把柔軟小餅串起，淋上蜜再撒滿黃豆粉，是濱大津熟悉的地方味道。港邊老舖也提供店內餐飲，適合散步途中坐下。\n\n推薦在這裡休息後再往公會堂與湖岸走，依當天供應選點心或飲品。這次採用浜大津二丁目本店，與三井寺境內的其他茶店不同。",
+      "note": "",
+      "official": "https://www.tikaramoti.jp/item/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.011082,
+        "lng": 135.863037,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E6%B5%9C%E5%A4%A7%E6%B4%A52-1-30",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/otsu/mochi.webp",
+        "alt": "三井寺力餅本家的日系水彩插圖"
+      },
+      "recommendation": "吃一份灑滿黃豆粉的力餅，坐下休息。"
+    },
+    {
+      "id": "otsu--hikiyama",
+      "order": 7,
+      "name": "大津祭曳山展示館",
+      "address": "滋賀県大津市中央1-2-27",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從原尺寸曳山，走進老城的祭典記憶",
+      "descriptionParagraphs": [
+        "大津祭曳山展示館以實物尺寸的模型、影像與展示介紹曳山和機關人偶。祭典之外的日子，也能在室內感受裝飾工藝與町人文化的熱鬧。",
+        "推薦把這裡當作主要文化停留，理解街道與祭典的關係後再去逛商店街。若遇休館，可將時間留給大津繪之店與湖岸，不必另跑遠處展館。"
+      ],
+      "description": "大津祭曳山展示館以實物尺寸的模型、影像與展示介紹曳山和機關人偶。祭典之外的日子，也能在室內感受裝飾工藝與町人文化的熱鬧。\n\n推薦把這裡當作主要文化停留，理解街道與祭典的關係後再去逛商店街。若遇休館，可將時間留給大津繪之店與湖岸，不必另跑遠處展館。",
+      "note": "",
+      "official": "https://www.city.otsu.lg.jp/sc/event/a/s/63192.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.008492,
+        "lng": 135.863449,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%B8%AD%E5%A4%AE1-2-27",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/otsu/hikiyama.webp",
+        "alt": "大津祭曳山展示館的日系水彩插圖"
+      },
+      "recommendation": "從曳山與機關人偶，看懂這座城的祭典。"
+    },
+    {
+      "id": "otsu--arcade",
+      "order": 8,
+      "name": "大津中町商店街",
+      "address": "滋賀県大津市長等2丁目",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "沿著拱廊，看看老街今日的生活",
+      "descriptionParagraphs": [
+        "大津中町商店街由丸屋町、菱屋町與長等等街段連成，店面與生活採買延續舊市街的日常。拱廊下既有老店，也有隨季節出現的市集活動。",
+        "只需選靠近曳山展示館與長等的一小段慢走，看到有興趣的店再停下。各店開門日不同，商店街適合探索，不必期待每間同時營業。"
+      ],
+      "description": "大津中町商店街由丸屋町、菱屋町與長等等街段連成，店面與生活採買延續舊市街的日常。拱廊下既有老店，也有隨季節出現的市集活動。\n\n只需選靠近曳山展示館與長等的一小段慢走，看到有興趣的店再停下。各店開門日不同，商店街適合探索，不必期待每間同時營業。",
+      "note": "",
+      "official": "https://otsu-nakamachi.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.009125,
+        "lng": 135.860306,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E9%95%B7%E7%AD%892%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/otsu/arcade.webp",
+        "alt": "大津中町商店街的日系水彩插圖"
+      },
+      "recommendation": "穿過相連的商店街，看看街坊買菜與店頭日常。"
+    },
+    {
+      "id": "otsu--kanou",
+      "order": 9,
+      "name": "叶匠壽庵長等總本店",
+      "address": "滋賀県大津市長等2-4-2",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "在創業街區，挑一份柔軟的和菓子",
+      "descriptionParagraphs": [
+        "叶匠壽庵的長等總本店位在老街生活圈，和菓子把豆香、米食與季節感收進小小份量。這裡適合作為選購伴手禮的一站，和民畫小店順路串接。",
+        "依當日陳列挑一份點心即可，購買前確認保存方式與賞味期限。主要坐下休息安排在力餅本家，這裡以店頭選購為主。"
+      ],
+      "description": "叶匠壽庵的長等總本店位在老街生活圈，和菓子把豆香、米食與季節感收進小小份量。這裡適合作為選購伴手禮的一站，和民畫小店順路串接。\n\n依當日陳列挑一份點心即可，購買前確認保存方式與賞味期限。主要坐下休息安排在力餅本家，這裡以店頭選購為主。",
+      "note": "",
+      "official": "https://kanou.com/gnaviplus/store/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.008587,
+        "lng": 135.858582,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E9%95%B7%E7%AD%892-4-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/otsu/kanou.webp",
+        "alt": "叶匠壽庵長等總本店的日系水彩插圖"
+      },
+      "recommendation": "依當日陳列挑一份和菓子帶走，確認保存與賞味期限。"
+    },
+    {
+      "id": "otsu--otsue",
+      "order": 10,
+      "name": "大津繪之店",
+      "address": "滋賀県大津市三井寺町3-38",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "讓民畫的線條，替旅行留下一個表情",
+      "descriptionParagraphs": [
+        "大津繪之店展示並販售地方傳統民畫，依循傳承的技法描繪富有生活趣味的人物與題材。老式店內空間，讓畫作與這座宿場城市的歷史自然相連。",
+        "喜歡工藝與圖像的人可以多停留一會，看看色紙、版畫或明信片等當日品項。它位在三井寺町街道上，不需要再走到三井寺境內。"
+      ],
+      "description": "大津繪之店展示並販售地方傳統民畫，依循傳承的技法描繪富有生活趣味的人物與題材。老式店內空間，讓畫作與這座宿場城市的歷史自然相連。\n\n喜歡工藝與圖像的人可以多停留一會，看看色紙、版畫或明信片等當日品項。它位在三井寺町街道上，不需要再走到三井寺境內。",
+      "note": "",
+      "official": "https://otsu.or.jp/thingstodo/spot52",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.009674,
+        "lng": 135.85759,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%B8%89%E4%BA%95%E5%AF%BA%E7%94%BA3-38",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/otsu/otsue.webp",
+        "alt": "大津繪之店的日系水彩插圖"
+      },
+      "recommendation": "從民畫的表情、筆線與題材，選一張喜歡的畫或明信片。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "otsu-slow-walk",
+      "name": "祭典老街與琵琶湖的風",
+      "ids": [
+        "otsu--hikiyama",
+        "otsu--mochi",
+        "otsu--port"
+      ],
+      "start": {
+        "name": "JR 大津站",
+        "address": "滋賀県大津市春日町1-3 大津駅",
+        "access": "JR 琵琶湖線；北口出站，向天孫神社與舊市街慢走"
+      },
+      "end": {
+        "name": "琵琶湖濱大津站",
+        "address": "滋賀県大津市浜大津1丁目 びわ湖浜大津駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從大津祭的街道到港邊，選一間和菓子店，留時間看看琵琶湖。",
+      "note": "十個地點供挑選，主線以三站為重點，保留 30～45 分鐘自由逛街與休息。湖岸只走港邊至祭典廣場，不延伸到膳所或三井寺；遊船與寺院室內導覽需另外安排時間。",
+      "stopNotes": {
+        "otsu--hikiyama": "從曳山與機關人偶，看懂這座城的祭典。",
+        "otsu--mochi": "吃一份灑滿黃豆粉的力餅，坐下休息。",
+        "otsu--port": "沿湖吹風後，輕鬆走回電車站。"
+      },
+      "art": "/art/walks/otsu/port.webp"
+    },
+    {
+      "id": "otsu-arcades-and-folk-art",
+      "name": "拱廊和菓子與大津繪",
+      "ids": [
+        "otsu--arcade",
+        "otsu--kanou",
+        "otsu--otsue"
+      ],
+      "start": {
+        "name": "JR 大津站",
+        "address": "滋賀県大津市春日町1-3 大津駅",
+        "access": "JR 琵琶湖線；北口出站，往中町商店街與長等方向慢走"
+      },
+      "end": {
+        "name": "琵琶湖濱大津站",
+        "address": "滋賀県大津市浜大津1丁目 びわ湖浜大津駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "沿著連成一片的生活商店街，挑一份和菓子，再到民畫小店看看大津的幽默表情。",
+      "note": "叶匠壽庵長等總本店以店頭選購為主，通常週三休息並依月曆調整；大津繪之店第一、第三個週日休息。保留 30～45 分鐘自由逛街與自行選休息點；不把三井寺登坡或遊船加入同一時段，各店休業依當日公告。",
+      "stopNotes": {
+        "otsu--arcade": "穿過相連的商店街，看看街坊買菜與店頭日常。",
+        "otsu--kanou": "依當日陳列挑一份和菓子帶走，確認保存與賞味期限。",
+        "otsu--otsue": "從民畫的表情、筆線與題材，選一張喜歡的畫或明信片。"
+      },
+      "art": "/art/walks/otsu/arcade.webp"
+    }
+  ],
+  "defaultSelection": "otsu-slow-walk"
+}

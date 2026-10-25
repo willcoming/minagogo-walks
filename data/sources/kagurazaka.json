@@ -1,0 +1,493 @@
+{
+  "walkId": "kagurazaka",
+  "checkedAt": "2026-10-24",
+  "method": "官方與實訪內容查證後以繁體中文原創撰寫，座標採 OpenStreetMap 與國土地理院開放資料，精度各別註明，步行距離以 OSRM foot 路網估算。",
+  "places": [
+    {
+      "id": "kagurazaka--canal",
+      "contentSources": [
+        "https://www.canalcafe.jp/information",
+        "https://www.canalcafe.jp/deck-side"
+      ],
+      "coordinate": {
+        "lat": 35.7002854,
+        "lng": 139.7428114,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/691449457",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.canalcafe.jp/",
+          "imageUrl": "https://www.canalcafe.jp/wp/wp-content/uploads/top_img_202505_deck-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--kakurenbo",
+      "contentSources": [
+        "https://www.kanko-shinjuku.jp/spot/-/article_434.html"
+      ],
+      "coordinate": {
+        "lat": 35.701999442857144,
+        "lng": 139.74099982857143,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/54937472",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.kanko-shinjuku.jp/spot/-/article_434.html",
+          "imageUrl": "https://www.kanko-shinjuku.jp/uploadfiles/regular/img_434_20200327163433_0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--zenkokuji",
+      "contentSources": [
+        "https://kagurazaka-bishamonten.com/"
+      ],
+      "coordinate": {
+        "lat": 35.70145906,
+        "lng": 139.73950618,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/1270865653",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kagurazaka-bishamonten.com/",
+          "imageUrl": "https://kagurazaka-bishamonten.com/wp-content/uploads/2024/11/header_img_1-scaled.webp"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--akagi",
+      "contentSources": [
+        "https://akagi-jinja.jp/",
+        "https://akagi-jinja.jp/layout/"
+      ],
+      "coordinate": {
+        "lat": 35.704576235714285,
+        "lng": 139.73601892142855,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/143516722",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://akagi-jinja.jp/",
+          "imageUrl": "https://akagi-jinja.jp/img/001.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--lecoin",
+      "contentSources": [
+        "https://note.com/sincere_lab/n/n1926af5cac27",
+        "https://kaguramura.jp/event/festival/2373/"
+      ],
+      "coordinate": {
+        "lat": 35.699912,
+        "lng": 139.7407643,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6388933698",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kaguramura.jp/event/festival/2373/",
+          "imageUrl": "https://kaguramura.jp/db_img/event_img/2373/event_img2_20261012115619973.JPG"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--tombolo",
+      "contentSources": [
+        "https://www.enjoytokyo.jp/article/110064/",
+        "https://kaguramura.jp/detail/1/news-detail-19217.html"
+      ],
+      "coordinate": {
+        "lat": 35.703049,
+        "lng": 139.737305,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%826-16",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kaguramura.jp/detail/1/news-detail-19217.html",
+          "imageUrl": "https://pbs.twimg.com/media/Ec2Tj51VcAA2anf.png"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--fujiya",
+      "contentSources": [
+        "http://pekochanyaki.jp/pekochanyaki.html",
+        "https://shinjuku-loupe.info/p/member/140"
+      ],
+      "coordinate": {
+        "lat": 35.700867,
+        "lng": 139.742706,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%821-12",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      },
+      "photos": [
+        {
+          "pageUrl": "http://pekochanyaki.jp/pekochanyaki.html",
+          "imageUrl": "http://pekochanyaki.jp/img/pekochanyaki/top_pekochanyaki.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--bretagne",
+      "contentSources": [
+        "https://le-bretagne.com/creperie/kagurazaka/"
+      ],
+      "coordinate": {
+        "lat": 35.7018913,
+        "lng": 139.7397127,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/919282425",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://le-bretagne.com/creperie/kagurazaka/",
+          "imageUrl": "https://le-bretagne.com/wp-content/uploads/2022/07/Kagurazaka2.webp"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--kamome",
+      "contentSources": [
+        "https://kamomebooks.jp/about",
+        "https://kamomebooks.jp/access"
+      ],
+      "coordinate": {
+        "lat": 35.7041288,
+        "lng": 139.7334923,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/5344350292",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kamomebooks.jp/about",
+          "imageUrl": "https://kamomebooks.jp/asset/image/img_about02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--akha",
+      "contentSources": [
+        "https://akhaama.jp/",
+        "https://akhaama.jp/pages/store-info",
+        "https://metropolitana.tokyo/ja/archive/tokyo-pocket2510"
+      ],
+      "coordinate": {
+        "lat": 35.7046751,
+        "lng": 139.7372751,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/11337867169",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.enjoytokyo.jp/article/110064/",
+          "imageUrl": "https://rstatic.enjoytokyo.jp/assets/images/article/9a/7093/4029601.jpg?1788746700=&p=t&w=1800"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--mori",
+      "contentSources": [
+        "https://doughnutmori.com/",
+        "https://kaguramura.jp/course/donutsanpo/"
+      ],
+      "coordinate": {
+        "lat": 35.704911,
+        "lng": 139.735289,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4405377331",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://doughnutmori.com/",
+          "imageUrl": "https://doughnutmori.com/img/TYJ_1076_0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--kyoraku",
+      "contentSources": [
+        "https://gc23000.gorp.jp/",
+        "https://www.instagram.com/kyourakutei"
+      ],
+      "coordinate": {
+        "lat": 35.701012,
+        "lng": 139.739624,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%823-6",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://r.gnavi.co.jp/gc23000/",
+          "imageUrl": "https://rimage.gnst.jp/rest/img/nnnk55jh0000/t_0n5f.jpg?t=1613459309"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--akomeya",
+      "contentSources": [
+        "https://www.akomeya.jp/store_info/store/sinlakagu/"
+      ],
+      "coordinate": {
+        "lat": 35.7036493,
+        "lng": 139.7332128,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4496407543",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.akomeya.jp/store_info/store/sinlakagu/",
+          "imageUrl": "https://www.akomeya.jp/img/blog_store/710024/710024_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--saryo",
+      "contentSources": [
+        "https://saryo.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.7020363,
+        "lng": 139.7410856,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/11422123670",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://saryo.jp/",
+          "imageUrl": "https://saryo.jp/wp/wp-content/themes/saryo/img/shop_honten.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kagurazaka--baikatei",
+      "contentSources": [
+        "https://www.baikatei.co.jp/index.html",
+        "https://www.baikatei.co.jp/about.html"
+      ],
+      "coordinate": {
+        "lat": 35.7030439,
+        "lng": 139.7370003,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4408539269",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.baikatei.co.jp/index.html",
+          "imageUrl": "https://www.baikatei.co.jp/images/main01.jpg"
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "canal": {
+      "pageUrl": "https://www.canalcafe.jp/",
+      "imageUrl": "https://www.canalcafe.jp/wp/wp-content/uploads/top_img_202505_deck-2.jpg"
+    },
+    "kakurenbo": {
+      "pageUrl": "https://www.kanko-shinjuku.jp/spot/-/article_434.html",
+      "imageUrl": "https://www.kanko-shinjuku.jp/uploadfiles/regular/img_434_20200327163433_0.jpg"
+    },
+    "zenkokuji": {
+      "pageUrl": "https://kagurazaka-bishamonten.com/",
+      "imageUrl": "https://kagurazaka-bishamonten.com/wp-content/uploads/2024/11/header_img_1-scaled.webp"
+    },
+    "akagi": {
+      "pageUrl": "https://akagi-jinja.jp/",
+      "imageUrl": "https://akagi-jinja.jp/img/001.jpg"
+    },
+    "lecoin": {
+      "pageUrl": "https://kaguramura.jp/event/festival/2373/",
+      "imageUrl": "https://kaguramura.jp/db_img/event_img/2373/event_img2_20261012115619973.JPG"
+    },
+    "tombolo": {
+      "pageUrl": "https://kaguramura.jp/detail/1/news-detail-19217.html",
+      "imageUrl": "https://pbs.twimg.com/media/Ec2Tj51VcAA2anf.png"
+    },
+    "fujiya": {
+      "pageUrl": "http://pekochanyaki.jp/pekochanyaki.html",
+      "imageUrl": "http://pekochanyaki.jp/img/pekochanyaki/top_pekochanyaki.jpg"
+    },
+    "bretagne": {
+      "pageUrl": "https://le-bretagne.com/creperie/kagurazaka/",
+      "imageUrl": "https://le-bretagne.com/wp-content/uploads/2022/07/Kagurazaka2.webp"
+    },
+    "kamome": {
+      "pageUrl": "https://kamomebooks.jp/about",
+      "imageUrl": "https://kamomebooks.jp/asset/image/img_about02.jpg"
+    },
+    "akha": {
+      "pageUrl": "https://www.enjoytokyo.jp/article/110064/",
+      "imageUrl": "https://rstatic.enjoytokyo.jp/assets/images/article/9a/7093/4029601.jpg?1788746700=&p=t&w=1800"
+    },
+    "mori": {
+      "pageUrl": "https://doughnutmori.com/",
+      "imageUrl": "https://doughnutmori.com/img/TYJ_1076_0.jpg"
+    },
+    "kyoraku": {
+      "pageUrl": "https://r.gnavi.co.jp/gc23000/",
+      "imageUrl": "https://rimage.gnst.jp/rest/img/nnnk55jh0000/t_0n5f.jpg?t=1613459309"
+    },
+    "akomeya": {
+      "pageUrl": "https://www.akomeya.jp/store_info/store/sinlakagu/",
+      "imageUrl": "https://www.akomeya.jp/img/blog_store/710024/710024_1.jpg"
+    },
+    "saryo": {
+      "pageUrl": "https://saryo.jp/",
+      "imageUrl": "https://saryo.jp/wp/wp-content/themes/saryo/img/shop_honten.jpg"
+    },
+    "baikatei": {
+      "pageUrl": "https://www.baikatei.co.jp/index.html",
+      "imageUrl": "https://www.baikatei.co.jp/images/main01.jpg"
+    }
+  },
+  "walking": {
+    "checkedAt": "2026-10-24",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/139.7428114,35.7002854;139.74099982857143,35.701999442857144;139.73950618,35.70145906;139.73601892142855,35.704576235714285?overview=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 29.32,
+              "summary": "",
+              "duration": 269.6,
+              "distance": 336.9
+            },
+            {
+              "steps": [],
+              "weight": 21.19,
+              "summary": "",
+              "duration": 180.7,
+              "distance": 225.8
+            },
+            {
+              "steps": [],
+              "weight": 45.91,
+              "summary": "",
+              "duration": 442.8,
+              "distance": 550.7
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 96.42,
+          "duration": 893.1,
+          "distance": 1113.4
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "5kxBgehMQYENAAAAFwAAAAAAAAAeAAAAZ0fSP-GbKUAAAAAAogpkQAwAAAAWAAAAAAAAAB0AAABxAgAAdE5UCGS-IAJbTlQIPb4gAgAAnxIAAAAA",
+          "location": [
+            139.742836,
+            35.700324
+          ],
+          "name": "",
+          "distance": 4.882707968
+        },
+        {
+          "hint": "0NFhgNvRYYBXAAAAAAAAAI4BAAB2AAAACCAmQQAAAABYFz9CMFFhQVMAAAAAAAAAfgEAAHAAAABxAgAADUdUCCjFIAJIR1QI78QgAgIA_wwAAAAA",
+          "location": [
+            139.740941,
+            35.702056
+          ],
+          "name": "",
+          "distance": 8.276027536
+        },
+        {
+          "hint": "xP0_gcf9P4EAAAAARgAAAAAAAAAlAAAAAAAAAARQB0EAAAAALmKNQAAAAABEAAAAAAAAACMAAABxAgAAdEFUCP3CIAJyQVQI08IgAgAAXwEAAAAA",
+          "location": [
+            139.739508,
+            35.701501
+          ],
+          "name": "",
+          "distance": 4.663576132
+        },
+        {
+          "hint": "-I87hp7-eYmbAAAACwAAAOoAAAB4AQAAtVWVQUfunT92_d9Bp0A0QpQAAAALAAAA4AAAAGkBAABxAgAA7jNUCP3OIALTM1QIAM8gAgQAvwsAAAAA",
+          "location": [
+            139.736046,
+            35.704573
+          ],
+          "name": "",
+          "distance": 2.465416906
+        }
+      ]
+    }
+  },
+  "visitEstimate": {
+    "minutes": [
+      95,
+      155
+    ],
+    "method": "步行約15分鐘，加上水岸咖啡35–60分鐘、石疊橫丁15–25分鐘、善國寺與赤城神社各15–25分鐘；排隊與其他探索點另計。"
+  }
+}

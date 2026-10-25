@@ -1,0 +1,607 @@
+{
+  "updatedAt": "2026-10-24",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kagurazaka--canal",
+      "order": 1,
+      "name": "CANAL CAFE",
+      "address": "東京都新宿区神楽坂1-9",
+      "group": "food",
+      "categoryLabel": "水岸咖啡",
+      "caption": "先在外濠邊，慢慢進入神樂坂。",
+      "descriptionParagraphs": [
+        "飯田橋站旁的外濠，藏著一段沿水面展開的咖啡時光。CANAL CAFE 將餐廳與戶外甲板分成不同空間，走上木板步道，視線便從車站與街道轉向水面。",
+        "甲板區採自助點餐，適合在正式爬坡前喝杯咖啡、吃點輕食。沿著盆栽與欄杆找一個位置，神樂坂的散步可以從開闊的水岸開始。"
+      ],
+      "description": "飯田橋站旁的外濠，藏著一段沿水面展開的咖啡時光。CANAL CAFE 將餐廳與戶外甲板分成不同空間，走上木板步道，視線便從車站與街道轉向水面。\n\n甲板區採自助點餐，適合在正式爬坡前喝杯咖啡、吃點輕食。沿著盆栽與欄杆找一個位置，神樂坂的散步可以從開闊的水岸開始。",
+      "note": "甲板區為戶外座位，不接受訂位；每月第一、第三個星期一店休。",
+      "official": "https://www.canalcafe.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "VolPlAGf37A",
+          "title": "【漫步神樂坂 東京小巴黎】用法國可頌開啟一天｜飯田橋美景河畔餐廳｜巷弄江戶風情｜大雪的一天｜Japan Lifestyle｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=VolPlAGf37A",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.7002854,
+        "lng": 139.7428114,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/691449457",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/canal.webp",
+        "alt": "CANAL CAFE的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--kakurenbo",
+      "order": 2,
+      "name": "かくれんぼ横丁",
+      "address": "東京都新宿区神楽坂3丁目周辺",
+      "group": "sights",
+      "categoryLabel": "石疊小巷",
+      "caption": "彎進窄巷，遇見木格與石板。",
+      "descriptionParagraphs": [
+        "離開神樂坂通的熱鬧，只要轉一個彎，便能進入かくれんぼ横丁。窄小巷道以石板鋪成，木格、黑色圍牆與老料亭的門面，把花街的尺度留在步行之間。",
+        "這裡的樂趣在於放慢腳步，看道路如何轉折、門口如何收進建築。適合接在飯田橋一側的店家之後，慢慢走向善國寺。"
+      ],
+      "description": "離開神樂坂通的熱鬧，只要轉一個彎，便能進入かくれんぼ横丁。窄小巷道以石板鋪成，木格、黑色圍牆與老料亭的門面，把花街的尺度留在步行之間。\n\n這裡的樂趣在於放慢腳步，看道路如何轉折、門口如何收進建築。適合接在飯田橋一側的店家之後，慢慢走向善國寺。",
+      "note": "巷內仍有營業店家與私人空間，請保持通道暢通。",
+      "official": "https://www.kanko-shinjuku.jp/spot/-/article_434.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.701999442857144,
+        "lng": 139.74099982857143,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/54937472",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/kakurenbo.webp",
+        "alt": "かくれんぼ横丁的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--zenkokuji",
+      "order": 3,
+      "name": "毘沙門天 善國寺",
+      "address": "東京都新宿区神楽坂5-36",
+      "group": "sights",
+      "categoryLabel": "寺院",
+      "caption": "在商店街的中央，留一段安靜。",
+      "descriptionParagraphs": [
+        "善國寺創建於1595年，供奉的毘沙門天自江戶時代便受到信仰，也成為神樂坂的街區地標。走在商店街上，朱紅色的寺院與石虎便會把目光接住。",
+        "參拜之後，可以從境內重新望向街道，感受宗教空間與日常商店緊鄰的神樂坂。這一站位置居中，適合在逛店與走小巷之間稍作停留。"
+      ],
+      "description": "善國寺創建於1595年，供奉的毘沙門天自江戶時代便受到信仰，也成為神樂坂的街區地標。走在商店街上，朱紅色的寺院與石虎便會把目光接住。\n\n參拜之後，可以從境內重新望向街道，感受宗教空間與日常商店緊鄰的神樂坂。這一站位置居中，適合在逛店與走小巷之間稍作停留。",
+      "note": "毘沙門天像平時有御簾遮蔽，僅特定開帳日可見。",
+      "official": "https://kagurazaka-bishamonten.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.70145906,
+        "lng": 139.73950618,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/1270865653",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/zenkokuji.webp",
+        "alt": "毘沙門天 善國寺的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--akagi",
+      "order": 4,
+      "name": "赤城神社",
+      "address": "東京都新宿区赤城元町1-10",
+      "group": "sights",
+      "categoryLabel": "神社建築",
+      "caption": "拾級而上，看見輕盈的神社。",
+      "descriptionParagraphs": [
+        "赤城神社位於神樂坂坡頂一帶，寬闊階梯把街道與樹木環繞的境內連在一起。更新後的社殿以木材與玻璃呈現開放感，讓參拜也成為一段觀看當代神社建築的時間。",
+        "走上階梯，周圍的住宅街與咖啡店便安靜下來。可以把這裡當作由飯田橋一路往上走的終點，再沿赤城元町的小店折回神樂坂站。"
+      ],
+      "description": "赤城神社位於神樂坂坡頂一帶，寬闊階梯把街道與樹木環繞的境內連在一起。更新後的社殿以木材與玻璃呈現開放感，讓參拜也成為一段觀看當代神社建築的時間。\n\n走上階梯，周圍的住宅街與咖啡店便安靜下來。可以把這裡當作由飯田橋一路往上走的終點，再沿赤城元町的小店折回神樂坂站。",
+      "note": "境內禁止席地坐下、飲食與吸菸，且無公共洗手間。",
+      "official": "https://akagi-jinja.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.704576235714285,
+        "lng": 139.73601892142855,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/143516722",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/akagi.webp",
+        "alt": "赤城神社的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--lecoin",
+      "order": 5,
+      "name": "Le Coin Vert Kagurazaka",
+      "address": "東京都新宿区神楽坂2-20-14",
+      "group": "food",
+      "categoryLabel": "法式糕點",
+      "caption": "在綠意旁，找回烘焙的香氣。",
+      "descriptionParagraphs": [
+        "神樂坂巷內的 Le Coin Vert 於2026年10月迎來新的主廚吉川誠，在原址重新開店。店內延續法式糕點與麵包的方向，也加入新主廚對食材與製作的想法。",
+        "可以挑一份可頌、巧克力麵包或烘焙小點，為石疊小路的散步添上法式風味。這裡鄰近飯田橋一側，適合先買點心，再往坂上走。"
+      ],
+      "description": "神樂坂巷內的 Le Coin Vert 於2026年10月迎來新的主廚吉川誠，在原址重新開店。店內延續法式糕點與麵包的方向，也加入新主廚對食材與製作的想法。\n\n可以挑一份可頌、巧克力麵包或烘焙小點，為石疊小路的散步添上法式風味。這裡鄰近飯田橋一側，適合先買點心，再往坂上走。",
+      "note": "2026年10月起為新主廚經營，影片中的舊店品項未必延續；星期二、三店休。",
+      "official": "https://www.instagram.com/lecoinvert_kagurazaka/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "VolPlAGf37A",
+          "title": "【漫步神樂坂 東京小巴黎】用法國可頌開啟一天｜飯田橋美景河畔餐廳｜巷弄江戶風情｜大雪的一天｜Japan Lifestyle｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=VolPlAGf37A",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.699912,
+        "lng": 139.7407643,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6388933698",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/lecoin.webp",
+        "alt": "Le Coin Vert Kagurazaka的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--tombolo",
+      "order": 6,
+      "name": "喫茶トンボロ",
+      "address": "東京都新宿区神楽坂6-16",
+      "group": "food",
+      "categoryLabel": "老喫茶",
+      "caption": "讓咖啡與木造空間，把步調放慢。",
+      "descriptionParagraphs": [
+        "從神樂坂通轉入小路，トンボロ以木造門面與植栽迎接散步的人。店主夫婦經營的小喫茶，保留改造舊寫植工場留下的板木與物件，空間帶著層層使用的痕跡。",
+        "點一杯現磨咖啡，搭配手作布丁或鬆餅，便能把逛街的節奏暫停一下。它藏在主街旁，卻讓人很快感受到街區日常的親近。"
+      ],
+      "description": "從神樂坂通轉入小路，トンボロ以木造門面與植栽迎接散步的人。店主夫婦經營的小喫茶，保留改造舊寫植工場留下的板木與物件，空間帶著層層使用的痕跡。\n\n點一杯現磨咖啡，搭配手作布丁或鬆餅，便能把逛街的節奏暫停一下。它藏在主街旁，卻讓人很快感受到街區日常的親近。",
+      "note": "",
+      "official": "https://www.enjoytokyo.jp/article/110064/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "VolPlAGf37A",
+          "title": "【漫步神樂坂 東京小巴黎】用法國可頌開啟一天｜飯田橋美景河畔餐廳｜巷弄江戶風情｜大雪的一天｜Japan Lifestyle｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=VolPlAGf37A",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.703049,
+        "lng": 139.737305,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%826-16",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/tombolo.webp",
+        "alt": "喫茶トンボロ的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--fujiya",
+      "order": 7,
+      "name": "不二家 飯田橋神楽坂店",
+      "address": "東京都新宿区神楽坂1-12",
+      "group": "food",
+      "categoryLabel": "人形燒",
+      "caption": "把佩可的笑臉，裝進散步紙袋。",
+      "descriptionParagraphs": [
+        "飯田橋站旁的不二家，是神樂坂甜點散步很有辨識度的一站。這裡從1969年起販售佩可造型的人形燒，圓潤的五官與烤色，讓熟悉的角色化成街角小點。",
+        "可選不同內餡的ペコちゃん焼き帶走，也能順路看看店內的洋菓子。位置就在坡道入口，適合作為抵達神樂坂後的第一口甜味。"
+      ],
+      "description": "飯田橋站旁的不二家，是神樂坂甜點散步很有辨識度的一站。這裡從1969年起販售佩可造型的人形燒，圓潤的五官與烤色，讓熟悉的角色化成街角小點。\n\n可選不同內餡的ペコちゃん焼き帶走，也能順路看看店內的洋菓子。位置就在坡道入口，適合作為抵達神樂坂後的第一口甜味。",
+      "note": "",
+      "official": "http://pekochanyaki.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "VolPlAGf37A",
+          "title": "【漫步神樂坂 東京小巴黎】用法國可頌開啟一天｜飯田橋美景河畔餐廳｜巷弄江戶風情｜大雪的一天｜Japan Lifestyle｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=VolPlAGf37A",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.700867,
+        "lng": 139.742706,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%821-12",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/fujiya.webp",
+        "alt": "不二家 飯田橋神楽坂店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--bretagne",
+      "order": 8,
+      "name": "ル ブルターニュ 神楽坂店",
+      "address": "東京都新宿区神楽坂4-2",
+      "group": "food",
+      "categoryLabel": "法式可麗餅",
+      "caption": "在石疊街區，吃一份布列塔尼。",
+      "descriptionParagraphs": [
+        "ル ブルターニュ於1996年在神樂坂開設可麗餅專門店，把法國布列塔尼的蕎麥薄餅帶進東京街區。木質店內與露台座位，延續了這一帶悠閒的法式氣氛。",
+        "鹹口味的ガレット適合當散步午餐，甜薄餅則可以留給下午。從小巷走回主街時坐下，讓石板路與一頓慢慢吃的餐接在一起。"
+      ],
+      "description": "ル ブルターニュ於1996年在神樂坂開設可麗餅專門店，把法國布列塔尼的蕎麥薄餅帶進東京街區。木質店內與露台座位，延續了這一帶悠閒的法式氣氛。\n\n鹹口味的ガレット適合當散步午餐，甜薄餅則可以留給下午。從小巷走回主街時坐下，讓石板路與一頓慢慢吃的餐接在一起。",
+      "note": "",
+      "official": "https://le-bretagne.com/creperie/kagurazaka/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "uG3Kcy5aNAI",
+          "title": "東京美食神樂坂篇，24小時爽吃特輯四選！神樂坂一日美食地圖，純正法式可麗餅專門店、預約困難起司披薩，牛舌料理居酒屋，激爽和牛內臟燒肉  【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=uG3Kcy5aNAI",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.7018913,
+        "lng": 139.7397127,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/919282425",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/bretagne.webp",
+        "alt": "ル ブルターニュ 神楽坂店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--kamome",
+      "order": 9,
+      "name": "かもめブックス",
+      "address": "東京都新宿区矢来町123 DEAR LIFE矢来町1F",
+      "group": "shops",
+      "categoryLabel": "書店・咖啡",
+      "caption": "讓一本書，決定下一段停留。",
+      "descriptionParagraphs": [
+        "かもめブックス由從事校對與校閱的公司創立，以主題書架安排與讀者的相遇。書店、咖啡與藝廊共處，讓翻書不只是採買，也是一種可停留的街角生活。",
+        "逛一輪選書，再到併設的 WEEKENDERS COFFEE All Right 喝杯咖啡，或看看當期展覽。就在神樂坂站旁，適合替散步加上一段沒有急著離開的時間。"
+      ],
+      "description": "かもめブックス由從事校對與校閱的公司創立，以主題書架安排與讀者的相遇。書店、咖啡與藝廊共處，讓翻書不只是採買，也是一種可停留的街角生活。\n\n逛一輪選書，再到併設的 WEEKENDERS COFFEE All Right 喝杯咖啡，或看看當期展覽。就在神樂坂站旁，適合替散步加上一段沒有急著離開的時間。",
+      "note": "星期三及每月第二、第四個星期二店休，另有夏季與年末年始休業。",
+      "official": "https://kamomebooks.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.7041288,
+        "lng": 139.7334923,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/5344350292",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/kamome.webp",
+        "alt": "かもめブックス的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--akha",
+      "order": 10,
+      "name": "AKHA AMA COFFEE KAGURAZAKA",
+      "address": "東京都新宿区赤城元町1-25",
+      "group": "food",
+      "categoryLabel": "泰國咖啡",
+      "caption": "從神樂坂的小巷，喝到清邁的山。",
+      "descriptionParagraphs": [
+        "AKHA AMA COFFEE 起源於泰國清邁，由阿卡族咖啡農家庭出身的創辦人串起生產與飲用。神樂坂店位在赤城元町住宅街，木質空間讓咖啡的故事落在輕鬆的日常裡。",
+        "可從手沖、拿鐵或泰式咖啡之間挑一杯，嘗試不同的咖啡表情。從赤城神社繞進小路，便能把參拜與一段咖啡休息接起來。"
+      ],
+      "description": "AKHA AMA COFFEE 起源於泰國清邁，由阿卡族咖啡農家庭出身的創辦人串起生產與飲用。神樂坂店位在赤城元町住宅街，木質空間讓咖啡的故事落在輕鬆的日常裡。\n\n可從手沖、拿鐵或泰式咖啡之間挑一杯，嘗試不同的咖啡表情。從赤城神社繞進小路，便能把參拜與一段咖啡休息接起來。",
+      "note": "",
+      "official": "https://akhaama.jp/pages/store-info#kagurazaka",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.7046751,
+        "lng": 139.7372751,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/11337867169",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/akha.webp",
+        "alt": "AKHA AMA COFFEE KAGURAZAKA的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--mori",
+      "order": 11,
+      "name": "ドーナツもり 神楽坂店",
+      "address": "東京都新宿区赤城下町3-9",
+      "group": "food",
+      "categoryLabel": "手作甜甜圈",
+      "caption": "用一份慢慢發酵的甜味，補充散步力氣。",
+      "descriptionParagraphs": [
+        "ドーナツもり以北海道小麥製作麵團，結合湯種與低溫發酵，讓一顆甜甜圈經過三天才完成。柔軟麵團與不同糖霜，帶著法式糕點技法與日常點心的親切感。",
+        "從赤城神社一帶往下走，便能順路挑選原味或季節口味。喜歡簡單甜味的人，可以從招牌的原味糖霜開始，替小巷散步留一份帶走的點心。"
+      ],
+      "description": "ドーナツもり以北海道小麥製作麵團，結合湯種與低溫發酵，讓一顆甜甜圈經過三天才完成。柔軟麵團與不同糖霜，帶著法式糕點技法與日常點心的親切感。\n\n從赤城神社一帶往下走，便能順路挑選原味或季節口味。喜歡簡單甜味的人，可以從招牌的原味糖霜開始，替小巷散步留一份帶走的點心。",
+      "note": "",
+      "official": "https://doughnutmori.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zhXMw8zkrFE",
+          "title": "cafe vlog｜人気沸騰中！東京ドーナッツ巡り10選！下北沢／神楽坂／世田谷...etc",
+          "url": "https://www.youtube.com/watch?v=zhXMw8zkrFE",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.704911,
+        "lng": 139.735289,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4405377331",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/mori.webp",
+        "alt": "ドーナツもり 神楽坂店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--kyoraku",
+      "order": 12,
+      "name": "石臼挽き手打 蕎楽亭",
+      "address": "東京都新宿区神楽坂3-6 神楽坂館1F",
+      "group": "food",
+      "categoryLabel": "手打蕎麥",
+      "caption": "以一碗蕎麥，接住小巷的午餐。",
+      "descriptionParagraphs": [
+        "藏在神樂坂路地裡的蕎楽亭，以店內石臼研磨與手打蕎麥為主角，使用店主故鄉會津的蕎麥。櫃台能望向廚房，麵食與天婦羅讓午餐成為一段有節奏的停留。",
+        "適合在逛完飯田橋一側的小巷後坐下，從冷蕎麥或天婦羅組合開始選擇。店內也準備日本酒，讓這一站能依白天或晚間的散步心情調整。"
+      ],
+      "description": "藏在神樂坂路地裡的蕎楽亭，以店內石臼研磨與手打蕎麥為主角，使用店主故鄉會津的蕎麥。櫃台能望向廚房，麵食與天婦羅讓午餐成為一段有節奏的停留。\n\n適合在逛完飯田橋一側的小巷後坐下，從冷蕎麥或天婦羅組合開始選擇。店內也準備日本酒，讓這一站能依白天或晚間的散步心情調整。",
+      "note": "星期日、星期一及國定假日店休。",
+      "official": "https://gc23000.gorp.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "1DBMmbnWA2A",
+          "title": "【神樂坂居酒屋Best 5】米其林星級蕎麥麵店、頂級烤肉割烹等！",
+          "url": "https://www.youtube.com/watch?v=1DBMmbnWA2A",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.701012,
+        "lng": 139.739624,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%823-6",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌位置，為該門牌代表點，非入口實測。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/kyoraku.webp",
+        "alt": "石臼挽き手打 蕎楽亭的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--akomeya",
+      "order": 13,
+      "name": "AKOMEYA TOKYO in la kagū",
+      "address": "東京都新宿区矢来町67",
+      "group": "shops",
+      "categoryLabel": "食材・生活選物",
+      "caption": "走進大倉庫，把日常選得更有味道。",
+      "descriptionParagraphs": [
+        "以米飯為核心的 AKOMEYA TOKYO，把產地食品、下飯小菜與生活器物放在同一段購物路徑裡。神樂坂的 la kagū 店保留倉庫開闊的尺度，從外部大階梯便能感受到建築的個性。",
+        "可以慢慢挑米、茶、調味料與餐具，也能在食堂把選物的想像化成一頓飯。鄰近神樂坂站，適合安排在散步尾聲，為家裡帶回一點日本日常。"
+      ],
+      "description": "以米飯為核心的 AKOMEYA TOKYO，把產地食品、下飯小菜與生活器物放在同一段購物路徑裡。神樂坂的 la kagū 店保留倉庫開闊的尺度，從外部大階梯便能感受到建築的個性。\n\n可以慢慢挑米、茶、調味料與餐具，也能在食堂把選物的想像化成一頓飯。鄰近神樂坂站，適合安排在散步尾聲，為家裡帶回一點日本日常。",
+      "note": "",
+      "official": "https://www.akomeya.jp/store_info/store/sinlakagu/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "1T7dzzPC1ps",
+          "title": "石疊路上的慢時光 | 東京神樂坂、飯田橋散策景點指南",
+          "url": "https://www.youtube.com/watch?v=1T7dzzPC1ps",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.7036493,
+        "lng": 139.7332128,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4496407543",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/akomeya.webp",
+        "alt": "AKOMEYA TOKYO in la kagū的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--saryo",
+      "order": 14,
+      "name": "神楽坂 茶寮 本店",
+      "address": "東京都新宿区神楽坂3-1",
+      "group": "food",
+      "categoryLabel": "和風茶甜點",
+      "caption": "把一段午後，留給茶與甜味。",
+      "descriptionParagraphs": [
+        "神楽坂 茶寮本店以和風甜點與茶飲，為坂道散步留下一段坐下來的時間。現在的店位於神樂坂三丁目，淡色牆面與木造細節，讓空間延續街區安靜的氣質。",
+        "可以依季節選擇抹茶系甜點、冰品或現擠蒙布朗等品項，搭配一杯茶。從熱鬧主街轉入店內，午後便有了較慢的步調。"
+      ],
+      "description": "神楽坂 茶寮本店以和風甜點與茶飲，為坂道散步留下一段坐下來的時間。現在的店位於神樂坂三丁目，淡色牆面與木造細節，讓空間延續街區安靜的氣質。\n\n可以依季節選擇抹茶系甜點、冰品或現擠蒙布朗等品項，搭配一杯茶。從熱鬧主街轉入店內，午後便有了較慢的步調。",
+      "note": "店家不接受訂位。",
+      "official": "https://saryo.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.7020363,
+        "lng": 139.7410856,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/11422123670",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/saryo.webp",
+        "alt": "神楽坂 茶寮 本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kagurazaka--baikatei",
+      "order": 15,
+      "name": "神楽坂 梅花亭 本店",
+      "address": "東京都新宿区神楽坂6-15",
+      "group": "food",
+      "categoryLabel": "和菓子",
+      "caption": "把季節，收進一枚手作和菓子。",
+      "descriptionParagraphs": [
+        "梅花亭自1935年創業，在神樂坂延續手作和菓子。職人以餡與造形表達時節，花朵、顏色與細緻切紋，讓一小份甜點也能承載季節的變化。",
+        "可以挑選當季生菓子，也可看看適合帶走的最中與其他小點。沿主街往神樂坂站走時順路停留，替散步加上一份小巧而講究的手土產。"
+      ],
+      "description": "梅花亭自1935年創業，在神樂坂延續手作和菓子。職人以餡與造形表達時節，花朵、顏色與細緻切紋，讓一小份甜點也能承載季節的變化。\n\n可以挑選當季生菓子，也可看看適合帶走的最中與其他小點。沿主街往神樂坂站走時順路停留，替散步加上一份小巧而講究的手土產。",
+      "note": "",
+      "official": "https://www.baikatei.co.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.7030439,
+        "lng": 139.7370003,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4408539269",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築代表點；已與官方門牌核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kagurazaka/baikatei.webp",
+        "alt": "神楽坂 梅花亭 本店的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "kagurazaka-walk",
+      "name": "水岸・石疊・坡頂神社",
+      "ids": [
+        "kagurazaka--canal",
+        "kagurazaka--kakurenbo",
+        "kagurazaka--zenkokuji",
+        "kagurazaka--akagi"
+      ],
+      "walking": {
+        "distanceMeters": 1113.4,
+        "durationSeconds": 893.1,
+        "checkedAt": "2026-10-24"
+      },
+      "visitMinutes": [
+        95,
+        155
+      ],
+      "art": "/art/walks/kagurazaka/kakurenbo.webp"
+    }
+  ],
+  "defaultSelection": "kagurazaka-walk"
+}

@@ -1,0 +1,442 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "koenji--junjo",
+      "official": "https://koenjichara.com/junjo/",
+      "contentSources": [
+        "https://koenjichara.com/junjo/"
+      ],
+      "coordinate": {
+        "lat": 35.705811,
+        "lng": 139.64978,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%972-6",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://koenjichara.com/junjo/",
+        "imageUrl": "https://i0.wp.com/koenjichara.com/wp/wp-content/uploads/2020/12/1_DSC08433-junjo-min.png?fit=1200%2C800&ssl=1",
+        "referencePath": "design/photo-references/expansion/koenji/junjo.jpg"
+      }
+    },
+    {
+      "id": "koenji--tensuke",
+      "official": "https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tensuke",
+      "contentSources": [
+        "https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tensuke"
+      ],
+      "coordinate": {
+        "lat": 35.705891,
+        "lng": 139.648758,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%973-22-7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tensuke",
+        "imageUrl": "https://prod-pics.guide.michelin.com/api/public/content/f5f551fc4ae74f26ad6e191745629800.jpeg?format=jpeg&w=1000&h=1000",
+        "referencePath": "design/photo-references/expansion/koenji/tensuke.jpg"
+      }
+    },
+    {
+      "id": "koenji--kosugiyu",
+      "official": "https://kosugiyu.co.jp/facility/",
+      "contentSources": [
+        "https://kosugiyu.co.jp/facility/"
+      ],
+      "coordinate": {
+        "lat": 35.70805,
+        "lng": 139.648911,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%973-32-17",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kosugiyu.co.jp/facility/",
+        "imageUrl": "https://kosugiyu.co.jp/static/d324a37b9f1871316ce9ea8d1361c769/4e5f3/photo_facade.jpg",
+        "referencePath": "design/photo-references/expansion/koenji/kosugiyu.jpg"
+      }
+    },
+    {
+      "id": "koenji--aimu",
+      "official": "https://rurubu.jp/andmore/article/13778",
+      "contentSources": [
+        "https://rurubu.jp/andmore/article/13778",
+        "https://www.instagram.com/aimu_tokyo/"
+      ],
+      "coordinate": {
+        "lat": 35.706856,
+        "lng": 139.64624,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%973-11-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://rurubu.jp/andmore/spot/80128702",
+        "imageUrl": "https://www.j-jti.com/Storage/Image/Product/SightImage/M/SI_80128702_138367.jpg",
+        "referencePath": "design/photo-references/expansion/koenji/aimu.jpg"
+      }
+    },
+    {
+      "id": "koenji--hikawa",
+      "official": "https://www.koenji-hikawa.com/about/",
+      "contentSources": [
+        "https://www.koenji-hikawa.com/about/",
+        "https://www.city.suginami.tokyo.jp/s113/7483.html"
+      ],
+      "coordinate": {
+        "lat": 35.704391,
+        "lng": 139.651291,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-44-19",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.koenji-hikawa.com/about/",
+        "imageUrl": "https://koenji-hikawa.com/wp2/wp-content/themes/koenji-hikawa/images/about/shinden01.jpg",
+        "referencePath": "design/photo-references/expansion/koenji/hikawa.jpg"
+      }
+    },
+    {
+      "id": "koenji--pal",
+      "official": "https://www.koenji-pal.jp/about",
+      "contentSources": [
+        "https://www.koenji-pal.jp/about"
+      ],
+      "coordinate": {
+        "lat": 35.704269,
+        "lng": 139.649078,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-25",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.koenji-pal.jp/about",
+        "imageUrl": "https://www.koenji-pal.jp/securewp/wp-content/themes/koenjipal/img/arcade.jpg",
+        "referencePath": "design/photo-references/expansion/koenji/pal.jpg"
+      }
+    },
+    {
+      "id": "koenji--bigtime",
+      "official": "https://www.koenji-pal.jp/shop/008",
+      "contentSources": [
+        "https://www.koenji-pal.jp/shop/008"
+      ],
+      "coordinate": {
+        "lat": 35.704273,
+        "lng": 139.648972,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-25-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.koenji-pal.jp/shop/008",
+        "imageUrl": "https://www.koenji-pal.jp/securewp/wp-content/uploads/2025/02/bigtime_02.jpg",
+        "referencePath": "design/photo-references/expansion/koenji/bigtime.jpg"
+      }
+    },
+    {
+      "id": "koenji--dealer",
+      "official": "https://www.dealer-ship.com/shopguide/",
+      "contentSources": [
+        "https://www.dealer-ship.com/shopguide/"
+      ],
+      "coordinate": {
+        "lat": 35.702873,
+        "lng": 139.648239,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%973-45-18",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.dealer-ship.com/shopguide/",
+        "imageUrl": "https://dealership.xsrv.jp/cms/wp-content/uploads/2025/09/deb756c997034b606303cff4106e7cd6.jpg",
+        "referencePath": "design/photo-references/expansion/koenji/dealer-plain-glassware.jpg"
+      }
+    },
+    {
+      "id": "koenji--look",
+      "official": "https://koenjilook.com/shoplist/",
+      "contentSources": [
+        "https://koenjilook.com/shoplist/",
+        "https://matcha-jp.com/jp/10325"
+      ],
+      "coordinate": {
+        "lat": 35.701679,
+        "lng": 139.647278,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%973-35",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://matcha-jp.com/jp/10325",
+        "imageUrl": "https://resources.matcha-jp.com/resize/720x2000/2021/01/03-111395.webp",
+        "referencePath": "design/photo-references/expansion/koenji/look.jpg"
+      }
+    },
+    {
+      "id": "koenji--nanatsumori",
+      "official": "https://koenjilook.com/shoplist/",
+      "contentSources": [
+        "https://koenjilook.com/shoplist/",
+        "https://matcha-jp.com/jp/10325"
+      ],
+      "coordinate": {
+        "lat": 35.700119,
+        "lng": 139.647415,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%972-20-20",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://matcha-jp.com/jp/10325",
+        "imageUrl": "https://resources.matcha-jp.com/resize/720x2000/2021/01/07-111526.webp",
+        "referencePath": "design/photo-references/expansion/koenji/nanatsumori.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "koenji--junjo",
+      "query": "東京都杉並区高円寺北2-6",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%972-6",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.64978,
+              35.705811
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都杉並区高円寺北二丁目６番"
+          }
+        }
+      ]
+    },
+    {
+      "id": "koenji--tensuke",
+      "query": "東京都杉並区高円寺北3-22-7",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%973-22-7",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.648758,
+              35.705891
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都杉並区高円寺北三丁目２２番７号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "koenji--kosugiyu",
+      "query": "東京都杉並区高円寺北3-32-17",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%973-32-17",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.648911,
+              35.70805
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都杉並区高円寺北三丁目３２番１７号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "koenji--aimu",
+      "query": "東京都杉並区高円寺北3-11-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%973-11-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.64624,
+              35.706856
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都杉並区高円寺北三丁目１１番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "koenji--hikawa",
+      "query": "東京都杉並区高円寺南4-44-19",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-44-19",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.651291,
+              35.704391
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都杉並区高円寺南四丁目４４番１９号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "koenji--pal",
+      "query": "東京都杉並区高円寺南4-25",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-25",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.649078,
+              35.704269
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都杉並区高円寺南四丁目２５番"
+          }
+        }
+      ]
+    },
+    {
+      "id": "koenji--bigtime",
+      "query": "東京都杉並区高円寺南4-25-3",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-25-3",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.648972,
+              35.704273
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都杉並区高円寺南四丁目２５番３号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "koenji--dealer",
+      "query": "東京都杉並区高円寺南3-45-18",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%973-45-18",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.648239,
+              35.702873
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都杉並区高円寺南三丁目４５番１８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "koenji--look",
+      "query": "東京都杉並区高円寺南3-35",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%973-35",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.647278,
+              35.701679
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都杉並区高円寺南三丁目３５番"
+          }
+        }
+      ]
+    },
+    {
+      "id": "koenji--nanatsumori",
+      "query": "東京都杉並区高円寺南2-20-20",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%972-20-20",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.647415,
+              35.700119
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都杉並区高円寺南二丁目２０番２０号"
+          }
+        }
+      ]
+    }
+  ]
+}

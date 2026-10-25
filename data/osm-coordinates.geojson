@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "name": "Kuramae coordinate subset",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "bark",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7920654,
+          35.704663
+        ]
+      },
+      "properties": {
+        "name": "BARK BAKE & ROAST",
+        "source": "https://www.openstreetmap.org/node/12289652283",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "coordinateNote": "OpenStreetMap mapped POI or shrine polygon centroid"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_088547dbd6fad237",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7950238,
+          35.7074923
+        ]
+      },
+      "properties": {
+        "name": "駒形どぜう 本店",
+        "source": "https://www.openstreetmap.org/node/6370136185",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "coordinateNote": "OpenStreetMap mapped POI or shrine polygon centroid"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_3be500963da21948",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7933851,
+          35.703863
+        ]
+      },
+      "properties": {
+        "name": "Nui. HOSTEL & BAR LOUNGE",
+        "source": "https://www.openstreetmap.org/node/7528211610",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "coordinateNote": "OpenStreetMap mapped POI or shrine polygon centroid"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_32eedb3b96b57916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7896783,
+          35.7027433
+        ]
+      },
+      "properties": {
+        "name": "水木屋馬場商店",
+        "source": "https://www.openstreetmap.org/node/7725776764",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "coordinateNote": "OpenStreetMap mapped POI or shrine polygon centroid"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_7ea40bdd99c4bed6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.791351,
+          35.7084933
+        ]
+      },
+      "properties": {
+        "name": "パンのペリカン",
+        "source": "https://www.openstreetmap.org/node/4129248112",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "coordinateNote": "OpenStreetMap mapped POI or shrine polygon centroid"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_4f678d160f4ac364",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7897117,
+          35.7040738
+        ]
+      },
+      "properties": {
+        "name": "Coffee Wrights 蔵前",
+        "source": "https://www.openstreetmap.org/node/6564489389",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "coordinateNote": "OpenStreetMap mapped POI or shrine polygon centroid"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_5ab99f7b092e719f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789579,
+          35.7035934
+        ]
+      },
+      "properties": {
+        "name": "Dandelion Chocolate Factory & Cafe Kuramae",
+        "source": "https://www.openstreetmap.org/node/6564480282",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "coordinateNote": "OpenStreetMap mapped POI or shrine polygon centroid"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_9e11b0025b540196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.791837,
+          35.704784
+        ]
+      },
+      "properties": {
+        "name": "藏前神社",
+        "source": "https://www.openstreetmap.org/way/98883462",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "coordinateNote": "OpenStreetMap mapped POI or shrine polygon centroid"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_5134c4a12795d5bd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7911247,
+          35.7070108
+        ]
+      },
+      "properties": {
+        "name": "ペリカンカフェ 浅草店",
+        "source": "https://www.openstreetmap.org/node/11927229469",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "coordinateNote": "OpenStreetMap mapped POI or shrine polygon centroid"
+      }
+    }
+  ]
+}

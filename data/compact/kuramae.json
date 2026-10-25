@@ -1,0 +1,1085 @@
+{
+  "updatedAt": "2026-10-25",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "routes": [
+    {
+      "id": "books",
+      "name": "麵包・器物・書",
+      "ids": [
+        "chigaya",
+        "nobori",
+        "tomei"
+      ],
+      "start": {
+        "name": "藏前站（淺草線）",
+        "address": "東京都台東区蔵前 都営浅草線 蔵前駅",
+        "access": "都營淺草線；由藏前站往四丁目的小店步行前往"
+      },
+      "end": {
+        "name": "藏前站（大江戶線）",
+        "address": "東京都台東区寿3 都営大江戸線 蔵前駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "從四丁目的麵包香走向壽三丁目，在器物和書架之間慢慢挑。",
+      "note": "先買麵包，再一路往北逛器物與書店。BARK 可作為自由時間的咖啡休息站；不必再把其他店排滿。",
+      "stopNotes": {
+        "chigaya": "挑一份麵包或甜甜圈，按當天供應選擇。",
+        "nobori": "慢慢看看玻璃、陶器與日常用品。",
+        "tomei": "留時間翻書，從書架裡選一本想帶走的讀物。"
+      },
+      "art": "/art/bread-books.webp"
+    },
+    {
+      "id": "coffee",
+      "name": "咖啡與甜點",
+      "ids": [
+        "p_4f678d160f4ac364",
+        "p_2faa023ac911baa6"
+      ],
+      "start": {
+        "name": "藏前站（淺草線）",
+        "address": "東京都台東区蔵前 都営浅草線 蔵前駅",
+        "access": "都營淺草線；由藏前站往四丁目的小店步行前往"
+      },
+      "end": {
+        "name": "藏前站（淺草線）",
+        "address": "東京都台東区蔵前 都営浅草線 蔵前駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "在同一小片街區看咖啡豆、坐下吃甜點，只安排兩個重點。",
+      "note": "Coffee Wrights 可先挑豆，再把坐下休息的時間留給喫茶半月。Coffee Wrights 通常週一、二休息；半月候位較長時，可改選 Dandelion，毋須兩間都吃。替換後請重新確認時間。",
+      "stopNotes": {
+        "p_4f678d160f4ac364": "看看烘焙咖啡豆與器具，依喜好決定是否喝一杯。",
+        "p_2faa023ac911baa6": "坐下享用當季甜點，把這站當成主要休息時間。"
+      },
+      "art": "/art/coffee-cake.webp"
+    },
+    {
+      "id": "tools",
+      "name": "生活選物",
+      "ids": [
+        "p_40162bcb1904fe28",
+        "p_32eedb3b96b57916",
+        "nobori"
+      ],
+      "start": {
+        "name": "藏前站（淺草線）",
+        "address": "東京都台東区蔵前 都営浅草線 蔵前駅",
+        "access": "都營淺草線；由藏前站往四丁目的小店步行前往"
+      },
+      "end": {
+        "name": "藏前站（大江戶線）",
+        "address": "東京都台東区寿3 都営大江戸線 蔵前駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "從香氛、編織籃一路向北逛到生活器物，適合平日午後。",
+      "note": "建議週二至週五午後安排：水木屋馬場商店週末與假日休息，hibi 通常週一休息。遇休店可只走其餘兩個重點；KONCENT 位在駒形，留作另外延伸，不必折返串入。",
+      "stopNotes": {
+        "p_40162bcb1904fe28": "聞聞香氛，挑一種想帶回日常的氣味。",
+        "p_32eedb3b96b57916": "看看編織籃與天然材質，慢慢比較手感。",
+        "nobori": "以日常器物收尾，喜歡的物件不必急著決定。"
+      },
+      "art": "/art/ceramics.webp"
+    }
+  ],
+  "places": [
+    {
+      "id": "p_58015a8c60b78515",
+      "localId": "p_58015a8c60b78515",
+      "order": 1,
+      "name": "洋菓子レモンパイ",
+      "address": "東京都台東区寿2-4-6",
+      "categoryLabel": "甜點外帶",
+      "group": "food",
+      "caption": "把一份檸檬派，帶進今天。",
+      "description": "想安排外帶點心，可以先繞到這間洋菓子店看看。把購買和內用分開規劃，才能自在地接上下一段散步。",
+      "note": "",
+      "official": "https://www.lemonpie-asakusa.com/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "HC6ngkDc5rY",
+          "title": "🇯🇵東京的淺草、上野一帶還有什麼選擇？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=HC6ngkDc5rY&t=411s",
+          "time": "6:51",
+          "seconds": 411
+        }
+      ],
+      "googleMapsPlaceId": "ChIJ6eWQNLmOGGARpO-e5LNV5K0",
+      "coordinate": {
+        "lat": 35.709156,
+        "lng": 139.789688,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=181",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_7ea40bdd99c4bed6",
+      "localId": "p_7ea40bdd99c4bed6",
+      "order": 2,
+      "name": "パンのペリカン",
+      "address": "東京都台東区寿4-7-4",
+      "categoryLabel": "烘焙",
+      "group": "food",
+      "caption": "把麵包外帶，留作下一頓。",
+      "description": "想買麵包就選這間店，想坐下來用餐則另外看看 Pelican CAFE。把兩個地點分開收藏，出發時就不容易走錯。",
+      "note": "麵包店與附近的 Pelican CAFE 是兩個地點，請依想購買麵包或坐下用餐來選擇。",
+      "official": "https://bakerpelican.com/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "googleMapsPlaceId": "ChIJ5cK76LiOGGARkZxkQqu3aMg",
+      "coordinate": {
+        "lat": 35.7084933,
+        "lng": 139.791351,
+        "provider": "osm",
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/4129248112",
+        "license": "ODbL-1.0",
+        "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_5134c4a12795d5bd",
+      "localId": "p_5134c4a12795d5bd",
+      "order": 3,
+      "name": "ペリカンカフェ 浅草店",
+      "address": "東京都台東区寿3-9-11",
+      "categoryLabel": "咖啡／餐飲",
+      "group": "food",
+      "caption": "想坐下吃，就收藏咖啡店這一站。",
+      "description": "這裡與パンのペリカン麵包店分開營運。想用餐與休息時收藏咖啡店，想買麵包時則使用麵包店的連結。",
+      "note": "",
+      "official": "https://asakusa.pelicancafe.jp/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "googleMapsPlaceId": "ChIJ0brST7iOGGARKUKu7jOB-jo",
+      "coordinate": {
+        "lat": 35.7070108,
+        "lng": 139.7911247,
+        "provider": "osm",
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/11927229469",
+        "license": "ODbL-1.0",
+        "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "nobori",
+      "localId": "p_4b852ed74eb38325",
+      "order": 4,
+      "name": "道具屋 nobori",
+      "address": "東京都台東区寿3-7-1 寿町フラワーホーム1F",
+      "categoryLabel": "生活選物",
+      "group": "shops",
+      "caption": "找到一件，願意每天使用的東西。",
+      "description": "這裡的主角是玻璃、陶器、餐具與生活道具。把腳步放慢一點，想像一件器物回到自己餐桌上的樣子。",
+      "note": "",
+      "official": "https://fromafar.stores.jp/about",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0&t=296s",
+          "time": "4:56",
+          "seconds": 296
+        }
+      ],
+      "googleMapsPlaceId": "ChIJJ4WqLbmOGGARedN-gHIzMo0",
+      "coordinate": {
+        "lat": 35.706055822,
+        "lng": 139.791198847,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "provider": "geolonia",
+        "label": "Geolonia／ABR（地址代表點）",
+        "url": "https://github.com/geolonia/japanese-addresses-v2#ライセンス",
+        "accuracyLabel": "住居表示地址代表點，非實測店家入口"
+      },
+      "recommendation": "慢慢看看玻璃、陶器與日常用品。 以日常器物收尾，喜歡的物件不必急著決定。"
+    },
+    {
+      "id": "p_765b0f07994197bb",
+      "localId": "p_765b0f07994197bb",
+      "order": 5,
+      "name": "feb’s coffee&scone Blucca店",
+      "address": "東京都台東区寿3-5-9",
+      "categoryLabel": "咖啡／甜點",
+      "group": "food",
+      "caption": "咖啡與司康，選一個午後。",
+      "description": "想在寿三丁目安排咖啡與點心，可以把 Blucca 放進候選。和附近的書店一起收藏，留給當天的心情決定。",
+      "note": "",
+      "official": "https://febscoffee.thebase.in/about",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0&t=328s",
+          "time": "5:28",
+          "seconds": 328
+        }
+      ],
+      "googleMapsPlaceId": "ChIJucQ-H-aPGGAR-ix7xDxPNys",
+      "coordinate": {
+        "lat": 35.706242,
+        "lng": 139.792007,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=425",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_614823c1d1799627",
+      "localId": "p_614823c1d1799627",
+      "order": 6,
+      "name": "Le bage",
+      "address": "東京都台東区寿3-13-4",
+      "categoryLabel": "烘焙",
+      "group": "food",
+      "caption": "把貝果，收進散步提袋。",
+      "description": "這次收錄藏前現址，從原影片認識貝果店，再依當日品項挑選。可以和透明書店一起安排在寿三丁目這一段。",
+      "note": "品牌官網記錄 2025 年 8 月由谷中搬至藏前；請使用目前的寿 3-13-4 地址。",
+      "official": "https://lebage.theshop.jp/about",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "Svd-da64MLI",
+          "title": "東京 🇯🇵 🥯 最新貝果專賣店巡禮！經典紅豆奶油到創新奶茶奶油貝果三明治",
+          "url": "https://www.youtube.com/watch?v=Svd-da64MLI",
+          "time": "5:08",
+          "seconds": null
+        }
+      ],
+      "googleMapsPlaceId": "ChIJERO6s9KNGGARR797SkfnT1k",
+      "coordinate": {
+        "lat": 35.706532,
+        "lng": 139.792252,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=593",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "tomei",
+      "localId": "p_98fbb2de866a60dc",
+      "order": 7,
+      "name": "透明書店",
+      "address": "東京都台東区寿3-13-14 1F",
+      "categoryLabel": "書店",
+      "group": "shops",
+      "caption": "翻幾頁書，把行程留白。",
+      "description": "從器物店走到書店，換一種看街區的方式。留一點時間翻書、看看雜貨，下一站的咖啡可以晚一點再喝。",
+      "note": "",
+      "official": "https://www.locationbox.metro.tokyo.lg.jp/catalog/7832/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0&t=423s",
+          "time": "7:03",
+          "seconds": 423
+        }
+      ],
+      "googleMapsPlaceId": "ChIJ3RqD4zSPGGARkgV-WNO_sYA",
+      "coordinate": {
+        "lat": 35.706409,
+        "lng": 139.792694,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=430",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": "留時間翻書，從書架裡選一本想帶走的讀物。"
+    },
+    {
+      "id": "p_2ca59cf0ccfab515",
+      "localId": "p_2ca59cf0ccfab515",
+      "order": 8,
+      "name": "HATCOFFEE",
+      "address": "東京都台東区寿3-15-6",
+      "categoryLabel": "咖啡",
+      "group": "food",
+      "caption": "把期待的咖啡，排成一站。",
+      "description": "如果這間店是今天的重點，先查看店方的預約與現場規則。再把附近的透明書店、Le bage 排成備選，不必每站都停。",
+      "note": "",
+      "official": "https://en-gage.net/koheilatte_saiyo/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NX3OxRVbo-k",
+          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
+          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k&t=226s",
+          "time": "03:46",
+          "seconds": 226
+        }
+      ],
+      "googleMapsPlaceId": "ChIJC-PvzmOPGGAR3uQEnXz5cgE",
+      "coordinate": {
+        "lat": 35.707363,
+        "lng": 139.793259,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=414",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_40d37e8b90f1d3a2",
+      "localId": "p_40d37e8b90f1d3a2",
+      "order": 9,
+      "name": "COFFEECOUNTER NISHIYA",
+      "address": "東京都台東区寿4-12-6",
+      "categoryLabel": "咖啡",
+      "group": "food",
+      "caption": "一杯咖啡，留一個專心的停留。",
+      "description": "走到寿四丁目時，給咖啡一個獨立的行程空檔。可以和附近的麵包店擇一搭配，讓今天不用一直趕下一間。",
+      "note": "",
+      "official": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=243",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "googleMapsPlaceId": "ChIJpeokddOPGGARAiSZLuf01VA",
+      "coordinate": {
+        "lat": 35.708454,
+        "lng": 139.794052,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=243",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_088547dbd6fad237",
+      "localId": "p_088547dbd6fad237",
+      "order": 10,
+      "name": "駒形どぜう 本店",
+      "address": "東京都台東区駒形1-7-12",
+      "categoryLabel": "餐廳",
+      "group": "food",
+      "caption": "想吃一頓正餐，就在這裡停下。",
+      "description": "如果想在散步裡安排泥鰍料理，把這裡列入正餐候選；先看看官方菜單，再決定今天想嘗試的份量。",
+      "note": "",
+      "official": "https://dozeu.com/table/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "maw7VXODp8g",
+          "title": "東京美食淺草篇，24小時爽吃之旅 ! 淺草一日美食地圖推薦，巷內江戶前天丼老店、淺草百年蕎麥麵、罕見泥鰍鍋初體驗、油香衝擊和牛壽喜燒、百年關東煮老店 【肥波外食記】ft.Rakuten Travel",
+          "url": "https://www.youtube.com/watch?v=maw7VXODp8g&t=306s",
+          "time": "5:06",
+          "seconds": 306
+        }
+      ],
+      "googleMapsPlaceId": "ChIJY57SxceOGGAR5p8zPgOh_p4",
+      "coordinate": {
+        "lat": 35.7074923,
+        "lng": 139.7950238,
+        "provider": "osm",
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/6370136185",
+        "license": "ODbL-1.0",
+        "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_0baebe3d3ec9b05c",
+      "localId": "p_0baebe3d3ec9b05c",
+      "order": 11,
+      "name": "おいもやさん興伸 浅草駒形店",
+      "address": "東京都台東区駒形2-6-6",
+      "categoryLabel": "甜點外帶",
+      "group": "food",
+      "caption": "替河邊散步，加一份點心。",
+      "description": "把駒形分店留作外帶甜點候選，和附近 KONCENT 或河邊散步搭配。請使用駒形 2-6-6 的地址前往。",
+      "note": "",
+      "official": "https://oimoyasan.com/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "googleMapsPlaceId": "ChIJj36v0ceOGGARrwjTsmqimBI",
+      "coordinate": {
+        "lat": 35.70739,
+        "lng": 139.795364,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=310",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_f858fe6d8b9f148d",
+      "localId": "p_f858fe6d8b9f148d",
+      "order": 12,
+      "name": "KONCENT 駒形本店",
+      "address": "東京都台東区駒形2-6-10",
+      "categoryLabel": "生活選物",
+      "group": "shops",
+      "caption": "從生活設計，找一點新想法。",
+      "description": "選物不一定要立刻買下什麼，也可以只是看看日用品的另一種做法。把駒形本店排進河邊一帶的散步即可。",
+      "note": "收錄的是駒形本店，請使用目前駒形 2-6-10 的店址。",
+      "official": "https://koncent.jp/view/news/20261001113219",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k&t=1185s",
+          "time": "19:45",
+          "seconds": 1185
+        }
+      ],
+      "googleMapsPlaceId": "ChIJhZDFAbeOGGARu8fAZDHw3zM",
+      "coordinate": {
+        "lat": 35.707775,
+        "lng": 139.795746,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=56",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_8e426a44d227b5f9",
+      "localId": "p_8e426a44d227b5f9",
+      "order": 13,
+      "name": "ASAGE CAFE",
+      "address": "東京都台東区駒形2-1-5 1階",
+      "categoryLabel": "咖啡／餐飲",
+      "group": "food",
+      "caption": "向河邊走，換一段散步風景。",
+      "description": "把駒形一帶的咖啡停留和河邊散步放在一起。先確認店內座位與營業安排，再決定要停多久。",
+      "note": "",
+      "official": "https://asage-kuramae.owst.jp/map",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k&t=1313s",
+          "time": "21:53",
+          "seconds": 1313
+        }
+      ],
+      "googleMapsPlaceId": "ChIJHfpFh7aPGGAR3xtdQv2U8YE",
+      "coordinate": {
+        "lat": 35.705334,
+        "lng": 139.79451,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=288",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_3be500963da21948",
+      "localId": "p_3be500963da21948",
+      "order": 14,
+      "name": "Nui. HOSTEL & BAR LOUNGE",
+      "address": "東京都台東区蔵前2-14-13",
+      "categoryLabel": "咖啡／酒吧",
+      "group": "food",
+      "caption": "旅人的客廳，也是一段休息。",
+      "description": "把旅舍附設的咖啡與酒吧當作休息候選，留一段坐下來的時間。咖啡、餐點和酒吧的時段請分別向店方確認。",
+      "note": "這裡是旅舍附設的咖啡與酒吧，請以店方公告確認各時段的營業方式。",
+      "official": "https://backpackersjapan.co.jp/nuihostel/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "8b2OxMJC_RQ",
+          "title": "Life in Tokyo 🗼 Discovering Neighborhoods Along the Asakusa Line: Asakusa, Kuramae & Beyond",
+          "url": "https://www.youtube.com/watch?v=8b2OxMJC_RQ",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0&t=99s",
+          "time": "1:39",
+          "seconds": 99
+        }
+      ],
+      "googleMapsPlaceId": "ChIJ4U-9KsiOGGARARhaBLZLqS0",
+      "coordinate": {
+        "lat": 35.703863,
+        "lng": 139.7933851,
+        "provider": "osm",
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/7528211610",
+        "license": "ODbL-1.0",
+        "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "bark",
+      "localId": "p_22c144de79c690aa",
+      "order": 15,
+      "name": "BARK BAKE & ROAST",
+      "address": "東京都台東区蔵前3-13-4",
+      "categoryLabel": "咖啡",
+      "group": "food",
+      "caption": "用一杯咖啡，替散步收尾。",
+      "description": "把自家烘焙咖啡與燒菓子留在最後。找一個舒服的節奏，回想剛剛看過的書、挑過的器物，再決定今天還想不想多走一段。",
+      "note": "",
+      "official": "https://www.kotsu.metro.tokyo.jp/pickup_information/magazine/fureai/web/column/2025-11/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6Sr7Z0XQa5c",
+          "title": "Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025",
+          "url": "https://www.youtube.com/watch?v=6Sr7Z0XQa5c",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "36mT1AvxWrI",
+          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
+          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI&t=395s",
+          "time": "6:35",
+          "seconds": 395
+        }
+      ],
+      "googleMapsPlaceId": "ChIJacUqmnOPGGARIRffAKbaw2c",
+      "coordinate": {
+        "lat": 35.704663,
+        "lng": 139.7920654,
+        "provider": "osm",
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/12289652283",
+        "license": "ODbL-1.0",
+        "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_9e11b0025b540196",
+      "localId": "p_9e11b0025b540196",
+      "order": 16,
+      "name": "藏前神社",
+      "address": "東京都台東区蔵前3-14-11",
+      "categoryLabel": "景點",
+      "group": "sights",
+      "caption": "在店舖之間，留一段參訪。",
+      "description": "為咖啡和選物之間留一段神社停留，依現場指示參訪。地圖標記是神社範圍的中心，入口請看現場與導航。",
+      "note": "",
+      "official": "https://kuramaejinja.tokyo/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "36mT1AvxWrI",
+          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
+          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI&t=395s",
+          "time": "6:35",
+          "seconds": 395
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0&t=223s",
+          "time": "3:43",
+          "seconds": 223
+        }
+      ],
+      "googleMapsPlaceId": "ChIJnSJkkreOGGARyDX_3LuR2MI",
+      "coordinate": {
+        "lat": 35.704784,
+        "lng": 139.791837,
+        "provider": "osm",
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/98883462",
+        "license": "ODbL-1.0",
+        "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_91fd233286b858f4",
+      "localId": "p_91fd233286b858f4",
+      "order": 17,
+      "name": "JOLI ALL LEATHER ITEMS 蔵前",
+      "address": "東京都台東区蔵前4-21-2 蔵前MORIビル1F＆4F",
+      "categoryLabel": "皮件／鞋履",
+      "group": "shops",
+      "caption": "把目光，留給皮件的細節。",
+      "description": "想逛皮件與鞋履，就為 JOLI 留一點試看與比較的時間。店址包含同棟 1F 與 4F，請依現場指示前往。",
+      "note": "",
+      "official": "https://joli-qube.jp/?mode=f76",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY&t=363s",
+          "time": "6:03",
+          "seconds": 363
+        }
+      ],
+      "googleMapsPlaceId": "ChIJhVJ6HbSPGGARExSocKEz_08",
+      "coordinate": {
+        "lat": 35.704685161,
+        "lng": 139.789905689,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "provider": "geolonia",
+        "label": "Geolonia／ABR（地址代表點）",
+        "url": "https://github.com/geolonia/japanese-addresses-v2#ライセンス",
+        "accuracyLabel": "住居表示地址代表點，非實測店家入口"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "chigaya",
+      "localId": "p_85cb198a78fc3448",
+      "order": 18,
+      "name": "chigaya kuramae",
+      "address": "東京都台東区蔵前4-29-3",
+      "categoryLabel": "烘焙／甜點",
+      "group": "food",
+      "caption": "先把麵包的香氣，收進今天。",
+      "description": "把烘焙店排在第一站，挑一份喜歡的麵包或甜甜圈，讓這段散步從一個小小的選擇開始。",
+      "note": "已搬遷至蔵前 4-29-3；較早影片提到的鳥越店址屬歷史記錄，請以前往現址為準。",
+      "official": "https://t-navi.city.taito.lg.jp/features/56",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "Elnh4ZYpWkU",
+          "title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+          "url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "googleMapsPlaceId": "ChIJu23OUQCPGGARM1VHNox-zB4",
+      "coordinate": {
+        "lat": 35.705116,
+        "lng": 139.789459,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=605",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": "挑一份麵包或甜甜圈，按當天供應選擇。"
+    },
+    {
+      "id": "p_4f678d160f4ac364",
+      "localId": "p_4f678d160f4ac364",
+      "order": 19,
+      "name": "Coffee Wrights 蔵前",
+      "address": "東京都台東区蔵前4-20-2",
+      "categoryLabel": "咖啡",
+      "group": "food",
+      "caption": "把咖啡，排在街角的中途。",
+      "description": "逛完蔵前四丁目的店，再選一間咖啡店坐坐。這裡可接上 chigaya 或 Dandelion 的散步安排，挑自己想走的幾站就好。",
+      "note": "",
+      "official": "https://store.coffee-wrights.jp/about",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "Elnh4ZYpWkU",
+          "title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+          "url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6Sr7Z0XQa5c",
+          "title": "Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025",
+          "url": "https://www.youtube.com/watch?v=6Sr7Z0XQa5c&t=528s",
+          "time": "08:48",
+          "seconds": 528
+        }
+      ],
+      "googleMapsPlaceId": "ChIJT52xaLeOGGAR6ZstEJFAmF0",
+      "coordinate": {
+        "lat": 35.7040738,
+        "lng": 139.7897117,
+        "provider": "osm",
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/6564489389",
+        "license": "ODbL-1.0",
+        "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/"
+      },
+      "recommendation": "看看烘焙咖啡豆與器具，依喜好決定是否喝一杯。"
+    },
+    {
+      "id": "p_755e902f96d154b8",
+      "localId": "p_755e902f96d154b8",
+      "order": 20,
+      "name": "Frobergue",
+      "address": "東京都台東区蔵前4-14-11 ウグイスビル101",
+      "categoryLabel": "書店",
+      "group": "shops",
+      "caption": "走進書架之間，慢慢找。",
+      "description": "為書店保留一段不急著做決定的時間。這裡和喫茶半月同棟不同戶，可以先確認店方開放時間，再安排兩站。",
+      "note": "位於ウグイスビル 101；請留意與同棟喫茶半月的入口區別。",
+      "official": "https://frobergue.storeinfo.jp/pages/8304/About",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY&t=363s",
+          "time": "6:03",
+          "seconds": 363
+        }
+      ],
+      "googleMapsPlaceId": "ChIJmaU51vlfGGAReB7AVnmlPSQ",
+      "coordinate": {
+        "lat": 35.703737828,
+        "lng": 139.789974153,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "provider": "geolonia",
+        "label": "Geolonia／ABR（地址代表點）",
+        "url": "https://github.com/geolonia/japanese-addresses-v2#ライセンス",
+        "accuracyLabel": "住居表示地址代表點，非實測店家入口"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_2faa023ac911baa6",
+      "localId": "p_2faa023ac911baa6",
+      "order": 21,
+      "name": "喫茶半月",
+      "address": "東京都台東区蔵前4-14-11 ウグイスビル103",
+      "categoryLabel": "咖啡／甜點",
+      "group": "food",
+      "caption": "讓甜點，成為散步的留白。",
+      "description": "把喫茶半月安排成可以慢下來的一站。和同棟書店擇時搭配，出發前先確認現在的店址、座位與營業公告。",
+      "note": "2023 年搬遷後位於ウグイスビル 103；與同棟 101 的 Frobergue 是不同店。",
+      "official": "https://www.fromafar-tokyo.com/kissahangetsu",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY&t=363s",
+          "time": "6:03",
+          "seconds": 363
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NX3OxRVbo-k",
+          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
+          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k&t=14s",
+          "time": "00:14",
+          "seconds": 14
+        }
+      ],
+      "googleMapsPlaceId": "ChIJ8UvpbOCPGGARiHO0jyfGqvU",
+      "coordinate": {
+        "lat": 35.703739,
+        "lng": 139.789978,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=93",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": "坐下享用當季甜點，把這站當成主要休息時間。"
+    },
+    {
+      "id": "p_5ab99f7b092e719f",
+      "localId": "p_5ab99f7b092e719f",
+      "order": 22,
+      "name": "Dandelion Chocolate Factory & Cafe Kuramae",
+      "address": "東京都台東区蔵前4-14-6",
+      "categoryLabel": "巧克力／咖啡",
+      "group": "food",
+      "caption": "今天的甜，留給巧克力。",
+      "description": "把巧克力當作這一站的主題，依現場安排選擇外帶或停留。若想買伴手禮，也別忘了為接下來的步行留出提袋空間。",
+      "note": "",
+      "official": "https://dandelionchocolate.jp/pages/factory-cafe-kuramae",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "Elnh4ZYpWkU",
+          "title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+          "url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "cMEQx4A-zx0",
+          "title": "Tokyo’s Brooklyn | Café Hopping in Kuramae (Hidden Gem)” | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=cMEQx4A-zx0&t=533s",
+          "time": "8:53",
+          "seconds": 533
+        }
+      ],
+      "googleMapsPlaceId": "ChIJNRb8areOGGARieKkjJf2N34",
+      "coordinate": {
+        "lat": 35.7035934,
+        "lng": 139.789579,
+        "provider": "osm",
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/6564480282",
+        "license": "ODbL-1.0",
+        "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_32eedb3b96b57916",
+      "localId": "p_32eedb3b96b57916",
+      "order": 23,
+      "name": "水木屋馬場商店",
+      "address": "東京都台東区蔵前4-6-7",
+      "categoryLabel": "生活選物",
+      "group": "shops",
+      "caption": "從一只包袋，看看生活的樣子。",
+      "description": "在生活選物路線裡，留一點時間看包袋的輪廓與細節。和附近的麵包、咖啡停留搭配，讓逛街也有自己的節奏。",
+      "note": "",
+      "official": "https://www.mizukiya.jp/map.html",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k&t=1185s",
+          "time": "19:45",
+          "seconds": 1185
+        }
+      ],
+      "googleMapsPlaceId": "ChIJezv9GLeOGGAR0QKKeRylcGo",
+      "coordinate": {
+        "lat": 35.7027433,
+        "lng": 139.7896783,
+        "provider": "osm",
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/7725776764",
+        "license": "ODbL-1.0",
+        "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/"
+      },
+      "recommendation": "看看編織籃與天然材質，慢慢比較手感。"
+    },
+    {
+      "id": "p_4587f83ff726cc8b",
+      "localId": "p_4587f83ff726cc8b",
+      "order": 24,
+      "name": "KURAMAE CANNELE",
+      "address": "東京都台東区蔵前2-1-23 蔵前第2ビルヂング",
+      "categoryLabel": "甜點外帶",
+      "group": "food",
+      "caption": "帶走一份可麗露，再繼續走。",
+      "description": "目前以外帶店安排這一站，別把它當成坐下喝咖啡的行程。逛完後可以接續藏前站附近的其他停留。",
+      "note": "目前收錄可麗露外帶店；品牌官網將 KURAMAE CANNELE CAFE 標示為休業中，請勿安排咖啡內用。",
+      "official": "https://www.kuramae-cannele.jp/shops/",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "fmBz7azgE1k",
+          "title": "🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=fmBz7azgE1k&t=1025s",
+          "time": "17:05",
+          "seconds": 1025
+        }
+      ],
+      "googleMapsPlaceId": "ChIJP3bEKAiPGGAReLTK-b4prpE",
+      "coordinate": {
+        "lat": 35.702099,
+        "lng": 139.790268,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=355",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "p_40162bcb1904fe28",
+      "localId": "p_40162bcb1904fe28",
+      "order": 25,
+      "name": "hibi 10MINUTES AROMA STORE TOKYO",
+      "address": "東京都台東区蔵前4-4-8 田中ビル1F",
+      "categoryLabel": "香氛／生活選物",
+      "group": "shops",
+      "caption": "用氣味，記住這一段街區。",
+      "description": "把香氛選物排進散步，從喜歡的氣味開始挑選。可以和皮件、生活道具店串在同一段，換一種逛藏前的方式。",
+      "note": "",
+      "official": "https://hibi-jp.com/shop.php",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY&t=44s",
+          "time": "0:44",
+          "seconds": 44
+        }
+      ],
+      "googleMapsPlaceId": "ChIJUx7PG7mPGGARhpzXGm_eKwk",
+      "coordinate": {
+        "lat": 35.702160786,
+        "lng": 139.788807539,
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "provider": "geolonia",
+        "label": "Geolonia／ABR（地址代表點）",
+        "url": "https://github.com/geolonia/japanese-addresses-v2#ライセンス",
+        "accuracyLabel": "住居表示地址代表點，非實測店家入口"
+      },
+      "recommendation": "聞聞香氛，挑一種想帶回日常的氣味。"
+    },
+    {
+      "id": "p_105ef59e5ba74a8a",
+      "localId": "p_105ef59e5ba74a8a",
+      "order": 26,
+      "name": "marble",
+      "address": "東京都台東区蔵前4-1-4 トマック第3ビル1F",
+      "categoryLabel": "咖啡",
+      "group": "food",
+      "caption": "在街區南側，找一杯咖啡。",
+      "description": "想從蔵前四丁目南側開始或結束散步，可以把 marble 當作咖啡候選。今天走幾站，由自己的步調決定。",
+      "note": "",
+      "official": "https://www.fromafar-tokyo.com/marble",
+      "verifiedAt": "2026-10-22",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "bXb5psl7rUo",
+          "title": "【東京・最新】2022年最新カフェ８店舗～2022年下半期版～ 新大久保／銀座／丸の内／日本橋／蔵前／...etc",
+          "url": "https://www.youtube.com/watch?v=bXb5psl7rUo&t=701s",
+          "time": "11:41",
+          "seconds": 701
+        }
+      ],
+      "googleMapsPlaceId": "ChIJkauTGR6PGGARzD7HqglONAo",
+      "coordinate": {
+        "lat": 35.701912,
+        "lng": 139.788773,
+        "provider": "taito",
+        "label": "台東区公開資料（登記點）",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=303",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "recommendation": null
+    }
+  ],
+  "defaultSelection": "books"
+}

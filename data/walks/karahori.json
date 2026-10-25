@@ -1,0 +1,532 @@
+{
+  "updatedAt": "2026-10-24",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "name": "エクチュア からほり「蔵」本店",
+      "address": "大阪府大阪市中央区谷町6-17-43 練",
+      "group": "food",
+      "categoryLabel": "巧克力喫茶",
+      "caption": "在老屋的藏裡，為一杯熱巧克力留個座位。",
+      "descriptionParagraphs": [
+        "エクチュア的空堀本店位於老宅再生複合設施「練」的一角，使用原來的藏空間經營巧克力專門店與咖啡座。木造街區與巧克力香氣在這裡接上，讓散步有了可以坐下來的中段。",
+        "店家提供巧克力飲品與各式巧克力甜點，也能挑選小份伴手禮。想感受空堀老屋如何被重新使用，可以先看看院落，再依自己的胃口安排喫茶或購物。"
+      ],
+      "note": "週三休息。",
+      "official": "https://www.ek-chuah.co.jp/user_data/shop_honten.php",
+      "extraSources": [
+        "https://osakamania.jp/shop/chocolate_13/",
+        "https://www.ek-chuah.co.jp/blog/"
+      ],
+      "photoPage": "https://osakamania.jp/shop/chocolate_13/",
+      "coordinate": {
+        "lat": 34.6752378,
+        "lng": 135.5125868,
+        "url": "https://www.openstreetmap.org/node/5383066867",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "id": "karahori--ekchuah",
+      "order": 1,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "エクチュア的空堀本店位於老宅再生複合設施「練」的一角，使用原來的藏空間經營巧克力專門店與咖啡座。木造街區與巧克力香氣在這裡接上，讓散步有了可以坐下來的中段。\n\n店家提供巧克力飲品與各式巧克力甜點，也能挑選小份伴手禮。想感受空堀老屋如何被重新使用，可以先看看院落，再依自己的胃口安排喫茶或購物。",
+      "illustration": {
+        "image": "/art/walks/karahori/ekchuah.webp",
+        "alt": "エクチュア からほり「蔵」本店，依實景照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "直木三十五記念館",
+      "address": "大阪府大阪市中央区谷町6-5-26 複合文化施設「萌」2階",
+      "group": "sights",
+      "categoryLabel": "文學小館",
+      "caption": "在巷子裡的文學館，認識直木賞背後的名字。",
+      "descriptionParagraphs": [
+        "直木三十五出生於附近的安堂寺町，紀念館由空堀地方人士發起，展示作家的照片與相關資料。館內借鑑他晚年住宅的黑色空間，也用榻榻米呼應他伏地寫作的習慣。",
+        "小館位在複合文化設施「萌」二樓，適合喜歡小說與地方故事的人。從熱鬧商店街走進閱讀的時間，再回到街巷，會多看見一層空堀與文學的連結。"
+      ],
+      "note": "付費參觀；週三及年末年始等休館。館舍位在二樓。",
+      "official": "https://naoki35.jimdofree.com/利用案内/",
+      "extraSources": [
+        "https://osaka-chushin.jp/spot/6510",
+        "https://osakamania.jp/mania/bungakuhi/"
+      ],
+      "photoPage": "https://osakamania.jp/mania/bungakuhi/",
+      "coordinate": {
+        "lat": 34.675018,
+        "lng": 135.515305,
+        "provider": "gsi",
+        "label": "日本國土地理院地址搜尋代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA6%E4%B8%81%E7%9B%AE5%E7%95%AA26%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地址搜尋以官方谷町六丁目5番26號回傳的位置；地址代表點，不是二樓入口實測。"
+      },
+      "id": "karahori--naoki",
+      "order": 2,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "直木三十五出生於附近的安堂寺町，紀念館由空堀地方人士發起，展示作家的照片與相關資料。館內借鑑他晚年住宅的黑色空間，也用榻榻米呼應他伏地寫作的習慣。\n\n小館位在複合文化設施「萌」二樓，適合喜歡小說與地方故事的人。從熱鬧商店街走進閱讀的時間，再回到街巷，會多看見一層空堀與文學的連結。",
+      "illustration": {
+        "image": "/art/walks/karahori/naoki.webp",
+        "alt": "直木三十五記念館，依實景照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "空堀商店街",
+      "address": "大阪府大阪市中央区谷町6丁目・7丁目周邊",
+      "group": "shops",
+      "categoryLabel": "生活商店街",
+      "caption": "沿著有屋頂的街道，看大阪每天的買賣。",
+      "descriptionParagraphs": [
+        "空堀商店街由松屋町筋向上町筋延伸，保留大正、昭和的店面尺度，也有把舊建物重新使用的新店。買菜、吃飯與逛小店交錯，讓這段散步貼近日常生活。",
+        "本路線取商店街西側的一段，接上北邊的文學館與南邊的長屋店鋪，不必一次走完全長。地形有緩坡，穿過路口時請留意腳下與來往車輛，拍照時也別擋住店門。"
+      ],
+      "note": "",
+      "official": "https://karahori-osaka.com/",
+      "extraSources": [
+        "https://karahori-osaka.com/aboutus.html"
+      ],
+      "coordinate": {
+        "lat": 34.6734492,
+        "lng": 135.5166549,
+        "url": "https://www.openstreetmap.org/way/173039149",
+        "precisionNote": "採空堀商店街 OSM pedestrian way 的東端節點1838657001作此段停留代表，非商店街全域中心。",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright"
+      },
+      "id": "karahori--arcade",
+      "order": 3,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "空堀商店街由松屋町筋向上町筋延伸，保留大正、昭和的店面尺度，也有把舊建物重新使用的新店。買菜、吃飯與逛小店交錯，讓這段散步貼近日常生活。\n\n本路線取商店街西側的一段，接上北邊的文學館與南邊的長屋店鋪，不必一次走完全長。地形有緩坡，穿過路口時請留意腳下與來往車輛，拍照時也別擋住店門。",
+      "illustration": {
+        "image": "/art/walks/karahori/arcade.webp",
+        "alt": "空堀商店街，依實景照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "空堀・惣",
+      "address": "大阪府大阪市中央区瓦屋町1-6-2",
+      "group": "shops",
+      "categoryLabel": "長屋選物",
+      "caption": "把長屋的舊木窗，接回今天的店舖日常。",
+      "descriptionParagraphs": [
+        "「惣」把大正二年興建的雙連長屋改為小型複合店舖，聚集餐飲與生活小店。北長屋於 2002 年再生，南長屋在 2006 年加入，是空堀老屋再利用的重要例子。",
+        "沿外側看看屋簷、木窗與小入口，再選一間有興趣的店入內。北、南長屋有各自入口，內部並不相通，適合把逛店當成慢慢探索格局的過程。"
+      ],
+      "note": "北、南長屋入口各自獨立，館內不相通。各店營業時間不同。",
+      "official": "https://www.so-karahori.com/",
+      "extraSources": [
+        "https://www.so-karahori.com/access/"
+      ],
+      "coordinate": {
+        "lat": 34.67317742,
+        "lng": 135.51336444,
+        "url": "https://www.openstreetmap.org/way/244788355",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "id": "karahori--sou",
+      "order": 4,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "「惣」把大正二年興建的雙連長屋改為小型複合店舖，聚集餐飲與生活小店。北長屋於 2002 年再生，南長屋在 2006 年加入，是空堀老屋再利用的重要例子。\n\n沿外側看看屋簷、木窗與小入口，再選一間有興趣的店入內。北、南長屋有各自入口，內部並不相通，適合把逛店當成慢慢探索格局的過程。",
+      "illustration": {
+        "image": "/art/walks/karahori/sou.webp",
+        "alt": "空堀・惣，依實景照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "趣佳",
+      "address": "大阪府大阪市中央区谷町6-15-22",
+      "group": "shops",
+      "categoryLabel": "作家器皿",
+      "caption": "讓日常的餐桌，多一點手作溫度。",
+      "descriptionParagraphs": [
+        "空堀商店街裡的器皿選物店，把不同作家的碗盤、杯子與日常用具放進老屋。除了常設作品，也持續安排個展，適合慢慢比較釉色、器形與拿在手裡的質感。",
+        "從吃一份甜點轉向挑一只喜歡的杯子，散步也能延伸到回家後的生活。這裡的看點不只是單件作品，還有木櫃與老屋空間一起構成的安靜陳列。"
+      ],
+      "official": "https://www.syuca.jp/html/company.html",
+      "coordinate": {
+        "lat": 34.6736392,
+        "lng": 135.514341,
+        "url": "https://www.openstreetmap.org/node/5759836521",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "週三、週四休；展覽換展期間另有休店。",
+      "id": "karahori--syuca",
+      "order": 5,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "空堀商店街裡的器皿選物店，把不同作家的碗盤、杯子與日常用具放進老屋。除了常設作品，也持續安排個展，適合慢慢比較釉色、器形與拿在手裡的質感。\n\n從吃一份甜點轉向挑一只喜歡的杯子，散步也能延伸到回家後的生活。這裡的看點不只是單件作品，還有木櫃與老屋空間一起構成的安靜陳列。",
+      "illustration": {
+        "image": "/art/walks/karahori/syuca.webp",
+        "alt": "趣佳，依實照繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "結音茶舗",
+      "address": "大阪府大阪市中央区谷町6-14-2 路地奥",
+      "group": "food",
+      "categoryLabel": "日本茶喫茶",
+      "caption": "走進長屋小路，換一壺茶。",
+      "descriptionParagraphs": [
+        "藏在長屋路地深處的日本茶店，以茶葉、茶飲與餐食串起一段緩慢的停留。入口與商店街保持了一點距離，讓逛街的節奏自然安靜下來。",
+        "與其趕著喝完離開，不妨把這裡留作散步中途的一站，從日本茶的香氣與不同沖泡方式，感受空堀老屋改造後仍保留的生活感。"
+      ],
+      "official": "https://yui-on.jp/",
+      "coordinate": {
+        "lat": 34.6740902,
+        "lng": 135.5147001,
+        "url": "https://www.openstreetmap.org/node/14162907776",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "karahori--yuion",
+      "order": 6,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "藏在長屋路地深處的日本茶店，以茶葉、茶飲與餐食串起一段緩慢的停留。入口與商店街保持了一點距離，讓逛街的節奏自然安靜下來。\n\n與其趕著喝完離開，不妨把這裡留作散步中途的一站，從日本茶的香氣與不同沖泡方式，感受空堀老屋改造後仍保留的生活感。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/karahori/yuion.webp",
+        "alt": "結音茶舗，依實照繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "書肆喫茶mori",
+      "address": "大阪府大阪市中央区谷町6-14-2",
+      "group": "shops",
+      "categoryLabel": "海外漫畫・喫茶",
+      "caption": "在長屋裡，翻開另一個世界。",
+      "descriptionParagraphs": [
+        "專門介紹海外漫畫的書店兼喫茶空間，希望讓更多人認識日本以外的漫畫作品。從畫面風格到敘事方式，選書本身就是這間小店最有趣的入口。",
+        "一個人或兩個人來，選一本想讀的書坐下，比把景點全部走完更適合這裡。店內閱讀採時間計費，與一般只點飲料的咖啡館使用方式不同。"
+      ],
+      "official": "https://bookcafe-mori.shopinfo.jp/",
+      "coordinate": {
+        "lat": 34.6740185,
+        "lng": 135.5148782,
+        "url": "https://www.openstreetmap.org/node/7447932088",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "閱讀空間採時間計費；座位以 1–2 人席為主。",
+      "photoPage": "https://www.osaka.com/thingstodo/karahori-shotengai-osaka-16-places-to-eat-drink-and-explore/",
+      "id": "karahori--mori",
+      "order": 7,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "專門介紹海外漫畫的書店兼喫茶空間，希望讓更多人認識日本以外的漫畫作品。從畫面風格到敘事方式，選書本身就是這間小店最有趣的入口。\n\n一個人或兩個人來，選一本想讀的書坐下，比把景點全部走完更適合這裡。店內閱讀採時間計費，與一般只點飲料的咖啡館使用方式不同。",
+      "illustration": {
+        "image": "/art/walks/karahori/mori.webp",
+        "alt": "書肆喫茶mori，依實照繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "旧ヤム邸 空堀店",
+      "address": "大阪府大阪市中央区谷町6-4-23",
+      "group": "food",
+      "categoryLabel": "香料咖哩",
+      "caption": "老屋與香料，是另一種大阪味。",
+      "descriptionParagraphs": [
+        "以老屋為舞台的香料咖哩店，把大阪咖哩文化帶進空堀的日常。不同咖哩與配菜在同一盤裡展開，適合留一段真正坐下吃飯的時間。",
+        "比起把它當成快速補充體力的餐點，更值得慢慢吃出香料、肉末與蔬菜的組合。用餐後繼續逛器皿與紙品，正好接上商店街的步調。"
+      ],
+      "official": "https://metronine.osaka/en/spot-details/?spot_id=15615585292932",
+      "coordinate": {
+        "lat": 34.6736309,
+        "lng": 135.5152235,
+        "url": "https://www.openstreetmap.org/node/5383066866",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoPage": "https://metronine.osaka/en/spot-details/?spot_id=15615585292932",
+      "id": "karahori--kyuyamutei",
+      "order": 8,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "以老屋為舞台的香料咖哩店，把大阪咖哩文化帶進空堀的日常。不同咖哩與配菜在同一盤裡展開，適合留一段真正坐下吃飯的時間。\n\n比起把它當成快速補充體力的餐點，更值得慢慢吃出香料、肉末與蔬菜的組合。用餐後繼續逛器皿與紙品，正好接上商店街的步調。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/karahori/kyuyamutei.webp",
+        "alt": "旧ヤム邸 空堀店，依實照繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "冨紗家 本店",
+      "address": "大阪府大阪市中央区谷町6-14-19",
+      "group": "food",
+      "categoryLabel": "大阪燒・鐵板料理",
+      "caption": "鐵板上的熱氣，把老街變熱鬧。",
+      "descriptionParagraphs": [
+        "空堀商店街裡的鐵板料理店，不只供應大阪燒，也以帶有創意的鐵板菜色建立自己的風格。熱騰騰的料理適合安排在散步後段，作為一餐而不只是小點心。",
+        "老屋、商店街與鐵板前的用餐氣氛，構成與咖啡館截然不同的空堀。若想讓一日行程同時有安靜與熱鬧，這裡可以接住傍晚的食慾。"
+      ],
+      "official": "https://fusaya.gorp.jp/",
+      "coordinate": {
+        "lat": 34.67383,
+        "lng": 135.513823,
+        "url": "https://www.openstreetmap.org/node/4580524595",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "extraSources": [
+        "https://karahori-osaka.com/shop24.html"
+      ],
+      "photoPage": "https://www.hotpepper.jp/strJ000109910/",
+      "id": "karahori--fusaya",
+      "order": 9,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "空堀商店街裡的鐵板料理店，不只供應大阪燒，也以帶有創意的鐵板菜色建立自己的風格。熱騰騰的料理適合安排在散步後段，作為一餐而不只是小點心。\n\n老屋、商店街與鐵板前的用餐氣氛，構成與咖啡館截然不同的空堀。若想讓一日行程同時有安靜與熱鬧，這裡可以接住傍晚的食慾。",
+      "note": "平日以晚餐營業為主，週末及假日另有午間時段；週一休息，假日順延。",
+      "illustration": {
+        "image": "/art/walks/karahori/fusaya.webp",
+        "alt": "冨紗家 本店，依實照繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "こんぶ土居",
+      "address": "大阪府大阪市中央区谷町7-6-38",
+      "group": "shops",
+      "categoryLabel": "昆布・出汁",
+      "caption": "從一片昆布，讀懂大阪的餐桌。",
+      "descriptionParagraphs": [
+        "谷町七丁目的昆布專門店，從昆布、調味品到出汁，把看似低調的食材變成值得停留的主題。店面沿街而立，適合在逛完香料咖哩與甜點後，換個角度認識大阪飲食。",
+        "昆布的產地、用途與料理方式各不相同，選購時可以從平日做菜的習慣出發。帶回去的不一定是立即吃完的點心，也可以是一份延續旅行記憶的家常滋味。"
+      ],
+      "official": "https://www.konbudoi.jp/about",
+      "coordinate": {
+        "lat": 34.673504,
+        "lng": 135.515518,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA%E4%B8%83%E4%B8%81%E7%9B%AE%EF%BC%96%E7%95%AA%EF%BC%93%EF%BC%98%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "id": "karahori--konbudoi",
+      "order": 10,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "谷町七丁目的昆布專門店，從昆布、調味品到出汁，把看似低調的食材變成值得停留的主題。店面沿街而立，適合在逛完香料咖哩與甜點後，換個角度認識大阪飲食。\n\n昆布的產地、用途與料理方式各不相同，選購時可以從平日做菜的習慣出發。帶回去的不一定是立即吃完的點心，也可以是一份延續旅行記憶的家常滋味。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/karahori/konbudoi.webp",
+        "alt": "こんぶ土居，依實照繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "大阪昆布ミュージアム",
+      "address": "大阪府大阪市中央区谷町7-6-6",
+      "group": "sights",
+      "categoryLabel": "食文化展館",
+      "caption": "把出汁的故事，再往裡看一層。",
+      "descriptionParagraphs": [
+        "由こんぶ土居打造的小型昆布展示空間，從採收工具、產地與流通，介紹大阪飲食背後的昆布文化。它與販售店位在不同門牌，適合對食材故事有興趣的人接著拜訪。",
+        "展覽的尺度小，內容卻把日常的一碗湯連到北海道的海與商業往來。安排參觀時，請先確認公開日，再把這段室內停留接進自己的散步。"
+      ],
+      "official": "https://www.konbudoi.jp/museum",
+      "coordinate": {
+        "lat": 34.672993,
+        "lng": 135.515488,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA%E4%B8%83%E4%B8%81%E7%9B%AE%EF%BC%96%E7%95%AA%EF%BC%96%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "note": "不定期開館；展場在樓上且空間狹小，無法以輪椅入內。",
+      "id": "karahori--konbumuseum",
+      "order": 11,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "由こんぶ土居打造的小型昆布展示空間，從採收工具、產地與流通，介紹大阪飲食背後的昆布文化。它與販售店位在不同門牌，適合對食材故事有興趣的人接著拜訪。\n\n展覽的尺度小，內容卻把日常的一碗湯連到北海道的海與商業往來。安排參觀時，請先確認公開日，再把這段室內停留接進自己的散步。",
+      "illustration": {
+        "image": "/art/walks/karahori/konbumuseum.webp",
+        "alt": "大阪昆布ミュージアム，依實照繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "紙匠雑貨エモジ",
+      "address": "大阪府大阪市中央区谷町6-4-24",
+      "group": "shops",
+      "categoryLabel": "紙品・文具",
+      "caption": "為下一封信，挑一張紙。",
+      "descriptionParagraphs": [
+        "以紙的觸感與加工為主角的雜貨店，從包裝紙、紙線到信封、便箋與集章冊，都能看見日常文具的小巧思。老商店街裡多了可以隨手帶走的紙上風景。",
+        "喜歡旅行中寄明信片、記手帳或收集印章的人，很容易在這裡停久一點。不同紋樣與紙材各有用途，慢慢挑比一次買很多更有意思。"
+      ],
+      "official": "https://www.kami-emoji.com/product/",
+      "coordinate": {
+        "lat": 34.673656,
+        "lng": 135.515152,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE%EF%BC%94%E7%95%AA%EF%BC%92%EF%BC%94%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "id": "karahori--emoji",
+      "order": 12,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "以紙的觸感與加工為主角的雜貨店，從包裝紙、紙線到信封、便箋與集章冊，都能看見日常文具的小巧思。老商店街裡多了可以隨手帶走的紙上風景。\n\n喜歡旅行中寄明信片、記手帳或收集印章的人，很容易在這裡停久一點。不同紋樣與紙材各有用途，慢慢挑比一次買很多更有意思。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/karahori/emoji.webp",
+        "alt": "紙匠雑貨エモジ，依實照繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "高津宮",
+      "address": "大阪府大阪市中央区高津1-1-29",
+      "group": "sights",
+      "categoryLabel": "神社・綠蔭",
+      "caption": "往南多走一點，留給樹下的安靜。",
+      "descriptionParagraphs": [
+        "位在商店街南側的神社，與仁德天皇的歷史傳說、上方落語文化相連。沿著參道走入境內，可以從街市的密度轉向樹蔭與社殿的開闊。",
+        "這一站適合放在購物與用餐之間，讓行程留有呼吸。比起只在門口拍照，走一段參道、看看境內的石碑與庭院，更能感受街區裡不同的時間層次。"
+      ],
+      "official": "https://kouzu.or.jp/",
+      "coordinate": {
+        "lat": 34.668687166666665,
+        "lng": 135.51376718333336,
+        "url": "https://www.openstreetmap.org/way/1121693756",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "karahori--kouzu",
+      "order": 13,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "位在商店街南側的神社，與仁德天皇的歷史傳說、上方落語文化相連。沿著參道走入境內，可以從街市的密度轉向樹蔭與社殿的開闊。\n\n這一站適合放在購物與用餐之間，讓行程留有呼吸。比起只在門口拍照，走一段參道、看看境內的石碑與庭院，更能感受街區裡不同的時間層次。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/karahori/kouzu.webp",
+        "alt": "高津宮，依實照繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "榎木大明神・直木三十五文学碑",
+      "address": "大阪府大阪市中央区安堂寺町2丁目",
+      "group": "sights",
+      "categoryLabel": "街角神木・文學碑",
+      "caption": "在街角，遇見一棵樹與一段文字。",
+      "descriptionParagraphs": [
+        "安堂寺町街角的榎木大明神，以被居民珍惜的神木留下街道記憶。旁邊立著直木三十五文學碑，讓這個小小角落同時連上地方信仰與大阪文學。",
+        "這裡不是需要排隊入場的設施，而是走路時值得稍停的城市細節。沿公共道路看樹與石碑，再回到商店街，適合用來認識空堀不只有餐飲與老屋的一面。"
+      ],
+      "official": "https://osaka-chushin.jp/routes/35448",
+      "coordinate": {
+        "lat": 34.6762411,
+        "lng": 135.5140185,
+        "url": "https://www.openstreetmap.org/node/450637713",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoPage": "https://osakamania.jp/shop/bungakuhi/",
+      "id": "karahori--enoki",
+      "order": 14,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "安堂寺町街角的榎木大明神，以被居民珍惜的神木留下街道記憶。旁邊立著直木三十五文學碑，讓這個小小角落同時連上地方信仰與大阪文學。\n\n這裡不是需要排隊入場的設施，而是走路時值得稍停的城市細節。沿公共道路看樹與石碑，再回到商店街，適合用來認識空堀不只有餐飲與老屋的一面。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/karahori/enoki.webp",
+        "alt": "榎木大明神・直木三十五文学碑，依實照繪製的日系水彩插圖"
+      }
+    },
+    {
+      "name": "十五番だんご＆カフェ 空堀本店",
+      "address": "大阪府大阪市中央区谷町6-16-23",
+      "group": "food",
+      "categoryLabel": "米糰子・喫茶",
+      "caption": "逛街的中途，留一口軟糯。",
+      "descriptionParagraphs": [
+        "在空堀商店街起家的糰子店，使用日本國產粳米製作，並依氣溫與濕度調整揉製。從醬油甜醬、黑蜜到黃豆粉，樸實的調味把重點留給糰子的口感。",
+        "想吃一點甜又不想把行程排得太滿，可以把這裡當成短暫休息。與周邊紙品、器皿店一起慢慢逛，正好組成有手作感也有日常味道的一小段路。"
+      ],
+      "official": "https://15ban.jp/",
+      "coordinate": {
+        "lat": 34.673725,
+        "lng": 135.513519,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%96%E7%95%AA%EF%BC%92%EF%BC%93%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "id": "karahori--dango",
+      "order": 15,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "在空堀商店街起家的糰子店，使用日本國產粳米製作，並依氣溫與濕度調整揉製。從醬油甜醬、黑蜜到黃豆粉，樸實的調味把重點留給糰子的口感。\n\n想吃一點甜又不想把行程排得太滿，可以把這裡當成短暫休息。與周邊紙品、器皿店一起慢慢逛，正好組成有手作感也有日常味道的一小段路。",
+      "note": "",
+      "illustration": {
+        "image": "/art/walks/karahori/dango.webp",
+        "alt": "十五番だんご＆カフェ 空堀本店，依實照繪製的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "karahori-walk",
+      "name": "老屋・文學・商店街",
+      "ids": [
+        "karahori--ekchuah",
+        "karahori--naoki",
+        "karahori--arcade",
+        "karahori--sou"
+      ],
+      "walking": {
+        "distanceMeters": 959.7,
+        "durationSeconds": 767.6,
+        "checkedAt": "2026-10-24"
+      },
+      "visitMinutes": [
+        85,
+        140
+      ],
+      "art": "/art/walks/karahori/ekchuah.webp"
+    }
+  ],
+  "defaultSelection": "karahori-walk"
+}

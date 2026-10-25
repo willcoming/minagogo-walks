@@ -1,0 +1,627 @@
+{
+  "updatedAt": "2026-10-24",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kiyosumi-shirakawa--garden",
+      "order": 1,
+      "name": "清澄庭園",
+      "address": "東京都江東区清澄3-3-9",
+      "group": "sights",
+      "categoryLabel": "池泉庭園",
+      "caption": "繞著池水與名石，把步調調慢。",
+      "descriptionParagraphs": [
+        "清澄庭園以池水、名石與樹木構成回遊式庭園，沿岸的景色會隨步行角度改變。池邊的涼亭、松樹與大片水面，讓清澄白河的街區散步先有了一段安靜的起點。",
+        "這一站值得留時間繞園，而不只在入口拍照。水邊的磯渡石與各地名石是觀察重點；若帶輪椅或推車同行，可先看官方無障礙地圖，選擇合適園路。"
+      ],
+      "description": "清澄庭園以池水、名石與樹木構成回遊式庭園，沿岸的景色會隨步行角度改變。池邊的涼亭、松樹與大片水面，讓清澄白河的街區散步先有了一段安靜的起點。\n\n這一站值得留時間繞園，而不只在入口拍照。水邊的磯渡石與各地名石是觀察重點；若帶輪椅或推車同行，可先看官方無障礙地圖，選擇合適園路。",
+      "note": "付費入園，12 月 29 日至 1 月 1 日休園。部分水邊步石路段不適合輪椅通行。",
+      "official": "https://www.tokyo-park.or.jp/park/kiyosumi/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.68091325555556,
+        "lng": 139.79719496666667,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/519345220",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "採用庭園售票服務中心建築各不重複頂點的算術中心作入園側代表點，非水池中心或大正記念館入口。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/garden.webp",
+        "alt": "清澄庭園的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--edo-museum",
+      "order": 2,
+      "name": "深川江戸資料館",
+      "address": "東京都江東区白河1-3-28",
+      "group": "sights",
+      "categoryLabel": "江戶生活展示",
+      "caption": "走進一座室內街町，看看江戶人的生活。",
+      "descriptionParagraphs": [
+        "深川江戶資料館以實物大小重現江戶末期的深川佐賀町。土藏、大店、長屋與水路被安排在高挑的室內空間，聲音與照明也跟著一天的時序變化，讓歷史從展板走進街道。",
+        "展示為不同居民設定職業與家庭，再把相應生活用具放進屋裡。可以順著小巷觀察水井、炊事與商業空間；館方設有坡道、電梯與無障礙廁所，輪椅也能進入展示室。"
+      ],
+      "description": "深川江戶資料館以實物大小重現江戶末期的深川佐賀町。土藏、大店、長屋與水路被安排在高挑的室內空間，聲音與照明也跟著一天的時序變化，讓歷史從展板走進街道。\n\n展示為不同居民設定職業與家庭，再把相應生活用具放進屋裡。可以順著小巷觀察水井、炊事與商業空間；館方設有坡道、電梯與無障礙廁所，輪椅也能進入展示室。",
+      "note": "付費參觀。每月第 2、4 個週一休館（遇國定假日開館），另有年末年始及臨時休館。",
+      "official": "https://www.kcf.or.jp/fukagawa/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.6810519,
+        "lng": 139.8005482,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1420787694",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "採用 tourism=museum 的館舍節點，非同名的共享單車站。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/edo-museum.webp",
+        "alt": "深川江戸資料館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--rikashitsu",
+      "order": 3,
+      "name": "リカシツ",
+      "address": "東京都江東区平野1-9-7 fukadaso 102",
+      "group": "shops",
+      "categoryLabel": "理化學選物",
+      "caption": "換個用法，實驗器具也能變成生活風景。",
+      "descriptionParagraphs": [
+        "リカシツ以理化學實驗器具為主角，試管、燒杯與玻璃器皿被重新放進日常生活。透明的形狀與刻度帶著實驗室的秩序，也能成為花器、收納與室內陳設的靈感。",
+        "店鋪位在 fukadaso 一樓 102 室，適合接在庭園與資料館之後，從觀看街町轉為觀看器物。若想找的是面對街道另一側的「理科室蒸留所」，那是不同地址的姊妹店，請留意門牌。"
+      ],
+      "description": "リカシツ以理化學實驗器具為主角，試管、燒杯與玻璃器皿被重新放進日常生活。透明的形狀與刻度帶著實驗室的秩序，也能成為花器、收納與室內陳設的靈感。\n\n店鋪位在 fukadaso 一樓 102 室，適合接在庭園與資料館之後，從觀看街町轉為觀看器物。若想找的是面對街道另一側的「理科室蒸留所」，那是不同地址的姊妹店，請留意門牌。",
+      "note": "官方列週一、週二、週三休息；本店為 fukadaso 102，與平野 1-13-12 的理科室蒸留所不同。",
+      "official": "https://www.rikashitsu.jp/home.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.6786695,
+        "lng": 139.8001519,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/14229581601",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 未有 102 室專用節點；採同棟 fukadaso 101 咖啡館節點作整棟代表點。兩店官方門牌均為平野 1-9-7；不宣稱為選物店實測入口。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/rikashitsu.webp",
+        "alt": "リカシツ的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--blue-bottle",
+      "order": 4,
+      "name": "BLUE BOTTLE COFFEE 清澄白河フラッグシップカフェ",
+      "address": "東京都江東区平野1-4-8",
+      "group": "food",
+      "categoryLabel": "咖啡休息",
+      "caption": "用一杯咖啡，接住庭園與街町之間的午後。",
+      "descriptionParagraphs": [
+        "藍瓶咖啡的清澄白河旗艦店位在平野的街巷裡。明亮空間以簡單木桌椅、玻璃與工業感的結構相接，與前段庭園和江戶町展示形成另一種街區表情。",
+        "這一站可以安排坐下喝咖啡，也能視自己的時間挑選飲品與輕食。路線在此結束後，可沿街回清澄白河站；先把庭園、展示與器物看完，再把剩下的時間留給休息。"
+      ],
+      "description": "藍瓶咖啡的清澄白河旗艦店位在平野的街巷裡。明亮空間以簡單木桌椅、玻璃與工業感的結構相接，與前段庭園和江戶町展示形成另一種街區表情。\n\n這一站可以安排坐下喝咖啡，也能視自己的時間挑選飲品與輕食。路線在此結束後，可沿街回清澄白河站；先把庭園、展示與器物看完，再把剩下的時間留給休息。",
+      "note": "",
+      "official": "https://store.bluebottlecoffee.jp/pages/kiyosumi",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "6:59",
+          "seconds": 419
+        }
+      ],
+      "coordinate": {
+        "lat": 35.6777434,
+        "lng": 139.80060494,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/606993803",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "店家建築不重複頂點算術中心，OSM 地址為平野一丁目 4-8，與官方一致。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/blue-bottle.webp",
+        "alt": "BLUE BOTTLE COFFEE 清澄白河フラッグシップカフェ的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--fukadaso",
+      "order": 5,
+      "name": "fukadaso CAFE",
+      "address": "東京都江東区平野1-9-7 fukadaso 101",
+      "group": "food",
+      "categoryLabel": "老屋咖啡",
+      "caption": "在留下歲月的深田莊，坐一個不趕時間的下午。",
+      "descriptionParagraphs": [
+        "fukadaso CAFE 位在由舊公寓兼倉庫改造的深田莊一樓，空間保留老建物的材質與時間感。簡單桌椅、綠色植物與長吧台，讓原本的工作與居住空間接上街區喫茶日常。",
+        "可以把它與同棟リカシツ一起安排：先看器物，再坐下喝一杯飲品。這裡的魅力在老屋如何繼續被使用，適合喜歡材質、光線與慢步調的人。"
+      ],
+      "description": "fukadaso CAFE 位在由舊公寓兼倉庫改造的深田莊一樓，空間保留老建物的材質與時間感。簡單桌椅、綠色植物與長吧台，讓原本的工作與居住空間接上街區喫茶日常。\n\n可以把它與同棟リカシツ一起安排：先看器物，再坐下喝一杯飲品。這裡的魅力在老屋如何繼續被使用，適合喜歡材質、光線與慢步調的人。",
+      "note": "週二、週三休息。",
+      "official": "https://fukadaso.com/cafe/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.6786695,
+        "lng": 139.8001519,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/14229581601",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM Fukadaso Cafe 專用節點，官方地址為平野 1-9-7 的 101 室。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/fukadaso.webp",
+        "alt": "fukadaso CAFE的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--teapond",
+      "order": 6,
+      "name": "TEAPOND 清澄白河店",
+      "address": "東京都江東区白河1-1-11",
+      "group": "shops",
+      "categoryLabel": "紅茶與茶器",
+      "caption": "從一罐茶葉，找到下一次日常休息的味道。",
+      "descriptionParagraphs": [
+        "TEAPOND 清澄白河店是一間販售茶葉與茶器的專門店。深灰色店面與整齊茶罐呈現像舊藥櫃般的秩序，從單一產地紅茶、調配茶到花草茶，都能慢慢比較。",
+        "這一站適合挑選自用茶葉或小份伴手禮，再接著前往深川江戶資料館與庭園。它以購物為主，想在店裡坐下喝茶的人，可以另把附近咖啡館加入行程。"
+      ],
+      "description": "TEAPOND 清澄白河店是一間販售茶葉與茶器的專門店。深灰色店面與整齊茶罐呈現像舊藥櫃般的秩序，從單一產地紅茶、調配茶到花草茶，都能慢慢比較。\n\n這一站適合挑選自用茶葉或小份伴手禮，再接著前往深川江戶資料館與庭園。它以購物為主，想在店裡坐下喝茶的人，可以另把附近咖啡館加入行程。",
+      "note": "本店為茶葉、茶器銷售空間，不提供內用喫茶。",
+      "official": "https://teapond.jp/pages/kiyosumishirakawa",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.6807491,
+        "lng": 139.7992966,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/12491767201",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 茶葉店節點，與官方白河 1-1-11 核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/teapond.webp",
+        "alt": "TEAPOND 清澄白河店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--iki",
+      "order": 7,
+      "name": "iki Espresso",
+      "address": "東京都江東区常盤2-2-12",
+      "group": "food",
+      "categoryLabel": "早午餐咖啡",
+      "caption": "把一天的開始，交給咖啡與一份早午餐。",
+      "descriptionParagraphs": [
+        "iki Espresso 把自家烘焙咖啡與餐食放在一起，延續大洋洲式咖啡館的日常節奏。開放的店面、長桌與簡潔木椅，適合從清澄白河站向北稍作延伸，安排早餐或早午餐。",
+        "若不想一開始就逛庭園，這裡也可以成為另一種散步起點。先用一份餐食坐定，再順著常盤與清澄的街巷往南走，讓咖啡街區與文化設施自然接在一起。"
+      ],
+      "description": "iki Espresso 把自家烘焙咖啡與餐食放在一起，延續大洋洲式咖啡館的日常節奏。開放的店面、長桌與簡潔木椅，適合從清澄白河站向北稍作延伸，安排早餐或早午餐。\n\n若不想一開始就逛庭園，這裡也可以成為另一種散步起點。先用一份餐食坐定，再順著常盤與清澄的街巷往南走，讓咖啡街區與文化設施自然接在一起。",
+      "note": "",
+      "official": "https://iki-espresso.com/pages/iki-espresso",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "5:42",
+          "seconds": 342
+        }
+      ],
+      "coordinate": {
+        "lat": 35.6844146,
+        "lng": 139.7966401,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4317978289",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM iki Espresso 節點，與常盤 2-2-12 本店地址一致；非西側 iki Roastery。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/iki.webp",
+        "alt": "iki Espresso的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--arise",
+      "order": 8,
+      "name": "ARiSE COFFEE ROASTERS",
+      "address": "東京都江東区平野1-13-8",
+      "group": "food",
+      "categoryLabel": "街角焙煎所",
+      "caption": "在咖啡豆罐與滑板之間，遇見街角焙煎所。",
+      "descriptionParagraphs": [
+        "ARiSE COFFEE ROASTERS 是平野街角的小型焙煎店，提供手沖與咖啡豆。木質牆面上的滑板與櫃台前的玻璃豆罐，讓它帶著店主個人的興趣與街坊感。",
+        "相較於寬敞的大型咖啡館，這裡適合用較短的停留認識豆子，也能把咖啡帶進接下來的散步。從 fukadaso 或藍瓶咖啡過來距離不遠，可以依喜歡的空間挑一間坐下。"
+      ],
+      "description": "ARiSE COFFEE ROASTERS 是平野街角的小型焙煎店，提供手沖與咖啡豆。木質牆面上的滑板與櫃台前的玻璃豆罐，讓它帶著店主個人的興趣與街坊感。\n\n相較於寬敞的大型咖啡館，這裡適合用較短的停留認識豆子，也能把咖啡帶進接下來的散步。從 fukadaso 或藍瓶咖啡過來距離不遠，可以依喜歡的空間挑一間坐下。",
+      "note": "週一休息。",
+      "official": "http://arisecoffee.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.6783632,
+        "lng": 139.8009787,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/13240668378",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM ARiSE 節點，與官方連結店家資料平野 1-13-8 核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/arise.webp",
+        "alt": "ARiSE COFFEE ROASTERS的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--mot",
+      "order": 9,
+      "name": "東京都現代美術館（MOT）",
+      "address": "東京都江東区三好4-1-1 木場公園內",
+      "group": "sights",
+      "categoryLabel": "當代藝術",
+      "caption": "讓幾何屋頂與展覽，替散步打開另一個視角。",
+      "descriptionParagraphs": [
+        "東京都現代美術館於 1995 年開館，透過收藏與企畫展介紹現代、當代藝術。入口的金屬結構與開闊階梯具有鮮明輪廓，讓走近建築的過程也成為觀察的一部分。",
+        "如果想完整看展，建議把它作為當天的主要停留，其他小店依體力加減。看完後可以接著走木場公園，或沿平野街巷回到清澄白河。"
+      ],
+      "description": "東京都現代美術館於 1995 年開館，透過收藏與企畫展介紹現代、當代藝術。入口的金屬結構與開闊階梯具有鮮明輪廓，讓走近建築的過程也成為觀察的一部分。\n\n如果想完整看展，建議把它作為當天的主要停留，其他小店依體力加減。看完後可以接著走木場公園，或沿平野街巷回到清澄白河。",
+      "note": "展覽需購票。週一休館（假日開館、次一平日休館），另有換展及年末年始休館。",
+      "official": "https://www.mot-art-museum.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.6797754,
+        "lng": 139.8087878,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/relation/12077221",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "Nominatim 回傳美術館建築多面體代表點，非公車站或路口。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/mot.webp",
+        "alt": "東京都現代美術館（MOT）的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--kiba",
+      "order": 10,
+      "name": "木場公園",
+      "address": "東京都江東区平野4丁目・三好4丁目等",
+      "group": "sights",
+      "categoryLabel": "城市綠地",
+      "caption": "穿過白色大橋，把看展的午後接到樹蔭裡。",
+      "descriptionParagraphs": [
+        "木場公園是一座橫跨道路與水路的城市公園，以木場公園大橋連起南北園區。開闊草地、林蔭步道與植物景色，讓清澄白河的咖啡與美術館之旅多了一段戶外空間。",
+        "從東京都現代美術館可直接接上北園，再依時間往大橋方向走。這一站適合不急著增加店家的人，把剩下的步行留給樹木與天空；園內不同設施各有使用規則。"
+      ],
+      "description": "木場公園是一座橫跨道路與水路的城市公園，以木場公園大橋連起南北園區。開闊草地、林蔭步道與植物景色，讓清澄白河的咖啡與美術館之旅多了一段戶外空間。\n\n從東京都現代美術館可直接接上北園，再依時間往大橋方向走。這一站適合不急著增加店家的人，把剩下的步行留給樹木與天空；園內不同設施各有使用規則。",
+      "note": "",
+      "official": "https://www.tokyo-park.or.jp/park/kiba/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.678458880952384,
+        "lng": 139.8083481666667,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/845051277",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 北園區公園多邊形代表點，非整座公園唯一入口或白色大橋位置。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/kiba.webp",
+        "alt": "木場公園的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--library",
+      "order": 11,
+      "name": "江東区立深川図書館",
+      "address": "東京都江東区清澄3-3-39",
+      "group": "sights",
+      "categoryLabel": "街區圖書館",
+      "caption": "從庭園轉個彎，讀一段深川自己的故事。",
+      "descriptionParagraphs": [
+        "深川圖書館於 1909 年設立，後成為江東區立圖書館，並在整修後於 2023 年重新開放。館舍緊鄰清澄庭園，拱形入口與樹蔭讓它成為街區裡安靜的閱讀停留。",
+        "館內設有鄉土資料室，收藏江東與江戶東京相關資料。可以在外側看看建築，也能依開館時間入館閱讀；若想把走過的街道與歷史接起來，這裡是比一般景點更日常的選擇。"
+      ],
+      "description": "深川圖書館於 1909 年設立，後成為江東區立圖書館，並在整修後於 2023 年重新開放。館舍緊鄰清澄庭園，拱形入口與樹蔭讓它成為街區裡安靜的閱讀停留。\n\n館內設有鄉土資料室，收藏江東與江戶東京相關資料。可以在外側看看建築，也能依開館時間入館閱讀；若想把走過的街道與歷史接起來，這裡是比一般景點更日常的選擇。",
+      "note": "每月第 3 個週五為館內整理日（遇假日改週四），另有年末年始及特別整理休館。",
+      "official": "https://www.koto-lib.tokyo.jp/viewer/genre.html?id=5",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.679154,
+        "lng": 139.796721,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1420787707",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 圖書館節點，官方清澄 3-3-39 核對一致。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/library.webp",
+        "alt": "江東区立深川図書館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--reiganji",
+      "order": 12,
+      "name": "霊巖寺",
+      "address": "東京都江東区白河1-3-32",
+      "group": "sights",
+      "categoryLabel": "江戶六地藏",
+      "caption": "在江戶六地藏前，停一小段安靜的時間。",
+      "descriptionParagraphs": [
+        "霊巖寺原於 1624 年創建在霊岸島，明曆大火後遷至現在的白河。境內保存江戶六地藏之一的銅造地藏菩薩坐像，以及松平定信墓等歷史遺跡。",
+        "寺院就在深川江戶資料館旁，適合把展示裡的江戶生活接回真實街區。可以在參訪境內時留意地藏、石燈籠與古寺格局，再走向附近茶店或庭園。"
+      ],
+      "description": "霊巖寺原於 1624 年創建在霊岸島，明曆大火後遷至現在的白河。境內保存江戶六地藏之一的銅造地藏菩薩坐像，以及松平定信墓等歷史遺跡。\n\n寺院就在深川江戶資料館旁，適合把展示裡的江戶生活接回真實街區。可以在參訪境內時留意地藏、石燈籠與古寺格局，再走向附近茶店或庭園。",
+      "note": "",
+      "official": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00070",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.68130746666667,
+        "lng": 139.799983025,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/407976671",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 寺院境內多邊形不重複頂點中心，非墓所或單一參拜入口。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/reiganji.webp",
+        "alt": "霊巖寺的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--onnellinen",
+      "order": 13,
+      "name": "onnellinen",
+      "address": "東京都江東区白河1-1-2",
+      "group": "shops",
+      "categoryLabel": "生活道具與編織",
+      "caption": "摸摸布料、看看器物，找一件願意久用的東西。",
+      "descriptionParagraphs": [
+        "onnellinen 自 2003 年開店，持續從材質、尺寸、設計與使用方式挑選生活物件。布品、編織材料、衣服與日用器具相互搭配，讓店鋪有著屬於自己的日常尺度。",
+        "這裡適合留時間看細節，而不是只找熱門伴手禮。從一塊織品的觸感到一件小道具的做工，都能成為把清澄白河散步延伸回家中生活的線索。"
+      ],
+      "description": "onnellinen 自 2003 年開店，持續從材質、尺寸、設計與使用方式挑選生活物件。布品、編織材料、衣服與日用器具相互搭配，讓店鋪有著屬於自己的日常尺度。\n\n這裡適合留時間看細節，而不是只找熱門伴手禮。從一塊織品的觸感到一件小道具的做工，都能成為把清澄白河散步延伸回家中生活的線索。",
+      "note": "依 2026 年 10 月 21 日公告，週一與週二休息。",
+      "official": "https://onnellinen.store/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.6809191,
+        "lng": 139.7990692,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6163717917",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM gift 店節點，並以國土地理院白河 1-1-2 門牌回應交叉核對，相差約 1.5 公尺。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/onnellinen.webp",
+        "alt": "onnellinen的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--kamasho",
+      "order": 14,
+      "name": "深川釜匠",
+      "address": "東京都江東区白河2-1-13",
+      "group": "food",
+      "categoryLabel": "深川飯",
+      "caption": "用一碗蛤蜊飯，把散步接上地方滋味。",
+      "descriptionParagraphs": [
+        "深川釜匠提供深川飯，能以炊飯或湯汁淋飯等方式認識這道地方料理。蛤蜊與米飯的組合，把過去深川與水邊生活的關係接回今日餐桌。",
+        "店址靠近深川資料館通，適合在看完江戶街町展示後安排正餐。若想把當天重點放在地方料理，可以在此坐下，再從咖啡或選物店中挑幾站，讓行程保持舒服。"
+      ],
+      "description": "深川釜匠提供深川飯，能以炊飯或湯汁淋飯等方式認識這道地方料理。蛤蜊與米飯的組合，把過去深川與水邊生活的關係接回今日餐桌。\n\n店址靠近深川資料館通，適合在看完江戶街町展示後安排正餐。若想把當天重點放在地方料理，可以在此坐下，再從咖啡或選物店中挑幾站，讓行程保持舒服。",
+      "note": "週一休息；遇國定假日營業。",
+      "official": "https://koto-kanko.jp/fukagawameshi/introduction/detail.php?shop_id=FS0008",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "zijMVFsbSLE",
+          "title": "【清澄白河 散策】穿越時空品味東京｜Dior絕美特展｜在地美食 深川飯｜咖啡＆蜂蜜專賣店｜川邊櫻花步道｜Tokyo Vlog｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=zijMVFsbSLE",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.680981,
+        "lng": 139.801468,
+        "provider": "gsi",
+        "label": "国土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E7%99%BD%E6%B2%B32-1-13",
+        "license": "公共データ利用規約 第1.0版（PDL1.0）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地名搜尋回傳完整門牌「東京都江東区白河二丁目１番１３号」的代表座標，非實測店門入口。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/kamasho.webp",
+        "alt": "深川釜匠的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--b2",
+      "order": 15,
+      "name": "B² 清澄白河・門前仲町店",
+      "address": "東京都江東区深川1-9-10",
+      "group": "food",
+      "categoryLabel": "天然酵母麵包・咖啡",
+      "caption": "從一口麵包，開始今天的咖啡散步。",
+      "descriptionParagraphs": [
+        "B² 將天然酵母麵包與自家烘焙咖啡結合，在深川一丁目開出可以坐下用餐的烘焙咖啡店。玻璃門面與開放空間，讓麵包櫃、咖啡與街道之間保持輕快的距離。",
+        "位置在清澄庭園南側，適合安排早餐或散步中途的輕食。可以挑喜歡的麵包配一杯咖啡，再走向庭園與深川的街角。"
+      ],
+      "description": "B² 將天然酵母麵包與自家烘焙咖啡結合，在深川一丁目開出可以坐下用餐的烘焙咖啡店。玻璃門面與開放空間，讓麵包櫃、咖啡與街道之間保持輕快的距離。\n\n位置在清澄庭園南側，適合安排早餐或散步中途的輕食。可以挑喜歡的麵包配一杯咖啡，再走向庭園與深川的街角。",
+      "note": "",
+      "official": "https://bsquared.jp/pages/location",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "0:14",
+          "seconds": 14
+        }
+      ],
+      "coordinate": {
+        "lat": 35.677444,
+        "lng": 139.797195,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%B7%B1%E5%B7%9D1-9-10",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都江東区深川一丁目９番１０号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/b2.webp",
+        "alt": "B² 清澄白河・門前仲町店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--sandwich",
+      "order": 16,
+      "name": "二階のサンドイッチ",
+      "address": "東京都江東区三好4-1-1 東京都現代美術館2F",
+      "group": "food",
+      "categoryLabel": "美術館咖啡",
+      "caption": "把看展後的餘韻，留給一份三明治。",
+      "descriptionParagraphs": [
+        "二階のサンドイッチ位在東京都現代美術館二樓，以定番與日替三明治、飲品和甜點，接住看展之後的時間。室內座位與露台讓人可以繼續聊天，也可以一個人慢慢整理剛才看到的作品。",
+        "即使把行程重心放在街區散步，也可以用這裡作為三好一帶的餐食停留。與美術館、木場公園放在同一段走，咖啡與藝術便能自然相連。"
+      ],
+      "description": "二階のサンドイッチ位在東京都現代美術館二樓，以定番與日替三明治、飲品和甜點，接住看展之後的時間。室內座位與露台讓人可以繼續聊天，也可以一個人慢慢整理剛才看到的作品。\n\n即使把行程重心放在街區散步，也可以用這裡作為三好一帶的餐食停留。與美術館、木場公園放在同一段走，咖啡與藝術便能自然相連。",
+      "note": "依美術館休館日休店，通常星期一休館，假日例外另有調整。",
+      "official": "https://www.mot-art-museum.jp/guide/shop/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "9qMi8WDQwyg",
+          "title": "cafe vlog｜清澄白河カフェ7店舗！珈琲の街／2021年おすすめ店",
+          "url": "https://www.youtube.com/watch?v=9qMi8WDQwyg",
+          "time": "2:55",
+          "seconds": 175
+        }
+      ],
+      "coordinate": {
+        "lat": 35.6796608,
+        "lng": 139.8084677,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/11879354170",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/sandwich.webp",
+        "alt": "二階のサンドイッチ的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa--bee",
+      "order": 17,
+      "name": "BEE FRIENDSHIP 完熟屋",
+      "address": "東京都江東区白河2-2-1 kiyosumiterrace 101",
+      "group": "shops",
+      "categoryLabel": "蜂蜜專門店",
+      "caption": "讓一小瓶蜂蜜，連起街道與自然。",
+      "descriptionParagraphs": [
+        "BEE FRIENDSHIP 完熟屋由愛媛養蜂與柑橘農家的背景出發，販售生蜂蜜與相關加工品。不同花源的色澤與香氣，讓一間街角小店也成為認識蜜蜂與產地的入口。",
+        "可以挑一瓶適合早餐、茶或料理的蜂蜜，也看看以蜂蜜發展的飲品與甜點。位置就在深川資料館通，適合與附近深川飯、器物小店一起安排。"
+      ],
+      "description": "BEE FRIENDSHIP 完熟屋由愛媛養蜂與柑橘農家的背景出發，販售生蜂蜜與相關加工品。不同花源的色澤與香氣，讓一間街角小店也成為認識蜜蜂與產地的入口。\n\n可以挑一瓶適合早餐、茶或料理的蜂蜜，也看看以蜂蜜發展的飲品與甜點。位置就在深川資料館通，適合與附近深川飯、器物小店一起安排。",
+      "note": "",
+      "official": "https://www.kanjyukuya.com/kiyosumi/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "zijMVFsbSLE",
+          "title": "【清澄白河 散策】穿越時空品味東京｜Dior絕美特展｜在地美食 深川飯｜咖啡＆蜂蜜專賣店｜川邊櫻花步道｜Tokyo Vlog｜日本旅行與生活",
+          "url": "https://www.youtube.com/watch?v=zijMVFsbSLE",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.681057,
+        "lng": 139.80159,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E7%99%BD%E6%B2%B32-2-1",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都江東区白河二丁目２番１号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "illustration": {
+        "image": "/art/walks/kiyosumi-shirakawa/bee.webp",
+        "alt": "BEE FRIENDSHIP 完熟屋的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "kiyosumi-shirakawa-walk",
+      "name": "庭園・江戶・咖啡",
+      "ids": [
+        "kiyosumi-shirakawa--garden",
+        "kiyosumi-shirakawa--edo-museum",
+        "kiyosumi-shirakawa--rikashitsu",
+        "kiyosumi-shirakawa--blue-bottle"
+      ],
+      "walking": {
+        "distanceMeters": 901.6,
+        "durationSeconds": 728.9,
+        "checkedAt": "2026-10-24"
+      },
+      "visitMinutes": [
+        120,
+        195
+      ],
+      "art": "/art/walks/kiyosumi-shirakawa/garden.webp"
+    }
+  ],
+  "defaultSelection": "kiyosumi-shirakawa-walk"
+}

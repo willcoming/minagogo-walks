@@ -1,0 +1,410 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "osaka-tenma--southpark",
+      "order": 1,
+      "name": "南天滿公園",
+      "address": "大阪府大阪市北区天満3丁目",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "走到大川旁，把視線放遠一點",
+      "descriptionParagraphs": [
+        "南天滿公園沿大川延伸，樹木與水岸步道讓天滿的街區散步多了開闊景色。沿途也能遇見與昔日市場、舟運相關的歷史痕跡。",
+        "它是有餘力時的可選延伸，不必為了完成十點而繞過來。走到喜歡的河岸位置休息，再回南森町或順勢往天滿橋站離開。"
+      ],
+      "description": "南天滿公園沿大川延伸，樹木與水岸步道讓天滿的街區散步多了開闊景色。沿途也能遇見與昔日市場、舟運相關的歷史痕跡。\n\n它是有餘力時的可選延伸，不必為了完成十點而繞過來。走到喜歡的河岸位置休息，再回南森町或順勢往天滿橋站離開。",
+      "note": "",
+      "official": "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.693626,
+        "lng": 135.515366,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/southpark.webp",
+        "alt": "南天滿公園的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--temmangu",
+      "order": 2,
+      "name": "大阪天滿宮",
+      "address": "大阪府大阪市北区天神橋2-1-8",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從購物聲中，轉入天神的境內",
+      "descriptionParagraphs": [
+        "大阪天滿宮奉祀菅原道真，也與天神祭及街區生活緊密相連。穿過門樓看木造社殿與燈籠，能感受到商店街旁另一種安定節奏。",
+        "推薦把這裡作為散步的參拜重點，再回到附近茶店休息。活動期間依現場動線通行，平日則可慢慢觀察屋簷細節。"
+      ],
+      "description": "大阪天滿宮奉祀菅原道真，也與天神祭及街區生活緊密相連。穿過門樓看木造社殿與燈籠，能感受到商店街旁另一種安定節奏。\n\n推薦把這裡作為散步的參拜重點，再回到附近茶店休息。活動期間依現場動線通行，平日則可慢慢觀察屋簷細節。",
+      "note": "",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/261",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.69553,
+        "lng": 135.512634,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/temmangu.webp",
+        "alt": "大阪天滿宮的日系水彩插圖"
+      },
+      "recommendation": "離開購物人潮，進入境內慢慢參拜。"
+    },
+    {
+      "id": "osaka-tenma--hanjotei",
+      "order": 3,
+      "name": "天滿天神繁昌亭",
+      "address": "大阪府大阪市北区天神橋2-1-34",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "提燈下的寄席，連著大阪的說笑文化",
+      "descriptionParagraphs": [
+        "繁昌亭位在大阪天滿宮近旁，是以上方落語為主的演出空間。提燈與戲院門面，讓人即使只是路過，也能感受到藝能融在街區的氣氛。",
+        "短程散步以看外觀為主，想欣賞完整演出請另外預留時段。觀演與逛街擇一作當天重點，會比趕場更舒服。"
+      ],
+      "description": "繁昌亭位在大阪天滿宮近旁，是以上方落語為主的演出空間。提燈與戲院門面，讓人即使只是路過，也能感受到藝能融在街區的氣氛。\n\n短程散步以看外觀為主，想欣賞完整演出請另外預留時段。觀演與逛街擇一作當天重點，會比趕場更舒服。",
+      "note": "完整演出需另購票並另留時間；本路線以外觀短停估算。",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/254",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.69656,
+        "lng": 135.512405,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-34",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/hanjotei.webp",
+        "alt": "天滿天神繁昌亭的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--cha",
+      "order": 4,
+      "name": "大阪茶會",
+      "address": "大阪府大阪市北区天神橋2-1-25",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "先選一只杯子，再喝一杯日本茶",
+      "descriptionParagraphs": [
+        "大阪茶會將日本茶與陶器放在同一個空間，飲品可搭配店內所選的器物。杯子的手感與茶香，讓喝茶成為有細節的休息。",
+        "適合作為路線後段的停留，也可看看陳列的器物與相關書籍。若上午出發，先逛周邊，待店家營業再安排坐下時間。"
+      ],
+      "description": "大阪茶會將日本茶與陶器放在同一個空間，飲品可搭配店內所選的器物。杯子的手感與茶香，讓喝茶成為有細節的休息。\n\n適合作為路線後段的停留，也可看看陳列的器物與相關書籍。若上午出發，先逛周邊，待店家營業再安排坐下時間。",
+      "note": "",
+      "official": "https://www.osakachakai.jp/shop/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.696423,
+        "lng": 135.51181,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-25",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/cha.webp",
+        "alt": "大阪茶會的日系水彩插圖"
+      },
+      "recommendation": "選一只喜歡的杯子，喝茶休息。"
+    },
+    {
+      "id": "osaka-tenma--nakamura",
+      "order": 5,
+      "name": "中村屋",
+      "address": "大阪府大阪市北区天神橋2-3-21",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在街角老店，遇見熟悉的可樂餅香",
+      "descriptionParagraphs": [
+        "中村屋位在南森町附近的商店街，現做的可樂餅與揚物是店頭主角。簡單的街坊小吃，讓散步多一段熱呼呼的味覺記憶。",
+        "想吃點鹹食時可排這站，若人潮多便留到下次。購買後依現場安排享用，騰出通道讓來往行人順暢通行。"
+      ],
+      "description": "中村屋位在南森町附近的商店街，現做的可樂餅與揚物是店頭主角。簡單的街坊小吃，讓散步多一段熱呼呼的味覺記憶。\n\n想吃點鹹食時可排這站，若人潮多便留到下次。購買後依現場安排享用，騰出通道讓來往行人順暢通行。",
+      "note": "",
+      "official": "https://metronine.osaka/article_tour/tenjinbashisuji-shopping-street-part1/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.697086,
+        "lng": 135.511658,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-3-21",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/nakamura.webp",
+        "alt": "中村屋的日系水彩插圖"
+      },
+      "recommendation": "走到南森町前挑一份熱可樂餅，依胃口決定是否停留。"
+    },
+    {
+      "id": "osaka-tenma--wagashi",
+      "order": 6,
+      "name": "御菓子司 薫々堂",
+      "address": "大阪府大阪市北区天神橋3-2-27",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "用季節和菓子，替逛街加一點甜",
+      "descriptionParagraphs": [
+        "薫々堂製作傳統和菓子，細緻造型與季節色彩替商店街添上另一種風景。櫥窗裡的點心，也能作為認識日本四季表現的小入口。",
+        "適合順路選購一份伴手禮，品項以當日店頭為準。若已安排茶店甜點，不妨帶走慢慢吃，讓沿途停留保持輕盈。"
+      ],
+      "description": "薫々堂製作傳統和菓子，細緻造型與季節色彩替商店街添上另一種風景。櫥窗裡的點心，也能作為認識日本四季表現的小入口。\n\n適合順路選購一份伴手禮，品項以當日店頭為準。若已安排茶店甜點，不妨帶走慢慢吃，讓沿途停留保持輕盈。",
+      "note": "",
+      "official": "https://www.tenjin123.com/takeout/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.699558,
+        "lng": 135.511566,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-2-27",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/wagashi.webp",
+        "alt": "御菓子司 薫々堂的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--arcade",
+      "order": 7,
+      "name": "天神橋筋商店街 三丁目",
+      "address": "大阪府大阪市北区天神橋3丁目",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "只走喜歡的一段，也能感受大阪街坊",
+      "descriptionParagraphs": [
+        "天神橋筋商店街由許多街段相連，三丁目一帶聚集餐飲、點心與生活店舖。屋頂下的招牌與人來人往，呈現大阪商店街親近的尺度。",
+        "這份散步聚焦天滿到南森町附近，不要求走完全部長度。遇見喜歡的小店便停下來，兩三個重點已足夠構成午後。"
+      ],
+      "description": "天神橋筋商店街由許多街段相連，三丁目一帶聚集餐飲、點心與生活店舖。屋頂下的招牌與人來人往，呈現大阪商店街親近的尺度。\n\n這份散步聚焦天滿到南森町附近，不要求走完全部長度。遇見喜歡的小店便停下來，兩三個重點已足夠構成午後。",
+      "note": "",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/237",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.700779,
+        "lng": 135.511917,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/arcade.webp",
+        "alt": "天神橋筋商店街 三丁目的日系水彩插圖"
+      },
+      "recommendation": "只挑二至四丁目附近的店逛，不必走完整條商店街。"
+    },
+    {
+      "id": "osaka-tenma--seiyo",
+      "order": 8,
+      "name": "西洋茶館",
+      "address": "大阪府大阪市北区天神橋4-6-14",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "石牆與木窗裡，等一壺紅茶的時間",
+      "descriptionParagraphs": [
+        "西洋茶館以英式茶室為靈感，石牆、木窗與古董家具構成溫暖空間。紅茶與蛋糕讓商店街的匆忙節奏，轉成可以坐著感受的午後。",
+        "如果喜歡西式甜點，可用這間替換後段的大阪茶會。兩間選一間充分休息，留出的時間更適合沿途隨興逛店。"
+      ],
+      "description": "西洋茶館以英式茶室為靈感，石牆、木窗與古董家具構成溫暖空間。紅茶與蛋糕讓商店街的匆忙節奏，轉成可以坐著感受的午後。\n\n如果喜歡西式甜點，可用這間替換後段的大阪茶會。兩間選一間充分休息，留出的時間更適合沿途隨興逛店。",
+      "note": "",
+      "official": "https://osaka-shotengai-info.com/featured/b_30/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.703148,
+        "lng": 135.511505,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B4-6-14",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/seiyo.webp",
+        "alt": "西洋茶館的日系水彩插圖"
+      },
+      "recommendation": "在英式茶室喝一壺茶，讓中段有完整的坐下時間。"
+    },
+    {
+      "id": "osaka-tenma--ogimachi",
+      "order": 9,
+      "name": "扇町公園",
+      "address": "大阪府大阪市北区扇町1丁目1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在熱鬧街區旁，換一段開闊步道",
+      "descriptionParagraphs": [
+        "扇町公園就在商店街近旁，開闊廣場、樹木與遊具讓密集市街有了喘息空間。附近居民散步與親子遊玩的日常，也成為旅途的一部分。",
+        "可以在進入商店街前先走一小段，或把它留作買完點心後的休息。公園活動較多時，沿外側步道通行即可。"
+      ],
+      "description": "扇町公園就在商店街近旁，開闊廣場、樹木與遊具讓密集市街有了喘息空間。附近居民散步與親子遊玩的日常，也成為旅途的一部分。\n\n可以在進入商店街前先走一小段，或把它留作買完點心後的休息。公園活動較多時，沿外側步道通行即可。",
+      "note": "",
+      "official": "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.703709,
+        "lng": 135.507889,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%89%87%E7%94%BA1%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/ogimachi.webp",
+        "alt": "扇町公園的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "osaka-tenma--market",
+      "order": 10,
+      "name": "天滿市場・ぷららてんま",
+      "address": "大阪府大阪市北区池田町3-1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "從市場的日常，開始讀懂天滿",
+      "descriptionParagraphs": [
+        "天滿市場聚集生鮮、食材與各式店舖，延續大阪市街的買賣日常。與附近商店街不同，這裡更容易看見居民採買與店家工作的節奏。",
+        "從天滿站出發可先短暫看看，再沿街向南走。店舖營業時間各異，不必逐攤停留，也別影響正在採買的動線。"
+      ],
+      "description": "天滿市場聚集生鮮、食材與各式店舖，延續大阪市街的買賣日常。與附近商店街不同，這裡更容易看見居民採買與店家工作的節奏。\n\n從天滿站出發可先短暫看看，再沿街向南走。店舖營業時間各異，不必逐攤停留，也別影響正在採買的動線。",
+      "note": "",
+      "official": "https://www.tenmaichiba.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.706841,
+        "lng": 135.513474,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%B1%A0%E7%94%B0%E7%94%BA3-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/osaka-tenma/market.webp",
+        "alt": "天滿市場・ぷららてんま的日系水彩插圖"
+      },
+      "recommendation": "從車站先到市場看看食材與店頭日常，不必每攤都買。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "osaka-tenma-slow-walk",
+      "name": "商店街、天神與一杯茶",
+      "ids": [
+        "osaka-tenma--arcade",
+        "osaka-tenma--temmangu",
+        "osaka-tenma--cha"
+      ],
+      "start": {
+        "name": "天滿站",
+        "address": "大阪府大阪市北区錦町 JR天満駅",
+        "access": "JR大阪環狀線；出站可先往天滿市場，再沿商店街向南"
+      },
+      "end": {
+        "name": "南森町站／大阪天滿宮站",
+        "address": "大阪府大阪市北区南森町2丁目 南森町駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從天滿市場向南慢走，穿過商店街，到天滿宮與茶店休息。",
+      "note": "十點集中在天滿站至南天滿公園之間，河岸是可選延伸。繁昌亭以看外觀為短停；完整觀演需另排時間。兩間茶店擇一，不必把熱門店全排隊。",
+      "stopNotes": {
+        "osaka-tenma--arcade": "只挑二至四丁目附近的店逛，不必走完整條商店街。",
+        "osaka-tenma--temmangu": "離開購物人潮，進入境內慢慢參拜。",
+        "osaka-tenma--cha": "選一只喜歡的杯子，喝茶休息。"
+      },
+      "art": "/art/walks/osaka-tenma/temmangu.webp"
+    },
+    {
+      "id": "osaka-tenma-market-and-tea",
+      "name": "市場日常與老派茶點",
+      "ids": [
+        "osaka-tenma--market",
+        "osaka-tenma--seiyo",
+        "osaka-tenma--nakamura"
+      ],
+      "start": {
+        "name": "天滿站",
+        "address": "大阪府大阪市北区錦町 JR天満駅",
+        "access": "JR大阪環狀線；出站可先往天滿市場，再沿商店街向南"
+      },
+      "end": {
+        "name": "南森町站／大阪天滿宮站",
+        "address": "大阪府大阪市北区南森町2丁目 南森町駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "先看看天滿市場的生活氣息，再一路向南，把紅茶、蛋糕與街坊小吃穿成輕鬆的半日。",
+      "note": "市場及各店有自己的營業日；先確認當天是否開店。西洋茶館作主要休息，中村屋依胃口外帶即可，排隊太長就把時間留給沿途。含 30～45 分鐘自由逛街與休息，候位另計，購食後依店家指示享用並保持通道暢通。",
+      "stopNotes": {
+        "osaka-tenma--market": "從車站先到市場看看食材與店頭日常，不必每攤都買。",
+        "osaka-tenma--seiyo": "在英式茶室喝一壺茶，讓中段有完整的坐下時間。",
+        "osaka-tenma--nakamura": "走到南森町前挑一份熱可樂餅，依胃口決定是否停留。"
+      },
+      "art": "/art/walks/osaka-tenma/market.webp"
+    }
+  ],
+  "defaultSelection": "osaka-tenma-slow-walk"
+}

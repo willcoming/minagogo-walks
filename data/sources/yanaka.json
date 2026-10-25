@@ -1,0 +1,719 @@
+{
+  "walkId": "yanaka",
+  "checkedAt": "2026-10-24",
+  "method": "官方與實訪內容查證後以繁體中文原創撰寫，座標採 OpenStreetMap 與國土地理院開放資料，精度各別註明，步行距離以 OSRM foot 路網估算。",
+  "places": [
+    {
+      "id": "yanaka--ginza",
+      "contentSources": [
+        "https://t-navi.city.taito.lg.jp/spot/1039",
+        "https://www.gotokyo.org/jp/spot/170/index.html",
+        "https://www.yanakaginza.com/"
+      ],
+      "coordinate": {
+        "lat": 35.7276689,
+        "lng": 139.7653174,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/737745076",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "商店街道路的代表點，非商店街辦公室或單一店入口。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.yanakaginza.com/",
+          "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=2048x2048:format=jpg/path/s91f5563c3717bac9/image/i99edbc3ebb5aa928/version/1540649169/image.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--asakura",
+      "contentSources": [
+        "https://www.taitogeibun.net/asakura/overview/tatemono/",
+        "https://www.taitogeibun.net/asakura/guidance/riyou/",
+        "https://www.city.taito.lg.jp/kusei/shisetsu/bunkashisetsu/kuritsu/asakurachosokan.html"
+      ],
+      "coordinate": {
+        "lat": 35.7268258,
+        "lng": 139.7685379,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/209190478",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "館舍建築代表點；實際入館由沿街入口進入。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.taitogeibun.net/asakura/",
+          "imageUrl": "https://www.taitogeibun.net/asakura/wp-content/uploads/sites/3/2023/07/asakura_top01.png"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--scai",
+      "contentSources": [
+        "https://www.scaithebathhouse.com/en/access/",
+        "https://awt2024.artweektokyo.com/en/institution-gallery/scai-the-bathhouse-en/",
+        "https://artplaza.geidai.ac.jp/sights/11101/"
+      ],
+      "coordinate": {
+        "lat": 35.7217514,
+        "lng": 139.7705016,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/821539905",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "藝廊建築代表點，與官方谷中 6-1-23 核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://artplaza.geidai.ac.jp/sights/11101/",
+          "imageUrl": "https://artplaza.geidai.ac.jp/wp-content/uploads/2022/05/475978fecff8e8f797eb1db84f8a5821-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--kayaba",
+      "contentSources": [
+        "https://yoyaku.toreta.in/kayabacoffee",
+        "https://taireki.com/kayaba/index.html"
+      ],
+      "coordinate": {
+        "lat": 35.721146,
+        "lng": 139.7707707,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4218484297",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 店家節點，與官方谷中 6-1-29 核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://taireki.com/kayaba/index.html",
+          "imageUrl": "https://taireki.com/kayaba/contentsImg/box3_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--hagiso",
+      "contentSources": [
+        "https://hagiso.com/hagiso/",
+        "https://hagiso.com/about/"
+      ],
+      "coordinate": {
+        "lat": 35.7263694,
+        "lng": 139.7660677,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/3830791467",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 咖啡館節點，谷中 3-10-25 與官方一致。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://hagiso.com/hagiso/",
+          "imageUrl": "https://hagiso.com/wp-content/uploads/2022/10/exterior_by-hyo_IMG_9943.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--atari",
+      "contentSources": [
+        "https://uenosakuragiatari.jp/",
+        "https://www.uenosakuragiatari.jp/shop/",
+        "https://www.city.taito.lg.jp/bunka_kanko/anzentaisaku/yukyaku/promotion/taitotokimekisanpo6.files/taitotokimekisanpo_vol.8.pdf"
+      ],
+      "coordinate": {
+        "lat": 35.72231791666667,
+        "lng": 139.77097906666668,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/821552434",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "複合商業區域不重複頂點算術中心，並非單一店舖入口。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://uenosakuragiatari.jp/",
+          "imageUrl": "https://uenosakuragiatari.jp/images/image1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--beer-hall",
+      "contentSources": [
+        "https://www.uenosakuragiatari.jp/shop/"
+      ],
+      "coordinate": {
+        "lat": 35.7222552,
+        "lng": 139.7709206,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4946600824",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM pub 節點，位於上野櫻木あたり一號棟範圍。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.uenosakuragiatari.jp/shop/",
+          "imageUrl": "https://www.uenosakuragiatari.jp/images/bia_slide001.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--isetatsu",
+      "contentSources": [
+        "https://www.isetatsu.com/company/",
+        "https://www.city.taito.lg.jp/bunka_kanko/sangyotokei/sangyojoho/tedukurikobo/index.files/24-26edosougyou-shokai.pdf"
+      ],
+      "coordinate": {
+        "lat": 35.7242945,
+        "lng": 139.7649715,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/9652985255",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 谷中手作店節點；不採用附近千駄木分店。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.isetatsu.com/company/",
+          "imageUrl": "https://www.isetatsu.com/wp-content/themes/original_theme/common/images/isetatsu.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--himitsudo",
+      "contentSources": [
+        "https://www.knt.co.jp/goto/miryoku/kanto/bimi008.html",
+        "https://www.kotsu.metro.tokyo.jp/pickup_information/pickup/pdf/pickup_202308.pdf",
+        "https://tabelog.com/tokyo/A1311/A131106/13126796/"
+      ],
+      "coordinate": {
+        "lat": 35.7273383,
+        "lng": 139.7665865,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/5498692198",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 刨冰店節點，谷中 3-11-18 與店家公開資料一致。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.knt.co.jp/goto/miryoku/kanto/bimi008.html",
+          "imageUrl": "https://img-www.knt.co.jp/goto/miryoku/kanto/img/goto-miryoku-kanto_b008_009.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--zenshoan",
+      "contentSources": [
+        "https://zenshoan.com/",
+        "https://zenshoan.com/zenshoan_yurai/",
+        "https://www.city.taito.lg.jp/event/kanko/yanakaentyoumaturi.html"
+      ],
+      "coordinate": {
+        "lat": 35.724214,
+        "lng": 139.7668493,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/5389650542",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 寺院節點，與官方谷中 5-4-7 核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.nippon.com/ja/views/b06103/",
+          "imageUrl": "https://www.nippon.com/ja/ncommon/contents/views/30433/30433.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--tennoji",
+      "contentSources": [
+        "https://www.culture.city.taito.lg.jp/bunkatanbou/landscape/japanese/yanaka_02.html",
+        "https://t-navi.city.taito.lg.jp/spot/1074"
+      ],
+      "coordinate": {
+        "lat": 35.7263249,
+        "lng": 139.7709318,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/12655768011",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 天王寺木製山門節點，採實際進入側而非墓域中心。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:Tenno-ji_by_kolshica_in_Yanaka,_Tokyo_2.jpg",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tenno-ji_by_kolshica_in_Yanaka%2C_Tokyo_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--cemetery",
+      "contentSources": [
+        "https://www.tokyo-park.or.jp/reien/yanaka/index.html",
+        "https://www.tokyo-park.or.jp/reien/yanaka/assets/files/yanaka_map.pdf"
+      ],
+      "coordinate": {
+        "lat": 35.724003275,
+        "lng": 139.770141625,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/1028597451",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "管理事務所建物不重複頂點算術中心，作霊園公共園路接點代表；非個別墓所或精確花木位置。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.tokyo-park.or.jp/reien/yanaka/index.html",
+          "imageUrl": "https://www.tokyo-park.or.jp/reien/yanaka/assets/park/yanaka_1-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--yoshidaya",
+      "contentSources": [
+        "https://www.city.taito.lg.jp/gakushu/shogaigakushu/shakaikyoiku/bunkazai/yuukeiminzokubunkaza/kyuuyosidaya.html",
+        "https://www.city.taito.lg.jp/kusei/shisetsu/bunkashisetsu/kuritsu/kyuyoshidaya.html",
+        "https://www.taitogeibun.net/shitamachi/shitamachi_annex/"
+      ],
+      "coordinate": {
+        "lat": 35.721329475,
+        "lng": 139.7709287,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/209190454",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "舊吉田屋酒店建築不重複頂點算術中心，非同名公車站。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.taitogeibun.net/shitamachi/shitamachi_annex/",
+          "imageUrl": "https://www.taitogeibun.net/shitamachi/wp-content/uploads/sites/4/2025/02/yoshidaya_001-2.png"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--clock",
+      "contentSources": [
+        "https://t-navi.city.taito.lg.jp/spot/1078",
+        "https://www.mapple.net/spot/13005604/"
+      ],
+      "coordinate": {
+        "lat": 35.721289,
+        "lng": 139.766182,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1420772944",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM museum 節點，谷中 2-1-27 與觀光協會資料一致。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.mapple.net/spot/13005604/",
+          "imageUrl": "https://cdn-mapple.net/Normal/%E6%9D%B1%E4%BA%AC%E9%83%BD/13005604_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--aiyu",
+      "contentSources": [
+        "https://www.tv-tokyo.co.jp/adomachi/backnumber/20120324/64325.html",
+        "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf"
+      ],
+      "coordinate": {
+        "lat": 35.72165785,
+        "lng": 139.770770175,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/209190307",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 店家建築不重複頂點算術中心，與台東區公開營業許可地址上野櫻木 2-11-8 核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.tv-tokyo.co.jp/adomachi/backnumber/20120324/64325.html",
+          "imageUrl": "https://www.tv-tokyo.co.jp/adomachi/backnumber/20120324/images/06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--starbucks",
+      "contentSources": [
+        "https://store.starbucks.co.jp/detail-4492/",
+        "https://hagiso.com/starbucks/",
+        "https://stories.starbucks.co.jp/press/2026/pr2026-0326-02/"
+      ],
+      "coordinate": {
+        "lat": 35.727757,
+        "lng": 139.768585,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C3-2-5",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都荒川区西日暮里三丁目２番５号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://hagiso.com/starbucks/",
+          "imageUrl": "https://hagiso.com/wp-content/uploads/2026/04/starbucks_yanaka_001.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--matsunoya",
+      "contentSources": [
+        "https://matsunoya.jp/shopinfo",
+        "https://matsunoya.jp/?lang=ja",
+        "https://www.yanakamatsunoya.jp/blog/"
+      ],
+      "coordinate": {
+        "lat": 35.727585,
+        "lng": 139.767441,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C3-14-14",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都荒川区西日暮里三丁目１４番１４号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://matsunoya.jp/shopinfo",
+          "imageUrl": "https://matsunoya.jp/wp-content/uploads/2015/09/yanaka_gaikan.png"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--fukumaru",
+      "contentSources": [
+        "https://www.foodgallery.co.jp/spj/menu.html",
+        "https://www.foodgallery.co.jp/spj/map.html"
+      ],
+      "coordinate": {
+        "lat": 35.7259887,
+        "lng": 139.7645109,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/506214980",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.foodgallery.co.jp/spj/menu.html",
+          "imageUrl": "https://www.foodgallery.co.jp/spj/images/p_kokutou_6_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--think",
+      "contentSources": [
+        "https://www.uenosakuragiatari.jp/shop/",
+        "https://www.instagram.com/think_tokyo/"
+      ],
+      "coordinate": {
+        "lat": 35.72234,
+        "lng": 139.770828,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都台東区上野桜木二丁目１５番６号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.uenosakuragiatari.jp/shop/",
+          "imageUrl": "https://www.uenosakuragiatari.jp/images/think_slide01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--nikai",
+      "contentSources": [
+        "https://minne.com/mag/articles/2194",
+        "https://www.instagram.com/kissa.nikai/"
+      ],
+      "coordinate": {
+        "lat": 35.723507,
+        "lng": 139.768707,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD6-3-8",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都台東区谷中六丁目３番８号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://minne.com/mag/articles/2194",
+          "imageUrl": "https://static.minne.com/article/photo/image/2021/01/cafenikai_22-20210112152813.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--waguriya",
+      "contentSources": [
+        "https://www.waguriya.com/%E5%92%8C%E6%A0%97%E3%82%84%E6%9C%AC%E5%BA%97-%E8%B0%B7%E4%B8%AD/"
+      ],
+      "coordinate": {
+        "lat": 35.7276,
+        "lng": 139.7652845,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/2589962156",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.waguriya.com/%E5%92%8C%E6%A0%97%E3%82%84%E6%9C%AC%E5%BA%97-%E8%B0%B7%E4%B8%AD/",
+          "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=2048x2048:format=jpg/path/s2f75124487707832/image/ifb82da72b3a9c613/version/1713885631/image.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--fukubagel",
+      "contentSources": [
+        "https://fukubagel.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.727688,
+        "lng": 139.76738,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E8%A5%BF%E6%97%A5%E6%9A%AE%E9%87%8C3-10-6",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「東京都荒川区西日暮里三丁目１０番６号」代表點；樓層與入口請依完整店址辨識。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://fukubagel.jp/",
+          "imageUrl": "https://fukubagel.jp/wp/wp-content/themes/fukubagle/assets/images/shop_thumb_04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "yanaka--cibi",
+      "contentSources": [
+        "https://www.cibi.jp/ja-jp/pages/access",
+        "https://www.cibi.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.7251759,
+        "lng": 139.7641084,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6401747274",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.cibi.jp/ja-jp/pages/access",
+          "imageUrl": "https://www.cibi.jp/cdn/shop/files/IMG_5852.jpg?v=1762229171&width=1500"
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "ginza": {
+      "pageUrl": "https://www.yanakaginza.com/",
+      "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=2048x2048:format=jpg/path/s91f5563c3717bac9/image/i99edbc3ebb5aa928/version/1540649169/image.jpg"
+    },
+    "asakura": {
+      "pageUrl": "https://www.taitogeibun.net/asakura/",
+      "imageUrl": "https://www.taitogeibun.net/asakura/wp-content/uploads/sites/3/2023/07/asakura_top01.png"
+    },
+    "scai": {
+      "pageUrl": "https://artplaza.geidai.ac.jp/sights/11101/",
+      "imageUrl": "https://artplaza.geidai.ac.jp/wp-content/uploads/2022/05/475978fecff8e8f797eb1db84f8a5821-scaled.jpg"
+    },
+    "kayaba": {
+      "pageUrl": "https://taireki.com/kayaba/index.html",
+      "imageUrl": "https://taireki.com/kayaba/contentsImg/box3_1.jpg"
+    },
+    "hagiso": {
+      "pageUrl": "https://hagiso.com/hagiso/",
+      "imageUrl": "https://hagiso.com/wp-content/uploads/2022/10/exterior_by-hyo_IMG_9943.jpeg"
+    },
+    "atari": {
+      "pageUrl": "https://uenosakuragiatari.jp/",
+      "imageUrl": "https://uenosakuragiatari.jp/images/image1.jpg"
+    },
+    "beer-hall": {
+      "pageUrl": "https://www.uenosakuragiatari.jp/shop/",
+      "imageUrl": "https://www.uenosakuragiatari.jp/images/bia_slide001.jpg"
+    },
+    "isetatsu": {
+      "pageUrl": "https://www.isetatsu.com/company/",
+      "imageUrl": "https://www.isetatsu.com/wp-content/themes/original_theme/common/images/isetatsu.jpg"
+    },
+    "himitsudo": {
+      "pageUrl": "https://www.knt.co.jp/goto/miryoku/kanto/bimi008.html",
+      "imageUrl": "https://img-www.knt.co.jp/goto/miryoku/kanto/img/goto-miryoku-kanto_b008_009.jpg"
+    },
+    "zenshoan": {
+      "pageUrl": "https://www.nippon.com/ja/views/b06103/",
+      "imageUrl": "https://www.nippon.com/ja/ncommon/contents/views/30433/30433.jpg"
+    },
+    "tennoji": {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tenno-ji_by_kolshica_in_Yanaka,_Tokyo_2.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tenno-ji_by_kolshica_in_Yanaka%2C_Tokyo_2.jpg"
+    },
+    "cemetery": {
+      "pageUrl": "https://www.tokyo-park.or.jp/reien/yanaka/index.html",
+      "imageUrl": "https://www.tokyo-park.or.jp/reien/yanaka/assets/park/yanaka_1-1.webp"
+    },
+    "yoshidaya": {
+      "pageUrl": "https://www.taitogeibun.net/shitamachi/shitamachi_annex/",
+      "imageUrl": "https://www.taitogeibun.net/shitamachi/wp-content/uploads/sites/4/2025/02/yoshidaya_001-2.png"
+    },
+    "clock": {
+      "pageUrl": "https://www.mapple.net/spot/13005604/",
+      "imageUrl": "https://cdn-mapple.net/Normal/%E6%9D%B1%E4%BA%AC%E9%83%BD/13005604_2.jpg"
+    },
+    "aiyu": {
+      "pageUrl": "https://www.tv-tokyo.co.jp/adomachi/backnumber/20120324/64325.html",
+      "imageUrl": "https://www.tv-tokyo.co.jp/adomachi/backnumber/20120324/images/06.jpg"
+    },
+    "starbucks": {
+      "pageUrl": "https://hagiso.com/starbucks/",
+      "imageUrl": "https://hagiso.com/wp-content/uploads/2026/04/starbucks_yanaka_001.jpg"
+    },
+    "matsunoya": {
+      "pageUrl": "https://matsunoya.jp/shopinfo",
+      "imageUrl": "https://matsunoya.jp/wp-content/uploads/2015/09/yanaka_gaikan.png"
+    },
+    "fukumaru": {
+      "pageUrl": "https://www.foodgallery.co.jp/spj/menu.html",
+      "imageUrl": "https://www.foodgallery.co.jp/spj/images/p_kokutou_6_thumb.png"
+    },
+    "think": {
+      "pageUrl": "https://www.uenosakuragiatari.jp/shop/",
+      "imageUrl": "https://www.uenosakuragiatari.jp/images/think_slide01.jpg"
+    },
+    "nikai": {
+      "pageUrl": "https://minne.com/mag/articles/2194",
+      "imageUrl": "https://static.minne.com/article/photo/image/2021/01/cafenikai_22-20210112152813.jpg"
+    },
+    "waguriya": {
+      "pageUrl": "https://www.waguriya.com/%E5%92%8C%E6%A0%97%E3%82%84%E6%9C%AC%E5%BA%97-%E8%B0%B7%E4%B8%AD/",
+      "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=2048x2048:format=jpg/path/s2f75124487707832/image/ifb82da72b3a9c613/version/1713885631/image.jpg"
+    },
+    "fukubagel": {
+      "pageUrl": "https://fukubagel.jp/",
+      "imageUrl": "https://fukubagel.jp/wp/wp-content/themes/fukubagle/assets/images/shop_thumb_04.jpg"
+    },
+    "cibi": {
+      "pageUrl": "https://www.cibi.jp/ja-jp/pages/access",
+      "imageUrl": "https://www.cibi.jp/cdn/shop/files/IMG_5852.jpg?v=1762229171&width=1500"
+    }
+  },
+  "walking": {
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/139.7653174,35.7276689;139.7685379,35.7268258;139.7705016,35.7217514;139.7707707,35.7211460?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 33.23,
+              "summary": "",
+              "duration": 294,
+              "distance": 367.2
+            },
+            {
+              "steps": [],
+              "weight": 58.56,
+              "summary": "",
+              "duration": 504.5,
+              "distance": 625.7
+            },
+            {
+              "steps": [],
+              "weight": 5.97,
+              "summary": "",
+              "duration": 57.3,
+              "distance": 71.7
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 97.76,
+          "duration": 855.8,
+          "distance": 1064.6
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "nSExgGGykIAVAAAAfwAAAAAAAAAsAAAAuoUoQLlocUEAAAAA0NuoQBUAAAB5AAAAAAAAACoAAABxAgAARaZUCDUpIQJFplQINSkhAgAATwUAAAAA",
+          "location": [
+            139.765317,
+            35.727669
+          ],
+          "name": "谷中銀座",
+          "distance": 0
+        },
+        {
+          "hint": "ldYZgpvWGYJFAQAA4QAAAAAAAADJAAAAgR8CQnlrs0EAAAAAuLOgQQQBAAC0AAAAAAAAAKEAAABxAgAA-LFUCPElIQLaslQI6iUhAgAALwAAAAAA",
+          "location": [
+            139.768312,
+            35.726833
+          ],
+          "name": "初音の道",
+          "distance": 20.46224886
+        },
+        {
+          "hint": "ixgHipUYB4pNAAAAiAAAAAAAAABzAAAAghgUQWOxgkEAAAAAsYldQUoAAACDAAAAAAAAAG8AAABxAgAAyrpUCCgSIQKGulQIFxIhAgAAPwoAAAAA",
+          "location": [
+            139.77057,
+            35.721768
+          ],
+          "name": "",
+          "distance": 6.434996219
+        },
+        {
+          "hint": "lhgHipkYB4oIAAAACgAAAFIBAAAJAAAArFeAP7bljz95GCJCRvSHPwcAAAAKAAAARAEAAAgAAABxAgAAqbtUCLwPIQKTu1QIug8hAgIAzwoAAAAA",
+          "location": [
+            139.770793,
+            35.721148
+          ],
+          "name": "",
+          "distance": 2.00279649
+        }
+      ]
+    }
+  },
+  "visitEstimate": {
+    "minutes": [
+      110,
+      180
+    ],
+    "method": "編輯估算：商店街 15–25 分、朝倉館 40–65 分、藝廊 20–35 分、喫茶 35–55 分；不含候位、交通與臨時活動。"
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "kichijoji--park",
+      "official": "https://www.tokyo-park.or.jp/park/inokashira/index.html",
+      "contentSources": [
+        "https://www.tokyo-park.or.jp/park/inokashira/index.html"
+      ],
+      "coordinate": {
+        "lat": 35.701012,
+        "lng": 139.574203,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%BE%A1%E6%AE%BF%E5%B1%B11-18-31",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.tokyo-park.or.jp/park/inokashira/index.html",
+        "imageUrl": "https://www.tokyo-park.or.jp/park/inokashira/assets/images/park_img_044-thumb-960xauto-91545.webp",
+        "referencePath": "design/photo-references/expansion/kichijoji/park.jpg"
+      }
+    },
+    {
+      "id": "kichijoji--temple",
+      "official": "https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/sisetu",
+      "contentSources": [
+        "https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/sisetu",
+        "https://musashino-kanko.com/area/kichijouji/inokashira-benzaiten/"
+      ],
+      "coordinate": {
+        "lat": 35.700344,
+        "lng": 139.577789,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%89%E9%B7%B9%E5%B8%82%E4%BA%95%E3%81%AE%E9%A0%AD4%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/sisetu",
+        "imageUrl": "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000042845",
+        "referencePath": "design/photo-references/expansion/kichijoji/temple.jpg"
+      }
+    },
+    {
+      "id": "kichijoji--zoo",
+      "official": "https://www.tokyo-zoo.net/inokashira/",
+      "contentSources": [
+        "https://www.tokyo-zoo.net/inokashira/",
+        "https://www.tokyo-zoo.net/inokashira/visitor-info/access/index.html"
+      ],
+      "coordinate": {
+        "lat": 35.700573,
+        "lng": 139.573074,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%BE%A1%E6%AE%BF%E5%B1%B11-17-6",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.tokyo-zoo.net/inokashira/",
+        "imageUrl": "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000042843",
+        "referencePath": "design/photo-references/expansion/kichijoji/zoo.jpg"
+      }
+    },
+    {
+      "id": "kichijoji--lightup",
+      "official": "https://lightupcoffee.com/pages/store",
+      "contentSources": [
+        "https://lightupcoffee.com/pages/store"
+      ],
+      "coordinate": {
+        "lat": 35.705471,
+        "lng": 139.572662,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA4-13-15",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://lightupcoffee.com/pages/store",
+        "imageUrl": "https://lightupcoffee.com/cdn/shop/files/MK307973_x800.jpg?v=1745241064",
+        "referencePath": "design/photo-references/expansion/kichijoji/lightup.jpg"
+      }
+    },
+    {
+      "id": "kichijoji--nakamichi",
+      "official": "https://kichijoji-nakamichi.com/about/",
+      "contentSources": [
+        "https://kichijoji-nakamichi.com/about/",
+        "https://www.musashino-shouren.com/shotenkai/kk025/"
+      ],
+      "coordinate": {
+        "lat": 35.705791,
+        "lng": 139.576614,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kichijoji-nakamichi.com/about/",
+        "imageUrl": "https://kichijoji-nakamichi.com/wp/wp-content/uploads/2018/03/about_p04-400x300.jpg",
+        "referencePath": "design/photo-references/expansion/kichijoji/nakamichi.jpg"
+      }
+    },
+    {
+      "id": "kichijoji--bunko",
+      "official": "https://sabo-musashinobunko.jimdofree.com/",
+      "contentSources": [
+        "https://sabo-musashinobunko.jimdofree.com/"
+      ],
+      "coordinate": {
+        "lat": 35.70517,
+        "lng": 139.576843,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-13-4",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://sabo-musashinobunko.jimdofree.com/",
+        "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/sad14aaa4884c9bad/image/id8bb98ca6047ad82/version/1743520525/image.jpg",
+        "referencePath": "design/photo-references/expansion/kichijoji/bunko.jpg"
+      }
+    },
+    {
+      "id": "kichijoji--museum",
+      "official": "https://www.musashino.or.jp/museum/",
+      "contentSources": [
+        "https://www.musashino.or.jp/museum/"
+      ],
+      "coordinate": {
+        "lat": 35.705029,
+        "lng": 139.579239,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-8-16",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.musashino.or.jp/museum/",
+        "imageUrl": "https://www.musashino.or.jp/_res/projects/default_project/_page_/001/000/014/main/museumkikaku.jpg",
+        "referencePath": "design/photo-references/expansion/kichijoji/museum.jpg"
+      }
+    },
+    {
+      "id": "kichijoji--satou",
+      "official": "https://www.shop-satou.jp/",
+      "contentSources": [
+        "https://www.shop-satou.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.703987,
+        "lng": 139.579132,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-1-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.shop-satou.jp/",
+        "imageUrl": "https://www.shop-satou.jp/shared/img/index/sec1_js_p1.jpg",
+        "referencePath": "design/photo-references/expansion/kichijoji/satou.jpg"
+      }
+    },
+    {
+      "id": "kichijoji--ozasa",
+      "official": "https://www.ozasa.co.jp/goods.php",
+      "contentSources": [
+        "https://www.ozasa.co.jp/goods.php",
+        "https://www.ozasa.co.jp/guide.php"
+      ],
+      "coordinate": {
+        "lat": 35.703987,
+        "lng": 139.579132,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-1-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ozasa.co.jp/goods.php",
+        "imageUrl": "https://www.ozasa.co.jp/img/photo_monaka.jpg",
+        "referencePath": "design/photo-references/expansion/kichijoji/ozasa.jpg"
+      }
+    },
+    {
+      "id": "kichijoji--harmonica",
+      "official": "https://kichijoji.me/column/guide/street-info0409/",
+      "contentSources": [
+        "https://kichijoji.me/column/guide/street-info0409/",
+        "https://www.musashino-shouren.com/shotenkai/kk012/"
+      ],
+      "coordinate": {
+        "lat": 35.703716,
+        "lng": 139.578995,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kichijoji.me/column/guide/street-info0409/",
+        "imageUrl": "https://kichijoji.me/wp/wp-content/uploads/2026/07/9.png",
+        "referencePath": "design/photo-references/expansion/kichijoji/harmonica.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "kichijoji--park",
+      "query": "東京都武蔵野市御殿山1-18-31",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%BE%A1%E6%AE%BF%E5%B1%B11-18-31",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.574203,
+              35.701012
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都武蔵野市御殿山一丁目１８番３１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kichijoji--temple",
+      "query": "東京都三鷹市井の頭4丁目1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%89%E9%B7%B9%E5%B8%82%E4%BA%95%E3%81%AE%E9%A0%AD4%E4%B8%81%E7%9B%AE1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.577789,
+              35.700344
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都三鷹市井の頭四丁目１番"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kichijoji--zoo",
+      "query": "東京都武蔵野市御殿山1-17-6",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%BE%A1%E6%AE%BF%E5%B1%B11-17-6",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.573074,
+              35.700573
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都武蔵野市御殿山一丁目１７番６号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kichijoji--lightup",
+      "query": "東京都武蔵野市吉祥寺本町4-13-15",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA4-13-15",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.572662,
+              35.705471
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都武蔵野市吉祥寺本町四丁目１３番１５号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kichijoji--nakamichi",
+      "query": "東京都武蔵野市吉祥寺本町2丁目",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2%E4%B8%81%E7%9B%AE",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.576614,
+              35.705791
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都武蔵野市吉祥寺本町二丁目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kichijoji--bunko",
+      "query": "東京都武蔵野市吉祥寺本町2-13-4",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-13-4",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.576843,
+              35.70517
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都武蔵野市吉祥寺本町二丁目１３番４号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kichijoji--museum",
+      "query": "東京都武蔵野市吉祥寺本町1-8-16",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-8-16",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.579239,
+              35.705029
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都武蔵野市吉祥寺本町一丁目８番１６号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kichijoji--satou",
+      "query": "東京都武蔵野市吉祥寺本町1-1-8",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-1-8",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.579132,
+              35.703987
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都武蔵野市吉祥寺本町一丁目１番８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kichijoji--ozasa",
+      "query": "東京都武蔵野市吉祥寺本町1-1-8",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-1-8",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.579132,
+              35.703987
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都武蔵野市吉祥寺本町一丁目１番８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kichijoji--harmonica",
+      "query": "東京都武蔵野市吉祥寺本町1丁目1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1%E4%B8%81%E7%9B%AE1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.578995,
+              35.703716
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都武蔵野市吉祥寺本町一丁目１番"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "osaka-tenma--market",
+      "official": "https://www.tenmaichiba.com/",
+      "contentSources": [
+        "https://www.tenmaichiba.com/",
+        "https://odekake.hankyu.co.jp/spots/702"
+      ],
+      "coordinate": {
+        "lat": 34.706841,
+        "lng": 135.513474,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%B1%A0%E7%94%B0%E7%94%BA3-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://odekake.hankyu.co.jp/spots/702",
+        "imageUrl": "https://odekake.hankyu.co.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY1MTIsInB1ciI6ImJsb2JfaWQifX0=--6a3ad9f6229d1ae3bf5471630bf2e7ec69f3ac77/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzEwMjQsbnVsbF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--138ca0519a7c43b3086d901d2df2f00d83fbd104/849_1",
+        "referencePath": "design/place-references/expansion/osaka-tenma/market.jpg"
+      }
+    },
+    {
+      "id": "osaka-tenma--ogimachi",
+      "official": "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
+      "contentSources": [
+        "https://www.city.osaka.lg.jp/kita/page/0000002170.html"
+      ],
+      "coordinate": {
+        "lat": 34.703709,
+        "lng": 135.507889,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%89%87%E7%94%BA1%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
+        "imageUrl": "https://www.city.osaka.lg.jp/kita/cmsfiles/contents/0000002/2170/park01_02_ogimachi.jpg",
+        "referencePath": "design/place-references/expansion/osaka-tenma/ogimachi.jpg"
+      }
+    },
+    {
+      "id": "osaka-tenma--seiyo",
+      "official": "https://osaka-shotengai-info.com/featured/b_30/",
+      "contentSources": [
+        "https://osaka-shotengai-info.com/featured/b_30/"
+      ],
+      "coordinate": {
+        "lat": 34.703148,
+        "lng": 135.511505,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B4-6-14",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://osaka-shotengai-info.com/featured/b_30/",
+        "imageUrl": "https://osaka-shotengai-info.com/wp-content/uploads/2022/07/220617_001.jpg",
+        "referencePath": "design/place-references/expansion/osaka-tenma/seiyo.jpg"
+      }
+    },
+    {
+      "id": "osaka-tenma--arcade",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/237",
+      "contentSources": [
+        "https://osaka-info.jp/experience/ja/osaka/spot/237"
+      ],
+      "coordinate": {
+        "lat": 34.700779,
+        "lng": 135.511917,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://osaka-info.jp/experience/ja/osaka/spot/237",
+        "imageUrl": "https://assets.deep-exp.com/assets/img/uploads/spot_image/3144/cover_front.webp",
+        "referencePath": "design/place-references/expansion/osaka-tenma/arcade.jpg"
+      }
+    },
+    {
+      "id": "osaka-tenma--wagashi",
+      "official": "https://www.tenjin123.com/takeout/",
+      "contentSources": [
+        "https://www.tenjin123.com/takeout/"
+      ],
+      "coordinate": {
+        "lat": 34.699558,
+        "lng": 135.511566,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-2-27",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.tenjin123.com/takeout/",
+        "imageUrl": "https://www.tenjin123.com/takeout/images/cafe11_1.jpg",
+        "referencePath": "design/place-references/expansion/osaka-tenma/wagashi.jpg"
+      }
+    },
+    {
+      "id": "osaka-tenma--nakamura",
+      "official": "https://metronine.osaka/article_tour/tenjinbashisuji-shopping-street-part1/",
+      "contentSources": [
+        "https://metronine.osaka/article_tour/tenjinbashisuji-shopping-street-part1/"
+      ],
+      "coordinate": {
+        "lat": 34.697086,
+        "lng": 135.511658,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-3-21",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://metronine.osaka/article_tour/tenjinbashisuji-shopping-street-part1/",
+        "imageUrl": "https://pic.k-cdn.media/2021/07/20210721-tenjinbashisuji-shopping-street-part1-img15.jpg",
+        "referencePath": "design/place-references/expansion/osaka-tenma/nakamura.jpg"
+      }
+    },
+    {
+      "id": "osaka-tenma--hanjotei",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/254",
+      "contentSources": [
+        "https://osaka-info.jp/experience/ja/osaka/spot/254"
+      ],
+      "coordinate": {
+        "lat": 34.69656,
+        "lng": 135.512405,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-34",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://osaka-info.jp/experience/ja/osaka/spot/254",
+        "imageUrl": "https://assets.deep-exp.com/assets/img/uploads/spot_image/3178/cover_front.webp",
+        "referencePath": "design/place-references/expansion/osaka-tenma/hanjotei.jpg"
+      }
+    },
+    {
+      "id": "osaka-tenma--temmangu",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/261",
+      "contentSources": [
+        "https://osaka-info.jp/experience/ja/osaka/spot/261"
+      ],
+      "coordinate": {
+        "lat": 34.69553,
+        "lng": 135.512634,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://osaka-info.jp/experience/ja/osaka/spot/261",
+        "imageUrl": "https://assets.deep-exp.com/assets/img/uploads/spot_image/3151/cover_front.webp",
+        "referencePath": "design/place-references/expansion/osaka-tenma/temmangu.jpg"
+      }
+    },
+    {
+      "id": "osaka-tenma--cha",
+      "official": "https://www.osakachakai.jp/shop/",
+      "contentSources": [
+        "https://www.osakachakai.jp/shop/",
+        "https://www.osakachakai.jp/about/"
+      ],
+      "coordinate": {
+        "lat": 34.696423,
+        "lng": 135.51181,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-25",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.osakachakai.jp/about/",
+        "imageUrl": "https://www.osakachakai.jp/source/img/about/about4.png",
+        "referencePath": "design/place-references/expansion/osaka-tenma/cha.jpg"
+      }
+    },
+    {
+      "id": "osaka-tenma--southpark",
+      "official": "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
+      "contentSources": [
+        "https://www.city.osaka.lg.jp/kita/page/0000002170.html"
+      ],
+      "coordinate": {
+        "lat": 34.693626,
+        "lng": 135.515366,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
+        "imageUrl": "https://www.city.osaka.lg.jp/kita/cmsfiles/contents/0000002/2170/park01_05_minamitenma.jpg",
+        "referencePath": "design/place-references/expansion/osaka-tenma/southpark.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "osaka-tenma--market",
+      "query": "大阪府大阪市北区池田町3-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%B1%A0%E7%94%B0%E7%94%BA3-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.513474,
+              34.706841
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区池田町３番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-tenma--ogimachi",
+      "query": "大阪府大阪市北区扇町1丁目1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%89%87%E7%94%BA1%E4%B8%81%E7%9B%AE1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.507889,
+              34.703709
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区扇町一丁目１番"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-tenma--seiyo",
+      "query": "大阪府大阪市北区天神橋4-6-14",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B4-6-14",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.511505,
+              34.703148
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区天神橋四丁目６番１４号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-tenma--arcade",
+      "query": "大阪府大阪市北区天神橋3丁目",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3%E4%B8%81%E7%9B%AE",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.511917,
+              34.700779
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区天神橋三丁目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-tenma--wagashi",
+      "query": "大阪府大阪市北区天神橋3-2-27",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-2-27",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.511566,
+              34.699558
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区天神橋三丁目２番２７号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-tenma--nakamura",
+      "query": "大阪府大阪市北区天神橋2-3-21",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-3-21",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.511658,
+              34.697086
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区天神橋二丁目３番２１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-tenma--hanjotei",
+      "query": "大阪府大阪市北区天神橋2-1-34",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-34",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.512405,
+              34.69656
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区天神橋二丁目１番３４号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-tenma--temmangu",
+      "query": "大阪府大阪市北区天神橋2-1-8",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-8",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.512634,
+              34.69553
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区天神橋二丁目１番８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-tenma--cha",
+      "query": "大阪府大阪市北区天神橋2-1-25",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-1-25",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.51181,
+              34.696423
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区天神橋二丁目１番２５号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-tenma--southpark",
+      "query": "大阪府大阪市北区天満3丁目",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803%E4%B8%81%E7%9B%AE",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.515366,
+              34.693626
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区天満三丁目"
+          }
+        }
+      ]
+    }
+  ]
+}

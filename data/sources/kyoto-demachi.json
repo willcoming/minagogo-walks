@@ -1,0 +1,443 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "kyoto-demachi--futaba",
+      "official": "https://ja.kyoto.travel/times/morning/article/single.php?id=589",
+      "contentSources": [
+        "https://ja.kyoto.travel/times/morning/article/single.php?id=589"
+      ],
+      "coordinate": {
+        "lat": 35.03194,
+        "lng": 135.769531,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E9%9D%92%E9%BE%8D%E7%94%BA236",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://ja.kyoto.travel/times/morning/article/single.php?id=589",
+        "imageUrl": "https://ja.kyoto.travel/resource/news/images/______%2850%29.jpg",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-demachi/futaba.jpg"
+      }
+    },
+    {
+      "id": "kyoto-demachi--masugata",
+      "official": "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+      "contentSources": [
+        "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html"
+      ],
+      "coordinate": {
+        "lat": 35.030193,
+        "lng": 135.769287,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%BA%8C%E7%A5%9E%E7%94%BA179",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+        "imageUrl": "https://www.keihan.co.jp/tsu/kyoto/course/img/demachiyanagi_im05.webp",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-demachi/masugata.jpg"
+      }
+    },
+    {
+      "id": "kyoto-demachi--cinema",
+      "official": "https://demachiza.com/access",
+      "contentSources": [
+        "https://demachiza.com/access",
+        "https://masugata.demachi.jp/shop/shop_119/"
+      ],
+      "coordinate": {
+        "lat": 35.029732,
+        "lng": 135.768951,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%89%E8%8A%B3%E7%94%BA133",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://masugata.demachi.jp/shop/shop_119/",
+        "imageUrl": "https://masugata.demachi.jp/manager/wp-content/uploads/2022/12/demachiza_02-1-1.png",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-demachi/cinema.jpg"
+      }
+    },
+    {
+      "id": "kyoto-demachi--delta",
+      "official": "https://delta.kyotographie.jp/",
+      "contentSources": [
+        "https://delta.kyotographie.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.030518,
+        "lng": 135.768356,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%89%E6%A0%84%E7%94%BA62",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://delta.kyotographie.jp/",
+        "imageUrl": "https://delta.kyotographie.jp/wp-content/uploads/2021/04/slide02-1024x656.jpg",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-demachi/delta.jpg"
+      }
+    },
+    {
+      "id": "kyoto-demachi--fujiya",
+      "official": "https://www.e-kanbutu.com/",
+      "contentSources": [
+        "https://www.e-kanbutu.com/",
+        "https://masugata.demachi.jp/shop/shop_92/"
+      ],
+      "coordinate": {
+        "lat": 35.030518,
+        "lng": 135.768356,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%89%E6%A0%84%E7%94%BA63",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://masugata.demachi.jp/shop/shop_92/",
+        "imageUrl": "https://masugata.demachi.jp/manager/wp-content/uploads/2022/12/fujiya_02-1-1.png",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-demachi/fujiya.jpg"
+      }
+    },
+    {
+      "id": "kyoto-demachi--kawai",
+      "official": "https://www.shimogamo-jinja.or.jp/bireikigan",
+      "contentSources": [
+        "https://www.shimogamo-jinja.or.jp/bireikigan",
+        "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html"
+      ],
+      "coordinate": {
+        "lat": 35.0347053,
+        "lng": 135.77193640000002,
+        "provider": "osm",
+        "label": "OpenStreetMap 神社圖徵中心",
+        "url": "https://www.openstreetmap.org/way/351136449",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "依神社範圍圖徵的邊界中心定位，並非指定入口；原 GSI 同址回應另存。",
+        "rawResponsePath": "design/next-expansion/research/demachi-kawai-osm.json"
+      },
+      "photo": {
+        "pageUrl": "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+        "imageUrl": "https://www.keihan.co.jp/tsu/kyoto/course/img/demachiyanagi_im03.webp",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-demachi/kawai.jpg"
+      }
+    },
+    {
+      "id": "kyoto-demachi--shimogamo",
+      "official": "https://www.shimogamo-jinja.or.jp/",
+      "contentSources": [
+        "https://www.shimogamo-jinja.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.038692,
+        "lng": 135.772964,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E6%B3%89%E5%B7%9D%E7%94%BA59",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.shimogamo-jinja.or.jp/",
+        "imageUrl": "https://static.wixstatic.com/media/d1ef02_8e22804213f54449b1f51143e1263ddb%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/d1ef02_8e22804213f54449b1f51143e1263ddb%7Emv2.jpg",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-demachi/shimogamo.jpg"
+      }
+    },
+    {
+      "id": "kyoto-demachi--mitsui",
+      "official": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505",
+      "contentSources": [
+        "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505"
+      ],
+      "coordinate": {
+        "lat": 35.032398,
+        "lng": 135.771469,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E5%AE%AE%E6%B2%B3%E7%94%BA58-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505",
+        "imageUrl": "https://ja.kyoto.travel/resource/tourism/2505-1.jpg",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-demachi/mitsui.jpg"
+      }
+    },
+    {
+      "id": "kyoto-demachi--river",
+      "official": "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+      "contentSources": [
+        "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html"
+      ],
+      "coordinate": {
+        "lat": 35.031872,
+        "lng": 135.771667,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E5%AE%AE%E6%B2%B3%E7%94%BA",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+        "imageUrl": "https://www.keihan.co.jp/tsu/kyoto/course/img/demachiyanagi_im01.webp",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-demachi/river.jpg"
+      }
+    },
+    {
+      "id": "kyoto-demachi--isehan",
+      "official": "https://www.hieizan.gr.jp/yase/sabo_isehan-2",
+      "contentSources": [
+        "https://www.hieizan.gr.jp/yase/sabo_isehan-2",
+        "https://rurubu.jp/andmore/spot/80026078"
+      ],
+      "coordinate": {
+        "lat": 35.03194,
+        "lng": 135.769531,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E9%9D%92%E9%BE%8D%E7%94%BA242",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://rurubu.jp/andmore/spot/80026078",
+        "imageUrl": "https://www.j-jti.com/Storage/Image/Product/SightImage/L/SI_80026078_36414.jpg",
+        "referencePath": "/Users/willcoming/code/minagogo/examples/kuramae-walk/design/photo-references/expansion/kyoto-demachi/isehan.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "kyoto-demachi--futaba",
+      "query": "京都府京都市上京区青龍町236",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E9%9D%92%E9%BE%8D%E7%94%BA236",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.769531,
+              35.03194
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区青龍町"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-demachi--masugata",
+      "query": "京都府京都市上京区二神町179",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%BA%8C%E7%A5%9E%E7%94%BA179",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.769287,
+              35.030193
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区二神町１７９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-demachi--cinema",
+      "query": "京都府京都市上京区三芳町133",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%89%E8%8A%B3%E7%94%BA133",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.768951,
+              35.029732
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区三芳町１３３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-demachi--delta",
+      "query": "京都府京都市上京区三栄町62",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%89%E6%A0%84%E7%94%BA62",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.768356,
+              35.030518
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区三栄町６２番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-demachi--fujiya",
+      "query": "京都府京都市上京区三栄町63",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%89%E6%A0%84%E7%94%BA63",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.768356,
+              35.030518
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区三栄町６３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-demachi--kawai",
+      "query": "京都府京都市左京区下鴨泉川町59",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E6%B3%89%E5%B7%9D%E7%94%BA59",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.772964,
+              35.038692
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区下鴨泉川町５９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-demachi--shimogamo",
+      "query": "京都府京都市左京区下鴨泉川町59",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E6%B3%89%E5%B7%9D%E7%94%BA59",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.772964,
+              35.038692
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区下鴨泉川町５９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-demachi--mitsui",
+      "query": "京都府京都市左京区下鴨宮河町58-2",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E5%AE%AE%E6%B2%B3%E7%94%BA58-2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.771469,
+              35.032398
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区下鴨宮河町５８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-demachi--river",
+      "query": "京都府京都市左京区下鴨宮河町",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E5%AE%AE%E6%B2%B3%E7%94%BA",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.771667,
+              35.031872
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市左京区下鴨宮河町"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-demachi--isehan",
+      "query": "京都府京都市上京区青龍町242",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E9%9D%92%E9%BE%8D%E7%94%BA242",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.769531,
+              35.03194
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区青龍町"
+          }
+        }
+      ]
+    }
+  ]
+}

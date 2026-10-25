@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "name": "Kuramae Geolonia ABR-derived address coordinates",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "地址座標：Geolonia 住所データ v2（株式会社Geolonia，依デジタル庁アドレス・ベース・レジストリ整理），CC BY 4.0；Minagogo選取及重新整理，非官方旅遊指南。",
+  "source": "https://japanese-addresses-v2.geoloniamaps.com/api/ja/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E5%8F%B0%E6%9D%B1%E5%8C%BA-%E4%BD%8F%E5%B1%85%E8%A1%A8%E7%A4%BA.txt",
+  "sourceUpdatedAt": "2024-12-25T04:57:50+00:00",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nobori",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.791198847,
+          35.706055822
+        ]
+      },
+      "properties": {
+        "name": "道具屋 nobori",
+        "address": "東京都台東区寿3-7-1 寿町フラワーホーム1F",
+        "matchedAddress": "東京都台東区寿三丁目7番1号",
+        "source": "https://japanese-addresses-v2.geoloniamaps.com/api/ja/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E5%8F%B0%E6%9D%B1%E5%8C%BA-%E4%BD%8F%E5%B1%85%E8%A1%A8%E7%A4%BA.txt",
+        "sourceIndex": "https://japanese-addresses-v2.geoloniamaps.com/api/ja/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E5%8F%B0%E6%9D%B1%E5%8C%BA.json",
+        "sourceUpdatedAt": "2024-12-25T04:57:50+00:00",
+        "retrievedAt": "2026-10-22",
+        "license": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "attribution": "地址座標：Geolonia 住所データ v2（株式会社Geolonia，依デジタル庁アドレス・ベース・レジストリ整理），CC BY 4.0；Minagogo選取及重新整理，非官方旅遊指南。",
+        "coordinateNote": "住居表示地址代表點・非實測店家入口",
+        "adaptationNotice": "Minagogo selected four address records, matched shop addresses and converted them to GeoJSON; no coordinate values changed.",
+        "sourceRawRow": "7,1,,139.791198847,35.706055822",
+        "sourceByteStart": 361012,
+        "sourceSha256": "783622ed0337ab7369736539d6882ffae6cf153d38d65236344c4e5d5c866659",
+        "officialAddressUrl": "https://fromafar.stores.jp/about"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_755e902f96d154b8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789974153,
+          35.703737828
+        ]
+      },
+      "properties": {
+        "name": "Frobergue",
+        "address": "東京都台東区蔵前4-14-11 ウグイスビル101",
+        "matchedAddress": "東京都台東区蔵前四丁目14番11号",
+        "source": "https://japanese-addresses-v2.geoloniamaps.com/api/ja/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E5%8F%B0%E6%9D%B1%E5%8C%BA-%E4%BD%8F%E5%B1%85%E8%A1%A8%E7%A4%BA.txt",
+        "sourceIndex": "https://japanese-addresses-v2.geoloniamaps.com/api/ja/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E5%8F%B0%E6%9D%B1%E5%8C%BA.json",
+        "sourceUpdatedAt": "2024-12-25T04:57:50+00:00",
+        "retrievedAt": "2026-10-22",
+        "license": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "attribution": "地址座標：Geolonia 住所データ v2（株式会社Geolonia，依デジタル庁アドレス・ベース・レジストリ整理），CC BY 4.0；Minagogo選取及重新整理，非官方旅遊指南。",
+        "coordinateNote": "住居表示地址代表點・非實測店家入口",
+        "adaptationNotice": "Minagogo selected four address records, matched shop addresses and converted them to GeoJSON; no coordinate values changed.",
+        "sourceRawRow": "14,11,,139.789974153,35.703737828",
+        "sourceByteStart": 123496,
+        "sourceSha256": "783622ed0337ab7369736539d6882ffae6cf153d38d65236344c4e5d5c866659",
+        "officialAddressUrl": "https://frobergue.storeinfo.jp/pages/8304/About"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_40162bcb1904fe28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.788807539,
+          35.702160786
+        ]
+      },
+      "properties": {
+        "name": "hibi 10MINUTES AROMA STORE TOKYO",
+        "address": "東京都台東区蔵前4-4-8 田中ビル1F",
+        "matchedAddress": "東京都台東区蔵前四丁目4番8号",
+        "source": "https://japanese-addresses-v2.geoloniamaps.com/api/ja/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E5%8F%B0%E6%9D%B1%E5%8C%BA-%E4%BD%8F%E5%B1%85%E8%A1%A8%E7%A4%BA.txt",
+        "sourceIndex": "https://japanese-addresses-v2.geoloniamaps.com/api/ja/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E5%8F%B0%E6%9D%B1%E5%8C%BA.json",
+        "sourceUpdatedAt": "2024-12-25T04:57:50+00:00",
+        "retrievedAt": "2026-10-22",
+        "license": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "attribution": "地址座標：Geolonia 住所データ v2（株式会社Geolonia，依デジタル庁アドレス・ベース・レジストリ整理），CC BY 4.0；Minagogo選取及重新整理，非官方旅遊指南。",
+        "coordinateNote": "住居表示地址代表點・非實測店家入口",
+        "adaptationNotice": "Minagogo selected four address records, matched shop addresses and converted them to GeoJSON; no coordinate values changed.",
+        "sourceRawRow": "4,8,,139.788807539,35.702160786",
+        "sourceByteStart": 120039,
+        "sourceSha256": "783622ed0337ab7369736539d6882ffae6cf153d38d65236344c4e5d5c866659",
+        "officialAddressUrl": "https://hibi-jp.com/shop.php"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_91fd233286b858f4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789905689,
+          35.704685161
+        ]
+      },
+      "properties": {
+        "name": "JOLI ALL LEATHER ITEMS 蔵前",
+        "address": "東京都台東区蔵前4-21-2 蔵前MORIビル1F＆4F",
+        "matchedAddress": "東京都台東区蔵前四丁目21番2号",
+        "source": "https://japanese-addresses-v2.geoloniamaps.com/api/ja/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E5%8F%B0%E6%9D%B1%E5%8C%BA-%E4%BD%8F%E5%B1%85%E8%A1%A8%E7%A4%BA.txt",
+        "sourceIndex": "https://japanese-addresses-v2.geoloniamaps.com/api/ja/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E5%8F%B0%E6%9D%B1%E5%8C%BA.json",
+        "sourceUpdatedAt": "2024-12-25T04:57:50+00:00",
+        "retrievedAt": "2026-10-22",
+        "license": "CC-BY-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "attribution": "地址座標：Geolonia 住所データ v2（株式会社Geolonia，依デジタル庁アドレス・ベース・レジストリ整理），CC BY 4.0；Minagogo選取及重新整理，非官方旅遊指南。",
+        "coordinateNote": "住居表示地址代表點・非實測店家入口",
+        "adaptationNotice": "Minagogo selected four address records, matched shop addresses and converted them to GeoJSON; no coordinate values changed.",
+        "sourceRawRow": "21,2,,139.789905689,35.704685161",
+        "sourceByteStart": 126805,
+        "sourceSha256": "783622ed0337ab7369736539d6882ffae6cf153d38d65236344c4e5d5c866659",
+        "officialAddressUrl": "https://joli-qube.jp/?mode=f76"
+      }
+    }
+  ]
+}

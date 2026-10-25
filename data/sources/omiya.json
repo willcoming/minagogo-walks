@@ -1,0 +1,441 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "omiya--sando",
+      "official": "https://visitsaitamacity.jp/spots/39",
+      "contentSources": [
+        "https://visitsaitamacity.jp/spots/39"
+      ],
+      "coordinate": {
+        "lat": 35.913284,
+        "lng": 139.629379,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA1%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://visitsaitamacity.jp/spots/39",
+        "imageUrl": "https://visitsaitamacity.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU3NzMsInB1ciI6ImJsb2JfaWQifX0=--e6b8d3bcc75c9b34e5784400b3edc83330e7dbcd/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzE5MjAsMTA4MF0sInNhdmVyIjp7InF1YWxpdHkiOjgwfX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--772cc9d1a056963b4ab06d595a9f3bcbf7fb19a2/%E6%B0%B7%E5%B7%9D%E5%8F%82%E9%81%93%E3%83%BB%E5%B9%B3%E6%88%90%E3%81%B2%E3%82%8D%E3%81%AF%E3%82%991.jpg",
+        "referencePath": "design/photo-references/expansion/omiya/sando.jpg"
+      }
+    },
+    {
+      "id": "omiya--coffee",
+      "official": "https://tokiwacoffee.com/shops/omiya-hikawa/",
+      "contentSources": [
+        "https://tokiwacoffee.com/shops/omiya-hikawa/"
+      ],
+      "coordinate": {
+        "lat": 35.911236,
+        "lng": 139.63028,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA1-173-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://tokiwacoffee.com/shops/omiya-hikawa/",
+        "imageUrl": "https://tokiwacoffee.com/wp-content/uploads/2023/01/omiya-hikawa_01.jpg",
+        "referencePath": "design/photo-references/expansion/omiya/coffee.jpg"
+      }
+    },
+    {
+      "id": "omiya--bibli",
+      "official": "https://bibli.jp/",
+      "contentSources": [
+        "https://bibli.jp/",
+        "https://visitsaitamacity.jp/features/1"
+      ],
+      "coordinate": {
+        "lat": 35.911316,
+        "lng": 139.631592,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA2-1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://visitsaitamacity.jp/features/1",
+        "imageUrl": "https://visitsaitamacity.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--40ea87acc0ac6837f1c4354aada74a5420d1d92a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzE5MjAsMTA4MF0sInNhdmVyIjp7InF1YWxpdHkiOjgwfX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--772cc9d1a056963b4ab06d595a9f3bcbf7fb19a2/231004-omiya-s-242.jpg",
+        "referencePath": "design/photo-references/expansion/omiya/bibli.jpg"
+      }
+    },
+    {
+      "id": "omiya--dango",
+      "official": "https://visitsaitamacity.jp/features/1",
+      "contentSources": [
+        "https://visitsaitamacity.jp/features/1"
+      ],
+      "coordinate": {
+        "lat": 35.911808,
+        "lng": 139.631622,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA2-12",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://visitsaitamacity.jp/features/1",
+        "imageUrl": "https://visitsaitamacity.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--a361400255a884af2b438c1b396886916ccb017d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzE5MjAsMTA4MF0sInNhdmVyIjp7InF1YWxpdHkiOjgwfX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--772cc9d1a056963b4ab06d595a9f3bcbf7fb19a2/231004-omiya-s-174.jpg",
+        "referencePath": "design/photo-references/expansion/omiya/dango.jpg"
+      }
+    },
+    {
+      "id": "omiya--culture",
+      "official": "https://saitama-culture.jp/hikawanomori/",
+      "contentSources": [
+        "https://saitama-culture.jp/hikawanomori/"
+      ],
+      "coordinate": {
+        "lat": 35.913654,
+        "lng": 139.631516,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA2-262-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://saitama-culture.jp/hikawanomori/",
+        "imageUrl": "https://saitama-culture.jp/sculwp/wp-content/uploads/hikawanomori_p8480.jpg",
+        "referencePath": "design/photo-references/expansion/omiya/culture.jpg"
+      }
+    },
+    {
+      "id": "omiya--shrine",
+      "official": "https://musashiichinomiya-hikawa.or.jp/",
+      "contentSources": [
+        "https://musashiichinomiya-hikawa.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.91634,
+        "lng": 139.62944,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA1-407",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://musashiichinomiya-hikawa.or.jp/",
+        "imageUrl": "https://musashiichinomiya-hikawa.or.jp/index_img/1.webp",
+        "referencePath": "design/photo-references/expansion/omiya/shrine.jpg"
+      }
+    },
+    {
+      "id": "omiya--park",
+      "official": "https://visitsaitamacity.jp/spots/53",
+      "contentSources": [
+        "https://visitsaitamacity.jp/spots/53"
+      ],
+      "coordinate": {
+        "lat": 35.918793,
+        "lng": 139.63179,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA4%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://visitsaitamacity.jp/spots/53",
+        "imageUrl": "https://visitsaitamacity.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0OTYsInB1ciI6ImJsb2JfaWQifX0=--c4feeba5af3b5593908fc962b5ac0d981a283264/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzE5MjAsMTA4MF0sInNhdmVyIjp7InF1YWxpdHkiOjgwfX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--772cc9d1a056963b4ab06d595a9f3bcbf7fb19a2/%E5%A4%A7%E5%AE%AE%E5%85%AC%E5%9C%921.jpg",
+        "referencePath": "design/photo-references/expansion/omiya/park.jpg"
+      }
+    },
+    {
+      "id": "omiya--zoo",
+      "official": "https://www.parks.or.jp/omiyazoo/guide/000/000581.html",
+      "contentSources": [
+        "https://www.parks.or.jp/omiyazoo/guide/000/000581.html"
+      ],
+      "coordinate": {
+        "lat": 35.918793,
+        "lng": 139.63179,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA4%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.parks.or.jp/omiyazoo/guide/000/000581.html",
+        "imageUrl": "https://www.parks.or.jp/omiyazoo/guide/files/581/000581/__img1.jpg",
+        "referencePath": "design/photo-references/expansion/omiya/zoo.jpg"
+      }
+    },
+    {
+      "id": "omiya--museum",
+      "official": "https://www.city.saitama.lg.jp/kosodate/topics/p127809.html",
+      "contentSources": [
+        "https://www.city.saitama.lg.jp/kosodate/topics/p127809.html",
+        "https://visitsaitamacity.jp/spots/53"
+      ],
+      "coordinate": {
+        "lat": 35.921021,
+        "lng": 139.630447,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA4-219",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://visitsaitamacity.jp/spots/53",
+        "imageUrl": "https://visitsaitamacity.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAyNTcsInB1ciI6ImJsb2JfaWQifX0=--c214e3a23e63f6e3507e05cc38886c0ae092bb51/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzE5MjAsMTA4MF0sInNhdmVyIjp7InF1YWxpdHkiOjgwfX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--772cc9d1a056963b4ab06d595a9f3bcbf7fb19a2/01_%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%A4%96%E8%A6%B3.jpeg",
+        "referencePath": "design/photo-references/expansion/omiya/museum.jpg"
+      }
+    },
+    {
+      "id": "omiya--manawa",
+      "official": "https://visitsaitamacity.jp/spots/58",
+      "contentSources": [
+        "https://visitsaitamacity.jp/spots/58",
+        "https://visitsaitamacity.jp/features/1"
+      ],
+      "coordinate": {
+        "lat": 35.917881,
+        "lng": 139.627975,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA3-119-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://visitsaitamacity.jp/features/1",
+        "imageUrl": "https://visitsaitamacity.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--646902defdad70ec239ac7baaaf5612c4a79c548/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzE5MjAsMTA4MF0sInNhdmVyIjp7InF1YWxpdHkiOjgwfX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--772cc9d1a056963b4ab06d595a9f3bcbf7fb19a2/231012-iwatuki-s-61.jpg",
+        "referencePath": "design/photo-references/expansion/omiya/manawa.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "omiya--sando",
+      "query": "埼玉県さいたま市大宮区高鼻町1丁目",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA1%E4%B8%81%E7%9B%AE",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.629379,
+              35.913284
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "埼玉県さいたま市大宮区高鼻町一丁目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "omiya--coffee",
+      "query": "埼玉県さいたま市大宮区高鼻町1-173-2",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA1-173-2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.63028,
+              35.911236
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "埼玉県さいたま市大宮区高鼻町一丁目１７３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "omiya--bibli",
+      "query": "埼玉県さいたま市大宮区高鼻町2-1-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA2-1-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.631592,
+              35.911316
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "埼玉県さいたま市大宮区高鼻町二丁目１番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "omiya--dango",
+      "query": "埼玉県さいたま市大宮区高鼻町2-12",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA2-12",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.631622,
+              35.911808
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "埼玉県さいたま市大宮区高鼻町二丁目１２番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "omiya--culture",
+      "query": "埼玉県さいたま市大宮区高鼻町2-262-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA2-262-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.631516,
+              35.913654
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "埼玉県さいたま市大宮区高鼻町二丁目２６２番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "omiya--shrine",
+      "query": "埼玉県さいたま市大宮区高鼻町1-407",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA1-407",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.62944,
+              35.91634
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "埼玉県さいたま市大宮区高鼻町一丁目４０７番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "omiya--park",
+      "query": "埼玉県さいたま市大宮区高鼻町4丁目",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA4%E4%B8%81%E7%9B%AE",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.63179,
+              35.918793
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "埼玉県さいたま市大宮区高鼻町四丁目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "omiya--zoo",
+      "query": "埼玉県さいたま市大宮区高鼻町4丁目",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA4%E4%B8%81%E7%9B%AE",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.63179,
+              35.918793
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "埼玉県さいたま市大宮区高鼻町四丁目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "omiya--museum",
+      "query": "埼玉県さいたま市大宮区高鼻町4-219",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA4-219",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.630447,
+              35.921021
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "埼玉県さいたま市大宮区高鼻町四丁目２１９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "omiya--manawa",
+      "query": "埼玉県さいたま市大宮区高鼻町3-119-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA3-119-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.627975,
+              35.917881
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "埼玉県さいたま市大宮区高鼻町三丁目１１９番地"
+          }
+        }
+      ]
+    }
+  ]
+}

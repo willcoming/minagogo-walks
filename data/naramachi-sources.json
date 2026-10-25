@@ -1,0 +1,809 @@
+{
+  "checkedAt": "2026-10-24",
+  "language": "zh-Hant",
+  "area": "奈良・ならまち",
+  "method": "依景點、店家、奈良市及奈良縣官方公開資訊整理繁體中文原創文案；座標來自 OpenStreetMap 與国土地理院公開圖資，未擷取 Google Places 座標。照片僅作水彩轉繪的物件與建築參考，並非主張原照片具自由再散布授權。所有候選參考照片已實際下載並目視確認。",
+  "areaIntroduction": {
+    "title": "在奈良町，把時間交給巷子。",
+    "paragraphs": [
+      "從猿沢池走向元興寺周邊，奈良町的風景會從開闊水面，慢慢收進格子窗、瓦屋簷與細長町家。這一帶曾屬元興寺境內，如今能在寺院、生活工藝與町家咖啡館之間，讀到古都持續生活的樣子。",
+      "適合喜歡建築、手作與安靜街巷的人：進屋看看庭院與箱階梯，挑一件日常器物，再留時間坐下吃飯。十五個地點集中在奈良町步行範圍，文化設施的開館日不同，路線可依當天行程自由加減。"
+    ],
+    "startingPoint": "近鐵奈良站；先步行至猿沢池，再往奈良町南側走。",
+    "sources": [
+      {
+        "title": "奈良市觀光協會：ならまち特集",
+        "url": "https://narashikanko.or.jp/naramachi/"
+      },
+      {
+        "title": "元興寺：元興寺與奈良町、寺院沿革",
+        "url": "https://gangoji-tera.or.jp/about/"
+      }
+    ]
+  },
+  "coordinateLicense": {
+    "provider": "OpenStreetMap",
+    "label": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0",
+    "licenseUrl": "https://www.openstreetmap.org/copyright",
+    "retrieval": "Nominatim search API 及 https://api.openstreetmap.org/api/0.6/map?bbox=135.827,34.674,135.835,34.683",
+    "accuracyNote": "景點代表點，不應表述為逐一實測之入口；猿沢池為池區中心，元興寺為極樂坊境內中心，中川政七商店新館使用同址一樓咖啡店 POI 作複合設施代表點。",
+    "additionalProvider": {
+      "provider": "国土地理院 AddressSearch",
+      "license": "国土地理院コンテンツ利用規約",
+      "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+      "accuracyNote": "機關玩具館、春鹿商店與萬々堂通則採官方門牌對照的地番代表點；春鹿僅至24番地，非專用入口。"
+    }
+  },
+  "places": [
+    {
+      "id": "nara_sarusawa",
+      "order": 1,
+      "name": "猿沢池",
+      "nameZh": "猿澤池",
+      "address": "奈良県奈良市橋本町",
+      "categoryLabel": "池畔／風景",
+      "group": "sights",
+      "caption": "先繞一段池邊，讓古都的步調慢下來。",
+      "descriptionParagraphs": [
+        "猿沢池位在奈良公園一帶，池岸一圈約 360 公尺。這座人工池最早為興福寺放生會而建，柳樹、水面與岸邊石階，把奈良中心街區留出一塊開闊的風景。",
+        "從近鐵奈良站步行約五分鐘可到，適合作為走進奈良町前的集合點。沿池岸散步後，再轉入元林院町的巷子；若是為了拍攝興福寺五重塔倒影而來，須先留意目前的修復工程。"
+      ],
+      "note": "興福寺五重塔正進行保存修理，覆屋遮蔽塔身，目前無法觀賞完整外觀。",
+      "practical": {
+        "admission": "池岸戶外散步空間；本次官方介紹未列入場費。",
+        "access": "近鐵奈良站步行約 5 分鐘。"
+      },
+      "official": "https://narashikanko.or.jp/spot/detail_10110.html",
+      "verifiedAt": "2026-10-24",
+      "coordinate": {
+        "lat": 34.6814362,
+        "lng": 135.8309487,
+        "provider": "osm",
+        "label": "OpenStreetMap 池區代表點",
+        "url": "https://www.openstreetmap.org/way/59465653",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "Nominatim 回傳湖面中心，非池岸入口；步行導引時以池岸道路為準。"
+      },
+      "sources": [
+        {
+          "title": "奈良市觀光協會：猿沢池",
+          "url": "https://narashikanko.or.jp/spot/detail_10110.html",
+          "supports": "正式名稱、地址、池周長、歷史、車站步行時間、五重塔修復提醒"
+        }
+      ],
+      "photoReference": {
+        "pageUrl": "https://narashikanko.or.jp/spot/detail_10110.html",
+        "imageUrl": "https://narashikanko.or.jp/lsc/upfile/spot/0001/0110/10110_4_l.jpg",
+        "publisher": "奈良市観光協会",
+        "inspected": true,
+        "subject": "暮色池面、岸邊鹿與樹木倒影，未出現五重塔。",
+        "artDirection": "以池面、柳樹與石岸為主要識別；可保留一隻鹿作視覺點綴，不加畫未遮蔽的五重塔。",
+        "rightsNote": "官方頁面標示照片禁止未經授權轉載；保留來源紀錄，勿將原照片直接當公開網站圖片使用。"
+      }
+    },
+    {
+      "id": "nara_nakagawa",
+      "order": 2,
+      "name": "中川政七商店 奈良本店・鹿猿狐ビルヂング",
+      "nameZh": "中川政七商店 奈良本店・鹿猿狐大樓",
+      "address": "奈良県奈良市元林院町22番 鹿猿狐ビルヂング",
+      "categoryLabel": "工藝／生活選物",
+      "group": "tools",
+      "caption": "在一條巷子裡，讀懂奈良工藝的現在式。",
+      "descriptionParagraphs": [
+        "中川政七商店在創業地旁打造的鹿猿狐ビルヂング，於 2021 年開幕。奈良本店把日本工藝做成可帶回日常的服飾、布品與生活道具，也備有本店限定商品；大片玻璃與瓦屋簷，讓新建築自然接上周圍的町家街景。",
+        "這裡可以把購物、咖啡與工藝故事放在同一站：新館的一樓有猿田彦珈琲，巷內還串連時蔵、布蔵與舊町家店鋪。若想參加麻織體驗，須先查看官方預約；一般逛店與體驗課程是不同安排。"
+      ],
+      "note": "布蔵僅對參加體驗者開放，需事先查看官方預約。館內各店營業時間不同。",
+      "practical": {
+        "openingHours": "中川政七商店 10:00–19:00；館內各店時間不同。",
+        "access": "近鐵奈良站步行約 7 分鐘。",
+        "identityNote": "使用 2021 年開幕的新館正式名稱與元林院町 22 地址；不將元林院町 31-1 的舊遊中川町家座標誤作新館。"
+      },
+      "official": "https://www.nakagawa-masashichi.jp/shop/pages/shikasarukitsune.aspx",
+      "verifiedAt": "2026-10-24",
+      "coordinate": {
+        "lat": 34.6811013,
+        "lng": 135.8298753,
+        "provider": "osm",
+        "label": "OpenStreetMap 新館複合設施代表點",
+        "url": "https://www.openstreetmap.org/node/11209305937",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM name:en 為 Saturahiko Coffee，amenity=cafe。猿田彦珈琲官方確認此分店位於元林院町 22 鹿猿狐ビルヂング 1F，故以同址一樓 POI 作整館代表點；並非聲稱實測的中川專用入口。"
+      },
+      "sources": [
+        {
+          "title": "中川政七商店：鹿猿狐ビルヂング・奈良本店",
+          "url": "https://www.nakagawa-masashichi.jp/shop/pages/shikasarukitsune.aspx",
+          "supports": "現名、地址、2021 年新館、旗艦店產品、時蔵布蔵、體驗預約、營業時間"
+        },
+        {
+          "title": "奈良縣政府：鹿猿狐ビルヂング的奈良之木",
+          "url": "https://www.pref.nara.lg.jp/site/naranoki/magazine/visit/nara_interview_shikasarukitsune.html",
+          "supports": "新館外觀、玻璃立面、瓦屋簷、工藝生活道具與照片對象"
+        },
+        {
+          "title": "猿田彦珈琲：奈良 鹿猿狐ビルヂング",
+          "url": "https://brand.sarutahiko.jp/shop/narashikasarukitsune",
+          "supports": "OSM 咖啡 POI 與新館元林院町 22 一樓同址核對"
+        },
+        {
+          "title": "奈良官方旅遊：Shika Saru Kitsune Building",
+          "url": "https://www.visitnara.jp/venues/A02105/",
+          "supports": "現有新館名稱、地址、複合設施內容"
+        }
+      ],
+      "photoReference": {
+        "pageUrl": "https://www.nakagawa-masashichi.jp/shop/pages/shikasarukitsune.aspx",
+        "imageUrl": "https://www.nakagawa-masashichi.jp/img/usr/shikasarukitsune/img/shopModal/b-shop_photo_03_1.jpg?ver=241025",
+        "publisher": "中川政七商店",
+        "inspected": true,
+        "subject": "奈良本店官方商品平鋪照片：木製曲げわっぱ便當盒、漆碗、白襯衫、刷具、器皿與紡織品。",
+        "artDirection": "依主代理與美術代理決定，以官方奈良本店商品平鋪照片製作工藝器物水彩插圖，避免依局部照片虛構門面。",
+        "rejectedReference": {
+          "url": "https://www.nakagawa-masashichi.jp/img/usr/shikasarukitsune/img/top/b-concept_photo_02.jpg",
+          "reason": "已目視，實際為周邊舊町家巷景，不能單憑官網主題圖就誤作新館外觀。"
+        },
+        "alternativeFacadeReference": {
+          "pageUrl": "https://www.pref.nara.lg.jp/site/naranoki/magazine/visit/nara_interview_shikasarukitsune.html",
+          "imageUrl": "https://www.pref.nara.lg.jp/site/images/5515/nara_interview_shikasarukitsune_01.jpeg",
+          "secondaryImageUrl": "https://www.pref.nara.lg.jp/site/images/5515/nara_interview_shikasarukitsune_02.jpeg",
+          "publisher": "奈良県 奈良の木のこと",
+          "subject": "新館長玻璃立面與深灰金屬框架、窄巷、瓦簷；次圖有中川政七商店和 SARUTAHIKO COFFEE 共用入口字樣。"
+        }
+      }
+    },
+    {
+      "id": "nara_nigiwai",
+      "order": 3,
+      "name": "奈良町にぎわいの家",
+      "nameZh": "奈良町熱鬧之家",
+      "address": "奈良県奈良市中新屋町5番地",
+      "categoryLabel": "町家／文化空間",
+      "group": "sights",
+      "caption": "推開格子門，看看百年町家的季節日常。",
+      "descriptionParagraphs": [
+        "奈良町にぎわいの家是一棟建於 1917 年的町家，現為國家登錄有形文化財。深長屋內的座敷、庭院與生活空間，讓沿街看到的木格子立面，有了可以走進去理解的另一面。",
+        "館方以二十四節氣為線索，透過當季花草、節令陳設與活動介紹昔日生活文化。這一站適合放慢腳步，看看庭光如何進入室內；想參加講座或體驗時，另查當期活動與報名方式。"
+      ],
+      "note": "免費入館。週三休館，遇國定假日開館；另有年末年始及臨時休館，請查官方休館日曆。",
+      "practical": {
+        "openingHours": "9:00–17:00",
+        "admission": "免費",
+        "closure": "週三（假日除外），年末年始及臨時休館以日曆為準。"
+      },
+      "official": "https://naramachi-nigiwainoie.jp/",
+      "verifiedAt": "2026-10-24",
+      "coordinate": {
+        "lat": 34.6772344,
+        "lng": 135.8303888,
+        "provider": "osm",
+        "label": "OpenStreetMap 街側景點代表點",
+        "url": "https://www.openstreetmap.org/node/13634935232",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "relatedBuildingUrl": "https://www.openstreetmap.org/way/309684104",
+        "precisionNote": "街側 attraction 節點，與名為奈良町にぎわいの家的建築 way 309684104 一致。"
+      },
+      "sources": [
+        {
+          "title": "奈良町にぎわいの家：官方首頁與休館日曆",
+          "url": "https://naramachi-nigiwainoie.jp/",
+          "supports": "地址、時間、週三與臨時休館、國登錄文化財"
+        },
+        {
+          "title": "奈良町にぎわいの家：施設介紹",
+          "url": "https://naramachi-nigiwainoie.jp/にぎわいの家とは/",
+          "supports": "1917 年町家、二十四節氣主題"
+        },
+        {
+          "title": "奈良縣官方旅遊：奈良町にぎわいの家",
+          "url": "https://yamatoji.nara-kankou.or.jp/03history/02old_house/01north_area/naramachinigiwainoie/",
+          "supports": "免費入館、町家文化與活動"
+        }
+      ],
+      "photoReference": {
+        "pageUrl": "https://naramachi-nigiwainoie.jp/",
+        "imageUrl": "https://naramachi-nigiwainoie.jp/wp-content/uploads/2023/05/P4250942-scaled.jpg",
+        "publisher": "奈良町にぎわいの家",
+        "inspected": true,
+        "subject": "低矮木格子町家正立面、瓦頂、中央木招牌、門旁紅色身代申吊飾。",
+        "artDirection": "保留棕色連續格子、中央木牌與紅色吊飾，與白牆的格子之家插圖明確區別。"
+      }
+    },
+    {
+      "id": "nara_koshi",
+      "order": 4,
+      "name": "ならまち格子の家",
+      "nameZh": "奈良町格子之家",
+      "address": "奈良県奈良市元興寺町44番地",
+      "categoryLabel": "町家／建築",
+      "group": "sights",
+      "caption": "沿著通庭向裡走，讀一座町家的生活剖面。",
+      "descriptionParagraphs": [
+        "格子之家重現奈良町傳統町家的空間：狹窄面寬、深長屋身，從臨街房間一路連向中庭、離屋與倉房。它讓町家從一張好看的街景，變成能近距離觀察格局與採光的建築。",
+        "木格子、通庭、箱階梯與昔日爐灶，都是適合慢慢看的細節。這裡是可免費參觀的展示設施，與保存百年原屋的にぎわいの家互相比較，能更容易理解奈良町的生活方式。"
+      ],
+      "note": "免費入館。週一休館（遇假日改翌日），另有假日翌日休館規則及 12 月 26 日至 1 月 5 日休館，出發前請核對官方開館資訊。",
+      "practical": {
+        "openingHours": "9:00–17:00",
+        "admission": "免費",
+        "closure": "週一（假日改翌日）；假日翌日如非週末或假日亦休館；12/26–1/5。"
+      },
+      "official": "https://www.city.nara.lg.jp/site/shisetsu/6242.html",
+      "verifiedAt": "2026-10-24",
+      "coordinate": {
+        "lat": 34.675024,
+        "lng": 135.830667,
+        "provider": "osm",
+        "label": "OpenStreetMap 景點代表點",
+        "url": "https://www.openstreetmap.org/node/2447751651",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright"
+      },
+      "sources": [
+        {
+          "title": "奈良市：ならまち格子の家",
+          "url": "https://www.city.nara.lg.jp/site/shisetsu/6242.html",
+          "supports": "現址、町家重現格局、箱階梯爐灶、免費入場、開館及詳細休館規則"
+        }
+      ],
+      "photoReference": {
+        "pageUrl": "https://www.city.nara.lg.jp/site/shisetsu/6242.html",
+        "imageUrl": "https://www.city.nara.lg.jp/uploaded/image/13172.jpg",
+        "publisher": "奈良市",
+        "inspected": true,
+        "subject": "白色二樓牆面、蟲籠窗、灰瓦與深褐格子；右側開門可望入庭。",
+        "artDirection": "抓住白牆、三組上層直條小窗及深色下層格子，勿與全木立面的にぎわいの家混淆。",
+        "rightsNote": "奈良市頁面另提供格子之家照片開放資料與 CC BY 2.1 日本授權說明；若公開直接使用原圖仍須核對其開放資料檔案、範圍及署名條件。"
+      }
+    },
+    {
+      "id": "nara_kanakana",
+      "order": 5,
+      "name": "カナカナ",
+      "nameZh": "喫茶 カナカナ",
+      "address": "奈良県奈良市公納堂町13",
+      "categoryLabel": "町家咖啡／家常料理",
+      "group": "food",
+      "caption": "在老町家裡，為一份家常飯留個空檔。",
+      "descriptionParagraphs": [
+        "カナカナ把老町家的木格子與日常氣息留在店裡，提供榻榻米席與桌席。店內以家常和食為主的「カナカナごはん」搭配米飯、味噌湯與小菜，也有咖哩、布丁、蛋糕與飲品可選。",
+        "這裡的餐食不只限於午餐時段，適合依散步節奏安排一頓正餐或甜點休息。奈良官方旅遊資訊建議避開尖峰時段；行程最好留出候位彈性，店休日也要連同假日調整一起確認。"
+      ],
+      "note": "週一休息；週一為假日時改週二休息。官方旅遊介紹建議避開尖峰時段，候位時間未包含在散策停留估算。",
+      "practical": {
+        "openingHours": "11:00–19:00；奈良縣官方旅遊頁列最後點餐 18:30。",
+        "closure": "週一；週一假日則週二。",
+        "queue": "可能候位，未取得官方預約制度說明，勿聲稱可預約或固定等候時間。"
+      },
+      "official": "https://kanakana.info/",
+      "verifiedAt": "2026-10-24",
+      "coordinate": {
+        "lat": 34.6772927,
+        "lng": 135.8332079,
+        "provider": "osm",
+        "label": "OpenStreetMap 店家代表點",
+        "url": "https://www.openstreetmap.org/way/236802417",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 名稱「かなかな」，公納堂町與官方地址核對一致；不採用 OSM stars 標籤作評價。"
+      },
+      "sources": [
+        {
+          "title": "カナカナ：官方網站",
+          "url": "https://kanakana.info/",
+          "supports": "現址、營業時間、週一假日調休；官網頁尾更新 2026-10-21"
+        },
+        {
+          "title": "奈良縣官方旅遊：カナカナ",
+          "url": "https://yamatoji.nara-kankou.or.jp/09shop/21restaurant/01north_area/f3fo5k3hyy/",
+          "supports": "町家空間、榻榻米桌席、餐食甜點、無午餐時段限制、避開尖峰建議、最後點餐"
+        }
+      ],
+      "photoReference": {
+        "pageUrl": "https://kanakana.info/",
+        "imageUrl": "https://kanakana.info/wordpress/wp-content/themes/kanakana/img/kanakana.jpg",
+        "publisher": "カナカナ",
+        "inspected": true,
+        "subject": "方形裁切的町家上層立面：米白牆、深棕木窗、灰色上下瓦簷；原圖 306px。",
+        "artDirection": "參考既有町家二樓木窗與灰瓦辨識，配以簡單咖啡/家常飯前景可點出餐飲主題；不虛構未見完整店面。",
+        "limitations": "此官網照片為局部低解析度視角，不足以重建整座建物。"
+      }
+    },
+    {
+      "id": "nara_gangoji",
+      "order": 6,
+      "name": "元興寺（極楽堂・禅室）",
+      "nameZh": "元興寺（極樂堂・禪室）",
+      "address": "奈良県奈良市中院町11番地",
+      "categoryLabel": "寺院／世界遺產",
+      "group": "sights",
+      "caption": "抬頭看瓦色，把散步接回更久遠的奈良。",
+      "descriptionParagraphs": [
+        "元興寺的歷史可追溯至飛鳥寺隨平城遷都而移建，現存極樂堂與禪室是昔日僧坊的遺構，也是世界文化遺產「古都奈良的文化財」的一部分。木造長屋身與層疊屋瓦，讓時間成為看得見的建築細節。",
+        "留意極樂堂與禪室屋面再利用的古瓦，再走進境內看看寺院與奈良町的關係。此處是中院町的真言律宗元興寺；奈良另有保留塔跡的同名寺院，導航時請核對中院町 11，並為付費參觀留下完整時間。"
+      ],
+      "note": "付費參觀，16:30 最後入門，17:00 關門；境內禁止飲食。秋季特別展期間票價不同。",
+      "practical": {
+        "openingHours": "9:00–17:00，16:30 最後入門。",
+        "admission": "一般成人 700 日圓；秋季特別展期間成人 800 日圓。",
+        "currentExhibition": {
+          "start": "2026-10-24",
+          "end": "2026-11-15",
+          "title": "ならまちの神さまー元興寺の鎮守と町の神々ー",
+          "adultYen": 800,
+          "sourceUrl": "https://gangoji-tera.or.jp/news/detail.php?no=MzQ1",
+          "note": "特展期間御朱印以書置形式提供。"
+        },
+        "rules": "境內禁止飲食；北側鐵門須隨手開關以防鹿進入。",
+        "identityNote": "為 gangoji-tera.or.jp 的中院町極樂堂・禪室，非 gango-ji.com 的芝新屋町塔跡元興寺。"
+      },
+      "official": "https://gangoji-tera.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "coordinate": {
+        "lat": 34.6776317,
+        "lng": 135.8313186,
+        "provider": "osm",
+        "label": "OpenStreetMap 極樂坊境內代表點",
+        "url": "https://www.openstreetmap.org/way/218642880",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 世界遺產屬性 ref:whc=870-004；為中院町極樂坊境內，非南側塔跡。中心點不代表入口。"
+      },
+      "sources": [
+        {
+          "title": "元興寺：寺院介紹與參觀案內",
+          "url": "https://gangoji-tera.or.jp/about/",
+          "supports": "移建歷史、國寶極樂堂禪室、世界遺產、參觀時間、票價、禁止飲食"
+        },
+        {
+          "title": "元興寺：常見問題",
+          "url": "https://gangoji-tera.or.jp/faq/",
+          "supports": "兩個元興寺的區別、屋瓦再利用位置"
+        },
+        {
+          "title": "元興寺：2026 秋季特別展",
+          "url": "https://gangoji-tera.or.jp/news/detail.php?no=MzQ1",
+          "supports": "2026-10-24 至 11-15 特展、成人 800 日圓、御朱印形式"
+        },
+        {
+          "title": "元興寺：北側鐵門公告",
+          "url": "https://gangoji-tera.or.jp/news/detail.php?no=MzQ3",
+          "supports": "2026-06-22 公告：為防鹿入侵須隨手關北側鐵門"
+        }
+      ],
+      "photoReference": {
+        "pageUrl": "https://gangoji-tera.or.jp/",
+        "imageUrl": "https://gangoji-tera.or.jp/images/mv01.jpg",
+        "publisher": "真言律宗 元興寺",
+        "inspected": true,
+        "subject": "中院町元興寺木造禪室長立面與瓦屋頂、草地、石燈籠；近景右側建物形成通道。",
+        "artDirection": "以長木造國寶建築、層疊灰瓦與石燈籠為識別，不加畫塔跡寺院。"
+      }
+    },
+    {
+      "id": "nara_museum",
+      "order": 7,
+      "name": "奈良町資料館",
+      "address": "奈良県奈良市西新屋町14-3",
+      "group": "sights",
+      "categoryLabel": "民俗・暮らし",
+      "caption": "從一串紅色身代猿，認識奈良町的生活記憶。",
+      "descriptionParagraphs": [
+        "奈良町資料館把昔日的生活道具、商店招牌與信仰物件，收進一座免費開放的民間資料館。門前成串紅白相間的「身代わり申」，也是走在奈良町街巷時常會遇見的風景。",
+        "從元興寺相關的礎石、繪圖，到庚申信仰與民具，這裡適合把沿路看見的老屋細節接回地方故事。逛過展示，再留意門口吊飾與木格子；小小一站，能讓接下來的散步多一層理解。"
+      ],
+      "note": "免費入館。原則上週二、三、四休館（假日除外），展覽期間可能調整，請核對開館日曆。",
+      "official": "https://naramachi.co.jp/",
+      "description": "奈良町資料館把昔日的生活道具、商店招牌與信仰物件，收進一座免費開放的民間資料館。門前成串紅白相間的「身代わり申」，也是走在奈良町街巷時常會遇見的風景。\n\n從元興寺相關的礎石、繪圖，到庚申信仰與民具，這裡適合把沿路看見的老屋細節接回地方故事。逛過展示，再留意門口吊飾與木格子；小小一站，能讓接下來的散步多一層理解。",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "title": "奈良町資料館：官方或第一方介紹",
+          "url": "https://naramachi.co.jp/guide/",
+          "supports": "展示分區、身代猿、免費入館、門牌與休館規則"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.6769119,
+        "lng": 135.8301546,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/3161041884",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "Nominatim 具名物件與官方門牌/街區核對，為設施代表點，非實測入口。"
+      },
+      "illustration": {
+        "image": "/art/nara/museum.webp",
+        "alt": "奈良町資料館的日系水彩插圖"
+      },
+      "photoReference": {
+        "pageUrl": "https://naramachi.co.jp/",
+        "imageUrl": "https://naramachi.co.jp/wp-content/themes/wp/common/img/home/img_kv.jpg",
+        "publisher": "奈良町資料館",
+        "inspected": true,
+        "artDirection": "依實際照片辨識的建物、室內或商品，另繪獨立水彩；未將原始照片公開。"
+      }
+    },
+    {
+      "id": "nara_toys",
+      "order": 8,
+      "name": "奈良町からくりおもちゃ館",
+      "address": "奈良県奈良市陰陽町7番地",
+      "group": "sights",
+      "categoryLabel": "町家・玩具",
+      "caption": "轉一下、拉一下，讓老玩具動起來。",
+      "descriptionParagraphs": [
+        "藏在傳統町家裡的機關玩具館，常設展示復原自江戶時代以後的「からくりおもちゃ」。木頭、紙與簡單機關組成的小物，可以實際觸摸遊玩，讓參觀從看展示變成一次動手發現。",
+        "這裡適合大人與孩子一起停留：觀察繩索、重心與轉動如何讓玩偶動起來，也看看町家空間如何成為交流場所。一般入館免費；想親手製作玩具，則需另行報名館方的製作體驗。"
+      ],
+      "note": "週三、假日翌翌日及年末年始休館；製作體驗須事先報名。",
+      "official": "https://karakuri-omochakan.jimdofree.com/",
+      "description": "藏在傳統町家裡的機關玩具館，常設展示復原自江戶時代以後的「からくりおもちゃ」。木頭、紙與簡單機關組成的小物，可以實際觸摸遊玩，讓參觀從看展示變成一次動手發現。\n\n這裡適合大人與孩子一起停留：觀察繩索、重心與轉動如何讓玩偶動起來，也看看町家空間如何成為交流場所。一般入館免費；想親手製作玩具，則需另行報名館方的製作體驗。",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "title": "奈良町からくりおもちゃ館：官方或第一方介紹",
+          "url": "https://narashikanko.or.jp/spot/detail_10121.html",
+          "supports": "江戶以後復原機關玩具、可動手體驗、町家、地址、休館與報名"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.677368,
+        "lng": 135.828262,
+        "provider": "gsi",
+        "label": "国土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E5%B8%82%E9%99%B0%E9%99%BD%E7%94%BA7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "AddressSearch 回傳「奈良県奈良市陰陽町７番地」。與官方門牌核對；為門牌範圍代表點，非實測入口。"
+      },
+      "illustration": {
+        "image": "/art/nara/toys.webp",
+        "alt": "奈良町からくりおもちゃ館的日系水彩插圖"
+      },
+      "photoReference": {
+        "pageUrl": "https://narashikanko.or.jp/spot/detail_10121.html",
+        "imageUrl": "https://narashikanko.or.jp/lsc/upfile/spot/0001/0121/10121_2_l.jpg",
+        "publisher": "奈良市觀光協會",
+        "inspected": true,
+        "artDirection": "依實際照片辨識的建物、室內或商品，另繪獨立水彩；未將原始照片公開。"
+      }
+    },
+    {
+      "id": "nara_goryo",
+      "order": 9,
+      "name": "御霊神社",
+      "address": "奈良県奈良市薬師堂町24",
+      "group": "sights",
+      "categoryLabel": "街巷神社",
+      "caption": "穿過朱紅鳥居，在町家的日常裡停一會兒。",
+      "descriptionParagraphs": [
+        "御靈神社位在奈良町南側，歷史與元興寺的鎮守信仰相連。朱紅鳥居、石燈籠與灰瓦圍牆，把一段狹窄街巷轉成安靜的參拜空間，也保留著在地居民熟悉的「ごりょうさん」氣息。",
+        "南門旁狛犬腳上繫著的紅繩，是信眾寄託心願的痕跡。境內還有出世稻荷神社與隨季節變化的花木；若想領取御朱印，記得把受理時間與一般開門時間分開安排。"
+      ],
+      "note": "一般開門至16:30；御朱印受理為10:00–16:00。",
+      "official": "https://naramachigoryojinja.amebaownd.com/",
+      "description": "御靈神社位在奈良町南側，歷史與元興寺的鎮守信仰相連。朱紅鳥居、石燈籠與灰瓦圍牆，把一段狹窄街巷轉成安靜的參拜空間，也保留著在地居民熟悉的「ごりょうさん」氣息。\n\n南門旁狛犬腳上繫著的紅繩，是信眾寄託心願的痕跡。境內還有出世稻荷神社與隨季節變化的花木；若想領取御朱印，記得把受理時間與一般開門時間分開安排。",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "title": "御霊神社：官方或第一方介紹",
+          "url": "https://narashikanko.or.jp/spot/detail_10134.html",
+          "supports": "元興寺鎮守歷史、狛犬紅繩、稻荷社、地址與開門時間"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.6762603,
+        "lng": 135.8309086,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/314212484",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "Nominatim 具名物件與官方門牌/街區核對，為設施代表點，非實測入口。"
+      },
+      "illustration": {
+        "image": "/art/nara/goryo.webp",
+        "alt": "御霊神社的日系水彩插圖"
+      },
+      "photoReference": {
+        "pageUrl": "https://narashikanko.or.jp/spot/detail_10134.html",
+        "imageUrl": "https://narashikanko.or.jp/lsc/upfile/spot/0001/0134/10134_1_l.jpg",
+        "publisher": "奈良市觀光協會",
+        "inspected": true,
+        "artDirection": "依實際照片辨識的建物、室內或商品，另繪獨立水彩；未將原始照片公開。"
+      }
+    },
+    {
+      "id": "nara_jurin",
+      "order": 10,
+      "name": "十輪院",
+      "address": "奈良県奈良市十輪院町27",
+      "group": "sights",
+      "categoryLabel": "古寺・庭園",
+      "caption": "在低低的瓦簷下，讀一座安靜古寺。",
+      "descriptionParagraphs": [
+        "十輪院位在元興寺舊境內的東南一角，低矮的木造本堂、灰瓦屋頂與庭石，帶出奈良町另一種安靜尺度。國寶本堂保留住宅般親近的外觀，與街區裡的町家景致自然接續。",
+        "寺內值得細看的還有石佛龕與佛像，庭園也隨季節呈現不同植物。這一站適合安排較完整的參觀空檔，從門前走進本堂的歷史；開門時間與室內拝觀時間不同，付費參觀請依現場案內。"
+      ],
+      "note": "週一閉門，遇假日改週二；拝觀時間10:00–16:30。",
+      "official": "https://www.jurin-in.com/",
+      "description": "十輪院位在元興寺舊境內的東南一角，低矮的木造本堂、灰瓦屋頂與庭石，帶出奈良町另一種安靜尺度。國寶本堂保留住宅般親近的外觀，與街區裡的町家景致自然接續。\n\n寺內值得細看的還有石佛龕與佛像，庭園也隨季節呈現不同植物。這一站適合安排較完整的參觀空檔，從門前走進本堂的歷史；開門時間與室內拝觀時間不同，付費參觀請依現場案內。",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "title": "十輪院：官方或第一方介紹",
+          "url": "https://www.jurin-in.com/",
+          "supports": "元興寺舊境內、國寶本堂、石佛龕、庭園、門牌及閉門日"
+        },
+        {
+          "title": "奈良市觀光協會：十輪院",
+          "url": "https://narashikanko.or.jp/spot/detail_10035.html",
+          "supports": "國寶本堂、石佛龕與寺院介紹"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.6763419,
+        "lng": 135.8332388,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/314265251",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "Nominatim 具名物件與官方門牌/街區核對，為設施代表點，非實測入口。"
+      },
+      "illustration": {
+        "image": "/art/nara/jurin.webp",
+        "alt": "十輪院的日系水彩插圖"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.jurin-in.com/",
+        "imageUrl": "https://www.jurin-in.com/img/main01.png",
+        "publisher": "十輪院",
+        "inspected": true,
+        "artDirection": "依實際照片辨識的建物、室內或商品，另繪獨立水彩；未將原始照片公開。"
+      }
+    },
+    {
+      "id": "nara_imanishi",
+      "order": 11,
+      "name": "今西家書院",
+      "address": "奈良県奈良市福智院町24-3",
+      "group": "sights",
+      "categoryLabel": "書院・庭園",
+      "caption": "坐看庭光，讓一段散步有了留白。",
+      "descriptionParagraphs": [
+        "今西家書院保留室町時代早期書院建築的面貌，原為興福寺大乘院家坊官福智院家的居宅，現為重要文化財。檜皮葺、蔀戶與細緻障子，是走進室內後值得慢慢觀察的建築語彙。",
+        "從榻榻米房間望向庭園，視線會沿著木框與石徑，停在季節花木之間。這裡可付費參觀，也提供另計費的喫茶與春鹿甜點；與鄰近酒藏安排在同一段步行，能看見老屋與地方產業的連結。"
+      ],
+      "note": "週一、二、三及包場等日期休館；參觀與喫茶分別計費。",
+      "official": "https://narashikanko.or.jp/spot/detail_10102.html",
+      "description": "今西家書院保留室町時代早期書院建築的面貌，原為興福寺大乘院家坊官福智院家的居宅，現為重要文化財。檜皮葺、蔀戶與細緻障子，是走進室內後值得慢慢觀察的建築語彙。\n\n從榻榻米房間望向庭園，視線會沿著木框與石徑，停在季節花木之間。這裡可付費參觀，也提供另計費的喫茶與春鹿甜點；與鄰近酒藏安排在同一段步行，能看見老屋與地方產業的連結。",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "title": "今西家書院：官方或第一方介紹",
+          "url": "https://narashikanko.or.jp/spot/detail_10102.html",
+          "supports": "書院年代、重要文化財、坊官居宅、庭園喫茶、門牌與休館日"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.6769565,
+        "lng": 135.8340469,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/313667771",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "Nominatim 具名物件與官方門牌/街區核對，為設施代表點，非實測入口。"
+      },
+      "illustration": {
+        "image": "/art/nara/imanishi.webp",
+        "alt": "今西家書院的日系水彩插圖"
+      },
+      "photoReference": {
+        "pageUrl": "https://narashikanko.or.jp/spot/detail_10102.html",
+        "imageUrl": "https://narashikanko.or.jp/lsc/upfile/spot/0001/0102/10102_2_l.jpg",
+        "publisher": "奈良市觀光協會",
+        "inspected": true,
+        "artDirection": "依實際照片辨識的建物、室內或商品，另繪獨立水彩；未將原始照片公開。"
+      }
+    },
+    {
+      "id": "nara_harushika",
+      "order": 12,
+      "name": "春鹿醸造元 今西清兵衛商店",
+      "address": "奈良県奈良市福智院町24-1",
+      "group": "shops",
+      "categoryLabel": "酒藏・地方風味",
+      "caption": "從一間酒藏商店，認識奈良的釀造風景。",
+      "descriptionParagraphs": [
+        "春鹿的酒藏商店與今西家書院相鄰，木柱、白牆與陳列酒瓶的空間，讓奈良町散步接上地方釀酒文化。店內販售春鹿定番與限定酒款，可以慢慢比較標籤、風味與適合帶走的紀念。",
+        "想多了解不同酒款時，可參加店內付費的「きき酒」，以數款清酒作比較。平日的商店與試飲並不等於全年開放的釀造現場導覽；酒藏參觀另有期間限定活動，應依官方公告安排。"
+      ],
+      "note": "週二休息，遇假日改翌日。酒藏導覽僅於特定期間舉行；試飲者須年滿20歲且不駕車。",
+      "official": "https://www.harushika.com/visit-brewery/",
+      "description": "春鹿的酒藏商店與今西家書院相鄰，木柱、白牆與陳列酒瓶的空間，讓奈良町散步接上地方釀酒文化。店內販售春鹿定番與限定酒款，可以慢慢比較標籤、風味與適合帶走的紀念。\n\n想多了解不同酒款時，可參加店內付費的「きき酒」，以數款清酒作比較。平日的商店與試飲並不等於全年開放的釀造現場導覽；酒藏參觀另有期間限定活動，應依官方公告安排。",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "title": "春鹿醸造元 今西清兵衛商店：官方或第一方介紹",
+          "url": "https://www.harushika.com/visit-brewery/",
+          "supports": "酒藏商店、定番限定商品、付費試飲、參觀限期、門牌與週二店休"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.676834,
+        "lng": 135.834274,
+        "provider": "gsi",
+        "label": "国土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E5%B8%82%E7%A6%8F%E6%99%BA%E9%99%A2%E7%94%BA24-1",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "AddressSearch 回傳「奈良県奈良市福智院町２４番地」。與官方門牌核對；為門牌範圍代表點，非實測入口。 回應只解析至24番地，未解析24-1分號；與今西家書院鄰接，導航時依福智院町24-1商店入口。"
+      },
+      "illustration": {
+        "image": "/art/nara/harushika.webp",
+        "alt": "春鹿醸造元 今西清兵衛商店的日系水彩插圖"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.harushika.com/visit-brewery/",
+        "imageUrl": "https://www.harushika.com/wp-content/themes/wp-harushika/images/visit-brewery/kikisake.jpg",
+        "publisher": "春鹿醸造元 今西清兵衛商店",
+        "inspected": true,
+        "artDirection": "依實際照片辨識的建物、室內或商品，另繪獨立水彩；未將原始照片公開。"
+      }
+    },
+    {
+      "id": "nara_sakura",
+      "order": 13,
+      "name": "吉野葛 佐久良",
+      "address": "奈良県奈良市高御門町2",
+      "group": "food",
+      "categoryLabel": "葛甜點・喫茶",
+      "caption": "為一碗現做葛切，留一段清爽的休息。",
+      "descriptionParagraphs": [
+        "吉野葛佐久良把吉野本葛做成可坐下品嘗的甜點。甘味處使用100%吉野本葛，接到點餐後才製作，讓葛切的透明感與葛餅柔軟的口感，成為散步途中一段細緻的停留。",
+        "葛切配糖蜜、葛餅搭黑蜜與黃豆粉，都是認識本葛風味的方式；夏冬也有不同的季節甜點。店裡同時販售葛製品，適合用完一份甘味，再挑一點能帶回日常廚房的奈良滋味。"
+      ],
+      "note": "週三、四休息；不接受預約，客滿時依現場登記順序入座。",
+      "official": "https://nizuka.com/",
+      "description": "吉野葛佐久良把吉野本葛做成可坐下品嘗的甜點。甘味處使用100%吉野本葛，接到點餐後才製作，讓葛切的透明感與葛餅柔軟的口感，成為散步途中一段細緻的停留。\n\n葛切配糖蜜、葛餅搭黑蜜與黃豆粉，都是認識本葛風味的方式；夏冬也有不同的季節甜點。店裡同時販售葛製品，適合用完一份甘味，再挑一點能帶回日常廚房的奈良滋味。",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "title": "吉野葛 佐久良：官方或第一方介紹",
+          "url": "https://nizuka.com/naramachi.htm",
+          "supports": "100%吉野本葛、現點製作、葛切葛餅與季節甘味"
+        },
+        {
+          "title": "佐久良：營業與候位公告",
+          "url": "https://nizuka.com/",
+          "supports": "週三四休息、不接受預約"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.6775998,
+        "lng": 135.8290618,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/3498396129",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "Nominatim 具名物件與官方門牌/街區核對，為設施代表點，非實測入口。"
+      },
+      "illustration": {
+        "image": "/art/nara/sakura.webp",
+        "alt": "吉野葛 佐久良的日系水彩插圖"
+      },
+      "photoReference": {
+        "pageUrl": "https://nizuka.com/naramachi.htm",
+        "imageUrl": "https://nizuka.com/shohin_s/ka_kuzukiri.jpg",
+        "publisher": "吉野葛 佐久良",
+        "inspected": true,
+        "artDirection": "依實際照片辨識的建物、室內或商品，另繪獨立水彩；未將原始照片公開。"
+      }
+    },
+    {
+      "id": "nara_manmando",
+      "order": 14,
+      "name": "萬々堂通則",
+      "address": "奈良県奈良市橋本町34",
+      "group": "food",
+      "categoryLabel": "老舖・和菓子",
+      "caption": "把古都的節令，收進一枚小小和菓子。",
+      "descriptionParagraphs": [
+        "萬々堂通則在江戶後期創業，店址位於もちいどのセンター街。招牌「ぶと饅頭」連結春日大社祭禮供品的傳統，「青丹よし」則以和三盆製成落雁，讓古都故事有了可帶走的甜味。",
+        "沿商店街散步時，可以把這裡安排成挑選茶菓與伴手禮的一站。鮮豔山茶花造型的「糊こぼし」只在東大寺二月堂修二會相關時節製作；平日造訪，仍可從常備與當季和菓子認識老舖的手藝。"
+      ],
+      "note": "不定休，官網提供營業日曆；「糊こぼし」為季節限定商品。",
+      "official": "https://www.manmando.co.jp/",
+      "description": "萬々堂通則在江戶後期創業，店址位於もちいどのセンター街。招牌「ぶと饅頭」連結春日大社祭禮供品的傳統，「青丹よし」則以和三盆製成落雁，讓古都故事有了可帶走的甜味。\n\n沿商店街散步時，可以把這裡安排成挑選茶菓與伴手禮的一站。鮮豔山茶花造型的「糊こぼし」只在東大寺二月堂修二會相關時節製作；平日造訪，仍可從常備與當季和菓子認識老舖的手藝。",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "title": "萬々堂通則：官方或第一方介紹",
+          "url": "https://www.manmando.co.jp/",
+          "supports": "江戶後期創業、ぶと饅頭、青丹よし、糊こぼし季節性"
+        },
+        {
+          "title": "萬々堂通則：店舗案內",
+          "url": "https://www.manmando.co.jp/info/overview/",
+          "supports": "橋本町34與不定休"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.681683,
+        "lng": 135.828613,
+        "provider": "gsi",
+        "label": "国土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E5%B8%82%E6%A9%8B%E6%9C%AC%E7%94%BA34",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "AddressSearch 回傳「奈良県奈良市橋本町３４番地」。與官方門牌核對；為門牌範圍代表點，非實測入口。"
+      },
+      "illustration": {
+        "image": "/art/nara/manmando.webp",
+        "alt": "萬々堂通則的日系水彩插圖"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.manmando.co.jp/",
+        "imageUrl": "https://www.manmando.co.jp/el/wp-content/uploads/elementor/thumbs/top2_img2-qt0cbdlsz2p1ox832gmy6upiij2zguhy8ttrwuuuxc.jpg",
+        "publisher": "萬々堂通則",
+        "inspected": true,
+        "artDirection": "依實際照片辨識的建物、室內或商品，另繪獨立水彩；未將原始照片公開。"
+      }
+    },
+    {
+      "id": "nara_kondou",
+      "order": 15,
+      "name": "奈良町豆腐庵こんどう",
+      "address": "奈良県奈良市西新屋町44",
+      "group": "food",
+      "categoryLabel": "町家・豆腐料理",
+      "caption": "在老町家裡，吃一頓溫柔的豆腐料理。",
+      "descriptionParagraphs": [
+        "豆腐庵こんどう坐落於登錄有形文化財的町家，由近藤豆腐店開設。以日本國產大豆與天然鹽滷製作的豆腐，透過午餐料理呈現不同質地，也讓用餐成為體驗奈良町老屋的一部分。",
+        "湯豆腐、朧豆腐、厚揚與田樂，把同一種食材變成清爽、滑嫩或香烤的層次。看著坪庭慢慢吃完一餐，再接御靈神社與格子之家，適合把這一站當作南側街巷散步的正餐停留。"
+      ],
+      "note": "",
+      "official": "https://www.kondou-touhu.co.jp/naramachi/",
+      "description": "豆腐庵こんどう坐落於登錄有形文化財的町家，由近藤豆腐店開設。以日本國產大豆與天然鹽滷製作的豆腐，透過午餐料理呈現不同質地，也讓用餐成為體驗奈良町老屋的一部分。\n\n湯豆腐、朧豆腐、厚揚與田樂，把同一種食材變成清爽、滑嫩或香烤的層次。看著坪庭慢慢吃完一餐，再接御靈神社與格子之家，適合把這一站當作南側街巷散步的正餐停留。",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "title": "奈良町豆腐庵こんどう：官方或第一方介紹",
+          "url": "https://nara.jr-central.co.jp/kankou/article/0107/",
+          "supports": "文化財町家、近藤豆腐店、國產大豆天然鹽滷、豆腐料理與門牌"
+        }
+      ],
+      "coordinate": {
+        "lat": 34.6763336,
+        "lng": 135.8298724,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/3201501109",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "Nominatim 具名物件與官方門牌/街區核對，為設施代表點，非實測入口。"
+      },
+      "illustration": {
+        "image": "/art/nara/kondou.webp",
+        "alt": "奈良町豆腐庵こんどう的日系水彩插圖"
+      },
+      "photoReference": {
+        "pageUrl": "https://nara.jr-central.co.jp/kankou/article/0107/",
+        "imageUrl": "https://nara.jr-central.co.jp/kankou/article/0107/_img/mv.jpg",
+        "publisher": "JR東海",
+        "inspected": true,
+        "artDirection": "依實際照片辨識的建物、室內或商品，另繪獨立水彩；未將原始照片公開。"
+      }
+    }
+  ]
+}

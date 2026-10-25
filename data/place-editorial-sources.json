@@ -1,0 +1,288 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "Original Traditional Chinese editorial synthesis from official shop information and identified firsthand reporting; no invented visit, rating, price or hours.",
+  "places": [
+    {
+      "id": "chigaya",
+      "sources": [
+        {
+          "url": "https://cake.tokyo/106949",
+          "title": "CAKE.TOKYO｜chigaya kuramae 現址採訪"
+        }
+      ]
+    },
+    {
+      "id": "nobori",
+      "sources": [
+        {
+          "url": "https://www.fromafar-tokyo.com/nobori",
+          "title": "light source｜道具屋 nobori 官方介紹"
+        }
+      ]
+    },
+    {
+      "id": "tomei",
+      "sources": [
+        {
+          "url": "https://corp.freee.co.jp/news/20260319TomeiBookstore.html",
+          "title": "freee｜透明書店官方介紹與新服務公告"
+        },
+        {
+          "url": "https://www.locationbox.metro.tokyo.lg.jp/catalog/7832/",
+          "title": "東京 Location Box｜透明書店空間資料"
+        }
+      ]
+    },
+    {
+      "id": "bark",
+      "sources": [
+        {
+          "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/magazine/fureai/web/column/2025-11/",
+          "title": "東京都交通局《ふれあいの窓》｜BARK 採訪"
+        }
+      ]
+    },
+    {
+      "id": "p_088547dbd6fad237",
+      "sources": [
+        {
+          "url": "https://dozeu.com/",
+          "title": "駒形どぜう｜官方歷史與料理介紹"
+        },
+        {
+          "url": "https://dozeu.com/table/",
+          "title": "駒形どぜう｜本店空間介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_3be500963da21948",
+      "sources": [
+        {
+          "url": "https://backpackersjapan.co.jp/nuihostel/",
+          "title": "Nui.｜官方 lounge、咖啡與餐飲介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_58015a8c60b78515",
+      "sources": [
+        {
+          "url": "https://www.lemonpie-asakusa.com/",
+          "title": "洋菓子レモンパイ｜官方店舖與蛋糕介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_32eedb3b96b57916",
+      "sources": [
+        {
+          "url": "https://www.mizukiya.jp/",
+          "title": "水木屋馬場商店｜官方沿革與商品目錄"
+        }
+      ]
+    },
+    {
+      "id": "p_7ea40bdd99c4bed6",
+      "sources": [
+        {
+          "url": "https://bakerpelican.com/",
+          "title": "パンのペリカン｜官方品牌與麵包介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_8e426a44d227b5f9",
+      "sources": [
+        {
+          "url": "https://asage-kuramae.owst.jp/",
+          "title": "ASAGE CAFE｜官方餐點介紹"
+        },
+        {
+          "url": "https://asage-kuramae.owst.jp/seats",
+          "title": "ASAGE CAFE｜官方露台與座席介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_40d37e8b90f1d3a2",
+      "sources": [
+        {
+          "url": "https://www.timeout.jp/tokyo/ja/news/coffeecounter-nishiya-022122",
+          "title": "Time Out Tokyo｜COFFEECOUNTER NISHIYA 採訪"
+        }
+      ]
+    },
+    {
+      "id": "p_4f678d160f4ac364",
+      "sources": [
+        {
+          "url": "https://coffee-wrights.jp/",
+          "title": "Coffee Wrights｜官方品牌理念"
+        },
+        {
+          "url": "https://store.coffee-wrights.jp/about",
+          "title": "Coffee Wrights｜官方藏前烘豆所資料"
+        }
+      ]
+    },
+    {
+      "id": "p_5ab99f7b092e719f",
+      "sources": [
+        {
+          "url": "https://dandelionchocolate.jp/pages/factory-cafe-kuramae",
+          "title": "Dandelion Chocolate｜官方藏前工廠與菜單"
+        }
+      ]
+    },
+    {
+      "id": "p_765b0f07994197bb",
+      "sources": [
+        {
+          "url": "https://febscoffee.thebase.in/about",
+          "title": "FEBRUARY GROUP｜官方 Blucca 分店資料"
+        },
+        {
+          "url": "https://fudge.jp/fudgena/na_lifestyle/401366/",
+          "title": "FUDGE.jp｜Blucca 現場早餐紀錄"
+        }
+      ]
+    },
+    {
+      "id": "p_755e902f96d154b8",
+      "sources": [
+        {
+          "url": "https://frobergue.storeinfo.jp/pages/8304/About",
+          "title": "Frobergue｜官方書店與選書介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_2ca59cf0ccfab515",
+      "sources": [
+        {
+          "url": "https://www.tablecheck.com/ja/hatcoffee",
+          "title": "HATCOFFEE｜TableCheck 店家介紹"
+        },
+        {
+          "url": "https://www.timeout.jp/tokyo/ja/レストラン/hatcoffee",
+          "title": "Time Out Tokyo｜HATCOFFEE 拉花介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_40162bcb1904fe28",
+      "sources": [
+        {
+          "url": "https://hibi-jp.com/archive/PressRelease_20160323-2.pdf",
+          "title": "神戶 Match｜hibi 官方品牌與開發資料"
+        },
+        {
+          "url": "https://hibi-jp.com/en/product.php",
+          "title": "hibi｜官方香調與商品介紹"
+        },
+        {
+          "url": "https://hibi-jp.com/en/",
+          "title": "hibi｜官方東京店開幕公告"
+        }
+      ]
+    },
+    {
+      "id": "p_91fd233286b858f4",
+      "sources": [
+        {
+          "url": "https://joli-qube.jp/?mode=f76",
+          "title": "JOLI｜藏前常設店官方介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_2faa023ac911baa6",
+      "sources": [
+        {
+          "url": "https://www.fromafar-tokyo.com/kissahangetsu",
+          "title": "light source｜喫茶半月官方沿革與菜單介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_f858fe6d8b9f148d",
+      "sources": [
+        {
+          "url": "https://koncent.jp/blog/concept",
+          "title": "KONCENT｜官方品牌理念"
+        },
+        {
+          "url": "https://koncent.jp/blog/shop",
+          "title": "KONCENT｜官方駒形本店資料"
+        }
+      ]
+    },
+    {
+      "id": "p_4587f83ff726cc8b",
+      "sources": [
+        {
+          "url": "https://www.kuramae-cannele.jp/",
+          "title": "KURAMAE CANNELE｜官方商品與製作介紹"
+        },
+        {
+          "url": "https://www.kuramae-cannele.jp/shops/",
+          "title": "KURAMAE CANNELE｜官方藏前店與咖啡空間狀態"
+        }
+      ]
+    },
+    {
+      "id": "p_9e11b0025b540196",
+      "sources": [
+        {
+          "url": "https://kuramaejinja.tokyo/",
+          "title": "藏前神社｜官方由緒與季節公告"
+        },
+        {
+          "url": "https://kuramaejinja.tokyo/history/precincts/",
+          "title": "藏前神社｜官方境內介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_614823c1d1799627",
+      "sources": [
+        {
+          "url": "https://lebage.theshop.jp/about",
+          "title": "Le bage｜官方原料、貝果與搬遷介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_105ef59e5ba74a8a",
+      "sources": [
+        {
+          "url": "https://www.fromafar-tokyo.com/marble",
+          "title": "light source｜marble 官方店舖與餐飲介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_5134c4a12795d5bd",
+      "sources": [
+        {
+          "url": "https://asakusa.pelicancafe.jp/menu.html",
+          "title": "Pelican Cafe 淺草店｜官方炭烤吐司與三明治菜單"
+        },
+        {
+          "url": "https://asakusa.pelicancafe.jp/",
+          "title": "Pelican Cafe 淺草店｜官方店舖介紹"
+        }
+      ]
+    },
+    {
+      "id": "p_0baebe3d3ec9b05c",
+      "sources": [
+        {
+          "url": "https://oimoyasan.com/",
+          "title": "おいもやさん興伸｜官方沿革與商品介紹"
+        }
+      ]
+    }
+  ]
+}

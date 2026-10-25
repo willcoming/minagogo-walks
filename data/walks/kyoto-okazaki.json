@@ -1,0 +1,554 @@
+{
+  "updatedAt": "2026-10-24",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kyoto-okazaki--kyocera",
+      "order": 1,
+      "name": "京都市京瓷美術館",
+      "address": "京都府京都市左京区岡崎円勝寺町124",
+      "group": "sights",
+      "categoryLabel": "美術與建築",
+      "caption": "先看展，再沿玻璃與磚牆慢慢走。",
+      "descriptionParagraphs": [
+        "美術館保存1933年創建的歷史本館，並在改修中加入新的入口、展示空間與公共區域。帝冠式屋頂、磚色立面與玻璃線條，在同一建築裡疊起不同時代。",
+        "可以依當期展覽選擇看展時間，也留一點空白觀察中央空間與庭園。走出館外後，附近還有近代美術館與平安神宮，適合以這裡作為岡崎散策起點。"
+      ],
+      "description": "美術館保存1933年創建的歷史本館，並在改修中加入新的入口、展示空間與公共區域。帝冠式屋頂、磚色立面與玻璃線條，在同一建築裡疊起不同時代。\n\n可以依當期展覽選擇看展時間，也留一點空白觀察中央空間與庭園。走出館外後，附近還有近代美術館與平安神宮，適合以這裡作為岡崎散策起點。",
+      "note": "一般展覽須購票；各展示室開放及休館依展覽安排。",
+      "official": "https://kyotocity-kyocera.museum/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.013564,
+        "lng": 135.783293,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/11433400363",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/kyocera.webp",
+        "alt": "京都市京瓷美術館，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--hosomi",
+      "order": 2,
+      "name": "細見美術館",
+      "address": "京都府京都市左京区岡崎最勝寺町6-3",
+      "group": "sights",
+      "categoryLabel": "日本美術",
+      "caption": "把琳派與茶之湯，放進一座小美術館。",
+      "descriptionParagraphs": [
+        "細見美術館以細見家三代收藏為基礎，涵蓋神佛美術、茶之湯、琳派與江戶繪畫等日本美術。小型展示空間透過企劃展，讓不同時代的作品彼此呼應。",
+        "除了看展，也可以留意建築的中庭與館內商店。和大型美術館相比，這裡適合用較聚焦的方式親近一個主題，再回到街區散步。"
+      ],
+      "description": "細見美術館以細見家三代收藏為基礎，涵蓋神佛美術、茶之湯、琳派與江戶繪畫等日本美術。小型展示空間透過企劃展，讓不同時代的作品彼此呼應。\n\n除了看展，也可以留意建築的中庭與館內商店。和大型美術館相比，這裡適合用較聚焦的方式親近一個主題，再回到街區散步。",
+      "note": "展示室之間主要以階梯連接；無障礙參觀請先聯繫館方。",
+      "official": "https://www.emuseum.or.jp/about/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0137793,
+        "lng": 135.7796211,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/1422970994",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/hosomi.webp",
+        "alt": "細見美術館，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--terrace",
+      "order": 3,
+      "name": "京都モダンテラス",
+      "address": "京都府京都市左京区岡崎最勝寺町13 ロームシアター京都 パークプラザ2階",
+      "group": "food",
+      "categoryLabel": "現代建築餐廳",
+      "caption": "在挑高窗邊，留一段餐桌時間。",
+      "descriptionParagraphs": [
+        "京都モダンテラス位在ROHM劇場京都的Park Plaza二樓，利用現代建築的開放尺度安排餐廳與露台。高窗與較寬的座位區，讓用餐也能感受岡崎的光線。",
+        "適合放在兩座美術館之間，或參拜平安神宮後來吃飯、喝茶。若偏好窗邊或露台的氛圍，可以依當日座位安排選擇停留方式。"
+      ],
+      "description": "京都モダンテラス位在ROHM劇場京都的Park Plaza二樓，利用現代建築的開放尺度安排餐廳與露台。高窗與較寬的座位區，讓用餐也能感受岡崎的光線。\n\n適合放在兩座美術館之間，或參拜平安神宮後來吃飯、喝茶。若偏好窗邊或露台的氛圍，可以依當日座位安排選擇停留方式。",
+      "note": "",
+      "official": "https://rohmtheatrekyoto.jp/floorguide/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0138732,
+        "lng": 135.7814175,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/11883175572",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/terrace.webp",
+        "alt": "京都モダンテラス，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--heian",
+      "order": 4,
+      "name": "平安神宮",
+      "address": "京都府京都市左京区岡崎西天王町97",
+      "group": "sights",
+      "categoryLabel": "朱色社殿與神苑",
+      "caption": "穿過開闊參道，慢慢看朱色屋簷。",
+      "descriptionParagraphs": [
+        "平安神宮為紀念平安遷都1100年而創建，社殿取法平安京朝堂院的格局。朱柱、綠瓦與白色砂地，使參拜的視野格外開闊。",
+        "可以先看外部社殿，再決定是否另購票參觀神苑。若安排庭園散步，需把時間與一般境內參拜分開計算，才不會只剩趕路。"
+      ],
+      "description": "平安神宮為紀念平安遷都1100年而創建，社殿取法平安京朝堂院的格局。朱柱、綠瓦與白色砂地，使參拜的視野格外開闊。\n\n可以先看外部社殿，再決定是否另購票參觀神苑。若安排庭園散步，需把時間與一般境內參拜分開計算，才不會只剩趕路。",
+      "note": "神苑與一般境內參拜分開收費、開放時間亦不同。",
+      "official": "https://www.heianjingu.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6-t-19xIZOA",
+          "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
+          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.01610115,
+        "lng": 135.7829643556,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/619903245",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/heian.webp",
+        "alt": "平安神宮，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--rohm",
+      "order": 5,
+      "name": "ROHM劇場京都",
+      "address": "京都府京都市左京区岡崎最勝寺町13",
+      "group": "sights",
+      "categoryLabel": "現代劇場建築",
+      "caption": "走過公共廊道，看見劇場如何成為街區。",
+      "descriptionParagraphs": [
+        "ROHM劇場京都由舊京都會館整修而成，保留前川國男建築的重要表情，並更新表演場地。低平延展的量體與廣場，使劇場自然接上岡崎公園。",
+        "沒有排演出也可以依開放範圍看看公共廊道與廣場，再接書店、餐廳或附近展館。若特別為表演而來，再把觀賞時間另排進行程。"
+      ],
+      "description": "ROHM劇場京都由舊京都會館整修而成，保留前川國男建築的重要表情，並更新表演場地。低平延展的量體與廣場，使劇場自然接上岡崎公園。\n\n沒有排演出也可以依開放範圍看看公共廊道與廣場，再接書店、餐廳或附近展館。若特別為表演而來，再把觀賞時間另排進行程。",
+      "note": "劇場觀眾席並非一般自由參觀空間；看演出須另購票。",
+      "official": "https://rohmtheatrekyoto.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0142963636,
+        "lng": 135.7809902318,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/100398430",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/rohm.webp",
+        "alt": "ROHM劇場京都，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--craft",
+      "order": 6,
+      "name": "京都傳統產業博物館",
+      "address": "京都府京都市左京区岡崎成勝寺町9-1 みやこめっせ地下1階",
+      "group": "sights",
+      "categoryLabel": "京都工藝",
+      "caption": "從染織到器物，看見手藝的不同層次。",
+      "descriptionParagraphs": [
+        "京都傳統產業博物館以展示、影像與職人實演介紹京都工藝，涵蓋染織與多種生活工藝。材料和工序並列，能幫助理解街上看見的布料、漆器與金工。",
+        "可以先挑自己喜歡的材質，再沿展示了解製作過程。若想參加手作活動，將預約體驗與一般觀展分開安排會更從容。"
+      ],
+      "description": "京都傳統產業博物館以展示、影像與職人實演介紹京都工藝，涵蓋染織與多種生活工藝。材料和工序並列，能幫助理解街上看見的布料、漆器與金工。\n\n可以先挑自己喜歡的材質，再沿展示了解製作過程。若想參加手作活動，將預約體驗與一般觀展分開安排會更從容。",
+      "note": "部分實演與體驗有指定日期；體驗可能需預約。",
+      "official": "https://kmtc.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0126264,
+        "lng": 135.7806273,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/2925674896",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/craft.webp",
+        "alt": "京都傳統產業博物館，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--momak",
+      "order": 7,
+      "name": "京都國立近代美術館",
+      "address": "京都府京都市左京区岡崎円勝寺町26-1",
+      "group": "sights",
+      "categoryLabel": "近現代美術",
+      "caption": "沿疏水邊的美術館，換一個藝術視角。",
+      "descriptionParagraphs": [
+        "京都國立近代美術館介紹近現代美術與工藝，收藏也反映京都和關西的創作脈絡。岡崎的文化設施集中在步行範圍內，這裡可以成為另一個主題的入口。",
+        "依當期展覽安排參觀，再從館外看看大鳥居與疏水的關係。若一天不想看太多展，可以只選一館深看，把另一館留作下次的理由。"
+      ],
+      "description": "京都國立近代美術館介紹近現代美術與工藝，收藏也反映京都和關西的創作脈絡。岡崎的文化設施集中在步行範圍內，這裡可以成為另一個主題的入口。\n\n依當期展覽安排參觀，再從館外看看大鳥居與疏水的關係。若一天不想看太多展，可以只選一館深看，把另一館留作下次的理由。",
+      "note": "原則每週一及年末年始休館，部分假日調整與換展另有安排。",
+      "official": "https://www.momak.go.jp/Japanese/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0123497333,
+        "lng": 135.78197135,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/100398402",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/momak.webp",
+        "alt": "京都國立近代美術館，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--zoo",
+      "order": 8,
+      "name": "京都市動物園",
+      "address": "京都府京都市左京区岡崎法勝寺町22",
+      "group": "sights",
+      "categoryLabel": "城市動物園",
+      "caption": "在文化街區裡，留一段看動物的步行。",
+      "descriptionParagraphs": [
+        "京都市動物園把動物展示、教育與保育放在岡崎的日常之中。園區與疏水、博物館相鄰，讓同一段街區散步也能轉換成親子行程。",
+        "這裡需要另留入園時間，適合把看展站數減少後安排。沿園內動線觀察動物，比把它當成短暫打卡的一站更有意思。"
+      ],
+      "description": "京都市動物園把動物展示、教育與保育放在岡崎的日常之中。園區與疏水、博物館相鄰，讓同一段街區散步也能轉換成親子行程。\n\n這裡需要另留入園時間，適合把看展站數減少後安排。沿園內動線觀察動物，比把它當成短暫打卡的一站更有意思。",
+      "note": "每週一休園，遇假日順延；入園須購票，動物展示有各自時段。",
+      "official": "https://zoo.city.kyoto.lg.jp/zoo/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0125056865,
+        "lng": 135.7872337162,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/relation/11685246",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/zoo.webp",
+        "alt": "京都市動物園，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--murin",
+      "order": 9,
+      "name": "無鄰菴",
+      "address": "京都府京都市左京区南禅寺草川町31",
+      "group": "sights",
+      "categoryLabel": "借景庭園",
+      "caption": "讓東山與流水，成為庭園的背景。",
+      "descriptionParagraphs": [
+        "無鄰菴是山縣有朋的別莊，由七代目小川治兵衛作庭。東山借景、疏水流入的水聲與開闊草地，使它呈現近代庭園不同於枯山水的風景。",
+        "可以沿園路慢行，再看看母屋與洋館。庭園以人數管理維持參觀品質，適合事先選好時段，讓這一站真正留出安靜的時間。"
+      ],
+      "description": "無鄰菴是山縣有朋的別莊，由七代目小川治兵衛作庭。東山借景、疏水流入的水聲與開闊草地，使它呈現近代庭園不同於枯山水的風景。\n\n可以沿園路慢行，再看看母屋與洋館。庭園以人數管理維持參觀品質，適合事先選好時段，讓這一站真正留出安靜的時間。",
+      "note": "採人數限制與預約管理；2026年12月9日因整備臨時閉場。",
+      "official": "https://murin-an.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0115842875,
+        "lng": 135.787381625,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/300891384",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/murin.webp",
+        "alt": "無鄰菴，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--nanzen",
+      "order": 10,
+      "name": "南禪寺",
+      "address": "京都府京都市左京区南禅寺福地町86",
+      "group": "sights",
+      "categoryLabel": "禪寺與水路閣",
+      "caption": "從三門與綠蔭，看古寺與近代水路相遇。",
+      "descriptionParagraphs": [
+        "南禪寺是臨濟宗大本山，三門、方丈與塔頭在山麓形成開闊寺域。境內的磚造水路閣讓近代疏水工程與寺院景觀相遇，是這一帶很特別的風景。",
+        "先依開放動線散步，再選擇是否參觀需購票的堂宇與庭園。若接著前往永觀堂，沿山麓街巷走會比來回折返更順。"
+      ],
+      "description": "南禪寺是臨濟宗大本山，三門、方丈與塔頭在山麓形成開闊寺域。境內的磚造水路閣讓近代疏水工程與寺院景觀相遇，是這一帶很特別的風景。\n\n先依開放動線散步，再選擇是否參觀需購票的堂宇與庭園。若接著前往永觀堂，沿山麓街巷走會比來回折返更順。",
+      "note": "三門、方丈與部分庭園分別收費；堂宇內攝影依各處規定。",
+      "official": "https://nanzenji.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0110907,
+        "lng": 135.7925106,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/7056457712",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/nanzen.webp",
+        "alt": "南禪寺，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--eikando",
+      "order": 11,
+      "name": "永觀堂 禪林寺",
+      "address": "京都府京都市左京区永観堂町48",
+      "group": "sights",
+      "categoryLabel": "山麓寺院",
+      "caption": "沿回廊與庭園，走進山麓的層次。",
+      "descriptionParagraphs": [
+        "永觀堂禪林寺與「回首阿彌陀」信仰相連，堂宇沿山麓展開。庭園、回廊與高低變化，讓參觀本身就像一段小型散步。",
+        "可以與南禪寺組合成較長的山麓行程。秋季特別拝觀和夜間開放另有安排，若不想一天看太多寺院，也可以只選其中一處慢慢看。"
+      ],
+      "description": "永觀堂禪林寺與「回首阿彌陀」信仰相連，堂宇沿山麓展開。庭園、回廊與高低變化，讓參觀本身就像一段小型散步。\n\n可以與南禪寺組合成較長的山麓行程。秋季特別拝觀和夜間開放另有安排，若不想一天看太多寺院，也可以只選其中一處慢慢看。",
+      "note": "境內有階梯與高低差；特別拝觀期間的動線、票券與一般日不同。",
+      "official": "https://www.eikando.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0144807182,
+        "lng": 135.7947023576,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/859305371",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/eikando.webp",
+        "alt": "永觀堂 禪林寺，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--bluebottle",
+      "order": 12,
+      "name": "Blue Bottle Coffee 京都咖啡館",
+      "address": "京都府京都市左京区南禅寺草川町64",
+      "group": "food",
+      "categoryLabel": "町家咖啡",
+      "caption": "在老町家的樑柱之間，安排一杯咖啡。",
+      "descriptionParagraphs": [
+        "Blue Bottle的京都咖啡館利用南禪寺附近的町家空間，保留木構架與老屋尺度，再接入咖啡服務。街側與庭院、咖啡空間之間的轉換，值得慢慢感受。",
+        "適合安排在庭園參觀前後，坐下再決定要回岡崎或繼續走向南禪寺。一般咖啡館與同址季節限定的Studio體驗是不同安排。"
+      ],
+      "description": "Blue Bottle的京都咖啡館利用南禪寺附近的町家空間，保留木構架與老屋尺度，再接入咖啡服務。街側與庭院、咖啡空間之間的轉換，值得慢慢感受。\n\n適合安排在庭園參觀前後，坐下再決定要回岡崎或繼續走向南禪寺。一般咖啡館與同址季節限定的Studio體驗是不同安排。",
+      "note": "",
+      "official": "https://store.bluebottlecoffee.jp/pages/kyoto",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.0113926,
+        "lng": 135.7894886,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/5753718418",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/bluebottle.webp",
+        "alt": "Blue Bottle Coffee 京都咖啡館，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--sosui",
+      "order": 13,
+      "name": "琵琶湖疏水紀念館",
+      "address": "京都府京都市左京区南禅寺草川町17",
+      "group": "sights",
+      "categoryLabel": "水路與城市歷史",
+      "caption": "先讀水的故事，再看街區的風景。",
+      "descriptionParagraphs": [
+        "琵琶湖疏水紀念館透過圖面、模型與工程資料，介紹疏水如何把琵琶湖的水帶到京都。水力發電、舟運與都市生活的關係，讓沿途的水道有了更清楚的背景。",
+        "可以在走南禪寺、水路閣之前先來看展示，再回到戶外觀察水路。這站適合喜歡城市歷史與工程故事的人，替庭園散步補上另一層線索。"
+      ],
+      "description": "琵琶湖疏水紀念館透過圖面、模型與工程資料，介紹疏水如何把琵琶湖的水帶到京都。水力發電、舟運與都市生活的關係，讓沿途的水道有了更清楚的背景。\n\n可以在走南禪寺、水路閣之前先來看展示，再回到戶外觀察水路。這站適合喜歡城市歷史與工程故事的人，替庭園散步補上另一層線索。",
+      "note": "每週一休館，遇假日順延至次平日；另有年末年始休館。",
+      "official": "https://kyoto-museums.city.kyoto.lg.jp/museum/242/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0119504652,
+        "lng": 135.7881937087,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/219968173",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/sosui.webp",
+        "alt": "琵琶湖疏水紀念館，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--okazakijinja",
+      "order": 14,
+      "name": "岡崎神社",
+      "address": "京都府京都市左京区岡崎東天王町51",
+      "group": "sights",
+      "categoryLabel": "兔子與神社",
+      "caption": "循著兔子的線索，走到街區北側。",
+      "descriptionParagraphs": [
+        "岡崎神社與子授、安產信仰相連，境內可見兔子造形的神使與授與品。它在文化設施較密集的岡崎北側，適合安排一段較安靜的參拜。",
+        "先依境內動線看社殿與兔子細節，再接附近街巷。若從南禪寺、永觀堂方向前來，可以把它當成山麓散步後向西回程的一站。"
+      ],
+      "description": "岡崎神社與子授、安產信仰相連，境內可見兔子造形的神使與授與品。它在文化設施較密集的岡崎北側，適合安排一段較安靜的參拜。\n\n先依境內動線看社殿與兔子細節，再接附近街巷。若從南禪寺、永觀堂方向前來，可以把它當成山麓散步後向西回程的一站。",
+      "note": "",
+      "official": "https://okazakijinja.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.0172664231,
+        "lng": 135.7889313846,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/1155362848",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/okazakijinja.webp",
+        "alt": "岡崎神社，依真實照片繪製的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--okakita",
+      "order": 15,
+      "name": "京うどん 生蕎麥 岡北",
+      "address": "京都府京都市左京区岡崎南御所町34",
+      "group": "food",
+      "categoryLabel": "京烏龍麵與蕎麥",
+      "caption": "在美術館與寺院之間，坐下一碗麵的時間。",
+      "descriptionParagraphs": [
+        "岡北在岡崎提供京烏龍麵與生蕎麥，以自家製麵和出汁構成店家的飲食方向。看展與參拜之間，熱湯與麵食讓散步有了明確的午餐停頓。",
+        "這裡靠近動物園北側，可與平安神宮或美術館安排在同一段。用餐需要另留候位與上菜時間，適合減少一站參觀後慢慢吃。"
+      ],
+      "description": "岡北在岡崎提供京烏龍麵與生蕎麥，以自家製麵和出汁構成店家的飲食方向。看展與參拜之間，熱湯與麵食讓散步有了明確的午餐停頓。\n\n這裡靠近動物園北側，可與平安神宮或美術館安排在同一段。用餐需要另留候位與上菜時間，適合減少一站參觀後慢慢吃。",
+      "note": "",
+      "official": "http://www.kyoto-okakita.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "6-t-19xIZOA",
+          "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
+          "url": "https://www.youtube.com/watch?v=6-t-19xIZOA",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.0143582,
+        "lng": 135.7848079,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/5010320833",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-okazaki/okakita.webp",
+        "alt": "京うどん 生蕎麥 岡北，依真實照片繪製的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "kyoto-okazaki-walk",
+      "name": "美術・建築・平安神宮",
+      "ids": [
+        "kyoto-okazaki--kyocera",
+        "kyoto-okazaki--hosomi",
+        "kyoto-okazaki--terrace",
+        "kyoto-okazaki--heian"
+      ],
+      "walking": {
+        "distanceMeters": 1149.9,
+        "durationSeconds": 919.7,
+        "checkedAt": "2026-10-24"
+      },
+      "visitMinutes": [
+        150,
+        240
+      ],
+      "art": "/art/walks/kyoto-okazaki/kyocera.webp"
+    }
+  ],
+  "defaultSelection": "kyoto-okazaki-walk"
+}

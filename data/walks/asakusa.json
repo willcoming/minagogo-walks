@@ -1,0 +1,408 @@
+{
+  "updatedAt": "2026-10-24",
+  "places": [
+    {
+      "id": "asakusa--center",
+      "order": 1,
+      "name": "淺草文化觀光中心",
+      "address": "東京都台東区雷門2-18-9",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "先從高處認識淺草",
+      "descriptionParagraphs": [
+        "雷門對面的淺草文化觀光中心，以層疊屋頂與細密立面構成醒目的街角。館內提供多語觀光資訊，八樓展望露台則能把仲見世、淺草街景與晴空塔一併納入視野。",
+        "先在這裡花一點時間辨認方向，再走進街道，散步會更有自己的節奏。若想看展覽或暫時休息，也可依各樓層當日開放安排停留，不必只把它當成取地圖的地方。"
+      ],
+      "description": "雷門對面的淺草文化觀光中心，以層疊屋頂與細密立面構成醒目的街角。館內提供多語觀光資訊，八樓展望露台則能把仲見世、淺草街景與晴空塔一併納入視野。\n\n先在這裡花一點時間辨認方向，再走進街道，散步會更有自己的節奏。若想看展覽或暫時休息，也可依各樓層當日開放安排停留，不必只把它當成取地圖的地方。",
+      "note": "",
+      "official": "https://www.city.taito.lg.jp/bunka_kanko/kankoinfo/info/oyakudachi/kankocenter/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.710716,
+        "lng": 139.796432,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E9%9B%B7%E9%96%802-18-9",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/asakusa/center.webp",
+        "alt": "淺草文化觀光中心的日系水彩插圖"
+      }
+    },
+    {
+      "id": "asakusa--umezono",
+      "order": 2,
+      "name": "梅園 淺草本店",
+      "address": "東京都台東区浅草1-31-12",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "一碗延續老茶屋滋味的甘味",
+      "descriptionParagraphs": [
+        "梅園的起點是一八五四年開在梅園院一隅的茶屋，屋號也保留了這段淵源。招牌あわぜんざい以穀物甜點搭配紅豆餡，讓淺草的老派甘味有了容易記住的樣子。",
+        "逛完參道後坐下吃一碗，比接連買許多小吃更能感受老店的節奏。若已安排其他咖啡店，可以把這裡作為替換選項，留給真正想品嘗甘味的時刻。"
+      ],
+      "description": "梅園的起點是一八五四年開在梅園院一隅的茶屋，屋號也保留了這段淵源。招牌あわぜんざい以穀物甜點搭配紅豆餡，讓淺草的老派甘味有了容易記住的樣子。\n\n逛完參道後坐下吃一碗，比接連買許多小吃更能感受老店的節奏。若已安排其他咖啡店，可以把這裡作為替換選項，留給真正想品嘗甘味的時刻。",
+      "note": "",
+      "official": "https://asakusa-shoren.jp/stores/636/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.712414,
+        "lng": 139.796265,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-31-12",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/asakusa/umezono.webp",
+        "alt": "梅園 淺草本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "asakusa--funawa",
+      "order": 3,
+      "name": "舟和本店",
+      "address": "東京都台東区浅草1-22-10",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "把芋羊羹的甜香帶進午後",
+      "descriptionParagraphs": [
+        "舟和淺草本店的店頭集合芋羊羹、餡玉與多種和菓子，樓上另有喫茶空間。沿街醒目的窗格與門面，使這間老店很適合成為探索新仲見世附近的停留點。",
+        "可以買一份想帶回去的點心，也能依當天胃口到喫茶室慢慢享用甜食。這趟散策的甘味選擇不少，挑最喜歡的一家即可，不需要把每道名物都排進同一個下午。"
+      ],
+      "description": "舟和淺草本店的店頭集合芋羊羹、餡玉與多種和菓子，樓上另有喫茶空間。沿街醒目的窗格與門面，使這間老店很適合成為探索新仲見世附近的停留點。\n\n可以買一份想帶回去的點心，也能依當天胃口到喫茶室慢慢享用甜食。這趟散策的甘味選擇不少，挑最喜歡的一家即可，不需要把每道名物都排進同一個下午。",
+      "note": "",
+      "official": "https://www.funawa.jp/fr/129",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "y19DTkjeJ3w",
+          "title": "cafe vlog｜浅草グルメ散歩10選〜2021秋〜きびだんご／抹茶／芋ようかん／チーズメンチ／...etc",
+          "url": "https://www.youtube.com/watch?v=y19DTkjeJ3w",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.712044,
+        "lng": 139.794632,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-22-10",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/asakusa/funawa.webp",
+        "alt": "舟和本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "asakusa--tengoku",
+      "order": 4,
+      "name": "珈琲天國",
+      "address": "東京都台東区浅草1-41-9",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "熱蛋糕與咖啡的小小幸福",
+      "descriptionParagraphs": [
+        "珈琲天國是一間帶有復古氣氛的小喫茶店，印上店名的圓形熱蛋糕與咖啡杯，是很有辨識度的組合。小桌、瓷杯與現做點心，讓淺草的熱鬧縮成一段能坐下來享受的時光。",
+        "從寺院西側散步過來，正好把這裡當作午後休息的重點。店面不大，若遇候位就把附近巷弄列入自由探索，別為了趕下一站而匆忙吃完一份熱蛋糕。"
+      ],
+      "description": "珈琲天國是一間帶有復古氣氛的小喫茶店，印上店名的圓形熱蛋糕與咖啡杯，是很有辨識度的組合。小桌、瓷杯與現做點心，讓淺草的熱鬧縮成一段能坐下來享受的時光。\n\n從寺院西側散步過來，正好把這裡當作午後休息的重點。店面不大，若遇候位就把附近巷弄列入自由探索，別為了趕下一站而匆忙吃完一份熱蛋糕。",
+      "note": "",
+      "official": "https://www.instagram.com/coffee_tengoku/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "OYrNNls3nxk",
+          "title": "【東京･浅草】浅草おすすめカフェグルメ10選 {2023年保存版}最新／人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=OYrNNls3nxk",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "TSWyQJ0G8uU",
+          "title": "【東京・ホットケーキ】ほっこり懐かしい𓂃𓈒𓏸大好きなホットケーキ6選！人気店／名店／老舗",
+          "url": "https://www.youtube.com/watch?v=TSWyQJ0G8uU",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.713078,
+        "lng": 139.794052,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-41-9",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/asakusa/tengoku.webp",
+        "alt": "珈琲天國的日系水彩插圖"
+      }
+    },
+    {
+      "id": "asakusa--craft",
+      "order": 5,
+      "name": "江戶台東傳統工藝館",
+      "address": "東京都台東区浅草2-22-13",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從手作細節看見下町工藝",
+      "descriptionParagraphs": [
+        "江戶台東傳統工藝館介紹台東區傳承至今的職人工藝，常設展涵蓋江戶簾、桐木家具與江戶指物等不同領域。透過成品與材料細節，可以看見日常器物背後的技術。",
+        "這裡適合從熱鬧街道暫時轉入室內，挑幾件自己感興趣的作品慢慢看。職人實演依預約或不定期安排舉行，不必把實演視為每天都有的固定節目。"
+      ],
+      "description": "江戶台東傳統工藝館介紹台東區傳承至今的職人工藝，常設展涵蓋江戶簾、桐木家具與江戶指物等不同領域。透過成品與材料細節，可以看見日常器物背後的技術。\n\n這裡適合從熱鬧街道暫時轉入室內，挑幾件自己感興趣的作品慢慢看。職人實演依預約或不定期安排舉行，不必把實演視為每天都有的固定節目。",
+      "note": "官方目前公告網路展示解說系統暫停服務；仍可依現場展示參觀，實演請確認當日安排。",
+      "official": "https://www.city.taito.lg.jp/bunka_kanko/tiikidentou/tradition/kogeikan/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.716389,
+        "lng": 139.793884,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-22-13",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/asakusa/craft.webp",
+        "alt": "江戶台東傳統工藝館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "asakusa--temple",
+      "order": 6,
+      "name": "淺草寺",
+      "address": "東京都台東区浅草2-3-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在大屋頂下重新放慢腳步",
+      "descriptionParagraphs": [
+        "淺草寺的參道把雷門、仲見世與本堂連成鮮明的門前風景。本堂寬廣的屋頂、朱紅柱列與周圍堂舍，讓即使不熟悉寺院的人，也能從建築感受這裡的層次。",
+        "走到本堂之後不必立刻折返，可以在境內找一個不妨礙通行的位置，看看屋簷與參拜者往來。人多時把拍照時間放寬，若要參拜或入堂則依寺方當日動線安排。"
+      ],
+      "description": "淺草寺的參道把雷門、仲見世與本堂連成鮮明的門前風景。本堂寬廣的屋頂、朱紅柱列與周圍堂舍，讓即使不熟悉寺院的人，也能從建築感受這裡的層次。\n\n走到本堂之後不必立刻折返，可以在境內找一個不妨礙通行的位置，看看屋簷與參拜者往來。人多時把拍照時間放寬，若要參拜或入堂則依寺方當日動線安排。",
+      "note": "",
+      "official": "https://www.senso-ji.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.712856,
+        "lng": 139.796585,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-3-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/asakusa/temple.webp",
+        "alt": "淺草寺的日系水彩插圖"
+      }
+    },
+    {
+      "id": "asakusa--shrine",
+      "order": 7,
+      "name": "淺草神社",
+      "address": "東京都台東区浅草2-3-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "寺院旁的三社與彩繪細節",
+      "descriptionParagraphs": [
+        "淺草神社與淺草寺相鄰，祭祀的三位人物和當地觀音信仰起源相關，也因此有三社的稱呼。社殿的彩繪、雕刻與入口細節，和旁邊大寺院的尺度形成不同的觀察趣味。",
+        "可以在參觀淺草寺時順路轉進來，留意屋簷下的色彩與境內小景。這裡也是三社祭相關的重要場所，平日適合安靜慢看，祭典期間則需配合現場人潮動線。"
+      ],
+      "description": "淺草神社與淺草寺相鄰，祭祀的三位人物和當地觀音信仰起源相關，也因此有三社的稱呼。社殿的彩繪、雕刻與入口細節，和旁邊大寺院的尺度形成不同的觀察趣味。\n\n可以在參觀淺草寺時順路轉進來，留意屋簷下的色彩與境內小景。這裡也是三社祭相關的重要場所，平日適合安靜慢看，祭典期間則需配合現場人潮動線。",
+      "note": "",
+      "official": "https://asakusajinja.jp/asakusajinja/about/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.712856,
+        "lng": 139.796585,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-3-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/asakusa/shrine.webp",
+        "alt": "淺草神社的日系水彩插圖"
+      }
+    },
+    {
+      "id": "asakusa--kimuraya",
+      "order": 8,
+      "name": "木村家本店",
+      "address": "東京都台東区浅草2-3-1",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "把淺草名物做成小小人形燒",
+      "descriptionParagraphs": [
+        "木村家本店在仲見世靠近寺院的一端，延續人形燒的老店風味。鳩、燈籠、五重塔與雷神等造型，把與淺草有關的意象縮成一口大小的點心。",
+        "逛到這裡時可以先看看各種模樣，再挑一份作為散步後的甜點或伴手禮。買一小包和同行的人分享，也能把剛剛看過的塔、燈籠與點心上的圖案連在一起。"
+      ],
+      "description": "木村家本店在仲見世靠近寺院的一端，延續人形燒的老店風味。鳩、燈籠、五重塔與雷神等造型，把與淺草有關的意象縮成一口大小的點心。\n\n逛到這裡時可以先看看各種模樣，再挑一份作為散步後的甜點或伴手禮。買一小包和同行的人分享，也能把剛剛看過的塔、燈籠與點心上的圖案連在一起。",
+      "note": "",
+      "official": "https://asakusa-shoren.jp/stores/796/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.712856,
+        "lng": 139.796585,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%892-3-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/asakusa/kimuraya.webp",
+        "alt": "木村家本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "asakusa--nakamise",
+      "order": 9,
+      "name": "仲見世商店街",
+      "address": "東京都台東区浅草1-36-3",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "從雷門延伸出的門前日常",
+      "descriptionParagraphs": [
+        "仲見世是淺草寺前的重要商店街，和參拜人潮一起發展，沿途聚集點心、玩具與各式伴手禮。低矮店面、招牌與石板參道，構成許多人第一次認識淺草的街景。",
+        "不用每間都停，只要慢看幾個讓你感興趣的櫥窗即可。人潮密集時可以走平行巷道再切回來，買到食物則依店家安排停留享用，替其他行人保留通路。"
+      ],
+      "description": "仲見世是淺草寺前的重要商店街，和參拜人潮一起發展，沿途聚集點心、玩具與各式伴手禮。低矮店面、招牌與石板參道，構成許多人第一次認識淺草的街景。\n\n不用每間都停，只要慢看幾個讓你感興趣的櫥窗即可。人潮密集時可以走平行巷道再切回來，買到食物則依店家安排停留享用，替其他行人保留通路。",
+      "note": "",
+      "official": "https://www.asakusa-nakamise.jp/about/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.712429,
+        "lng": 139.796707,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%891-36-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/asakusa/nakamise.webp",
+        "alt": "仲見世商店街的日系水彩插圖"
+      }
+    },
+    {
+      "id": "asakusa--sumida",
+      "order": 10,
+      "name": "隅田公園（台東區）",
+      "address": "東京都台東区花川戸1丁目1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "讓河風替熱鬧街區留白",
+      "descriptionParagraphs": [
+        "台東區一側的隅田公園沿著隅田川展開，從東側車站附近就能接上河岸。這裡可看水面、橋梁與來往船隻，春天的櫻花則為相同的步道添上另一種表情。",
+        "若想在散策後多留一段空白，可以只走花川戶一丁目附近的短段河岸，再回交通方便的車站。這是可選的延伸，不必為了走完公園而把下午拉得太長。"
+      ],
+      "description": "台東區一側的隅田公園沿著隅田川展開，從東側車站附近就能接上河岸。這裡可看水面、橋梁與來往船隻，春天的櫻花則為相同的步道添上另一種表情。\n\n若想在散策後多留一段空白，可以只走花川戶一丁目附近的短段河岸，再回交通方便的車站。這是可選的延伸，不必為了走完公園而把下午拉得太長。",
+      "note": "",
+      "official": "https://filmcommission.city.taito.lg.jp/location/sumida-park/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.712254,
+        "lng": 139.799652,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%8A%B1%E5%B7%9D%E6%88%B81%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/asakusa/sumida.webp",
+        "alt": "隅田公園（台東區）的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "asakusa-slow-walk",
+      "name": "淺草寺與老喫茶的午後",
+      "ids": [
+        "asakusa--center",
+        "asakusa--temple",
+        "asakusa--tengoku"
+      ],
+      "start": {
+        "name": "淺草站（銀座線／都營淺草線）",
+        "address": "東京都台東区雷門2丁目",
+        "access": "銀座線 2 號出口或都營淺草線 A4 出口，步行銜接雷門前的觀光中心。"
+      },
+      "end": {
+        "name": "淺草站（筑波快線）",
+        "address": "東京都台東区西浅草3-1-11",
+        "access": "從珈琲天國附近前往筑波快線淺草站；若搭銀座線、都營淺草線或東武線，需另步行回東側車站。"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從樓上看見淺草街紋，走進寺院與老喫茶，熱鬧之間也能找到自己的步調。",
+      "note": "編輯預估包含步行、三處重點停留及 30–45 分鐘隨興探索，排隊另計。十點不必全走；甘味店可替換喫茶停留，河岸與工藝館依當天興趣加選。淺草有兩處不同位置的車站群。",
+      "stopNotes": {
+        "asakusa--center": "先上展望露台，看清楚寺院、商店街與河岸的位置。",
+        "asakusa--temple": "選一條喜歡的參道走向本堂，留時間看屋頂與境內細節。",
+        "asakusa--tengoku": "轉到西側小街，以熱蛋糕與咖啡結束午後散步。"
+      },
+      "art": "/art/walks/asakusa/temple.webp"
+    }
+  ],
+  "defaultSelection": "asakusa-slow-walk"
+}

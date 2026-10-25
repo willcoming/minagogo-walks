@@ -1,0 +1,438 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "sakai--teppo",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/27",
+      "contentSources": [
+        "https://www.sakai-tcb.or.jp/spot/detail/27"
+      ],
+      "coordinate": {
+        "lat": 34.590988,
+        "lng": 135.483063,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E5%8C%97%E6%97%85%E7%B1%A0%E7%94%BA%E8%A5%BF1%E4%B8%813-22",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.sakai-tcb.or.jp/spot/detail/27",
+        "imageUrl": "https://www.sakai-tcb.or.jp/uploads/f959de22c373110ff7e45d107e7f84de.JPG",
+        "referencePath": "design/photo-references/expansion/sakai/teppo.jpg"
+      }
+    },
+    {
+      "id": "sakai--seigakuin",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/409",
+      "contentSources": [
+        "https://www.sakai-tcb.or.jp/spot/detail/409"
+      ],
+      "coordinate": {
+        "lat": 34.591125,
+        "lng": 135.482773,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E5%8C%97%E6%97%85%E7%B1%A0%E7%94%BA%E8%A5%BF1%E4%B8%813-13",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.sakai-tcb.or.jp/spot/detail/409",
+        "imageUrl": "https://www.sakai-tcb.or.jp/uploads/2d423f300b79be0d64eba39fdef7dfe3.jpg",
+        "referencePath": "design/photo-references/expansion/sakai/seigakuin.jpg"
+      }
+    },
+    {
+      "id": "sakai--mizuno",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/150",
+      "contentSources": [
+        "https://www.sakai-tcb.or.jp/spot/detail/150"
+      ],
+      "coordinate": {
+        "lat": 34.58942,
+        "lng": 135.483383,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%A1%9C%E4%B9%8B%E7%94%BA%E8%A5%BF1%E4%B8%811-27",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.sakai-tcb.or.jp/spot/detail/150",
+        "imageUrl": "https://www.sakai-tcb.or.jp/uploads/45e0323f2321a5dc73c10d182848e855.jpg",
+        "referencePath": "design/photo-references/expansion/sakai/mizuno.jpg"
+      }
+    },
+    {
+      "id": "sakai--yamaguchi",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/157",
+      "contentSources": [
+        "https://www.sakai-tcb.or.jp/spot/detail/157"
+      ],
+      "coordinate": {
+        "lat": 34.586597,
+        "lng": 135.482529,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E9%8C%A6%E4%B9%8B%E7%94%BA%E6%9D%B11%E4%B8%812-31",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.sakai-tcb.or.jp/spot/detail/157",
+        "imageUrl": "https://www.sakai-tcb.or.jp/uploads/14d210804ddc23f61ca5c65544d3a75c.jpg",
+        "referencePath": "design/photo-references/expansion/sakai/yamaguchi.jpg"
+      }
+    },
+    {
+      "id": "sakai--tsuboichi",
+      "official": "https://tsuboichi.co.jp/store/sakai",
+      "contentSources": [
+        "https://tsuboichi.co.jp/store/sakai"
+      ],
+      "coordinate": {
+        "lat": 34.585201,
+        "lng": 135.480408,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E4%B9%9D%E9%96%93%E7%94%BA%E6%9D%B11%E4%B8%811-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://tsuboichi.co.jp/store/sakai",
+        "imageUrl": "https://tsuboichi.co.jp/wp-content/uploads/slider/cache/ab2ac537b72f16eceb8ad842f1fd9cce/01_sakai_01.png",
+        "referencePath": "design/photo-references/expansion/sakai/tsuboichi.jpg"
+      }
+    },
+    {
+      "id": "sakai--kakuoji",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/46",
+      "contentSources": [
+        "https://www.sakai-tcb.or.jp/spot/detail/46"
+      ],
+      "coordinate": {
+        "lat": 34.584023,
+        "lng": 135.481979,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E4%B9%9D%E9%96%93%E7%94%BA%E6%9D%B13%E4%B8%811-49",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.sakai-tcb.or.jp/spot/detail/46",
+        "imageUrl": "https://www.sakai-tcb.or.jp/uploads/c600edf20440bafbb5a704d33217ca7c.jpg",
+        "referencePath": "design/photo-references/expansion/sakai/kakuoji.jpg"
+      }
+    },
+    {
+      "id": "sakai--honganji",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/146",
+      "contentSources": [
+        "https://www.sakai-tcb.or.jp/spot/detail/146"
+      ],
+      "coordinate": {
+        "lat": 34.583782,
+        "lng": 135.481735,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E7%A5%9E%E6%98%8E%E7%94%BA%E6%9D%B13%E4%B8%811-10",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.sakai-tcb.or.jp/spot/detail/146",
+        "imageUrl": "https://www.sakai-tcb.or.jp/uploads/1ae656f87a28fdc36b30e4158a5a0d4d.jpg",
+        "referencePath": "design/photo-references/expansion/sakai/honganji.jpg"
+      }
+    },
+    {
+      "id": "sakai--myokokuji",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/153",
+      "contentSources": [
+        "https://www.sakai-tcb.or.jp/spot/detail/153"
+      ],
+      "coordinate": {
+        "lat": 34.580997,
+        "lng": 135.480515,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%9D%90%E6%9C%A8%E7%94%BA%E6%9D%B14%E4%B8%811-4",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.sakai-tcb.or.jp/spot/detail/153",
+        "imageUrl": "https://www.sakai-tcb.or.jp/uploads/b39abe0c60d1eb878f99ba86c946024c.jpg",
+        "referencePath": "design/photo-references/expansion/sakai/myokokuji.jpg"
+      }
+    },
+    {
+      "id": "sakai--denshokan",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/407",
+      "contentSources": [
+        "https://www.sakai-tcb.or.jp/spot/detail/407"
+      ],
+      "coordinate": {
+        "lat": 34.582767,
+        "lng": 135.477448,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%9D%90%E6%9C%A8%E7%94%BA%E8%A5%BF1%E4%B8%811-30",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.sakai-tcb.or.jp/spot/detail/407",
+        "imageUrl": "https://www.sakai-tcb.or.jp/uploads/5edbbda324b2bc069cfd064df8f75542.jpg",
+        "referencePath": "design/photo-references/expansion/sakai/denshokan.jpg"
+      }
+    },
+    {
+      "id": "sakai--zabiel",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/77",
+      "contentSources": [
+        "https://www.sakai-tcb.or.jp/spot/detail/77"
+      ],
+      "coordinate": {
+        "lat": 34.58181,
+        "lng": 135.475174,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%AB%9B%E5%B1%8B%E7%94%BA%E8%A5%BF1%E4%B8%81",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.sakai-tcb.or.jp/spot/detail/77",
+        "imageUrl": "https://www.sakai-tcb.or.jp/uploads/889a71c1765ee5350d5a1e6b713d7637.JPG",
+        "referencePath": "design/photo-references/expansion/sakai/zabiel.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "sakai--teppo",
+      "query": "大阪府堺市堺区北旅籠町西1丁3-22",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E5%8C%97%E6%97%85%E7%B1%A0%E7%94%BA%E8%A5%BF1%E4%B8%813-22",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.483063,
+              34.590988
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府堺市堺区北旅籠町西一丁３番２２号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakai--seigakuin",
+      "query": "大阪府堺市堺区北旅籠町西1丁3-13",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E5%8C%97%E6%97%85%E7%B1%A0%E7%94%BA%E8%A5%BF1%E4%B8%813-13",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.482773,
+              34.591125
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府堺市堺区北旅籠町西一丁３番１３号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakai--mizuno",
+      "query": "大阪府堺市堺区桜之町西1丁1-27",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%A1%9C%E4%B9%8B%E7%94%BA%E8%A5%BF1%E4%B8%811-27",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.483383,
+              34.58942
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府堺市堺区桜之町西一丁１番２７号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakai--yamaguchi",
+      "query": "大阪府堺市堺区錦之町東1丁2-31",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E9%8C%A6%E4%B9%8B%E7%94%BA%E6%9D%B11%E4%B8%812-31",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.482529,
+              34.586597
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府堺市堺区錦之町東一丁２番３１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakai--tsuboichi",
+      "query": "大阪府堺市堺区九間町東1丁1-2",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E4%B9%9D%E9%96%93%E7%94%BA%E6%9D%B11%E4%B8%811-2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.480408,
+              34.585201
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府堺市堺区九間町東一丁１番２号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakai--kakuoji",
+      "query": "大阪府堺市堺区九間町東3丁1-49",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E4%B9%9D%E9%96%93%E7%94%BA%E6%9D%B13%E4%B8%811-49",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.481979,
+              34.584023
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府堺市堺区九間町東三丁１番４９号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakai--honganji",
+      "query": "大阪府堺市堺区神明町東3丁1-10",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E7%A5%9E%E6%98%8E%E7%94%BA%E6%9D%B13%E4%B8%811-10",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.481735,
+              34.583782
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府堺市堺区神明町東三丁１番１０号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakai--myokokuji",
+      "query": "大阪府堺市堺区材木町東4丁1-4",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%9D%90%E6%9C%A8%E7%94%BA%E6%9D%B14%E4%B8%811-4",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.480515,
+              34.580997
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府堺市堺区材木町東四丁１番４号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakai--denshokan",
+      "query": "大阪府堺市堺区材木町西1丁1-30",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%9D%90%E6%9C%A8%E7%94%BA%E8%A5%BF1%E4%B8%811-30",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.477448,
+              34.582767
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府堺市堺区材木町西一丁１番３０号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakai--zabiel",
+      "query": "大阪府堺市堺区櫛屋町西1丁",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%AB%9B%E5%B1%8B%E7%94%BA%E8%A5%BF1%E4%B8%81",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.475174,
+              34.58181
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府堺市堺区櫛屋町西一丁"
+          }
+        }
+      ]
+    }
+  ]
+}

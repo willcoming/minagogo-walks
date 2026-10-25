@@ -1,0 +1,372 @@
+{
+  "updatedAt": "2026-10-24",
+  "places": [
+    {
+      "id": "kobe-arima--zenpukuji",
+      "order": 1,
+      "name": "善福寺",
+      "address": "兵庫県神戸市北区有馬町1645",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "老樹與寺院，迎接山城的第一段步行",
+      "descriptionParagraphs": [
+        "善福寺位在有馬溫泉街入口附近，寺院與古木為熱鬧街道保留一處安靜角落。進入湯本坂之前，可以先放慢腳步看看境內。",
+        "適合短暫參拜與觀察建築，再接續附近的商店。櫻花景色有季節性，平常日也可以把目光留給樹形與屋簷。"
+      ],
+      "description": "善福寺位在有馬溫泉街入口附近，寺院與古木為熱鬧街道保留一處安靜角落。進入湯本坂之前，可以先放慢腳步看看境內。\n\n適合短暫參拜與觀察建築，再接續附近的商店。櫻花景色有季節性，平常日也可以把目光留給樹形與屋簷。",
+      "note": "",
+      "official": "https://visit.arima-onsen.com/tw/directory/see/zenpukuji/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.797443799999996,
+        "lng": 135.24711725,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/362796388",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-362796388.json"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-arima/zenpukuji.webp",
+        "alt": "善福寺的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-arima--toys",
+      "order": 2,
+      "name": "有馬玩具博物館",
+      "address": "兵庫県神戸市北区有馬町797",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "讓會動的玩具，接住大人的好奇心",
+      "descriptionParagraphs": [
+        "有馬玩具博物館收藏與展示各地玩具，從木製玩具到機械人偶，呈現遊戲與工藝交會的趣味。細看結構，比匆匆逛過更有意思。",
+        "適合雨天或喜歡設計的人作為主要室內停留。完整參觀需要時間，可替換寺院段，不必與兩座浴場一起排滿。"
+      ],
+      "description": "有馬玩具博物館收藏與展示各地玩具，從木製玩具到機械人偶，呈現遊戲與工藝交會的趣味。細看結構，比匆匆逛過更有意思。\n\n適合雨天或喜歡設計的人作為主要室內停留。完整參觀需要時間，可替換寺院段，不必與兩座浴場一起排滿。",
+      "note": "",
+      "official": "https://www.arima-onsen.com/pickup/33/1010/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.79705055,
+        "lng": 135.2479028,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/262669640",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-262669640.json"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-arima/toys.webp",
+        "alt": "有馬玩具博物館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-arima--kin",
+      "order": 3,
+      "name": "金之湯",
+      "address": "兵庫県神戸市北区有馬町833",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在街角浴場，認識有馬的金泉",
+      "descriptionParagraphs": [
+        "金之湯位於溫泉街核心，是體驗有馬金泉的公共浴場。建築與周邊街道緊密相接，泡湯的人潮也成為小鎮日常的一部分。",
+        "若想入浴，可用這站替換展館或長時間喫茶，讓步調依舊輕鬆。只看外觀與周邊街景，也能接續湯本坂的散步。"
+      ],
+      "description": "金之湯位於溫泉街核心，是體驗有馬金泉的公共浴場。建築與周邊街道緊密相接，泡湯的人潮也成為小鎮日常的一部分。\n\n若想入浴，可用這站替換展館或長時間喫茶，讓步調依舊輕鬆。只看外觀與周邊街景，也能接續湯本坂的散步。",
+      "note": "完整入浴與候位需另留時間；請確認當日營業。",
+      "official": "https://www.arima-onsen.com/pickup/54/3529/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.79678735,
+        "lng": 135.24794395,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/262667576",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-262667576.json"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-arima/kin.webp",
+        "alt": "金之湯的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-arima--mitsumori",
+      "order": 4,
+      "name": "三津森本舖",
+      "address": "兵庫県神戸市北区有馬町809",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "把炭酸煎餅的輕脆，留作旅途記憶",
+      "descriptionParagraphs": [
+        "三津森以有馬的炭酸煎餅為代表商品，本舖就在老街步行範圍內。薄薄的煎餅與老店門面，連起溫泉小鎮的伴手禮文化。",
+        "可以挑一份輕巧點心帶走，再繼續向坡道裡探索。這裡是有馬町八〇九番地的三津森本舖，與其他分店不同。"
+      ],
+      "description": "三津森以有馬的炭酸煎餅為代表商品，本舖就在老街步行範圍內。薄薄的煎餅與老店門面，連起溫泉小鎮的伴手禮文化。\n\n可以挑一份輕巧點心帶走，再繼續向坡道裡探索。這裡是有馬町八〇九番地的三津森本舖，與其他分店不同。",
+      "note": "",
+      "official": "https://tansan.co.jp/shop/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.796642,
+        "lng": 135.248276,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA809",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-arima/mitsumori.webp",
+        "alt": "三津森本舖的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-arima--onsendo",
+      "order": 5,
+      "name": "溫泉堂",
+      "address": "兵庫県神戸市北区有馬町820",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "在泉源旁，挑一件有馬日常小物",
+      "descriptionParagraphs": [
+        "溫泉堂是老舖吉高屋在御所泉源前的分店，手巾、襪子與溫泉主題商品擠進小小空間。逛一圈便能看到有馬把泡湯文化延伸到日常用品的趣味。",
+        "可作為街角短暫選物的一站，挑一件實用紀念品便繼續上坡。這裡靠近金之湯與湯本坂，不需為了買伴手禮另外繞路。"
+      ],
+      "description": "溫泉堂是老舖吉高屋在御所泉源前的分店，手巾、襪子與溫泉主題商品擠進小小空間。逛一圈便能看到有馬把泡湯文化延伸到日常用品的趣味。\n\n可作為街角短暫選物的一站，挑一件實用紀念品便繼續上坡。這裡靠近金之湯與湯本坂，不需為了買伴手禮另外繞路。",
+      "note": "",
+      "official": "https://www.arima-onsen.com/pickup/38/1390/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.796295,
+        "lng": 135.248795,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA820",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-arima/onsendo.webp",
+        "alt": "溫泉堂的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-arima--kago",
+      "order": 6,
+      "name": "有馬籠本店",
+      "address": "兵庫県神戸市北区有馬町1049",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "在竹條的交錯間，發現溫泉鄉的手藝",
+      "descriptionParagraphs": [
+        "有馬籠本店呈現當地竹編傳統，花籠、籃器與日用小物各有編織節奏。從細密交錯的竹條，可以看見器物兼具實用與裝飾的一面。",
+        "適合在湯本坂慢慢選物，把它排為散步的一個重點。欣賞與選購都能依自己的步調，離開後再向寺院一帶走去。"
+      ],
+      "description": "有馬籠本店呈現當地竹編傳統，花籠、籃器與日用小物各有編織節奏。從細密交錯的竹條，可以看見器物兼具實用與裝飾的一面。\n\n適合在湯本坂慢慢選物，把它排為散步的一個重點。欣賞與選購都能依自己的步調，離開後再向寺院一帶走去。",
+      "note": "",
+      "official": "https://www.arima-onsen.com/pickup/47/1401/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.79582525,
+        "lng": 135.24937204999998,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/363271305",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-363271305.json"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-arima/kago.webp",
+        "alt": "有馬籠本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-arima--gin",
+      "order": 7,
+      "name": "銀之湯",
+      "address": "兵庫県神戸市北区有馬町1039-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在坡道旁的浴場，留一段溫泉時間",
+      "descriptionParagraphs": [
+        "銀之湯位在寺院鄰近的街道，是有馬公共浴場的另一個選擇。與金之湯不同的泉水特色，讓小鎮的泡湯體驗有了變化。",
+        "兩座浴場挑一處即可，將入浴替換掉部分逛店時間。若今天只想散步，路過看看外觀便好，別讓行程被待辦清單牽著走。"
+      ],
+      "description": "銀之湯位在寺院鄰近的街道，是有馬公共浴場的另一個選擇。與金之湯不同的泉水特色，讓小鎮的泡湯體驗有了變化。\n\n兩座浴場挑一處即可，將入浴替換掉部分逛店時間。若今天只想散步，路過看看外觀便好，別讓行程被待辦清單牽著走。",
+      "note": "完整入浴與候位需另留時間；請確認當日營業。",
+      "official": "https://www.arima-onsen.com/pickup/47/3538/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.79550915,
+        "lng": 135.24901085,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/362697676",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-362697676.json"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-arima/gin.webp",
+        "alt": "銀之湯的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-arima--tosen",
+      "order": 8,
+      "name": "湯泉神社",
+      "address": "兵庫県神戸市北区有馬町1908",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "沿著石階，望向溫泉鄉的守護神社",
+      "descriptionParagraphs": [
+        "湯泉神社作為有馬的氏神與溫泉守護神社，藏在樹木環繞的山側。參道石階與社殿讓人從熱鬧街道切換到較靜謐的景色。",
+        "這站有階梯，依體力與天候選擇即可。若想保持平緩輕鬆的散步，停留在下方寺院與老街同樣足夠。"
+      ],
+      "description": "湯泉神社作為有馬的氏神與溫泉守護神社，藏在樹木環繞的山側。參道石階與社殿讓人從熱鬧街道切換到較靜謐的景色。\n\n這站有階梯，依體力與天候選擇即可。若想保持平緩輕鬆的散步，停留在下方寺院與老街同樣足夠。",
+      "note": "參道有階梯，屬可依體力略過的選項。",
+      "official": "https://tousen.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.7950583,
+        "lng": 135.2486723,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/node/5520397953",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵標記，非經測量的指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/node-5520397953.json"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-arima/tosen.webp",
+        "alt": "湯泉神社的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-arima--onsenji",
+      "order": 9,
+      "name": "溫泉寺",
+      "address": "兵庫県神戸市北区有馬町1643",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "走到寺院前，讀一段溫泉街的來歷",
+      "descriptionParagraphs": [
+        "溫泉寺與有馬溫泉的歷史關係深厚，位於幾座寺院相鄰的小區域。山城建築、坡道與境內的安靜，構成老街另一種表情。",
+        "從湯本坂上來後，可以在這裡短暫參拜。周邊街道尺度小，接著到念佛寺休息即可，不需再延伸到遠處山林。"
+      ],
+      "description": "溫泉寺與有馬溫泉的歷史關係深厚，位於幾座寺院相鄰的小區域。山城建築、坡道與境內的安靜，構成老街另一種表情。\n\n從湯本坂上來後，可以在這裡短暫參拜。周邊街道尺度小，接著到念佛寺休息即可，不需再延伸到遠處山林。",
+      "note": "",
+      "official": "https://www.arima-onsen.com/pickup/47/515/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.79581965,
+        "lng": 135.24822475,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/362982917",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-362982917.json"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-arima/onsenji.webp",
+        "alt": "溫泉寺的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-arima--nenbutsuji",
+      "order": 10,
+      "name": "念佛寺・喫茶CITTA",
+      "address": "兵庫県神戸市北区有馬町1641",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "坐在庭園旁，讓午後安靜一點",
+      "descriptionParagraphs": [
+        "念佛寺的庭園與老樹形成沉靜景致，喫茶CITTA讓來訪者在寺院空間中坐下休息。透過窗景看植物，比趕著走下一站更能感受山城。",
+        "可在這裡安排推薦路線的休息段，餐飲內容依當日供應。喝完茶後慢慢下坡，沿途再選一間想逛的小店回到車站。"
+      ],
+      "description": "念佛寺的庭園與老樹形成沉靜景致，喫茶CITTA讓來訪者在寺院空間中坐下休息。透過窗景看植物，比趕著走下一站更能感受山城。\n\n可在這裡安排推薦路線的休息段，餐飲內容依當日供應。喝完茶後慢慢下坡，沿途再選一間想逛的小店回到車站。",
+      "note": "",
+      "official": "https://www.arima-onsen.com/pickup/35/535/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.7960585,
+        "lng": 135.24862259999998,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/288587055",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-288587055.json"
+      },
+      "illustration": {
+        "image": "/art/walks/kobe-arima/nenbutsuji.webp",
+        "alt": "念佛寺・喫茶CITTA的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "kobe-arima-slow-walk",
+      "name": "湯本坂的竹藝與茶香",
+      "ids": [
+        "kobe-arima--kago",
+        "kobe-arima--onsenji",
+        "kobe-arima--nenbutsuji"
+      ],
+      "start": {
+        "name": "有馬溫泉站",
+        "address": "兵庫県神戸市北区有馬町 神戸電鉄有馬温泉駅",
+        "access": "神戶電鐵有馬線；出站往溫泉街方向步行"
+      },
+      "end": {
+        "name": "有馬溫泉站",
+        "address": "兵庫県神戸市北区有馬町 神戸電鉄有馬温泉駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "沿湯本坂走進竹編老舖與寺院，留一段時間給庭園喫茶。",
+      "note": "核心街區有坡道；湯泉神社的階梯可依體力略過。金之湯、銀之湯與玩具館擇一替換主要停留，完整泡湯、候位或展館深度參觀另留時間。",
+      "stopNotes": {
+        "kobe-arima--kago": "在竹編器物之間，看看有馬的日常手藝。",
+        "kobe-arima--onsenji": "慢慢上坡，到古寺前停一會兒。",
+        "kobe-arima--nenbutsuji": "在庭園旁喝茶，把餘裕留給老街。"
+      },
+      "art": "/art/walks/kobe-arima/kago.webp"
+    }
+  ],
+  "defaultSelection": "kobe-arima-slow-walk"
+}

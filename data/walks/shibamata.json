@@ -1,0 +1,382 @@
+{
+  "updatedAt": "2026-10-24",
+  "places": [
+    {
+      "id": "shibamata--taishakuten",
+      "order": 1,
+      "name": "柴又帝釋天（題經寺）",
+      "address": "東京都葛飾区柴又7丁目10番3号",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "木雕、古松與參道盡頭的寺院",
+      "descriptionParagraphs": [
+        "走到參道盡頭，柴又帝釋天以層層屋簷、木雕與伸展的古松迎接旅人。境內的細節適合慢慢看，與街上熱鬧的點心店形成不同節奏。",
+        "先在境內停留，再依時間選擇雕刻展示或庭園。把參拜作為散步重點，回程仍有餘裕鑽進參道旁的小店。"
+      ],
+      "description": "走到參道盡頭，柴又帝釋天以層層屋簷、木雕與伸展的古松迎接旅人。境內的細節適合慢慢看，與街上熱鬧的點心店形成不同節奏。\n\n先在境內停留，再依時間選擇雕刻展示或庭園。把參拜作為散步重點，回程仍有餘裕鑽進參道旁的小店。",
+      "note": "",
+      "official": "https://katsushika-kanko.jp/shiba/001taisyakuten.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.758228,
+        "lng": 139.877762,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE10%E7%95%AA3%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/shibamata/taishakuten.webp",
+        "alt": "柴又帝釋天（題經寺）的日系水彩插圖"
+      }
+    },
+    {
+      "id": "shibamata--yamamoto",
+      "order": 2,
+      "name": "山本亭",
+      "address": "東京都葛飾区柴又7丁目19番32号",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "坐在老宅裡，借一景庭園",
+      "descriptionParagraphs": [
+        "山本亭曾是實業家的住宅，和風空間與西式元素並存。從室內望向庭園，窗框、榻榻米與綠意一起構成安靜的景色。",
+        "適合在參道與河岸之間安排一段休息。庭園以室內觀賞為主，想品茶時可依當天供應選擇，讓停留保有彈性。"
+      ],
+      "description": "山本亭曾是實業家的住宅，和風空間與西式元素並存。從室內望向庭園，窗框、榻榻米與綠意一起構成安靜的景色。\n\n適合在參道與河岸之間安排一段休息。庭園以室內觀賞為主，想品茶時可依當天供應選擇，讓停留保有彈性。",
+      "note": "",
+      "official": "https://katsushika-kanko.jp/shiba/002yamamototei.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "sXbqwt-N8i0",
+          "title": "How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods",
+          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.757721,
+        "lng": 139.880188,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE19%E7%95%AA32%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/shibamata/yamamoto.webp",
+        "alt": "山本亭的日系水彩插圖"
+      }
+    },
+    {
+      "id": "shibamata--tora",
+      "order": 3,
+      "name": "葛飾柴又寅次郎紀念館",
+      "address": "東京都葛飾区柴又6丁目22番19号",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從電影布景走進昭和街景",
+      "descriptionParagraphs": [
+        "紀念館透過電影布景、道具與街景模型，介紹《男人真命苦》的世界。即使不熟悉系列電影，也能從店舖與生活細節看見柴又的時代氣氛。",
+        "這是雨天或喜歡電影的人可以多留時間的一站。若也想看山田洋次博物館，可把兩館合併安排，並減少其他室內停留。"
+      ],
+      "description": "紀念館透過電影布景、道具與街景模型，介紹《男人真命苦》的世界。即使不熟悉系列電影，也能從店舖與生活細節看見柴又的時代氣氛。\n\n這是雨天或喜歡電影的人可以多留時間的一站。若也想看山田洋次博物館，可把兩館合併安排，並減少其他室內停留。",
+      "note": "",
+      "official": "https://katsushika-kanko.jp/shiba/005toramus.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.756874,
+        "lng": 139.880692,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%886%E4%B8%81%E7%9B%AE22%E7%95%AA19%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/shibamata/tora.webp",
+        "alt": "葛飾柴又寅次郎紀念館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "shibamata--yamada",
+      "order": 4,
+      "name": "山田洋次博物館",
+      "address": "東京都葛飾区柴又6丁目22番19号",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從器材與作品，看看電影怎麼誕生",
+      "descriptionParagraphs": [
+        "與寅次郎紀念館相鄰的展館，將焦點放在山田洋次的創作與電影製作。攝影器材和作品資料，讓街區的電影故事多了幕後視角。",
+        "兩館位於同一園區，不必為了換展館再走遠路。只想輕鬆散步時擇一參觀即可，將其他時間留給參道與庭園。"
+      ],
+      "description": "與寅次郎紀念館相鄰的展館，將焦點放在山田洋次的創作與電影製作。攝影器材和作品資料，讓街區的電影故事多了幕後視角。\n\n兩館位於同一園區，不必為了換展館再走遠路。只想輕鬆散步時擇一參觀即可，將其他時間留給參道與庭園。",
+      "note": "",
+      "official": "https://katsushika-kanko.jp/shiba/005toramus.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.756874,
+        "lng": 139.880692,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%886%E4%B8%81%E7%9B%AE22%E7%95%AA19%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/shibamata/yamada.webp",
+        "alt": "山田洋次博物館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "shibamata--park",
+      "order": 5,
+      "name": "柴又公園",
+      "address": "東京都葛飾区柴又6丁目22番19号",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "把視線從老街移向開闊綠地",
+      "descriptionParagraphs": [
+        "柴又公園連接紀念館周邊的綠地與江戶川方向的開闊風景。草地、樹影與較寬的天空，替密集的小店之間留下一段呼吸。",
+        "從山本亭或紀念館順路走來即可，不必另外拉長河岸路程。天氣舒服時稍作停留，再慢慢折回柴又站附近。"
+      ],
+      "description": "柴又公園連接紀念館周邊的綠地與江戶川方向的開闊風景。草地、樹影與較寬的天空，替密集的小店之間留下一段呼吸。\n\n從山本亭或紀念館順路走來即可，不必另外拉長河岸路程。天氣舒服時稍作停留，再慢慢折回柴又站附近。",
+      "note": "",
+      "official": "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.756874,
+        "lng": 139.880692,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%886%E4%B8%81%E7%9B%AE22%E7%95%AA19%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/shibamata/park.webp",
+        "alt": "柴又公園的日系水彩插圖"
+      }
+    },
+    {
+      "id": "shibamata--takagiya",
+      "order": 6,
+      "name": "高木屋老舖",
+      "address": "東京都葛飾区柴又7丁目7番4号",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "草糰子與紅豆，把參道走甜一點",
+      "descriptionParagraphs": [
+        "高木屋的草糰子把艾草香與紅豆甜味放在一起，是帝釋天參道上有代表性的點心。老店門面也延續了柴又與電影相連的街景印象。",
+        "想坐下喝茶時可將這裡作為推薦休息站。參道甜點很多，挑一份喜歡的就好，避免每間排隊把午後塞滿。"
+      ],
+      "description": "高木屋的草糰子把艾草香與紅豆甜味放在一起，是帝釋天參道上有代表性的點心。老店門面也延續了柴又與電影相連的街景印象。\n\n想坐下喝茶時可將這裡作為推薦休息站。參道甜點很多，挑一份喜歡的就好，避免每間排隊把午後塞滿。",
+      "note": "",
+      "official": "https://katsushika-kanko.jp/shiba/010takagiya.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "sXbqwt-N8i0",
+          "title": "How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods",
+          "url": "https://www.youtube.com/watch?v=sXbqwt-N8i0",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.757679,
+        "lng": 139.876602,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE7%E7%95%AA4%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/shibamata/takagiya.webp",
+        "alt": "高木屋老舖的日系水彩插圖"
+      }
+    },
+    {
+      "id": "shibamata--toraya",
+      "order": 7,
+      "name": "門前とらや",
+      "address": "東京都葛飾区柴又7丁目7番5号",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "老街門面下的一份草糰子",
+      "descriptionParagraphs": [
+        "門前とらや從明治時代延續至今，兼有食事與草糰子的門前店氣質。木造樓面、瓦簷與開放的店頭，是參道上值得停眼的風景。",
+        "可把它當作高木屋之外的點心選擇，依現場人潮決定。想保留走路時間，也可以只看看門面，繼續逛向寺院。"
+      ],
+      "description": "門前とらや從明治時代延續至今，兼有食事與草糰子的門前店氣質。木造樓面、瓦簷與開放的店頭，是參道上值得停眼的風景。\n\n可把它當作高木屋之外的點心選擇，依現場人潮決定。想保留走路時間，也可以只看看門面，繼續逛向寺院。",
+      "note": "",
+      "official": "https://www.katsushika-kushouren.jp/store/s30017/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.757751,
+        "lng": 139.87674,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE7%E7%95%AA5%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/shibamata/toraya.webp",
+        "alt": "門前とらや的日系水彩插圖"
+      }
+    },
+    {
+      "id": "shibamata--ishii",
+      "order": 8,
+      "name": "い志い",
+      "address": "東京都葛飾区柴又7丁目6番20号",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在老木屋裡，挑一份參道甜味",
+      "descriptionParagraphs": [
+        "い志い的歷史從布店延伸到茶與漬物，後來成為參道上的茶店。深色木構與低低的屋簷，讓店舖本身也像一頁街區記憶。",
+        "逛到這裡可依當日櫃檯挑選點心或伴手禮。把小店當作隨興停留，不必為了湊滿路線而每間都買。"
+      ],
+      "description": "い志い的歷史從布店延伸到茶與漬物，後來成為參道上的茶店。深色木構與低低的屋簷，讓店舖本身也像一頁街區記憶。\n\n逛到這裡可依當日櫃檯挑選點心或伴手禮。把小店當作隨興停留，不必為了湊滿路線而每間都買。",
+      "note": "",
+      "official": "https://www.katsushika-kushouren.jp/store/s30020/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.757824,
+        "lng": 139.876709,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE6%E7%95%AA20%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/shibamata/ishii.webp",
+        "alt": "い志い的日系水彩插圖"
+      }
+    },
+    {
+      "id": "shibamata--matsuya",
+      "order": 9,
+      "name": "松屋の飴總本店",
+      "address": "東京都葛飾区柴又7丁目6番17号",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "菱格門面裡的傳統糖果",
+      "descriptionParagraphs": [
+        "松屋從深川起家，後來在柴又延續製糖手藝。店面醒目的菱格外牆與糖果陳列，讓參道多了一種與草糰子不同的甜味。",
+        "適合挑一小份糖果帶回旅途。切糖展示須依現場安排，有遇見再停下來看，不必為等表演打亂散步節奏。"
+      ],
+      "description": "松屋從深川起家，後來在柴又延續製糖手藝。店面醒目的菱格外牆與糖果陳列，讓參道多了一種與草糰子不同的甜味。\n\n適合挑一小份糖果帶回旅途。切糖展示須依現場安排，有遇見再停下來看，不必為等表演打亂散步節奏。",
+      "note": "",
+      "official": "https://www.katsushika-kushouren.jp/store/s30031/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.75806,
+        "lng": 139.877151,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE6%E7%95%AA17%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/shibamata/matsuya.webp",
+        "alt": "松屋の飴總本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "shibamata--kawachiya",
+      "order": 10,
+      "name": "川千家",
+      "address": "東京都葛飾区柴又7丁目6番16号",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "把老街散步接上一份鰻魚飯",
+      "descriptionParagraphs": [
+        "川千家以鰻魚與川魚料理連結柴又的門前飲食文化。與沿路的小點心相比，這裡適合想把散步接成一餐的人。",
+        "若決定坐下用餐，可替換原本的茶點休息；候位與完整餐敘另留時間。也能先逛完寺院，再回到參道決定午餐。"
+      ],
+      "description": "川千家以鰻魚與川魚料理連結柴又的門前飲食文化。與沿路的小點心相比，這裡適合想把散步接成一餐的人。\n\n若決定坐下用餐，可替換原本的茶點休息；候位與完整餐敘另留時間。也能先逛完寺院，再回到參道決定午餐。",
+      "note": "",
+      "official": "https://katsushika-kanko.jp/shiba/008kawachiya.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.758156,
+        "lng": 139.877274,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE6%E7%95%AA16%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/shibamata/kawachiya.webp",
+        "alt": "川千家的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "shibamata-slow-walk",
+      "name": "參道甜味與庭園時光",
+      "ids": [
+        "shibamata--taishakuten",
+        "shibamata--yamamoto",
+        "shibamata--takagiya"
+      ],
+      "start": {
+        "name": "柴又站",
+        "address": "東京都葛飾区柴又4丁目 京成柴又駅",
+        "access": "京成金町線；出站步行進入帝釋天參道"
+      },
+      "end": {
+        "name": "柴又站",
+        "address": "東京都葛飾区柴又4丁目 京成柴又駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "參道點心、古寺與庭園，在柴又留一個慢慢走的午後。",
+      "note": "喜歡電影可用紀念館替換山本亭；兩座電影展館擇一即可。完整用餐與候位另留時間。",
+      "stopNotes": {
+        "shibamata--taishakuten": "參拜、看看木雕與古松。",
+        "shibamata--yamamoto": "坐在老宅，從窗邊看庭園。",
+        "shibamata--takagiya": "挑一份草糰子，喝茶休息。"
+      },
+      "art": "/art/walks/shibamata/taishakuten.webp"
+    }
+  ],
+  "defaultSelection": "shibamata-slow-walk"
+}

@@ -1,0 +1,420 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "kyoto-demachi--shimogamo",
+      "order": 1,
+      "name": "下鴨神社",
+      "address": "京都府京都市左京区下鴨泉川町59",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "穿過糺之森，走向朱紅樓門",
+      "descriptionParagraphs": [
+        "下鴨神社正式名稱為賀茂御祖神社，位在京都北側的森林與河流之間。沿糺之森參道接近朱紅樓門，樹影與建築的色彩會逐步改變散步的節奏。",
+        "這一站可以作為整段散策的主要參拜停留，慢慢走過參道與開放境內，再返回出町柳。當日祭典或活動可能調整進出動線，請依現場指示行走。"
+      ],
+      "description": "下鴨神社正式名稱為賀茂御祖神社，位在京都北側的森林與河流之間。沿糺之森參道接近朱紅樓門，樹影與建築的色彩會逐步改變散步的節奏。\n\n這一站可以作為整段散策的主要參拜停留，慢慢走過參道與開放境內，再返回出町柳。當日祭典或活動可能調整進出動線，請依現場指示行走。",
+      "note": "",
+      "official": "https://www.shimogamo-jinja.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.038692,
+        "lng": 135.772964,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E6%B3%89%E5%B7%9D%E7%94%BA59",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-demachi/shimogamo.webp",
+        "alt": "下鴨神社的日系水彩插圖"
+      },
+      "recommendation": "沿糺之森慢行，將神社作為主要文化停留。"
+    },
+    {
+      "id": "kyoto-demachi--kawai",
+      "order": 2,
+      "name": "河合神社",
+      "address": "京都府京都市左京区下鴨泉川町59",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "手鏡形繪馬，藏在森林南端",
+      "descriptionParagraphs": [
+        "河合神社是下鴨神社的攝社，以祈求美麗的鏡繪馬為人熟知。木架上排列的手鏡形繪馬，與安靜境內形成這一站容易辨認的景象。",
+        "從舊三井家別邸走向糺之森時可以順路參拜，再往北接下鴨神社。若想繪製繪馬，另留一點時間；只安靜看看、感受樹蔭也很合適。"
+      ],
+      "description": "河合神社是下鴨神社的攝社，以祈求美麗的鏡繪馬為人熟知。木架上排列的手鏡形繪馬，與安靜境內形成這一站容易辨認的景象。\n\n從舊三井家別邸走向糺之森時可以順路參拜，再往北接下鴨神社。若想繪製繪馬，另留一點時間；只安靜看看、感受樹蔭也很合適。",
+      "note": "",
+      "official": "https://www.shimogamo-jinja.or.jp/bireikigan",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.0347053,
+        "lng": 135.77193640000002,
+        "provider": "osm",
+        "label": "OpenStreetMap 神社圖徵中心",
+        "url": "https://www.openstreetmap.org/way/351136449",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "依神社範圍圖徵的邊界中心定位，並非指定入口；原 GSI 同址回應另存。",
+        "rawResponsePath": "design/next-expansion/research/demachi-kawai-osm.json"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-demachi/kawai.webp",
+        "alt": "河合神社的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-demachi--mitsui",
+      "order": 3,
+      "name": "舊三井家下鴨別邸",
+      "address": "京都府京都市左京区下鴨宮河町58-2",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "望樓、木窗與苔庭，留下近代京都",
+      "descriptionParagraphs": [
+        "舊三井家下鴨別邸由不同時期的建築組成，主屋、玄關棟與庭園保存了近代和風住宅的樣貌。屋頂上的望樓與庭園綠意相互襯托，是街區裡細看建築的選擇。",
+        "一般公開以主屋一樓、玄關棟與庭園為主，樓上及茶室需依特別公開安排。若決定入館，可把它替換為主要文化重點，讓參拜與看屋之間仍有休息時間。"
+      ],
+      "description": "舊三井家下鴨別邸由不同時期的建築組成，主屋、玄關棟與庭園保存了近代和風住宅的樣貌。屋頂上的望樓與庭園綠意相互襯托，是街區裡細看建築的選擇。\n\n一般公開以主屋一樓、玄關棟與庭園為主，樓上及茶室需依特別公開安排。若決定入館，可把它替換為主要文化重點，讓參拜與看屋之間仍有休息時間。",
+      "note": "二、三樓與茶室通常不對外開放，依特別公開公告為準。",
+      "official": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.032398,
+        "lng": 135.771469,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E5%AE%AE%E6%B2%B3%E7%94%BA58-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-demachi/mitsui.webp",
+        "alt": "舊三井家下鴨別邸的日系水彩插圖"
+      },
+      "recommendation": "過橋後看一般公開的主屋與庭園，再回出町柳站。"
+    },
+    {
+      "id": "kyoto-demachi--river",
+      "order": 4,
+      "name": "鴨川三角洲與飛石",
+      "address": "京都府京都市左京区下鴨宮河町",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "兩條河流相遇，天空忽然開闊",
+      "descriptionParagraphs": [
+        "賀茂川與高野川在出町柳匯流，形成被稱為鴨川三角洲的開闊河岸。水面、草地與一列列造型飛石，是許多人認識這個街區的風景。",
+        "散步的最後可以留在岸邊坐一會，看看水流與遠方山影。飛石不是必經路線，遇到水位高或石面濕滑時改走橋梁，依體力與天氣保留彈性。"
+      ],
+      "description": "賀茂川與高野川在出町柳匯流，形成被稱為鴨川三角洲的開闊河岸。水面、草地與一列列造型飛石，是許多人認識這個街區的風景。\n\n散步的最後可以留在岸邊坐一會，看看水流與遠方山影。飛石不是必經路線，遇到水位高或石面濕滑時改走橋梁，依體力與天氣保留彈性。",
+      "note": "飛石需視水位與地面狀況；不便通行時使用橋梁。",
+      "official": "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "FQwT5D4AH4w",
+          "title": "🇯🇵京都自由行精選 第二章：鴨川、錦市場、天橋立、伊根灣｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=FQwT5D4AH4w",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.031872,
+        "lng": 135.771667,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E5%AE%AE%E6%B2%B3%E7%94%BA",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-demachi/river.webp",
+        "alt": "鴨川三角洲與飛石的日系水彩插圖"
+      },
+      "recommendation": "從河岸看兩河交會，留一段不趕路的空白。"
+    },
+    {
+      "id": "kyoto-demachi--futaba",
+      "order": 5,
+      "name": "出町ふたば",
+      "address": "京都府京都市上京区青龍町236",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "豆餅與季節菓子，裝進午後的小紙袋",
+      "descriptionParagraphs": [
+        "出町ふたば以白色麻糬中透出豆粒的名代豆餅聞名，也製作隨季節更換的和菓子。小小一份點心，讓河原町通上的散步多了一個可以帶走的停留。",
+        "店面就在商店街入口一帶，適合開始散策時先看看隊伍。豆餅是生菓子，購買後依店家建議盡早享用；若人多，附近茶房也能成為休息選項。"
+      ],
+      "description": "出町ふたば以白色麻糬中透出豆粒的名代豆餅聞名，也製作隨季節更換的和菓子。小小一份點心，讓河原町通上的散步多了一個可以帶走的停留。\n\n店面就在商店街入口一帶，適合開始散策時先看看隊伍。豆餅是生菓子，購買後依店家建議盡早享用；若人多，附近茶房也能成為休息選項。",
+      "note": "熱門時段可能排隊；候位時間另計。",
+      "official": "https://ja.kyoto.travel/times/morning/article/single.php?id=589",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.03194,
+        "lng": 135.769531,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E9%9D%92%E9%BE%8D%E7%94%BA236",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-demachi/futaba.webp",
+        "alt": "出町ふたば的日系水彩插圖"
+      },
+      "recommendation": "選一份豆餅；若隊伍太長，可改在附近茶房休息。"
+    },
+    {
+      "id": "kyoto-demachi--isehan",
+      "order": 6,
+      "name": "茶房いせはん",
+      "address": "京都府京都市上京区青龍町242",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "一碗餡蜜，替腳步安排休息",
+      "descriptionParagraphs": [
+        "茶房いせはん位於河原町通附近，以小豆、白玉、寒天與冰品組合的日式甘味吸引散步旅人。餡蜜與季節甜點提供另一種坐下來享受出町滋味的方式。",
+        "可在商店街逛完後停留，再前往河岸或返回車站。若已在其他咖啡館休息，這裡就留作備選，不必在同一個下午把所有甜點都吃過。"
+      ],
+      "description": "茶房いせはん位於河原町通附近，以小豆、白玉、寒天與冰品組合的日式甘味吸引散步旅人。餡蜜與季節甜點提供另一種坐下來享受出町滋味的方式。\n\n可在商店街逛完後停留，再前往河岸或返回車站。若已在其他咖啡館休息，這裡就留作備選，不必在同一個下午把所有甜點都吃過。",
+      "note": "",
+      "official": "https://www.hieizan.gr.jp/yase/sabo_isehan-2",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.03194,
+        "lng": 135.769531,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E9%9D%92%E9%BE%8D%E7%94%BA242",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-demachi/isehan.webp",
+        "alt": "茶房いせはん的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-demachi--delta",
+      "order": 7,
+      "name": "DELTA Bistro, Coffee Shop & Gallery",
+      "address": "京都府京都市上京区三栄町62",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "商店街轉角，留一杯咖啡的時間",
+      "descriptionParagraphs": [
+        "DELTA 是 KYOTOGRAPHIE 在出町桝形商店街設立的常設空間，結合展覽、餐飲與咖啡。深色外牆和大面窗戶，把當代影像文化接到老街的日常裡。",
+        "可依當期展覽安排一段觀看，再用咖啡或甜點作為休息。這裡與出町座、乾物店相距不遠，適合在同一小段街道裡慢慢切換不同興趣。"
+      ],
+      "description": "DELTA 是 KYOTOGRAPHIE 在出町桝形商店街設立的常設空間，結合展覽、餐飲與咖啡。深色外牆和大面窗戶，把當代影像文化接到老街的日常裡。\n\n可依當期展覽安排一段觀看，再用咖啡或甜點作為休息。這裡與出町座、乾物店相距不遠，適合在同一小段街道裡慢慢切換不同興趣。",
+      "note": "",
+      "official": "https://delta.kyotographie.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.030518,
+        "lng": 135.768356,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%89%E6%A0%84%E7%94%BA62",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-demachi/delta.webp",
+        "alt": "DELTA Bistro, Coffee Shop & Gallery的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-demachi--fujiya",
+      "order": 8,
+      "name": "ふじや鰹節店",
+      "address": "京都府京都市上京区三栄町63",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "從乾物與木架，認識京都的高湯日常",
+      "descriptionParagraphs": [
+        "ふじや鰹節店販售鰹節、昆布等乾物，也提供家用削鰹節器。店內袋裝食材、木架與手寫招牌排列出豐富層次，呈現商店街與家庭料理相連的一面。",
+        "不一定要買很多東西，可以先看看不同乾物與使用方式，把這裡當作京都味覺的入口。從 DELTA 轉過來很近，適合順路停留而不增加太多步行。"
+      ],
+      "description": "ふじや鰹節店販售鰹節、昆布等乾物，也提供家用削鰹節器。店內袋裝食材、木架與手寫招牌排列出豐富層次，呈現商店街與家庭料理相連的一面。\n\n不一定要買很多東西，可以先看看不同乾物與使用方式，把這裡當作京都味覺的入口。從 DELTA 轉過來很近，適合順路停留而不增加太多步行。",
+      "note": "",
+      "official": "https://www.e-kanbutu.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.030518,
+        "lng": 135.768356,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%89%E6%A0%84%E7%94%BA63",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-demachi/fujiya.webp",
+        "alt": "ふじや鰹節店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-demachi--masugata",
+      "order": 9,
+      "name": "出町桝形商店街",
+      "address": "京都府京都市上京区二神町179",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "有屋頂的短街，保留日常買賣聲",
+      "descriptionParagraphs": [
+        "出町桝形商店街串起河原町通與寺町通，生鮮、乾物、雜貨和飲食店鋪交錯排列。拱廊裡懸掛的裝飾與小店招牌，讓這裡帶著親切的生活感。",
+        "把它當作自由探索的一段街道，看到有興趣的店再進去，不需要逐家打卡。出町座、DELTA 與ふじや鰹節店都在附近，逛累了很容易找到下一個停留。"
+      ],
+      "description": "出町桝形商店街串起河原町通與寺町通，生鮮、乾物、雜貨和飲食店鋪交錯排列。拱廊裡懸掛的裝飾與小店招牌，讓這裡帶著親切的生活感。\n\n把它當作自由探索的一段街道，看到有興趣的店再進去，不需要逐家打卡。出町座、DELTA 與ふじや鰹節店都在附近，逛累了很容易找到下一個停留。",
+      "note": "",
+      "official": "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.030193,
+        "lng": 135.769287,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%BA%8C%E7%A5%9E%E7%94%BA179",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-demachi/masugata.webp",
+        "alt": "出町桝形商店街的日系水彩插圖"
+      },
+      "recommendation": "沿短短拱廊看日常買賣，不必每間店都停。"
+    },
+    {
+      "id": "kyoto-demachi--cinema",
+      "order": 10,
+      "name": "出町座",
+      "address": "京都府京都市上京区三芳町133",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "電影、書與咖啡，在紅色門面相遇",
+      "descriptionParagraphs": [
+        "出町座把電影院、書店與咖啡空間放進商店街裡，紅色門面與玻璃櫥窗特別醒目。即使沒有看電影的安排，也能從選書與片單感受街區的文化氣氛。",
+        "散步時可以看看海報、翻找一本書，再決定是否坐下喝杯飲料。若想看完整場次，請另外預留放映時間，基本散策的兩三小時並未包含電影。"
+      ],
+      "description": "出町座把電影院、書店與咖啡空間放進商店街裡，紅色門面與玻璃櫥窗特別醒目。即使沒有看電影的安排，也能從選書與片單感受街區的文化氣氛。\n\n散步時可以看看海報、翻找一本書，再決定是否坐下喝杯飲料。若想看完整場次，請另外預留放映時間，基本散策的兩三小時並未包含電影。",
+      "note": "電影場次與活動請先看出町座公告。",
+      "official": "https://demachiza.com/access",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.029732,
+        "lng": 135.768951,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%89%E8%8A%B3%E7%94%BA133",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-demachi/cinema.webp",
+        "alt": "出町座的日系水彩插圖"
+      },
+      "recommendation": "看看電影海報與選書，想喝飲料就留一小段時間坐下。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "kyoto-demachi-slow-walk",
+      "name": "豆餅、森林與鴨川",
+      "ids": [
+        "kyoto-demachi--futaba",
+        "kyoto-demachi--shimogamo",
+        "kyoto-demachi--river"
+      ],
+      "start": {
+        "name": "出町柳站",
+        "address": "京都府京都市左京区田中下柳町 出町柳駅",
+        "access": "京阪電車、叡山電車"
+      },
+      "end": {
+        "name": "出町柳站",
+        "address": "京都府京都市左京区田中下柳町 出町柳駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從出町柳站走進商店街與下鴨的樹蔭，最後回到兩條河流交會的水邊。",
+      "note": "三個推薦重點與沿途散步約 2.5～3 小時，含 30～45 分鐘自由探索；排隊、電影與較長入館另留時間。河水上漲或石面濕滑時留在岸邊，過河使用橋梁即可。",
+      "stopNotes": {
+        "kyoto-demachi--futaba": "選一份豆餅；若隊伍太長，可改在附近茶房休息。",
+        "kyoto-demachi--shimogamo": "沿糺之森慢行，將神社作為主要文化停留。",
+        "kyoto-demachi--river": "從河岸看兩河交會，留一段不趕路的空白。"
+      },
+      "art": "/art/walks/kyoto-demachi/river.webp"
+    },
+    {
+      "id": "kyoto-demachi-books-market-and-villa",
+      "name": "商店街、書與老別邸",
+      "ids": [
+        "kyoto-demachi--cinema",
+        "kyoto-demachi--masugata",
+        "kyoto-demachi--mitsui"
+      ],
+      "start": {
+        "name": "出町柳站",
+        "address": "京都府京都市左京区田中下柳町 出町柳駅",
+        "access": "京阪電車、叡山電車"
+      },
+      "end": {
+        "name": "出町柳站",
+        "address": "京都府京都市左京区田中下柳町 出町柳駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "從出町座的選書走進街坊商店街，再到河邊老別邸看庭園與木造建築。",
+      "note": "含三處重點、步行與 30～45 分鐘自由探索。出町座安排書店與咖啡短停，完整電影另計；舊三井家別邸依當日一般公開範圍參觀，二、三樓與茶室不預設開放。跨河使用橋梁。",
+      "stopNotes": {
+        "kyoto-demachi--cinema": "看看電影海報與選書，想喝飲料就留一小段時間坐下。",
+        "kyoto-demachi--masugata": "沿短短拱廊看日常買賣，不必每間店都停。",
+        "kyoto-demachi--mitsui": "過橋後看一般公開的主屋與庭園，再回出町柳站。"
+      },
+      "art": "/art/walks/kyoto-demachi/cinema.webp"
+    }
+  ],
+  "defaultSelection": "kyoto-demachi-slow-walk"
+}

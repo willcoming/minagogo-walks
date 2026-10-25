@@ -1,0 +1,546 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方及地方觀光資訊查證後，以繁體中文原創改寫；照片僅作私下插圖參考，公開圖為獨立生成水彩。",
+  "places": [
+    {
+      "id": "kiryu--yanoen",
+      "official": "https://www.kkyanoen.com/yanoen",
+      "contentSources": [
+        "https://www.kkyanoen.com/yanoen",
+        "https://www.city.kiryu.lg.jp/kankou/bunkazai/1010700/shishitei/yuukei/1002916.html"
+      ],
+      "coordinate": {
+        "lat": 36.4164234,
+        "lng": 139.3428557,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/12920452897",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "referencePath": "design/photo-references/expansion/kiryu/yanoen.jpg"
+      },
+      "photoReference": {
+        "referencePath": "design/photo-references/expansion/kiryu/yanoen.jpg"
+      }
+    },
+    {
+      "id": "kiryu--yurinkan",
+      "official": "https://www.city.kiryu.lg.jp/shisetsu/bunka/yuurinkan/1002917.html",
+      "contentSources": [
+        "https://www.city.kiryu.lg.jp/shisetsu/bunka/yuurinkan/1002917.html",
+        "https://www.ryomo-kouiki.jp/location/gunma/kiryu/975.html"
+      ],
+      "coordinate": {
+        "lat": 36.416555,
+        "lng": 139.3431216,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/5170550038",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "referencePath": "design/photo-references/expansion/kiryu/yurinkan.jpg"
+      },
+      "photoReference": {
+        "referencePath": "design/photo-references/expansion/kiryu/yurinkan.jpg"
+      }
+    },
+    {
+      "id": "kiryu--tenmangu",
+      "official": "https://kiryutenjin.jp/",
+      "contentSources": [
+        "https://kiryutenjin.jp/",
+        "https://www.gunma-jinjacho.jp/jinja/"
+      ],
+      "coordinate": {
+        "lat": 36.4218434,
+        "lng": 139.3461826,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/390462756",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "referencePath": "design/photo-references/expansion/kiryu/tenmangu.jpg"
+      },
+      "photoReference": {
+        "referencePath": "design/photo-references/expansion/kiryu/tenmangu.jpg"
+      }
+    },
+    {
+      "id": "kiryu--renga",
+      "official": "https://www.kiryu-renga.jp/",
+      "contentSources": [
+        "https://www.kiryu-renga.jp/",
+        "https://worldheritage.pref.gunma.jp/kinutabi/kiryu/joshi.html"
+      ],
+      "coordinate": {
+        "lat": 36.420415,
+        "lng": 139.3469688,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/536784326",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "referencePath": "design/photo-references/expansion/kiryu/renga.jpg"
+      },
+      "photoReference": {
+        "referencePath": "design/photo-references/expansion/kiryu/renga.jpg"
+      }
+    },
+    {
+      "id": "kiryu--yukari",
+      "official": "https://www.city.kiryu.lg.jp/kankou/spot/kiryu/1001866.html",
+      "contentSources": [
+        "https://www.city.kiryu.lg.jp/kankou/spot/kiryu/1001866.html"
+      ],
+      "coordinate": {
+        "lat": 36.4103,
+        "lng": 139.344711,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/1420713152",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kiryu.lg.jp/kankou/spot/kiryu/1001866.html",
+        "imageUrl": "https://www.city.kiryu.lg.jp/_res/projects/default_project/_page_/001/001/866/taiken2.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/yukari.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.city.kiryu.lg.jp/kankou/spot/kiryu/1001866.html",
+        "imageUrl": "https://www.city.kiryu.lg.jp/_res/projects/default_project/_page_/001/001/866/taiken2.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/yukari.jpg"
+      }
+    },
+    {
+      "id": "kiryu--okawa",
+      "official": "https://okawamuseum.jp/",
+      "contentSources": [
+        "https://okawamuseum.jp/"
+      ],
+      "coordinate": {
+        "lat": 36.416889,
+        "lng": 139.333862,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/1420710142",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://okawamuseum.jp/",
+        "imageUrl": "https://okawamuseum.jp/images/bg1.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/okawa.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://okawamuseum.jp/",
+        "imageUrl": "https://okawamuseum.jp/images/bg1.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/okawa.jpg"
+      }
+    },
+    {
+      "id": "kiryu--ichinoyu",
+      "official": "https://1noyu.jp/",
+      "contentSources": [
+        "https://1noyu.jp/"
+      ],
+      "coordinate": {
+        "lat": 36.419993,
+        "lng": 139.3453178,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/8929073417",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://1noyu.jp/",
+        "imageUrl": "https://1noyu.jp/top.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/ichinoyu.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://1noyu.jp/",
+        "imageUrl": "https://1noyu.jp/top.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/ichinoyu.jpg"
+      }
+    },
+    {
+      "id": "kiryu--fujiya",
+      "official": "https://worldheritage.pref.gunma.jp/kinutabi/kiryu/joshi.html",
+      "contentSources": [
+        "https://worldheritage.pref.gunma.jp/kinutabi/kiryu/joshi.html"
+      ],
+      "coordinate": {
+        "lat": 36.4191307,
+        "lng": 139.3448828,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/538623933",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://worldheritage.pref.gunma.jp/kinutabi/kiryu/joshi.html",
+        "imageUrl": "https://worldheritage.pref.gunma.jp/kinutabi/images/kiryu/joshi/fujiya_02.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/fujiya.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://worldheritage.pref.gunma.jp/kinutabi/kiryu/joshi.html",
+        "imageUrl": "https://worldheritage.pref.gunma.jp/kinutabi/images/kiryu/joshi/fujiya_02.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/fujiya.jpg"
+      }
+    },
+    {
+      "id": "kiryu--saika",
+      "official": "https://www.wataraseza.jp/2026/yotsuji_saika/",
+      "contentSources": [
+        "https://www.wataraseza.jp/2026/yotsuji_saika/"
+      ],
+      "coordinate": {
+        "lat": 36.4201792,
+        "lng": 139.3464957,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/12920431987",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.wataraseza.jp/2026/yotsuji_saika/",
+        "imageUrl": "https://www.wataraseza.jp/wp-content/uploads/2026/06/image_yostuji_1-1024x768.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/saika.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wataraseza.jp/2026/yotsuji_saika/",
+        "imageUrl": "https://www.wataraseza.jp/wp-content/uploads/2026/06/image_yostuji_1-1024x768.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/saika.jpg"
+      }
+    },
+    {
+      "id": "kiryu--nishinomiya",
+      "official": "https://kiryu-nishinomiya-ebisu.jp/",
+      "contentSources": [
+        "https://kiryu-nishinomiya-ebisu.jp/"
+      ],
+      "coordinate": {
+        "lat": 36.4178423,
+        "lng": 139.3397692,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/12920489477",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kiryu-nishinomiya-ebisu.jp/",
+        "imageUrl": "https://kiryu-nishinomiya-ebisu.jp/wp/wp-content/uploads/2019/10/400x300_001.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/nishinomiya.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://kiryu-nishinomiya-ebisu.jp/",
+        "imageUrl": "https://kiryu-nishinomiya-ebisu.jp/wp/wp-content/uploads/2019/10/400x300_001.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/nishinomiya.jpg"
+      }
+    },
+    {
+      "id": "kiryu--station",
+      "official": "https://jomorailway.com/nishikiryu.html",
+      "contentSources": [
+        "https://jomorailway.com/nishikiryu.html"
+      ],
+      "coordinate": {
+        "lat": 36.413773,
+        "lng": 139.333954,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E6%A1%90%E7%94%9F%E5%B8%82%E5%AE%AE%E5%89%8D%E7%94%BA2%E4%B8%81%E7%9B%AE1-33",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kiryu.lg.jp/kankou/bunkazai/1010700/kunitouroku/1001998.html",
+        "imageUrl": "https://www.city.kiryu.lg.jp/_res/projects/default_project/_page_/001/001/998/0.7c.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/station.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.city.kiryu.lg.jp/kankou/bunkazai/1010700/kunitouroku/1001998.html",
+        "imageUrl": "https://www.city.kiryu.lg.jp/_res/projects/default_project/_page_/001/001/998/0.7c.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/station.jpg"
+      }
+    },
+    {
+      "id": "kiryu--machinaka",
+      "official": "https://www.city.kiryu.lg.jp/shisetsu/bunka/1023669/1023671.html",
+      "contentSources": [
+        "https://www.city.kiryu.lg.jp/shisetsu/bunka/1023669/1023671.html"
+      ],
+      "coordinate": {
+        "lat": 36.418556,
+        "lng": 139.344101,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E6%A1%90%E7%94%9F%E5%B8%82%E6%9C%AC%E7%94%BA1%E4%B8%81%E7%9B%AE7-4",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kiryu.lg.jp/shisetsu/bunka/1023669/1023671.html",
+        "imageUrl": "https://www.city.kiryu.lg.jp/_res/projects/default_project/_page_/001/023/671/matinakakoryukan.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/machinaka.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.city.kiryu.lg.jp/shisetsu/bunka/1023669/1023671.html",
+        "imageUrl": "https://www.city.kiryu.lg.jp/_res/projects/default_project/_page_/001/023/671/matinakakoryukan.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/machinaka.jpg"
+      }
+    },
+    {
+      "id": "kiryu--orimono",
+      "official": "https://kiryuorimonokinenkan.com/",
+      "contentSources": [
+        "https://kiryuorimonokinenkan.com/"
+      ],
+      "coordinate": {
+        "lat": 36.412521,
+        "lng": 139.337143,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E6%A1%90%E7%94%9F%E5%B8%82%E6%B0%B8%E6%A5%BD%E7%94%BA6-6",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://kiryuorimonokinenkan.com/",
+        "imageUrl": "https://kiryuorimonokinenkan.com/wp-content/themes/kiryu/assets/images/top/fv/mainvisual_01_xl.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/orimono.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://kiryuorimonokinenkan.com/",
+        "imageUrl": "https://kiryuorimonokinenkan.com/wp-content/themes/kiryu/assets/images/top/fv/mainvisual_01_xl.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/orimono.jpg"
+      }
+    },
+    {
+      "id": "kiryu--zoo",
+      "official": "https://www.city.kiryu.lg.jp/zoo/",
+      "contentSources": [
+        "https://www.city.kiryu.lg.jp/zoo/"
+      ],
+      "coordinate": {
+        "lat": 36.4204631,
+        "lng": 139.3399109,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/438892179",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kiryu.lg.jp/zoo/",
+        "imageUrl": "https://www.city.kiryu.lg.jp/_res/projects/default_project/_page_/001/000/021/20260602zootop.png",
+        "referencePath": "design/photo-references/expansion/kiryu/zoo.png"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.city.kiryu.lg.jp/zoo/",
+        "imageUrl": "https://www.city.kiryu.lg.jp/_res/projects/default_project/_page_/001/000/021/20260602zootop.png",
+        "referencePath": "design/photo-references/expansion/kiryu/zoo.png"
+      }
+    },
+    {
+      "id": "kiryu--azuma",
+      "official": "https://www.ryomo-kouiki.jp/location/gunma/kiryu/984.html",
+      "contentSources": [
+        "https://www.ryomo-kouiki.jp/location/gunma/kiryu/984.html"
+      ],
+      "coordinate": {
+        "lat": 36.4208103,
+        "lng": 139.3345966,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/438893714",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "設施或園區代表點，非指定入口；抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ryomo-kouiki.jp/location/gunma/kiryu/984.html",
+        "imageUrl": "https://www.ryomo-kouiki.jp/wp-content/uploads/2015/03/ki-26.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/azuma.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ryomo-kouiki.jp/location/gunma/kiryu/984.html",
+        "imageUrl": "https://www.ryomo-kouiki.jp/wp-content/uploads/2015/03/ki-26.jpg",
+        "referencePath": "design/photo-references/expansion/kiryu/azuma.jpg"
+      }
+    }
+  ],
+  "walking": {
+    "provider": "OSRM OpenStreetMap.de routed-foot",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/139.3428557,36.4164234;139.3431216,36.416555;139.3461826,36.4218434;139.3469688,36.420415?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "rawResponse": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 5.36,
+              "summary": "",
+              "duration": 32.6,
+              "distance": 40.6
+            },
+            {
+              "steps": [],
+              "weight": 82.87,
+              "summary": "",
+              "duration": 682.4,
+              "distance": 850.4
+            },
+            {
+              "steps": [],
+              "weight": 24.32,
+              "summary": "",
+              "duration": 211,
+              "distance": 261.4
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 112.55,
+          "duration": 926,
+          "distance": 1152.4
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "FfMxgZrzMYFKBAAAagAAAAAAAAAAAAAATrrbQtPlKEEAAAAAAAAAAG4DAABVAAAAAAAAAAAAAABxAgAA7DNOCHqrKwIINE4Ip6srAgAAjxIAAAAA",
+          "location": [
+            139.342828,
+            36.416378
+          ],
+          "name": "",
+          "distance": 5.589284952
+        },
+        {
+          "hint": "cPQxgYdXZYakAgAAXAAAAAAAAAAAAAAAgGk9QoG1zUAAAAAAAAAAAHoBAAA0AAAAAAAAAAAAAABxAgAAIzROCJOsKwISNU4IK6wrAgAADw0AAAAA",
+          "location": [
+            139.342883,
+            36.416659
+          ],
+          "name": "桐生田沼線",
+          "distance": 24.34242947
+        },
+        {
+          "hint": "K_gxgct0goNsAQAAjQAAAAkDAAAAAAAAiP0uQkErh0HVZrpCAAAAAF0BAACIAAAA6QIAAAAAAABxAgAAIkFOCMvAKwIHQU4I08ArAgYAXwEAAAAA",
+          "location": [
+            139.34621,
+            36.421835
+          ],
+          "name": "",
+          "distance": 2.578899269
+        },
+        {
+          "hint": "b_cxgbz3MYErAAAAywEAAFEFAAAAAAAASWV9QILeJELm8PRCAAAAAB8AAABKAQAA1AMAAAAAAABxAgAAtUNOCD66KwIZRE4IP7srAgYA_xEAAAAA",
+          "location": [
+            139.346869,
+            36.420158
+          ],
+          "name": "",
+          "distance": 29.8952311
+        }
+      ]
+    },
+    "visitMinutes": [
+      85,
+      140
+    ],
+    "visitEstimateNote": "編輯估算四處參訪、逛店與喫茶停留，未含候位及車站接駁；步行時間採道路網路回傳值。"
+  },
+  "geocoding": [
+    {
+      "id": "kiryu--station",
+      "query": "群馬県桐生市宮前町2丁目1-33",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E6%A1%90%E7%94%9F%E5%B8%82%E5%AE%AE%E5%89%8D%E7%94%BA2%E4%B8%81%E7%9B%AE1-33",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.333954,
+              36.413773
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "群馬県桐生市宮前町二丁目１番３３号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kiryu--machinaka",
+      "query": "群馬県桐生市本町1丁目7-4",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E6%A1%90%E7%94%9F%E5%B8%82%E6%9C%AC%E7%94%BA1%E4%B8%81%E7%9B%AE7-4",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.344101,
+              36.418556
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "群馬県桐生市本町一丁目７番４号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kiryu--orimono",
+      "query": "群馬県桐生市永楽町6-6",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E6%A1%90%E7%94%9F%E5%B8%82%E6%B0%B8%E6%A5%BD%E7%94%BA6-6",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.337143,
+              36.412521
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "群馬県桐生市永楽町６番６号"
+          }
+        }
+      ]
+    }
+  ]
+}

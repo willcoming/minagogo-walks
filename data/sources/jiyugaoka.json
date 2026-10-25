@@ -1,0 +1,440 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "jiyugaoka--montblanc",
+      "official": "https://jiyugaoka-muse-square.jp/shop/detail.html?act=11291",
+      "contentSources": [
+        "https://jiyugaoka-muse-square.jp/shop/detail.html?act=11291"
+      ],
+      "coordinate": {
+        "lat": 35.608524,
+        "lng": 139.669067,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-29-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://jiyugaoka-muse-square.jp/shop/detail.html?act=11291",
+        "imageUrl": "https://jiyugaoka-muse-square.jp/contents/shopinfo/jms01/128a57ef1372df05aa55523a7a05e024_01_01.jpg",
+        "referencePath": "design/photo-references/expansion/jiyugaoka/montblanc.jpg"
+      }
+    },
+    {
+      "id": "jiyugaoka--hikari",
+      "official": "https://www.hikarigai.com/",
+      "contentSources": [
+        "https://www.hikarigai.com/",
+        "https://www.city.meguro.tokyo.jp/meguroplus/special_20240315.html"
+      ],
+      "coordinate": {
+        "lat": 35.609245,
+        "lng": 139.669708,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-27-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.meguro.tokyo.jp/meguroplus/special_20240315.html",
+        "imageUrl": "https://www.city.meguro.tokyo.jp/shared/templates/ownedmedia_koho/images/20240315/img11.jpg",
+        "referencePath": "design/photo-references/expansion/jiyugaoka/hikari.jpg"
+      }
+    },
+    {
+      "id": "jiyugaoka--kurofune",
+      "official": "https://www.jiyugaoka-abc.com/shopguide/gourmet/257200.html",
+      "contentSources": [
+        "https://www.jiyugaoka-abc.com/shopguide/gourmet/257200.html"
+      ],
+      "coordinate": {
+        "lat": 35.609863,
+        "lng": 139.669464,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-24-11",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.jiyugaoka-abc.com/shopguide/gourmet/257200.html",
+        "imageUrl": "https://www.jiyugaoka-abc.com/wp-content/uploads/2011/08/【黒船】自由が丘本店外観-210x210.jpg",
+        "referencePath": "design/photo-references/expansion/jiyugaoka/kurofune.jpg"
+      }
+    },
+    {
+      "id": "jiyugaoka--kumano",
+      "official": "https://www.mec-h.com/town/mh-jiyugaoka/35",
+      "contentSources": [
+        "https://www.mec-h.com/town/mh-jiyugaoka/35",
+        "https://meguro-kanko.com/map/pdf/meguro_map2024.pdf"
+      ],
+      "coordinate": {
+        "lat": 35.609863,
+        "lng": 139.669296,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-24-12",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.mec-h.com/town/mh-jiyugaoka/35",
+        "imageUrl": "https://www.mec-h.com/town/mh-jiyugaoka/wp-content/uploads/2017/03/216726_kenjiyugaoka240.jpg",
+        "referencePath": "design/photo-references/expansion/jiyugaoka/kumano.jpg"
+      }
+    },
+    {
+      "id": "jiyugaoka--lavita",
+      "official": "https://www.jiyugaoka-abc.com/?p=16128",
+      "contentSources": [
+        "https://www.jiyugaoka-abc.com/?p=16128"
+      ],
+      "coordinate": {
+        "lat": 35.61063,
+        "lng": 139.668396,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-8-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.jiyugaoka-abc.com/?p=16128",
+        "imageUrl": "https://www.jiyugaoka-abc.com/wp-content/uploads/2022/10/030901.jpg",
+        "referencePath": "design/photo-references/expansion/jiyugaoka/lavita.jpg"
+      }
+    },
+    {
+      "id": "jiyugaoka--todays",
+      "official": "https://www.todaysspecial.jp/storelocation/jiyugaoka/",
+      "contentSources": [
+        "https://www.todaysspecial.jp/storelocation/jiyugaoka/"
+      ],
+      "coordinate": {
+        "lat": 35.609325,
+        "lng": 139.667358,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-17-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.todaysspecial.jp/storelocation/jiyugaoka/",
+        "imageUrl": "https://www.todaysspecial.jp/wp-content/uploads/2025/02/jiyugaoka.jpg",
+        "referencePath": "design/photo-references/expansion/jiyugaoka/todays.jpg"
+      }
+    },
+    {
+      "id": "jiyugaoka--hachinoya",
+      "official": "https://www.jiyugaoka-abc.com/?p=16112",
+      "contentSources": [
+        "https://www.jiyugaoka-abc.com/?p=16112"
+      ],
+      "coordinate": {
+        "lat": 35.608025,
+        "lng": 139.668121,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-10-6",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.jiyugaoka-abc.com/?p=16112",
+        "imageUrl": "https://www.jiyugaoka-abc.com/wp-content/uploads/2011/09/344-210x210.jpg",
+        "referencePath": "design/photo-references/expansion/jiyugaoka/hachinoya.jpg"
+      }
+    },
+    {
+      "id": "jiyugaoka--katakana",
+      "official": "https://www.jiyugaoka-abc.com/shopguide/living_life/304000.html",
+      "contentSources": [
+        "https://www.jiyugaoka-abc.com/shopguide/living_life/304000.html"
+      ],
+      "coordinate": {
+        "lat": 35.606224,
+        "lng": 139.669952,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A25-20-21",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.jiyugaoka-abc.com/shopguide/living_life/304000.html",
+        "imageUrl": "https://www.jiyugaoka-abc.com/wp-content/uploads/2022/10/304000-210x210.jpeg",
+        "referencePath": "design/photo-references/expansion/jiyugaoka/katakana.jpg"
+      }
+    },
+    {
+      "id": "jiyugaoka--greenway",
+      "official": "https://www.city.meguro.tokyo.jp/shougaigakushuu/bunkasports/areanavi/kuhonbutu.html",
+      "contentSources": [
+        "https://www.city.meguro.tokyo.jp/shougaigakushuu/bunkasports/areanavi/kuhonbutu.html"
+      ],
+      "coordinate": {
+        "lat": 35.607826,
+        "lng": 139.671112,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-5",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.meguro.tokyo.jp/shougaigakushuu/bunkasports/areanavi/kuhonbutu.html",
+        "imageUrl": "https://www.city.meguro.tokyo.jp/images/1810/m_s_08.jpg",
+        "referencePath": "design/photo-references/expansion/jiyugaoka/greenway.jpg"
+      }
+    },
+    {
+      "id": "jiyugaoka--onibus",
+      "official": "https://onibuscoffee.com/pages/locations/jiyugaoka",
+      "contentSources": [
+        "https://onibuscoffee.com/pages/locations/jiyugaoka"
+      ],
+      "coordinate": {
+        "lat": 35.608719,
+        "lng": 139.671936,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%B7%91%E3%81%8C%E4%B8%982-24-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://onibuscoffee.com/pages/locations/jiyugaoka",
+        "imageUrl": "https://onibuscoffee.com/cdn/shop/files/locations_jiyugaoka.jpg?v=1724035392",
+        "referencePath": "design/photo-references/expansion/jiyugaoka/onibus.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "jiyugaoka--montblanc",
+      "query": "東京都目黒区自由が丘1-29-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-29-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.669067,
+              35.608524
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都目黒区自由が丘一丁目２９番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jiyugaoka--hikari",
+      "query": "東京都目黒区自由が丘1-27-2",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-27-2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.669708,
+              35.609245
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都目黒区自由が丘一丁目２７番２号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jiyugaoka--kurofune",
+      "query": "東京都目黒区自由が丘1-24-11",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-24-11",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.669464,
+              35.609863
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都目黒区自由が丘一丁目２４番１１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jiyugaoka--kumano",
+      "query": "東京都目黒区自由が丘1-24-12",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-24-12",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.669296,
+              35.609863
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都目黒区自由が丘一丁目２４番１２号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jiyugaoka--lavita",
+      "query": "東京都目黒区自由が丘2-8-3",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-8-3",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.668396,
+              35.61063
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都目黒区自由が丘二丁目８番３号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jiyugaoka--todays",
+      "query": "東京都目黒区自由が丘2-17-8",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-17-8",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.667358,
+              35.609325
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都目黒区自由が丘二丁目１７番８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jiyugaoka--hachinoya",
+      "query": "東京都目黒区自由が丘2-10-6",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%982-10-6",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.668121,
+              35.608025
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都目黒区自由が丘二丁目１０番６号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jiyugaoka--katakana",
+      "query": "東京都世田谷区奥沢5-20-21",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A25-20-21",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.669952,
+              35.606224
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都世田谷区奥沢五丁目２０番２１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jiyugaoka--greenway",
+      "query": "東京都目黒区自由が丘1-5",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%981-5",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.671112,
+              35.607826
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都目黒区自由が丘一丁目５番"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jiyugaoka--onibus",
+      "query": "東京都目黒区緑が丘2-24-8",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%B7%91%E3%81%8C%E4%B8%982-24-8",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.671936,
+              35.608719
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都目黒区緑が丘二丁目２４番８号"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "kyoto-fushimi--sasakipan",
+      "order": 1,
+      "name": "ササキパン本店",
+      "address": "京都府京都市伏見区納屋町117",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "街角麵包店，留著日常的味道",
+      "descriptionParagraphs": [
+        "從大正時代延續的ササキパン，保留親切的街坊麵包店面貌。玻璃櫃與麵包盤讓伏見散步接上當地人的日常採買。",
+        "可挑一份小麵包當作途中點心，與後面的咖啡休息彈性搭配。街道仍是生活空間，停看店頭時留出通行位置。"
+      ],
+      "description": "從大正時代延續的ササキパン，保留親切的街坊麵包店面貌。玻璃櫃與麵包盤讓伏見散步接上當地人的日常採買。\n\n可挑一份小麵包當作途中點心，與後面的咖啡休息彈性搭配。街道仍是生活空間，停看店頭時留出通行位置。",
+      "note": "",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.932301,
+        "lng": 135.760132,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E7%B4%8D%E5%B1%8B%E7%94%BA117",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-fushimi/sasakipan.webp",
+        "alt": "ササキパン本店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-fushimi--kappa",
+      "order": 2,
+      "name": "黃櫻 Kappa Country",
+      "address": "京都府京都市伏見区塩屋町228",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "河童、釀酒與老酒藏的記憶",
+      "descriptionParagraphs": [
+        "黃櫻的複合設施結合資料展示、商店與餐飲空間。酒造器物與河童相關展示，讓品牌故事比單純買一瓶酒更有趣。",
+        "可作為月桂冠紀念館之外的替換選項，依興趣選擇一處深入看看。若安排正餐，記得從其他停留中挪出時間。"
+      ],
+      "description": "黃櫻的複合設施結合資料展示、商店與餐飲空間。酒造器物與河童相關展示，讓品牌故事比單純買一瓶酒更有趣。\n\n可作為月桂冠紀念館之外的替換選項，依興趣選擇一處深入看看。若安排正餐，記得從其他停留中挪出時間。",
+      "note": "",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.93095,
+        "lng": 135.760437,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%A1%A9%E5%B1%8B%E7%94%BA228",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-fushimi/kappa.webp",
+        "alt": "黃櫻 Kappa Country的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-fushimi--ryoma",
+      "order": 3,
+      "name": "龍馬通商店街",
+      "address": "京都府京都市伏見区車町",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "町家門面與彩繪，讓腳步自由轉彎",
+      "descriptionParagraphs": [
+        "龍馬通商店街以町家風格門面與復古街景連接伏見的小店。部分鐵捲門上的龍馬彩繪，也替街巷留下不同於酒藏的表情。",
+        "沿著商店街慢慢看，遇見喜歡的小店再停下來。彩繪能否看見取決於店門開合，不必為了找齊圖案而繞路。"
+      ],
+      "description": "龍馬通商店街以町家風格門面與復古街景連接伏見的小店。部分鐵捲門上的龍馬彩繪，也替街巷留下不同於酒藏的表情。\n\n沿著商店街慢慢看，遇見喜歡的小店再停下來。彩繪能否看見取決於店門開合，不必為了找齊圖案而繞路。",
+      "note": "",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.930809,
+        "lng": 135.75946,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E8%BB%8A%E7%94%BA",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-fushimi/ryoma.webp",
+        "alt": "龍馬通商店街的日系水彩插圖"
+      },
+      "recommendation": "向西走進商店街，挑幾間有興趣的小店，自由安排點心或休息。"
+    },
+    {
+      "id": "kyoto-fushimi--teradaya",
+      "order": 4,
+      "name": "寺田屋",
+      "address": "京都府京都市伏見区南浜町263",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在船宿門面前，讀一段幕末故事",
+      "descriptionParagraphs": [
+        "寺田屋與坂本龍馬的故事相連，老式船宿門面讓人想像伏見水運興盛時的街景。現在的建築為火災後重建，參觀時可留意這段沿革。",
+        "適合在商店街與京橋之間順路停留。想入內參觀再依開放情況決定，戶外看門面也能接續這段老街散步。"
+      ],
+      "description": "寺田屋與坂本龍馬的故事相連，老式船宿門面讓人想像伏見水運興盛時的街景。現在的建築為火災後重建，參觀時可留意這段沿革。\n\n適合在商店街與京橋之間順路停留。想入內參觀再依開放情況決定，戶外看門面也能接續這段老街散步。",
+      "note": "",
+      "official": "https://www.kyoto-kankou.or.jp/info_search/3710",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.930389,
+        "lng": 135.75943,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%8D%97%E6%B5%9C%E7%94%BA263",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-fushimi/teradaya.webp",
+        "alt": "寺田屋的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-fushimi--kyobashi",
+      "order": 5,
+      "name": "京橋",
+      "address": "京都府京都市伏見区京橋町",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從一座橋，看見伏見的水運輪廓",
+      "descriptionParagraphs": [
+        "京橋周邊曾是往來大坂與京都船運的重要節點。橋欄、水面與兩岸街景，讓酒藏之外的伏見歷史有了具體輪廓。",
+        "走到橋邊看看水流，再朝南浜町或中書島方向延伸即可。推薦散步不含乘船，想搭船時請另留候船與航程時間。"
+      ],
+      "description": "京橋周邊曾是往來大坂與京都船運的重要節點。橋欄、水面與兩岸街景，讓酒藏之外的伏見歷史有了具體輪廓。\n\n走到橋邊看看水流，再朝南浜町或中書島方向延伸即可。推薦散步不含乘船，想搭船時請另留候船與航程時間。",
+      "note": "",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.930641,
+        "lng": 135.758682,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E4%BA%AC%E6%A9%8B%E7%94%BA",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-fushimi/kyobashi.webp",
+        "alt": "京橋的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-fushimi--yumehyakushu",
+      "order": 6,
+      "name": "伏見夢百衆",
+      "address": "京都府京都市伏見区南浜町247",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在舊本店的木窗旁，坐下喝杯咖啡",
+      "descriptionParagraphs": [
+        "伏見夢百衆使用月桂冠舊本店建築，木構、欄間與老屋細節都值得慢慢看。咖啡與甘味讓不喝酒的人也能享受伏見的休息時光。",
+        "安排在酒藏參觀之後，讓這裡成為午後的一段空白。用當天的心情選飲品，再決定要往水邊走或直接前往車站。"
+      ],
+      "description": "伏見夢百衆使用月桂冠舊本店建築，木構、欄間與老屋細節都值得慢慢看。咖啡與甘味讓不喝酒的人也能享受伏見的休息時光。\n\n安排在酒藏參觀之後，讓這裡成為午後的一段空白。用當天的心情選飲品，再決定要往水邊走或直接前往車站。",
+      "note": "",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.930042,
+        "lng": 135.760834,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%8D%97%E6%B5%9C%E7%94%BA247",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-fushimi/yumehyakushu.webp",
+        "alt": "伏見夢百衆的日系水彩插圖"
+      },
+      "recommendation": "在舊本店建築裡喝杯咖啡休息。"
+    },
+    {
+      "id": "kyoto-fushimi--gekkeikan",
+      "order": 7,
+      "name": "月桂冠大倉紀念館",
+      "address": "京都府京都市伏見区南浜町247",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從釀酒工具，讀懂酒藏街景",
+      "descriptionParagraphs": [
+        "紀念館透過釀酒工具與歷史資料介紹伏見的清酒文化。白牆與深色木構的外觀，也讓人看見酒藏與街道相處的尺度。",
+        "這是推薦路線中主要的室內停留，先確認預約與開放安排。若當天不便入館，可欣賞外觀並把時間轉給京橋與老街。"
+      ],
+      "description": "紀念館透過釀酒工具與歷史資料介紹伏見的清酒文化。白牆與深色木構的外觀，也讓人看見酒藏與街道相處的尺度。\n\n這是推薦路線中主要的室內停留，先確認預約與開放安排。若當天不便入館，可欣賞外觀並把時間轉給京橋與老街。",
+      "note": "入館方式與預約名額請先查看館方公告。",
+      "official": "https://shugakuryoko.kyoto.travel/spot/490/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.930042,
+        "lng": 135.760834,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%8D%97%E6%B5%9C%E7%94%BA247",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-fushimi/gekkeikan.webp",
+        "alt": "月桂冠大倉紀念館的日系水彩插圖"
+      },
+      "recommendation": "認識伏見的釀酒工具與酒藏歷史。"
+    },
+    {
+      "id": "kyoto-fushimi--chokenji",
+      "order": 8,
+      "name": "長建寺",
+      "address": "京都府京都市伏見区東柳町511",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "紅色龍宮門，藏在水邊街角",
+      "descriptionParagraphs": [
+        "長建寺以紅色龍宮門與弁財天信仰讓人留下印象。低矮圓拱、瓦頂與境內樹木，在伏見的酒藏街景間換上一種色彩。",
+        "從南浜町順路走來，安靜參拜後可往中書島站離開。這一站適合短暫停留，讓散步尾聲維持輕鬆。"
+      ],
+      "description": "長建寺以紅色龍宮門與弁財天信仰讓人留下印象。低矮圓拱、瓦頂與境內樹木，在伏見的酒藏街景間換上一種色彩。\n\n從南浜町順路走來，安靜參拜後可往中書島站離開。這一站適合短暫停留，讓散步尾聲維持輕鬆。",
+      "note": "",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.928391,
+        "lng": 135.760635,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%9D%B1%E6%9F%B3%E7%94%BA511",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-fushimi/chokenji.webp",
+        "alt": "長建寺的日系水彩插圖"
+      },
+      "recommendation": "沿水邊街道往南，到紅色龍宮門前參拜後，再步行到中書島站。"
+    },
+    {
+      "id": "kyoto-fushimi--oishi",
+      "order": 9,
+      "name": "大石天狗堂",
+      "address": "京都府京都市伏見区両替町2丁目350-1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "在老舖裡，看歌牌與遊戲的手感",
+      "descriptionParagraphs": [
+        "大石天狗堂是伏見的歌牌老舖，也經營圍棋、將棋等傳統遊戲用品。紙卡圖樣與盒裝器物，讓散步多了一種觀看工藝的方式。",
+        "適合從御香宮往酒藏途中順路停留。喜歡圖像與傳統遊戲的人，可以慢慢挑選；不購物也能欣賞店頭的木格風景。"
+      ],
+      "description": "大石天狗堂是伏見的歌牌老舖，也經營圍棋、將棋等傳統遊戲用品。紙卡圖樣與盒裝器物，讓散步多了一種觀看工藝的方式。\n\n適合從御香宮往酒藏途中順路停留。喜歡圖像與傳統遊戲的人，可以慢慢挑選；不購物也能欣賞店頭的木格風景。",
+      "note": "",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.930317,
+        "lng": 135.764175,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E4%B8%A1%E6%9B%BF%E7%94%BA2%E4%B8%81%E7%9B%AE350-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-fushimi/oishi.webp",
+        "alt": "大石天狗堂的日系水彩插圖"
+      },
+      "recommendation": "看看歌牌圖樣與傳統遊戲用品；不安排未公告的工廠參觀。"
+    },
+    {
+      "id": "kyoto-fushimi--gokonomiya",
+      "order": 10,
+      "name": "御香宮神社",
+      "address": "京都府京都市伏見区御香宮門前町174",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從社殿與名水，開啟伏見散步",
+      "descriptionParagraphs": [
+        "御香宮保留著醒目的門樓與桃山風格裝飾，境內的御香水也與伏見的名水故事相連。從車站走來，適合先用參拜把腳步放慢。",
+        "先看建築與境內風景，再往西側商店街走。這一站不必停留太久，將更多時間留給後面的酒藏與老屋喫茶。"
+      ],
+      "description": "御香宮保留著醒目的門樓與桃山風格裝飾，境內的御香水也與伏見的名水故事相連。從車站走來，適合先用參拜把腳步放慢。\n\n先看建築與境內風景，再往西側商店街走。這一站不必停留太久，將更多時間留給後面的酒藏與老屋喫茶。",
+      "note": "",
+      "official": "https://www.city.kyoto.lg.jp/fushimi/page/0000336748.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.934155,
+        "lng": 135.767197,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E5%BE%A1%E9%A6%99%E5%AE%AE%E9%96%80%E5%89%8D%E7%94%BA174",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-fushimi/gokonomiya.webp",
+        "alt": "御香宮神社的日系水彩插圖"
+      },
+      "recommendation": "看桃山風格社殿與境內名水。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "kyoto-fushimi-slow-walk",
+      "name": "名水、酒藏與老屋咖啡",
+      "ids": [
+        "kyoto-fushimi--gokonomiya",
+        "kyoto-fushimi--gekkeikan",
+        "kyoto-fushimi--yumehyakushu"
+      ],
+      "start": {
+        "name": "桃山御陵前站",
+        "address": "京都府京都市伏見区観音寺町 近鉄桃山御陵前駅",
+        "access": "近鐵京都線；也可由相鄰的京阪伏見桃山站出發"
+      },
+      "end": {
+        "name": "中書島站",
+        "address": "京都府京都市伏見区葭島矢倉町 京阪中書島駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從御香宮走向酒藏與老屋，沿京橋看一段水邊風景。",
+      "note": "月桂冠紀念館先確認預約；想以戶外為主，可改走京橋與長建寺。完整用餐、乘船與候位另留時間。",
+      "stopNotes": {
+        "kyoto-fushimi--gokonomiya": "看桃山風格社殿與境內名水。",
+        "kyoto-fushimi--gekkeikan": "認識伏見的釀酒工具與酒藏歷史。",
+        "kyoto-fushimi--yumehyakushu": "在舊本店建築裡喝杯咖啡休息。"
+      },
+      "art": "/art/walks/kyoto-fushimi/yumehyakushu.webp"
+    },
+    {
+      "id": "kyoto-fushimi-cards-and-waterside-lanes",
+      "name": "歌牌老舖與水邊街巷",
+      "ids": [
+        "kyoto-fushimi--oishi",
+        "kyoto-fushimi--ryoma",
+        "kyoto-fushimi--chokenji"
+      ],
+      "start": {
+        "name": "桃山御陵前站",
+        "address": "京都府京都市伏見区観音寺町 近鉄桃山御陵前駅",
+        "access": "近鐵京都線；也可由相鄰的京阪伏見桃山站出發"
+      },
+      "end": {
+        "name": "中書島站",
+        "address": "京都府京都市伏見区葭島矢倉町 京阪中書島駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "從歌牌與棋具老舖向西逛小街，再走到紅色寺門，認識酒藏之外的伏見。",
+      "note": "含三處重點、步行與 30～45 分鐘自由探索。大石天狗堂週日及國定假日休業；長建寺宜於日間參拜。店家各有營業日，完整用餐、酒藏入館與乘船另留時間。",
+      "stopNotes": {
+        "kyoto-fushimi--oishi": "看看歌牌圖樣與傳統遊戲用品；不安排未公告的工廠參觀。",
+        "kyoto-fushimi--ryoma": "向西走進商店街，挑幾間有興趣的小店，自由安排點心或休息。",
+        "kyoto-fushimi--chokenji": "沿水邊街道往南，到紅色龍宮門前參拜後，再步行到中書島站。"
+      },
+      "art": "/art/walks/kyoto-fushimi/oishi.webp"
+    }
+  ],
+  "defaultSelection": "kyoto-fushimi-slow-walk"
+}

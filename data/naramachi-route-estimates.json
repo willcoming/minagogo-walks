@@ -1,0 +1,211 @@
+{
+  "checkedAt": "2026-10-24",
+  "routes": [
+    {
+      "id": "naramachi-day",
+      "source": "FOSSGIS OSRM foot",
+      "sourceUrl": "https://routing.openstreetmap.de/about.html",
+      "license": "ODbL 1.0",
+      "checkedAt": "2026-10-24",
+      "ids": [
+        "nara_sarusawa",
+        "nara_nakagawa",
+        "nara_gangoji",
+        "nara_kanakana",
+        "nara_nigiwai",
+        "nara_koshi"
+      ],
+      "response": {
+        "code": "Ok",
+        "routes": [
+          {
+            "legs": [
+              {
+                "steps": [],
+                "weight": 20.63,
+                "summary": "",
+                "duration": 169,
+                "distance": 211.2
+              },
+              {
+                "steps": [],
+                "weight": 53.44,
+                "summary": "",
+                "duration": 452.8,
+                "distance": 566.3
+              },
+              {
+                "steps": [],
+                "weight": 22.19,
+                "summary": "",
+                "duration": 182.3,
+                "distance": 227.9
+              },
+              {
+                "steps": [],
+                "weight": 26.18,
+                "summary": "",
+                "duration": 209.5,
+                "distance": 261.9
+              },
+              {
+                "steps": [],
+                "weight": 27.51,
+                "summary": "",
+                "duration": 220.2,
+                "distance": 275
+              }
+            ],
+            "weight_name": "routability",
+            "weight": 149.95,
+            "duration": 1233.8,
+            "distance": 1542.3
+          }
+        ],
+        "waypoints": [
+          {
+            "hint": "UV4PgCksZIAeAgAAhgIAAAAAAABuAAAAj9pYQtU9gUIAAAAA3WQvQbIBAAAFAgAAAAAAAFgAAABxAgAAGZ4YCHgzEQKlnRgIXDIRAgAADxIAAAAA",
+            "location": [
+              135.831065,
+              34.68172
+            ],
+            "name": "",
+            "distance": 33.25076525
+          },
+          {
+            "hint": "znukgdt7pIFBAQAApgAAAAAAAAAAAAAASa8AQu07hEEAAAAAAAAAAAEBAACFAAAAAAAAAAAAAABxAgAAppkYCA0xEQJzmRgIDTERAgAAfxYAAAAA",
+            "location": [
+              135.829926,
+              34.681101
+            ],
+            "name": "",
+            "distance": 4.674029757
+          },
+          {
+            "hint": "gXkGiYN5BokNAAAANgAAAAAAAAAAAAAAfMvGP2z6zUAAAAAAAAAAAAwAAAA0AAAAAAAAAAAAAABxAgAAQZ8YCIEjEQIXnxgIgCMRAgAALwsAAAAA",
+            "location": [
+              135.831361,
+              34.677633
+            ],
+            "name": "",
+            "distance": 3.85079922
+          },
+          {
+            "hint": "gR5hgFrn9oCABAAAzQAAAAAAAAAAAAAAZXzmQkKPo0EAAAAAAAAAAJoDAACkAAAAAAAAAAAAAABxAgAAe6YYCNohEQJ4phgILSIRAgAAjwUAAAAA",
+            "location": [
+              135.833211,
+              34.67721
+            ],
+            "name": "清水通り",
+            "distance": 9.21167885
+          },
+          {
+            "hint": "wB1hgMub0oNAAAAA2AIAAAAAAABSAgAAY-rNQGqPkUIAAAAAV6NtQjMAAABHAgAAAAAAANsBAABxAgAAqZsYCPEhEQJ1mxgI8iERAgAADwAAAAAA",
+            "location": [
+              135.830441,
+              34.677233
+            ],
+            "name": "上ツ道（上街道）",
+            "distance": 4.766968383
+          },
+          {
+            "hint": "uh1hgDPn9oDFAAAAxgAAAAAAAACRAQAAjvidQf74nUEAAAAAkE8gQp0AAACfAAAAAAAAAEEBAABxAgAALJwYCFAZEQKLnBgIUBkRAgAAfxYAAAAA",
+            "location": [
+              135.830572,
+              34.675024
+            ],
+            "name": "上ツ道（上街道）",
+            "distance": 8.706526018
+          }
+        ]
+      },
+      "note": "Road-network estimates snapped from open representative coordinates. Does not include visits, queues, extra shopping or station access."
+    },
+    {
+      "id": "machiya",
+      "source": "FOSSGIS OSRM foot",
+      "sourceUrl": "https://routing.openstreetmap.de/about.html",
+      "license": "ODbL 1.0",
+      "checkedAt": "2026-10-24",
+      "ids": [
+        "nara_sarusawa",
+        "nara_gangoji",
+        "nara_nigiwai",
+        "nara_koshi"
+      ],
+      "response": {
+        "code": "Ok",
+        "routes": [
+          {
+            "legs": [
+              {
+                "steps": [],
+                "weight": 57.12,
+                "summary": "",
+                "duration": 449.8,
+                "distance": 560
+              },
+              {
+                "steps": [],
+                "weight": 25.33,
+                "summary": "",
+                "duration": 207.4,
+                "distance": 259.3
+              },
+              {
+                "steps": [],
+                "weight": 27.51,
+                "summary": "",
+                "duration": 220.2,
+                "distance": 275
+              }
+            ],
+            "weight_name": "routability",
+            "weight": 109.96,
+            "duration": 877.4,
+            "distance": 1094.3
+          }
+        ],
+        "waypoints": [
+          {
+            "hint": "UV4PgCksZIAeAgAAhgIAAAAAAABuAAAAj9pYQtU9gUIAAAAA3WQvQbIBAAAFAgAAAAAAAFgAAABxAgAAGZ4YCHgzEQKlnRgIXDIRAgAADxIAAAAA",
+            "location": [
+              135.831065,
+              34.68172
+            ],
+            "name": "",
+            "distance": 33.25076525
+          },
+          {
+            "hint": "gXkGiYN5BokNAAAANgAAAAAAAAAAAAAAfMvGP2z6zUAAAAAAAAAAAAwAAAA0AAAAAAAAAAAAAABxAgAAQZ8YCIEjEQIXnxgIgCMRAgAALwsAAAAA",
+            "location": [
+              135.831361,
+              34.677633
+            ],
+            "name": "",
+            "distance": 3.85079922
+          },
+          {
+            "hint": "wB1hgMub0oNAAAAA2AIAAAAAAABSAgAAY-rNQGqPkUIAAAAAV6NtQjMAAABHAgAAAAAAANsBAABxAgAAqZsYCPEhEQJ1mxgI8iERAgAADwAAAAAA",
+            "location": [
+              135.830441,
+              34.677233
+            ],
+            "name": "上ツ道（上街道）",
+            "distance": 4.766968383
+          },
+          {
+            "hint": "uh1hgDPn9oDFAAAAxgAAAAAAAACRAQAAjvidQf74nUEAAAAAkE8gQp0AAACfAAAAAAAAAEEBAABxAgAALJwYCFAZEQKLnBgIUBkRAgAAfxYAAAAA",
+            "location": [
+              135.830572,
+              34.675024
+            ],
+            "name": "上ツ道（上街道）",
+            "distance": 8.706526018
+          }
+        ]
+      },
+      "note": "Road-network estimates snapped from open representative coordinates. Does not include visits, queues, extra shopping or station access."
+    }
+  ]
+}

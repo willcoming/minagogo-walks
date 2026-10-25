@@ -1,0 +1,388 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與商店會資料查證後，以繁體中文原創改寫。插圖依實景照片獨立生成。",
+  "places": [
+    {
+      "id": "shibamata--taishakuten",
+      "official": "https://katsushika-kanko.jp/shiba/001taisyakuten.html",
+      "contentSources": [
+        "https://katsushika-kanko.jp/shiba/001taisyakuten.html"
+      ],
+      "coordinate": {
+        "lat": 35.758228,
+        "lng": 139.877762,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE10%E7%95%AA3%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://katsushika-kanko.jp/shiba/001taisyakuten.html",
+        "imageUrl": "https://katsushika-kanko.jp/shiba/img/001taisyakuten01.jpg",
+        "referencePath": "design/photo-references/expansion/shibamata/taishakuten.jpg"
+      }
+    },
+    {
+      "id": "shibamata--yamamoto",
+      "official": "https://katsushika-kanko.jp/shiba/002yamamototei.html",
+      "contentSources": [
+        "https://katsushika-kanko.jp/shiba/002yamamototei.html"
+      ],
+      "coordinate": {
+        "lat": 35.757721,
+        "lng": 139.880188,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE19%E7%95%AA32%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://katsushika-kanko.jp/shiba/002yamamototei.html",
+        "imageUrl": "https://katsushika-kanko.jp/shiba/img/002yamamototei01.jpg",
+        "referencePath": "design/photo-references/expansion/shibamata/yamamoto.jpg"
+      }
+    },
+    {
+      "id": "shibamata--tora",
+      "official": "https://katsushika-kanko.jp/shiba/005toramus.html",
+      "contentSources": [
+        "https://katsushika-kanko.jp/shiba/005toramus.html"
+      ],
+      "coordinate": {
+        "lat": 35.756874,
+        "lng": 139.880692,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%886%E4%B8%81%E7%9B%AE22%E7%95%AA19%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://katsushika-kanko.jp/shiba/005toramus.html",
+        "imageUrl": "https://katsushika-kanko.jp/shiba/img/005toramus01.jpg",
+        "referencePath": "design/photo-references/expansion/shibamata/tora.jpg"
+      }
+    },
+    {
+      "id": "shibamata--yamada",
+      "official": "https://katsushika-kanko.jp/shiba/005toramus.html",
+      "contentSources": [
+        "https://katsushika-kanko.jp/shiba/005toramus.html"
+      ],
+      "coordinate": {
+        "lat": 35.756874,
+        "lng": 139.880692,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%886%E4%B8%81%E7%9B%AE22%E7%95%AA19%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://katsushika-kanko.jp/shiba/005toramus.html",
+        "imageUrl": "https://katsushika-kanko.jp/shiba/img/column_yamadams-img.jpg",
+        "referencePath": "design/photo-references/expansion/shibamata/yamada.jpg"
+      }
+    },
+    {
+      "id": "shibamata--park",
+      "official": "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html",
+      "contentSources": [
+        "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html"
+      ],
+      "coordinate": {
+        "lat": 35.756874,
+        "lng": 139.880692,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%886%E4%B8%81%E7%9B%AE22%E7%95%AA19%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html",
+        "imageUrl": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/006/896/15866-1-s.jpg",
+        "referencePath": "design/photo-references/expansion/shibamata/park.jpg"
+      }
+    },
+    {
+      "id": "shibamata--takagiya",
+      "official": "https://katsushika-kanko.jp/shiba/010takagiya.html",
+      "contentSources": [
+        "https://katsushika-kanko.jp/shiba/010takagiya.html"
+      ],
+      "coordinate": {
+        "lat": 35.757679,
+        "lng": 139.876602,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE7%E7%95%AA4%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://katsushika-kanko.jp/shiba/010takagiya.html",
+        "imageUrl": "https://katsushika-kanko.jp/shiba/img/010takagiya01.jpg",
+        "referencePath": "design/photo-references/expansion/shibamata/takagiya.jpg"
+      }
+    },
+    {
+      "id": "shibamata--toraya",
+      "official": "https://www.katsushika-kushouren.jp/store/s30017/",
+      "contentSources": [
+        "https://www.katsushika-kushouren.jp/store/s30017/"
+      ],
+      "coordinate": {
+        "lat": 35.757751,
+        "lng": 139.87674,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE7%E7%95%AA5%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.katsushika-kushouren.jp/store/s30017/",
+        "imageUrl": "https://www.katsushika-kushouren.jp/wp-content/uploads/s30017_1.jpg",
+        "referencePath": "design/photo-references/expansion/shibamata/toraya.jpg"
+      }
+    },
+    {
+      "id": "shibamata--ishii",
+      "official": "https://www.katsushika-kushouren.jp/store/s30020/",
+      "contentSources": [
+        "https://www.katsushika-kushouren.jp/store/s30020/"
+      ],
+      "coordinate": {
+        "lat": 35.757824,
+        "lng": 139.876709,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE6%E7%95%AA20%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.katsushika-kushouren.jp/store/s30020/",
+        "imageUrl": "https://www.katsushika-kushouren.jp/wp-content/uploads/s30020_1.jpg",
+        "referencePath": "design/photo-references/expansion/shibamata/ishii.jpg"
+      }
+    },
+    {
+      "id": "shibamata--matsuya",
+      "official": "https://www.katsushika-kushouren.jp/store/s30031/",
+      "contentSources": [
+        "https://www.katsushika-kushouren.jp/store/s30031/"
+      ],
+      "coordinate": {
+        "lat": 35.75806,
+        "lng": 139.877151,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE6%E7%95%AA17%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.katsushika-kushouren.jp/store/s30031/",
+        "imageUrl": "https://www.katsushika-kushouren.jp/wp-content/uploads/s30031_1.jpg",
+        "referencePath": "design/photo-references/expansion/shibamata/matsuya.jpg"
+      }
+    },
+    {
+      "id": "shibamata--kawachiya",
+      "official": "https://katsushika-kanko.jp/shiba/008kawachiya.html",
+      "contentSources": [
+        "https://katsushika-kanko.jp/shiba/008kawachiya.html"
+      ],
+      "coordinate": {
+        "lat": 35.758156,
+        "lng": 139.877274,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE6%E7%95%AA16%E5%8F%B7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；紀念館與公園共用園區地址，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://katsushika-kanko.jp/shiba/008kawachiya.html",
+        "imageUrl": "https://katsushika-kanko.jp/shiba/img/008kawachiya01.jpg",
+        "referencePath": "design/photo-references/expansion/shibamata/kawachiya.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "address": "東京都葛飾区柴又7丁目10番3号",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE10%E7%95%AA3%E5%8F%B7",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.877762,
+              35.758228
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都葛飾区柴又七丁目１０番３号"
+          }
+        }
+      ]
+    },
+    {
+      "address": "東京都葛飾区柴又7丁目19番32号",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE19%E7%95%AA32%E5%8F%B7",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.880188,
+              35.757721
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都葛飾区柴又七丁目１９番３２号"
+          }
+        }
+      ]
+    },
+    {
+      "address": "東京都葛飾区柴又6丁目22番19号",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%886%E4%B8%81%E7%9B%AE22%E7%95%AA19%E5%8F%B7",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.880692,
+              35.756874
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都葛飾区柴又六丁目２２番１９号"
+          }
+        }
+      ]
+    },
+    {
+      "address": "東京都葛飾区柴又7丁目7番4号",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE7%E7%95%AA4%E5%8F%B7",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.876602,
+              35.757679
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都葛飾区柴又七丁目７番４号"
+          }
+        }
+      ]
+    },
+    {
+      "address": "東京都葛飾区柴又7丁目7番5号",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE7%E7%95%AA5%E5%8F%B7",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.87674,
+              35.757751
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都葛飾区柴又七丁目７番５号"
+          }
+        }
+      ]
+    },
+    {
+      "address": "東京都葛飾区柴又7丁目6番20号",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE6%E7%95%AA20%E5%8F%B7",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.876709,
+              35.757824
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都葛飾区柴又七丁目６番２０号"
+          }
+        }
+      ]
+    },
+    {
+      "address": "東京都葛飾区柴又7丁目6番17号",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE6%E7%95%AA17%E5%8F%B7",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.877151,
+              35.75806
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都葛飾区柴又七丁目６番１７号"
+          }
+        }
+      ]
+    },
+    {
+      "address": "東京都葛飾区柴又7丁目6番16号",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E6%9F%B4%E5%8F%887%E4%B8%81%E7%9B%AE6%E7%95%AA16%E5%8F%B7",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.877274,
+              35.758156
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都葛飾区柴又七丁目６番１６号"
+          }
+        }
+      ]
+    }
+  ]
+}

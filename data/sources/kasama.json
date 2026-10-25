@@ -1,0 +1,636 @@
+{
+  "geocoding": [
+    {
+      "id": "kasama--lemidi",
+      "query": "茨城県笠間市笠間1357-2",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931357-2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.255493,
+              36.384113
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間１３５７番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kasama--sasame",
+      "query": "茨城県笠間市笠間1339",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931339",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.254013,
+              36.384468
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間１３３９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kasama--littlecu",
+      "query": "茨城県笠間市笠間1184",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931184",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.255737,
+              36.38538
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間１１８４番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kasama--futatsugi",
+      "query": "茨城県笠間市笠間1343",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931343",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.254013,
+              36.384468
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間１３４３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kasama--futaba",
+      "query": "茨城県笠間市笠間1188-2",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931188-2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.255737,
+              36.38538
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間１１８８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kasama--kula",
+      "query": "茨城県笠間市笠間1339",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931339",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.254013,
+              36.384468
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間１３３９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kasama--nakaya",
+      "query": "茨城県笠間市笠間1356",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931356",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.255493,
+              36.384113
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間１３５６番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kasama--choco",
+      "query": "茨城県笠間市笠間984-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%93984-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.257828,
+              36.383881
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間９８４番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kasama--okai",
+      "query": "茨城県笠間市笠間1338-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931338-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.254013,
+              36.384468
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間１３３８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kasama--kasamacafe",
+      "query": "茨城県笠間市笠間1338",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931338",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.254013,
+              36.384468
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間１３３８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kasama--imo",
+      "query": "茨城県笠間市笠間1337",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931337",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              140.251389,
+              36.386284
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "茨城県笠間市笠間１３３７番地"
+          }
+        }
+      ]
+    }
+  ],
+  "checkedAt": "2026-10-24",
+  "method": "官方及地方觀光資訊查證後，以繁體中文原創改寫；照片僅作私下插圖參考，公開圖為獨立生成水彩。",
+  "places": [
+    {
+      "id": "kasama--inari",
+      "official": "https://www.kasama.or.jp/",
+      "contentSources": [
+        "https://www.kasama.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 36.3860502,
+        "lng": 140.2538855,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/759269732",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kasama.or.jp/",
+        "imageUrl": "https://www.kasama.or.jp/images/slider01.jpg"
+      }
+    },
+    {
+      "id": "kasama--idutsuya",
+      "official": "https://www.city.kasama.lg.jp/page/page009195.html",
+      "contentSources": [
+        "https://www.city.kasama.lg.jp/page/page009195.html"
+      ],
+      "coordinate": {
+        "lat": 36.384529,
+        "lng": 140.256644,
+        "provider": "osm",
+        "label": "OpenStreetMap 井筒屋門前單車站代表點",
+        "url": "https://www.openstreetmap.org/node/11434836754",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "採有「かさま歴史交流館井筒屋」名稱的門前單車站位置，表示設施前方，非建築入口。官方門牌987的GSI結果過粗，已排除。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.kasama.lg.jp/page/page009195.html",
+        "imageUrl": "https://www.city.kasama.lg.jp/data/img/1543304003_149.jpg"
+      }
+    },
+    {
+      "id": "kasama--nichido",
+      "official": "https://www.nichido-museum.or.jp/",
+      "contentSources": [
+        "https://www.nichido-museum.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 36.3845417,
+        "lng": 140.2583554,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/741579283",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.nichido-museum.or.jp/",
+        "imageUrl": "https://www.nichido-museum.or.jp/wp-content/uploads/fv-1.jpg"
+      }
+    },
+    {
+      "id": "kasama--lemidi",
+      "official": "https://www.kasama-shoko.jp/member/id119",
+      "contentSources": [
+        "https://www.kasama-shoko.jp/member/id119"
+      ],
+      "coordinate": {
+        "lat": 36.384113,
+        "lng": 140.255493,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931357-2",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kasama-shoko.jp/member/id119",
+        "imageUrl": "https://www.kasama-shoko.jp/wpdir/wp-content/uploads/2018/04/119_01.jpg"
+      }
+    },
+    {
+      "id": "kasama--shofukuji",
+      "official": "https://shouhukuji.net/",
+      "contentSources": [
+        "https://shouhukuji.net/"
+      ],
+      "coordinate": {
+        "lat": 36.3862892,
+        "lng": 140.2595928,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/2473495390",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://shouhukuji.net/?pid=186927847",
+        "imageUrl": "https://file003.shop-pro.jp/PA01414/717/ogp/ogp.jpg"
+      }
+    },
+    {
+      "id": "kasama--sasame",
+      "official": "https://www.kasama-shoko.jp/member/id112",
+      "contentSources": [
+        "https://www.kasama-shoko.jp/member/id112"
+      ],
+      "coordinate": {
+        "lat": 36.384468,
+        "lng": 140.254013,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931339",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kasama-shoko.jp/member/id112",
+        "imageUrl": "https://www.kasama-shoko.jp/wpdir/wp-content/uploads/2018/04/112_02.jpg"
+      }
+    },
+    {
+      "id": "kasama--littlecu",
+      "official": "https://www.cigr.co.jp/etowa/kasama/activity/",
+      "contentSources": [
+        "https://www.cigr.co.jp/etowa/kasama/activity/"
+      ],
+      "coordinate": {
+        "lat": 36.38538,
+        "lng": 140.255737,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931184",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.cigr.co.jp/etowa/kasama/activity/",
+        "imageUrl": "https://www.cigr.co.jp/app/themes/etowa/kasama/assets/img/activity/act_img11.webp"
+      }
+    },
+    {
+      "id": "kasama--imo",
+      "official": "https://www.nabeya-rice.com/access.html",
+      "contentSources": [
+        "https://www.nabeya-rice.com/access.html"
+      ],
+      "coordinate": {
+        "lat": 36.386284,
+        "lng": 140.251389,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931337",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌1337比對的地址代表點，非店舖入口。"
+      },
+      "photo": {
+        "pageUrl": "https://chikudays.com/omise/kasama_imoimoimo/",
+        "imageUrl": "https://i0.wp.com/chikudays.com/wp-content/uploads/2022/06/IMG_3752.jpg?resize=800%2C533&ssl=1"
+      }
+    },
+    {
+      "id": "kasama--futatsugi",
+      "official": "https://www.ibarakiguide.jp/spot.php?code=878&mode=detail",
+      "contentSources": [
+        "https://www.ibarakiguide.jp/spot.php?code=878&mode=detail"
+      ],
+      "coordinate": {
+        "lat": 36.384468,
+        "lng": 140.254013,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931343",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ibarakiguide.jp/spot.php?code=878&mode=detail",
+        "imageUrl": "https://www.ibarakiguide.jp/data/spot/1679724098_9.jpg"
+      }
+    },
+    {
+      "id": "kasama--futaba",
+      "official": "https://cafefutaba.jimdosite.com/",
+      "contentSources": [
+        "https://cafefutaba.jimdosite.com/"
+      ],
+      "coordinate": {
+        "lat": 36.38538,
+        "lng": 140.255737,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931188-2",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://melonicecream.hatenablog.com/entry/2026/04/28/073334",
+        "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/melonicecream/20260417/20260417231411.jpg"
+      }
+    },
+    {
+      "id": "kasama--kula",
+      "official": "https://page.line.me/634fbcdm",
+      "contentSources": [
+        "https://page.line.me/634fbcdm"
+      ],
+      "coordinate": {
+        "lat": 36.384468,
+        "lng": 140.254013,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931339",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://kitakan-navi.jp/archives/246435",
+        "imageUrl": "https://kitakan-navi.jp/wp-content/uploads/2026/04/1777111048551600_photo2_001-360x250.jpg"
+      }
+    },
+    {
+      "id": "kasama--nakaya",
+      "official": "https://www.isshinji.jp/nakaya-kasama/",
+      "contentSources": [
+        "https://www.isshinji.jp/nakaya-kasama/"
+      ],
+      "coordinate": {
+        "lat": 36.384113,
+        "lng": 140.255493,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931356",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.isshinji.jp/nakaya-kasama/",
+        "imageUrl": "https://www.isshinji.jp/wp-content/uploads/2026/03/nakaya03.jpg"
+      }
+    },
+    {
+      "id": "kasama--choco",
+      "official": "https://cfactory.nabeya-rice.com/",
+      "contentSources": [
+        "https://cfactory.nabeya-rice.com/"
+      ],
+      "coordinate": {
+        "lat": 36.383881,
+        "lng": 140.257828,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%93984-1",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://cfactory.nabeya-rice.com/",
+        "imageUrl": "https://cfactory.nabeya-rice.com/images/img_A_01.jpg"
+      }
+    },
+    {
+      "id": "kasama--okai",
+      "official": "https://www.oka-syo.com/",
+      "contentSources": [
+        "https://www.oka-syo.com/"
+      ],
+      "coordinate": {
+        "lat": 36.384468,
+        "lng": 140.254013,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931338-1",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.oka-syo.com/",
+        "imageUrl": "https://www.oka-syo.com/wp/wp-content/themes/oka-syo/images/slider/top-slider01.jpg"
+      }
+    },
+    {
+      "id": "kasama--kasamacafe",
+      "official": "https://omusubi.nabeya-rice.com/",
+      "contentSources": [
+        "https://omusubi.nabeya-rice.com/"
+      ],
+      "coordinate": {
+        "lat": 36.384468,
+        "lng": 140.254013,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%AC%A0%E9%96%93%E5%B8%82%E7%AC%A0%E9%96%931338",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://omusubi.nabeya-rice.com/",
+        "imageUrl": "https://omusubi.nabeya-rice.com/images/pic01.jpg"
+      }
+    }
+  ],
+  "walking": {
+    "provider": "OSRM OpenStreetMap.de routed-foot",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/140.2538855,36.3860502;140.255493,36.384113;140.256644,36.384529;140.2583554,36.3845417?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "rawResponse": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 44.68,
+              "summary": "",
+              "duration": 349.2,
+              "distance": 436.5
+            },
+            {
+              "steps": [],
+              "weight": 16,
+              "summary": "",
+              "duration": 121.6,
+              "distance": 149.6
+            },
+            {
+              "steps": [],
+              "weight": 29.73,
+              "summary": "",
+              "duration": 227,
+              "distance": 283.6
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 90.41,
+          "duration": 697.8,
+          "distance": 869.7
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "n9F5gwOhcIY_AQAAAAAAAAAAAAAmAgAARtj-QQAAAAAAAAAAk_lbQv8AAAAAAAAAAAAAALkBAABxAgAABhpcCDQ2KwK-GlwIAjUrAgAAjwYAAAAA",
+          "location": [
+            140.253702,
+            36.386356
+          ],
+          "name": "",
+          "distance": 37.75714765
+        },
+        {
+          "hint": "T0n2gYQqI4LdAAAALgIAAAAAAAAAAAAAAcqwQY0WX0IAAAAAAAAAALEAAAC-AQAAAAAAAAAAAABxAgAA4x9cCKEtKwIFIVwIcS0rAgAAvwAAAAAA",
+          "location": [
+            140.255203,
+            36.384161
+          ],
+          "name": "",
+          "distance": 26.5626215
+        },
+        {
+          "hint": "JIRngKuJe4AuAAAASwIAAAAAAAAAAAAAfGCFQJ0eU0IAAAAAAAAAACEAAACnAQAAAAAAAAAAAABxAgAARyRcCD8vKwKEJVwIES8rAgAArwAAAAAA",
+          "location": [
+            140.256327,
+            36.384575
+          ],
+          "name": "結城街道",
+          "distance": 28.9003098
+        },
+        {
+          "hint": "kA56gGmwfod8AAAAdgEAAPgBAAAAAAAAORxHQStVFUI1bUlCAAAAAGMAAAArAQAAkwEAAAAAAABxAgAA5CxcCDovKwIzLFwIHi8rAgYAzxUAAAAA",
+          "location": [
+            140.258532,
+            36.38457
+          ],
+          "name": "",
+          "distance": 16.18412284
+        }
+      ]
+    },
+    "visitMinutes": [
+      100,
+      165
+    ],
+    "visitEstimateNote": "編輯估算四處參訪、逛店與喫茶停留，未含候位及車站接駁；步行時間採道路網路回傳值。"
+  }
+}

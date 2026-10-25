@@ -1,0 +1,439 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "imai--takagi",
+      "official": "https://kashihara-kanko.or.jp/feature/detail.php?fid=41",
+      "contentSources": [
+        "https://kashihara-kanko.or.jp/feature/detail.php?fid=41"
+      ],
+      "coordinate": {
+        "lat": 34.506512,
+        "lng": 135.788986,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-6-9",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kashihara-kanko.or.jp/feature/detail.php?fid=41",
+        "imageUrl": "https://kashihara-kanko.or.jp/img_data/FEATURE-CHILD337_1_1.JPG?20260224144231",
+        "referencePath": "design/place-references/expansion/imai/takagi.jpg"
+      }
+    },
+    {
+      "id": "imai--kawai",
+      "official": "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+      "contentSources": [
+        "https://kashihara-kanko.or.jp/feature/detail.php?fid=36"
+      ],
+      "coordinate": {
+        "lat": 34.506516,
+        "lng": 135.788589,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-7-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+        "imageUrl": "https://kashihara-kanko.or.jp/img_data/FEATURE-CHILD282_2_2.jpg?20250109194157",
+        "referencePath": "design/place-references/expansion/imai/kawai.jpg"
+      }
+    },
+    {
+      "id": "imai--keikan",
+      "official": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00065",
+      "contentSources": [
+        "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00065"
+      ],
+      "coordinate": {
+        "lat": 34.507145,
+        "lng": 135.787552,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-10-9",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00065",
+        "imageUrl": "https://kashihara-kanko.or.jp/img_data/S00065_1.jpg?20240501134724",
+        "referencePath": "design/place-references/expansion/imai/keikan.jpg"
+      }
+    },
+    {
+      "id": "imai--kometani",
+      "official": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00085",
+      "contentSources": [
+        "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00085"
+      ],
+      "coordinate": {
+        "lat": 34.507141,
+        "lng": 135.787338,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-10-11",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00085",
+        "imageUrl": "https://kashihara-kanko.or.jp/img_data/S00085_1.jpg?20260304160648",
+        "referencePath": "design/place-references/expansion/imai/kometani.jpg"
+      }
+    },
+    {
+      "id": "imai--machiyakan",
+      "official": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083",
+      "contentSources": [
+        "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083"
+      ],
+      "coordinate": {
+        "lat": 34.506725,
+        "lng": 135.786026,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-1-22",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083",
+        "imageUrl": "https://kashihara-kanko.or.jp/img_data/S00083_1.jpg?20240501135126",
+        "referencePath": "design/place-references/expansion/imai/machiyakan.jpg"
+      }
+    },
+    {
+      "id": "imai--imanishi",
+      "official": "https://www.imanishike.or.jp/",
+      "contentSources": [
+        "https://www.imanishike.or.jp/",
+        "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00082"
+      ],
+      "coordinate": {
+        "lat": 34.506813,
+        "lng": 135.783554,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-9-25",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00082",
+        "imageUrl": "https://kashihara-kanko.or.jp/img_data/S00082_1.jpg?20240501135806",
+        "referencePath": "design/place-references/expansion/imai/imanishi.jpg"
+      }
+    },
+    {
+      "id": "imai--shonenji",
+      "official": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105",
+      "contentSources": [
+        "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105"
+      ],
+      "coordinate": {
+        "lat": 34.506321,
+        "lng": 135.785583,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-2-29",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105",
+        "imageUrl": "https://kashihara-kanko.or.jp/img_data/S00105_1.jpg?20220915090046",
+        "referencePath": "design/place-references/expansion/imai/shonenji.jpg"
+      }
+    },
+    {
+      "id": "imai--jippensha",
+      "official": "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+      "contentSources": [
+        "https://kashihara-kanko.or.jp/feature/detail.php?fid=36"
+      ],
+      "coordinate": {
+        "lat": 34.505894,
+        "lng": 135.785172,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-6-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+        "imageUrl": "https://kashihara-kanko.or.jp/img_data/FEATURE-CHILD283_2_2.jpg?20250109194241",
+        "referencePath": "design/place-references/expansion/imai/jippensha.jpg"
+      }
+    },
+    {
+      "id": "imai--narawashi",
+      "official": "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+      "contentSources": [
+        "https://kashihara-kanko.or.jp/feature/detail.php?fid=36"
+      ],
+      "coordinate": {
+        "lat": 34.505962,
+        "lng": 135.784424,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-6-51",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+        "imageUrl": "https://kashihara-kanko.or.jp/img_data/FEATURE-CHILD284_1_1.jpg?20250109194354",
+        "referencePath": "design/place-references/expansion/imai/narawashi.jpg"
+      }
+    },
+    {
+      "id": "imai--tamayura",
+      "official": "https://cafe-tamayura-kashihara.com/",
+      "contentSources": [
+        "https://cafe-tamayura-kashihara.com/"
+      ],
+      "coordinate": {
+        "lat": 34.50806,
+        "lng": 135.786575,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA4-3-22",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://cafe-tamayura-kashihara.com/",
+        "imageUrl": "https://cafe-tamayura-kashihara.com/serviceimg/gourmet/315847/pg-1764733287955-2261.jpg",
+        "referencePath": "design/place-references/expansion/imai/tamayura.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "imai--takagi",
+      "query": "奈良県橿原市今井町1-6-9",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-6-9",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.788986,
+              34.506512
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "奈良県橿原市今井町一丁目６番９号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "imai--kawai",
+      "query": "奈良県橿原市今井町1-7-8",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-7-8",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.788589,
+              34.506516
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "奈良県橿原市今井町一丁目７番８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "imai--keikan",
+      "query": "奈良県橿原市今井町1-10-9",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-10-9",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.787552,
+              34.507145
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "奈良県橿原市今井町一丁目１０番９号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "imai--kometani",
+      "query": "奈良県橿原市今井町1-10-11",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-10-11",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.787338,
+              34.507141
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "奈良県橿原市今井町一丁目１０番１１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "imai--machiyakan",
+      "query": "奈良県橿原市今井町3-1-22",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-1-22",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.786026,
+              34.506725
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "奈良県橿原市今井町三丁目１番２２号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "imai--imanishi",
+      "query": "奈良県橿原市今井町3-9-25",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-9-25",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.783554,
+              34.506813
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "奈良県橿原市今井町三丁目９番２５号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "imai--shonenji",
+      "query": "奈良県橿原市今井町3-2-29",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-2-29",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.785583,
+              34.506321
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "奈良県橿原市今井町三丁目２番２９号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "imai--jippensha",
+      "query": "奈良県橿原市今井町3-6-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-6-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.785172,
+              34.505894
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "奈良県橿原市今井町三丁目６番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "imai--narawashi",
+      "query": "奈良県橿原市今井町3-6-51",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-6-51",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.784424,
+              34.505962
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "奈良県橿原市今井町三丁目６番５１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "imai--tamayura",
+      "query": "奈良県橿原市今井町4-3-22",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA4-3-22",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.786575,
+              34.50806
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "奈良県橿原市今井町四丁目３番２２号"
+          }
+        }
+      ]
+    }
+  ]
+}

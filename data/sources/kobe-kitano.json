@@ -1,0 +1,460 @@
+{
+  "checkedAt": "2026-10-24",
+  "walkId": "kobe-kitano",
+  "method": "依官方店家、公共設施及旅遊機關資料整理為原創繁體中文介紹；未聲稱親訪、評分或即時營業保證。",
+  "places": [
+    {
+      "id": "kobe-kitano--nosta",
+      "contentSources": [
+        "https://kobekitano-nosta.jp/",
+        "https://kobekitano-nosta.jp/access/",
+        "https://www.feel-kobe.jp/news/29342/"
+      ],
+      "coordinate": {
+        "lat": 34.69558389090909,
+        "lng": 135.1871731090909,
+        "url": "https://www.openstreetmap.org/way/319806975",
+        "precisionNote": "OSM仍標舊名北野工房のまち，採同址舊北野小學校舍建築中心；現營運名稱及地址由官方北野ノスタ核對。",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright"
+      },
+      "photoReference": {
+        "pageUrl": "https://kobekitano-nosta.jp/",
+        "imageUrl": "https://kobekitano-nosta.jp/ogp.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--starbucks",
+      "contentSources": [
+        "https://store.starbucks.co.jp/detail-940/",
+        "https://www.starbucks.co.jp/press_release/pr2008-391.php"
+      ],
+      "coordinate": {
+        "lat": 34.6998457,
+        "lng": 135.1902766,
+        "url": "https://www.openstreetmap.org/node/13227106669",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://store.starbucks.co.jp/detail-940/",
+        "imageUrl": "https://d3vgbguy0yofad.cloudfront.net/store/images/img-concept-store-detail-940-01.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--weathercock",
+      "contentSources": [
+        "https://kobe-kazamidori.com/",
+        "https://kobe-kazamidori.com/guide/",
+        "https://www.city.kobe.lg.jp/a10019/810320483784.html"
+      ],
+      "coordinate": {
+        "lat": 34.701375794117645,
+        "lng": 135.1894888470588,
+        "url": "https://www.openstreetmap.org/way/302852228",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://kobe-kazamidori.com/",
+        "imageUrl": "https://kobe-kazamidori.com/wp-content/themes/kazamidori/images/mv.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--moegi",
+      "contentSources": [
+        "https://www.city.kobe.lg.jp/a21651/kanko/bunka/bunkashisetsu/foreigner/sub3.html"
+      ],
+      "coordinate": {
+        "lat": 34.70102489090909,
+        "lng": 135.1892488090909,
+        "url": "https://www.openstreetmap.org/way/302852226",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.city.kobe.lg.jp/a21651/kanko/bunka/bunkashisetsu/foreigner/sub3.html",
+        "imageUrl": "https://www.city.kobe.lg.jp/images/14931/moegi.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--line",
+      "contentSources": [
+        "https://www.kobeijinkan.com/ijinkan_list/line"
+      ],
+      "coordinate": {
+        "lat": 34.70118042222222,
+        "lng": 135.1912048111111,
+        "url": "https://www.openstreetmap.org/way/302852205",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobeijinkan.com/ijinkan_list/line",
+        "imageUrl": "https://www.kobeijinkan.com/wp-content/uploads/2018/04/img_line-1.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--uroko",
+      "contentSources": [
+        "https://www.kobeijinkan.com/ijinkan_list/uroko"
+      ],
+      "coordinate": {
+        "lat": 34.70297597777778,
+        "lng": 135.19067274444444,
+        "url": "https://www.openstreetmap.org/way/302852195",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobeijinkan.com/ijinkan_list/uroko",
+        "imageUrl": "https://www.kobeijinkan.com/wp-content/uploads/2019/05/7797f00dc3ca2a2ea1a208657f3de0fa-1.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--yamate",
+      "contentSources": [
+        "https://www.kobeijinkan.com/ijinkan_list/yamate"
+      ],
+      "coordinate": {
+        "lat": 34.70303811428571,
+        "lng": 135.19101954285713,
+        "url": "https://www.openstreetmap.org/way/302852216",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobeijinkan.com/ijinkan_list/yamate",
+        "imageUrl": "https://www.kobeijinkan.com/wp-content/uploads/2019/05/40b3c322e7469a73ea1fd029ce23470b.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--foreignclub",
+      "contentSources": [
+        "https://www.kobeijinkan.com/ijinkan_list/foreignclub"
+      ],
+      "coordinate": {
+        "lat": 34.703080033333336,
+        "lng": 135.19135716666668,
+        "url": "https://www.openstreetmap.org/way/302852208",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobeijinkan.com/ijinkan_list/foreignclub",
+        "imageUrl": "https://www.kobeijinkan.com/wp-content/uploads/2019/05/08b905b2411e29d6f7026ae0936df64b.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--england",
+      "contentSources": [
+        "https://www.kobeijinkan.com/ijinkan_list/england"
+      ],
+      "coordinate": {
+        "lat": 34.70073824117646,
+        "lng": 135.19116455294116,
+        "url": "https://www.openstreetmap.org/way/490473311",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobeijinkan.com/ijinkan_list/england",
+        "imageUrl": "https://www.kobeijinkan.com/wp-content/uploads/2019/05/英国館外観-.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--france",
+      "contentSources": [
+        "https://www.kobeijinkan.com/ijinkan_list/france"
+      ],
+      "coordinate": {
+        "lat": 34.700851924999995,
+        "lng": 135.191340545,
+        "url": "https://www.openstreetmap.org/way/302852207",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobeijinkan.com/ijinkan_list/france",
+        "imageUrl": "https://www.kobeijinkan.com/wp-content/uploads/2019/05/5b2af1b708182e0a492161fc93a21c3c.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--ben",
+      "contentSources": [
+        "https://www.kobeijinkan.com/ijinkan_list/ben"
+      ],
+      "coordinate": {
+        "lat": 34.70089932857143,
+        "lng": 135.1915254857143,
+        "url": "https://www.openstreetmap.org/way/302852204",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobeijinkan.com/ijinkan_list/ben",
+        "imageUrl": "https://www.kobeijinkan.com/wp-content/uploads/2019/05/1155d3bf4e77dfc858dc5d9d5066c675.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--holanda_kaori",
+      "contentSources": [
+        "https://www.kobeijinkan.com/ijinkan_list/holanda_kaori"
+      ],
+      "coordinate": {
+        "lat": 34.70221741111111,
+        "lng": 135.1906340111111,
+        "url": "https://www.openstreetmap.org/way/302852229",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobeijinkan.com/ijinkan_list/holanda_kaori",
+        "imageUrl": "https://www.kobeijinkan.com/wp-content/uploads/2018/04/c7.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--wien",
+      "contentSources": [
+        "https://www.kobeijinkan.com/ijinkan_list/wien"
+      ],
+      "coordinate": {
+        "lat": 34.70239778888889,
+        "lng": 135.19077483333334,
+        "url": "https://www.openstreetmap.org/way/302852197",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobeijinkan.com/ijinkan_list/wien",
+        "imageUrl": "https://www.kobeijinkan.com/wp-content/uploads/2018/04/c3.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--denmark",
+      "contentSources": [
+        "https://www.kobeijinkan.com/ijinkan_list/denmark"
+      ],
+      "coordinate": {
+        "lat": 34.702344675999996,
+        "lng": 135.19057610799996,
+        "url": "https://www.openstreetmap.org/way/302852212",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobeijinkan.com/ijinkan_list/denmark",
+        "imageUrl": "https://www.kobeijinkan.com/wp-content/uploads/2018/04/c9.jpg"
+      }
+    },
+    {
+      "id": "kobe-kitano--tenman",
+      "contentSources": [
+        "https://www.kobe-kitano.net/about/",
+        "https://www.feel-kobe.jp/facilities/kitano-shrine/"
+      ],
+      "coordinate": {
+        "lat": 34.701781280000006,
+        "lng": 135.18967281,
+        "url": "https://www.openstreetmap.org/way/572305913",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kobe-kitano.net/about/",
+        "imageUrl": "https://www.kobe-kitano.net/about/img/img01.png"
+      }
+    },
+    {
+      "id": "kobe-kitano--nishimura",
+      "contentSources": [
+        "https://kobe-nishimura.jp/shop/kitanozaka.html"
+      ],
+      "coordinate": {
+        "lat": 34.6983344,
+        "lng": 135.1910854,
+        "url": "https://www.openstreetmap.org/node/5304129121",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://kobe-nishimura.jp/shop/kitanozaka.html",
+        "imageUrl": "https://kobe-nishimura.jp/story/img/img24btd2043_1.jpg"
+      },
+      "videoSources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=204s",
+          "time": "3:24",
+          "seconds": 204
+        }
+      ]
+    },
+    {
+      "id": "kobe-kitano--freundlieb",
+      "contentSources": [
+        "https://h-freundlieb.com/pages/shop",
+        "https://h-freundlieb.com/",
+        "https://h-freundlieb.com/pages/cafe"
+      ],
+      "coordinate": {
+        "lat": 34.700798,
+        "lng": 135.194992,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%94%9F%E7%94%B0%E7%94%BA%E5%9B%9B%E4%B8%81%E7%9B%AE%EF%BC%96%E7%95%AA%EF%BC%91%EF%BC%95%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://h-freundlieb.com/",
+        "imageUrl": "https://h-freundlieb.com/cdn/shop/files/top_slider01.jpg?v=1768360850&width=1440"
+      },
+      "videoSources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1613s",
+          "time": "26:53",
+          "seconds": 1613
+        }
+      ]
+    }
+  ],
+  "walking": {
+    "provider": "OSRM routed-foot / OpenStreetMap",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/135.1871731090909,34.69558389090909;135.1902766,34.6998457;135.1894888470588,34.701375794117645;135.1892488090909,34.70102489090909?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "raw": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 67.37,
+              "summary": "",
+              "duration": 569.3,
+              "distance": 706.5
+            },
+            {
+              "steps": [],
+              "weight": 25.44,
+              "summary": "",
+              "duration": 225.4,
+              "distance": 281.8
+            },
+            {
+              "steps": [],
+              "weight": 4.09,
+              "summary": "",
+              "duration": 32.7,
+              "distance": 40.9
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 96.9,
+          "duration": 827.4,
+          "distance": 1029.2
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "Ed_ygg72cosrAAAANAEAAAAAAAAAAAAAFQ59QI9D3UEAAAAAAAAAAB8AAADeAAAAAAAAAAAAAABxAgAAvMsOCPRpEQLlyg4IoGkRAgAArwkAAAAA",
+          "location": [
+            135.187388,
+            34.695668
+          ],
+          "name": "トアロード",
+          "distance": 21.79660097
+        },
+        {
+          "hint": "r0wfirJMH4qJAAAAxwEAAAAAAAAAAAAAGjuEQYIZWkIAAAAAAAAAAIQAAAC0AQAAAAAAAAAAAABxAgAAX9cOCGR6EQIF1w4IRnoRAgAA3wkAAAAA",
+          "location": [
+            135.190367,
+            34.699876
+          ],
+          "name": "",
+          "distance": 8.894385636
+        },
+        {
+          "hint": "C6UphQ6lKYXjAAAA-AAAAMoAAAAAAAAAWa61QQ4XxkHg26FBAAAAALUAAADHAAAAogAAAAAAAABxAgAAN9QOCPJ_EQLx0w4IQIARAgIAXwMAAAAA",
+          "location": [
+            135.189559,
+            34.701298
+          ],
+          "name": "神戸方面第７号線",
+          "distance": 10.76944644
+        },
+        {
+          "hint": "C6UphQ6lKYUUAAAAtgAAAAAAAADbAQAAAkYDQCdzkUEAAAAAs-I9QhAAAACSAAAAAAAAAHwBAABxAgAAz9IOCBh_EQIB0w4I4X4RAgAAXwMAAAAA",
+          "location": [
+            135.189199,
+            34.70108
+          ],
+          "name": "神戸方面第７号線",
+          "distance": 7.628940561
+        }
+      ]
+    },
+    "estimateNote": "純步行路線估算；未包含候位、天候、拍照、上下坡造成的速度差異。"
+  },
+  "visitEstimate": {
+    "minutes": [
+      110,
+      170
+    ],
+    "method": "編輯估算：依四站參觀、購物及一至兩次餐飲休息加總，不含候位與交通進出。"
+  }
+}

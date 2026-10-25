@@ -1,0 +1,440 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "osaka-nakanoshima--yodoyabashi",
+      "official": "https://www.city.osaka.lg.jp/kensetsu/page/0000030741.html",
+      "contentSources": [
+        "https://www.city.osaka.lg.jp/kensetsu/page/0000030741.html"
+      ],
+      "coordinate": {
+        "lat": 34.692009,
+        "lng": 135.502319,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C3%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.osaka.lg.jp/kensetsu/page/0000030741.html",
+        "imageUrl": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000030/30741/yodoya_s.jpg",
+        "referencePath": "design/place-references/expansion/osaka-nakanoshima/yodoyabashi.jpg"
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--library",
+      "official": "https://www.library.pref.osaka.jp/site/nakato/tatemono.html",
+      "contentSources": [
+        "https://www.library.pref.osaka.jp/site/nakato/tatemono.html"
+      ],
+      "coordinate": {
+        "lat": 34.693611,
+        "lng": 135.502899,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-2-10",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.library.pref.osaka.jp/site/nakato/tatemono.html",
+        "imageUrl": "https://www.library.pref.osaka.jp/uploaded/image/1058.jpg",
+        "referencePath": "design/place-references/expansion/osaka-nakanoshima/library.jpg"
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--hall",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/259",
+      "contentSources": [
+        "https://osaka-info.jp/experience/ja/osaka/spot/259"
+      ],
+      "coordinate": {
+        "lat": 34.693508,
+        "lng": 135.504532,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-1-27",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://osaka-info.jp/experience/ja/osaka/spot/259",
+        "imageUrl": "https://assets.deep-exp.com/assets/img/uploads/spot_image/3188/cover_front.webp",
+        "referencePath": "design/place-references/expansion/osaka-nakanoshima/hall.jpg"
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--books",
+      "official": "https://kodomohonnomori.osaka/",
+      "contentSources": [
+        "https://kodomohonnomori.osaka/"
+      ],
+      "coordinate": {
+        "lat": 34.693432,
+        "lng": 135.504517,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-1-28",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kodomohonnomori.osaka/",
+        "imageUrl": "https://kodomohonnomori.osaka/uploads/photo_011.jpg",
+        "referencePath": "design/place-references/expansion/osaka-nakanoshima/books.jpg"
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--park",
+      "official": "https://www.keihan.co.jp/visiting/spot/detail/202.html",
+      "contentSources": [
+        "https://www.keihan.co.jp/visiting/spot/detail/202.html"
+      ],
+      "coordinate": {
+        "lat": 34.692844,
+        "lng": 135.505432,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.keihan.co.jp/visiting/spot/detail/202.html",
+        "imageUrl": "https://www.city.osaka.lg.jp/kita/cmsfiles/contents/0000002/2170/01nakanosimasasikae.jpg",
+        "referencePath": "design/place-references/expansion/osaka-nakanoshima/park.jpg"
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--bridge",
+      "official": "https://osaka-info.jp/experience/ja/osaka/spot/253",
+      "contentSources": [
+        "https://osaka-info.jp/experience/ja/osaka/spot/253"
+      ],
+      "coordinate": {
+        "lat": 34.691231,
+        "lng": 135.508118,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://osaka-info.jp/experience/ja/osaka/spot/253",
+        "imageUrl": "https://assets.deep-exp.com/assets/img/uploads/spot_image/3170/cover_front.webp",
+        "referencePath": "design/place-references/expansion/osaka-nakanoshima/bridge.jpg"
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--retro",
+      "official": "https://www.kitahama-retro.com/",
+      "contentSources": [
+        "https://www.kitahama-retro.com/"
+      ],
+      "coordinate": {
+        "lat": 34.691673,
+        "lng": 135.507431,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1-1-26",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kitahama-retro.com/",
+        "imageUrl": "https://www.kitahama-retro.com/cdn/shop/files/shop-img1.jpg?v=17689404417681078409",
+        "referencePath": "design/place-references/expansion/osaka-nakanoshima/retro.jpg"
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--exchange",
+      "official": "https://www.jpx.co.jp/corporate/learning/tour/ose/01.html",
+      "contentSources": [
+        "https://www.jpx.co.jp/corporate/learning/tour/ose/01.html"
+      ],
+      "coordinate": {
+        "lat": 34.691498,
+        "lng": 135.506836,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1-8-16",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.jpx.co.jp/corporate/learning/tour/ose/01.html",
+        "imageUrl": "https://www.jpx.co.jp/corporate/learning/tour/ose/nlsgeu0000010wlf-img/04.png",
+        "referencePath": "design/place-references/expansion/osaka-nakanoshima/exchange.jpg"
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--gokan",
+      "official": "https://8ken-ya.osaka/guide/2139/",
+      "contentSources": [
+        "https://8ken-ya.osaka/guide/2139/"
+      ],
+      "coordinate": {
+        "lat": 34.690742,
+        "lng": 135.50647,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BB%8A%E6%A9%8B2-1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://8ken-ya.osaka/guide/2139/",
+        "imageUrl": "https://8ken-ya.osaka/wp/wp-content/uploads/2026/09/1_gokan05.jpg",
+        "referencePath": "design/place-references/expansion/osaka-nakanoshima/gokan.jpg"
+      }
+    },
+    {
+      "id": "osaka-nakanoshima--tekijuku",
+      "official": "https://www.tekijuku.osaka-u.ac.jp/ja",
+      "contentSources": [
+        "https://www.tekijuku.osaka-u.ac.jp/ja",
+        "https://www.tekijuku.osaka-u.ac.jp/ja/tekijuku",
+        "https://www.tekijuku.osaka-u.ac.jp/ja/access"
+      ],
+      "coordinate": {
+        "lat": 34.69138,
+        "lng": 135.503159,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C3-3-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.tekijuku.osaka-u.ac.jp/ja/tekijuku",
+        "imageUrl": "https://www.tekijuku.osaka-u.ac.jp/tekijuku_pre1.jpg",
+        "referencePath": "design/place-references/expansion/osaka-nakanoshima/tekijuku.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "osaka-nakanoshima--yodoyabashi",
+      "query": "大阪府大阪市中央区北浜3丁目",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C3%E4%B8%81%E7%9B%AE",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.502319,
+              34.692009
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市中央区北浜三丁目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-nakanoshima--library",
+      "query": "大阪府大阪市北区中之島1-2-10",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-2-10",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.502899,
+              34.693611
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区中之島一丁目２番１０号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-nakanoshima--hall",
+      "query": "大阪府大阪市北区中之島1-1-27",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-1-27",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.504532,
+              34.693508
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区中之島一丁目１番２７号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-nakanoshima--books",
+      "query": "大阪府大阪市北区中之島1-1-28",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61-1-28",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.504517,
+              34.693432
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区中之島一丁目１番２８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-nakanoshima--park",
+      "query": "大阪府大阪市北区中之島1丁目",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B61%E4%B8%81%E7%9B%AE",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.505432,
+              34.692844
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市北区中之島一丁目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-nakanoshima--bridge",
+      "query": "大阪府大阪市中央区北浜1丁目",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1%E4%B8%81%E7%9B%AE",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.508118,
+              34.691231
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市中央区北浜一丁目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-nakanoshima--retro",
+      "query": "大阪府大阪市中央区北浜1-1-26",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1-1-26",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.507431,
+              34.691673
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市中央区北浜一丁目１番２６号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-nakanoshima--exchange",
+      "query": "大阪府大阪市中央区北浜1-8-16",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C1-8-16",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.506836,
+              34.691498
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市中央区北浜一丁目８番１６号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-nakanoshima--gokan",
+      "query": "大阪府大阪市中央区今橋2-1-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BB%8A%E6%A9%8B2-1-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.50647,
+              34.690742
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市中央区今橋二丁目１番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osaka-nakanoshima--tekijuku",
+      "query": "大阪府大阪市中央区北浜3-3-8",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C3-3-8",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.503159,
+              34.69138
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "大阪府大阪市中央区北浜三丁目３番８号"
+          }
+        }
+      ]
+    }
+  ]
+}

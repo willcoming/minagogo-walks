@@ -1,0 +1,410 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "monzen-nakacho--river",
+      "order": 1,
+      "name": "大橫川護岸（黑船橋周邊）",
+      "address": "東京都江東区門前仲町1丁目1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從街角轉到低處的水邊",
+      "descriptionParagraphs": [
+        "黑船橋附近的大橫川，是門前仲町很容易順路抵達的水邊。春天河岸櫻花伸向水面，平日則能看看橋影與沿岸街景，換一個比大街更放鬆的步行視角。",
+        "這一站適合短暫繞路，不需要沿河走得很遠；在附近護岸停留、拍照，再回到參道就好。櫻花與乘船活動各有季節，並非全年都能看到照片中的春日景象。"
+      ],
+      "description": "黑船橋附近的大橫川，是門前仲町很容易順路抵達的水邊。春天河岸櫻花伸向水面，平日則能看看橋影與沿岸街景，換一個比大街更放鬆的步行視角。\n\n這一站適合短暫繞路，不需要沿河走得很遠；在附近護岸停留、拍照，再回到參道就好。櫻花與乘船活動各有季節，並非全年都能看到照片中的春日景象。",
+      "note": "",
+      "official": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00264",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.672203,
+        "lng": 139.792984,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E9%96%80%E5%89%8D%E4%BB%B2%E7%94%BA1%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/monzen-nakacho/river.webp",
+        "alt": "大橫川護岸（黑船橋周邊）的日系水彩插圖"
+      },
+      "recommendation": "在黑船橋周邊沿水岸短走，再循附近小街回到門前仲町站。"
+    },
+    {
+      "id": "monzen-nakacho--marushichi",
+      "order": 2,
+      "name": "丸七 門前仲町本店",
+      "address": "東京都江東区門前仲町1-12-5",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "厚切豬排飯的飽足選項",
+      "descriptionParagraphs": [
+        "丸七以厚切豬排搭配雞蛋的豬排飯吸引食客，門前仲町本店藏在車站西側的小街裡。樸實門面與白色暖簾，讓一頓份量十足的午餐也保有下町小店的親近感。",
+        "若今天想把散策接成午餐，可把這裡當作主要停留，其他甜點與咖啡擇一即可。厚切餐食適合慢慢吃完再散步，店前人多時也可以先去附近的摩登館走走。"
+      ],
+      "description": "丸七以厚切豬排搭配雞蛋的豬排飯吸引食客，門前仲町本店藏在車站西側的小街裡。樸實門面與白色暖簾，讓一頓份量十足的午餐也保有下町小店的親近感。\n\n若今天想把散策接成午餐，可把這裡當作主要停留，其他甜點與咖啡擇一即可。厚切餐食適合慢慢吃完再散步，店前人多時也可以先去附近的摩登館走走。",
+      "note": "本店現採現場依序入店，不接受預約，同行者須到齊；排隊時間另計。請勿與已結束營業的深川不動店混淆。",
+      "official": "https://tonkatsu07.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.673512,
+        "lng": 139.794891,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E9%96%80%E5%89%8D%E4%BB%B2%E7%94%BA1-12-5",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/monzen-nakacho/marushichi.webp",
+        "alt": "丸七 門前仲町本店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "monzen-nakacho--modern",
+      "order": 3,
+      "name": "深川東京摩登館",
+      "address": "東京都江東区門前仲町1-19-15",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從一棟昭和建築讀懂深川",
+      "descriptionParagraphs": [
+        "這棟白色轉角建築在一九三二年作為東京市營食堂興建，現在是江東區介紹觀光與地方文化的據點。成排窗格與立面圓窗，讓街角保留了昭和初期的建築表情。",
+        "可以先看地方歷史、飲食文化相關展示，再帶著線索走進門前仲町。館內活動依檔期安排，適合留一小段安靜的閱讀時間，不必把每場講座都排進行程。"
+      ],
+      "description": "這棟白色轉角建築在一九三二年作為東京市營食堂興建，現在是江東區介紹觀光與地方文化的據點。成排窗格與立面圓窗，讓街角保留了昭和初期的建築表情。\n\n可以先看地方歷史、飲食文化相關展示，再帶著線索走進門前仲町。館內活動依檔期安排，適合留一小段安靜的閱讀時間，不必把每場講座都排進行程。",
+      "note": "",
+      "official": "https://fukagawatokyo.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.674038,
+        "lng": 139.794922,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E9%96%80%E5%89%8D%E4%BB%B2%E7%94%BA1-19-15",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/monzen-nakacho/modern.webp",
+        "alt": "深川東京摩登館的日系水彩插圖"
+      },
+      "recommendation": "看看舊公共食堂的建築與當期展示，不必另排一整場導覽。"
+    },
+    {
+      "id": "monzen-nakacho--park",
+      "order": 4,
+      "name": "深川公園",
+      "address": "東京都江東区富岡1-14-10",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "寺院旁的一小片日常綠地",
+      "descriptionParagraphs": [
+        "深川公園是一八七三年東京府最早設置的五座公園之一，原本也與附近寺社的境內地有關。如今這片綠地仍是居民、參拜者在熱鬧門前町稍作停留的場所。",
+        "不必將它當成大型公園專程走遍，穿過樹蔭、看看石造燈明台便能感受街區的歷史層次。若咖啡店候位或同行的人想休息，也適合把步調暫時放慢。"
+      ],
+      "description": "深川公園是一八七三年東京府最早設置的五座公園之一，原本也與附近寺社的境內地有關。如今這片綠地仍是居民、參拜者在熱鬧門前町稍作停留的場所。\n\n不必將它當成大型公園專程走遍，穿過樹蔭、看看石造燈明台便能感受街區的歷史層次。若咖啡店候位或同行的人想休息，也適合把步調暫時放慢。",
+      "note": "",
+      "official": "https://www.koto-kanko.jp/tourism/detail_spot.php?sid=S00133",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.672218,
+        "lng": 139.797424,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-14-10",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/monzen-nakacho/park.webp",
+        "alt": "深川公園的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "monzen-nakacho--monz",
+      "order": 5,
+      "name": "MONZ CAFE 門前仲町店",
+      "address": "東京都江東区富岡1-14-5",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "老甘酒屋裡的新咖啡香",
+      "descriptionParagraphs": [
+        "MONZ CAFE 延續原址甘酒屋的記憶，以杉木、大谷石等材料整理出開放的咖啡空間。店面朝向參道，入口前的長凳也被視為能讓往來行人休息、交流的地方。",
+        "點一杯咖啡坐下，便能觀察參拜者與鄰居經過的日常節奏。這裡距離不動堂很近，適合作為散策中段的休息，把逛店與看建築的時間拉得更從容。"
+      ],
+      "description": "MONZ CAFE 延續原址甘酒屋的記憶，以杉木、大谷石等材料整理出開放的咖啡空間。店面朝向參道，入口前的長凳也被視為能讓往來行人休息、交流的地方。\n\n點一杯咖啡坐下，便能觀察參拜者與鄰居經過的日常節奏。這裡距離不動堂很近，適合作為散策中段的休息，把逛店與看建築的時間拉得更從容。",
+      "note": "",
+      "official": "https://www.monzcafe.com/aboutus/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.672318,
+        "lng": 139.797943,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-14-5",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/monzen-nakacho/monz.webp",
+        "alt": "MONZ CAFE 門前仲町店的日系水彩插圖"
+      },
+      "recommendation": "先坐下喝杯咖啡，觀察參道往來的人。"
+    },
+    {
+      "id": "monzen-nakacho--fudo",
+      "order": 6,
+      "name": "深川不動堂",
+      "address": "東京都江東区富岡1-17-13",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "傳統屋頂與梵字外牆並立",
+      "descriptionParagraphs": [
+        "深川不動堂是成田山新勝寺的東京別院，長久以來吸引參拜者聚集在門前。舊堂的曲線屋頂與新本堂外側的梵字牆面並列，構成很有辨識度的寺院景觀。",
+        "沿參道走近後，可以先從境內觀察建築的細節，再依現場安排決定是否入內參拜。護摩祈禱有固定場次，若想參加應另外留時間，安靜配合寺方動線。"
+      ],
+      "description": "深川不動堂是成田山新勝寺的東京別院，長久以來吸引參拜者聚集在門前。舊堂的曲線屋頂與新本堂外側的梵字牆面並列，構成很有辨識度的寺院景觀。\n\n沿參道走近後，可以先從境內觀察建築的細節，再依現場安排決定是否入內參拜。護摩祈禱有固定場次，若想參加應另外留時間，安靜配合寺方動線。",
+      "note": "",
+      "official": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00139",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.672527,
+        "lng": 139.798187,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-17-13",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/monzen-nakacho/fudo.webp",
+        "alt": "深川不動堂的日系水彩插圖"
+      },
+      "recommendation": "沿短短參道散步，留時間看舊堂與梵字外牆。"
+    },
+    {
+      "id": "monzen-nakacho--orihara",
+      "order": 7,
+      "name": "折原商店 深川不動堂參道店",
+      "address": "東京都江東区富岡1-13-11",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "參道上的酒屋與老派零食",
+      "descriptionParagraphs": [
+        "折原商店位在深川不動堂參道，除了各地日本酒，也介紹懷舊零食、玩具與生活雜貨。從店前招牌到瓶罐陳列，都延續了門前商店與街坊往來的熱鬧氣氛。",
+        "喜歡選酒的人可以慢看瓶身與產地，也能依當日安排體驗店內角打文化。不喝酒同樣可以留意零食與雜貨，將這一站當成參道上一段輕鬆的小店探索。"
+      ],
+      "description": "折原商店位在深川不動堂參道，除了各地日本酒，也介紹懷舊零食、玩具與生活雜貨。從店前招牌到瓶罐陳列，都延續了門前商店與街坊往來的熱鬧氣氛。\n\n喜歡選酒的人可以慢看瓶身與產地，也能依當日安排體驗店內角打文化。不喝酒同樣可以留意零食與雜貨，將這一站當成參道上一段輕鬆的小店探索。",
+      "note": "",
+      "official": "https://www.orihara-net.co.jp/oriharashoten/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.671806,
+        "lng": 139.797592,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-13-11",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/monzen-nakacho/orihara.webp",
+        "alt": "折原商店 深川不動堂參道店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "monzen-nakacho--fukagawajuku",
+      "order": 8,
+      "name": "深川宿 富岡八幡店",
+      "address": "東京都江東区富岡1-23-11",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "用一碗蛤蜊飯認識深川",
+      "descriptionParagraphs": [
+        "深川宿富岡八幡店以深川飯為主角，介紹味噌湯汁澆飯與醬油炊飯兩種吃法。蛤蜊、米飯與不同湯汁的組合，讓這道地方料理成為認識深川飲食的直接入口。",
+        "若想比較兩種風味，可以依當日菜單選擇組合餐；不必再把另一間餐館也排進同一趟散策。店址靠近八幡宮，適合在參拜前後坐下好好吃一頓。"
+      ],
+      "description": "深川宿富岡八幡店以深川飯為主角，介紹味噌湯汁澆飯與醬油炊飯兩種吃法。蛤蜊、米飯與不同湯汁的組合，讓這道地方料理成為認識深川飲食的直接入口。\n\n若想比較兩種風味，可以依當日菜單選擇組合餐；不必再把另一間餐館也排進同一趟散策。店址靠近八幡宮，適合在參拜前後坐下好好吃一頓。",
+      "note": "",
+      "official": "https://fukagawa7.net/store/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.671093,
+        "lng": 139.799194,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-23-11",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/monzen-nakacho/fukagawajuku.webp",
+        "alt": "深川宿 富岡八幡店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "monzen-nakacho--tomioka",
+      "order": 9,
+      "name": "富岡八幡宮",
+      "address": "東京都江東区富岡1-20-3",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "祭典與相撲留下的門前故事",
+      "descriptionParagraphs": [
+        "富岡八幡宮以深川八幡祭聞名，朱紅社殿與大片屋頂是街區醒目的中心。境內也留下橫綱力士碑、大關力士碑等與相撲相關的石碑，讓參拜之外多了閱讀歷史的樂趣。",
+        "走到社殿前看看建築，再從境內小路慢慢繞回街道即可，不必追求每座碑都找到。祭典期間和平日的氣氛差異很大，散策時可依人潮調整停留的位置。"
+      ],
+      "description": "富岡八幡宮以深川八幡祭聞名，朱紅社殿與大片屋頂是街區醒目的中心。境內也留下橫綱力士碑、大關力士碑等與相撲相關的石碑，讓參拜之外多了閱讀歷史的樂趣。\n\n走到社殿前看看建築，再從境內小路慢慢繞回街道即可，不必追求每座碑都找到。祭典期間和平日的氣氛差異很大，散策時可依人潮調整停留的位置。",
+      "note": "",
+      "official": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00007",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.671265,
+        "lng": 139.800003,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-20-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/monzen-nakacho/tomioka.webp",
+        "alt": "富岡八幡宮的日系水彩插圖"
+      },
+      "recommendation": "走到八幡宮看看社殿與境內石碑，再慢慢回車站。"
+    },
+    {
+      "id": "monzen-nakacho--hachiman",
+      "order": 10,
+      "name": "八幡橋",
+      "address": "東京都江東区富岡1丁目19",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "藏在綠道上的明治小鐵橋",
+      "descriptionParagraphs": [
+        "八幡橋原名彈正橋，一八七八年製作，後來移到富岡八幡宮東側。短短的紅色鐵橋保留早期橋梁構造與裝飾，也是國家指定的重要文化財。",
+        "橋下是步行綠道，並非寬闊河道，正適合把這裡當成巷弄裡的一次小發現。看一看弧形鐵構與橋身細節，再沿附近街道回車站，便能輕巧收尾。"
+      ],
+      "description": "八幡橋原名彈正橋，一八七八年製作，後來移到富岡八幡宮東側。短短的紅色鐵橋保留早期橋梁構造與裝飾，也是國家指定的重要文化財。\n\n橋下是步行綠道，並非寬闊河道，正適合把這裡當成巷弄裡的一次小發現。看一看弧形鐵構與橋身細節，再沿附近街道回車站，便能輕巧收尾。",
+      "note": "",
+      "official": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00060",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.672401,
+        "lng": 139.800613,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11%E4%B8%81%E7%9B%AE19",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/monzen-nakacho/hachiman.webp",
+        "alt": "八幡橋的日系水彩插圖"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "monzen-nakacho-slow-walk",
+      "name": "門前仲町的參道與咖啡",
+      "ids": [
+        "monzen-nakacho--monz",
+        "monzen-nakacho--fudo",
+        "monzen-nakacho--tomioka"
+      ],
+      "start": {
+        "name": "門前仲町站",
+        "address": "東京都江東区門前仲町1-4-8",
+        "access": "東京 Metro 東西線、都營大江戶線；從 1 號出口銜接不動堂參道。"
+      },
+      "end": {
+        "name": "門前仲町站",
+        "address": "東京都江東区門前仲町1-4-8",
+        "access": "回到永代通沿線的地鐵入口，依下一段行程選擇東西線或大江戶線。"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "在深川不動堂與八幡宮之間慢走，坐下喝杯咖啡，把餘裕留給參道小店。",
+      "note": "編輯預估包含步行、三處重點停留與 30–45 分鐘自由探索；十點是可選清單。若改吃丸七或深川飯，可替換咖啡停留，餐廳排隊另計。",
+      "stopNotes": {
+        "monzen-nakacho--monz": "先坐下喝杯咖啡，觀察參道往來的人。",
+        "monzen-nakacho--fudo": "沿短短參道散步，留時間看舊堂與梵字外牆。",
+        "monzen-nakacho--tomioka": "走到八幡宮看看社殿與境內石碑，再慢慢回車站。"
+      },
+      "art": "/art/walks/monzen-nakacho/monz.webp"
+    },
+    {
+      "id": "monzen-nakacho-modern-buildings-and-water",
+      "name": "老建築與水岸的小繞路",
+      "ids": [
+        "monzen-nakacho--modern",
+        "monzen-nakacho--river"
+      ],
+      "start": {
+        "name": "門前仲町站",
+        "address": "東京都江東区門前仲町1-4-8",
+        "access": "東京 Metro 東西線、都營大江戶線；從 1 號出口銜接不動堂參道。"
+      },
+      "end": {
+        "name": "門前仲町站",
+        "address": "東京都江東区門前仲町1-4-8",
+        "access": "回到永代通沿線的地鐵入口，依下一段行程選擇東西線或大江戶線。"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "在摩登館認識街區，再轉向黑船橋附近，留一大段時間給水邊與小巷。",
+      "note": "兩處重點搭配步行、休息與 30～45 分鐘自由探索。摩登館週一休館，逢假日改翌日休；導覽團、完整用餐與季節乘船不含在預估內。河岸活動依現場開放狀況安排。",
+      "stopNotes": {
+        "monzen-nakacho--modern": "看看舊公共食堂的建築與當期展示，不必另排一整場導覽。",
+        "monzen-nakacho--river": "在黑船橋周邊沿水岸短走，再循附近小街回到門前仲町站。"
+      },
+      "art": "/art/walks/monzen-nakacho/modern.webp"
+    }
+  ],
+  "defaultSelection": "monzen-nakacho-slow-walk"
+}

@@ -1,0 +1,447 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "kobe-arima--zenpukuji",
+      "official": "https://visit.arima-onsen.com/tw/directory/see/zenpukuji/",
+      "contentSources": [
+        "https://visit.arima-onsen.com/tw/directory/see/zenpukuji/"
+      ],
+      "coordinate": {
+        "lat": 34.797443799999996,
+        "lng": 135.24711725,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/362796388",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-362796388.json"
+      },
+      "photo": {
+        "pageUrl": "https://visit.arima-onsen.com/tw/directory/see/zenpukuji/",
+        "imageUrl": "https://visit.arima-onsen.com/wp/wp-content/uploads/2015/03/10善福寺.jpg",
+        "referencePath": "design/place-references/expansion/kobe-arima/zenpukuji.jpg"
+      }
+    },
+    {
+      "id": "kobe-arima--toys",
+      "official": "https://www.arima-onsen.com/pickup/33/1010/",
+      "contentSources": [
+        "https://www.arima-onsen.com/pickup/33/1010/"
+      ],
+      "coordinate": {
+        "lat": 34.79705055,
+        "lng": 135.2479028,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/262669640",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-262669640.json"
+      },
+      "photo": {
+        "pageUrl": "https://www.arima-onsen.com/pickup/33/1010/",
+        "imageUrl": "https://www.arima-onsen.com/wp/wp-content/uploads/2022/05/141_main_img.jpg",
+        "referencePath": "design/place-references/expansion/kobe-arima/toys.jpg"
+      }
+    },
+    {
+      "id": "kobe-arima--kin",
+      "official": "https://www.arima-onsen.com/pickup/54/3529/",
+      "contentSources": [
+        "https://www.arima-onsen.com/pickup/54/3529/"
+      ],
+      "coordinate": {
+        "lat": 34.79678735,
+        "lng": 135.24794395,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/262667576",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-262667576.json"
+      },
+      "photo": {
+        "pageUrl": "https://www.arima-onsen.com/pickup/54/3529/",
+        "imageUrl": "https://www.arima-onsen.com/wp/wp-content/uploads/2026/09/1d96a4e47550514c689a712c79a68962.jpg",
+        "referencePath": "design/place-references/expansion/kobe-arima/kin.jpg"
+      }
+    },
+    {
+      "id": "kobe-arima--mitsumori",
+      "official": "https://tansan.co.jp/shop/",
+      "contentSources": [
+        "https://tansan.co.jp/shop/"
+      ],
+      "coordinate": {
+        "lat": 34.796642,
+        "lng": 135.248276,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA809",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://tansan.co.jp/shop/",
+        "imageUrl": "https://tansan.co.jp/wp/wp-content/themes/mitsumori/img/shop_img_honpo2.jpg",
+        "referencePath": "design/place-references/expansion/kobe-arima/mitsumori.jpg"
+      }
+    },
+    {
+      "id": "kobe-arima--onsendo",
+      "official": "https://www.arima-onsen.com/pickup/38/1390/",
+      "contentSources": [
+        "https://www.arima-onsen.com/pickup/38/1390/"
+      ],
+      "coordinate": {
+        "lat": 34.796295,
+        "lng": 135.248795,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA820",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.arima-onsen.com/pickup/38/1390/",
+        "imageUrl": "https://www.arima-onsen.com/wp/wp-content/uploads/2022/06/0531956b09a9420f88869a9fe2912ad6.jpg",
+        "referencePath": "design/place-references/expansion/kobe-arima/onsendo.jpg"
+      }
+    },
+    {
+      "id": "kobe-arima--kago",
+      "official": "https://www.arima-onsen.com/pickup/47/1401/",
+      "contentSources": [
+        "https://www.arima-onsen.com/pickup/47/1401/"
+      ],
+      "coordinate": {
+        "lat": 34.79582525,
+        "lng": 135.24937204999998,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/363271305",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-363271305.json"
+      },
+      "photo": {
+        "pageUrl": "https://www.arima-onsen.com/pickup/47/1401/",
+        "imageUrl": "https://www.arima-onsen.com/wp/wp-content/uploads/2022/06/99_main_img.jpg",
+        "referencePath": "design/place-references/expansion/kobe-arima/kago.jpg"
+      }
+    },
+    {
+      "id": "kobe-arima--gin",
+      "official": "https://www.arima-onsen.com/pickup/47/3538/",
+      "contentSources": [
+        "https://www.arima-onsen.com/pickup/47/3538/"
+      ],
+      "coordinate": {
+        "lat": 34.79550915,
+        "lng": 135.24901085,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/362697676",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-362697676.json"
+      },
+      "photo": {
+        "pageUrl": "https://www.arima-onsen.com/pickup/47/3538/",
+        "imageUrl": "https://www.arima-onsen.com/wp/wp-content/uploads/2026/09/3c5e19331cb2a5edabbd9a47dfb603e1-1024x768.jpg",
+        "referencePath": "design/place-references/expansion/kobe-arima/gin.jpg"
+      }
+    },
+    {
+      "id": "kobe-arima--tosen",
+      "official": "https://tousen.or.jp/",
+      "contentSources": [
+        "https://tousen.or.jp/",
+        "https://www.arima-onsen.com/pickup/23/523/"
+      ],
+      "coordinate": {
+        "lat": 34.7950583,
+        "lng": 135.2486723,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/node/5520397953",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵標記，非經測量的指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/node-5520397953.json"
+      },
+      "photo": {
+        "pageUrl": "https://tousen.or.jp/",
+        "imageUrl": "https://tousen.or.jp/wp-content/themes/wp_tousen/images/home_img01.jpg",
+        "referencePath": "design/place-references/expansion/kobe-arima/tosen.jpg"
+      }
+    },
+    {
+      "id": "kobe-arima--onsenji",
+      "official": "https://www.arima-onsen.com/pickup/47/515/",
+      "contentSources": [
+        "https://www.arima-onsen.com/pickup/47/515/"
+      ],
+      "coordinate": {
+        "lat": 34.79581965,
+        "lng": 135.24822475,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/362982917",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-362982917.json"
+      },
+      "photo": {
+        "pageUrl": "https://www.arima-onsen.com/pickup/47/515/",
+        "imageUrl": "https://www.arima-onsen.com/wp/wp-content/uploads/2022/03/111_main_img.jpg",
+        "referencePath": "design/place-references/expansion/kobe-arima/onsenji.jpg"
+      }
+    },
+    {
+      "id": "kobe-arima--nenbutsuji",
+      "official": "https://www.arima-onsen.com/pickup/35/535/",
+      "contentSources": [
+        "https://www.arima-onsen.com/pickup/35/535/"
+      ],
+      "coordinate": {
+        "lat": 34.7960585,
+        "lng": 135.24862259999998,
+        "provider": "osm",
+        "label": "OpenStreetMap 圖徵位置",
+        "url": "https://www.openstreetmap.org/way/288587055",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 設施圖徵範圍中心，非指定入口；抵達後請依現場動線。",
+        "rawResponsePath": "design/next-expansion/research/kobe-arima--osm/way-288587055.json"
+      },
+      "photo": {
+        "pageUrl": "https://www.arima-onsen.com/pickup/35/535/",
+        "imageUrl": "https://www.arima-onsen.com/wp/wp-content/uploads/2022/03/120_main_img.jpg",
+        "referencePath": "design/place-references/expansion/kobe-arima/nenbutsuji.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "kobe-arima--zenpukuji",
+      "query": "兵庫県神戸市北区有馬町1645",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1645",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.244949,
+              34.798347
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "兵庫県神戸市北区有馬町１６４５番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kobe-arima--toys",
+      "query": "兵庫県神戸市北区有馬町797",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA797",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.248535,
+              34.797398
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "兵庫県神戸市北区有馬町７９７番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kobe-arima--kin",
+      "query": "兵庫県神戸市北区有馬町833",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA833",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.247757,
+              34.796627
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "兵庫県神戸市北区有馬町８３３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kobe-arima--mitsumori",
+      "query": "兵庫県神戸市北区有馬町809",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA809",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.248276,
+              34.796642
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "兵庫県神戸市北区有馬町８０９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kobe-arima--onsendo",
+      "query": "兵庫県神戸市北区有馬町820",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA820",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.248795,
+              34.796295
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "兵庫県神戸市北区有馬町８２０番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kobe-arima--kago",
+      "query": "兵庫県神戸市北区有馬町1049",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1049",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.248993,
+              34.795872
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "兵庫県神戸市北区有馬町１０４９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kobe-arima--gin",
+      "query": "兵庫県神戸市北区有馬町1039-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1039-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.247742,
+              34.794292
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "兵庫県神戸市北区有馬町１０３９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kobe-arima--tosen",
+      "query": "兵庫県神戸市北区有馬町1908",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1908",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.248657,
+              34.795578
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "兵庫県神戸市北区有馬町１９０８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kobe-arima--onsenji",
+      "query": "兵庫県神戸市北区有馬町1643",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1643",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.247742,
+              34.794292
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "兵庫県神戸市北区有馬町１６４３番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kobe-arima--nenbutsuji",
+      "query": "兵庫県神戸市北区有馬町1641",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1641",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.248993,
+              34.795872
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "兵庫県神戸市北区有馬町１６４１番地"
+          }
+        }
+      ]
+    }
+  ]
+}

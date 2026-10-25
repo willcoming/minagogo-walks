@@ -1,0 +1,398 @@
+{
+  "updatedAt": "2026-10-24",
+  "places": [
+    {
+      "id": "nihonbashi--haibara",
+      "order": 1,
+      "name": "榛原日本橋本店",
+      "address": "東京都中央区日本橋2-7-1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "和紙的紋樣，從江戶走進今天",
+      "descriptionParagraphs": [
+        "榛原以和紙與紙製品連結日本橋的老店文化，花紋便箋、信封與包裝紙各有細節。現代店面與細緻紙品放在一起，讓傳統素材顯得親切而好用。",
+        "從日本橋站出發便可順路走進店內，挑一張喜歡的紙或一本小筆記。若不打算購物，也可以慢慢看圖樣與紙張質地，作為認識街區的起點。"
+      ],
+      "description": "榛原以和紙與紙製品連結日本橋的老店文化，花紋便箋、信封與包裝紙各有細節。現代店面與細緻紙品放在一起，讓傳統素材顯得親切而好用。\n\n從日本橋站出發便可順路走進店內，挑一張喜歡的紙或一本小筆記。若不打算購物，也可以慢慢看圖樣與紙張質地，作為認識街區的起點。",
+      "note": "",
+      "official": "https://museum.haibara.co.jp/shop/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.682316,
+        "lng": 139.773773,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B2-7-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/haibara.webp",
+        "alt": "榛原日本橋本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--bridge",
+      "order": 2,
+      "name": "日本橋",
+      "address": "東京都中央区日本橋1-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在石橋邊，看看東京如何流過",
+      "descriptionParagraphs": [
+        "現在的日本橋是明治時期完成的石造雙拱橋，橋上雕飾與水道保留城市交通的歷史。高架道路與周邊新建築同時出現在視野裡，呈現持續改變的東京。",
+        "沿人行道看欄杆與橋頭景物，再從北側進入室町即可。周邊可能因工程調整動線，依現場通行指示慢走，不需要為拍照停在車流邊緣。"
+      ],
+      "description": "現在的日本橋是明治時期完成的石造雙拱橋，橋上雕飾與水道保留城市交通的歷史。高架道路與周邊新建築同時出現在視野裡，呈現持續改變的東京。\n\n沿人行道看欄杆與橋頭景物，再從北側進入室町即可。周邊可能因工程調整動線，依現場通行指示慢走，不需要為拍照停在車流邊緣。",
+      "note": "",
+      "official": "https://www.city.chuo.lg.jp/miryoku/imamukashi/nihonbashi.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.683861,
+        "lng": 139.773697,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/bridge.webp",
+        "alt": "日本橋的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--nori",
+      "order": 3,
+      "name": "山本海苔店日本橋本店",
+      "address": "東京都中央区日本橋室町1-8-3",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "從一片海苔，認識老店的新日常",
+      "descriptionParagraphs": [
+        "山本海苔店長年專注海苔，從家用包裝到送禮品項都有自己的選擇。二〇二五年搬入室町 NS 大樓的新本店後，也以手卷餐飲讓人直接品嘗海苔的香氣。",
+        "目前店址在室町一丁目八番三號，離舊店步行不遠，可與附近老店串接。想吃手卷時把它當成一餐安排；單純挑選海苔，也能保持散步節奏輕巧。"
+      ],
+      "description": "山本海苔店長年專注海苔，從家用包裝到送禮品項都有自己的選擇。二〇二五年搬入室町 NS 大樓的新本店後，也以手卷餐飲讓人直接品嘗海苔的香氣。\n\n目前店址在室町一丁目八番三號，離舊店步行不遠，可與附近老店串接。想吃手卷時把它當成一餐安排；單純挑選海苔，也能保持散步節奏輕巧。",
+      "note": "",
+      "official": "https://www.yamamoto-noriten.co.jp/store/store-39/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.684505,
+        "lng": 139.775162,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA1-8-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/nori.webp",
+        "alt": "山本海苔店日本橋本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--ibasen",
+      "order": 4,
+      "name": "伊場仙",
+      "address": "東京都中央区日本橋小舟町4-1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "一把扇子，留住江戶圖樣的趣味",
+      "descriptionParagraphs": [
+        "伊場仙與江戶扇子、團扇及浮世繪文化有深厚連結，店裡把圖案與日常工具放在一起。從扇面配色到竹骨細節，能看出同一件物品裡兼具的手藝與玩心。",
+        "小舟町店面比大街安靜，適合從室町向東多走一小段。以欣賞手工與選一件實用小物為主，不必安排成長時間購物行程。"
+      ],
+      "description": "伊場仙與江戶扇子、團扇及浮世繪文化有深厚連結，店裡把圖案與日常工具放在一起。從扇面配色到竹骨細節，能看出同一件物品裡兼具的手藝與玩心。\n\n小舟町店面比大街安靜，適合從室町向東多走一小段。以欣賞手工與選一件實用小物為主，不必安排成長時間購物行程。",
+      "note": "",
+      "official": "https://www.nihonbashi-tokyo.jp/shops/tech-201107/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.687435,
+        "lng": 139.777206,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%B0%8F%E8%88%9F%E7%94%BA4-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/ibasen.webp",
+        "alt": "伊場仙的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--fukutoku",
+      "order": 5,
+      "name": "福德神社",
+      "address": "東京都中央区日本橋室町2-4-14",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "商業街區裡，一處朱色停頓",
+      "descriptionParagraphs": [
+        "福德神社坐落在室町商業街區中央，朱色鳥居與社殿在現代建築之間格外清楚。小巧境內與旁邊開放空間，讓逛街動線多了一處安靜的停留。",
+        "從老店街轉進來參拜後，可接 COREDO 室町或水果喫茶。保持入口與參道順暢，短短一段停留便能感受神社與城市並存的風景。"
+      ],
+      "description": "福德神社坐落在室町商業街區中央，朱色鳥居與社殿在現代建築之間格外清楚。小巧境內與旁邊開放空間，讓逛街動線多了一處安靜的停留。\n\n從老店街轉進來參拜後，可接 COREDO 室町或水果喫茶。保持入口與參道順暢，短短一段停留便能感受神社與城市並存的風景。",
+      "note": "",
+      "official": "https://mebuki.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "36mT1AvxWrI",
+          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
+          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "W4TmqMySm0Q",
+          "title": "A Day in Tokyo : Yaesu & Nihonbashi / Tokyo's Timeless & Modern Heart | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=W4TmqMySm0Q",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.687042,
+        "lng": 139.774246,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-4-14",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/fukutoku.webp",
+        "alt": "福德神社的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--ninben",
+      "order": 6,
+      "name": "日本橋だし場本店",
+      "address": "東京都中央区日本橋室町2-2-1",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "用一杯高湯，換一種休息方式",
+      "descriptionParagraphs": [
+        "にんべん在 COREDO 室町的だし場本店，以鰹節與高湯為主角，讓日常食材成為可以直接品嘗的味道。比起正式用餐，一杯溫熱高湯就能形成輕巧停頓。",
+        "可在木屋或神社之後順路看看當日供應，再決定是否加點食物。這裡是本店的高湯吧，與其他分店餐廳不同，選擇時留意店名與樓層。"
+      ],
+      "description": "にんべん在 COREDO 室町的だし場本店，以鰹節與高湯為主角，讓日常食材成為可以直接品嘗的味道。比起正式用餐，一杯溫熱高湯就能形成輕巧停頓。\n\n可在木屋或神社之後順路看看當日供應，再決定是否加點食物。這裡是本店的高湯吧，與其他分店餐廳不同，選擇時留意店名與樓層。",
+      "note": "",
+      "official": "https://www.ninben.co.jp/store/dashiba/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.686451,
+        "lng": 139.774048,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-2-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/ninben.webp",
+        "alt": "日本橋だし場本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--kiya",
+      "order": 7,
+      "name": "日本橋木屋本店",
+      "address": "東京都中央区日本橋室町2-2-1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "把廚房裡的工具，重新看一遍",
+      "descriptionParagraphs": [
+        "木屋本店以刀具與廚房用品展現日本橋的器物文化，整齊陳列讓材料與用途成為焦點。從一把刀到小型料理工具，都能引人留意日常動作背後的設計。",
+        "與だし場位於同一座商業設施，可依興趣前後調整。選購前先了解尺寸、用途與保養方式，將看工具當作一段從容的生活觀察。"
+      ],
+      "description": "木屋本店以刀具與廚房用品展現日本橋的器物文化，整齊陳列讓材料與用途成為焦點。從一把刀到小型料理工具，都能引人留意日常動作背後的設計。\n\n與だし場位於同一座商業設施，可依興趣前後調整。選購前先了解尺寸、用途與保養方式，將看工具當作一段從容的生活觀察。",
+      "note": "",
+      "official": "https://www.kiya-hamono.co.jp/shop/kiya_honten.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.686451,
+        "lng": 139.774048,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-2-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/kiya.webp",
+        "alt": "日本橋木屋本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--sembikiya",
+      "order": 8,
+      "name": "千疋屋總本店日本橋本店",
+      "address": "東京都中央区日本橋室町2-1-2",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "讓一份水果，接住午後腳步",
+      "descriptionParagraphs": [
+        "千疋屋總本店日本橋本店將水果販售與喫茶空間放在同一處，明亮陳列帶出季節色彩。水果甜點與芭菲讓人不必買一整份禮盒，也能以一餐小休認識老店。",
+        "可在逛完室町後坐下，再從三越前站離開。不同樓層有各自的座位與菜單，依當日候位情況選擇，不必為指定品項壓縮其他散步時間。"
+      ],
+      "description": "千疋屋總本店日本橋本店將水果販售與喫茶空間放在同一處，明亮陳列帶出季節色彩。水果甜點與芭菲讓人不必買一整份禮盒，也能以一餐小休認識老店。\n\n可在逛完室町後坐下，再從三越前站離開。不同樓層有各自的座位與菜單，依當日候位情況選擇，不必為指定品項壓縮其他散步時間。",
+      "note": "",
+      "official": "https://www.sembikiya.co.jp/shop-list/main-store",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.686127,
+        "lng": 139.772583,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-1-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/sembikiya.webp",
+        "alt": "千疋屋總本店日本橋本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--museum",
+      "order": 9,
+      "name": "三井紀念美術館",
+      "address": "東京都中央区日本橋室町2-1-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "把城市聲音，留在展廳外",
+      "descriptionParagraphs": [
+        "三井紀念美術館位於三井本館七樓，以日本與東亞美術、茶道器物等收藏形成展覽特色。沉穩展廳與老建築背景，適合把注意力收回器物、繪畫與細節之間。",
+        "若當期展覽符合興趣，可用這裡替換一兩間商店，避免把全展硬塞進三小時。入口依三井大樓一樓的指標前往，展期、休館與購票方式先看當日公告。"
+      ],
+      "description": "三井紀念美術館位於三井本館七樓，以日本與東亞美術、茶道器物等收藏形成展覽特色。沉穩展廳與老建築背景，適合把注意力收回器物、繪畫與細節之間。\n\n若當期展覽符合興趣，可用這裡替換一兩間商店，避免把全展硬塞進三小時。入口依三井大樓一樓的指標前往，展期、休館與購票方式先看當日公告。",
+      "note": "",
+      "official": "https://www.mitsui-museum.jp/overview/overview.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.686001,
+        "lng": 139.772644,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/museum.webp",
+        "alt": "三井紀念美術館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--mitsukoshi",
+      "order": 10,
+      "name": "日本橋三越本店",
+      "address": "東京都中央区日本橋室町1-4-1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "從百貨立面，看見東京的華麗日常",
+      "descriptionParagraphs": [
+        "日本橋三越本店延續越後屋以來的商業歷史，厚實立面與入口細節讓百貨本身也值得觀看。走進館內，能感受到城市購物文化累積出的空間尺度。",
+        "可將這裡作為返回三越前站前的最後一站，短看建築或逛一層即可。若想深入購物與展覽，另留一個下午，讓本次小街散步保持輕鬆。"
+      ],
+      "description": "日本橋三越本店延續越後屋以來的商業歷史，厚實立面與入口細節讓百貨本身也值得觀看。走進館內，能感受到城市購物文化累積出的空間尺度。\n\n可將這裡作為返回三越前站前的最後一站，短看建築或逛一層即可。若想深入購物與展覽，另留一個下午，讓本次小街散步保持輕鬆。",
+      "note": "",
+      "official": "https://www.city.chuo.lg.jp/miryoku/imamukashi/mitsukoshi.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "W4TmqMySm0Q",
+          "title": "A Day in Tokyo : Yaesu & Nihonbashi / Tokyo's Timeless & Modern Heart | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=W4TmqMySm0Q",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "MissLiv 日本旅行和生活",
+          "videoId": "qB0t_EZfeng",
+          "title": "【日本橋散步】走進東京最時髦的第一間百貨 三越本館｜京都老咖啡館Soiree 夢幻甜品 ｜去吃到過南極的烏龍麵｜Tokyo vlog｜日本旅行",
+          "url": "https://www.youtube.com/watch?v=qB0t_EZfeng",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.685177,
+        "lng": 139.77298,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA1-4-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/mitsukoshi.webp",
+        "alt": "日本橋三越本店的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "nihonbashi-slow-walk",
+      "name": "石橋、手藝與果香小休",
+      "ids": [
+        "nihonbashi--bridge",
+        "nihonbashi--fukutoku",
+        "nihonbashi--sembikiya"
+      ],
+      "start": {
+        "name": "日本橋站 B6 出口",
+        "address": "東京都中央区日本橋2-7-1",
+        "access": "東京 Metro 銀座線、東西線、都營淺草線"
+      },
+      "end": {
+        "name": "三越前站 A7 出口",
+        "address": "東京都中央区日本橋室町2-1-2"
+      },
+      "totalMinutes": [
+        120,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從石橋走進室町小街，把和紙、木器與一份水果甜點串成午後。",
+      "note": "三個重點、沿路一兩間老店與 30～45 分鐘自由探索，約 2～3 小時。十點可依興趣替換；入美術館看完整展覽或排隊用餐，另留時間。",
+      "stopNotes": {
+        "nihonbashi--bridge": "從橋邊看石造欄杆與城市水道，再往室町走。",
+        "nihonbashi--fukutoku": "在商業街區中央的神社前，留一段安靜時間。",
+        "nihonbashi--sembikiya": "選一份水果甜點休息，將剩下的時間留給附近老店。"
+      },
+      "art": "/art/walks/nihonbashi/bridge.webp"
+    }
+  ],
+  "defaultSelection": "nihonbashi-slow-walk"
+}

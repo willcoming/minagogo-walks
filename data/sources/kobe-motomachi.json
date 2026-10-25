@@ -1,0 +1,428 @@
+{
+  "checkedAt": "2026-10-24",
+  "walkId": "kobe-motomachi",
+  "method": "依官方店家、公共設施及旅遊機關資料整理為原創繁體中文介紹；未聲稱親訪、評分或即時營業保證。",
+  "places": [
+    {
+      "id": "kobe-motomachi--museum",
+      "contentSources": [
+        "https://kobecitymuseum.jp/",
+        "https://www.feel-kobe.jp/model_course/modelcourse_04/"
+      ],
+      "coordinate": {
+        "lat": 34.68732191666667,
+        "lng": 135.19292733333336,
+        "url": "https://www.openstreetmap.org/way/182530400",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.feel-kobe.jp/model_course/modelcourse_04/",
+        "imageUrl": "https://www.feel-kobe.jp/wp-content/uploads/facilities/0000000078/神戸市立博物館（外観写真）-e1715821473624.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--nankin",
+      "contentSources": [
+        "https://www.nankinmachi.or.jp/about"
+      ],
+      "coordinate": {
+        "lat": 34.688218658333334,
+        "lng": 135.18810417499998,
+        "url": "https://www.openstreetmap.org/relation/8148512",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.japan-guide.com/e/e3551.html",
+        "imageUrl": "https://www.japan-guide.com/g19/3551_top.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--estroyal",
+      "contentSources": [
+        "https://www.estroyal.co.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.6885027,
+        "lng": 135.1886407,
+        "url": "https://www.openstreetmap.org/node/6325721686",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.estroyal.co.jp/",
+        "imageUrl": "https://www.estroyal.co.jp/img/top/chou.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--meriken",
+      "contentSources": [
+        "https://www.feel-kobe.jp/facilities/0000000144/"
+      ],
+      "coordinate": {
+        "lat": 34.6835132559322,
+        "lng": 135.18913883559318,
+        "url": "https://www.openstreetmap.org/way/529083594",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.feel-kobe.jp/facilities/0000000144/",
+        "imageUrl": "https://www.feel-kobe.jp/wp-content/uploads/2021/03/photos_kf1552301337131_yyaIUaSHbeWD87HO_00000000144_01.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--humanmade",
+      "contentSources": [
+        "https://humanmade.co.jp/news/260210"
+      ],
+      "coordinate": {
+        "lat": 34.6864381,
+        "lng": 135.19272214285715,
+        "url": "https://www.openstreetmap.org/way/247610791",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://humanmade.co.jp/news/260210",
+        "imageUrl": "https://images.microcms-assets.io/assets/9a23e0c685434a369fc18f1dd983c8b0/fa1563c8110a4a8aaff6f4ce0c218cdb/0210_NEWS_KOBE01.webp"
+      }
+    },
+    {
+      "id": "kobe-motomachi--feelseen",
+      "contentSources": [
+        "https://feelseen.jp/pages/store",
+        "https://feelseen.jp/pages/about"
+      ],
+      "coordinate": {
+        "lat": 34.686428,
+        "lng": 135.188858,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%92%E7%95%AA%EF%BC%98%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://feelseen.jp/pages/store",
+        "imageUrl": "https://feelseen.jp/cdn/shop/files/IMG_0053.png?v=1654238467"
+      }
+    },
+    {
+      "id": "kobe-motomachi--umie",
+      "contentSources": [
+        "https://harborland.co.jp/area_guide/umie/",
+        "https://kannonya.co.jp/?mode=f3"
+      ],
+      "coordinate": {
+        "lat": 34.679356,
+        "lng": 135.184692,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%B7%9D%E5%B4%8E%E7%94%BA%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%96%E7%95%AA",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://harborland.co.jp/area_guide/umie/",
+        "imageUrl": "https://harborland.co.jp/wpapp/wp-content/uploads/2023/09/slider_umie01.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--mouriya",
+      "contentSources": [
+        "https://www.mouriya.co.jp/royal"
+      ],
+      "coordinate": {
+        "lat": 34.692799,
+        "lng": 135.191467,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A%E4%B8%80%E4%B8%81%E7%9B%AE%EF%BC%99%E7%95%AA%EF%BC%99%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.mouriya.co.jp/royal",
+        "imageUrl": "https://www.mouriya.co.jp/wp/wp-content/themes/mouriya/img/royal_photo1.webp"
+      }
+    },
+    {
+      "id": "kobe-motomachi--tower",
+      "contentSources": [
+        "https://www.kobe-port-tower.com/"
+      ],
+      "coordinate": {
+        "lat": 34.68262978666667,
+        "lng": 135.18672204444448,
+        "url": "https://www.openstreetmap.org/way/99457921",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.feel-kobe.jp/facilities/0000000144/",
+        "imageUrl": "https://www.feel-kobe.jp/wp-content/uploads/kobeporttower_2-1024x709.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--maritime",
+      "contentSources": [
+        "https://kobe-maritime-museum.com/"
+      ],
+      "coordinate": {
+        "lat": 34.6829503,
+        "lng": 135.1884501,
+        "url": "https://www.openstreetmap.org/node/1423083509",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://kobe-maritime-museum.com/",
+        "imageUrl": "https://kobe-maritime-museum.com/wp-content/themes/kobe-maritime-museum/images/top/mv.webp"
+      }
+    },
+    {
+      "id": "kobe-motomachi--daimaru",
+      "contentSources": [
+        "https://www.daimaru.co.jp/kobe/"
+      ],
+      "coordinate": {
+        "lat": 34.68866,
+        "lng": 135.190674,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%98%8E%E7%9F%B3%E7%94%BA%EF%BC%94%EF%BC%90%E7%95%AA%E5%9C%B0",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://kisspress.jp/articles/62260/",
+        "imageUrl": "https://kisspress.jp/img/articles/62200-62299/62260/img69d90a9324689_xl.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--juchheim",
+      "contentSources": [
+        "https://www.juchheim.co.jp/shop/%E6%9C%AC%E5%BA%97"
+      ],
+      "coordinate": {
+        "lat": 34.688696,
+        "lng": 135.189129,
+        "url": "https://www.openstreetmap.org/node/3496550396",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://kobe-journal.com/archives/9777797262.html",
+        "imageUrl": "https://kobe-journal.com/web/images/2026/04/4b25f611ec68addebe7963d56fed3aaa.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--kannonya",
+      "contentSources": [
+        "https://kannonya.co.jp/?mode=f3",
+        "https://kannonya.co.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.6882863,
+        "lng": 135.1863732,
+        "url": "https://www.openstreetmap.org/node/7591769111",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://kannonya.co.jp/",
+        "imageUrl": "https://file003.shop-pro.jp/PA01495/037/images/home/main_slide01_pc.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--monteplus",
+      "contentSources": [
+        "https://www.montplus.com/"
+      ],
+      "coordinate": {
+        "lat": 34.686329,
+        "lng": 135.186813,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A%E4%B8%89%E4%B8%81%E7%9B%AE%EF%BC%91%E7%95%AA%EF%BC%91%EF%BC%97%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.montplus.com/",
+        "imageUrl": "https://www.montplus.com/sites/images/index/topBK1.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--tombodama",
+      "contentSources": [
+        "https://lampwork-museum.com/"
+      ],
+      "coordinate": {
+        "lat": 34.6885803,
+        "lng": 135.1937695,
+        "url": "https://www.openstreetmap.org/node/6403847583",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://lampwork-museum.com/",
+        "imageUrl": "https://www.lampwork-museum.com/wp/wp-content/uploads/2021/06/main_img05.jpg"
+      }
+    },
+    {
+      "id": "kobe-motomachi--minatogawa",
+      "contentSources": [
+        "https://www.minatogawajinja.or.jp/",
+        "https://www.feel-kobe.jp/facilities/0000000113/",
+        "https://rekihaku.pref.hyogo.lg.jp/digital_museum/trip/road_sanyou/minatogawajinja/"
+      ],
+      "coordinate": {
+        "lat": 34.68096317826087,
+        "lng": 135.1757241565217,
+        "provider": "osm",
+        "label": "OpenStreetMap 神社敷地代表點",
+        "url": "https://www.openstreetmap.org/relation/14742022",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "依神社敷地外框計算代表點，非入口實測；現場請由對外開放的表門參拜。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.feel-kobe.jp/facilities/0000000113/",
+        "imageUrl": "https://www.feel-kobe.jp/wp-content/uploads/2021/03/photos_kf1558951733743_Yj1FDyrnMz9N3Uw8_0000000113_03.jpg"
+      },
+      "videoSources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "time": "20:48",
+          "seconds": 1248,
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1248s"
+        }
+      ]
+    }
+  ],
+  "walking": {
+    "provider": "OSRM routed-foot / OpenStreetMap",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/135.19292733333336,34.68732191666667;135.18810417499998,34.688218658333334;135.1886407,34.6885027;135.18913883559318,34.6835132559322?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "raw": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 46.97,
+              "summary": "",
+              "duration": 451,
+              "distance": 563.6
+            },
+            {
+              "steps": [],
+              "weight": 6.92,
+              "summary": "",
+              "duration": 66.3,
+              "distance": 82.8
+            },
+            {
+              "steps": [],
+              "weight": 96.68,
+              "summary": "",
+              "duration": 857.3,
+              "distance": 1066.3
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 150.57,
+          "duration": 1374.6,
+          "distance": 1712.7
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "wd7DhqQvzIsBAQAAegIAAAAAAAAAAAAARBL3QYr7l0IAAAAAAAAAAPYAAABhAgAAAAAAAAAAAABxAgAAJeAOCGhJEQJf4Q4IWkkRAgAAPwAAAAAA",
+          "location": [
+            135.192613,
+            34.687336
+          ],
+          "name": "",
+          "distance": 28.81923841
+        },
+        {
+          "hint": "nANvgq1DIINyAAAAnQAAAAAAAAAAAAAAqCVaQScDl0EAAAAAAAAAAG0AAACXAAAAAAAAAAAAAABxAgAAPM4OCNRMEQKIzg4I20wRAgAA3woAAAAA",
+          "location": [
+            135.188028,
+            34.688212
+          ],
+          "name": "南京北路",
+          "distance": 7.00837493
+        },
+        {
+          "hint": "VixdgJ4Db4LUAAAAawAAAAAAAAAAAAAAalfMQWiJS0EAAAAAAAAAAMwAAABmAAAAAAAAAAAAAABxAgAAgNAOCPRNEQKh0A4I900RAgAA3woAAAAA",
+          "location": [
+            135.188608,
+            34.6885
+          ],
+          "name": "中山街",
+          "distance": 3.042628077
+        },
+        {
+          "hint": "uIXehr6F3obaAAAAAAAAAAAAAAAAAAAANlauQQAAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAAAAAABxAgAAc9IOCNc5EQKT0g4IeToRAgAALwUAAAAA",
+          "location": [
+            135.189107,
+            34.683351
+          ],
+          "name": "",
+          "distance": 18.209132
+        }
+      ]
+    },
+    "estimateNote": "純步行路線估算；未包含候位、天候、拍照、上下坡造成的速度差異。"
+  },
+  "visitEstimate": {
+    "minutes": [
+      100,
+      160
+    ],
+    "method": "編輯估算：依四站參觀、購物及一至兩次餐飲休息加總，不含候位與交通進出。"
+  }
+}

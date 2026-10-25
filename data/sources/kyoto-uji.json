@@ -1,0 +1,564 @@
+{
+  "geocoding": [
+    {
+      "id": "kyoto-uji--soma",
+      "query": "京都府宇治市宇治里尻8-9",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%AE%87%E6%B2%BB%E9%87%8C%E5%B0%BB8-9",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.802307,
+              34.891628
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府宇治市宇治里尻８番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-uji--marukyu",
+      "query": "京都府宇治市小倉町寺内86",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%B0%8F%E5%80%89%E7%94%BA%E5%AF%BA%E5%86%8586",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.785522,
+              34.896175
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府宇治市小倉町寺内８６番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-uji--yamamasa",
+      "query": "京都府宇治市小倉町久保96",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%B0%8F%E5%80%89%E7%94%BA%E4%B9%85%E4%BF%9D96",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.784088,
+              34.89669
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府宇治市小倉町久保９６番地"
+          }
+        }
+      ]
+    }
+  ],
+  "checkedAt": "2026-10-24",
+  "method": "官方及地方觀光資訊查證後，以繁體中文原創改寫；照片僅作私下插圖參考，公開圖為獨立生成水彩。",
+  "places": [
+    {
+      "id": "kyoto-uji--nakamura",
+      "official": "https://tokichi.jp/pages/honten-store-page",
+      "contentSources": [
+        "https://tokichi.jp/pages/honten-store-page",
+        "https://www.ujibashi.jp/shop/nakamuratoukichi/"
+      ],
+      "coordinate": {
+        "lat": 34.8894104,
+        "lng": 135.8017106,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/4562944689",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ujibashi.jp/shop/nakamuratoukichi/",
+        "imageUrl": "https://www.ujibashi.jp/wp-content/uploads/2021/05/宇治本店・生茶ゼリイ-1600-450x450.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/nakamura.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ujibashi.jp/shop/nakamuratoukichi/",
+        "imageUrl": "https://www.ujibashi.jp/wp-content/uploads/2021/05/宇治本店・生茶ゼリイ-1600-450x450.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/nakamura.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--byodoin",
+      "official": "https://www.byodoin.or.jp/",
+      "contentSources": [
+        "https://www.byodoin.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.8895159286,
+        "lng": 135.8073788714,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/332883349",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.byodoin.or.jp/learn/architecture/",
+        "imageUrl": "https://www.byodoin.or.jp/common/img/architecture-houou-01.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/byodoin.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.byodoin.or.jp/learn/architecture/",
+        "imageUrl": "https://www.byodoin.or.jp/common/img/architecture-houou-01.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/byodoin.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--fukujuen",
+      "official": "https://www.ujikoubou.com/",
+      "contentSources": [
+        "https://www.ujikoubou.com/"
+      ],
+      "coordinate": {
+        "lat": 34.8902728933,
+        "lng": 135.8105865133,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/177930117",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ujikoubou.com/",
+        "imageUrl": "https://www.ujikoubou.com/dwp/wp-content/uploads/2024/07/uji_top_01.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/fukujuen.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ujikoubou.com/",
+        "imageUrl": "https://www.ujikoubou.com/dwp/wp-content/uploads/2024/07/uji_top_01.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/fukujuen.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--ujigami",
+      "official": "https://www.ujikamijinja.jp/",
+      "contentSources": [
+        "https://www.ujikamijinja.jp/",
+        "https://www.pref.kyoto.jp/isan/ujigami.html"
+      ],
+      "coordinate": {
+        "lat": 34.89192054,
+        "lng": 135.8113452067,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/332816179",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.pref.kyoto.jp/isan/ujigami.html",
+        "imageUrl": "https://www.pref.kyoto.jp/isan/images/ujiga2.gif",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/ujigami.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.pref.kyoto.jp/isan/ujigami.html",
+        "imageUrl": "https://www.pref.kyoto.jp/isan/images/ujiga2.gif",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/ujigami.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--ujijinja",
+      "official": "https://uji-jinja.com/",
+      "contentSources": [
+        "https://uji-jinja.com/"
+      ],
+      "coordinate": {
+        "lat": 34.8908552625,
+        "lng": 135.8103794375,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/332821521",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://uji-jinja.com/",
+        "imageUrl": "https://uji-jinja.com/_img/top_image01.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/ujijinja-real1.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://uji-jinja.com/",
+        "imageUrl": "https://uji-jinja.com/_img/top_image01.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/ujijinja-real1.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--koshoji",
+      "official": "https://www.uji-koushouji.jp/",
+      "contentSources": [
+        "https://www.uji-koushouji.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.8893998071,
+        "lng": 135.8132219333,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/921340615",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.uji-koushouji.jp/grounds/",
+        "imageUrl": "https://www.uji-koushouji.jp/img/grounds/img33.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/koshoji.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.uji-koushouji.jp/grounds/",
+        "imageUrl": "https://www.uji-koushouji.jp/img/grounds/img33.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/koshoji.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--tsuen",
+      "official": "https://tsuentea.com/",
+      "contentSources": [
+        "https://tsuentea.com/"
+      ],
+      "coordinate": {
+        "lat": 34.8932683875,
+        "lng": 135.8072298375,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/333067893",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.keihan.co.jp/uji-fushimi/uji/",
+        "imageUrl": "https://www.keihan.co.jp/uji-fushimi/assets/img/uji/img_spot01_03_a.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/tsuen.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.keihan.co.jp/uji-fushimi/uji/",
+        "imageUrl": "https://www.keihan.co.jp/uji-fushimi/assets/img/uji/img_spot01_03_a.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/tsuen.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--taihoan",
+      "official": "https://www.kyoto-uji-kankou.or.jp/taihoan.html",
+      "contentSources": [
+        "https://www.kyoto-uji-kankou.or.jp/taihoan.html"
+      ],
+      "coordinate": {
+        "lat": 34.8889704444,
+        "lng": 135.8086862889,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/332875357",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kyoto-uji-kankou.or.jp/taihoan.html",
+        "imageUrl": "https://www.kyoto-uji-kankou.or.jp/slide/taihoan/slide01.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/taihoan.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kyoto-uji-kankou.or.jp/taihoan.html",
+        "imageUrl": "https://www.kyoto-uji-kankou.or.jp/slide/taihoan/slide01.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/taihoan.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--genji",
+      "official": "https://www.city.uji.kyoto.jp/site/genji/",
+      "contentSources": [
+        "https://www.city.uji.kyoto.jp/site/genji/"
+      ],
+      "coordinate": {
+        "lat": 34.894103,
+        "lng": 135.810169,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/1422963059",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.uji.kyoto.jp/site/ijuteiju/19830.html",
+        "imageUrl": "https://www.city.uji.kyoto.jp/uploaded/image/5829.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/genji.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.city.uji.kyoto.jp/site/ijuteiju/19830.html",
+        "imageUrl": "https://www.city.uji.kyoto.jp/uploaded/image/5829.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/genji.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--chazuna",
+      "official": "https://uji-chazuna.kyoto/",
+      "contentSources": [
+        "https://uji-chazuna.kyoto/"
+      ],
+      "coordinate": {
+        "lat": 34.8965724462,
+        "lng": 135.8054984615,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/923360751",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://uji-chazuna.kyoto/",
+        "imageUrl": "https://uji-chazuna.kyoto/wp/wp-content/themes/chazuna-theme/assets/img/top/about_img.png",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/chazuna.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://uji-chazuna.kyoto/",
+        "imageUrl": "https://uji-chazuna.kyoto/wp/wp-content/themes/chazuna-theme/assets/img/top/about_img.png",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/chazuna.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--itohjr",
+      "official": "https://www.itohkyuemon.co.jp/corporate/shop/jruji/",
+      "contentSources": [
+        "https://www.itohkyuemon.co.jp/corporate/shop/jruji/",
+        "https://www.ujibashi.jp/shop/ito-kyuemon/"
+      ],
+      "coordinate": {
+        "lat": 34.8897196,
+        "lng": 135.8013609,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/5260350486",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.ujibashi.jp/shop/ito-kyuemon/",
+        "imageUrl": "https://www.ujibashi.jp/wp-content/uploads/2021/05/gazouC01-570-450x450.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/itohjr.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.ujibashi.jp/shop/ito-kyuemon/",
+        "imageUrl": "https://www.ujibashi.jp/wp-content/uploads/2021/05/gazouC01-570-450x450.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/itohjr.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--soma",
+      "official": "https://www.instagram.com/soma_bre/",
+      "contentSources": [
+        "https://www.instagram.com/soma_bre/",
+        "https://uryu-tsushin.kyoto-art.ac.jp/detail/1498",
+        "https://www.leafkyoto.net/store/230421-kyoto-soma/"
+      ],
+      "coordinate": {
+        "lat": 34.891628,
+        "lng": 135.802307,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%AE%87%E6%B2%BB%E9%87%8C%E5%B0%BB8-9",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.leafkyoto.net/store/230421-kyoto-soma/",
+        "imageUrl": "https://www.leafkyoto.net/leaf/wp-content/uploads/2023/04/5B5535A2-D0BD-4B18-811F-5C5FEF9F0690-1024x682.jpeg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/soma.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.leafkyoto.net/store/230421-kyoto-soma/",
+        "imageUrl": "https://www.leafkyoto.net/leaf/wp-content/uploads/2023/04/5B5535A2-D0BD-4B18-811F-5C5FEF9F0690-1024x682.jpeg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/soma.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--tsujirihei",
+      "official": "https://www.tsujirihei.co.jp/",
+      "contentSources": [
+        "https://www.tsujirihei.co.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.8896187,
+        "lng": 135.7974071,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/4934669422",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.tsujirihei.co.jp/information/",
+        "imageUrl": "https://www.tsujirihei.co.jp/imgs/information/img02.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/tsujirihei.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.tsujirihei.co.jp/information/",
+        "imageUrl": "https://www.tsujirihei.co.jp/imgs/information/img02.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/tsujirihei.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--marukyu",
+      "official": "https://www.marukyu-koyamaen.co.jp/company.html",
+      "contentSources": [
+        "https://www.marukyu-koyamaen.co.jp/company.html"
+      ],
+      "coordinate": {
+        "lat": 34.896175,
+        "lng": 135.785522,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%B0%8F%E5%80%89%E7%94%BA%E5%AF%BA%E5%86%8586",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.marukyu-koyamaen.jp/news/entry.php?no=15",
+        "imageUrl": "https://www.marukyu-koyamaen.jp/upload/2019560613101656.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/marukyu.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.marukyu-koyamaen.jp/news/entry.php?no=15",
+        "imageUrl": "https://www.marukyu-koyamaen.jp/upload/2019560613101656.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/marukyu.jpg"
+      }
+    },
+    {
+      "id": "kyoto-uji--yamamasa",
+      "official": "https://www.yamamasa-koyamaen.co.jp/store/customer/",
+      "contentSources": [
+        "https://www.yamamasa-koyamaen.co.jp/store/customer/",
+        "https://www.yamamasa-koyamaen.co.jp/about/company.html"
+      ],
+      "coordinate": {
+        "lat": 34.89669,
+        "lng": 135.784088,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%B0%8F%E5%80%89%E7%94%BA%E4%B9%85%E4%BF%9D96",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "photo": {
+        "pageUrl": "https://www.yamamasa-koyamaen.co.jp/about/company.html",
+        "imageUrl": "https://www.yamamasa-koyamaen.co.jp/assets/images/about/company-04.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/yamamasa-facade.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.yamamasa-koyamaen.co.jp/about/company.html",
+        "imageUrl": "https://www.yamamasa-koyamaen.co.jp/assets/images/about/company-04.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-uji/yamamasa-facade.jpg"
+      }
+    }
+  ],
+  "walking": {
+    "provider": "OSRM OpenStreetMap.de routed-foot",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/135.8017106,34.8894104;135.8073788714,34.8895159286;135.8105865133,34.8902728933;135.8113452067,34.89192054?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "rawResponse": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 72.55,
+              "summary": "",
+              "duration": 595.9,
+              "distance": 742.3
+            },
+            {
+              "steps": [],
+              "weight": 55.94,
+              "summary": "",
+              "duration": 485.4,
+              "distance": 606.4
+            },
+            {
+              "steps": [],
+              "weight": 30.09,
+              "summary": "",
+              "duration": 248,
+              "distance": 305.9
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 158.58,
+          "duration": 1329.3,
+          "distance": 1654.6
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "xWxrgCue5IA-AAAAQQIAAAAAAAAAAAAAeibJQHKFZkIAAAAAAAAAADEAAADOAQAAAAAAAAAAAABxAgAANSsYCPZeFAJvKxgIwl4UAgAAPw4AAAAA",
+          "location": [
+            135.801653,
+            34.889462
+          ],
+          "name": "宇治淀線旧道",
+          "distance": 7.835696478
+        },
+        {
+          "hint": "9csNg2PkDoMdAAAAOQAAAE0BAAA3AAAAQplgQN2K2kBcxhpCCqDSQBwAAAA3AAAANgEAADUAAABxAgAAqkEYCCFfFAKTQRgILF8UAgYA7wEAAAAA",
+          "location": [
+            135.807402,
+            34.889505
+          ],
+          "name": "",
+          "distance": 2.431258595
+        },
+        {
+          "hint": "fP5mgGkgfIQaAQAAhAAAAKgAAAA2AQAAFb7hQVBYUkGXZoZBKBb4QeEAAABqAAAAhgAAAPgAAABxAgAAuE0YCKtiFAIbThgIIWIUAgQAvwMAAAAA",
+          "location": [
+            135.810488,
+            34.890411
+          ],
+          "name": "",
+          "distance": 17.78497777
+        },
+        {
+          "hint": "k2AOg5ZgDoMUAAAANAAAAIoAAAAXAAAAaQ4MQK1AuEDoB4RBaEoxQBEAAAAvAAAAgwAAABYAAABxAgAATVEYCG1oFAIRURgIkWgUAggAPwIAAAAA",
+          "location": [
+            135.811405,
+            34.891885
+          ],
+          "name": "",
+          "distance": 6.785436294
+        }
+      ]
+    },
+    "visitMinutes": [
+      150,
+      240
+    ],
+    "visitEstimateNote": "編輯估算四處參訪、逛店與喫茶停留，未含候位及車站接駁；步行時間採道路網路回傳值。"
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "koenji--nanatsumori",
+      "order": 1,
+      "name": "珈琲亭七つ森",
+      "address": "東京都杉並区高円寺南2-20-20",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在老喫茶裡，替散步留一個句點",
+      "descriptionParagraphs": [
+        "七つ森以木色門面與老喫茶的室內氣氛，成為 LOOK 商店街上容易記住的風景。咖啡與餐點讓這裡既可短暫休息，也適合把逛街後的時間慢慢拉長。",
+        "位置接近新高圓寺，適合當作散步尾聲，坐下後便不用再趕遠路。依當日座位與菜單安排，挑一杯飲品或一份餐點，舒服結束這段小店之旅。"
+      ],
+      "description": "七つ森以木色門面與老喫茶的室內氣氛，成為 LOOK 商店街上容易記住的風景。咖啡與餐點讓這裡既可短暫休息，也適合把逛街後的時間慢慢拉長。\n\n位置接近新高圓寺，適合當作散步尾聲，坐下後便不用再趕遠路。依當日座位與菜單安排，挑一杯飲品或一份餐點，舒服結束這段小店之旅。",
+      "note": "",
+      "official": "https://koenjilook.com/shoplist/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.700119,
+        "lng": 139.647415,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%972-20-20",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/koenji/nanatsumori.webp",
+        "alt": "珈琲亭七つ森的日系水彩插圖"
+      },
+      "recommendation": "沿 LOOK 商店街往南，在老喫茶坐下，之後就近搭車。"
+    },
+    {
+      "id": "koenji--look",
+      "order": 2,
+      "name": "高圓寺 LOOK 商店街",
+      "address": "東京都杉並区高円寺南3-35",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "沿著小店，慢慢走向另一座車站",
+      "descriptionParagraphs": [
+        "LOOK 商店街接續高圓寺南側街道，朝新高圓寺方向延伸，喫茶、古著與小型專門店形成多樣門面。比起大型商場，這裡更適合用散步速度觀察每家店的個性。",
+        "只要沿主街順路走一段，就能把選物與休息串在一起。支巷有興趣再轉入，最後從附近的新高圓寺站離開，避免為回原站而特別折返。"
+      ],
+      "description": "LOOK 商店街接續高圓寺南側街道，朝新高圓寺方向延伸，喫茶、古著與小型專門店形成多樣門面。比起大型商場，這裡更適合用散步速度觀察每家店的個性。\n\n只要沿主街順路走一段，就能把選物與休息串在一起。支巷有興趣再轉入，最後從附近的新高圓寺站離開，避免為回原站而特別折返。",
+      "note": "",
+      "official": "https://koenjilook.com/shoplist/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "7NdUPksUmho",
+          "title": "🇯🇵去東京玩能參考這些YouTuber推薦的美食嗎？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=7NdUPksUmho",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.701679,
+        "lng": 139.647278,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%973-35",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/koenji/look.webp",
+        "alt": "高圓寺 LOOK 商店街的日系水彩插圖"
+      },
+      "recommendation": "沿商店街往南散步，有興趣再停下，最後接新高圓寺站。"
+    },
+    {
+      "id": "koenji--dealer",
+      "order": 3,
+      "name": "DEALERSHIP",
+      "address": "東京都杉並区高円寺南3-45-18",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "一整排玻璃杯，藏著復古生活感",
+      "descriptionParagraphs": [
+        "DEALERSHIP 專門蒐集美國復古玻璃餐具，從 Fire-King 到不同品牌的杯盤，各種顏色與造型排列在架上。比起大型景點，這些小器物更能讓人停下來仔細觀看。",
+        "店在商店街沿線二樓，適合從古著店往 LOOK 方向順路上樓。玻璃器物數量多，慢慢比較狀況與手感即可，不必把選購變成趕時間的任務。"
+      ],
+      "description": "DEALERSHIP 專門蒐集美國復古玻璃餐具，從 Fire-King 到不同品牌的杯盤，各種顏色與造型排列在架上。比起大型景點，這些小器物更能讓人停下來仔細觀看。\n\n店在商店街沿線二樓，適合從古著店往 LOOK 方向順路上樓。玻璃器物數量多，慢慢比較狀況與手感即可，不必把選購變成趕時間的任務。",
+      "note": "",
+      "official": "https://www.dealer-ship.com/shopguide/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "7NdUPksUmho",
+          "title": "🇯🇵去東京玩能參考這些YouTuber推薦的美食嗎？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=7NdUPksUmho",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.702873,
+        "lng": 139.648239,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%973-45-18",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/koenji/dealer.webp",
+        "alt": "DEALERSHIP的日系水彩插圖"
+      },
+      "recommendation": "挑幾件復古玻璃杯慢慢看，店舖位在二樓，依現場動線進入。"
+    },
+    {
+      "id": "koenji--bigtime",
+      "order": 4,
+      "name": "BIG TIME 高圓寺店",
+      "address": "東京都杉並区高円寺南4-25-3",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "木色門面裡，慢慢尋找古著細節",
+      "descriptionParagraphs": [
+        "BIG TIME 高圓寺店以美國與歐洲的古著、服飾配件為主，店面陳列帶出復古質感。衣料、圖樣與年代細節交錯，適合用一件喜歡的服裝開啟探索。",
+        "就在 PAL 商店街旁，能自然接進南側散步動線。商品會隨入荷變動，別急著找固定款式，從材質與實際穿搭出發，往往更容易逛得開心。"
+      ],
+      "description": "BIG TIME 高圓寺店以美國與歐洲的古著、服飾配件為主，店面陳列帶出復古質感。衣料、圖樣與年代細節交錯，適合用一件喜歡的服裝開啟探索。\n\n就在 PAL 商店街旁，能自然接進南側散步動線。商品會隨入荷變動，別急著找固定款式，從材質與實際穿搭出發，往往更容易逛得開心。",
+      "note": "",
+      "official": "https://www.koenji-pal.jp/shop/008",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.704273,
+        "lng": 139.648972,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-25-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/koenji/bigtime.webp",
+        "alt": "BIG TIME 高圓寺店的日系水彩插圖"
+      },
+      "recommendation": "走到南側，挑一間古著店慢慢看材質與搭配。"
+    },
+    {
+      "id": "koenji--pal",
+      "order": 5,
+      "name": "高圓寺 PAL 商店街",
+      "address": "東京都杉並区高円寺南4-25",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "有頂街道，把南口的小店接起來",
+      "descriptionParagraphs": [
+        "PAL 商店街從高圓寺南口向南延伸，明亮頂棚讓逛店多一層遮蔽。服飾、日用品與餐飲店相接，既是進入古著街區的入口，也是一段能順路慢看的生活通道。",
+        "把它當作往 LOOK 商店街的步行連接，遇到喜歡的門面再停下。雨天仍可在有頂路段調整逛店節奏，往外延伸時再依天氣決定走多遠。"
+      ],
+      "description": "PAL 商店街從高圓寺南口向南延伸，明亮頂棚讓逛店多一層遮蔽。服飾、日用品與餐飲店相接，既是進入古著街區的入口，也是一段能順路慢看的生活通道。\n\n把它當作往 LOOK 商店街的步行連接，遇到喜歡的門面再停下。雨天仍可在有頂路段調整逛店節奏，往外延伸時再依天氣決定走多遠。",
+      "note": "",
+      "official": "https://www.koenji-pal.jp/about",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.704269,
+        "lng": 139.649078,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-25",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/koenji/pal.webp",
+        "alt": "高圓寺 PAL 商店街的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "koenji--tensuke",
+      "order": 6,
+      "name": "天すけ",
+      "address": "東京都杉並区高円寺北3-22-7",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在小店裡，看一份天婦羅上桌",
+      "descriptionParagraphs": [
+        "天すけ以現炸天婦羅與炸蛋料理受到注意，狹小店面把注意力集中在料理過程與上桌節奏。與大街上的大型餐廳不同，這裡更像高圓寺巷內的一段熱鬧日常。",
+        "若想用餐，建議把它當成散步前的午餐，另外預留候位時間。遇到隊伍較長時，也能先逛附近街道，不必為一餐犧牲整個午後的彈性。"
+      ],
+      "description": "天すけ以現炸天婦羅與炸蛋料理受到注意，狹小店面把注意力集中在料理過程與上桌節奏。與大街上的大型餐廳不同，這裡更像高圓寺巷內的一段熱鬧日常。\n\n若想用餐，建議把它當成散步前的午餐，另外預留候位時間。遇到隊伍較長時，也能先逛附近街道，不必為一餐犧牲整個午後的彈性。",
+      "note": "",
+      "official": "https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tensuke",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "7NdUPksUmho",
+          "title": "🇯🇵去東京玩能參考這些YouTuber推薦的美食嗎？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=7NdUPksUmho",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.705891,
+        "lng": 139.648758,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%973-22-7",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/koenji/tensuke.webp",
+        "alt": "天すけ的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "koenji--junjo",
+      "order": 7,
+      "name": "高圓寺純情商店街",
+      "address": "東京都杉並区高円寺北2-6",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "從北口拱門下，走進街坊日常",
+      "descriptionParagraphs": [
+        "純情商店街以車站北口的拱門為鮮明入口，日用品店、食材店與飲食小店在街道旁並存。名字與同名小說相連，也讓這裡多了一層街坊故事的想像。",
+        "從入口慢慢走一小段，依喜好接庚申通的小杉湯，或轉向咖啡店即可。這裡是居民日常購物的街道，讓逛街與生活自然交錯，無須一間間打卡。"
+      ],
+      "description": "純情商店街以車站北口的拱門為鮮明入口，日用品店、食材店與飲食小店在街道旁並存。名字與同名小說相連，也讓這裡多了一層街坊故事的想像。\n\n從入口慢慢走一小段，依喜好接庚申通的小杉湯，或轉向咖啡店即可。這裡是居民日常購物的街道，讓逛街與生活自然交錯，無須一間間打卡。",
+      "note": "",
+      "official": "https://koenjichara.com/junjo/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "7NdUPksUmho",
+          "title": "🇯🇵去東京玩能參考這些YouTuber推薦的美食嗎？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=7NdUPksUmho",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.705811,
+        "lng": 139.64978,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%972-6",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/koenji/junjo.webp",
+        "alt": "高圓寺純情商店街的日系水彩插圖"
+      },
+      "recommendation": "從北口拱門下看一段街坊日常，有興趣再向小巷延伸。"
+    },
+    {
+      "id": "koenji--hikawa",
+      "order": 8,
+      "name": "高圓寺冰川神社",
+      "address": "東京都杉並区高円寺南4-44-19",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "車站旁，留一段樹影與參拜時間",
+      "descriptionParagraphs": [
+        "高圓寺冰川神社靠近車站南口，石階、樹木與社殿形成一處安靜空間。境內另有氣象神社，把晴雨與日常生活連在一起，讓參拜多了一份親切感。",
+        "從北口轉往南側逛店時，可先繞進來短暫停留，再走向 PAL 商店街。神社與境內氣象神社合為同一站，不必反覆計算停留，照自己的步調參拜即可。"
+      ],
+      "description": "高圓寺冰川神社靠近車站南口，石階、樹木與社殿形成一處安靜空間。境內另有氣象神社，把晴雨與日常生活連在一起，讓參拜多了一份親切感。\n\n從北口轉往南側逛店時，可先繞進來短暫停留，再走向 PAL 商店街。神社與境內氣象神社合為同一站，不必反覆計算停留，照自己的步調參拜即可。",
+      "note": "",
+      "official": "https://www.koenji-hikawa.com/about/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "7NdUPksUmho",
+          "title": "🇯🇵去東京玩能參考這些YouTuber推薦的美食嗎？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=7NdUPksUmho",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.704391,
+        "lng": 139.651291,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8D%974-44-19",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/koenji/hikawa.webp",
+        "alt": "高圓寺冰川神社的日系水彩插圖"
+      },
+      "recommendation": "在車站旁的神社安靜參拜，留意境內氣象神社。"
+    },
+    {
+      "id": "koenji--kosugiyu",
+      "order": 9,
+      "name": "小杉湯",
+      "address": "東京都杉並区高円寺北3-32-17",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "唐破風屋頂下，留著街區的溫度",
+      "descriptionParagraphs": [
+        "小杉湯保留昭和初期開業時的宮造木構外觀，彎曲屋頂與木雕讓日常錢湯有了醒目表情。它至今仍是居民泡湯與休息的地方，也能從建築讀到街區生活。",
+        "短程散步可以先欣賞外觀，想入浴則另外留一段完整時間。依錢湯使用方式與開放時段入內，把它當作真正的休息，而非匆忙拍照的室內景點。"
+      ],
+      "description": "小杉湯保留昭和初期開業時的宮造木構外觀，彎曲屋頂與木雕讓日常錢湯有了醒目表情。它至今仍是居民泡湯與休息的地方，也能從建築讀到街區生活。\n\n短程散步可以先欣賞外觀，想入浴則另外留一段完整時間。依錢湯使用方式與開放時段入內，把它當作真正的休息，而非匆忙拍照的室內景點。",
+      "note": "",
+      "official": "https://kosugiyu.co.jp/facility/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.70805,
+        "lng": 139.648911,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%973-32-17",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/koenji/kosugiyu.webp",
+        "alt": "小杉湯的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "koenji--aimu",
+      "order": 10,
+      "name": "AIMU",
+      "address": "東京都杉並区高円寺北3-11-1",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在明亮小店裡，留一份甜點時間",
+      "descriptionParagraphs": [
+        "AIMU 位在高圓寺北側中通商店街，以明亮木色空間與手作甜點帶出輕柔氣氛。布丁、蛋糕與鬆餅等品項各有表情，適合將逛街的節奏暫時放慢。",
+        "供應內容與營業方式會依日期調整，想吃指定品項時先看店家公告。這站和南側七つ森可擇一安排，不必在同一個午後連續趕兩間咖啡店。"
+      ],
+      "description": "AIMU 位在高圓寺北側中通商店街，以明亮木色空間與手作甜點帶出輕柔氣氛。布丁、蛋糕與鬆餅等品項各有表情，適合將逛街的節奏暫時放慢。\n\n供應內容與營業方式會依日期調整，想吃指定品項時先看店家公告。這站和南側七つ森可擇一安排，不必在同一個午後連續趕兩間咖啡店。",
+      "note": "",
+      "official": "https://rurubu.jp/andmore/article/13778",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zVmpLi_Ybk0",
+          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
+          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 35.706856,
+        "lng": 139.64624,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%89%E4%B8%A6%E5%8C%BA%E9%AB%98%E5%86%86%E5%AF%BA%E5%8C%973-11-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/koenji/aimu.webp",
+        "alt": "AIMU的日系水彩插圖"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "koenji-slow-walk",
+      "name": "商店街、古著與喫茶午後",
+      "ids": [
+        "koenji--junjo",
+        "koenji--bigtime",
+        "koenji--nanatsumori"
+      ],
+      "start": {
+        "name": "高圓寺站北口",
+        "address": "東京都杉並区高円寺南4-48-2",
+        "access": "JR 中央・總武線各站停車；平日亦有中央線快速"
+      },
+      "end": {
+        "name": "新高圓寺站 2 號出口",
+        "address": "東京都杉並区高円寺南2-20-1"
+      },
+      "totalMinutes": [
+        120,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從北口的街坊日常，走到南側的古著與老喫茶，把尋寶留給當下。",
+      "note": "三個重點、沿路逛店與 30～45 分鐘自由探索，約 2～3 小時。十點是可選清單；天すけ候位、小杉湯入浴與指定甜點排隊需另外留時，不必全部安排。",
+      "stopNotes": {
+        "koenji--junjo": "從北口拱門下看一段街坊日常，有興趣再向小巷延伸。",
+        "koenji--bigtime": "走到南側，挑一間古著店慢慢看材質與搭配。",
+        "koenji--nanatsumori": "沿 LOOK 商店街往南，在老喫茶坐下，之後就近搭車。"
+      },
+      "art": "/art/walks/koenji/junjo.webp"
+    },
+    {
+      "id": "koenji-shrines-and-vintage",
+      "name": "神社與復古日用品",
+      "ids": [
+        "koenji--hikawa",
+        "koenji--dealer",
+        "koenji--look"
+      ],
+      "start": {
+        "name": "高圓寺站北口",
+        "address": "東京都杉並区高円寺南4-48-2",
+        "access": "JR 中央・總武線各站停車；平日亦有中央線快速"
+      },
+      "end": {
+        "name": "新高圓寺站 2 號出口",
+        "address": "東京都杉並区高円寺南2-20-1"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "從車站旁的小神社轉進南側街道，在玻璃器物與街坊小店裡找喜歡的細節。",
+      "note": "含三處重點、步行與 30～45 分鐘自由探索。DEALERSHIP 中午 12 點開門，適合午後出發；商店街各店營業不同，入浴、正餐與候位另留時間。",
+      "stopNotes": {
+        "koenji--hikawa": "在車站旁的神社安靜參拜，留意境內氣象神社。",
+        "koenji--dealer": "挑幾件復古玻璃杯慢慢看，店舖位在二樓，依現場動線進入。",
+        "koenji--look": "沿商店街往南散步，有興趣再停下，最後接新高圓寺站。"
+      },
+      "art": "/art/walks/koenji/dealer.webp"
+    }
+  ],
+  "defaultSelection": "koenji-slow-walk"
+}

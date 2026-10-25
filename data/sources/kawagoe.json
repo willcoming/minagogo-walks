@@ -1,0 +1,491 @@
+{
+  "walkId": "kawagoe",
+  "checkedAt": "2026-10-24",
+  "method": "官方與實訪內容查證後以繁體中文原創撰寫，座標採 OpenStreetMap 與國土地理院開放資料，精度各別註明，步行距離以 OSRM foot 路網估算。",
+  "places": [
+    {
+      "id": "kawagoe--bell",
+      "contentSources": [
+        "https://koedo.or.jp/spot_001/"
+      ],
+      "coordinate": {
+        "lat": 35.9234837,
+        "lng": 139.4833403,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/133485175",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://koedo.or.jp/spot_001/",
+          "imageUrl": "https://koedo.or.jp/wp-content/uploads/b96f167dd98cecc6e36e40d3c66b3174-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--kashiya",
+      "contentSources": [
+        "https://koedo.or.jp/spot_003/"
+      ],
+      "coordinate": {
+        "lat": 35.9246247,
+        "lng": 139.48123588333337,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/35570953",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://koedo.or.jp/spot_003/",
+          "imageUrl": "https://koedo.or.jp/wp-content/uploads/018499d5096841e2ac350b62fa6c2fee-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--festival",
+      "contentSources": [
+        "https://kawagoematsuri.jp/matsurimuseum/"
+      ],
+      "coordinate": {
+        "lat": 35.9243784,
+        "lng": 139.48248,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1420193131",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kawagoematsuri.jp/matsurimuseum/",
+          "imageUrl": "https://kawagoematsuri.jp/matsurimuseum/img/top_slide/1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--starbucks",
+      "contentSources": [
+        "https://store.starbucks.co.jp/detail-1554/"
+      ],
+      "coordinate": {
+        "lat": 35.92362105833333,
+        "lng": 139.4838982,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/133485183",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://store.starbucks.co.jp/detail-1554/",
+          "imageUrl": "https://d3vgbguy0yofad.cloudfront.net/store/images/img-concept-store-detail-1554-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--renkeiji",
+      "contentSources": [
+        "https://renkeiji.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.91939056538461,
+        "lng": 139.48224905384615,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/682103594",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://renkeiji.jp/",
+          "imageUrl": "https://renkeiji.jp/wp-content/uploads/2016/08/top10.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--kumano",
+      "contentSources": [
+        "https://kawagoekumano.jp/",
+        "https://koedo.or.jp/spot_013/"
+      ],
+      "coordinate": {
+        "lat": 35.91902338125,
+        "lng": 139.48322044375,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/682103596",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://koedo.or.jp/spot_013/",
+          "imageUrl": "https://koedo.or.jp/wp-content/uploads/17f58053be68fa581b0fac6fbdfc2ffa-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--taisho",
+      "contentSources": [
+        "https://koedo.com/",
+        "https://kawagoe.fun/magazine/sightseeing/taishoromanyume-koedo/"
+      ],
+      "coordinate": {
+        "lat": 35.919507816666666,
+        "lng": 139.4835861166667,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/35205995",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kawagoe.fun/magazine/sightseeing/taishoromanyume-koedo/",
+          "imageUrl": "https://kawagoe.fun/magazine/wp-content/uploads/post-6.webp"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--nakaichi",
+      "contentSources": [
+        "https://www.nakaichi-h.com/",
+        "https://kawagoe-ichibangai.com/store/nakaichi-honten/"
+      ],
+      "coordinate": {
+        "lat": 35.9228527,
+        "lng": 139.48272,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1484537273",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.nakaichi-h.com/",
+          "imageUrl": "https://www.nakaichi-h.com/web/wp-content/themes/nakaichi-h/images/top_box02_img.png"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--osatsu",
+      "contentSources": [
+        "https://kawagoe.fun/magazine/gourmet/koedoosatuan/",
+        "https://www.instagram.com/koedoosatuan/"
+      ],
+      "coordinate": {
+        "lat": 35.9235178,
+        "lng": 139.4840546,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/12715184444",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kawagoe.fun/magazine/gourmet/koedoosatuan/",
+          "imageUrl": "https://kawagoe.fun/magazine/wp-content/uploads/post-1847-koedoosatuan-2-1024x683.webp"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--lec",
+      "contentSources": [
+        "https://kawagoe.fun/magazine/gourmet/lec-coffee/"
+      ],
+      "coordinate": {
+        "lat": 35.927746,
+        "lng": 139.484131,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%BF%97%E5%A4%9A%E7%94%BA2-1",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「埼玉県川越市志多町２番」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kawagoe.fun/magazine/gourmet/lec-coffee/",
+          "imageUrl": "https://kawagoe.fun/magazine/wp-content/uploads/post-1919-lec-coffee-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--kurazukuri",
+      "contentSources": [
+        "https://www.kuradukuri.jp/f/shop/ichibangai",
+        "https://www.kuradukuri.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.9224663,
+        "lng": 139.482895,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1484551651",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.kuradukuri.jp/f/shop/ichibangai",
+          "imageUrl": "https://kuradukuri.itembox.cloud/item/images/shop/kawagoe/ichibangai/photo01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--vanitoy",
+      "contentSources": [
+        "https://www.vanitoy.com/shop.html",
+        "https://office513gourmet.livedoor.blog/archives/35278710.html"
+      ],
+      "coordinate": {
+        "lat": 35.909935,
+        "lng": 139.484863,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%8D%97%E9%80%9A%E7%94%BA15-1",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「埼玉県川越市南通町１５番」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://office513gourmet.livedoor.blog/archives/35278710.html",
+          "imageUrl": "https://livedoor.blogimg.jp/office513gourmet/imgs/8/2/82f5bd54.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--miyako",
+      "contentSources": [
+        "https://www.koedo.biz/miyakoya/",
+        "https://koedo.or.jp/wp-content/uploads/f30acdeb9758ad79f6270684599b0f23.pdf"
+      ],
+      "coordinate": {
+        "lat": 35.92482,
+        "lng": 139.482239,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%85%83%E7%94%BA2-3-16",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「埼玉県川越市元町二丁目３番」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.koedo.biz/?p=6895",
+          "imageUrl": "https://www.koedo.biz/imedia/22050122-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--pudding",
+      "contentSources": [
+        "https://kawagoe-purin.com/",
+        "https://kawagoe-purin.com/shop/"
+      ],
+      "coordinate": {
+        "lat": 35.92202,
+        "lng": 139.482559,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%B9%B8%E7%94%BA1-13",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「埼玉県川越市幸町１番」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kawagoe-purin.com/",
+          "imageUrl": "https://kawagoe-purin.com/wp-content/uploads/2026/05/shop_img_gaikan_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kawagoe--juan",
+      "contentSources": [
+        "https://www.kawagoe.com/kotobukian/kuranomachi.html",
+        "https://www.city.kawagoe.saitama.jp/sangyo/sangyo/1012133/1012141/1012143.html"
+      ],
+      "coordinate": {
+        "lat": 35.9226066,
+        "lng": 139.4827082,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/13688903683",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.kawagoe.com/kotobukian/kuranomachi.html",
+          "imageUrl": "https://www.kawagoe.com/kotobukian/images/kuranomachi-meibutsu.jpg"
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "bell": {
+      "pageUrl": "https://koedo.or.jp/spot_001/",
+      "imageUrl": "https://koedo.or.jp/wp-content/uploads/b96f167dd98cecc6e36e40d3c66b3174-scaled.jpg"
+    },
+    "kashiya": {
+      "pageUrl": "https://koedo.or.jp/spot_003/",
+      "imageUrl": "https://koedo.or.jp/wp-content/uploads/018499d5096841e2ac350b62fa6c2fee-scaled.jpg"
+    },
+    "festival": {
+      "pageUrl": "https://kawagoematsuri.jp/matsurimuseum/",
+      "imageUrl": "https://kawagoematsuri.jp/matsurimuseum/img/top_slide/1.jpg"
+    },
+    "starbucks": {
+      "pageUrl": "https://store.starbucks.co.jp/detail-1554/",
+      "imageUrl": "https://d3vgbguy0yofad.cloudfront.net/store/images/img-concept-store-detail-1554-01.jpg"
+    },
+    "renkeiji": {
+      "pageUrl": "https://renkeiji.jp/",
+      "imageUrl": "https://renkeiji.jp/wp-content/uploads/2016/08/top10.jpg"
+    },
+    "kumano": {
+      "pageUrl": "https://koedo.or.jp/spot_013/",
+      "imageUrl": "https://koedo.or.jp/wp-content/uploads/17f58053be68fa581b0fac6fbdfc2ffa-scaled.jpg"
+    },
+    "taisho": {
+      "pageUrl": "https://kawagoe.fun/magazine/sightseeing/taishoromanyume-koedo/",
+      "imageUrl": "https://kawagoe.fun/magazine/wp-content/uploads/post-6.webp"
+    },
+    "nakaichi": {
+      "pageUrl": "https://www.nakaichi-h.com/",
+      "imageUrl": "https://www.nakaichi-h.com/web/wp-content/themes/nakaichi-h/images/top_box02_img.png"
+    },
+    "osatsu": {
+      "pageUrl": "https://kawagoe.fun/magazine/gourmet/koedoosatuan/",
+      "imageUrl": "https://kawagoe.fun/magazine/wp-content/uploads/post-1847-koedoosatuan-2-1024x683.webp"
+    },
+    "lec": {
+      "pageUrl": "https://kawagoe.fun/magazine/gourmet/lec-coffee/",
+      "imageUrl": "https://kawagoe.fun/magazine/wp-content/uploads/post-1919-lec-coffee-1.webp"
+    },
+    "kurazukuri": {
+      "pageUrl": "https://www.kuradukuri.jp/f/shop/ichibangai",
+      "imageUrl": "https://kuradukuri.itembox.cloud/item/images/shop/kawagoe/ichibangai/photo01.jpg"
+    },
+    "vanitoy": {
+      "pageUrl": "https://office513gourmet.livedoor.blog/archives/35278710.html",
+      "imageUrl": "https://livedoor.blogimg.jp/office513gourmet/imgs/8/2/82f5bd54.jpg"
+    },
+    "miyako": {
+      "pageUrl": "https://www.koedo.biz/?p=6895",
+      "imageUrl": "https://www.koedo.biz/imedia/22050122-01.jpg"
+    },
+    "pudding": {
+      "pageUrl": "https://kawagoe-purin.com/",
+      "imageUrl": "https://kawagoe-purin.com/wp-content/uploads/2026/05/shop_img_gaikan_02.jpg"
+    },
+    "juan": {
+      "pageUrl": "https://www.kawagoe.com/kotobukian/kuranomachi.html",
+      "imageUrl": "https://www.kawagoe.com/kotobukian/images/kuranomachi-meibutsu.jpg"
+    }
+  },
+  "walking": {
+    "checkedAt": "2026-10-24",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/139.48272,35.9228527;139.4833403,35.9234837;139.48248,35.9243784;139.48123588333337,35.9246247?overview=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 13.69,
+              "summary": "",
+              "duration": 90.1,
+              "distance": 110
+            },
+            {
+              "steps": [],
+              "weight": 23.92,
+              "summary": "",
+              "duration": 166.3,
+              "distance": 205.4
+            },
+            {
+              "steps": [],
+              "weight": 14.48,
+              "summary": "",
+              "duration": 128.2,
+              "distance": 160.5
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 52.09,
+          "duration": 384.6,
+          "distance": 475.9
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "4ywNgOaqNYBsAAAA6wEAAEwAAAAAAAAAuNbyQEFsCUKgCqtAAAAAADwAAAAUAQAAKwAAAAAAAABxAgAA2FZQCJsjJAJgVlAIpSMkAgIAXwAAAAAA",
+          "location": [
+            139.48284,
+            35.922843
+          ],
+          "name": "一番街",
+          "distance": 10.88657046
+        },
+        {
+          "hint": "kEkvhm0kjIYYAAAAGQAAAJkAAAAaAAAAK6I4QF3SP0AvgpJBf-tGQBcAAAAYAAAAkwAAABkAAABxAgAAzlhQCBwmJALMWFAIHCYkAgIATwsAAAAA",
+          "location": [
+            139.483342,
+            35.923484
+          ],
+          "name": "",
+          "distance": 0.180497966
+        },
+        {
+          "hint": "UzAkgXo-V4qzAAAAlAAAAK4AAABJAQAA2x-sQUaYjUGIQKdBtPgdQqwAAACOAAAApwAAADwBAABxAgAAfFVQCPYpJAJwVVAImikkAgIADwYAAAAA",
+          "location": [
+            139.482492,
+            35.92447
+          ],
+          "name": "",
+          "distance": 10.26538711
+        },
+        {
+          "hint": "1ao1gG-IjYZoAAAAJQAAABQBAACgAAAAmGpJQQzLikD_nARC21maQWQAAAAjAAAACAEAAJsAAABxAgAAb1BQCFwqJAKUUFAIkSokAggAvxIAAAAA",
+          "location": [
+            139.481199,
+            35.924572
+          ],
+          "name": "菓子屋横町",
+          "distance": 6.762662171
+        }
+      ]
+    }
+  },
+  "visitEstimate": {
+    "minutes": [
+      100,
+      160
+    ],
+    "method": "路網步行時間加上烤飯糰20–35分鐘、鐘樓10–15分鐘、祭典會館30–45分鐘、菓子屋橫丁25–40分鐘；排隊及其他探索點另計。"
+  }
+}

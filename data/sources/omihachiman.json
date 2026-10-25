@@ -1,0 +1,394 @@
+{
+  "checkedAt": "2026-10-24",
+  "walkId": "omihachiman",
+  "method": "依官方店家、公共設施及旅遊機關資料整理為原創繁體中文介紹；未聲稱親訪、評分或即時營業保證。",
+  "places": [
+    {
+      "id": "omihachiman--himure",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1008.html"
+      ],
+      "coordinate": {
+        "lat": 35.14092302142858,
+        "lng": 136.08980345714286,
+        "url": "https://www.openstreetmap.org/way/585605704",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1008.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1008/1008_1_l.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--taneya",
+      "contentSources": [
+        "https://taneya.jp/shop/shiga_himure"
+      ],
+      "coordinate": {
+        "lat": 35.14030112222222,
+        "lng": 136.0903571,
+        "url": "https://www.openstreetmap.org/way/344132933",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://taneya.jp/shop/shiga_himure",
+        "imageUrl": "https://taneya.jp/upload/shop/img/shiga_himure01.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--kawara",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1035.html"
+      ],
+      "coordinate": {
+        "lat": 35.14070892307692,
+        "lng": 136.09194945384615,
+        "url": "https://www.openstreetmap.org/way/437105455",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1035.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1035/1035_1_l.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--hachimanbori",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1228.html"
+      ],
+      "coordinate": {
+        "lat": 35.1396174,
+        "lng": 136.0880984,
+        "url": "https://www.openstreetmap.org/node/5596533317",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1228.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1228/1228_5_l.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--hakuunkan",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1181.html"
+      ],
+      "coordinate": {
+        "lat": 35.139456554545454,
+        "lng": 136.0909046909091,
+        "url": "https://www.openstreetmap.org/way/386119860",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1181.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1181/1181_3_l.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--nishikawa",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1034.html"
+      ],
+      "coordinate": {
+        "lat": 35.13825928461539,
+        "lng": 136.08891126923075,
+        "url": "https://www.openstreetmap.org/way/437101881",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1034.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1034/1034_1_l.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--banke",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1037.html"
+      ],
+      "coordinate": {
+        "lat": 35.13761436153846,
+        "lng": 136.08936749999998,
+        "url": "https://www.openstreetmap.org/way/437101610",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1037.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1037/1037_1_l.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--shinmachi",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1177.html"
+      ],
+      "coordinate": {
+        "lat": 35.138367,
+        "lng": 136.089105,
+        "url": "https://www.openstreetmap.org/node/8732453145",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1177.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1177/1177_1_l.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--menturm",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1019.html"
+      ],
+      "coordinate": {
+        "lat": 35.138952055555556,
+        "lng": 136.08943786666669,
+        "url": "https://www.openstreetmap.org/way/450040795",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1019.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1019/1019_1_l.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--vories",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1012.html"
+      ],
+      "coordinate": {
+        "lat": 35.13986236,
+        "lng": 136.09467512,
+        "url": "https://www.openstreetmap.org/way/437107467",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1012.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1012/1012_1_l.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--postoffice",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1014.html"
+      ],
+      "coordinate": {
+        "lat": 35.138508877777774,
+        "lng": 136.09253635555555,
+        "url": "https://www.openstreetmap.org/way/450040015",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1014.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1014/1014_1_l.jpg"
+      }
+    },
+    {
+      "id": "omihachiman--machiya",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1193.html"
+      ],
+      "coordinate": {
+        "lat": 35.13841085714285,
+        "lng": 136.09196744285717,
+        "url": "https://www.openstreetmap.org/way/437102906",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1193.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1193/1193_1_l.webp"
+      }
+    },
+    {
+      "id": "omihachiman--harie",
+      "contentSources": [
+        "https://clubharie.jp/shop/himure/",
+        "https://clubharie.jp/news/detail/526"
+      ],
+      "coordinate": {
+        "lat": 35.140034527272725,
+        "lng": 136.08973611818183,
+        "url": "https://www.openstreetmap.org/way/344127039",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://clubharie.jp/shop/himure/",
+        "imageUrl": "https://clubharie.jp/upload/ch_shop/img/himure/himure_main.jpg"
+      },
+      "statusCheckedAt": "2026-10-25"
+    },
+    {
+      "id": "omihachiman--ikeda",
+      "contentSources": [
+        "https://www.omi8.com/spot/detail_1179.html"
+      ],
+      "coordinate": {
+        "lat": 35.134887,
+        "lng": 136.088371,
+        "url": "https://www.openstreetmap.org/node/8732453200",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.omi8.com/spot/detail_1179.html",
+        "imageUrl": "https://www.omi8.com/lsc/upfile/spot/0000/1179/1179_6_l.webp"
+      }
+    },
+    {
+      "id": "omihachiman--noma",
+      "contentSources": [
+        "https://no-ma.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.1375976,
+        "lng": 136.09442650000003,
+        "url": "https://www.openstreetmap.org/way/360331880",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://no-ma.jp/",
+        "imageUrl": "https://no-ma.jp/cms/wp-content/themes/noma/images/top/main_pc.jpg"
+      }
+    }
+  ],
+  "walking": {
+    "provider": "OSRM routed-foot / OpenStreetMap",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/136.08980345714286,35.14092302142858;136.0903571,35.14030112222222;136.09194945384615,35.14070892307692;136.0880984,35.1396174?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "raw": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 17.4,
+              "summary": "",
+              "duration": 132.7,
+              "distance": 141.9
+            },
+            {
+              "steps": [],
+              "weight": 15.46,
+              "summary": "",
+              "duration": 130.7,
+              "distance": 163.1
+            },
+            {
+              "steps": [],
+              "weight": 40.05,
+              "summary": "",
+              "duration": 384.3,
+              "distance": 480.3
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 72.91,
+          "duration": 647.7,
+          "distance": 785.3
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "Q-YQhEfmEIQAAAAAVwAAAAAAAAAAAAAAAAAAADXiJkEAAAAAAAAAAAAAAABTAAAAAAAAAAAAAABxAgAAgpAcCCw1GALLkBwIOzUYAgAAPxMAAAAA",
+          "location": [
+            136.08973,
+            35.140908
+          ],
+          "name": "",
+          "distance": 6.858831821
+        },
+        {
+          "hint": "psTpgBLF6YAeAAAAkQAAAEkAAACVAAAA7-0_QBevaEGGlOpAfRJuQRgAAAB0AAAAOwAAAHcAAABxAgAAopMcCPUyGAL1khwIzTIYAgIAjxUAAAAA",
+          "location": [
+            136.09053,
+            35.140341
+          ],
+          "name": "",
+          "distance": 16.3813409
+        },
+        {
+          "hint": "aAuCgtZ2DoRDAAAANgAAAEkBAACDAAAAT3IAQbXhzUAVkh1Cdgx7QUAAAAA0AAAAOwEAAH4AAABxAgAA-ZgcCG00GAItmRwIZTQYAgYA7wsAAAAA",
+          "location": [
+            136.091897,
+            35.140717
+          ],
+          "name": "",
+          "distance": 4.822137074
+        },
+        {
+          "hint": "2CBShd0gUoXiAAAAOwAAAFwCAAAAAAAAkeXZQRyh30B-P5FCAAAAANkAAAA5AAAARQIAAAAAAABxAgAAUoocCD0wGAIiihwIITAYAgoADwkAAAAA",
+          "location": [
+            136.088146,
+            35.139645
+          ],
+          "name": "",
+          "distance": 5.365792631
+        }
+      ]
+    },
+    "estimateNote": "純步行路線估算；未包含候位、天候、拍照、上下坡造成的速度差異。"
+  },
+  "visitEstimate": {
+    "minutes": [
+      95,
+      155
+    ],
+    "method": "編輯估算：依四站參觀、購物及一至兩次餐飲休息加總，不含候位與交通進出。"
+  }
+}

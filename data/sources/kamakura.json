@@ -1,0 +1,494 @@
+{
+  "walkId": "kamakura",
+  "checkedAt": "2026-10-24",
+  "method": "官方與實訪內容查證後以繁體中文原創撰寫，座標採 OpenStreetMap 與國土地理院開放資料，精度各別註明，步行距離以 OSRM foot 路網估算。",
+  "places": [
+    {
+      "id": "kamakura--hachimangu",
+      "contentSources": [
+        "https://www.hachimangu.or.jp/sightseeing/keidai/"
+      ],
+      "coordinate": {
+        "lat": 35.32544600555556,
+        "lng": 139.55620424722224,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/34550401",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.hachimangu.or.jp/sightseeing/keidai/",
+          "imageUrl": "https://6sz67fga.user.webaccel.jp/assets/img/keidai/img1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--komachi",
+      "contentSources": [
+        "https://kamakura-komachi.com/"
+      ],
+      "coordinate": {
+        "lat": 35.32040330588235,
+        "lng": 139.55177554117645,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/460141218",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kamakura-komachi.com/",
+          "imageUrl": "https://kamakura-komachi.com/wp-content/uploads/2024/06/slider_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--iwata",
+      "contentSources": [
+        "https://iwatacoffee.sakura.ne.jp/index.html",
+        "https://iwatacoffee.sakura.ne.jp/menu.html",
+        "https://kamakura-komachi.com/イワタコーヒー店/"
+      ],
+      "coordinate": {
+        "lat": 35.3194255,
+        "lng": 139.5513869,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/4363689197",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://iwatacoffee.sakura.ne.jp/index.html",
+          "imageUrl": "https://iwatacoffee.sakura.ne.jp/images/slide_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--milk",
+      "contentSources": [
+        "https://www.at-yokohama.net/spots/816",
+        "https://tabiyomi.yomiuri-ryokou.co.jp/article/002029.html"
+      ],
+      "coordinate": {
+        "lat": 35.3211259,
+        "lng": 139.5514635,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6331400109",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.at-yokohama.net/spots/816",
+          "imageUrl": "https://www.at-yokohama.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--4d2722f017b541e91e4444c4ac092a504b427b95/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzEwMjQsbnVsbF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--359f652ca37a010ad80801bcd20c95f2497fe829/A1800580b.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--bank",
+      "contentSources": [
+        "https://chocolatebank.jp/",
+        "https://chocolatebank.jp/menu"
+      ],
+      "coordinate": {
+        "lat": 35.3184606,
+        "lng": 139.5497882,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6618874125",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://chocolatebank.jp/",
+          "imageUrl": "https://chocolatebank.jp/_next/static/media/location-chocolate-bank.e1fe815d.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--daily",
+      "contentSources": [
+        "https://longtrackfoods.com/shop/",
+        "https://longtrackfoods.com/"
+      ],
+      "coordinate": {
+        "lat": 35.317112,
+        "lng": 139.551041,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%B0%8F%E7%94%BA1-13-10",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌的代表位置，非店門口實測。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://longtrackfoods.com/",
+          "imageUrl": "https://longtrackfoods.com/wp/wp-content/uploads/2025/03/home_01_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--toshimaya",
+      "contentSources": [
+        "https://www.hato.co.jp/shop"
+      ],
+      "coordinate": {
+        "lat": 35.320428275,
+        "lng": 139.55256805,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/53733094",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.hato.co.jp/shop",
+          "imageUrl": "https://www.hato.co.jp/html/template/toshimaya/assets/img/shop/1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--coquelicot",
+      "contentSources": [
+        "https://enokama.jp/feature/9450/",
+        "https://enokama.jp/feature/10034/"
+      ],
+      "coordinate": {
+        "lat": 35.3225733,
+        "lng": 139.5529284,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6698252753",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://enokama.jp/feature/9450/",
+          "imageUrl": "https://enokama.jp/wp-content/uploads/2024/11/1-10_%E3%82%B3%E3%82%AF%E3%83%AA%E3%82%B3%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%95%E3%82%9A%E5%BA%97.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--tomoya",
+      "contentSources": [
+        "https://www.at-yokohama.net/spots/1710"
+      ],
+      "coordinate": {
+        "lat": 35.3227629,
+        "lng": 139.55303,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6698252759",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.at-yokohama.net/spots/1710",
+          "imageUrl": "https://www.at-yokohama.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk2Nzc3LCJwdXIiOiJibG9iX2lkIn19--8d180310d307ce13b56a3bc565bf8f1b00baf4a3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzEwMjQsbnVsbF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--359f652ca37a010ad80801bcd20c95f2497fe829/80126554a.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--chacha",
+      "contentSources": [
+        "https://kamakura-chacha.com/",
+        "https://kamakurachacha-shop.com/pages/about"
+      ],
+      "coordinate": {
+        "lat": 35.3228236,
+        "lng": 139.5530568,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/6698252760",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kamakura-chacha.com/",
+          "imageUrl": "https://kamakura-chacha.com/wp-content/themes/kamakurachacha2018/images/mainimg03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--ruru",
+      "contentSources": [
+        "https://enokama.jp/spot/8028/",
+        "https://www.instagram.com/ruru_kamakura/"
+      ],
+      "coordinate": {
+        "lat": 35.322147,
+        "lng": 139.553009,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E9%9B%AA%E3%83%8E%E4%B8%8B1-6-28",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌的代表位置，非店門口實測。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://enokama.jp/spot/8028/",
+          "imageUrl": "https://enokama.jp/wp-content/uploads/2023/12/1600px%E5%86%85%E8%A6%B3%E5%85%A8%E4%BD%93-1024x750.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--shiratama",
+      "contentSources": [
+        "https://shiratamaya.wixsite.com/wakou/home"
+      ],
+      "coordinate": {
+        "lat": 35.320415,
+        "lng": 139.552353,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%B0%8F%E7%94%BA2-9-17",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌的代表位置，非店門口實測。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://shiratamaya.wixsite.com/wakou/home",
+          "imageUrl": "https://static.wixstatic.com/media/1d81be_9cf2418cd3934461976f63c4a616c6c6~mv2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--yuria",
+      "contentSources": [
+        "https://yuriapemuperu.com/restaurant/k-yuriapemuperu/"
+      ],
+      "coordinate": {
+        "lat": 35.31958,
+        "lng": 139.547913,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%BE%A1%E6%88%90%E7%94%BA15-7",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌的代表位置，非店門口實測。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://yuriapemuperu.com/restaurant/k-yuriapemuperu/",
+          "imageUrl": "https://kamakura.boooon.site/db_img/cl_img/510/free/images/img_20231109145950853.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--montblanc",
+      "contentSources": [
+        "https://kusu-kusu.jp/ja/projects/kamakura-montblancstand",
+        "https://kusu-kusu.jp/ja/interview/kamakura-montblancstand",
+        "https://www.instagram.com/mont.blanc.stand/"
+      ],
+      "coordinate": {
+        "lat": 35.315704,
+        "lng": 139.551193,
+        "provider": "gsi",
+        "label": "國土地理院住址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%A4%A7%E7%94%BA1-1-12",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳完整門牌的代表位置，非店門口實測。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://kusu-kusu.jp/ja/projects/kamakura-montblancstand",
+          "imageUrl": "https://kusu-kusu.jp/wp-content/uploads/2019/02/190220_102.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamakura--kaburaki",
+      "contentSources": [
+        "https://www.kamakura-arts.or.jp/kaburaki/about/about.html",
+        "https://www.kamakura-arts.or.jp/kaburaki/info/index.html",
+        "https://www.kamakura-arts.or.jp/kaburaki/info/access.html"
+      ],
+      "coordinate": {
+        "lat": 35.322966194444454,
+        "lng": 139.55232908333335,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/440428908",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OSM 命名地點或建築頂點平均代表點；已與官方地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.kamakura-arts.or.jp/kaburaki/info/building.html",
+          "imageUrl": "https://www.kamakura-arts.or.jp/kaburaki/wp-content/themes/themKaburaki/images/info/genkan_a.png"
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "hachimangu": {
+      "pageUrl": "https://www.hachimangu.or.jp/sightseeing/keidai/",
+      "imageUrl": "https://6sz67fga.user.webaccel.jp/assets/img/keidai/img1.jpg"
+    },
+    "komachi": {
+      "pageUrl": "https://kamakura-komachi.com/",
+      "imageUrl": "https://kamakura-komachi.com/wp-content/uploads/2024/06/slider_01.jpg"
+    },
+    "iwata": {
+      "pageUrl": "https://iwatacoffee.sakura.ne.jp/index.html",
+      "imageUrl": "https://iwatacoffee.sakura.ne.jp/images/slide_1.jpg"
+    },
+    "milk": {
+      "pageUrl": "https://www.at-yokohama.net/spots/816",
+      "imageUrl": "https://www.at-yokohama.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--4d2722f017b541e91e4444c4ac092a504b427b95/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzEwMjQsbnVsbF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--359f652ca37a010ad80801bcd20c95f2497fe829/A1800580b.jpg"
+    },
+    "bank": {
+      "pageUrl": "https://chocolatebank.jp/",
+      "imageUrl": "https://chocolatebank.jp/_next/static/media/location-chocolate-bank.e1fe815d.jpg"
+    },
+    "daily": {
+      "pageUrl": "https://longtrackfoods.com/",
+      "imageUrl": "https://longtrackfoods.com/wp/wp-content/uploads/2025/03/home_01_.jpg"
+    },
+    "toshimaya": {
+      "pageUrl": "https://www.hato.co.jp/shop",
+      "imageUrl": "https://www.hato.co.jp/html/template/toshimaya/assets/img/shop/1.jpg"
+    },
+    "coquelicot": {
+      "pageUrl": "https://enokama.jp/feature/9450/",
+      "imageUrl": "https://enokama.jp/wp-content/uploads/2024/11/1-10_%E3%82%B3%E3%82%AF%E3%83%AA%E3%82%B3%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%95%E3%82%9A%E5%BA%97.jpg"
+    },
+    "tomoya": {
+      "pageUrl": "https://www.at-yokohama.net/spots/1710",
+      "imageUrl": "https://www.at-yokohama.net/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk2Nzc3LCJwdXIiOiJibG9iX2lkIn19--8d180310d307ce13b56a3bc565bf8f1b00baf4a3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzEwMjQsbnVsbF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--359f652ca37a010ad80801bcd20c95f2497fe829/80126554a.jpg"
+    },
+    "chacha": {
+      "pageUrl": "https://kamakura-chacha.com/",
+      "imageUrl": "https://kamakura-chacha.com/wp-content/themes/kamakurachacha2018/images/mainimg03.jpg"
+    },
+    "ruru": {
+      "pageUrl": "https://enokama.jp/spot/8028/",
+      "imageUrl": "https://enokama.jp/wp-content/uploads/2023/12/1600px%E5%86%85%E8%A6%B3%E5%85%A8%E4%BD%93-1024x750.jpg"
+    },
+    "shiratama": {
+      "pageUrl": "https://shiratamaya.wixsite.com/wakou/home",
+      "imageUrl": "https://static.wixstatic.com/media/1d81be_9cf2418cd3934461976f63c4a616c6c6~mv2.jpg"
+    },
+    "yuria": {
+      "pageUrl": "https://yuriapemuperu.com/restaurant/k-yuriapemuperu/",
+      "imageUrl": "https://kamakura.boooon.site/db_img/cl_img/510/free/images/img_20231109145950853.jpg"
+    },
+    "montblanc": {
+      "pageUrl": "https://kusu-kusu.jp/ja/projects/kamakura-montblancstand",
+      "imageUrl": "https://kusu-kusu.jp/wp-content/uploads/2019/02/190220_102.jpg"
+    },
+    "kaburaki": {
+      "pageUrl": "https://www.kamakura-arts.or.jp/kaburaki/info/building.html",
+      "imageUrl": "https://www.kamakura-arts.or.jp/kaburaki/wp-content/themes/themKaburaki/images/info/genkan_a.png"
+    }
+  },
+  "walking": {
+    "checkedAt": "2026-10-24",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/139.5497882,35.3184606;139.55177554117645,35.32040330588235;139.55232908333335,35.322966194444454;139.55620424722224,35.32544600555556?overview=false&steps=false",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 30.65,
+              "summary": "",
+              "duration": 292.6,
+              "distance": 365.6
+            },
+            {
+              "steps": [],
+              "weight": 35.75,
+              "summary": "",
+              "duration": 320.8,
+              "distance": 398.5
+            },
+            {
+              "steps": [],
+              "weight": 50.78,
+              "summary": "",
+              "duration": 478.8,
+              "distance": 598.4
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 117.18,
+          "duration": 1092.2,
+          "distance": 1362.5
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "vxlVgNbw3YFXAAAAqQAAAAAAAAAAAAAABfEoQT1NoUEAAAAAAAAAAFQAAACiAAAAAAAAAAAAAABxAgAAyVxRCKLqGgJcXFEIveoaAgAATwwAAAAA",
+          "location": [
+            139.549897,
+            35.318434
+          ],
+          "name": "御成通り",
+          "distance": 10.35371621
+        },
+        {
+          "hint": "DQZVgOrRA4cgAAAAtgAAAAAAAAAAAAAA-NF3QPDhrkEAAAAAAAAAAB8AAACvAAAAAAAAAAAAAABxAgAAJ2RRCFHyGgIgZFEIU_IaAgAAvwwAAAAA",
+          "location": [
+            139.551783,
+            35.320401
+          ],
+          "name": "小町通り",
+          "distance": 0.6740502058
+        },
+        {
+          "hint": "NgZVgMM1-4a2AAAAAAAAAAAAAAAAAAAAdqauQQAAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAAAAAABxAgAA0GZRCMr8GgJJZlEIVvwaAgAAvwwAAAAA",
+          "location": [
+            139.552464,
+            35.323082
+          ],
+          "name": "",
+          "distance": 17.78501519
+        },
+        {
+          "hint": "Z3OZhuISlogbAAAAaQAAAAAAAAAAAAAA_xZSQHlmSUEAAAAAAAAAABoAAABlAAAAAAAAAAAAAABxAgAAY3VRCPYFGwJsdVEIBgYbAgAALwcAAAAA",
+          "location": [
+            139.556195,
+            35.32543
+          ],
+          "name": "",
+          "distance": 1.954688029
+        }
+      ]
+    }
+  },
+  "visitEstimate": {
+    "minutes": [
+      120,
+      190
+    ],
+    "method": "路網步行時間加上可可店30–45分鐘、小町通15–25分鐘、美術館30–45分鐘、八幡宮30–50分鐘；排隊及其他探索點另計。"
+  }
+}

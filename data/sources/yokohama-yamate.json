@@ -1,0 +1,482 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "yokohama-yamate--bluff18",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/bluff18/",
+      "contentSources": [
+        "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/bluff18/"
+      ],
+      "coordinate": {
+        "lat": 35.436699,
+        "lng": 139.643356,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA16",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/bluff18/",
+        "imageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/bluff18/assets_c/2021/12/bluff18_top6-2-thumb-1200xauto-127758.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/bluff18.jpg"
+      }
+    },
+    {
+      "id": "yokohama-yamate--gaikokan",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/gaikoukan/",
+      "contentSources": [
+        "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/gaikoukan/"
+      ],
+      "coordinate": {
+        "lat": 35.436699,
+        "lng": 139.643356,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA16",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/gaikoukan/",
+        "imageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/gaikoukan/assets_c/2021/09/gaikoukan_top1-thumb-960x637-120736.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/gaikokan.jpg"
+      }
+    },
+    {
+      "id": "yokohama-yamate--italia",
+      "official": "https://www.hama-midorinokyokai.or.jp/park/italia/",
+      "contentSources": [
+        "https://www.hama-midorinokyokai.or.jp/park/italia/"
+      ],
+      "coordinate": {
+        "lat": 35.436699,
+        "lng": 139.643356,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA16",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.hama-midorinokyokai.or.jp/park/italia/",
+        "imageUrl": "https://www.hama-midorinokyokai.or.jp/park/italia/assets_c/2022/09/d006e4e78d94710d4b031b172c4bf75123e1fb24-thumb-1200xauto-148722.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/italia.jpg"
+      }
+    },
+    {
+      "id": "yokohama-yamate--berrick",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/Berrick-Hall/",
+      "contentSources": [
+        "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/Berrick-Hall/"
+      ],
+      "coordinate": {
+        "lat": 35.437996,
+        "lng": 139.650391,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA72",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/Berrick-Hall/",
+        "imageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/Berrick-Hall/assets_c/2019/12/berrick_slide_01-thumb-2400xauto-75364.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/berrick.jpg"
+      }
+    },
+    {
+      "id": "yokohama-yamate--bakery",
+      "official": "https://bluffbakery.com/aboutus/",
+      "contentSources": [
+        "https://bluffbakery.com/aboutus/",
+        "https://yokohama-motomachi-cs.com/shop/834/"
+      ],
+      "coordinate": {
+        "lat": 35.439125,
+        "lng": 139.649933,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA2%E4%B8%81%E7%9B%AE80-9",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://yokohama-motomachi-cs.com/shop/834/",
+        "imageUrl": "https://yokohama-motomachi-cs.com/wp-content/uploads/2022/12/bluff_01-1.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/bakery.jpg"
+      }
+    },
+    {
+      "id": "yokohama-yamate--ehrismann",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/",
+      "contentSources": [
+        "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/"
+      ],
+      "coordinate": {
+        "lat": 35.439472,
+        "lng": 139.65036,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1%E4%B8%81%E7%9B%AE77-4",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/",
+        "imageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/assets_c/2021/12/erisuman_top2-1-thumb-1200xauto-127918.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/ehrismann.jpg"
+      }
+    },
+    {
+      "id": "yokohama-yamate--234",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/",
+      "contentSources": [
+        "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/"
+      ],
+      "coordinate": {
+        "lat": 35.437599,
+        "lng": 139.652496,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA234-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/",
+        "imageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/assets_c/2021/12/yamate234_top3-thumb-1200xauto-128175.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/234.jpg"
+      }
+    },
+    {
+      "id": "yokohama-yamate--enoki",
+      "official": "https://www.enokitei.co.jp/",
+      "contentSources": [
+        "https://www.enokitei.co.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.437599,
+        "lng": 139.652496,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA89-6",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.enokitei.co.jp/",
+        "imageUrl": "https://www.enokitei.co.jp/wp-content/uploads/2020/12/mainimg1-1400x583.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/enoki.jpg"
+      }
+    },
+    {
+      "id": "yokohama-yamate--111",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate111/",
+      "contentSources": [
+        "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate111/"
+      ],
+      "coordinate": {
+        "lat": 35.439133,
+        "lng": 139.654556,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA111",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate111/",
+        "imageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate111/assets_c/2022/01/yamate111_top2-1-thumb-1200xauto-129203.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/111.jpg"
+      }
+    },
+    {
+      "id": "yokohama-yamate--british",
+      "official": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/british-house/",
+      "contentSources": [
+        "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/british-house/"
+      ],
+      "coordinate": {
+        "lat": 35.439133,
+        "lng": 139.654556,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA115-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/british-house/",
+        "imageUrl": "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/british-house/assets_c/2022/01/british_house_top_3-thumb-1200xauto-129675.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/british.jpg"
+      }
+    },
+    {
+      "id": "yokohama-yamate--harbor",
+      "official": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html",
+      "contentSources": [
+        "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html"
+      ],
+      "coordinate": {
+        "lat": 35.43898,
+        "lng": 139.655029,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA114",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html",
+        "imageUrl": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.images/0033_20180823.jpg",
+        "referencePath": "design/photo-references/expansion/yokohama-yamate/harbor.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "yokohama-yamate--bluff18",
+      "query": "神奈川県横浜市中区山手町16",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA16",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.643356,
+              35.436699
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区山手町１６番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yokohama-yamate--gaikokan",
+      "query": "神奈川県横浜市中区山手町16",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA16",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.643356,
+              35.436699
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区山手町１６番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yokohama-yamate--italia",
+      "query": "神奈川県横浜市中区山手町16",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA16",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.643356,
+              35.436699
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区山手町１６番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yokohama-yamate--berrick",
+      "query": "神奈川県横浜市中区山手町72",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA72",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.650391,
+              35.437996
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区山手町７２番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yokohama-yamate--bakery",
+      "query": "神奈川県横浜市中区元町2丁目80-9",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA2%E4%B8%81%E7%9B%AE80-9",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.649933,
+              35.439125
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区元町二丁目８０番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yokohama-yamate--ehrismann",
+      "query": "神奈川県横浜市中区元町1丁目77-4",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1%E4%B8%81%E7%9B%AE77-4",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.65036,
+              35.439472
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区元町一丁目７７番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yokohama-yamate--234",
+      "query": "神奈川県横浜市中区山手町234-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA234-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.652496,
+              35.437599
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区山手町２３４番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yokohama-yamate--enoki",
+      "query": "神奈川県横浜市中区山手町89-6",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA89-6",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.652496,
+              35.437599
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区山手町８９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yokohama-yamate--111",
+      "query": "神奈川県横浜市中区山手町111",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA111",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.654556,
+              35.439133
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区山手町１１１番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yokohama-yamate--british",
+      "query": "神奈川県横浜市中区山手町115-3",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA115-3",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.654556,
+              35.439133
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区山手町１１５番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yokohama-yamate--harbor",
+      "query": "神奈川県横浜市中区山手町114",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%B1%B1%E6%89%8B%E7%94%BA114",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.655029,
+              35.43898
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "神奈川県横浜市中区山手町１１４番地"
+          }
+        }
+      ]
+    }
+  ]
+}

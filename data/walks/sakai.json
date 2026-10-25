@@ -1,0 +1,364 @@
+{
+  "updatedAt": "2026-10-24",
+  "places": [
+    {
+      "id": "sakai--teppo",
+      "order": 1,
+      "name": "鐵炮鍛冶屋敷",
+      "address": "大阪府堺市堺区北旅籠町西1丁3-22",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "走進鍛冶職人的作業場與住居",
+      "descriptionParagraphs": [
+        "井上關右衛門家的老屋兼具作業場與住居，展示資料與復原空間讓人理解堺的鍛冶歷史。木構、土間與工具陳列，把職人的生活接在一起。",
+        "適合當作北旅籠町散步的主要室內停留。若也想看其他町家，可依興趣替換，不必把三座展館全部排進同一個午後。"
+      ],
+      "description": "井上關右衛門家的老屋兼具作業場與住居，展示資料與復原空間讓人理解堺的鍛冶歷史。木構、土間與工具陳列，把職人的生活接在一起。\n\n適合當作北旅籠町散步的主要室內停留。若也想看其他町家，可依興趣替換，不必把三座展館全部排進同一個午後。",
+      "note": "",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/27",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.590988,
+        "lng": 135.483063,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E5%8C%97%E6%97%85%E7%B1%A0%E7%94%BA%E8%A5%BF1%E4%B8%813-22",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/sakai/teppo.webp",
+        "alt": "鐵炮鍛冶屋敷的日系水彩插圖"
+      }
+    },
+    {
+      "id": "sakai--seigakuin",
+      "order": 2,
+      "name": "清學院",
+      "address": "大阪府堺市堺区北旅籠町西1丁3-13",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "小小寺院，留著寺子屋的記憶",
+      "descriptionParagraphs": [
+        "清學院曾是修驗道道場，也曾作為寺子屋。教科書、書桌與河口慧海相關資料，讓這座小建築連上學習與旅行的故事。",
+        "與鐵炮鍛冶屋敷相鄰，適合選擇自己更感興趣的一館。從門面與瓦頂慢慢看，也能感受北旅籠町細緻的尺度。"
+      ],
+      "description": "清學院曾是修驗道道場，也曾作為寺子屋。教科書、書桌與河口慧海相關資料，讓這座小建築連上學習與旅行的故事。\n\n與鐵炮鍛冶屋敷相鄰，適合選擇自己更感興趣的一館。從門面與瓦頂慢慢看，也能感受北旅籠町細緻的尺度。",
+      "note": "",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/409",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.591125,
+        "lng": 135.482773,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E5%8C%97%E6%97%85%E7%B1%A0%E7%94%BA%E8%A5%BF1%E4%B8%813-13",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/sakai/seigakuin.webp",
+        "alt": "清學院的日系水彩插圖"
+      }
+    },
+    {
+      "id": "sakai--mizuno",
+      "order": 3,
+      "name": "水野鍛鍊所",
+      "address": "大阪府堺市堺区桜之町西1丁1-27",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "從老鍛冶屋，看見器物的來處",
+      "descriptionParagraphs": [
+        "水野鍛鍊所延續傳統鍛造手藝，製作刀具與相關器物。作業空間與工具讓人看見一件日用品背後的火候、材料與工序。",
+        "這裡仍是工作的場所，想參觀請先確認店方安排。只在店頭短暫停留也很適合，將較長的工藝體驗另作預約。"
+      ],
+      "description": "水野鍛鍊所延續傳統鍛造手藝，製作刀具與相關器物。作業空間與工具讓人看見一件日用品背後的火候、材料與工序。\n\n這裡仍是工作的場所，想參觀請先確認店方安排。只在店頭短暫停留也很適合，將較長的工藝體驗另作預約。",
+      "note": "參觀與體驗需先確認店方開放及預約安排。",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/150",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.58942,
+        "lng": 135.483383,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%A1%9C%E4%B9%8B%E7%94%BA%E8%A5%BF1%E4%B8%811-27",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/sakai/mizuno.webp",
+        "alt": "水野鍛鍊所的日系水彩插圖"
+      }
+    },
+    {
+      "id": "sakai--yamaguchi",
+      "order": 4,
+      "name": "山口家住宅",
+      "address": "大阪府堺市堺区錦之町東1丁2-31",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從土間與木梁，想像町家的日常",
+      "descriptionParagraphs": [
+        "山口家住宅是保留江戶初期格局的町家，寬敞土間與相接的榻榻米房間呈現昔日生活方式。抬頭看木梁，能讀到老屋的空間構造。",
+        "可替換鐵炮鍛冶屋敷作為建築主題的重點。從住宅周邊慢慢向南走，茶寮與寺院便會接續出現在路上。"
+      ],
+      "description": "山口家住宅是保留江戶初期格局的町家，寬敞土間與相接的榻榻米房間呈現昔日生活方式。抬頭看木梁，能讀到老屋的空間構造。\n\n可替換鐵炮鍛冶屋敷作為建築主題的重點。從住宅周邊慢慢向南走，茶寮與寺院便會接續出現在路上。",
+      "note": "",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/157",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.586597,
+        "lng": 135.482529,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E9%8C%A6%E4%B9%8B%E7%94%BA%E6%9D%B11%E4%B8%812-31",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/sakai/yamaguchi.webp",
+        "alt": "山口家住宅的日系水彩插圖"
+      }
+    },
+    {
+      "id": "sakai--tsuboichi",
+      "order": 5,
+      "name": "茶寮つぼ市製茶本舖 堺本館",
+      "address": "大阪府堺市堺区九間町東1丁1-2",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在格子町家裡，等一杯茶的時間",
+      "descriptionParagraphs": [
+        "茶寮由堺的老茶舖經營，將町家改為可以坐下喝茶的空間。白牆、木格與茶香，讓工藝散步接上一段安靜的休息。",
+        "可以依當天供應選茶或甘味，作為推薦路線中的坐下停留。若現場候位較久，也能先逛店內茶品，再到附近繼續散步。"
+      ],
+      "description": "茶寮由堺的老茶舖經營，將町家改為可以坐下喝茶的空間。白牆、木格與茶香，讓工藝散步接上一段安靜的休息。\n\n可以依當天供應選茶或甘味，作為推薦路線中的坐下停留。若現場候位較久，也能先逛店內茶品，再到附近繼續散步。",
+      "note": "",
+      "official": "https://tsuboichi.co.jp/store/sakai",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.585201,
+        "lng": 135.480408,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E4%B9%9D%E9%96%93%E7%94%BA%E6%9D%B11%E4%B8%811-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/sakai/tsuboichi.webp",
+        "alt": "茶寮つぼ市製茶本舖 堺本館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "sakai--kakuoji",
+      "order": 6,
+      "name": "覺應寺",
+      "address": "大阪府堺市堺区九間町東3丁1-49",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在安靜境內，遇見與謝野晶子的詩",
+      "descriptionParagraphs": [
+        "覺應寺與與謝野晶子的文學故事相連，境內留有歌碑。樸素的街道門面與寺院空間，為町家之間加上一段文學風景。",
+        "沿路順道停留即可，不必特別繞遠。參拜時尊重寺院日常活動，喜歡文學的人可以在歌碑前多留一會兒。"
+      ],
+      "description": "覺應寺與與謝野晶子的文學故事相連，境內留有歌碑。樸素的街道門面與寺院空間，為町家之間加上一段文學風景。\n\n沿路順道停留即可，不必特別繞遠。參拜時尊重寺院日常活動，喜歡文學的人可以在歌碑前多留一會兒。",
+      "note": "",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/46",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.584023,
+        "lng": 135.481979,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E4%B9%9D%E9%96%93%E7%94%BA%E6%9D%B13%E4%B8%811-49",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/sakai/kakuoji.webp",
+        "alt": "覺應寺的日系水彩插圖"
+      }
+    },
+    {
+      "id": "sakai--honganji",
+      "order": 7,
+      "name": "本願寺堺別院",
+      "address": "大阪府堺市堺区神明町東3丁1-10",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在大屋簷下，感受木造建築的尺度",
+      "descriptionParagraphs": [
+        "本願寺堺別院有壯闊的木造本堂與門樓，也曾作為堺縣廳使用。與沿路細巧的町家相比，這裡的屋簷與境內顯得格外開闊。",
+        "與覺應寺相距不遠，可以連在一起看外觀與參拜。若有法會或活動，依現場動線安靜通行，保留寺院應有的節奏。"
+      ],
+      "description": "本願寺堺別院有壯闊的木造本堂與門樓，也曾作為堺縣廳使用。與沿路細巧的町家相比，這裡的屋簷與境內顯得格外開闊。\n\n與覺應寺相距不遠，可以連在一起看外觀與參拜。若有法會或活動，依現場動線安靜通行，保留寺院應有的節奏。",
+      "note": "",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/146",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.583782,
+        "lng": 135.481735,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E7%A5%9E%E6%98%8E%E7%94%BA%E6%9D%B13%E4%B8%811-10",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/sakai/honganji.webp",
+        "alt": "本願寺堺別院的日系水彩插圖"
+      }
+    },
+    {
+      "id": "sakai--myokokuji",
+      "order": 8,
+      "name": "妙國寺",
+      "address": "大阪府堺市堺区材木町東4丁1-4",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "古老蘇鐵，替寺院留下綠色輪廓",
+      "descriptionParagraphs": [
+        "妙國寺以境內的大蘇鐵與歷史故事聞名，曲折的枝葉襯著寺院建築，形成不同於松與櫻的庭院景象。這裡也與幕末的堺事件相連。",
+        "想多看庭園與歷史時，可用它替換部分展館時間。若入內參觀，先確認開放方式，讓散步不被臨時等待填滿。"
+      ],
+      "description": "妙國寺以境內的大蘇鐵與歷史故事聞名，曲折的枝葉襯著寺院建築，形成不同於松與櫻的庭院景象。這裡也與幕末的堺事件相連。\n\n想多看庭園與歷史時，可用它替換部分展館時間。若入內參觀，先確認開放方式，讓散步不被臨時等待填滿。",
+      "note": "",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/153",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.580997,
+        "lng": 135.480515,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%9D%90%E6%9C%A8%E7%94%BA%E6%9D%B14%E4%B8%811-4",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/sakai/myokokuji.webp",
+        "alt": "妙國寺的日系水彩插圖"
+      }
+    },
+    {
+      "id": "sakai--denshokan",
+      "order": 9,
+      "name": "堺傳匠館",
+      "address": "大阪府堺市堺区材木町西1丁1-30",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從刀具到織品，看看堺的手藝",
+      "descriptionParagraphs": [
+        "堺傳匠館將傳統產業的展示與選物放在同一處，刀具、染織、線香等器物各有材質與工序。沿著陳列慢慢看，能理解工藝與日常生活的關係。",
+        "適合作為散步後段的重點，也方便挑選想帶回家的小物。工藝活動依當日安排，若要完整體驗請另留時間。"
+      ],
+      "description": "堺傳匠館將傳統產業的展示與選物放在同一處，刀具、染織、線香等器物各有材質與工序。沿著陳列慢慢看，能理解工藝與日常生活的關係。\n\n適合作為散步後段的重點，也方便挑選想帶回家的小物。工藝活動依當日安排，若要完整體驗請另留時間。",
+      "note": "",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/407",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.582767,
+        "lng": 135.477448,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%9D%90%E6%9C%A8%E7%94%BA%E8%A5%BF1%E4%B8%811-30",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/sakai/denshokan.webp",
+        "alt": "堺傳匠館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "sakai--zabiel",
+      "order": 10,
+      "name": "札比耶公園",
+      "address": "大阪府堺市堺区櫛屋町西1丁",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在街角綠地，替散步留一段空白",
+      "descriptionParagraphs": [
+        "札比耶公園紀念傳教士來到堺的歷史，樹木、步道與紀念物構成一片街角綠地。走出展館後，在這裡換一口開闊的空氣。",
+        "公園靠近花田口站，可作為散步尾聲的短暫休息。喜歡的地方不必全部走完，從這裡搭路面電車離開也很從容。"
+      ],
+      "description": "札比耶公園紀念傳教士來到堺的歷史，樹木、步道與紀念物構成一片街角綠地。走出展館後，在這裡換一口開闊的空氣。\n\n公園靠近花田口站，可作為散步尾聲的短暫休息。喜歡的地方不必全部走完，從這裡搭路面電車離開也很從容。",
+      "note": "",
+      "official": "https://www.sakai-tcb.or.jp/spot/detail/77",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.58181,
+        "lng": 135.475174,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%AB%9B%E5%B1%8B%E7%94%BA%E8%A5%BF1%E4%B8%81",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/sakai/zabiel.webp",
+        "alt": "札比耶公園的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "sakai-slow-walk",
+      "name": "老町家、工藝與一杯茶",
+      "ids": [
+        "sakai--teppo",
+        "sakai--tsuboichi",
+        "sakai--denshokan"
+      ],
+      "start": {
+        "name": "七道站",
+        "address": "大阪府堺市堺区鉄砲町 南海七道駅",
+        "access": "南海本線；出站向東走入北旅籠町"
+      },
+      "end": {
+        "name": "花田口站",
+        "address": "大阪府堺市堺区車之町東1丁 阪堺花田口駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從北旅籠町的老屋出發，沿職人街區走向茶寮與傳匠館。",
+      "note": "三座町家展館可擇一深入；水野鍛鍊所參觀先確認安排。完整工藝體驗、候位與用餐另留時間。",
+      "stopNotes": {
+        "sakai--teppo": "在老屋裡認識堺的鍛冶與分工。",
+        "sakai--tsuboichi": "坐進町家茶寮，喝茶休息。",
+        "sakai--denshokan": "從器物與展示，看看堺的工藝。"
+      },
+      "art": "/art/walks/sakai/tsuboichi.webp"
+    }
+  ],
+  "defaultSelection": "sakai-slow-walk"
+}

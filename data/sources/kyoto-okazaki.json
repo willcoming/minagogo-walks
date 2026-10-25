@@ -1,0 +1,496 @@
+{
+  "geocoding": [],
+  "checkedAt": "2026-10-24",
+  "method": "官方及地方觀光資訊查證後，以繁體中文原創改寫；照片僅作私下插圖參考，公開圖為獨立生成水彩。",
+  "places": [
+    {
+      "id": "kyoto-okazaki--kyocera",
+      "official": "https://kyotocity-kyocera.museum/",
+      "contentSources": [
+        "https://kyotocity-kyocera.museum/"
+      ],
+      "coordinate": {
+        "lat": 35.013564,
+        "lng": 135.783293,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/11433400363",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kyotocity-kyocera.museum/architecture",
+        "imageUrl": "https://kyotocity-kyocera.museum/wp-content/themes/kyotocity_kyocera_museum/assets-dist/images/front/facility3.png",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/kyocera.png"
+      },
+      "photoReference": {
+        "pageUrl": "https://kyotocity-kyocera.museum/architecture",
+        "imageUrl": "https://kyotocity-kyocera.museum/wp-content/themes/kyotocity_kyocera_museum/assets-dist/images/front/facility3.png",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/kyocera.png"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--hosomi",
+      "official": "https://www.emuseum.or.jp/about/index.html",
+      "contentSources": [
+        "https://www.emuseum.or.jp/about/index.html"
+      ],
+      "coordinate": {
+        "lat": 35.0137793,
+        "lng": 135.7796211,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/1422970994",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.emuseum.or.jp/about/facility.html",
+        "imageUrl": "https://www.emuseum.or.jp/about/img/wellhole.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/hosomi.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.emuseum.or.jp/about/facility.html",
+        "imageUrl": "https://www.emuseum.or.jp/about/img/wellhole.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/hosomi.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--terrace",
+      "official": "https://rohmtheatrekyoto.jp/floorguide/",
+      "contentSources": [
+        "https://rohmtheatrekyoto.jp/floorguide/",
+        "https://store.tsite.jp/kyoto-okazaki/floor/shop/kyoto-modern-terrace/"
+      ],
+      "coordinate": {
+        "lat": 35.0138732,
+        "lng": 135.7814175,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/11883175572",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.bauhaus-m.co.jp/works/2819/",
+        "imageUrl": "https://www.bauhaus-m.co.jp/wp-content//uploads/works/32_1.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/terrace-actual1.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.bauhaus-m.co.jp/works/2819/",
+        "imageUrl": "https://www.bauhaus-m.co.jp/wp-content//uploads/works/32_1.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/terrace-actual1.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--heian",
+      "official": "https://www.heianjingu.or.jp/",
+      "contentSources": [
+        "https://www.heianjingu.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.01610115,
+        "lng": 135.7829643556,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/619903245",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.heianjingu.or.jp/",
+        "imageUrl": "https://www.heianjingu.or.jp/wp-content/themes/heianjingu/images/home/mv.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/heian.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.heianjingu.or.jp/",
+        "imageUrl": "https://www.heianjingu.or.jp/wp-content/themes/heianjingu/images/home/mv.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/heian.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--rohm",
+      "official": "https://rohmtheatrekyoto.jp/",
+      "contentSources": [
+        "https://rohmtheatrekyoto.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.0142963636,
+        "lng": 135.7809902318,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/100398430",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.rohm.co.jp/theatre/location",
+        "imageUrl": "https://www.rohm.co.jp/documents/11401/3755372/im_fadein_shinryoku-1.jpg/25590631-020a-41cf-b561-d84ca3470bda?t=1532398937603",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/rohm.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.rohm.co.jp/theatre/location",
+        "imageUrl": "https://www.rohm.co.jp/documents/11401/3755372/im_fadein_shinryoku-1.jpg/25590631-020a-41cf-b561-d84ca3470bda?t=1532398937603",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/rohm.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--craft",
+      "official": "https://kmtc.jp/",
+      "contentSources": [
+        "https://kmtc.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.0126264,
+        "lng": 135.7806273,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/2925674896",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kmtc.jp/",
+        "imageUrl": "https://kmtc.jp/wp-content/uploads/2021/03/renewalopen_jp-scaled.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/craft-renewal.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://kmtc.jp/",
+        "imageUrl": "https://kmtc.jp/wp-content/uploads/2021/03/renewalopen_jp-scaled.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/craft-renewal.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--momak",
+      "official": "https://www.momak.go.jp/Japanese/",
+      "contentSources": [
+        "https://www.momak.go.jp/Japanese/"
+      ],
+      "coordinate": {
+        "lat": 35.0123497333,
+        "lng": 135.78197135,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/100398402",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.momak.go.jp/Japanese/about/intro.html",
+        "imageUrl": "https://www.momak.go.jp/wp-content/uploads/2019/12/1fentrance-2048x1280.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/momak-entrance.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.momak.go.jp/Japanese/about/intro.html",
+        "imageUrl": "https://www.momak.go.jp/wp-content/uploads/2019/12/1fentrance-2048x1280.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/momak-entrance.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--zoo",
+      "official": "https://zoo.city.kyoto.lg.jp/zoo/",
+      "contentSources": [
+        "https://zoo.city.kyoto.lg.jp/zoo/"
+      ],
+      "coordinate": {
+        "lat": 35.0125056865,
+        "lng": 135.7872337162,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/relation/11685246",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.rohm.co.jp/theatre/location",
+        "imageUrl": "https://www.rohm.co.jp/documents/11401/3755372/im_fadein2.jpg/49af8b22-838f-40c5-9f3c-7f1c4a845ede?t=1532398942737",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/zoo.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.rohm.co.jp/theatre/location",
+        "imageUrl": "https://www.rohm.co.jp/documents/11401/3755372/im_fadein2.jpg/49af8b22-838f-40c5-9f3c-7f1c4a845ede?t=1532398942737",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/zoo.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--murin",
+      "official": "https://murin-an.jp/",
+      "contentSources": [
+        "https://murin-an.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.0115842875,
+        "lng": 135.787381625,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/300891384",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://murin-an.jp/",
+        "imageUrl": "https://murin-an.jp/images/slider/top2026spring_a_sp.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/murin.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://murin-an.jp/",
+        "imageUrl": "https://murin-an.jp/images/slider/top2026spring_a_sp.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/murin.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--nanzen",
+      "official": "https://nanzenji.or.jp/",
+      "contentSources": [
+        "https://nanzenji.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.0110907,
+        "lng": 135.7925106,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/7056457712",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://nanzenji.or.jp/",
+        "imageUrl": "https://nanzenji.or.jp/application/files/8216/1121/1813/slide4.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/nanzen.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://nanzenji.or.jp/",
+        "imageUrl": "https://nanzenji.or.jp/application/files/8216/1121/1813/slide4.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/nanzen.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--eikando",
+      "official": "https://www.eikando.or.jp/",
+      "contentSources": [
+        "https://www.eikando.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.0144807182,
+        "lng": 135.7947023576,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/859305371",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.eikando.or.jp/kinei.html",
+        "imageUrl": "https://www.eikando.or.jp/photo_image/phot02.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/eikando-lower2.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.eikando.or.jp/kinei.html",
+        "imageUrl": "https://www.eikando.or.jp/photo_image/phot02.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/eikando-lower2.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--bluebottle",
+      "official": "https://store.bluebottlecoffee.jp/pages/kyoto",
+      "contentSources": [
+        "https://store.bluebottlecoffee.jp/pages/kyoto"
+      ],
+      "coordinate": {
+        "lat": 35.0113926,
+        "lng": 135.7894886,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/5753718418",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://tate-roku.com/bluebottlecoffeekyoto/",
+        "imageUrl": "https://tate-roku.com/wp-content/uploads/2026/03/title_073-1280x720.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/bluebottle.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://tate-roku.com/bluebottlecoffeekyoto/",
+        "imageUrl": "https://tate-roku.com/wp-content/uploads/2026/03/title_073-1280x720.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/bluebottle.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--sosui",
+      "official": "https://kyoto-museums.city.kyoto.lg.jp/museum/242/",
+      "contentSources": [
+        "https://kyoto-museums.city.kyoto.lg.jp/museum/242/",
+        "https://biwakososui-museum.city.kyoto.lg.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.0119504652,
+        "lng": 135.7881937087,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/219968173",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kyoto-museums.city.kyoto.lg.jp/museum/242/",
+        "imageUrl": "https://kyoto-museums.city.kyoto.lg.jp/uploads/165-main.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/sosui-main.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://kyoto-museums.city.kyoto.lg.jp/museum/242/",
+        "imageUrl": "https://kyoto-museums.city.kyoto.lg.jp/uploads/165-main.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/sosui-main.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--okazakijinja",
+      "official": "https://okazakijinja.jp/",
+      "contentSources": [
+        "https://okazakijinja.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.0172664231,
+        "lng": 135.7889313846,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/1155362848",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://okazakijinja.jp/",
+        "imageUrl": "https://okazakijinja.jp/wp/wp-content/uploads/2018/02/cropped-main_img.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/okazakijinja.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "https://okazakijinja.jp/",
+        "imageUrl": "https://okazakijinja.jp/wp/wp-content/uploads/2018/02/cropped-main_img.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/okazakijinja.jpg"
+      }
+    },
+    {
+      "id": "kyoto-okazaki--okakita",
+      "official": "http://www.kyoto-okakita.com/",
+      "contentSources": [
+        "http://www.kyoto-okakita.com/"
+      ],
+      "coordinate": {
+        "lat": 35.0143582,
+        "lng": 135.7848079,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/5010320833",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "http://www.kyoto-okakita.com/",
+        "imageUrl": "http://www.kyoto-okakita.com/images/winter_menu_big.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/okakita-menu.jpg"
+      },
+      "photoReference": {
+        "pageUrl": "http://www.kyoto-okakita.com/",
+        "imageUrl": "http://www.kyoto-okakita.com/images/winter_menu_big.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-okazaki/okakita-menu.jpg"
+      }
+    }
+  ],
+  "walking": {
+    "provider": "OSRM OpenStreetMap.de routed-foot",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/135.783293,35.013564;135.7796211,35.0137793;135.7814175,35.0138732;135.7829643556,35.01610115?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "rawResponse": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 30.33,
+              "summary": "",
+              "duration": 291.1,
+              "distance": 363.8
+            },
+            {
+              "steps": [],
+              "weight": 20.97,
+              "summary": "",
+              "duration": 201.2,
+              "distance": 251.7
+            },
+            {
+              "steps": [],
+              "weight": 54.54,
+              "summary": "",
+              "duration": 427.4,
+              "distance": 534.4
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 105.84,
+          "duration": 919.7,
+          "distance": 1149.9
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "f8TEguX6E4vYAAAAMgEAAAAAAAAAAAAA91fPQSm_EkIAAAAAAAAAAM8AAAAmAQAAAAAAAAAAAABxAgAAfeMXCMJDFgJ94xcIvEMWAgAA7xAAAAAA",
+          "location": [
+            135.783293,
+            35.01357
+          ],
+          "name": "",
+          "distance": 0.665646194
+        },
+        {
+          "hint": "pYOzgpmk4ISDAAAAlAAAAAAAAAAAAAAAN6p8QT2ujUEAAAAAAAAAAH4AAACOAAAAAAAAAAAAAABxAgAAJ9UXCFVEFgIl1RcIk0QWAgAAzxAAAAAA",
+          "location": [
+            135.779623,
+            35.013717
+          ],
+          "name": "",
+          "distance": 6.880765227
+        },
+        {
+          "hint": "_Q2UgPrul4qmAAAAMAEAAAAAAAAAAAAAYuOfQfumEUIAAAAAAAAAAJ8AAAAkAQAAAAAAAAAAAABxAgAAKtwXCNJEFgIq3BcI8UQWAgAA3xAAAAAA",
+          "location": [
+            135.781418,
+            35.013842
+          ],
+          "name": "",
+          "distance": 3.439172003
+        },
+        {
+          "hint": "ZK3Og1AI1IMqAAAAxAAAAPkBAAB6AgAAyBpYQAsme0HegCFC1-ZKQhsAAAB-AAAAQwEAAJYBAABxAgAANOIXCMRNFgI04hcIpU0WAgwA7xAAAAAA",
+          "location": [
+            135.782964,
+            35.016132
+          ],
+          "name": "",
+          "distance": 3.439172003
+        }
+      ]
+    },
+    "visitMinutes": [
+      150,
+      240
+    ],
+    "visitEstimateNote": "編輯估算四處參訪、逛店與喫茶停留，未含候位及車站接駁；步行時間採道路網路回傳值。"
+  }
+}

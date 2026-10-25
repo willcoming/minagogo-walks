@@ -1,0 +1,364 @@
+{
+  "updatedAt": "2026-10-24",
+  "places": [
+    {
+      "id": "imai--takagi",
+      "order": 1,
+      "name": "高木家住宅",
+      "address": "奈良県橿原市今井町1-6-9",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從土間與階梯，想像昔日商家的生活",
+      "descriptionParagraphs": [
+        "高木家住宅是今井町的歷史町家，土間、木梁與室內道具呈現往日生活的細節。建築也曾成為影視拍攝場景，光線與格局值得慢慢看。",
+        "門前掛出可見學標示時才安排入內；未開放時看外觀即可。它可替換其他町家展館，不必為了全看而壓縮休息。"
+      ],
+      "description": "高木家住宅是今井町的歷史町家，土間、木梁與室內道具呈現往日生活的細節。建築也曾成為影視拍攝場景，光線與格局值得慢慢看。\n\n門前掛出可見學標示時才安排入內；未開放時看外觀即可。它可替換其他町家展館，不必為了全看而壓縮休息。",
+      "note": "內部不定期開放，請依現場見學標示。",
+      "official": "https://kashihara-kanko.or.jp/feature/detail.php?fid=41",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.506512,
+        "lng": 135.788986,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-6-9",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/imai/takagi.webp",
+        "alt": "高木家住宅的日系水彩插圖"
+      }
+    },
+    {
+      "id": "imai--kawai",
+      "order": 2,
+      "name": "河合酒造",
+      "address": "奈良県橿原市今井町1-7-8",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "在老酒藏裡，看看延續至今的釀造手藝",
+      "descriptionParagraphs": [
+        "河合酒造延續今井町的釀酒傳統，老屋與釀造器具讓街區歷史仍有具體形狀。地酒與相關陳列，把町家的商業生活接到今天。",
+        "可以選購伴手禮，也可依店方安排了解酒藏。展示空間受釀造期影響，若當天不開放，便把時間留給附近其他老屋。"
+      ],
+      "description": "河合酒造延續今井町的釀酒傳統，老屋與釀造器具讓街區歷史仍有具體形狀。地酒與相關陳列，把町家的商業生活接到今天。\n\n可以選購伴手禮，也可依店方安排了解酒藏。展示空間受釀造期影響，若當天不開放，便把時間留給附近其他老屋。",
+      "note": "",
+      "official": "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.506516,
+        "lng": 135.788589,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-7-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/imai/kawai.webp",
+        "alt": "河合酒造的日系水彩插圖"
+      }
+    },
+    {
+      "id": "imai--keikan",
+      "order": 3,
+      "name": "今井景觀支援中心",
+      "address": "奈良県橿原市今井町1-10-9",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "先認識窗與瓦，再走進巷弄",
+      "descriptionParagraphs": [
+        "這座景觀支援中心本身就是經過修復的老町家，部分空間對訪客開放。關於街區保存與建築的資料，能替稍後的散步增添觀察線索。",
+        "適合短暫停留後再走向旁邊的舊米谷家。若今天想少進室內，也可以只選其中一處，沿街觀察格子與屋瓦。"
+      ],
+      "description": "這座景觀支援中心本身就是經過修復的老町家，部分空間對訪客開放。關於街區保存與建築的資料，能替稍後的散步增添觀察線索。\n\n適合短暫停留後再走向旁邊的舊米谷家。若今天想少進室內，也可以只選其中一處，沿街觀察格子與屋瓦。",
+      "note": "",
+      "official": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00065",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.507145,
+        "lng": 135.787552,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-10-9",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/imai/keikan.webp",
+        "alt": "今井景觀支援中心的日系水彩插圖"
+      }
+    },
+    {
+      "id": "imai--kometani",
+      "order": 4,
+      "name": "舊米谷家住宅",
+      "address": "奈良県橿原市今井町1-10-11",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從寬敞土間，走向安靜的後院",
+      "descriptionParagraphs": [
+        "舊米谷家曾經營金物生意，住宅保留寬敞土間與木構空間，後院旁還有帶座敷的土藏。室內明暗變化，讓老生活的層次變得清楚。",
+        "推薦把它作為主要町家參觀，花些時間看梁柱與庭園。其他住宅可依興趣交換，讓散步保持餘裕，而非一路追著展館走。"
+      ],
+      "description": "舊米谷家曾經營金物生意，住宅保留寬敞土間與木構空間，後院旁還有帶座敷的土藏。室內明暗變化，讓老生活的層次變得清楚。\n\n推薦把它作為主要町家參觀，花些時間看梁柱與庭園。其他住宅可依興趣交換，讓散步保持餘裕，而非一路追著展館走。",
+      "note": "",
+      "official": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00085",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.507141,
+        "lng": 135.787338,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA1-10-11",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/imai/kometani.webp",
+        "alt": "舊米谷家住宅的日系水彩插圖"
+      }
+    },
+    {
+      "id": "imai--machiyakan",
+      "order": 5,
+      "name": "今井町家館",
+      "address": "奈良県橿原市今井町3-1-22",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "用一座復原町家，讀懂街區的基本格局",
+      "descriptionParagraphs": [
+        "今井町家館以早期大型町家的痕跡修復原貌，通長的土間、房間配置與屋頂空間呈現昔日居住方式。看建築時，也能想像人如何使用它。",
+        "位在本町筋一帶，適合和街景一起觀察。可替換舊米谷家作主要停留，中午休館時則先去逛店與喝咖啡。"
+      ],
+      "description": "今井町家館以早期大型町家的痕跡修復原貌，通長的土間、房間配置與屋頂空間呈現昔日居住方式。看建築時，也能想像人如何使用它。\n\n位在本町筋一帶，適合和街景一起觀察。可替換舊米谷家作主要停留，中午休館時則先去逛店與喝咖啡。",
+      "note": "",
+      "official": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.506725,
+        "lng": 135.786026,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-1-22",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/imai/machiyakan.webp",
+        "alt": "今井町家館的日系水彩插圖"
+      }
+    },
+    {
+      "id": "imai--imanishi",
+      "order": 6,
+      "name": "今西家住宅",
+      "address": "奈良県橿原市今井町3-9-25",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "白牆與層疊屋頂，留下自治町的氣勢",
+      "descriptionParagraphs": [
+        "今西家住宅坐落在町的西側，厚實白牆與交錯屋頂有別於一般細長町家。昔日負責町務的角色，也反映在建築格局與空間尺度上。",
+        "內部參觀需預先安排，沒有預約時以外觀散步即可。順著附近街道折回核心，不必把每座住宅都排成完整導覽。"
+      ],
+      "description": "今西家住宅坐落在町的西側，厚實白牆與交錯屋頂有別於一般細長町家。昔日負責町務的角色，也反映在建築格局與空間尺度上。\n\n內部參觀需預先安排，沒有預約時以外觀散步即可。順著附近街道折回核心，不必把每座住宅都排成完整導覽。",
+      "note": "內部參觀需事前預約。",
+      "official": "https://www.imanishike.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.506813,
+        "lng": 135.783554,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-9-25",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/imai/imanishi.webp",
+        "alt": "今西家住宅的日系水彩插圖"
+      }
+    },
+    {
+      "id": "imai--shonenji",
+      "order": 7,
+      "name": "稱念寺",
+      "address": "奈良県橿原市今井町3-2-29",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在寺內町的中心，停一段安靜時間",
+      "descriptionParagraphs": [
+        "稱念寺是今井町形成與發展的重要中心，寬大的本堂屋頂與周邊町家互相呼應。走到這裡，能理解寺院與街區緊密相連的關係。",
+        "依開門與參拜動線安靜停留即可，特殊見學另按寺方安排。看過建築後，再往小店與咖啡方向慢走。"
+      ],
+      "description": "稱念寺是今井町形成與發展的重要中心，寬大的本堂屋頂與周邊町家互相呼應。走到這裡，能理解寺院與街區緊密相連的關係。\n\n依開門與參拜動線安靜停留即可，特殊見學另按寺方安排。看過建築後，再往小店與咖啡方向慢走。",
+      "note": "",
+      "official": "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.506321,
+        "lng": 135.785583,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-2-29",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/imai/shonenji.webp",
+        "alt": "稱念寺的日系水彩插圖"
+      }
+    },
+    {
+      "id": "imai--jippensha",
+      "order": 8,
+      "name": "大和漬物 十返舎 二號店",
+      "address": "奈良県橿原市今井町3-6-1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "把季節蔬菜，做成可以帶走的味道",
+      "descriptionParagraphs": [
+        "十返舎販售以地方蔬菜為主的漬物，店頭品項隨季節改變。靠近稱念寺的小門面，讓街區散步接上家常飲食的滋味。",
+        "想帶點不一樣的伴手禮時可以順路看看，購買前確認保存方式。這裡採用今井町三丁目六番一號的二號店位置。"
+      ],
+      "description": "十返舎販售以地方蔬菜為主的漬物，店頭品項隨季節改變。靠近稱念寺的小門面，讓街區散步接上家常飲食的滋味。\n\n想帶點不一樣的伴手禮時可以順路看看，購買前確認保存方式。這裡採用今井町三丁目六番一號的二號店位置。",
+      "note": "",
+      "official": "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.505894,
+        "lng": 135.785172,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-6-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/imai/jippensha.webp",
+        "alt": "大和漬物 十返舎 二號店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "imai--narawashi",
+      "order": 9,
+      "name": "narawashi store",
+      "address": "奈良県橿原市今井町3-6-51",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "老長屋裡，收集奈良的食物與好物",
+      "descriptionParagraphs": [
+        "narawashi store將老長屋改成地方選物空間，聚焦奈良的茶、調味料、地酒與烘焙點心。木造門面與店內陳列，讓新用途自然融入街景。",
+        "把這裡作為散步的選物重點，依興趣慢慢挑一兩樣物件。營業日有變動時，可與附近酒藏或漬物店互換停留。"
+      ],
+      "description": "narawashi store將老長屋改成地方選物空間，聚焦奈良的茶、調味料、地酒與烘焙點心。木造門面與店內陳列，讓新用途自然融入街景。\n\n把這裡作為散步的選物重點，依興趣慢慢挑一兩樣物件。營業日有變動時，可與附近酒藏或漬物店互換停留。",
+      "note": "",
+      "official": "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.505962,
+        "lng": 135.784424,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA3-6-51",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/imai/narawashi.webp",
+        "alt": "narawashi store的日系水彩插圖"
+      }
+    },
+    {
+      "id": "imai--tamayura",
+      "order": 10,
+      "name": "cafe たまゆら",
+      "address": "奈良県橿原市今井町4-3-22",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在白色老屋裡，坐下吃一份繽紛甜點",
+      "descriptionParagraphs": [
+        "cafeたまゆら將老民家改為明亮的咖啡空間，提供水果與甜點、飲品和餐食。色彩鮮明的呈盤，替白牆木格的散步加上一點活潑。",
+        "適合用作路線後段的坐下休息，餐飲依當日供應選擇。若想完整吃午餐，便少逛一座展館，保留回站前的從容。"
+      ],
+      "description": "cafeたまゆら將老民家改為明亮的咖啡空間，提供水果與甜點、飲品和餐食。色彩鮮明的呈盤，替白牆木格的散步加上一點活潑。\n\n適合用作路線後段的坐下休息，餐飲依當日供應選擇。若想完整吃午餐，便少逛一座展館，保留回站前的從容。",
+      "note": "",
+      "official": "https://cafe-tamayura-kashihara.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.50806,
+        "lng": 135.786575,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%BB%8A%E4%BA%95%E7%94%BA4-3-22",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/imai/tamayura.webp",
+        "alt": "cafe たまゆら的日系水彩插圖"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "imai-slow-walk",
+      "name": "町家細節與一杯慢咖啡",
+      "ids": [
+        "imai--kometani",
+        "imai--narawashi",
+        "imai--tamayura"
+      ],
+      "start": {
+        "name": "八木西口站",
+        "address": "奈良県橿原市八木町1丁目 近鉄八木西口駅",
+        "access": "近鐵橿原線；出站向西越過飛鳥川進入今井町"
+      },
+      "end": {
+        "name": "八木西口站",
+        "address": "奈良県橿原市八木町1丁目 近鉄八木西口駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "在小小寺內町裡看木格、瓦屋與老舖，挑一間町家走進去。",
+      "note": "町家展館可擇一深入；今西家需事前預約，高木家依當日掛牌開放。咖啡與選物店有各自休息日，挑兩三站即可，不必逐一入內。",
+      "stopNotes": {
+        "imai--kometani": "從土間、木梁與庭園，讀懂町家的生活。",
+        "imai--narawashi": "在老長屋裡，挑選奈良的食物與器物。",
+        "imai--tamayura": "坐下喝茶或咖啡，讓街角發現有空白。"
+      },
+      "art": "/art/walks/imai/kometani.webp"
+    }
+  ],
+  "defaultSelection": "imai-slow-walk"
+}

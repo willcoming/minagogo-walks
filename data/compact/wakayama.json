@@ -1,0 +1,596 @@
+{
+  "updatedAt": "2026-10-25",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "name": "和歌山市立博物館",
+      "address": "和歌山県和歌山市湊本町3-2",
+      "group": "sights",
+      "categoryLabel": "城市歷史・民俗",
+      "caption": "從工具與生活物件，讀懂一座城。",
+      "descriptionParagraphs": [
+        "靠近和歌山市站的市立博物館，以城市歷史與民俗資料，介紹和歌山不同時代的生活。農具、日常物件與地方資料，讓城郭之外的人與工作也能被看見。",
+        "適合喜歡地方史的人慢慢逛，也能和有吉佐和子紀念館一起安排。走完這一段再回到圖書館休息，城市的故事便能從展品接到書頁。"
+      ],
+      "official": "https://www.wakayama-kanko.or.jp/spots/detail_669.html",
+      "coordinate": {
+        "lat": 34.2332361,
+        "lng": 135.1631589,
+        "url": "https://www.openstreetmap.org/node/1423056295",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "週一及國定假日翌日等期間休館，遇假日另有順延。",
+      "id": "wakayama--citymuseum",
+      "order": 1,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "靠近和歌山市站的市立博物館，以城市歷史與民俗資料，介紹和歌山不同時代的生活。農具、日常物件與地方資料，讓城郭之外的人與工作也能被看見。\n\n適合喜歡地方史的人慢慢逛，也能和有吉佐和子紀念館一起安排。走完這一段再回到圖書館休息，城市的故事便能從展品接到書頁。",
+      "illustration": {
+        "image": "/art/walks/wakayama/citymuseum.webp",
+        "alt": "和歌山市立博物館，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "name": "和歌山市立有吉佐和子記念館",
+      "address": "和歌山県和歌山市伝法橋南ノ丁9",
+      "group": "sights",
+      "categoryLabel": "文學・人物紀念館",
+      "caption": "在一座屋子裡，接近作家的世界。",
+      "descriptionParagraphs": [
+        "以和歌山出身作家有吉佐和子為主題的紀念館，透過創作與生活資料，讓作品背後的人與地方變得更靠近。住宅尺度的建築，也與大型博物館有不同的親切感。",
+        "喜歡閱讀的人，可以把這裡與附近圖書館串成一段文學散步。先看庭院與外觀，再進館慢慢閱讀，適合放在旅行中想安靜一下的時刻。"
+      ],
+      "official": "https://www.wakayama-kanko.or.jp/spots/detail_3841.html",
+      "coordinate": {
+        "lat": 34.234449819999995,
+        "lng": 135.16562231,
+        "url": "https://www.openstreetmap.org/way/474126278",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "週三休館，遇國定假日順延。",
+      "extraSources": [
+        "https://ariyoshi-sawako.jp/index.php"
+      ],
+      "id": "wakayama--ariyoshi",
+      "order": 2,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "以和歌山出身作家有吉佐和子為主題的紀念館，透過創作與生活資料，讓作品背後的人與地方變得更靠近。住宅尺度的建築，也與大型博物館有不同的親切感。\n\n喜歡閱讀的人，可以把這裡與附近圖書館串成一段文學散步。先看庭院與外觀，再進館慢慢閱讀，適合放在旅行中想安靜一下的時刻。",
+      "illustration": {
+        "image": "/art/walks/wakayama/ariyoshi.webp",
+        "alt": "和歌山市立有吉佐和子記念館，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "name": "和歌山市民図書館",
+      "address": "和歌山県和歌山市屏風丁17",
+      "group": "sights",
+      "categoryLabel": "閱讀・城市公共空間",
+      "caption": "旅行的空檔，也可以留給一本書。",
+      "descriptionParagraphs": [
+        "與南海和歌山市站相連的圖書館，把閱讀、書店與地方選物放進日常可使用的公共空間。樓層依閱讀與學習需求安排，也有介紹和歌山的資料與有吉佐和子文庫。",
+        "不一定要辦借書證才能感受這裡的開放氛圍。找一本書坐下，或到屋上空間休息，能讓城下町散步以一段舒服的城市生活作結。"
+      ],
+      "official": "https://wakayama.civic-library.jp/guide/",
+      "coordinate": {
+        "lat": 34.2366379,
+        "lng": 135.16734566,
+        "url": "https://www.openstreetmap.org/way/1119791679",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "",
+      "id": "wakayama--library",
+      "order": 3,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "與南海和歌山市站相連的圖書館，把閱讀、書店與地方選物放進日常可使用的公共空間。樓層依閱讀與學習需求安排，也有介紹和歌山的資料與有吉佐和子文庫。\n\n不一定要辦借書證才能感受這裡的開放氛圍。找一本書坐下，或到屋上空間休息，能讓城下町散步以一段舒服的城市生活作結。",
+      "illustration": {
+        "image": "/art/walks/wakayama/library.webp",
+        "alt": "和歌山市民図書館，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "name": "和歌山市立こども科学館",
+      "address": "和歌山県和歌山市寄合町19",
+      "group": "sights",
+      "categoryLabel": "互動科學・天文",
+      "caption": "把「為什麼」，留給動手試一試。",
+      "descriptionParagraphs": [
+        "和歌山市站附近的兒童科學館，以科學展示、互動體驗與天文內容，讓旅途裡的好奇心有地方停留。比起逐一讀完說明，實際操作更能找到有趣的問題。",
+        "親子同行時可以把它當成一段完整的室內活動，並另留時間給天象節目。若只是沿城下町散步，也能與附近的文學館、圖書館搭成另一段文化行程。"
+      ],
+      "official": "https://www.wakayama-kanko.or.jp/spots/detail_3333.html",
+      "coordinate": {
+        "lat": 34.23292257826087,
+        "lng": 135.1690986826087,
+        "url": "https://www.openstreetmap.org/way/481944639",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "週一休館，遇國定假日順延至下一個平日。",
+      "id": "wakayama--science",
+      "order": 4,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "和歌山市站附近的兒童科學館，以科學展示、互動體驗與天文內容，讓旅途裡的好奇心有地方停留。比起逐一讀完說明，實際操作更能找到有趣的問題。\n\n親子同行時可以把它當成一段完整的室內活動，並另留時間給天象節目。若只是沿城下町散步，也能與附近的文學館、圖書館搭成另一段文化行程。",
+      "illustration": {
+        "image": "/art/walks/wakayama/science.webp",
+        "alt": "和歌山市立こども科学館，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "name": "総本家駿河屋善右衛門 駿河町本舗",
+      "address": "和歌山県和歌山市駿河町12",
+      "group": "shops",
+      "categoryLabel": "和菓子・伴手禮",
+      "caption": "挑一份羊羹，把城下町帶回家。",
+      "descriptionParagraphs": [
+        "延續悠久和菓子傳統的駿河屋，以煉羊羹等菓子連結紀州的甜點記憶。駿河町本舗位在城與和歌山市站之間，適合為散步加一段伴手禮選購。",
+        "從經典羊羹到不同點心，可以依自己喜歡的口味與攜帶方式慢慢挑。這裡的停留不必很長，卻能把在城市裡看到的歷史，延伸成回家後的一口甜。"
+      ],
+      "official": "https://www.souhonke-surugaya.co.jp/",
+      "coordinate": {
+        "lat": 34.233284160000004,
+        "lng": 135.17328149999997,
+        "url": "https://www.openstreetmap.org/way/471706890",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "",
+      "extraSources": [
+        "https://drive.jafnavi.jp/spots/301130X00623/"
+      ],
+      "photoPage": "https://drive.jafnavi.jp/spots/301130X00623/",
+      "id": "wakayama--surugaya",
+      "order": 5,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "延續悠久和菓子傳統的駿河屋，以煉羊羹等菓子連結紀州的甜點記憶。駿河町本舗位在城與和歌山市站之間，適合為散步加一段伴手禮選購。\n\n從經典羊羹到不同點心，可以依自己喜歡的口味與攜帶方式慢慢挑。這裡的停留不必很長，卻能把在城市裡看到的歷史，延伸成回家後的一口甜。",
+      "illustration": {
+        "image": "/art/walks/wakayama/surugaya.webp",
+        "alt": "総本家駿河屋善右衛門 駿河町本舗，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "name": "和歌山城ホール",
+      "address": "和歌山県和歌山市七番丁25-1",
+      "group": "sights",
+      "categoryLabel": "文化會館・屋上庭園",
+      "caption": "到城市的屋上，換一個角度看城。",
+      "descriptionParagraphs": [
+        "和歌山城前的文化會館，結合表演、展示與交流空間。現代玻璃立面與紀州木材的運用，讓這裡在城周邊形成另一種城市表情。",
+        "一般來訪也能利用公共空間與屋上庭園，從展望露台看城與綠意。若剛好遇到感興趣的展演，可另行加入行程，不一定只把會館當成路過的建築。"
+      ],
+      "official": "https://www.wakayama-johall.jp/about/floormap/",
+      "coordinate": {
+        "lat": 34.230387439999994,
+        "lng": 135.17211939999999,
+        "url": "https://www.openstreetmap.org/way/1106776566",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "",
+      "extraSources": [
+        "https://www.city.wakayama.wakayama.jp/shisetsu/bunkashisetsu/1041138.html"
+      ],
+      "photoPage": "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1041567/index.html",
+      "id": "wakayama--hall",
+      "order": 6,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "和歌山城前的文化會館，結合表演、展示與交流空間。現代玻璃立面與紀州木材的運用，讓這裡在城周邊形成另一種城市表情。\n\n一般來訪也能利用公共空間與屋上庭園，從展望露台看城與綠意。若剛好遇到感興趣的展演，可另行加入行程，不一定只把會館當成路過的建築。",
+      "illustration": {
+        "image": "/art/walks/wakayama/hall.webp",
+        "alt": "和歌山城ホール，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "name": "わかやま歴史館",
+      "address": "和歌山県和歌山市一番丁3",
+      "group": "sights",
+      "categoryLabel": "城郭歷史・旅遊資訊",
+      "caption": "在城的入口，先接上幾段故事。",
+      "descriptionParagraphs": [
+        "以和歌山城的歷史資料與城市人物為內容的展示館，也兼具觀光資訊與土產服務。館內的影像與資料，能幫助理解城郭與城下町之間的關係。",
+        "若不想只看天守外觀，可以先在這裡認識背景，再到現場對照。它位在城周邊容易接近的位置，也適合作為調整行程與短暫休息的起點。"
+      ],
+      "official": "https://www.wakayama-kanko.or.jp/spots/detail_3844.html",
+      "coordinate": {
+        "lat": 34.229500214285714,
+        "lng": 135.1701642,
+        "url": "https://www.openstreetmap.org/way/449637502",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "",
+      "id": "wakayama--history",
+      "order": 7,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "以和歌山城的歷史資料與城市人物為內容的展示館，也兼具觀光資訊與土產服務。館內的影像與資料，能幫助理解城郭與城下町之間的關係。\n\n若不想只看天守外觀，可以先在這裡認識背景，再到現場對照。它位在城周邊容易接近的位置，也適合作為調整行程與短暫休息的起點。",
+      "illustration": {
+        "image": "/art/walks/wakayama/history.webp",
+        "alt": "わかやま歴史館，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "name": "茶室 紅松庵",
+      "address": "和歌山県和歌山市一番丁3 紅葉渓庭園内",
+      "group": "food",
+      "categoryLabel": "抹茶・和菓子",
+      "caption": "在庭園旁，把一杯茶慢慢喝完。",
+      "descriptionParagraphs": [
+        "由松下幸之助捐贈、1974 年落成的數寄屋茶室，讓庭園散步能接上一段呈茶時間。木造、竹簾與苔庭的氣氛，把眼睛從遠處的天守帶回近處的細節。",
+        "一般呈茶可以簡單體驗抹茶與菓子，不必先熟悉完整茶道儀節。喜歡茶室空間的人，也可以留意屋簷、門框與庭院之間如何安排視線。"
+      ],
+      "official": "https://wakayamajo.jp/kousyouan/",
+      "coordinate": {
+        "lat": 34.2288805,
+        "lng": 135.1705106,
+        "url": "https://www.openstreetmap.org/node/4486847397",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "note": "一般呈茶須於 16:00 前入場；茶席貸切時可能影響一般接待。",
+      "photoPage": "https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/057/817/2024042406.pdf",
+      "id": "wakayama--koshoan",
+      "order": 8,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "由松下幸之助捐贈、1974 年落成的數寄屋茶室，讓庭園散步能接上一段呈茶時間。木造、竹簾與苔庭的氣氛，把眼睛從遠處的天守帶回近處的細節。\n\n一般呈茶可以簡單體驗抹茶與菓子，不必先熟悉完整茶道儀節。喜歡茶室空間的人，也可以留意屋簷、門框與庭院之間如何安排視線。",
+      "illustration": {
+        "image": "/art/walks/wakayama/koshoan.webp",
+        "alt": "茶室 紅松庵，依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": "在茶室休息，喝一席抹茶。"
+    },
+    {
+      "name": "名勝 西之丸庭園（紅葉渓庭園）",
+      "address": "和歌山県和歌山市一番丁3",
+      "group": "sights",
+      "categoryLabel": "庭園・水景",
+      "caption": "從石垣旁，轉進水面的安靜。",
+      "descriptionParagraphs": [
+        "城內的庭園以池水、樹木與石垣交織出不同於天守的細緻風景。紅葉季尤其受到喜愛，其他時節也能從水面倒影與綠意看見季節變化。",
+        "走過登城坡道後，這裡很適合把步調放慢。沿園路留意池邊亭子的比例、樹枝與水面的關係，再接一段茶室休息，下午就不會只有趕路。"
+      ],
+      "official": "https://www.wakayama-kanko.or.jp/spots/detail_9.html",
+      "coordinate": {
+        "lat": 34.2287589,
+        "lng": 135.1707531,
+        "url": "https://www.openstreetmap.org/node/4533762011",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "note": "",
+      "id": "wakayama--momiji",
+      "order": 9,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "城內的庭園以池水、樹木與石垣交織出不同於天守的細緻風景。紅葉季尤其受到喜愛，其他時節也能從水面倒影與綠意看見季節變化。\n\n走過登城坡道後，這裡很適合把步調放慢。沿園路留意池邊亭子的比例、樹枝與水面的關係，再接一段茶室休息，下午就不會只有趕路。",
+      "illustration": {
+        "image": "/art/walks/wakayama/momiji.webp",
+        "alt": "名勝 西之丸庭園（紅葉渓庭園），依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": "沿庭園慢走，欣賞池水與綠意。"
+    },
+    {
+      "name": "和歌山城 天守閣",
+      "address": "和歌山県和歌山市一番丁3",
+      "group": "sights",
+      "categoryLabel": "城郭・展望",
+      "caption": "沿著石階，走近白色的天守。",
+      "descriptionParagraphs": [
+        "和歌山市中心的城郭，以連立式的白色天守與石垣構成城市的象徵。現存天守為戰後重建，展覽與高處的視野讓登城不只是一張遠望的照片。",
+        "從城下走到天守需要爬坡與石階，請把這一段當成行程的一部分。上去後再慢慢看屋簷、石垣與城市的方向，會比匆匆登頂更有收穫。"
+      ],
+      "official": "https://www.wakayama-kanko.or.jp/spots/detail_661.html",
+      "coordinate": {
+        "lat": 34.2276472,
+        "lng": 135.1715062,
+        "url": "https://www.openstreetmap.org/node/402167963",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "note": "登天守須經坡道與石階；2026/12/9 臨時休館，12/29–12/31 休館。",
+      "extraSources": [
+        "https://wakayamajo.jp/",
+        "https://wakayamajo.jp/info/1656/"
+      ],
+      "id": "wakayama--castle",
+      "order": 10,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "和歌山市中心的城郭，以連立式的白色天守與石垣構成城市的象徵。現存天守為戰後重建，展覽與高處的視野讓登城不只是一張遠望的照片。\n\n從城下走到天守需要爬坡與石階，請把這一段當成行程的一部分。上去後再慢慢看屋簷、石垣與城市的方向，會比匆匆登頂更有收穫。",
+      "illustration": {
+        "image": "/art/walks/wakayama/castle.webp",
+        "alt": "和歌山城 天守閣，依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": "經坡道與石階登城，看天守與城下風景。"
+    },
+    {
+      "name": "和歌山城公園動物園",
+      "address": "和歌山県和歌山市一番丁3",
+      "group": "sights",
+      "categoryLabel": "城內動物園",
+      "caption": "在古城裡，遇見小動物的日常。",
+      "descriptionParagraphs": [
+        "位在和歌山城公園裡的動物園，讓歷史散步多了一個親近動物的角度。規模適合短暫停留，也能與城內綠地、步道自然串連。",
+        "帶孩子同行時，可以把它安排在登城前後，讓整個下午不只圍繞古蹟。園內體驗若有名額與時段，依現場安排參加，平常散步也能單純看看動物。"
+      ],
+      "official": "https://www.wakayama-kanko.or.jp/spots/detail_3309.html",
+      "coordinate": {
+        "lat": 34.2269429,
+        "lng": 135.1730082,
+        "url": "https://www.openstreetmap.org/node/4533761949",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "6–9 月、12–2 月的週二休園，遇國定假日順延。",
+      "id": "wakayama--zoo",
+      "order": 11,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "位在和歌山城公園裡的動物園，讓歷史散步多了一個親近動物的角度。規模適合短暫停留，也能與城內綠地、步道自然串連。\n\n帶孩子同行時，可以把它安排在登城前後，讓整個下午不只圍繞古蹟。園內體驗若有名額與時段，依現場安排參加，平常散步也能單純看看動物。",
+      "illustration": {
+        "image": "/art/walks/wakayama/zoo.webp",
+        "alt": "和歌山城公園動物園，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "name": "和歌山県立近代美術館",
+      "address": "和歌山県和歌山市吹上1-4-14",
+      "group": "sights",
+      "categoryLabel": "近現代藝術",
+      "caption": "在城南，換一種觀看的方式。",
+      "descriptionParagraphs": [
+        "和歌山城南側的近代美術館，讓古城街景之外多了一段近現代藝術的時間。展覽與收藏呈現不同藝術表達，也適合與隔壁的縣立博物館分配一個文化午後。",
+        "館外的柱列、玻璃與樓梯本身就有鮮明的現代建築節奏。看完展再走向城內，舊屋簷與現代線條的切換，會讓這座城市變得更有層次。"
+      ],
+      "official": "https://www.wakayama-kanko.or.jp/spots/detail_668.html",
+      "coordinate": {
+        "lat": 34.225060715384615,
+        "lng": 135.17138326923074,
+        "url": "https://www.openstreetmap.org/way/400050143",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "週一休館，遇國定假日順延。",
+      "id": "wakayama--prefart",
+      "order": 12,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "和歌山城南側的近代美術館，讓古城街景之外多了一段近現代藝術的時間。展覽與收藏呈現不同藝術表達，也適合與隔壁的縣立博物館分配一個文化午後。\n\n館外的柱列、玻璃與樓梯本身就有鮮明的現代建築節奏。看完展再走向城內，舊屋簷與現代線條的切換，會讓這座城市變得更有層次。",
+      "illustration": {
+        "image": "/art/walks/wakayama/prefart.webp",
+        "alt": "和歌山県立近代美術館，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": "選一個有興趣的展區細看，給藝術一段不趕時間的停留。"
+    },
+    {
+      "name": "和歌山県立博物館",
+      "address": "和歌山県和歌山市吹上1-4-14",
+      "group": "sights",
+      "categoryLabel": "地方歷史博物館",
+      "caption": "走進展場，先讀一點紀州。",
+      "descriptionParagraphs": [
+        "位在和歌山城南側的縣立博物館，以和歌山的歷史與文化為主題。和旁邊的近代美術館一起看，也能把城市的歷史層次與近現代藝術放在同一次散步裡。",
+        "如果希望接著登城，不妨先挑最感興趣的展覽內容，留一些時間給城內坡道與庭園。館舍的玻璃立面與開闊前庭，也提供與古城不同的建築表情。"
+      ],
+      "official": "https://www.wakayama-kanko.or.jp/spots/detail_3013.html",
+      "coordinate": {
+        "lat": 34.22465839411765,
+        "lng": 135.17174644117648,
+        "url": "https://www.openstreetmap.org/way/400050141",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "note": "週一休館，遇國定假日順延。",
+      "extraSources": [
+        "https://wakayamakanko.jp/ja/spot/detail/357"
+      ],
+      "id": "wakayama--prefmuseum",
+      "order": 13,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "位在和歌山城南側的縣立博物館，以和歌山的歷史與文化為主題。和旁邊的近代美術館一起看，也能把城市的歷史層次與近現代藝術放在同一次散步裡。\n\n如果希望接著登城，不妨先挑最感興趣的展覽內容，留一些時間給城內坡道與庭園。館舍的玻璃立面與開闊前庭，也提供與古城不同的建築表情。",
+      "illustration": {
+        "image": "/art/walks/wakayama/prefmuseum.webp",
+        "alt": "和歌山県立博物館，依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "name": "刺田比古神社（岡の宮）",
+      "address": "和歌山県和歌山市片岡町2-9",
+      "group": "sights",
+      "categoryLabel": "神社・德川故事",
+      "caption": "沿著老樹，聽一段吉宗的故事。",
+      "descriptionParagraphs": [
+        "又稱岡の宮的神社，長久與和歌山城及藩主信仰相連，也因德川吉宗「拾い親」的傳說而為人熟知。社殿與樹蔭，讓城南散步多了一段安靜的信仰風景。",
+        "從博物館與岡公園附近走過來，可以在參道短暫停留，讀讀這些地方故事。參拜時依現場禮儀行動，讓一座仍在使用的神社保有日常的節奏。"
+      ],
+      "official": "https://www.wakayama-kanko.or.jp/spots/detail_1064.html",
+      "coordinate": {
+        "lat": 34.22381638,
+        "lng": 135.17441828,
+        "url": "https://www.openstreetmap.org/way/808660011",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "",
+      "extraSources": [
+        "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1001038/1000593.html"
+      ],
+      "id": "wakayama--sasuta",
+      "order": 14,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "又稱岡の宮的神社，長久與和歌山城及藩主信仰相連，也因德川吉宗「拾い親」的傳說而為人熟知。社殿與樹蔭，讓城南散步多了一段安靜的信仰風景。\n\n從博物館與岡公園附近走過來，可以在參道短暫停留，讀讀這些地方故事。參拜時依現場禮儀行動，讓一座仍在使用的神社保有日常的節奏。",
+      "illustration": {
+        "image": "/art/walks/wakayama/sasuta.webp",
+        "alt": "刺田比古神社（岡の宮），依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "name": "岡公園",
+      "address": "和歌山県和歌山市岡山丁3",
+      "group": "sights",
+      "categoryLabel": "公園・地方記憶",
+      "caption": "石坡與樹蔭，藏著城市的小歷史。",
+      "descriptionParagraphs": [
+        "位在城南的公園，除了遊具與樹木，還保存蒸汽機車、路面電車與移築的歷史建物。日常休憩的空間，同時裝著和歌山不同年代的城市記憶。",
+        "可以讓孩子在遊具區停留，也可以沿著園路看保存物與石碑。這裡適合放在室內看展之間，讓眼睛與腳步都換個節奏。"
+      ],
+      "official": "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1001214/1034245.html",
+      "coordinate": {
+        "lat": 34.22555856666667,
+        "lng": 135.1753280083333,
+        "url": "https://www.openstreetmap.org/way/457201112",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "",
+      "id": "wakayama--oka",
+      "order": 15,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "位在城南的公園，除了遊具與樹木，還保存蒸汽機車、路面電車與移築的歷史建物。日常休憩的空間，同時裝著和歌山不同年代的城市記憶。\n\n可以讓孩子在遊具區停留，也可以沿著園路看保存物與石碑。這裡適合放在室內看展之間，讓眼睛與腳步都換個節奏。",
+      "illustration": {
+        "image": "/art/walks/wakayama/oka.webp",
+        "alt": "岡公園，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": "沿園路看看保存的蒸汽機車、路面電車與老建築，找個角落休息。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "wakayama-slow-walk",
+      "name": "城郭、庭園與一席茶",
+      "ids": [
+        "wakayama--castle",
+        "wakayama--momiji",
+        "wakayama--koshoan"
+      ],
+      "start": {
+        "name": "和歌山城前巴士站",
+        "address": "和歌山県和歌山市 和歌山城前 バス停",
+        "access": "由 JR 和歌山站搭巴士；接駁與候車另計"
+      },
+      "end": {
+        "name": "和歌山城前巴士站",
+        "address": "和歌山県和歌山市 和歌山城前 バス停"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "沿城公園的綠意，慢慢走到庭園與茶室。",
+      "note": "已為登城坡階留時間；雨天可用縣立博物館或近代美術館替換登城。",
+      "stopNotes": {
+        "wakayama--castle": "經坡道與石階登城，看天守與城下風景。",
+        "wakayama--momiji": "沿庭園慢走，欣賞池水與綠意。",
+        "wakayama--koshoan": "在茶室休息，喝一席抹茶。"
+      },
+      "art": "/art/walks/wakayama/castle.webp"
+    },
+    {
+      "id": "wakayama-art-and-city-memories",
+      "name": "城南看展與公園留白",
+      "ids": [
+        "wakayama--prefart",
+        "wakayama--oka"
+      ],
+      "start": {
+        "name": "和歌山城前巴士站",
+        "address": "和歌山県和歌山市 和歌山城前 バス停",
+        "access": "由 JR 和歌山站搭巴士；接駁與候車另計"
+      },
+      "end": {
+        "name": "和歌山城前巴士站",
+        "address": "和歌山県和歌山市 和歌山城前 バス停"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "把一個午後留給城南的藝術與綠意：只看一館展覽，再去公園找老電車與城市記憶。",
+      "note": "近代美術館週一休館，遇國定假日順延，展覽內容依當期公告。只安排一座美術館，不把天守登城或隔壁博物館一併塞入。包含 30～45 分鐘自由探索；公園依園路與現場告示慢行，巴士接駁及候車另計。",
+      "stopNotes": {
+        "wakayama--prefart": "選一個有興趣的展區細看，給藝術一段不趕時間的停留。",
+        "wakayama--oka": "沿園路看看保存的蒸汽機車、路面電車與老建築，找個角落休息。"
+      },
+      "art": "/art/walks/wakayama/prefart.webp"
+    }
+  ],
+  "defaultSelection": "wakayama-slow-walk"
+}

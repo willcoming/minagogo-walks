@@ -1,0 +1,439 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "monzen-nakacho--modern",
+      "official": "https://fukagawatokyo.com/",
+      "contentSources": [
+        "https://fukagawatokyo.com/"
+      ],
+      "coordinate": {
+        "lat": 35.674038,
+        "lng": 139.794922,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E9%96%80%E5%89%8D%E4%BB%B2%E7%94%BA1-19-15",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://fukagawatokyo.com/",
+        "imageUrl": "https://fukagawatokyo.com/index-img01.jpg",
+        "referencePath": "design/photo-references/expansion/monzen-nakacho/modern.jpg"
+      }
+    },
+    {
+      "id": "monzen-nakacho--marushichi",
+      "official": "https://tonkatsu07.jp/",
+      "contentSources": [
+        "https://tonkatsu07.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.673512,
+        "lng": 139.794891,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E9%96%80%E5%89%8D%E4%BB%B2%E7%94%BA1-12-5",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://tonkatsu07.jp/",
+        "imageUrl": "https://storage.googleapis.com/studio-design-asset-files/projects/1pqDQ06laj/s-600x400_1719db69-08a7-4c44-91ac-2889f6bc0d38.webp",
+        "referencePath": "design/photo-references/expansion/monzen-nakacho/marushichi.jpg"
+      }
+    },
+    {
+      "id": "monzen-nakacho--river",
+      "official": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00264",
+      "contentSources": [
+        "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00264"
+      ],
+      "coordinate": {
+        "lat": 35.672203,
+        "lng": 139.792984,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E9%96%80%E5%89%8D%E4%BB%B2%E7%94%BA1%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00264",
+        "imageUrl": "https://koto-kanko.jp/img_data/S00264_photo.jpg",
+        "referencePath": "design/photo-references/expansion/monzen-nakacho/river.jpg"
+      }
+    },
+    {
+      "id": "monzen-nakacho--orihara",
+      "official": "https://www.orihara-net.co.jp/oriharashoten/",
+      "contentSources": [
+        "https://www.orihara-net.co.jp/oriharashoten/"
+      ],
+      "coordinate": {
+        "lat": 35.671806,
+        "lng": 139.797592,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-13-11",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.orihara-net.co.jp/oriharashoten/",
+        "imageUrl": "https://www.orihara-net.co.jp/oriharashoten/images/top/c_shop_01.jpg",
+        "referencePath": "design/photo-references/expansion/monzen-nakacho/orihara.jpg"
+      }
+    },
+    {
+      "id": "monzen-nakacho--monz",
+      "official": "https://www.monzcafe.com/aboutus/",
+      "contentSources": [
+        "https://www.monzcafe.com/aboutus/"
+      ],
+      "coordinate": {
+        "lat": 35.672318,
+        "lng": 139.797943,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-14-5",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.monzcafe.com/aboutus/",
+        "imageUrl": "https://www.monzcafe.com/wp/wp-content/themes/monzcafe/images/about02.jpg",
+        "referencePath": "design/photo-references/expansion/monzen-nakacho/monz.jpg"
+      }
+    },
+    {
+      "id": "monzen-nakacho--park",
+      "official": "https://www.koto-kanko.jp/tourism/detail_spot.php?sid=S00133",
+      "contentSources": [
+        "https://www.koto-kanko.jp/tourism/detail_spot.php?sid=S00133",
+        "https://www1.g-reiki.net/city.koto/reiki_honbun/g109RG00000429.html"
+      ],
+      "coordinate": {
+        "lat": 35.672218,
+        "lng": 139.797424,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-14-10",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00133",
+        "imageUrl": "https://koto-kanko.jp/img_data/S00133_photo.jpg",
+        "referencePath": "design/photo-references/expansion/monzen-nakacho/park.jpg"
+      }
+    },
+    {
+      "id": "monzen-nakacho--fudo",
+      "official": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00139",
+      "contentSources": [
+        "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00139"
+      ],
+      "coordinate": {
+        "lat": 35.672527,
+        "lng": 139.798187,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-17-13",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00139",
+        "imageUrl": "https://koto-kanko.jp/img_data/S00139_photo.jpg",
+        "referencePath": "design/photo-references/expansion/monzen-nakacho/fudo.jpg"
+      }
+    },
+    {
+      "id": "monzen-nakacho--fukagawajuku",
+      "official": "https://fukagawa7.net/store/index.html",
+      "contentSources": [
+        "https://fukagawa7.net/store/index.html"
+      ],
+      "coordinate": {
+        "lat": 35.671093,
+        "lng": 139.799194,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-23-11",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://fukagawa7.net/store/index.html",
+        "imageUrl": "https://fukagawa7.net/store/img/shuku01.jpg",
+        "referencePath": "design/photo-references/expansion/monzen-nakacho/fukagawajuku.jpg"
+      }
+    },
+    {
+      "id": "monzen-nakacho--tomioka",
+      "official": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00007",
+      "contentSources": [
+        "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00007"
+      ],
+      "coordinate": {
+        "lat": 35.671265,
+        "lng": 139.800003,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-20-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00007",
+        "imageUrl": "https://koto-kanko.jp/img_data/S00007_photo.JPG",
+        "referencePath": "design/photo-references/expansion/monzen-nakacho/tomioka.jpg"
+      }
+    },
+    {
+      "id": "monzen-nakacho--hachiman",
+      "official": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00060",
+      "contentSources": [
+        "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00060"
+      ],
+      "coordinate": {
+        "lat": 35.672401,
+        "lng": 139.800613,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11%E4%B8%81%E7%9B%AE19",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://koto-kanko.jp/tourism/detail_spot.php?sid=S00060",
+        "imageUrl": "https://koto-kanko.jp/img_data/S00060_photo.jpg",
+        "referencePath": "design/photo-references/expansion/monzen-nakacho/hachiman.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "monzen-nakacho--modern",
+      "query": "東京都江東区門前仲町1-19-15",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E9%96%80%E5%89%8D%E4%BB%B2%E7%94%BA1-19-15",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.794922,
+              35.674038
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区門前仲町一丁目１９番１５号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monzen-nakacho--marushichi",
+      "query": "東京都江東区門前仲町1-12-5",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E9%96%80%E5%89%8D%E4%BB%B2%E7%94%BA1-12-5",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.794891,
+              35.673512
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区門前仲町一丁目１２番５号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monzen-nakacho--river",
+      "query": "東京都江東区門前仲町1丁目1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E9%96%80%E5%89%8D%E4%BB%B2%E7%94%BA1%E4%B8%81%E7%9B%AE1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.792984,
+              35.672203
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区門前仲町一丁目１番"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monzen-nakacho--orihara",
+      "query": "東京都江東区富岡1-13-11",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-13-11",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.797592,
+              35.671806
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区富岡一丁目１３番１１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monzen-nakacho--monz",
+      "query": "東京都江東区富岡1-14-5",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-14-5",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.797943,
+              35.672318
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区富岡一丁目１４番５号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monzen-nakacho--park",
+      "query": "東京都江東区富岡1-14-10",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-14-10",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.797424,
+              35.672218
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区富岡一丁目１４番１０号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monzen-nakacho--fudo",
+      "query": "東京都江東区富岡1-17-13",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-17-13",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.798187,
+              35.672527
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区富岡一丁目１７番１３号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monzen-nakacho--fukagawajuku",
+      "query": "東京都江東区富岡1-23-11",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-23-11",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.799194,
+              35.671093
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区富岡一丁目２３番１１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monzen-nakacho--tomioka",
+      "query": "東京都江東区富岡1-20-3",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11-20-3",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.800003,
+              35.671265
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区富岡一丁目２０番３号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monzen-nakacho--hachiman",
+      "query": "東京都江東区富岡1丁目19",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%AF%8C%E5%B2%A11%E4%B8%81%E7%9B%AE19",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              139.800613,
+              35.672401
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "東京都江東区富岡一丁目１９番"
+          }
+        }
+      ]
+    }
+  ]
+}

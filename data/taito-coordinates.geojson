@@ -1,0 +1,242 @@
+{
+  "type": "FeatureCollection",
+  "name": "Kuramae coordinate subset",
+  "license": "CC-BY-4.0",
+  "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "chigaya",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789459,
+          35.705116
+        ]
+      },
+      "properties": {
+        "name": "chigaya kuramae",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=605",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "tomei",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.792694,
+          35.706409
+        ]
+      },
+      "properties": {
+        "name": "透明書店",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=430",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_58015a8c60b78515",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789688,
+          35.709156
+        ]
+      },
+      "properties": {
+        "name": "洋菓子レモンパイ",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=181",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_8e426a44d227b5f9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79451,
+          35.705334
+        ]
+      },
+      "properties": {
+        "name": "ASAGE CAFE",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=288",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_40d37e8b90f1d3a2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.794052,
+          35.708454
+        ]
+      },
+      "properties": {
+        "name": "COFFEECOUNTER NISHIYA",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=243",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_765b0f07994197bb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.792007,
+          35.706242
+        ]
+      },
+      "properties": {
+        "name": "feb’s coffee&scone Blucca店",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=425",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_2ca59cf0ccfab515",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.793259,
+          35.707363
+        ]
+      },
+      "properties": {
+        "name": "HATCOFFEE",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=414",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_2faa023ac911baa6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789978,
+          35.703739
+        ]
+      },
+      "properties": {
+        "name": "喫茶半月",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=93",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_f858fe6d8b9f148d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.795746,
+          35.707775
+        ]
+      },
+      "properties": {
+        "name": "KONCENT 駒形本店",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=56",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_4587f83ff726cc8b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.790268,
+          35.702099
+        ]
+      },
+      "properties": {
+        "name": "KURAMAE CANNELE",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=355",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_614823c1d1799627",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.792252,
+          35.706532
+        ]
+      },
+      "properties": {
+        "name": "Le bage",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=593",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_105ef59e5ba74a8a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.788773,
+          35.701912
+        ]
+      },
+      "properties": {
+        "name": "marble",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=303",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_0baebe3d3ec9b05c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.795364,
+          35.70739
+        ]
+      },
+      "properties": {
+        "name": "おいもやさん興伸 浅草駒形店",
+        "source": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/food/syokuhin-sisetu/index.files/2026ALL-PER-PDF.pdf#page=310",
+        "license": "CC-BY-4.0",
+        "attribution": "台東区 CC-BY表示4.0国際。本作品の内容について、台東区は一切保証しないものとする。",
+        "coordinateNote": "Official register location; approximate, not surveyed entrance. Minagogo selected and reformatted the data."
+      }
+    }
+  ]
+}

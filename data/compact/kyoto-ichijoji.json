@@ -1,0 +1,408 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "kyoto-ichijoji--enkouji",
+      "order": 1,
+      "name": "圓光寺",
+      "address": "京都府京都市左京区一乗寺小谷町13",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從庭院的層次，感受季節變化",
+      "descriptionParagraphs": [
+        "圓光寺以庭園、樹影與水琴窟等景觀受到喜愛，也保留與早期書籍刊行相關的歷史。室內向外看的構圖，讓一片枝葉或庭石都能成為細看的主角。",
+        "可依興趣替換詩仙堂，選一處庭園完整停留即可。秋季特別拝觀採指定日期與時段預約，若在該期間造訪，先安排時段再調整其他選點。"
+      ],
+      "description": "圓光寺以庭園、樹影與水琴窟等景觀受到喜愛，也保留與早期書籍刊行相關的歷史。室內向外看的構圖，讓一片枝葉或庭石都能成為細看的主角。\n\n可依興趣替換詩仙堂，選一處庭園完整停留即可。秋季特別拝觀採指定日期與時段預約，若在該期間造訪，先安排時段再調整其他選點。",
+      "note": "2026 年 11 月 10 日至 12 月 10 日紅葉特別拝觀採日時指定預約；其他期間依寺方公告。",
+      "official": "https://www.enkouji.jp/news/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.045174,
+        "lng": 135.796814,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E5%B0%8F%E8%B0%B7%E7%94%BA13",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-ichijoji/enkouji.webp",
+        "alt": "圓光寺的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-ichijoji--hachidai",
+      "order": 2,
+      "name": "八大神社",
+      "address": "京都府京都市左京区一乗寺松原町1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "在山麓的小社，讀宮本武藏的故事",
+      "descriptionParagraphs": [
+        "八大神社是守護一乘寺街區的神社，與宮本武藏及一乘寺下り松的故事相連。深色木構、金色裝飾與祈願繩，讓小巧社殿有鮮明的細節。",
+        "它與詩仙堂相鄰，可在庭園參觀前後安靜參拜。若已覺得上坡吃力，就在這一帶稍作休息，再往中谷與車站方向走，不必繼續往山上延伸。"
+      ],
+      "description": "八大神社是守護一乘寺街區的神社，與宮本武藏及一乘寺下り松的故事相連。深色木構、金色裝飾與祈願繩，讓小巧社殿有鮮明的細節。\n\n它與詩仙堂相鄰，可在庭園參觀前後安靜參拜。若已覺得上坡吃力，就在這一帶稍作休息，再往中谷與車站方向走，不必繼續往山上延伸。",
+      "note": "",
+      "official": "https://www.hatidai-jinja.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.043629,
+        "lng": 135.796738,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%9D%BE%E5%8E%9F%E7%94%BA1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-ichijoji/hachidai.webp",
+        "alt": "八大神社的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-ichijoji--shisendo",
+      "order": 3,
+      "name": "詩仙堂丈山寺",
+      "address": "京都府京都市左京区一乗寺門口町27",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "坐在書院邊，讓庭園成為一幅畫",
+      "descriptionParagraphs": [
+        "詩仙堂由石川丈山的山居發展而來，書院的柱樑與窗框把庭園切成安靜的畫面。修剪過的綠籬、白砂與季節花木，讓人在觀看時自然放慢呼吸。",
+        "可以把這裡當作主要入內參觀的一站，坐一會再走入庭園。從巴士站往寺院有上坡，境內也有階梯，安排時間時以舒適的步速為準。"
+      ],
+      "description": "詩仙堂由石川丈山的山居發展而來，書院的柱樑與窗框把庭園切成安靜的畫面。修剪過的綠籬、白砂與季節花木，讓人在觀看時自然放慢呼吸。\n\n可以把這裡當作主要入內參觀的一站，坐一會再走入庭園。從巴士站往寺院有上坡，境內也有階梯，安排時間時以舒適的步速為準。",
+      "note": "寺院動線含上坡與階梯。",
+      "official": "https://kyoto-shisendo.net/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.043816,
+        "lng": 135.795837,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E9%96%80%E5%8F%A3%E7%94%BA27",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-ichijoji/shisendo.webp",
+        "alt": "詩仙堂丈山寺的日系水彩插圖"
+      },
+      "recommendation": "選一座庭園慢慢看，坐著欣賞窗框裡的綠意。"
+    },
+    {
+      "id": "kyoto-ichijoji--konpukuji",
+      "order": 4,
+      "name": "金福寺",
+      "address": "京都府京都市左京区一乗寺才形町20",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "白砂與綠叢之間，留下一點俳句氣息",
+      "descriptionParagraphs": [
+        "金福寺與松尾芭蕉、與謝蕪村的故事相連，庭園與芭蕉庵讓這裡帶著文學散步的氣氛。白砂、修剪的綠叢與坡地樹木，構成另一種細小而安靜的京都庭景。",
+        "這裡可替換為主要庭園停留，不建議與所有寺院一起趕行程。境內石階和山路較多，並有季節休寺日，先確認開放再依體力安排。"
+      ],
+      "description": "金福寺與松尾芭蕉、與謝蕪村的故事相連，庭園與芭蕉庵讓這裡帶著文學散步的氣氛。白砂、修剪的綠叢與坡地樹木，構成另一種細小而安靜的京都庭景。\n\n這裡可替換為主要庭園停留，不建議與所有寺院一起趕行程。境內石階和山路較多，並有季節休寺日，先確認開放再依體力安排。",
+      "note": "境內石階較多、山路較窄；另有季節休寺日，請先確認。",
+      "official": "https://www.kyoto-kankou.or.jp/info_search/212",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.04224,
+        "lng": 135.79512,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%89%8D%E5%BD%A2%E7%94%BA20",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-ichijoji/konpukuji.webp",
+        "alt": "金福寺的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-ichijoji--nakatani",
+      "order": 5,
+      "name": "一乘寺中谷",
+      "address": "京都府京都市左京区一乗寺花ノ木町5",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "和菓子與洋菓子，給午後兩種選擇",
+      "descriptionParagraphs": [
+        "一乘寺中谷在下り松山腳製作點心，從竹皮包裹的でっち羊かん，到帶抹茶風味的甜點，都能看見和洋菓子並存的特色。低矮瓦簷與小店門面，也融入附近住宅街的尺度。",
+        "從寺院下來後，可以選擇內用或買一份帶走，再向惠文社方向散步。若打算吃較完整的一餐，便減少其他停留，讓休息真正成為這段旅程的一部分。"
+      ],
+      "description": "一乘寺中谷在下り松山腳製作點心，從竹皮包裹的でっち羊かん，到帶抹茶風味的甜點，都能看見和洋菓子並存的特色。低矮瓦簷與小店門面，也融入附近住宅街的尺度。\n\n從寺院下來後，可以選擇內用或買一份帶走，再向惠文社方向散步。若打算吃較完整的一餐，便減少其他停留，讓休息真正成為這段旅程的一部分。",
+      "note": "",
+      "official": "https://ja.kyoto.travel/tourism/single01.php?category_id=5&tourism_id=1847",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.04327,
+        "lng": 135.792206,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E8%8A%B1%E3%83%8E%E6%9C%A8%E7%94%BA5",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-ichijoji/nakatani.webp",
+        "alt": "一乘寺中谷的日系水彩插圖"
+      },
+      "recommendation": "下坡途中停下，從和洋菓子裡挑喜歡的一份。"
+    },
+    {
+      "id": "kyoto-ichijoji--sagarimatsu",
+      "order": 6,
+      "name": "一乘寺下り松",
+      "address": "京都府京都市左京区一乗寺下り松町",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "路口的一棵松，留下古道的記憶",
+      "descriptionParagraphs": [
+        "一乘寺下り松位在古時通往比叡山與近江的道路分岔處，也以宮本武藏與吉岡一門的決鬥故事聞名。現場的松樹是後來接續栽種的一代，並非當年的原木。",
+        "從中谷往寺院方向走會經過這一帶，適合短暫看碑與辨認古道走向。它是街邊的小型歷史停留，參觀時留意車輛，無須額外繞行。"
+      ],
+      "description": "一乘寺下り松位在古時通往比叡山與近江的道路分岔處，也以宮本武藏與吉岡一門的決鬥故事聞名。現場的松樹是後來接續栽種的一代，並非當年的原木。\n\n從中谷往寺院方向走會經過這一帶，適合短暫看碑與辨認古道走向。它是街邊的小型歷史停留，參觀時留意車輛，無須額外繞行。",
+      "note": "",
+      "official": "https://www.hatidai-jinja.com/musashi-miyamoto/sagarimatsu/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.044235,
+        "lng": 135.792877,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E4%B8%8B%E3%82%8A%E6%9D%BE%E7%94%BA",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-ichijoji/sagarimatsu.webp",
+        "alt": "一乘寺下り松的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-ichijoji--pan",
+      "order": 7,
+      "name": "ぱんのちはれ",
+      "address": "京都府京都市左京区一乗寺南大丸町48-6",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "車站旁的小麵包店，方便帶走一點香氣",
+      "descriptionParagraphs": [
+        "ぱんのちはれ就在一乘寺站附近，以日常食用的麵包與三明治迎接往來行人。小店位在轉角建築底層，暖色遮棚與開口讓人很容易順路靠近。",
+        "如果不打算坐下用餐，可以在這裡選一份麵包作為備選。它和書店、車站距離近，適合散步尾聲停留，購買時依當天出爐品項挑選即可。"
+      ],
+      "description": "ぱんのちはれ就在一乘寺站附近，以日常食用的麵包與三明治迎接往來行人。小店位在轉角建築底層，暖色遮棚與開口讓人很容易順路靠近。\n\n如果不打算坐下用餐，可以在這裡選一份麵包作為備選。它和書店、車站距離近，適合散步尾聲停留，購買時依當天出爐品項挑選即可。",
+      "note": "",
+      "official": "https://pannhare.stores.jp/about",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.044319,
+        "lng": 135.786453,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E5%8D%97%E5%A4%A7%E4%B8%B8%E7%94%BA48-6",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-ichijoji/pan.webp",
+        "alt": "ぱんのちはれ的日系水彩插圖"
+      },
+      "recommendation": "在車站旁挑喜歡的麵包，沿小街看看日常店鋪。"
+    },
+    {
+      "id": "kyoto-ichijoji--keibunsha",
+      "order": 8,
+      "name": "惠文社一乘寺店",
+      "address": "京都府京都市左京区一乗寺払殿町10",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "翻書、看器物，停在沒有清單的角落",
+      "descriptionParagraphs": [
+        "惠文社一乘寺店把書籍、生活雜貨與展覽放在相連的空間裡。書架上的主題與器物的陳列互相呼應，適合用慢慢逛的方式發現感興趣的內容。",
+        "這裡可以作為散策最後一個較長的停留，翻書或看看當期展覽，再走回一乘寺站。不要急著把每個角落都看完，找到一本想讀的書就很足夠。"
+      ],
+      "description": "惠文社一乘寺店把書籍、生活雜貨與展覽放在相連的空間裡。書架上的主題與器物的陳列互相呼應，適合用慢慢逛的方式發現感興趣的內容。\n\n這裡可以作為散策最後一個較長的停留，翻書或看看當期展覽，再走回一乘寺站。不要急著把每個角落都看完，找到一本想讀的書就很足夠。",
+      "note": "",
+      "official": "https://www.keibunsha-store.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.043781,
+        "lng": 135.785263,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%89%95%E6%AE%BF%E7%94%BA10",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-ichijoji/keibunsha.webp",
+        "alt": "惠文社一乘寺店的日系水彩插圖"
+      },
+      "recommendation": "沿街道走回書店，留時間翻書與挑小物。"
+    },
+    {
+      "id": "kyoto-ichijoji--chinyu",
+      "order": 9,
+      "name": "珍遊一乘寺本店",
+      "address": "京都府京都市左京区一乗寺払殿町24",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "一碗京都拉麵，接上學生街的日常",
+      "descriptionParagraphs": [
+        "珍遊以雞白湯與背脂風味的中華麵為特色，是一乘寺餐飲街景的一部分。本店在 2026 年整修後重新營業，深色入口與紅色暖簾保留了容易辨認的店面印象。",
+        "可把這裡當作午餐或散策結束後的用餐選擇，不必與甜點、咖啡全部排在同一輪。熱門時段的候位另計，若已吃飽，直接往書店或車站走也很順路。"
+      ],
+      "description": "珍遊以雞白湯與背脂風味的中華麵為特色，是一乘寺餐飲街景的一部分。本店在 2026 年整修後重新營業，深色入口與紅色暖簾保留了容易辨認的店面印象。\n\n可把這裡當作午餐或散策結束後的用餐選擇，不必與甜點、咖啡全部排在同一輪。熱門時段的候位另計，若已吃飽，直接往書店或車站走也很順路。",
+      "note": "",
+      "official": "https://www.chinyu.jp/information/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.043819,
+        "lng": 135.783829,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E6%89%95%E6%AE%BF%E7%94%BA24",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-ichijoji/chinyu.webp",
+        "alt": "珍遊一乘寺本店的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-ichijoji--bastet",
+      "order": 10,
+      "name": "BASTET COFFEE",
+      "address": "京都府京都市左京区一乗寺大原田町23-11",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "貓的標記旁，挑一杯此刻想喝的咖啡",
+      "descriptionParagraphs": [
+        "BASTET COFFEE 是一乘寺的小型咖啡店，名稱與貓的意象相呼應，也提供咖啡豆等商品。淺色牆面、深色窗框與店外的小標記，讓入口帶著輕鬆的街坊氣氛。",
+        "從書店或車站周邊向南稍作延伸即可到達，適合用一杯咖啡換取休息時間。若已在中谷坐過，這裡就保留作另一個備選，避免把午後排得太滿。"
+      ],
+      "description": "BASTET COFFEE 是一乘寺的小型咖啡店，名稱與貓的意象相呼應，也提供咖啡豆等商品。淺色牆面、深色窗框與店外的小標記，讓入口帶著輕鬆的街坊氣氛。\n\n從書店或車站周邊向南稍作延伸即可到達，適合用一杯咖啡換取休息時間。若已在中谷坐過，這裡就保留作另一個備選，避免把午後排得太滿。",
+      "note": "",
+      "official": "https://bastetcoffee.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.041878,
+        "lng": 135.785873,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E5%A4%A7%E5%8E%9F%E7%94%B0%E7%94%BA23-11",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-ichijoji/bastet.webp",
+        "alt": "BASTET COFFEE的日系水彩插圖"
+      },
+      "recommendation": "往南稍作延伸，坐下喝杯咖啡，再沿附近街道回一乘寺站。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "kyoto-ichijoji-slow-walk",
+      "name": "庭園、菓子與選書",
+      "ids": [
+        "kyoto-ichijoji--shisendo",
+        "kyoto-ichijoji--nakatani",
+        "kyoto-ichijoji--keibunsha"
+      ],
+      "start": {
+        "name": "一乘寺下り松町巴士站",
+        "address": "京都府京都市左京区一乗寺花ノ木町 一乗寺下り松町バス停",
+        "access": "京都市巴士 5、快速 5 或北 8；車程另計"
+      },
+      "end": {
+        "name": "一乘寺站",
+        "address": "京都府京都市左京区一乗寺里ノ西町 叡山電車一乗寺駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "沿山麓的寺院與小街往車站慢走，把一座庭園、一份甜點與一家書店放進午後。",
+      "note": "三個推薦重點約 2.5～3 小時，含 30～45 分鐘自由探索。寺院一帶有上坡與階梯；詩仙堂、圓光寺、金福寺可依興趣擇一深入。排隊、較長用餐或多寺入內需另留時間。",
+      "stopNotes": {
+        "kyoto-ichijoji--shisendo": "選一座庭園慢慢看，坐著欣賞窗框裡的綠意。",
+        "kyoto-ichijoji--nakatani": "下坡途中停下，從和洋菓子裡挑喜歡的一份。",
+        "kyoto-ichijoji--keibunsha": "沿街道走回書店，留時間翻書與挑小物。"
+      },
+      "art": "/art/walks/kyoto-ichijoji/keibunsha.webp"
+    },
+    {
+      "id": "kyoto-ichijoji-bakery-and-coffee",
+      "name": "車站旁的麵包與咖啡",
+      "ids": [
+        "kyoto-ichijoji--pan",
+        "kyoto-ichijoji--bastet"
+      ],
+      "start": {
+        "name": "一乘寺站",
+        "address": "京都府京都市左京区一乗寺里ノ西町 叡山電車一乗寺駅",
+        "access": "叡山電車；從車站周邊小街開始散步"
+      },
+      "end": {
+        "name": "一乘寺站",
+        "address": "京都府京都市左京区一乗寺里ノ西町 叡山電車一乗寺駅"
+      },
+      "totalMinutes": [
+        120,
+        150
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "留在一乘寺站旁，挑一份麵包、喝杯咖啡，把走遠的時間換成巷口探索。",
+      "note": "含兩處重點、步行與 30～45 分鐘自由探索。麵包店週三定休；咖啡店請先確認當日營業公告。麵包以外帶選購安排，不預設可帶入咖啡店；完整正餐與候位另計。",
+      "stopNotes": {
+        "kyoto-ichijoji--pan": "在車站旁挑喜歡的麵包，沿小街看看日常店鋪。",
+        "kyoto-ichijoji--bastet": "往南稍作延伸，坐下喝杯咖啡，再沿附近街道回一乘寺站。"
+      },
+      "art": "/art/walks/kyoto-ichijoji/bastet.webp"
+    }
+  ],
+  "defaultSelection": "kyoto-ichijoji-slow-walk"
+}

@@ -1,0 +1,412 @@
+{
+  "updatedAt": "2026-10-25",
+  "places": [
+    {
+      "id": "omiya--coffee",
+      "order": 1,
+      "name": "常盤珈琲焙煎所 大宮氷川參道店",
+      "address": "埼玉県さいたま市大宮区高鼻町1-173-2",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "在樹影旁，聞一杯咖啡的香氣",
+      "descriptionParagraphs": [
+        "常盤珈琲的大宮氷川參道店把咖啡豆與沖煮香氣帶到林蔭旁。木質門面與參道的綠意相連，適合在出站走一段後放慢腳步。",
+        "可從喜歡的烘焙程度或風味向店員詢問，也能買豆帶回家。這裡安排一杯飲料就很足夠，後面仍有神社與公園等著慢慢看。"
+      ],
+      "description": "常盤珈琲的大宮氷川參道店把咖啡豆與沖煮香氣帶到林蔭旁。木質門面與參道的綠意相連，適合在出站走一段後放慢腳步。\n\n可從喜歡的烘焙程度或風味向店員詢問，也能買豆帶回家。這裡安排一杯飲料就很足夠，後面仍有神社與公園等著慢慢看。",
+      "note": "",
+      "official": "https://tokiwacoffee.com/shops/omiya-hikawa/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.911236,
+        "lng": 139.63028,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA1-173-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/omiya/coffee.webp",
+        "alt": "常盤珈琲焙煎所 大宮氷川參道店的日系水彩插圖"
+      },
+      "recommendation": "在參道北段先休息，慢慢感受綠蔭。"
+    },
+    {
+      "id": "omiya--bibli",
+      "order": 2,
+      "name": "Bibli",
+      "address": "埼玉県さいたま市大宮区高鼻町2-1-1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "舊圖書館，變成街區相聚的地方",
+      "descriptionParagraphs": [
+        "Bibli 利用舊大宮圖書館的建築，結合商業空間、觀光資訊與活動場地。保留下來的公共建築尺度，讓逛店與認識街區有了不一樣的入口。",
+        "路過第二鳥居時可順道看看當天開放的店家或活動。樓層用途包含辦公空間，依現場指引參觀，不把整棟建築都當成自由遊覽區。"
+      ],
+      "description": "Bibli 利用舊大宮圖書館的建築，結合商業空間、觀光資訊與活動場地。保留下來的公共建築尺度，讓逛店與認識街區有了不一樣的入口。\n\n路過第二鳥居時可順道看看當天開放的店家或活動。樓層用途包含辦公空間，依現場指引參觀，不把整棟建築都當成自由遊覽區。",
+      "note": "",
+      "official": "https://bibli.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.911316,
+        "lng": 139.631592,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA2-1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/omiya/bibli.webp",
+        "alt": "Bibli的日系水彩插圖"
+      },
+      "recommendation": "先看看舊圖書館改造後的公共空間與當天營業的小店。"
+    },
+    {
+      "id": "omiya--dango",
+      "order": 3,
+      "name": "氷川だんご屋",
+      "address": "埼玉県さいたま市大宮区高鼻町2-12",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "烤團子的香氣，留在參道旁",
+      "descriptionParagraphs": [
+        "氷川だんご屋就在參道附近，烤過的團子帶著醬油香與焦色，是參拜前後親切的小點心。簡單的甜鹹滋味，很適合用來接住步行的空檔。",
+        "可用它替換咖啡休息，或挑少量點心帶走。若遇到人潮，先繼續往神社走也很好，別讓排隊把原本的自由時間填滿。"
+      ],
+      "description": "氷川だんご屋就在參道附近，烤過的團子帶著醬油香與焦色，是參拜前後親切的小點心。簡單的甜鹹滋味，很適合用來接住步行的空檔。\n\n可用它替換咖啡休息，或挑少量點心帶走。若遇到人潮，先繼續往神社走也很好，別讓排隊把原本的自由時間填滿。",
+      "note": "",
+      "official": "https://visitsaitamacity.jp/features/1",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.911808,
+        "lng": 139.631622,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA2-12",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/omiya/dango.webp",
+        "alt": "氷川だんご屋的日系水彩插圖"
+      },
+      "recommendation": "在參道旁挑一份團子短暫休息，不必為排隊壓縮看展時間。"
+    },
+    {
+      "id": "omiya--culture",
+      "order": 4,
+      "name": "氷川之杜文化館",
+      "address": "埼玉県さいたま市大宮区高鼻町2-262-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "白牆與瓦簷裡，延續傳統文化",
+      "descriptionParagraphs": [
+        "氷川之杜文化館坐落在參道綠意旁，提供能樂、舞踊、茶道等傳統藝術活動空間。白牆、瓦簷與門前庭木，讓建築本身也值得短暫停留。",
+        "一般散步可欣賞外觀，若當日有公開展示再入內看看。練習室與和室多依活動或預約使用，不保證隨到都能自由參觀。"
+      ],
+      "description": "氷川之杜文化館坐落在參道綠意旁，提供能樂、舞踊、茶道等傳統藝術活動空間。白牆、瓦簷與門前庭木，讓建築本身也值得短暫停留。\n\n一般散步可欣賞外觀，若當日有公開展示再入內看看。練習室與和室多依活動或預約使用，不保證隨到都能自由參觀。",
+      "note": "",
+      "official": "https://saitama-culture.jp/hikawanomori/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.913654,
+        "lng": 139.631516,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA2-262-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/omiya/culture.webp",
+        "alt": "氷川之杜文化館的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "omiya--sando",
+      "order": 5,
+      "name": "氷川參道",
+      "address": "埼玉県さいたま市大宮区高鼻町1丁目",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "一條綠蔭大道，串起大宮的日常",
+      "descriptionParagraphs": [
+        "氷川參道以高大的樹木串連街區與神社，沿路的石鋪步道、鳥居和樹影，讓車站周邊的忙碌逐漸退後。它也是居民日常散步的一部分。",
+        "這條參道很長，這次從大宮站接上北段即可。依天氣與體力調整停留，看到喜歡的咖啡店或座椅就休息，不必追求全程走完。"
+      ],
+      "description": "氷川參道以高大的樹木串連街區與神社，沿路的石鋪步道、鳥居和樹影，讓車站周邊的忙碌逐漸退後。它也是居民日常散步的一部分。\n\n這條參道很長，這次從大宮站接上北段即可。依天氣與體力調整停留，看到喜歡的咖啡店或座椅就休息，不必追求全程走完。",
+      "note": "",
+      "official": "https://visitsaitamacity.jp/spots/39",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.913284,
+        "lng": 139.629379,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA1%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/omiya/sando.webp",
+        "alt": "氷川參道的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "omiya--shrine",
+      "order": 6,
+      "name": "武藏一宮氷川神社",
+      "address": "埼玉県さいたま市大宮区高鼻町1-407",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "朱色樓門與神池，形成參道的終點",
+      "descriptionParagraphs": [
+        "武藏一宮氷川神社是大宮的重要信仰中心，長參道、神池與朱色樓門讓參拜有一段逐漸轉換心情的過程。境內大樹與社殿相映，適合安靜觀看。",
+        "在這裡保留一段主要停留時間，參拜後再決定要往公園或咖啡店。境內以現場指引為準，也把行走空間留給參拜的人。"
+      ],
+      "description": "武藏一宮氷川神社是大宮的重要信仰中心，長參道、神池與朱色樓門讓參拜有一段逐漸轉換心情的過程。境內大樹與社殿相映，適合安靜觀看。\n\n在這裡保留一段主要停留時間，參拜後再決定要往公園或咖啡店。境內以現場指引為準，也把行走空間留給參拜的人。",
+      "note": "",
+      "official": "https://musashiichinomiya-hikawa.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.91634,
+        "lng": 139.62944,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA1-407",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/omiya/shrine.webp",
+        "alt": "武藏一宮氷川神社的日系水彩插圖"
+      },
+      "recommendation": "通過鳥居參拜，留意神橋與社殿。"
+    },
+    {
+      "id": "omiya--manawa",
+      "order": 7,
+      "name": "manawa café",
+      "address": "埼玉県さいたま市大宮区高鼻町3-119-1",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "公園旁的鬆餅，替散步留下尾聲",
+      "descriptionParagraphs": [
+        "manawa café 靠近大宮公園，厚鬆餅、咖啡與帶點夏威夷氣息的空間，適合在綠地散步後坐下。喜歡窗外樹景的人，也能在此延續公園的心情。",
+        "可以用這裡替換參道咖啡站，將休息放在路線後半。營業日與座位依店家安排，若當天未開，前段的咖啡與團子仍是方便選項。"
+      ],
+      "description": "manawa café 靠近大宮公園，厚鬆餅、咖啡與帶點夏威夷氣息的空間，適合在綠地散步後坐下。喜歡窗外樹景的人，也能在此延續公園的心情。\n\n可以用這裡替換參道咖啡站，將休息放在路線後半。營業日與座位依店家安排，若當天未開，前段的咖啡與團子仍是方便選項。",
+      "note": "",
+      "official": "https://visitsaitamacity.jp/spots/58",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.917881,
+        "lng": 139.627975,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA3-119-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/omiya/manawa.webp",
+        "alt": "manawa café的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "omiya--park",
+      "order": 8,
+      "name": "大宮公園",
+      "address": "埼玉県さいたま市大宮区高鼻町4丁目",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "池畔與老樹，讓午後繼續延伸",
+      "descriptionParagraphs": [
+        "大宮公園以老樹、櫻花與池水呈現不同季節的表情，綠地間也穿插運動與休憩設施。離開神社後走進這裡，視野會慢慢舒展開來。",
+        "選一段池畔或林間步道即可，不必把整座公園走遍。附近還有動物園和博物館，擇一延伸就能保留回程的餘裕。"
+      ],
+      "description": "大宮公園以老樹、櫻花與池水呈現不同季節的表情，綠地間也穿插運動與休憩設施。離開神社後走進這裡，視野會慢慢舒展開來。\n\n選一段池畔或林間步道即可，不必把整座公園走遍。附近還有動物園和博物館，擇一延伸就能保留回程的餘裕。",
+      "note": "",
+      "official": "https://visitsaitamacity.jp/spots/53",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.918793,
+        "lng": 139.63179,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA4%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/omiya/park.webp",
+        "alt": "大宮公園的日系水彩插圖"
+      },
+      "recommendation": "選一段公園步道，再往北大宮站離開。"
+    },
+    {
+      "id": "omiya--zoo",
+      "order": 9,
+      "name": "大宮公園小動物園",
+      "address": "埼玉県さいたま市大宮区高鼻町4丁目",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "公園裡的小動物園，適合慢慢觀察",
+      "descriptionParagraphs": [
+        "大宮公園小動物園在綠意中介紹多種動物，從鳥類到哺乳類都能在短距離內觀察。它是公園散步中容易加入的一段停留，也受到親子旅客喜愛。",
+        "動物不一定每次都在同一位置，給自己一點等待和觀察的時間。若選擇入園，就減少另一項展館行程，讓參觀不變成趕場。"
+      ],
+      "description": "大宮公園小動物園在綠意中介紹多種動物，從鳥類到哺乳類都能在短距離內觀察。它是公園散步中容易加入的一段停留，也受到親子旅客喜愛。\n\n動物不一定每次都在同一位置，給自己一點等待和觀察的時間。若選擇入園，就減少另一項展館行程，讓參觀不變成趕場。",
+      "note": "",
+      "official": "https://www.parks.or.jp/omiyazoo/guide/000/000581.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.918793,
+        "lng": 139.63179,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA4%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/omiya/zoo.webp",
+        "alt": "大宮公園小動物園的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "omiya--museum",
+      "order": 10,
+      "name": "埼玉縣立歷史與民俗博物館",
+      "address": "埼玉県さいたま市大宮区高鼻町4-219",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "從生活器物，認識埼玉的時間",
+      "descriptionParagraphs": [
+        "歷史與民俗博物館位於大宮公園北側，透過地方歷史、民俗與美術展示，把埼玉的生活故事整理成可觀看的線索。建築與周邊樹木也形成安靜的參觀環境。",
+        "對地方文化有興趣，可把它換成今天的主要停留。完整看展或參加工坊需要更多時間，宜減少其他選項，並先查看當期安排。"
+      ],
+      "description": "歷史與民俗博物館位於大宮公園北側，透過地方歷史、民俗與美術展示，把埼玉的生活故事整理成可觀看的線索。建築與周邊樹木也形成安靜的參觀環境。\n\n對地方文化有興趣，可把它換成今天的主要停留。完整看展或參加工坊需要更多時間，宜減少其他選項，並先查看當期安排。",
+      "note": "",
+      "official": "https://www.city.saitama.lg.jp/kosodate/topics/p127809.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.921021,
+        "lng": 139.630447,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E9%AB%98%E9%BC%BB%E7%94%BA4-219",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/omiya/museum.webp",
+        "alt": "埼玉縣立歷史與民俗博物館的日系水彩插圖"
+      },
+      "recommendation": "挑感興趣的生活器物與地方故事細看，再往北大宮站離開。"
+    }
+  ],
+  "routes": [
+    {
+      "id": "omiya-slow-walk",
+      "name": "參道樹影、神社與咖啡",
+      "ids": [
+        "omiya--coffee",
+        "omiya--shrine",
+        "omiya--park"
+      ],
+      "start": {
+        "name": "大宮站東口",
+        "address": "埼玉県さいたま市大宮区錦町630 大宮駅",
+        "access": "JR 各線、東武都市公園線；往東步行接上參道"
+      },
+      "end": {
+        "name": "北大宮站",
+        "address": "埼玉県さいたま市大宮区土手町3丁目285 北大宮駅",
+        "access": "東武都市公園線；可搭一站回大宮"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從大宮站接上氷川參道，樹影、團子與咖啡陪你走向神社和公園。",
+      "note": "散步集中在參道北段，不必從最南端第一鳥居走起。博物館或動物園可替換公園停留，參拜與店家候位另留彈性。",
+      "stopNotes": {
+        "omiya--coffee": "在參道北段先休息，慢慢感受綠蔭。",
+        "omiya--shrine": "通過鳥居參拜，留意神橋與社殿。",
+        "omiya--park": "選一段公園步道，再往北大宮站離開。"
+      },
+      "art": "/art/walks/omiya/sando.webp"
+    },
+    {
+      "id": "omiya-living-history",
+      "name": "舊圖書館與參道生活史",
+      "ids": [
+        "omiya--bibli",
+        "omiya--dango",
+        "omiya--museum"
+      ],
+      "start": {
+        "name": "大宮站東口",
+        "address": "埼玉県さいたま市大宮区錦町630 大宮駅",
+        "access": "JR 各線、東武都市公園線；往東步行接上參道"
+      },
+      "end": {
+        "name": "北大宮站",
+        "address": "埼玉県さいたま市大宮区土手町3丁目285 北大宮駅",
+        "access": "東武都市公園線；可搭一站回大宮"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "從舊圖書館逛到參道點心，再用一段看展時間認識埼玉的日常。",
+      "note": "含步行、三處重點與 30～45 分鐘自由探索。博物館以約 45～60 分鐘精選參觀安排；完整看展、工坊與排隊另留時間。Bibli 依現場開放區域參觀，出發前確認博物館開館日。",
+      "stopNotes": {
+        "omiya--bibli": "先看看舊圖書館改造後的公共空間與當天營業的小店。",
+        "omiya--dango": "在參道旁挑一份團子短暫休息，不必為排隊壓縮看展時間。",
+        "omiya--museum": "挑感興趣的生活器物與地方故事細看，再往北大宮站離開。"
+      },
+      "art": "/art/walks/omiya/bibli.webp"
+    }
+  ],
+  "defaultSelection": "omiya-slow-walk"
+}

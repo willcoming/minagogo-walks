@@ -1,0 +1,399 @@
+{
+  "checkedAt": "2026-10-24",
+  "walkId": "karahori",
+  "method": "依官方店家、公共設施及旅遊機關資料整理為原創繁體中文介紹；未聲稱親訪、評分或即時營業保證。",
+  "places": [
+    {
+      "id": "karahori--ekchuah",
+      "contentSources": [
+        "https://www.ek-chuah.co.jp/user_data/shop_honten.php",
+        "https://osakamania.jp/shop/chocolate_13/",
+        "https://www.ek-chuah.co.jp/blog/"
+      ],
+      "coordinate": {
+        "lat": 34.6752378,
+        "lng": 135.5125868,
+        "url": "https://www.openstreetmap.org/node/5383066867",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://osakamania.jp/shop/chocolate_13/",
+        "imageUrl": "https://osakamania.jp/assets_mt/shop/chocolate_13/main.jpg"
+      }
+    },
+    {
+      "id": "karahori--naoki",
+      "contentSources": [
+        "https://naoki35.jimdofree.com/利用案内/",
+        "https://osaka-chushin.jp/spot/6510",
+        "https://osakamania.jp/mania/bungakuhi/"
+      ],
+      "coordinate": {
+        "lat": 34.675018,
+        "lng": 135.515305,
+        "provider": "gsi",
+        "label": "日本國土地理院地址搜尋代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA6%E4%B8%81%E7%9B%AE5%E7%95%AA26%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地址搜尋以官方谷町六丁目5番26號回傳的位置；地址代表點，不是二樓入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://osakamania.jp/mania/bungakuhi/",
+        "imageUrl": "https://osakamania.jp/assets_mt/mania/bungakuhi/24.jpg"
+      }
+    },
+    {
+      "id": "karahori--arcade",
+      "contentSources": [
+        "https://karahori-osaka.com/",
+        "https://karahori-osaka.com/aboutus.html"
+      ],
+      "coordinate": {
+        "lat": 34.6734492,
+        "lng": 135.5166549,
+        "url": "https://www.openstreetmap.org/way/173039149",
+        "precisionNote": "採空堀商店街 OSM pedestrian way 的東端節點1838657001作此段停留代表，非商店街全域中心。",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright"
+      },
+      "photoReference": {
+        "pageUrl": "https://karahori-osaka.com/",
+        "imageUrl": "https://karahori-osaka.com/img/img1.png"
+      }
+    },
+    {
+      "id": "karahori--sou",
+      "contentSources": [
+        "https://www.so-karahori.com/",
+        "https://www.so-karahori.com/access/"
+      ],
+      "coordinate": {
+        "lat": 34.67317742,
+        "lng": 135.51336444,
+        "url": "https://www.openstreetmap.org/way/244788355",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.so-karahori.com/",
+        "imageUrl": "https://www.so-karahori.com/images/slide_main_01.jpg"
+      }
+    },
+    {
+      "id": "karahori--syuca",
+      "contentSources": [
+        "https://www.syuca.jp/html/company.html"
+      ],
+      "coordinate": {
+        "lat": 34.6736392,
+        "lng": 135.514341,
+        "url": "https://www.openstreetmap.org/node/5759836521",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.syuca.jp/html/company.html",
+        "imageUrl": "https://gigaplus.makeshop.jp/syuca/images/corekara/shop_1.jpg"
+      }
+    },
+    {
+      "id": "karahori--yuion",
+      "contentSources": [
+        "https://yui-on.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.6740902,
+        "lng": 135.5147001,
+        "url": "https://www.openstreetmap.org/node/14162907776",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://yui-on.jp/",
+        "imageUrl": "https://yui-on.jp/assets/img/index/about.jpg"
+      }
+    },
+    {
+      "id": "karahori--mori",
+      "contentSources": [
+        "https://bookcafe-mori.shopinfo.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.6740185,
+        "lng": 135.5148782,
+        "url": "https://www.openstreetmap.org/node/7447932088",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.osaka.com/thingstodo/karahori-shotengai-osaka-16-places-to-eat-drink-and-explore/",
+        "imageUrl": "https://osaka.b-cdn.net/wp-content/uploads/2026/05/IMG_9604-1024x768.jpeg"
+      }
+    },
+    {
+      "id": "karahori--kyuyamutei",
+      "contentSources": [
+        "https://metronine.osaka/en/spot-details/?spot_id=15615585292932"
+      ],
+      "coordinate": {
+        "lat": 34.6736309,
+        "lng": 135.5152235,
+        "url": "https://www.openstreetmap.org/node/5383066866",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://metronine.osaka/en/spot-details/?spot_id=15615585292932",
+        "imageUrl": "https://pic.k-cdn.media/2019/09/kyu-yamutei-720x480.jpg"
+      }
+    },
+    {
+      "id": "karahori--fusaya",
+      "contentSources": [
+        "https://fusaya.gorp.jp/",
+        "https://karahori-osaka.com/shop24.html"
+      ],
+      "coordinate": {
+        "lat": 34.67383,
+        "lng": 135.513823,
+        "url": "https://www.openstreetmap.org/node/4580524595",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.hotpepper.jp/strJ000109910/",
+        "imageUrl": "https://imgfp.hotp.jp/IMGH/98/55/P022859855/P022859855_480.jpg"
+      }
+    },
+    {
+      "id": "karahori--konbudoi",
+      "contentSources": [
+        "https://www.konbudoi.jp/about"
+      ],
+      "coordinate": {
+        "lat": 34.673504,
+        "lng": 135.515518,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA%E4%B8%83%E4%B8%81%E7%9B%AE%EF%BC%96%E7%95%AA%EF%BC%93%EF%BC%98%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.konbudoi.jp/about",
+        "imageUrl": "https://static.wixstatic.com/media/e8e81b_ba22f30c3e1c4d51ae490accaac36772~mv2.jpg"
+      }
+    },
+    {
+      "id": "karahori--konbumuseum",
+      "contentSources": [
+        "https://www.konbudoi.jp/museum"
+      ],
+      "coordinate": {
+        "lat": 34.672993,
+        "lng": 135.515488,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA%E4%B8%83%E4%B8%81%E7%9B%AE%EF%BC%96%E7%95%AA%EF%BC%96%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.konbudoi.jp/museum",
+        "imageUrl": "https://static.wixstatic.com/media/40492c_5640313f6cd446999d6b9ef2072d87da~mv2.jpg"
+      }
+    },
+    {
+      "id": "karahori--emoji",
+      "contentSources": [
+        "https://www.kami-emoji.com/product/"
+      ],
+      "coordinate": {
+        "lat": 34.673656,
+        "lng": 135.515152,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE%EF%BC%94%E7%95%AA%EF%BC%92%EF%BC%94%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.kami-emoji.com/product/",
+        "imageUrl": "https://www.kami-emoji.com/test/wp/wp-content/uploads/2021/03/0201_emoji-018.jpg"
+      }
+    },
+    {
+      "id": "karahori--kouzu",
+      "contentSources": [
+        "https://kouzu.or.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.668687166666665,
+        "lng": 135.51376718333336,
+        "url": "https://www.openstreetmap.org/way/1121693756",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://kouzu.or.jp/",
+        "imageUrl": "https://kouzu.or.jp/wp-content/themes/kouzu/img/top/kv01.jpg"
+      }
+    },
+    {
+      "id": "karahori--enoki",
+      "contentSources": [
+        "https://osaka-chushin.jp/routes/35448"
+      ],
+      "coordinate": {
+        "lat": 34.6762411,
+        "lng": 135.5140185,
+        "url": "https://www.openstreetmap.org/node/450637713",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://osakamania.jp/shop/bungakuhi/",
+        "imageUrl": "https://osakamania.jp/assets_mt/shop/bungakuhi_04/main.jpg"
+      }
+    },
+    {
+      "id": "karahori--dango",
+      "contentSources": [
+        "https://15ban.jp/"
+      ],
+      "coordinate": {
+        "lat": 34.673725,
+        "lng": 135.513519,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%96%E7%95%AA%EF%BC%92%EF%BC%93%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "photoReference": {
+        "pageUrl": "https://15ban.jp/",
+        "imageUrl": "https://15ban.jp/wp-content/uploads/2024/05/15ban_kinako_HPtop-scaled-1200x685.jpg"
+      }
+    }
+  ],
+  "walking": {
+    "provider": "OSRM routed-foot / OpenStreetMap",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/135.5125868,34.6752378;135.515305,34.675018;135.5166549,34.6734492;135.51336444,34.67317742?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "raw": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 26.95,
+              "summary": "",
+              "duration": 215.6,
+              "distance": 269.7
+            },
+            {
+              "steps": [],
+              "weight": 27.92,
+              "summary": "",
+              "duration": 242.5,
+              "distance": 303.1
+            },
+            {
+              "steps": [],
+              "weight": 34.17,
+              "summary": "",
+              "duration": 309.5,
+              "distance": 386.9
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 89.04,
+          "duration": 767.6,
+          "distance": 959.7
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "e6E_gE3mdoE_AAAAVQAAAAAAAAAAAAAAPq_KQOIuB0EAAAAAAAAAADIAAABEAAAAAAAAAAAAAABxAgAAz8ETCCkaEQILwhMIJhoRAgAAfwsAAAAA",
+          "location": [
+            135.512527,
+            34.675241
+          ],
+          "name": "",
+          "distance": 5.508920369
+        },
+        {
+          "hint": "npapgXIZYIJiAAAApgIAAAAAAAAAAAAApMAcQYSkh0IAAAAAAAAAAE4AAAAfAgAAAAAAAAAAAABxAgAAj8wTCEwZEQKpzBMIShkRAgAAnwsAAAAA",
+          "location": [
+            135.515279,
+            34.67502
+          ],
+          "name": "",
+          "distance": 2.393145681
+        },
+        {
+          "hint": "TWqdgXOWqYEAAAAAMAMAAAAAAAAAAAAAAAAAAOHKw0IAAAAAAAAAAAAAAAAPAwAAAAAAAAAAAABxAgAA79ETCCkTEQLv0RMIKRMRAgAAPxEAAAAATmqdgS_NKYkAAAAAMgAAAAAAAAAAAAAAAAAAALwNwEAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAABxAgAA79ETCCkTEQLv0RMIKRMRAgAAfwsAAAAAT2qdgTXNKYkAAAAAOgAAAAAAAAAAAAAAAAAAALYM3UAAAAAAAAAAAAAAAAA3AAAAAAAAAAAAAABxAgAA79ETCCkTEQLv0RMIKRMRAgAAXwAAAAAA",
+          "location": [
+            135.516655,
+            34.673449
+          ],
+          "name": "空堀商店街",
+          "distance": 0
+        },
+        {
+          "hint": "f1FkgnB9RYqOAAAAsgAAAJ0AAADuAQAApVFjQVpLjkFsjXtBNqRFQnIAAACOAAAAfgAAAIsBAABxAgAA2MQTCB8SEQIUxRMIGRIRAgIAfwAAAAAA",
+          "location": [
+            135.513304,
+            34.673183
+          ],
+          "name": "",
+          "distance": 5.538996205
+        }
+      ]
+    },
+    "estimateNote": "純步行路線估算；未包含候位、天候、拍照、上下坡造成的速度差異。"
+  },
+  "visitEstimate": {
+    "minutes": [
+      85,
+      140
+    ],
+    "method": "編輯估算：依四站參觀、購物及一至兩次餐飲休息加總，不含候位與交通進出。"
+  }
+}

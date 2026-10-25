@@ -1,0 +1,399 @@
+{
+  "checkedAt": "2026-10-24",
+  "walkId": "wakayama",
+  "method": "依官方店家、公共設施及旅遊機關資料整理為原創繁體中文介紹；未聲稱親訪、評分或即時營業保證。",
+  "places": [
+    {
+      "id": "wakayama--prefmuseum",
+      "contentSources": [
+        "https://www.wakayama-kanko.or.jp/spots/detail_3013.html",
+        "https://wakayamakanko.jp/ja/spot/detail/357"
+      ],
+      "coordinate": {
+        "lat": 34.22465839411765,
+        "lng": 135.17174644117648,
+        "url": "https://www.openstreetmap.org/way/400050141",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wakayama-kanko.or.jp/spots/detail_3013.html",
+        "imageUrl": "https://www.wakayama-kanko.or.jp/lsc/upfile/spot/0000/3013/3013_5_l.jpg"
+      }
+    },
+    {
+      "id": "wakayama--castle",
+      "contentSources": [
+        "https://www.wakayama-kanko.or.jp/spots/detail_661.html",
+        "https://wakayamajo.jp/",
+        "https://wakayamajo.jp/info/1656/"
+      ],
+      "coordinate": {
+        "lat": 34.2276472,
+        "lng": 135.1715062,
+        "url": "https://www.openstreetmap.org/node/402167963",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wakayama-kanko.or.jp/spots/detail_661.html",
+        "imageUrl": "https://www.wakayama-kanko.or.jp/lsc/upfile/spot/0000/0661/661_3_l.jpg"
+      }
+    },
+    {
+      "id": "wakayama--momiji",
+      "contentSources": [
+        "https://www.wakayama-kanko.or.jp/spots/detail_9.html"
+      ],
+      "coordinate": {
+        "lat": 34.2287589,
+        "lng": 135.1707531,
+        "url": "https://www.openstreetmap.org/node/4533762011",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wakayama-kanko.or.jp/spots/detail_9.html",
+        "imageUrl": "https://www.wakayama-kanko.or.jp/lsc/upfile/spot/0000/0009/9_1_l.jpg"
+      }
+    },
+    {
+      "id": "wakayama--koshoan",
+      "contentSources": [
+        "https://wakayamajo.jp/kousyouan/"
+      ],
+      "coordinate": {
+        "lat": 34.2288805,
+        "lng": 135.1705106,
+        "url": "https://www.openstreetmap.org/node/4486847397",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/057/817/2024042406.pdf",
+        "imageUrl": "https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/057/817/2024042406.pdf"
+      }
+    },
+    {
+      "id": "wakayama--history",
+      "contentSources": [
+        "https://www.wakayama-kanko.or.jp/spots/detail_3844.html"
+      ],
+      "coordinate": {
+        "lat": 34.229500214285714,
+        "lng": 135.1701642,
+        "url": "https://www.openstreetmap.org/way/449637502",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wakayama-kanko.or.jp/spots/detail_3844.html",
+        "imageUrl": "https://www.wakayama-kanko.or.jp/lsc/upfile/spot/0000/3844/3844_1_l.jpg"
+      }
+    },
+    {
+      "id": "wakayama--zoo",
+      "contentSources": [
+        "https://www.wakayama-kanko.or.jp/spots/detail_3309.html"
+      ],
+      "coordinate": {
+        "lat": 34.2269429,
+        "lng": 135.1730082,
+        "url": "https://www.openstreetmap.org/node/4533761949",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wakayama-kanko.or.jp/spots/detail_3309.html",
+        "imageUrl": "https://www.wakayama-kanko.or.jp/lsc/upfile/spot/0000/3309/3309_1_l.jpg"
+      }
+    },
+    {
+      "id": "wakayama--prefart",
+      "contentSources": [
+        "https://www.wakayama-kanko.or.jp/spots/detail_668.html"
+      ],
+      "coordinate": {
+        "lat": 34.225060715384615,
+        "lng": 135.17138326923074,
+        "url": "https://www.openstreetmap.org/way/400050143",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wakayama-kanko.or.jp/spots/detail_668.html",
+        "imageUrl": "https://www.wakayama-kanko.or.jp/lsc/upfile/spot/0000/0668/668_5_l.jpg"
+      }
+    },
+    {
+      "id": "wakayama--oka",
+      "contentSources": [
+        "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1001214/1034245.html"
+      ],
+      "coordinate": {
+        "lat": 34.22555856666667,
+        "lng": 135.1753280083333,
+        "url": "https://www.openstreetmap.org/way/457201112",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1001214/1034245.html",
+        "imageUrl": "https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/034/245/okakoen22.JPG"
+      }
+    },
+    {
+      "id": "wakayama--sasuta",
+      "contentSources": [
+        "https://www.wakayama-kanko.or.jp/spots/detail_1064.html",
+        "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1001038/1000593.html"
+      ],
+      "coordinate": {
+        "lat": 34.22381638,
+        "lng": 135.17441828,
+        "url": "https://www.openstreetmap.org/way/808660011",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wakayama-kanko.or.jp/spots/detail_1064.html",
+        "imageUrl": "https://www.wakayama-kanko.or.jp/lsc/upfile/spot/0000/1064/1064_1_l.jpg"
+      }
+    },
+    {
+      "id": "wakayama--hall",
+      "contentSources": [
+        "https://www.wakayama-johall.jp/about/floormap/",
+        "https://www.city.wakayama.wakayama.jp/shisetsu/bunkashisetsu/1041138.html"
+      ],
+      "coordinate": {
+        "lat": 34.230387439999994,
+        "lng": 135.17211939999999,
+        "url": "https://www.openstreetmap.org/way/1106776566",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1041567/index.html",
+        "imageUrl": "https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/041/567/02wajohoru1.jpg"
+      }
+    },
+    {
+      "id": "wakayama--surugaya",
+      "contentSources": [
+        "https://www.souhonke-surugaya.co.jp/",
+        "https://drive.jafnavi.jp/spots/301130X00623/"
+      ],
+      "coordinate": {
+        "lat": 34.233284160000004,
+        "lng": 135.17328149999997,
+        "url": "https://www.openstreetmap.org/way/471706890",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://drive.jafnavi.jp/spots/301130X00623/",
+        "imageUrl": "https://jafnavi.jp/images/3011/ph00186125.jpg"
+      }
+    },
+    {
+      "id": "wakayama--science",
+      "contentSources": [
+        "https://www.wakayama-kanko.or.jp/spots/detail_3333.html"
+      ],
+      "coordinate": {
+        "lat": 34.23292257826087,
+        "lng": 135.1690986826087,
+        "url": "https://www.openstreetmap.org/way/481944639",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wakayama-kanko.or.jp/spots/detail_3333.html",
+        "imageUrl": "https://www.wakayama-kanko.or.jp/lsc/upfile/spot/0000/3333/3333_1_l.jpg"
+      }
+    },
+    {
+      "id": "wakayama--citymuseum",
+      "contentSources": [
+        "https://www.wakayama-kanko.or.jp/spots/detail_669.html"
+      ],
+      "coordinate": {
+        "lat": 34.2332361,
+        "lng": 135.1631589,
+        "url": "https://www.openstreetmap.org/node/1423056295",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wakayama-kanko.or.jp/spots/detail_669.html",
+        "imageUrl": "https://www.wakayama-kanko.or.jp/lsc/upfile/spot/0000/0669/669_6_l.jpg"
+      }
+    },
+    {
+      "id": "wakayama--ariyoshi",
+      "contentSources": [
+        "https://www.wakayama-kanko.or.jp/spots/detail_3841.html",
+        "https://ariyoshi-sawako.jp/index.php"
+      ],
+      "coordinate": {
+        "lat": 34.234449819999995,
+        "lng": 135.16562231,
+        "url": "https://www.openstreetmap.org/way/474126278",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://www.wakayama-kanko.or.jp/spots/detail_3841.html",
+        "imageUrl": "https://www.wakayama-kanko.or.jp/lsc/upfile/spot/0000/3841/3841_1_l.jpg"
+      }
+    },
+    {
+      "id": "wakayama--library",
+      "contentSources": [
+        "https://wakayama.civic-library.jp/guide/"
+      ],
+      "coordinate": {
+        "lat": 34.2366379,
+        "lng": 135.16734566,
+        "url": "https://www.openstreetmap.org/way/1119791679",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "photoReference": {
+        "pageUrl": "https://wakayama.civic-library.jp/guide/",
+        "imageUrl": "https://wakayama.civic-library.jp/lib/images/mode3_w720-wakayama_library_002.webp"
+      }
+    }
+  ],
+  "walking": {
+    "provider": "OSRM routed-foot / OpenStreetMap",
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/135.17174644117648,34.22465839411765;135.1715062,34.2276472;135.1707531,34.2287589;135.1705106,34.2288805?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "raw": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 69.57,
+              "summary": "",
+              "duration": 641.9,
+              "distance": 800.3
+            },
+            {
+              "steps": [],
+              "weight": 50.85,
+              "summary": "",
+              "duration": 468.4,
+              "distance": 583.1
+            },
+            {
+              "steps": [],
+              "weight": 4.08,
+              "summary": "",
+              "duration": 38.9,
+              "distance": 48.5
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 124.5,
+          "duration": 1149.2,
+          "distance": 1431.9
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "k8RBhJTEQYQAAAAARAAAAAAAAABVAQAAAAAAAC2_AkEAAAAAT14jQgAAAABBAAAAAAAAAEYBAABxAgAA540OCHY6CgKijg4IEjoKAgAAXw8AAAAA",
+          "location": [
+            135.171559,
+            34.224758
+          ],
+          "name": "",
+          "distance": 20.49217099
+        },
+        {
+          "hint": "EAJFhBICRYQAAAAAHwAAAAAAAAAkAAAAAAAAABrFcEAAAAAAK3KKQAAAAAAeAAAAAAAAACMAAABxAgAARY0OCARGCgKyjQ4Iv0UKAgAAHw8AAAAA",
+          "location": [
+            135.171397,
+            34.227716
+          ],
+          "name": "",
+          "distance": 12.62738009
+        },
+        {
+          "hint": "TwJFhJ9IGIo8AAAAFQAAAAAAAAAAAAAAVzXoQIaBHEAAAAAAAAAAADoAAAAUAAAAAAAAAAAAAABxAgAAq4oOCDZKCgLBig4IF0oKAgAA_w4AAAAA",
+          "location": [
+            135.170731,
+            34.22879
+          ],
+          "name": "",
+          "distance": 3.991728153
+        },
+        {
+          "hint": "3EcYit9HGIoAAAAAGQAAAAAAAAAAAAAAAAAAAO26QkAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAABxAgAAhYkOCINKCgLPiQ4IkUoKAgAAvxAAAAAA",
+          "location": [
+            135.170437,
+            34.228867
+          ],
+          "name": "",
+          "distance": 6.993014252
+        }
+      ]
+    },
+    "estimateNote": "純步行路線估算；未包含候位、天候、拍照、上下坡造成的速度差異。"
+  },
+  "visitEstimate": {
+    "minutes": [
+      115,
+      185
+    ],
+    "method": "編輯估算：依四站參觀、購物及一至兩次餐飲休息加總，不含候位與交通進出。"
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "updatedAt": "2026-10-25",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "ashikaga--artspace",
+      "order": 1,
+      "name": "artspace ＆ café",
+      "address": "栃木県足利市通2丁目2658",
+      "group": "food",
+      "categoryLabel": "藝廊咖啡",
+      "caption": "坐在作品旁，讓咖啡接上藝術。",
+      "descriptionParagraphs": [
+        "artspace ＆ café將畫廊與喫茶放在同一空間，以較高、較寬敞的室內尺度呈現藝術作品。喝杯咖啡，也能成為街區看展的一種方式。",
+        "適合在石疊路和市立美術館之間安排休息。若特別為某位作家而來，可依當期展覽選擇停留。"
+      ],
+      "description": "artspace ＆ café將畫廊與喫茶放在同一空間，以較高、較寬敞的室內尺度呈現藝術作品。喝杯咖啡，也能成為街區看展的一種方式。\n\n適合在石疊路和市立美術館之間安排休息。若特別為某位作家而來，可依當期展覽選擇停留。",
+      "note": "",
+      "official": "https://www.ashikaga-kankou.jp/spot/artspaceandcafe",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.33503,
+        "lng": 139.451462,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A2%E4%B8%81%E7%9B%AE2658",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/artspace.webp",
+        "alt": "artspace ＆ café，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "在藝術空間喝咖啡休息，留時間慢走回站。"
+    },
+    {
+      "id": "ashikaga--hachikura",
+      "order": 2,
+      "name": "珈琲とおやつ 八蔵",
+      "address": "栃木県足利市大門通2381-1",
+      "group": "food",
+      "categoryLabel": "咖啡與甜點",
+      "caption": "在石疊路旁，為手作點心停一會兒。",
+      "descriptionParagraphs": [
+        "八蔵在石疊路一帶提供咖啡、手作點心與輕食，也販售店主挑選的器物與生活道具。喫茶和選物的組合，讓古寺之間的步行多了日常感。",
+        "可以把它安排在足利學校與鑁阿寺之間，坐下後再決定後半段要走向織物展示或美術館。"
+      ],
+      "description": "八蔵在石疊路一帶提供咖啡、手作點心與輕食，也販售店主挑選的器物與生活道具。喫茶和選物的組合，讓古寺之間的步行多了日常感。\n\n可以把它安排在足利學校與鑁阿寺之間，坐下後再決定後半段要走向織物展示或美術館。",
+      "note": "",
+      "official": "https://www.ashikaga-kankou.jp/ashikaga-gosyuinl/detail/Recommendedcafe.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.335987,
+        "lng": 139.451782,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E5%A4%A7%E9%96%80%E9%80%9A2381-1",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/hachikura.webp",
+        "alt": "珈琲とおやつ 八蔵，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "咖啡與點心休息。"
+    },
+    {
+      "id": "ashikaga--usagiya",
+      "order": 3,
+      "name": "銘仙と古布 うさぎや",
+      "address": "栃木県足利市大門通2380-1",
+      "group": "shops",
+      "categoryLabel": "古布與和服",
+      "caption": "翻找銘仙花樣，看看布料的另一段生命。",
+      "descriptionParagraphs": [
+        "うさぎや以銘仙與古布、古著和服為主，讓足利的織物文化延伸到今天的穿著與手作。布料的花樣與配色，值得近距離慢慢看。",
+        "不一定要選購整套和服，也可以從材質和細節認識銘仙。位在大門通一帶，適合與古寺、喫茶接成同一段散步。"
+      ],
+      "description": "うさぎや以銘仙與古布、古著和服為主，讓足利的織物文化延伸到今天的穿著與手作。布料的花樣與配色，值得近距離慢慢看。\n\n不一定要選購整套和服，也可以從材質和細節認識銘仙。位在大門通一帶，適合與古寺、喫茶接成同一段散步。",
+      "note": "",
+      "official": "https://www.ashikaga-kankou.jp/buy/usagiya",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.335987,
+        "lng": 139.451782,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E5%A4%A7%E9%96%80%E9%80%9A2380-1",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/usagiya.webp",
+        "alt": "銘仙と古布 うさぎや，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "看看銘仙與古布的花色；租借或著裝體驗另行預約。"
+    },
+    {
+      "id": "ashikaga--bannaji",
+      "order": 4,
+      "name": "鑁阿寺",
+      "address": "栃木県足利市家富町2220",
+      "group": "sights",
+      "categoryLabel": "古寺與護城河",
+      "caption": "跨過小橋，走進被樹蔭包住的寺院。",
+      "descriptionParagraphs": [
+        "鑁阿寺與足利氏的歷史相連，寺域四周仍保留土壘與護城河的格局。境內的堂宇、石燈籠與大銀杏，形成不同於一般街角寺院的開闊空間。",
+        "可以先繞看護城河與橋，再沿境內動線參拜。寺院距離足利學校近，兩站之間也適合順路逛逛石疊路上的商店。"
+      ],
+      "description": "鑁阿寺與足利氏的歷史相連，寺域四周仍保留土壘與護城河的格局。境內的堂宇、石燈籠與大銀杏，形成不同於一般街角寺院的開闊空間。\n\n可以先繞看護城河與橋，再沿境內動線參拜。寺院距離足利學校近，兩站之間也適合順路逛逛石疊路上的商店。",
+      "note": "",
+      "official": "https://www.ashikaga-kankou.jp/spot/bannaji",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.3374074,
+        "lng": 139.452088,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/1112896625",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/bannaji.webp",
+        "alt": "鑁阿寺，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "參訪古寺，沿境內慢走。"
+    },
+    {
+      "id": "ashikaga--gakko",
+      "order": 5,
+      "name": "史跡足利學校",
+      "address": "栃木県足利市昌平町2338",
+      "group": "sights",
+      "categoryLabel": "歷史學舍",
+      "caption": "從茅葺屋簷與庭園，走進學問之城。",
+      "descriptionParagraphs": [
+        "足利學校的創建有不同說法，至室町時代中期的歷史逐漸明確。復原的建物與庭園，讓人得以想像過去學徒在此讀書的空間。",
+        "先沿參觀動線看門、學舍與庭園，再接上通往鑁阿寺的石疊路。這一站值得留出較完整的時間，慢慢看建築與展示。"
+      ],
+      "description": "足利學校的創建有不同說法，至室町時代中期的歷史逐漸明確。復原的建物與庭園，讓人得以想像過去學徒在此讀書的空間。\n\n先沿參觀動線看門、學舍與庭園，再接上通往鑁阿寺的石疊路。這一站值得留出較完整的時間，慢慢看建築與展示。",
+      "note": "原則每月第三個週三休館，11 月為第二個週三；另有年末及臨時休館。",
+      "official": "https://www.ashikaga-kankou.jp/special/ashikagagakko",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.3359544389,
+        "lng": 139.4536913167,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/256397654",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/gakko.webp",
+        "alt": "史跡足利學校，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "看看學校建築與庭園。"
+    },
+    {
+      "id": "ashikaga--taihei",
+      "order": 6,
+      "name": "太平記館",
+      "address": "栃木県足利市伊勢町3丁目6-4",
+      "group": "shops",
+      "categoryLabel": "觀光與物產",
+      "caption": "先看看地圖，再挑一份足利土產。",
+      "descriptionParagraphs": [
+        "太平記館結合觀光諮詢、地方物產與休息空間，是認識足利街區的入口。館內販售地方品牌商品，也能取得散步所需資訊。",
+        "適合先來確認想去的設施，再走向附近的足利學校。若已逛完一圈，也可以回來集中選購伴手禮。"
+      ],
+      "description": "太平記館結合觀光諮詢、地方物產與休息空間，是認識足利街區的入口。館內販售地方品牌商品，也能取得散步所需資訊。\n\n適合先來確認想去的設施，再走向附近的足利學校。若已逛完一圈，也可以回來集中選購伴手禮。",
+      "note": "",
+      "official": "https://www.ashikaga-kankou.jp/spot/taiheikikan",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.334896,
+        "lng": 139.454346,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E4%BC%8A%E5%8B%A2%E7%94%BA3%E4%B8%81%E7%9B%AE6-4",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/taihei.webp",
+        "alt": "太平記館，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "ashikaga--yugaku",
+      "order": 7,
+      "name": "足利のわかりやすい歷史館・まちなか遊學館",
+      "address": "栃木県足利市通1丁目2673",
+      "group": "sights",
+      "categoryLabel": "街區歷史館",
+      "caption": "先讀一點歷史，再走進石疊路。",
+      "descriptionParagraphs": [
+        "這座歷史館介紹足利的歷史、文化與自然，也有供散步旅客休息的空間。學校、鑁阿寺與織姬神社相關展示，能為沿途所見補上背景。",
+        "館旁可接通往足利學校的參道。若想穿銘仙和服或甲冑散步，須另安排著裝體驗。"
+      ],
+      "description": "這座歷史館介紹足利的歷史、文化與自然，也有供散步旅客休息的空間。學校、鑁阿寺與織姬神社相關展示，能為沿途所見補上背景。\n\n館旁可接通往足利學校的參道。若想穿銘仙和服或甲冑散步，須另安排著裝體驗。",
+      "note": "著裝體驗需預約；原則第三個週三及年末年始休館。",
+      "official": "https://www.ashikaga-kankou.jp/spot/machinaka_yuugakukan",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.33427,
+        "lng": 139.453186,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A1%E4%B8%81%E7%9B%AE2673",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/yugaku.webp",
+        "alt": "足利のわかりやすい歷史館・まちなか遊學館，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "ashikaga--museum",
+      "order": 8,
+      "name": "足利市立美術館",
+      "address": "栃木県足利市通2丁目14-7",
+      "group": "sights",
+      "categoryLabel": "市街美術館",
+      "caption": "把一段散步，留給展覽與玻璃光影。",
+      "descriptionParagraphs": [
+        "足利市立美術館在市街中央，與集合住宅併設，是生活街區裡的文化空間。館方透過展覽，介紹足利、両毛地區以及更廣泛的美術世界。",
+        "可以依展覽主題決定停留長短，再接回學校與石疊路一帶。建物前的廣場也讓密集的街巷多了一段開闊視野。"
+      ],
+      "description": "足利市立美術館在市街中央，與集合住宅併設，是生活街區裡的文化空間。館方透過展覽，介紹足利、両毛地區以及更廣泛的美術世界。\n\n可以依展覽主題決定停留長短，再接回學校與石疊路一帶。建物前的廣場也讓密集的街巷多了一段開闊視野。",
+      "note": "週一、部分假日翌日及換展期間休館；觀覽內容與票券依展覽安排。",
+      "official": "https://www.watv.ne.jp/ashi-bi/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.33406215,
+        "lng": 139.4503460125,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/509383229",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/museum.webp",
+        "alt": "足利市立美術館，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "挑當期展覽慢看，為喜歡的作品多停一下。"
+    },
+    {
+      "id": "ashikaga--orimono",
+      "order": 9,
+      "name": "足利織物傳承館",
+      "address": "栃木県足利市通3丁目2589",
+      "group": "sights",
+      "categoryLabel": "銘仙織物",
+      "caption": "從色彩與花樣，看見織物之城。",
+      "descriptionParagraphs": [
+        "位在足利織物會館二樓的小型展示空間，以銘仙和服及近代織物資料介紹地方產業。鮮明的配色與圖案，讓纖維歷史變得容易親近。",
+        "除了看展示，也可以看看銘仙小物。若希望參加布料相關手作體驗，應先把預約和一般參觀分開安排。"
+      ],
+      "description": "位在足利織物會館二樓的小型展示空間，以銘仙和服及近代織物資料介紹地方產業。鮮明的配色與圖案，讓纖維歷史變得容易親近。\n\n除了看展示，也可以看看銘仙小物。若希望參加布料相關手作體驗，應先把預約和一般參觀分開安排。",
+      "note": "手作體驗需事先預約；夏季、年末年始與換展期間可能休館。",
+      "official": "https://www.ashikaga-kankou.jp/spot/orimonodensyokan",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.336712,
+        "lng": 139.446884,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A3%E4%B8%81%E7%9B%AE2589",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/orimono.webp",
+        "alt": "足利織物傳承館，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "ashikaga--koundo",
+      "order": 10,
+      "name": "香雲堂本店 本店",
+      "address": "栃木県足利市通4丁目2570",
+      "group": "food",
+      "categoryLabel": "古印最中老舖",
+      "caption": "把足利的印記，帶成一份和菓子。",
+      "descriptionParagraphs": [
+        "香雲堂本店的古印最中，發想來自足利相關的古印與落款。酥殼與紅豆餡構成招牌和菓子，包裝也保留與足利文化相連的故事。",
+        "這裡是通四丁目的本店，適合在逛完古寺後向西散步來選伴手禮。若只想簡單嚐一點，也可先詢問店內當次販售形式。"
+      ],
+      "description": "香雲堂本店的古印最中，發想來自足利相關的古印與落款。酥殼與紅豆餡構成招牌和菓子，包裝也保留與足利文化相連的故事。\n\n這裡是通四丁目的本店，適合在逛完古寺後向西散步來選伴手禮。若只想簡單嚐一點，也可先詢問店內當次販售形式。",
+      "note": "",
+      "official": "https://koundohonten.jp/about-us",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.3370077,
+        "lng": 139.4452863,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/8553182821",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/koundo.webp",
+        "alt": "香雲堂本店 本店，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "ashikaga--heki",
+      "order": 11,
+      "name": "ギャラリー碧",
+      "address": "栃木県足利市巴町2547",
+      "group": "shops",
+      "categoryLabel": "街角畫廊",
+      "caption": "在街角，看一點當代作品。",
+      "descriptionParagraphs": [
+        "ギャラリー碧介紹繪畫、陶藝與立體等不同領域的作品，也以個展、企劃展呈現藝術家的創作。小畫廊讓看藝術自然接上足利街區生活。",
+        "可以先看看當期展覽，再安排與市立美術館或河畔散步相接。欣賞作品時請依畫廊的攝影與展示規則。"
+      ],
+      "description": "ギャラリー碧介紹繪畫、陶藝與立體等不同領域的作品，也以個展、企劃展呈現藝術家的創作。小畫廊讓看藝術自然接上足利街區生活。\n\n可以先看看當期展覽，再安排與市立美術館或河畔散步相接。欣賞作品時請依畫廊的攝影與展示規則。",
+      "note": "",
+      "official": "https://www.ashikaga-kankou.jp/spot/g_heki",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.337811,
+        "lng": 139.445694,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E5%B7%B4%E7%94%BA2547",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/heki.webp",
+        "alt": "ギャラリー碧，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "ashikaga--orihime",
+      "order": 12,
+      "name": "足利織姬神社",
+      "address": "栃木県足利市西宮町3889",
+      "group": "sights",
+      "categoryLabel": "山麓神社",
+      "caption": "沿著石階，把街區看得更遠。",
+      "descriptionParagraphs": [
+        "足利織姬神社與織物產業的守護信仰相連，朱色社殿立在市街西側的山麓。走上參道後，街景的視角也隨高度改變。",
+        "可以把神社作為向西延伸的散步目的地，再回到通四丁目一帶休息。步行包含石階，與平坦的市街路線節奏不同。"
+      ],
+      "description": "足利織姬神社與織物產業的守護信仰相連，朱色社殿立在市街西側的山麓。走上參道後，街景的視角也隨高度改變。\n\n可以把神社作為向西延伸的散步目的地，再回到通四丁目一帶休息。步行包含石階，與平坦的市街路線節奏不同。",
+      "note": "參道有較多石階；請依自己的體力安排登階路段。",
+      "official": "https://www.ashikaga-kankou.jp/spot/orihime_jinjya",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.33926501,
+        "lng": 139.44494519,
+        "provider": "osm",
+        "label": "OpenStreetMap 神社建築代表點",
+        "url": "https://www.openstreetmap.org/way/429990200",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "神社建築代表點，需沿參道登階抵達。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/orihime.webp",
+        "alt": "足利織姬神社，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "ashikaga--butsugai",
+      "order": 13,
+      "name": "物外軒茶室・庭園",
+      "address": "栃木県足利市通6丁目3165-2",
+      "group": "sights",
+      "categoryLabel": "茶室庭園",
+      "caption": "把庭園的留白，放進街區散步。",
+      "descriptionParagraphs": [
+        "物外軒由茶室與庭園構成，茶室最初建於明治初期，與足利商人的文化生活相連。竹木與庭園的尺度，提供一種安靜的觀看方式。",
+        "這裡適合事先選定公開日後再來，與織姬周邊散策相接。若當日未開放，就把時間留給附近的老舖與街景。"
+      ],
+      "description": "物外軒由茶室與庭園構成，茶室最初建於明治初期，與足利商人的文化生活相連。竹木與庭園的尺度，提供一種安靜的觀看方式。\n\n這裡適合事先選定公開日後再來，與織姬周邊散策相接。若當日未開放，就把時間留給附近的老舖與街景。",
+      "note": "參觀日有限，請依官方公開日安排；茶室使用另有申請規則。",
+      "official": "https://www.ashikaga-kankou.jp/spot/butsugaiken",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.33873,
+        "lng": 139.441559,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%A0%83%E6%9C%A8%E7%9C%8C%E8%B6%B3%E5%88%A9%E5%B8%82%E9%80%9A6%E4%B8%81%E7%9B%AE3165-2",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/butsugai.webp",
+        "alt": "物外軒茶室・庭園，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "ashikaga--bridge",
+      "order": 14,
+      "name": "渡良瀨橋",
+      "address": "栃木県足利市通3丁目",
+      "group": "sights",
+      "categoryLabel": "河畔風景",
+      "caption": "走到河邊，換一個看足利的角度。",
+      "descriptionParagraphs": [
+        "渡良瀨橋跨越足利市街旁的渡良瀨川，也因同名歌曲而廣為人知。河面、橋架與堤岸，把歷史街區之外的空間打開。",
+        "可從北岸附近散步，看橋與河川的關係。這一站偏向戶外眺望，適合在室內展覽與老舖之間，換一段步行的呼吸。"
+      ],
+      "description": "渡良瀨橋跨越足利市街旁的渡良瀨川，也因同名歌曲而廣為人知。河面、橋架與堤岸，把歷史街區之外的空間打開。\n\n可從北岸附近散步，看橋與河川的關係。這一站偏向戶外眺望，適合在室內展覽與老舖之間，換一段步行的呼吸。",
+      "note": "",
+      "official": "https://www.ashikaga-kankou.jp/spot/watarasebashi",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 36.33330278,
+        "lng": 139.44402464,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/828119225",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/ashikaga/bridge.webp",
+        "alt": "渡良瀨橋，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "ashikaga-slow-walk",
+      "name": "學校、古寺與石疊小店",
+      "ids": [
+        "ashikaga--gakko",
+        "ashikaga--bannaji",
+        "ashikaga--hachikura"
+      ],
+      "start": {
+        "name": "JR 足利站",
+        "address": "栃木県足利市 JR足利駅",
+        "access": "JR 兩毛線；由車站北側步行進入街區"
+      },
+      "end": {
+        "name": "JR 足利站",
+        "address": "栃木県足利市 JR足利駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從足利學校與鑁阿寺，走進石疊路旁的小店。",
+      "note": "美術館與織物傳承館作替換選項，一次選一處深入參觀即可。",
+      "stopNotes": {
+        "ashikaga--gakko": "看看學校建築與庭園。",
+        "ashikaga--bannaji": "參訪古寺，沿境內慢走。",
+        "ashikaga--hachikura": "咖啡與點心休息。"
+      },
+      "art": "/art/walks/ashikaga/gakko.webp"
+    },
+    {
+      "id": "ashikaga-art-and-vintage",
+      "name": "美術、古布與街角喫茶",
+      "ids": [
+        "ashikaga--museum",
+        "ashikaga--usagiya",
+        "ashikaga--artspace"
+      ],
+      "start": {
+        "name": "JR 足利站",
+        "address": "栃木県足利市 JR足利駅",
+        "access": "JR 兩毛線；由車站北側步行進入街區"
+      },
+      "end": {
+        "name": "JR 足利站",
+        "address": "栃木県足利市 JR足利駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "從美術館走進銘仙與古布的小店，再以一杯咖啡延續看展的餘韻。",
+      "note": "美術館週一與部分假日翌日、換展期間休館；うさぎや與 artspace & café 原則週一、週二休店，假日安排依各店公告。",
+      "stopNotes": {
+        "ashikaga--museum": "挑當期展覽慢看，為喜歡的作品多停一下。",
+        "ashikaga--usagiya": "看看銘仙與古布的花色；租借或著裝體驗另行預約。",
+        "ashikaga--artspace": "在藝術空間喝咖啡休息，留時間慢走回站。"
+      },
+      "art": "/art/walks/ashikaga/museum.webp"
+    }
+  ],
+  "defaultSelection": "ashikaga-slow-walk"
+}

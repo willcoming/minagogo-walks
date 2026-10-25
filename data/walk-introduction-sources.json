@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-10-24",
+  "scope": "Kuramae neighborhood introduction, three walk attractions and practical route context",
+  "sources": [
+    {"title": "台東區 2026《東京下町さんぽ 蔵前》", "url": "https://www.gotokyo.org/book/list/11780/", "supports": "Neighborhood cafes, specialist shops, crafts/wholesale background, Asakusa walkable context and Sumida River scenery"},
+    {"title": "台東區官方觀光：藏前歷史與咖啡散步", "url": "https://t-navi.city.taito.lg.jp/courses/5", "supports": "Renovated old buildings, cafes, lifestyle shops, Kuramae Shrine and riverside scenery"},
+    {"title": "既有 26 個地點的介紹參考資料", "url": "/data/place-editorial-sources.json", "supports": "Specific food, coffee, baskets, leather, tableware and bookstore examples"},
+    {"title": "既有路線估算", "url": "/data/route-estimates.json", "supports": "Three four-stop routes and total suggested 1.5–3 hour range including shop visits, excluding queues; UI computes this range using the existing route-hours helper"}
+  ],
+  "editorialNote": "Audience fit and suggestions for mixing shop visits with a riverside walk are editorial guidance. No additional places or routes were added."
+}

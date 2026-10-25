@@ -1,0 +1,439 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "kyoto-nishijin--toraya",
+      "official": "https://www.toraya-group.co.jp/shops/shop-55",
+      "contentSources": [
+        "https://www.toraya-group.co.jp/shops/shop-55"
+      ],
+      "coordinate": {
+        "lat": 35.026497,
+        "lng": 135.758804,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%BA%83%E6%A9%8B%E6%AE%BF%E7%94%BA400",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.toraya-group.co.jp/shops/shop-55",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0641/4503/1410/files/55_3.jpg?v=1674195540&width=811&height=553&crop=center",
+        "referencePath": "design/photo-references/expansion/kyoto-nishijin/toraya.jpg"
+      }
+    },
+    {
+      "id": "kyoto-nishijin--raku",
+      "official": "https://www.raku-yaki.or.jp/museum/index.html",
+      "contentSources": [
+        "https://www.raku-yaki.or.jp/museum/index.html"
+      ],
+      "coordinate": {
+        "lat": 35.025635,
+        "lng": 135.753311,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%B2%B9%E6%A9%8B%E8%A9%B0%E7%94%BA87-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.raku-yaki.or.jp/museum/index.html",
+        "imageUrl": "https://www.raku-yaki.or.jp/museum/img/facade_03.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-nishijin/raku.jpg"
+      }
+    },
+    {
+      "id": "kyoto-nishijin--seimei",
+      "official": "https://www.seimeijinja.jp/guide/",
+      "contentSources": [
+        "https://www.seimeijinja.jp/guide/"
+      ],
+      "coordinate": {
+        "lat": 35.027412,
+        "lng": 135.751175,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%99%B4%E6%98%8E%E7%94%BA806",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.seimeijinja.jp/guide/",
+        "imageUrl": "https://www.seimeijinja.jp/assets/images/guide/06_img.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-nishijin/seimei.jpg"
+      }
+    },
+    {
+      "id": "kyoto-nishijin--tondaya",
+      "official": "https://tondaya.co.jp/",
+      "contentSources": [
+        "https://tondaya.co.jp/"
+      ],
+      "coordinate": {
+        "lat": 35.027622,
+        "lng": 135.748825,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%9F%B3%E8%96%AC%E5%B8%AB%E7%94%BA697",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://tondaya.co.jp/",
+        "imageUrl": "https://tondaya.co.jp/_common/image/top/acc_img.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-nishijin/tondaya.jpg"
+      }
+    },
+    {
+      "id": "kyoto-nishijin--archaeology",
+      "official": "https://www.kyoto-kankou.or.jp/info_search/3624",
+      "contentSources": [
+        "https://www.kyoto-kankou.or.jp/info_search/3624"
+      ],
+      "coordinate": {
+        "lat": 35.030014,
+        "lng": 135.749527,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%85%83%E4%BC%8A%E4%BD%90%E7%94%BA265-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.kyoto-kankou.or.jp/info_search/3624",
+        "imageUrl": "https://www.kyoto-kankou.or.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--18d9da9c176e6df041faa7b56700aeea0596fc49/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpdCI6WzEwMjQsbnVsbF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--b319ad3b8cf077b6bb3e72ea85c7a0f708334d72/5871.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-nishijin/archaeology.jpg"
+      }
+    },
+    {
+      "id": "kyoto-nishijin--honryuji",
+      "official": "https://souda-kyoto.jp/guide/spot/honryuji.html",
+      "contentSources": [
+        "https://souda-kyoto.jp/guide/spot/honryuji.html"
+      ],
+      "coordinate": {
+        "lat": 35.031517,
+        "lng": 135.745926,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%B4%8B%E5%B1%8B%E7%94%BA330",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://souda-kyoto.jp/guide/spot/honryuji.html",
+        "imageUrl": "https://souda-kyoto.jp/guide/spot/ea410e00000006s4-img/honryuji_1.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-nishijin/honryuji.jpg"
+      }
+    },
+    {
+      "id": "kyoto-nishijin--uhoin",
+      "official": "https://www.uhoin.com/",
+      "contentSources": [
+        "https://www.uhoin.com/",
+        "https://souda-kyoto.jp/guide/spot/uhoin.html"
+      ],
+      "coordinate": {
+        "lat": 35.032585,
+        "lng": 135.74646,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E8%81%96%E5%A4%A9%E7%94%BA9-3",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://souda-kyoto.jp/guide/spot/uhoin.html",
+        "imageUrl": "https://souda-kyoto.jp/guide/spot/ea410e00000005y0-img/uhouin_00.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-nishijin/uhoin.jpg"
+      }
+    },
+    {
+      "id": "kyoto-nishijin--tsuruya",
+      "official": "https://www.tsuruyayoshinobu.jp/shop/head",
+      "contentSources": [
+        "https://www.tsuruyayoshinobu.jp/shop/head"
+      ],
+      "coordinate": {
+        "lat": 35.029896,
+        "lng": 135.751266,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E8%A5%BF%E8%88%B9%E6%A9%8B%E7%94%BA340-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.tsuruyayoshinobu.jp/shop/head",
+        "imageUrl": "https://cdn.tsuruyayoshinobu.jp/1.01/img/shop-head-board-sp.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-nishijin/tsuruya.jpg"
+      }
+    },
+    {
+      "id": "kyoto-nishijin--textile",
+      "official": "https://nishijin.or.jp/nishijin_textile_center/",
+      "contentSources": [
+        "https://nishijin.or.jp/nishijin_textile_center/"
+      ],
+      "coordinate": {
+        "lat": 35.028973,
+        "lng": 135.75119,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%AB%AA%E9%96%80%E5%89%8D%E7%94%BA414",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://nishijin.or.jp/nishijin_textile_center/",
+        "imageUrl": "https://nishijin.or.jp/wp-content/uploads/2020/09/outside-1024x768.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-nishijin/textile.jpg"
+      }
+    },
+    {
+      "id": "kyoto-nishijin--shiramine",
+      "official": "https://souda-kyoto.jp/guide/spot/shiraminejingu.html",
+      "contentSources": [
+        "https://souda-kyoto.jp/guide/spot/shiraminejingu.html"
+      ],
+      "coordinate": {
+        "lat": 35.030041,
+        "lng": 135.752899,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E9%A3%9B%E9%B3%A5%E4%BA%95%E7%94%BA261",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://souda-kyoto.jp/guide/spot/shiraminejingu.html",
+        "imageUrl": "https://souda-kyoto.jp/guide/spot/ea410e00000005bm-img/shiraminejingu_1.jpg",
+        "referencePath": "design/photo-references/expansion/kyoto-nishijin/shiramine.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "kyoto-nishijin--toraya",
+      "query": "京都府京都市上京区広橋殿町400",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%BA%83%E6%A9%8B%E6%AE%BF%E7%94%BA400",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.758804,
+              35.026497
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区広橋殿町４００番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-nishijin--raku",
+      "query": "京都府京都市上京区油橋詰町87-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%B2%B9%E6%A9%8B%E8%A9%B0%E7%94%BA87-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.753311,
+              35.025635
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区油橋詰町８７番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-nishijin--seimei",
+      "query": "京都府京都市上京区晴明町806",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%99%B4%E6%98%8E%E7%94%BA806",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.751175,
+              35.027412
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区晴明町８０６番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-nishijin--tondaya",
+      "query": "京都府京都市上京区石薬師町697",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%9F%B3%E8%96%AC%E5%B8%AB%E7%94%BA697",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.748825,
+              35.027622
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区石薬師町６９７番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-nishijin--archaeology",
+      "query": "京都府京都市上京区元伊佐町265-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%85%83%E4%BC%8A%E4%BD%90%E7%94%BA265-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.749527,
+              35.030014
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区元伊佐町２６５番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-nishijin--honryuji",
+      "query": "京都府京都市上京区紋屋町330",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%B4%8B%E5%B1%8B%E7%94%BA330",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.745926,
+              35.031517
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区紋屋町３３０番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-nishijin--uhoin",
+      "query": "京都府京都市上京区聖天町9-3",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E8%81%96%E5%A4%A9%E7%94%BA9-3",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.74646,
+              35.032585
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区聖天町９番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-nishijin--tsuruya",
+      "query": "京都府京都市上京区西船橋町340-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E8%A5%BF%E8%88%B9%E6%A9%8B%E7%94%BA340-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.751266,
+              35.029896
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区西船橋町３４０番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-nishijin--textile",
+      "query": "京都府京都市上京区竪門前町414",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%AB%AA%E9%96%80%E5%89%8D%E7%94%BA414",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.75119,
+              35.028973
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区竪門前町４１４番地"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kyoto-nishijin--shiramine",
+      "query": "京都府京都市上京区飛鳥井町261",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E9%A3%9B%E9%B3%A5%E4%BA%95%E7%94%BA261",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.752899,
+              35.030041
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "京都府京都市上京区飛鳥井町２６１番地"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "walkId": "sawara",
+  "checkedAt": "2026-10-24",
+  "method": "官方與實訪內容查證後以繁體中文原創撰寫，座標採 OpenStreetMap 與國土地理院開放資料，精度各別註明，步行距離以 OSRM foot 路網估算。",
+  "places": [
+    {
+      "id": "sawara--ino-residence",
+      "contentSources": [
+        "https://www.city.katori.lg.jp/sightseeing/meisho/rekishi/s_kyutaku.html"
+      ],
+      "coordinate": {
+        "lat": 35.88805165454546,
+        "lng": 140.4981448909091,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/1169647828",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/rekishi/s_kyutaku.html",
+          "imageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/rekishi/s_kyutaku.images/kyutakugaikan.JPG"
+        }
+      ]
+    },
+    {
+      "id": "sawara--ino-museum",
+      "contentSources": [
+        "https://www.city.katori.lg.jp/sightseeing/museum/guide.html",
+        "https://www.city.katori.lg.jp/sightseeing/museum/introduction.html"
+      ],
+      "coordinate": {
+        "lat": 35.8883898,
+        "lng": 140.4971635,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1420725043",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.city.katori.lg.jp/sightseeing/museum/guide.html",
+          "imageUrl": "https://www.city.katori.lg.jp/sightseeing/museum/guide.images/gaikan.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sawara--toyo-bridge",
+      "contentSources": [
+        "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html"
+      ],
+      "coordinate": {
+        "lat": 35.8882146,
+        "lng": 140.49779395,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/27039614",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html",
+          "imageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.images/024_toyohashi_2023_March.png"
+        }
+      ]
+    },
+    {
+      "id": "sawara--inae",
+      "contentSources": [
+        "https://sawara-inae.com/",
+        "https://sawara-inae.com/kanmi",
+        "https://sawara-inae.com/access"
+      ],
+      "coordinate": {
+        "lat": 35.8893855,
+        "lng": 140.4969815,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/2672427605",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://sawara-inae.com/",
+          "imageUrl": "https://sawara-inae.com/assets/images/og-image.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sawara--mitsubishi",
+      "contentSources": [
+        "https://maruchiba.jp/spot/detail_10170.html",
+        "https://sawara-machinami.com/acces"
+      ],
+      "coordinate": {
+        "lat": 35.887802,
+        "lng": 140.498871,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E9%A6%99%E5%8F%96%E5%B8%82%E4%BD%90%E5%8E%9F%E3%82%A41903-1",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「千葉県香取市佐原イ１９０３番地」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://maruchiba.jp/spot/detail_10170.html",
+          "imageUrl": "https://maruchiba.jp/lsc/upfile/spot/0001/0170/10170_1_l.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sawara--nakamuraya",
+      "contentSources": [
+        "https://www.city.katori.lg.jp/sightseeing/machinami/gurumi/gurumi_21-30.html",
+        "https://rurubu.jp/andmore/spot/80010111"
+      ],
+      "coordinate": {
+        "lat": 35.8889152,
+        "lng": 140.4978351,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1735172839",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.city.katori.lg.jp/sightseeing/machinami/gurumi/gurumi_21-30.html",
+          "imageUrl": "https://www.city.katori.lg.jp/sightseeing/machinami/gurumi/gurumi_21-30.images/nakamuraya_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sawara--shojou",
+      "contentSources": [
+        "https://www.shoujyou.com/",
+        "https://shop.c-value.jp/view/category/shoujou"
+      ],
+      "coordinate": {
+        "lat": 35.88969087,
+        "lng": 140.498693915,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/143949535",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.shoujyou.com/",
+          "imageUrl": "https://www.shoujyou.com/php/topmain/th.php?path=images/1548791958-2-1.jpg&maxwidth=1100"
+        }
+      ]
+    },
+    {
+      "id": "sawara--kobori",
+      "contentSources": [
+        "https://tanocity.com/shop_detail.php?shop_id=72"
+      ],
+      "coordinate": {
+        "lat": 35.8891436,
+        "lng": 140.4977133,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1735205749",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://tanocity.com/shop_detail.php?shop_id=72",
+          "imageUrl": "https://tanocity.com/img/shop/72/img1.jpg?20200703135027"
+        }
+      ]
+    },
+    {
+      "id": "sawara--fukushin",
+      "contentSources": [
+        "https://www.fukushin-sawara.com/"
+      ],
+      "coordinate": {
+        "lat": 35.8892089,
+        "lng": 140.49765,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1735172868",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.fukushin-sawara.com/",
+          "imageUrl": "https://www.fukushin-sawara.com/images/exterior-front.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sawara--tokun",
+      "contentSources": [
+        "https://www.tokun.co.jp/",
+        "https://www.tokun.co.jp/kuramoto/",
+        "https://www.tokun.co.jp/%E3%80%90%E5%86%8D%E6%8E%B2%E3%80%91%E8%94%B5%E8%A6%8B%E5%AD%A6%E4%B8%AD%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+        "https://www.tokun.co.jp/%E7%9B%B4%E5%A3%B2%E5%BA%97%E3%80%80%E5%AE%9A%E4%BC%91%E6%97%A5%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/"
+      ],
+      "coordinate": {
+        "lat": 35.889622,
+        "lng": 140.494354,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E9%A6%99%E5%8F%96%E5%B8%82%E4%BD%90%E5%8E%9F%E3%82%A4627",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「千葉県香取市佐原イ６２７番地」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://maruchiba.jp/spot/detail_12513.html",
+          "imageUrl": "https://maruchiba.jp/lsc/upfile/spot/0001/2513/12513_1_l.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sawara--machiya",
+      "contentSources": [
+        "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/machiyakan.html"
+      ],
+      "coordinate": {
+        "lat": 35.8896051,
+        "lng": 140.498184,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/1094022100",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/machiyakan.html",
+          "imageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/machiyakan.images/machiyakan01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sawara--dashi",
+      "contentSources": [
+        "https://www.city.katori.lg.jp/sightseeing/sawaradashikaikan/guide.html",
+        "https://maruchiba.jp/spot/detail_10169.html"
+      ],
+      "coordinate": {
+        "lat": 35.889678733333334,
+        "lng": 140.50125147777777,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/284934090",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://maruchiba.jp/spot/detail_10169.html",
+          "imageUrl": "https://maruchiba.jp/lsc/upfile/spot/0001/0169/10169_9_l.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sawara--suwa",
+      "contentSources": [
+        "http://osuwa3.jp/",
+        "http://osuwa3.jp/keidai",
+        "https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/aki.html"
+      ],
+      "coordinate": {
+        "lat": 35.8912618,
+        "lng": 140.4898113,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/node/1121128487",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.city.katori.lg.jp/culture_sport/bunkazai/isan/211-220.html",
+          "imageUrl": "https://www.city.katori.lg.jp/culture_sport/bunkazai/isan/211-220.images/216-3.JPG"
+        }
+      ]
+    },
+    {
+      "id": "sawara--leun",
+      "contentSources": [
+        "https://www.nipponia-sawara.jp/restaurant"
+      ],
+      "coordinate": {
+        "lat": 35.888279,
+        "lng": 140.495453,
+        "provider": "gsi",
+        "label": "國土地理院地址街區代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8D%83%E8%91%89%E7%9C%8C%E9%A6%99%E5%8F%96%E5%B8%82%E4%BD%90%E5%8E%9F%E3%82%A41708-2",
+        "license": "公共資料利用規約（第1.0版）",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院住址搜尋回傳「千葉県香取市佐原イ１７０８番地」街區代表點；未精確到建物入口，請以店家完整門牌定位。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.nipponia-sawara.jp/restaurant",
+          "imageUrl": "https://www.nipponia-sawara.jp/wp2023/wp-content/themes/nipponiasawara/assets/images/restaurant/eat_main_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sawara--suppinya",
+      "contentSources": [
+        "https://suppinya.jimdofree.com/",
+        "https://suppinya.jimdofree.com/%E7%B4%A0%E9%A1%94%E5%B1%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/"
+      ],
+      "coordinate": {
+        "lat": 35.888658557142854,
+        "lng": 140.49894247142856,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/272346722",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://suppinya.jimdofree.com/%E7%B4%A0%E9%A1%94%E5%B1%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+          "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=306x10000:format=jpg/path/s25a83c6063bb7db3/image/i3aa591adc08d40aa/version/1448883016/image.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sawara--mizunosato",
+      "contentSources": [
+        "https://www.e-sawara.com/",
+        "https://www.e-sawara.com/contact/",
+        "https://www.city.katori.lg.jp/nogyo_sangyo/koryu/s_mizunosato.html"
+      ],
+      "coordinate": {
+        "lat": 35.89621192941176,
+        "lng": 140.50652142156864,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/62111068",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築代表點，並與來源地址核對。"
+      },
+      "photos": [
+        {
+          "pageUrl": "https://www.e-sawara.com/",
+          "imageUrl": "https://www.e-sawara.com/wp-content/uploads/2026/03/airphoto.jpg"
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "ino-residence": {
+      "pageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/rekishi/s_kyutaku.html",
+      "imageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/rekishi/s_kyutaku.images/kyutakugaikan.JPG"
+    },
+    "ino-museum": {
+      "pageUrl": "https://www.city.katori.lg.jp/sightseeing/museum/guide.html",
+      "imageUrl": "https://www.city.katori.lg.jp/sightseeing/museum/guide.images/gaikan.jpg"
+    },
+    "toyo-bridge": {
+      "pageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html",
+      "imageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.images/024_toyohashi_2023_March.png"
+    },
+    "inae": {
+      "pageUrl": "https://sawara-inae.com/",
+      "imageUrl": "https://sawara-inae.com/assets/images/og-image.jpg"
+    },
+    "mitsubishi": {
+      "pageUrl": "https://maruchiba.jp/spot/detail_10170.html",
+      "imageUrl": "https://maruchiba.jp/lsc/upfile/spot/0001/0170/10170_1_l.jpg"
+    },
+    "nakamuraya": {
+      "pageUrl": "https://www.city.katori.lg.jp/sightseeing/machinami/gurumi/gurumi_21-30.html",
+      "imageUrl": "https://www.city.katori.lg.jp/sightseeing/machinami/gurumi/gurumi_21-30.images/nakamuraya_1.jpg"
+    },
+    "shojou": {
+      "pageUrl": "https://www.shoujyou.com/",
+      "imageUrl": "https://www.shoujyou.com/php/topmain/th.php?path=images/1548791958-2-1.jpg&maxwidth=1100"
+    },
+    "kobori": {
+      "pageUrl": "https://tanocity.com/shop_detail.php?shop_id=72",
+      "imageUrl": "https://tanocity.com/img/shop/72/img1.jpg?20200703135027"
+    },
+    "fukushin": {
+      "pageUrl": "https://www.fukushin-sawara.com/",
+      "imageUrl": "https://www.fukushin-sawara.com/images/exterior-front.jpg"
+    },
+    "tokun": {
+      "pageUrl": "https://maruchiba.jp/spot/detail_12513.html",
+      "imageUrl": "https://maruchiba.jp/lsc/upfile/spot/0001/2513/12513_1_l.jpg"
+    },
+    "machiya": {
+      "pageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/machiyakan.html",
+      "imageUrl": "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/machiyakan.images/machiyakan01.jpg"
+    },
+    "dashi": {
+      "pageUrl": "https://maruchiba.jp/spot/detail_10169.html",
+      "imageUrl": "https://maruchiba.jp/lsc/upfile/spot/0001/0169/10169_9_l.jpg"
+    },
+    "suwa": {
+      "pageUrl": "https://www.city.katori.lg.jp/culture_sport/bunkazai/isan/211-220.html",
+      "imageUrl": "https://www.city.katori.lg.jp/culture_sport/bunkazai/isan/211-220.images/216-3.JPG"
+    },
+    "leun": {
+      "pageUrl": "https://www.nipponia-sawara.jp/restaurant",
+      "imageUrl": "https://www.nipponia-sawara.jp/wp2023/wp-content/themes/nipponiasawara/assets/images/restaurant/eat_main_01.jpg"
+    },
+    "suppinya": {
+      "pageUrl": "https://suppinya.jimdofree.com/%E7%B4%A0%E9%A1%94%E5%B1%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+      "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=306x10000:format=jpg/path/s25a83c6063bb7db3/image/i3aa591adc08d40aa/version/1448883016/image.jpg"
+    },
+    "mizunosato": {
+      "pageUrl": "https://www.e-sawara.com/",
+      "imageUrl": "https://www.e-sawara.com/wp-content/uploads/2026/03/airphoto.jpg"
+    }
+  },
+  "walking": {
+    "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/140.4971635,35.8883898;140.49814489,35.88805165;140.4969815,35.8893855;140.50125148,35.88967873?overview=false&steps=false",
+    "checkedAt": "2026-10-24",
+    "response": {
+      "code": "Ok",
+      "routes": [
+        {
+          "legs": [
+            {
+              "steps": [],
+              "weight": 12.66,
+              "summary": "",
+              "duration": 119,
+              "distance": 148.9
+            },
+            {
+              "steps": [],
+              "weight": 22.52,
+              "summary": "",
+              "duration": 194.3,
+              "distance": 240
+            },
+            {
+              "steps": [],
+              "weight": 55.89,
+              "summary": "",
+              "duration": 457.8,
+              "distance": 572.4
+            }
+          ],
+          "weight_name": "routability",
+          "weight": 91.07,
+          "duration": 771.1,
+          "distance": 961.3
+        }
+      ],
+      "waypoints": [
+        {
+          "hint": "1SKMgNoijIBqAAAAfgAAAD8AAACRAgAA4vxLQdYCcUHWAvFAJIedQmUAAAB5AAAAPAAAAHcCAABxAgAAk9BfCDmdIwIM0V8IBp0jAgIA_wwAAAAA",
+          "location": [
+            140.497043,
+            35.888441
+          ],
+          "name": "",
+          "distance": 12.30533134
+        },
+        {
+          "hint": "pmqngqlqp4IAAAAAVwAAAAAAAACsAAAAAAAAALBCJ0EAAAAAcfGjQQAAAABUAAAAAAAAAKQAAABxAgAAHtVfCCucIwLh1F8ItJsjAgAAnxIAAAAA",
+          "location": [
+            140.498206,
+            35.888171
+          ],
+          "name": "",
+          "distance": 14.30687867
+        },
+        {
+          "hint": "PuobgDYA74DWAAAArAAAAAAAAAAAAAAAGoJwQftAP0EAAAAAAAAAAHgAAABgAAAAAAAAAAAAAABxAgAATtBfCJCgIwJW0F8I6qAjAgAA7wUAAAAA",
+          "location": [
+            140.496974,
+            35.889296
+          ],
+          "name": "",
+          "distance": 10.0122003
+        },
+        {
+          "hint": "IjaegHbtqoJ7AAAAXwEAAAsCAAAAAAAAjJZFQborDELYElFCAAAAAGIAAAAZAQAAogEAAAAAAABxAgAAS-BfCBqiIwID4V8ID6IjAgIATwAAAAAA",
+          "location": [
+            140.501067,
+            35.88969
+          ],
+          "name": "",
+          "distance": 16.66102557
+        }
+      ]
+    }
+  },
+  "visitEstimate": {
+    "minutes": [
+      115,
+      180
+    ],
+    "method": "實際路網步行時間加記念館20–30分鐘、舊宅10–15分鐘、いなえ30–50分鐘、山車會館40–55分鐘；排隊及延伸點另計。"
+  }
+}

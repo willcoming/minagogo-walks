@@ -1,0 +1,537 @@
+{
+  "updatedAt": "2026-10-25",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "places": [
+    {
+      "id": "kyoto-uji--koshoji",
+      "order": 1,
+      "name": "興聖寺",
+      "address": "京都府宇治市宇治山田27-1",
+      "group": "sights",
+      "categoryLabel": "禪寺與參道",
+      "caption": "沿琴坂的綠意，走向修行寺院。",
+      "descriptionParagraphs": [
+        "興聖寺的發祥與道元禪師相連，江戶時代在宇治再興，至今延續曹洞宗修行道場的角色。琴坂與山麓堂宇，讓河岸散步接上更安靜的一段。",
+        "可以依開放安排看堂宇，或另選坐禪、寫經活動。這裡是持續運作的寺院，參觀時適合放慢腳步，留意修行與參拜的界線。"
+      ],
+      "description": "興聖寺的發祥與道元禪師相連，江戶時代在宇治再興，至今延續曹洞宗修行道場的角色。琴坂與山麓堂宇，讓河岸散步接上更安靜的一段。\n\n可以依開放安排看堂宇，或另選坐禪、寫經活動。這裡是持續運作的寺院，參觀時適合放慢腳步，留意修行與參拜的界線。",
+      "note": "坐禪、寫經等體驗須依寺院預約及指定時段安排。",
+      "official": "https://www.uji-koushouji.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.8893998071,
+        "lng": 135.8132219333,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/921340615",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/koshoji.webp",
+        "alt": "興聖寺，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-uji--fukujuen",
+      "order": 2,
+      "name": "福壽園 宇治茶工房",
+      "address": "京都府宇治市宇治山田10",
+      "group": "food",
+      "categoryLabel": "宇治茶體驗",
+      "caption": "把一杯茶，接回製作與沖泡。",
+      "descriptionParagraphs": [
+        "福壽園宇治茶工房在宇治川東岸，結合茶的體驗、餐食、購物與展示。與單純喝一杯茶相比，這裡可以進一步認識茶如何製成、如何沖泡。",
+        "可在跨河散步時停留，依興趣選茶、用餐或參加體驗。若預約製茶與茶席活動，就把時間留得完整一些，再接山麓神社。"
+      ],
+      "description": "福壽園宇治茶工房在宇治川東岸，結合茶的體驗、餐食、購物與展示。與單純喝一杯茶相比，這裡可以進一步認識茶如何製成、如何沖泡。\n\n可在跨河散步時停留，依興趣選茶、用餐或參加體驗。若預約製茶與茶席活動，就把時間留得完整一些，再接山麓神社。",
+      "note": "體驗課程與一般逛店不同，部分項目須事先預約。",
+      "official": "https://www.ujikoubou.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.8902728933,
+        "lng": 135.8105865133,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/177930117",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/fukujuen.webp",
+        "alt": "福壽園 宇治茶工房，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "在宇治茶工房選茶或短暫休息，再沿東岸回京阪宇治站。"
+    },
+    {
+      "id": "kyoto-uji--ujijinja",
+      "order": 3,
+      "name": "宇治神社",
+      "address": "京都府宇治市宇治山田1",
+      "group": "sights",
+      "categoryLabel": "河畔神社",
+      "caption": "從朝霧橋前，走向綠蔭裡的參道。",
+      "descriptionParagraphs": [
+        "宇治神社在宇治川東岸、朝霧橋前方，供奉菟道稚郎子。鎌倉時代初期的本殿與「回首兔」的故事，使它同時具有建築與引路信仰的線索。",
+        "可以從河邊先看鳥居，再依境內動線參拜。之後往山麓走，便能接宇治上神社，或回到茶工房安排休息。"
+      ],
+      "description": "宇治神社在宇治川東岸、朝霧橋前方，供奉菟道稚郎子。鎌倉時代初期的本殿與「回首兔」的故事，使它同時具有建築與引路信仰的線索。\n\n可以從河邊先看鳥居，再依境內動線參拜。之後往山麓走，便能接宇治上神社，或回到茶工房安排休息。",
+      "note": "",
+      "official": "https://uji-jinja.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.8908552625,
+        "lng": 135.8103794375,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/332821521",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/ujijinja.webp",
+        "alt": "宇治神社，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "過河後參拜，看看山側風景。"
+    },
+    {
+      "id": "kyoto-uji--ujigami",
+      "order": 4,
+      "name": "宇治上神社",
+      "address": "京都府宇治市宇治山田59",
+      "group": "sights",
+      "categoryLabel": "古老社殿",
+      "caption": "在山麓木色裡，留意屋頂與構造。",
+      "descriptionParagraphs": [
+        "宇治上神社的本殿與拜殿列為國寶，本殿保存平安時代後期的神社建築形式。走到較安靜的東岸山麓，木色、屋頂與樹影使參拜的尺度慢下來。",
+        "適合與宇治神社一起參拜，也可延伸到源氏物語博物館。兩座神社距離近，仍值得各自看一會兒建築與境內細節。"
+      ],
+      "description": "宇治上神社的本殿與拜殿列為國寶，本殿保存平安時代後期的神社建築形式。走到較安靜的東岸山麓，木色、屋頂與樹影使參拜的尺度慢下來。\n\n適合與宇治神社一起參拜，也可延伸到源氏物語博物館。兩座神社距離近，仍值得各自看一會兒建築與境內細節。",
+      "note": "境內沒有一般旅客使用的洗手間；可使用河畔或博物館周邊設施。",
+      "official": "https://www.ujikamijinja.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.89192054,
+        "lng": 135.8113452067,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/332816179",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/ujigami.webp",
+        "alt": "宇治上神社，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "往南到神社參拜，御朱印辦理時間依當日安排，不作固定節目。"
+    },
+    {
+      "id": "kyoto-uji--genji",
+      "order": 5,
+      "name": "宇治市源氏物語博物館",
+      "address": "京都府宇治市宇治東内45-26",
+      "group": "sights",
+      "categoryLabel": "文學與平安文化",
+      "caption": "替河岸與山麓，補上一段文學想像。",
+      "descriptionParagraphs": [
+        "源氏物語博物館以模型、影像與互動展示介紹《源氏物語》及平安貴族生活。與宇治十帖相關的敘事，使沿途的河川與地名多了可以閱讀的背景。",
+        "適合在神社參拜後向北走一段，或把雨天時間留給室內展示。看完不必急著把故事全記住，帶著幾個意象回到街區即可。"
+      ],
+      "description": "源氏物語博物館以模型、影像與互動展示介紹《源氏物語》及平安貴族生活。與宇治十帖相關的敘事，使沿途的河川與地名多了可以閱讀的背景。\n\n適合在神社參拜後向北走一段，或把雨天時間留給室內展示。看完不必急著把故事全記住，帶著幾個意象回到街區即可。",
+      "note": "每週一休館，遇假日順延；另有年末年始休館。",
+      "official": "https://www.city.uji.kyoto.jp/site/genji/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.894103,
+        "lng": 135.810169,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/1422963059",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/genji.webp",
+        "alt": "宇治市源氏物語博物館，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "先看宇治十帖的故事與展示，挑感興趣的一段停留。"
+    },
+    {
+      "id": "kyoto-uji--tsuen",
+      "order": 6,
+      "name": "通圓 茶屋",
+      "address": "京都府宇治市宇治東内1",
+      "group": "food",
+      "categoryLabel": "宇治橋旁茶屋",
+      "caption": "在橋頭，留一段旅人喝茶的時間。",
+      "descriptionParagraphs": [
+        "通圓在宇治橋東詰延續茶屋事業，店家傳承的故事與為過橋旅人奉茶相連。老建築和橋頭位置，讓這一杯茶自然接上宇治的交通與旅行歷史。",
+        "可以在過橋前後停一會兒，選茶或甘味，再沿東岸前往神社。若主要想看河景，這裡也能成為重新安排下一段步行的起點。"
+      ],
+      "description": "通圓在宇治橋東詰延續茶屋事業，店家傳承的故事與為過橋旅人奉茶相連。老建築和橋頭位置，讓這一杯茶自然接上宇治的交通與旅行歷史。\n\n可以在過橋前後停一會兒，選茶或甘味，再沿東岸前往神社。若主要想看河景，這裡也能成為重新安排下一段步行的起點。",
+      "note": "",
+      "official": "https://tsuentea.com/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.8932683875,
+        "lng": 135.8072298375,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/333067893",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/tsuen.webp",
+        "alt": "通圓 茶屋，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "在河畔茶屋喝茶、休息。"
+    },
+    {
+      "id": "kyoto-uji--chazuna",
+      "order": 7,
+      "name": "お茶と宇治のまち歷史公園 茶づな",
+      "address": "京都府宇治市莵道丸山203-1",
+      "group": "sights",
+      "categoryLabel": "茶文化與城市歷史",
+      "caption": "把茶與城市的關係，從展示走到體驗。",
+      "descriptionParagraphs": [
+        "茶づな位在宇治川北側的歷史公園，以展示和體驗介紹宇治茶與城市的形成。綠地、博物館與餐飲購物相連，適合將歷史資訊轉成較輕鬆的參與。",
+        "可以先看展示，再依興趣參加茶臼或茶相關活動。這站與平等院方向有一段距離，適合挑選主題後獨立安排，不必每個館都走完。"
+      ],
+      "description": "茶づな位在宇治川北側的歷史公園，以展示和體驗介紹宇治茶與城市的形成。綠地、博物館與餐飲購物相連，適合將歷史資訊轉成較輕鬆的參與。\n\n可以先看展示，再依興趣參加茶臼或茶相關活動。這站與平等院方向有一段距離，適合挑選主題後獨立安排，不必每個館都走完。",
+      "note": "體驗項目有指定日期、名額與預約規則。",
+      "official": "https://uji-chazuna.kyoto/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.8965724462,
+        "lng": 135.8054984615,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/923360751",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/chazuna.webp",
+        "alt": "お茶と宇治のまち歷史公園 茶づな，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-uji--soma",
+      "order": 8,
+      "name": "杣 soma",
+      "address": "京都府宇治市宇治里尻8-9",
+      "group": "food",
+      "categoryLabel": "天然酵母麵包",
+      "caption": "在茶鄉小巷，找到手作麵包的另一種日常。",
+      "descriptionParagraphs": [
+        "杣在JR宇治站附近的住宅街製作天然酵母麵包，店主以手揉與植物性素材形成自己的製作方式。小型店面與窗邊空間，提供抹茶老舖以外的停留。",
+        "可以在前往河岸前買麵包，或將它放在回站途中。這間小店每週僅開數日，特別前來時宜先依店主公布的營業日安排。"
+      ],
+      "description": "杣在JR宇治站附近的住宅街製作天然酵母麵包，店主以手揉與植物性素材形成自己的製作方式。小型店面與窗邊空間，提供抹茶老舖以外的停留。\n\n可以在前往河岸前買麵包，或將它放在回站途中。這間小店每週僅開數日，特別前來時宜先依店主公布的營業日安排。",
+      "note": "每週僅開數日，非每日營業；行程須先配合店主公布的開店日。",
+      "official": "https://www.instagram.com/soma_bre/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 34.891628,
+        "lng": 135.802307,
+        "provider": "gsi",
+        "label": "國土地理院 門牌代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%AE%87%E6%B2%BB%E9%87%8C%E5%B0%BB8-9",
+        "license": "政府標準利用規約 第2.0版",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "官方門牌比對的地址代表點，非店舖入口；請抵達街區後核對門牌。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/soma.webp",
+        "alt": "杣 soma，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-uji--itohjr",
+      "order": 9,
+      "name": "伊藤久右衛門 JR宇治站前店・茶房",
+      "address": "京都府宇治市宇治宇文字16-1",
+      "group": "food",
+      "categoryLabel": "站前抹茶茶房",
+      "caption": "剛下車，就能為宇治茶坐一會兒。",
+      "descriptionParagraphs": [
+        "伊藤久右衛門JR宇治站前店結合茶葉與甜點販售、茶房，內部挑高空間與庭園相接。抹茶甘味、茶與麵食，讓站前也有可完整停留的選擇。",
+        "適合作為散步的起點或回程一站。若想安排茶房，先把用餐時間與買伴手禮分開，便能更自由地調整河岸的停留。"
+      ],
+      "description": "伊藤久右衛門JR宇治站前店結合茶葉與甜點販售、茶房，內部挑高空間與庭園相接。抹茶甘味、茶與麵食，讓站前也有可完整停留的選擇。\n\n適合作為散步的起點或回程一站。若想安排茶房，先把用餐時間與買伴手禮分開，便能更自由地調整河岸的停留。",
+      "note": "",
+      "official": "https://www.itohkyuemon.co.jp/corporate/shop/jruji/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 34.8897196,
+        "lng": 135.8013609,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/5260350486",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/itohjr.webp",
+        "alt": "伊藤久右衛門 JR宇治站前店・茶房，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-uji--nakamura",
+      "order": 10,
+      "name": "中村藤吉本店 宇治本店",
+      "address": "京都府宇治市宇治壱番10",
+      "group": "food",
+      "categoryLabel": "茶舖與茶房",
+      "caption": "從站前老舖，展開一段茶的散步。",
+      "descriptionParagraphs": [
+        "中村藤吉本店從1854年延續日本茶生意，宇治本店結合茶葉販售與咖啡空間。茶、甘味與老舖建築，讓剛抵達宇治的人有一個容易親近的起點。",
+        "可以先買茶，或另留時間坐下吃甜點。用餐候位和表參道散步可分開安排，再沿宇治橋通走向平等院與河岸。"
+      ],
+      "description": "中村藤吉本店從1854年延續日本茶生意，宇治本店結合茶葉販售與咖啡空間。茶、甘味與老舖建築，讓剛抵達宇治的人有一個容易親近的起點。\n\n可以先買茶，或另留時間坐下吃甜點。用餐候位和表參道散步可分開安排，再沿宇治橋通走向平等院與河岸。",
+      "note": "",
+      "official": "https://tokichi.jp/pages/honten-store-page",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.8894104,
+        "lng": 135.8017106,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/4562944689",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/nakamura.webp",
+        "alt": "中村藤吉本店 宇治本店，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-uji--tsujirihei",
+      "order": 11,
+      "name": "辻利兵衛本店 京都宇治本店茶寮",
+      "address": "京都府宇治市宇治若森41",
+      "group": "food",
+      "categoryLabel": "老舖庭園茶寮",
+      "caption": "從站前轉入小路，留一段庭園與抹茶。",
+      "descriptionParagraphs": [
+        "辻利兵衛本店延續製茶事業，宇治本店茶寮讓茶與甜點進入較安靜的庭園空間。它在JR站西側，與表參道一帶的熱鬧形成不同步調。",
+        "適合另留一段時間坐下喝茶，或在回程選購抹茶點心。若與車站東側景點組合，先安排跨過站區的步行，再接河岸會比較順。"
+      ],
+      "description": "辻利兵衛本店延續製茶事業，宇治本店茶寮讓茶與甜點進入較安靜的庭園空間。它在JR站西側，與表參道一帶的熱鬧形成不同步調。\n\n適合另留一段時間坐下喝茶，或在回程選購抹茶點心。若與車站東側景點組合，先安排跨過站區的步行，再接河岸會比較順。",
+      "note": "",
+      "official": "https://www.tsujirihei.co.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
+          "time": "",
+          "seconds": null
+        }
+      ],
+      "coordinate": {
+        "lat": 34.8896187,
+        "lng": 135.7974071,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/node/4934669422",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/tsujirihei.webp",
+        "alt": "辻利兵衛本店 京都宇治本店茶寮，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    },
+    {
+      "id": "kyoto-uji--byodoin",
+      "order": 12,
+      "name": "平等院",
+      "address": "京都府宇治市宇治蓮華116",
+      "group": "sights",
+      "categoryLabel": "鳳凰堂與美術",
+      "caption": "在池水前，慢慢看鳳凰堂的比例。",
+      "descriptionParagraphs": [
+        "平等院由藤原賴通在1052年開創，鳳凰堂以建築與池水構成對極樂淨土的想像。屋頂、倒影與堂內外美術，讓觀看有不同層次。",
+        "可以先沿庭園動線看鳳凰堂，再參觀鳳翔館。若希望進入鳳凰堂內部，需另依現場受理安排，與庭園參觀分開計算時間。"
+      ],
+      "description": "平等院由藤原賴通在1052年開創，鳳凰堂以建築與池水構成對極樂淨土的想像。屋頂、倒影與堂內外美術，讓觀看有不同層次。\n\n可以先沿庭園動線看鳳凰堂，再參觀鳳翔館。若希望進入鳳凰堂內部，需另依現場受理安排，與庭園參觀分開計算時間。",
+      "note": "鳳凰堂內部參觀另受理；2026年11月2–27日鳳翔館「扉繪之間」終日關閉。",
+      "official": "https://www.byodoin.or.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.8895159286,
+        "lng": 135.8073788714,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/332883349",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/byodoin.webp",
+        "alt": "平等院，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": "以庭園與鳳翔館參觀為主。"
+    },
+    {
+      "id": "kyoto-uji--taihoan",
+      "order": 13,
+      "name": "宇治市營茶室 對鳳庵",
+      "address": "京都府宇治市宇治塔川2",
+      "group": "food",
+      "categoryLabel": "茶席體驗",
+      "caption": "讓一碗茶，成為河岸散步的主角。",
+      "descriptionParagraphs": [
+        "對鳳庵以推廣宇治茶與茶道文化為目的，提供茶席與季節菓子。名稱呼應對岸的鳳凰堂，也讓喝茶與宇治的風景建立關係。",
+        "不熟悉茶道也可以依說明參加，若想體驗點茶再選相應課程。先安排茶席時段，再在前後接庭園或河岸散步，行程會更從容。"
+      ],
+      "description": "對鳳庵以推廣宇治茶與茶道文化為目的，提供茶席與季節菓子。名稱呼應對岸的鳳凰堂，也讓喝茶與宇治的風景建立關係。\n\n不熟悉茶道也可以依說明參加，若想體驗點茶再選相應課程。先安排茶席時段，再在前後接庭園或河岸散步，行程會更從容。",
+      "note": "開席期為1月10日至12月20日；每月末維護休席，部分茶席與體驗需預約。",
+      "official": "https://www.kyoto-uji-kankou.or.jp/taihoan.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 34.8889704444,
+        "lng": 135.8086862889,
+        "provider": "osm",
+        "label": "OpenStreetMap 設施代表點",
+        "url": "https://www.openstreetmap.org/way/332875357",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "開放地圖設施點；已與官方地址核對，非指定入口，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kyoto-uji/taihoan.webp",
+        "alt": "宇治市營茶室 對鳳庵，依真實照片繪製的日系水彩插圖"
+      },
+      "recommendation": null
+    }
+  ],
+  "routes": [
+    {
+      "id": "kyoto-uji-slow-walk",
+      "name": "平等院與河岸茶香",
+      "ids": [
+        "kyoto-uji--byodoin",
+        "kyoto-uji--ujijinja",
+        "kyoto-uji--tsuen"
+      ],
+      "start": {
+        "name": "JR 宇治站",
+        "address": "京都府宇治市 JR宇治駅",
+        "access": "JR 奈良線出發；由京阪宇治線離開"
+      },
+      "end": {
+        "name": "京阪宇治站",
+        "address": "京都府宇治市 京阪宇治駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-24",
+      "summary": "從平等院走過河岸，讓一杯宇治茶接上旅途。",
+      "note": "茶屋擇一；宇治上神社、源氏物語博物館可替換主線停留。鳳凰堂內部參觀需另留時間。",
+      "stopNotes": {
+        "kyoto-uji--byodoin": "以庭園與鳳翔館參觀為主。",
+        "kyoto-uji--ujijinja": "過河後參拜，看看山側風景。",
+        "kyoto-uji--tsuen": "在河畔茶屋喝茶、休息。"
+      },
+      "art": "/art/walks/kyoto-uji/byodoin.webp"
+    },
+    {
+      "id": "kyoto-uji-genji-and-east-bank-tea",
+      "name": "源氏物語與東岸茶香",
+      "ids": [
+        "kyoto-uji--genji",
+        "kyoto-uji--ujigami",
+        "kyoto-uji--fukujuen"
+      ],
+      "start": {
+        "name": "京阪宇治站",
+        "address": "京都府宇治市 京阪宇治駅",
+        "access": "京阪宇治線；從宇治橋東岸步行進入街區"
+      },
+      "end": {
+        "name": "京阪宇治站",
+        "address": "京都府宇治市 京阪宇治駅"
+      },
+      "totalMinutes": [
+        150,
+        180
+      ],
+      "freeMinutes": [
+        30,
+        45
+      ],
+      "estimateKind": "editorial-total",
+      "plannedAt": "2026-10-25",
+      "summary": "留在宇治川東岸，先讀一段故事，再沿神社與茶工房往水邊慢走。",
+      "note": "含三處重點、步行與 30～45 分鐘自由探索；博物館按約 45 分鐘精選參觀。博物館週一休館，逢假日改翌日；茶工房完整製茶體驗、影片全場次與候位另留時間。",
+      "stopNotes": {
+        "kyoto-uji--genji": "先看宇治十帖的故事與展示，挑感興趣的一段停留。",
+        "kyoto-uji--ujigami": "往南到神社參拜，御朱印辦理時間依當日安排，不作固定節目。",
+        "kyoto-uji--fukujuen": "在宇治茶工房選茶或短暫休息，再沿東岸回京阪宇治站。"
+      },
+      "art": "/art/walks/kyoto-uji/genji.webp"
+    }
+  ],
+  "defaultSelection": "kyoto-uji-slow-walk"
+}

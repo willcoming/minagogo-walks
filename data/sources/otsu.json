@@ -1,0 +1,439 @@
+{
+  "checkedAt": "2026-10-24",
+  "method": "官方與地方觀光資料查證後，以繁體中文原創改寫；實景照片作為獨立水彩插圖參考。",
+  "places": [
+    {
+      "id": "otsu--tenson",
+      "official": "https://www.keihan.co.jp/visiting/spot/detail/167.html",
+      "contentSources": [
+        "https://www.keihan.co.jp/visiting/spot/detail/167.html"
+      ],
+      "coordinate": {
+        "lat": 35.005489,
+        "lng": 135.867218,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%BA%AC%E7%94%BA3-3-36",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.keihan.co.jp/visiting/spot/detail/167.html",
+        "imageUrl": "https://www.keihan.co.jp/visiting/spot/detail/assets/img/pict_0205_1.jpg",
+        "referencePath": "design/place-references/expansion/otsu/tenson.jpg"
+      }
+    },
+    {
+      "id": "otsu--betsuin",
+      "official": "https://www.k-kyoku.net/betsuin",
+      "contentSources": [
+        "https://www.k-kyoku.net/betsuin"
+      ],
+      "coordinate": {
+        "lat": 35.006897,
+        "lng": 135.86702,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%B8%AD%E5%A4%AE2-5-25",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.k-kyoku.net/betsuin",
+        "imageUrl": "https://www.k-kyoku.net/wp-content/uploads/2024/07/ohtsu.jpg",
+        "referencePath": "design/place-references/expansion/otsu/betsuin.jpg"
+      }
+    },
+    {
+      "id": "otsu--hikiyama",
+      "official": "https://www.city.otsu.lg.jp/sc/event/a/s/63192.html",
+      "contentSources": [
+        "https://www.city.otsu.lg.jp/sc/event/a/s/63192.html"
+      ],
+      "coordinate": {
+        "lat": 35.008492,
+        "lng": 135.863449,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%B8%AD%E5%A4%AE1-2-27",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.city.otsu.lg.jp/sc/event/a/s/63192.html",
+        "imageUrl": "https://www.city.otsu.lg.jp/material/images/group/36/tennjikann2.jpg",
+        "referencePath": "design/place-references/expansion/otsu/hikiyama.jpg"
+      }
+    },
+    {
+      "id": "otsu--arcade",
+      "official": "https://otsu-nakamachi.com/",
+      "contentSources": [
+        "https://otsu-nakamachi.com/"
+      ],
+      "coordinate": {
+        "lat": 35.009125,
+        "lng": 135.860306,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E9%95%B7%E7%AD%892%E4%B8%81%E7%9B%AE",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://otsu-nakamachi.com/",
+        "imageUrl": "https://otsu-nakamachi.com/wp-content/themes/nakamachi/img/main-image.jpg",
+        "referencePath": "design/place-references/expansion/otsu/arcade.jpg"
+      }
+    },
+    {
+      "id": "otsu--otsue",
+      "official": "https://otsu.or.jp/thingstodo/spot52",
+      "contentSources": [
+        "https://otsu.or.jp/thingstodo/spot52"
+      ],
+      "coordinate": {
+        "lat": 35.009674,
+        "lng": 135.85759,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%B8%89%E4%BA%95%E5%AF%BA%E7%94%BA3-38",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://otsu.or.jp/thingstodo/spot52",
+        "imageUrl": "https://otsu.or.jp/wp/wp-content/uploads/2015/08/4d21e2313086a626d8830fb9a4f3ff10-1533x1080.jpg",
+        "referencePath": "design/place-references/expansion/otsu/otsue.jpg"
+      }
+    },
+    {
+      "id": "otsu--kanou",
+      "official": "https://kanou.com/gnaviplus/store/",
+      "contentSources": [
+        "https://kanou.com/gnaviplus/store/",
+        "https://kanou.com/gnaviplus/item/amo-50th-anniversary/"
+      ],
+      "coordinate": {
+        "lat": 35.008587,
+        "lng": 135.858582,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E9%95%B7%E7%AD%892-4-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://kanou.com/gnaviplus/item/amo-50th-anniversary/",
+        "imageUrl": "https://kanou.com/images/convert/kanoucom/20210927120811.jpg/image.webp",
+        "referencePath": "design/place-references/expansion/otsu/kanou.jpg"
+      }
+    },
+    {
+      "id": "otsu--mochi",
+      "official": "https://www.tikaramoti.jp/item/",
+      "contentSources": [
+        "https://www.tikaramoti.jp/item/"
+      ],
+      "coordinate": {
+        "lat": 35.011082,
+        "lng": 135.863037,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E6%B5%9C%E5%A4%A7%E6%B4%A52-1-30",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.tikaramoti.jp/item/",
+        "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=800x10000:format=png/path/sa34d8bd6b894b145/image/i978854710d683dde/version/1633662103/%E4%B8%89%E4%BA%95%E5%AF%BA%E5%8A%9B%E9%A4%85.png",
+        "referencePath": "design/place-references/expansion/otsu/mochi.jpg"
+      }
+    },
+    {
+      "id": "otsu--hall",
+      "official": "https://www.biwako-visitors.jp/spot/detail/19105/",
+      "contentSources": [
+        "https://www.biwako-visitors.jp/spot/detail/19105/"
+      ],
+      "coordinate": {
+        "lat": 35.010204,
+        "lng": 135.865494,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E6%B5%9C%E5%A4%A7%E6%B4%A51-4-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.biwako-visitors.jp/spot/detail/19105/",
+        "imageUrl": "https://www.biwako-visitors.jp/uploads/images/spots/74ec3314410eadddc157a30c3ca33c1c66f723a9ded9e7b25c7b6a80f98fec00.jpg",
+        "referencePath": "design/place-references/expansion/otsu/hall.jpg"
+      }
+    },
+    {
+      "id": "otsu--park",
+      "official": "https://www.keihanhotels-resorts.co.jp/biwakohotel/sightseeing/nagisa/",
+      "contentSources": [
+        "https://www.keihanhotels-resorts.co.jp/biwakohotel/sightseeing/nagisa/"
+      ],
+      "coordinate": {
+        "lat": 35.008633,
+        "lng": 135.869949,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E5%B3%B6%E3%81%AE%E9%96%A2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.keihanhotels-resorts.co.jp/biwakohotel/sightseeing/nagisa/",
+        "imageUrl": "https://www.keihanhotels-resorts.co.jp/biwakohotel/wps/wp-content/uploads/2026/10/nagisa2.png",
+        "referencePath": "design/place-references/expansion/otsu/park.jpg"
+      }
+    },
+    {
+      "id": "otsu--port",
+      "official": "https://www.biwakokisen.co.jp/access/otsu/",
+      "contentSources": [
+        "https://www.biwakokisen.co.jp/access/otsu/"
+      ],
+      "coordinate": {
+        "lat": 35.012074,
+        "lng": 135.866165,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E6%B5%9C%E5%A4%A7%E6%B4%A55-1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "photo": {
+        "pageUrl": "https://www.biwakokisen.co.jp/access/otsu/",
+        "imageUrl": "https://www.biwakokisen.co.jp/img/access/otsu/harbor_img.jpg",
+        "referencePath": "design/place-references/expansion/otsu/port.jpg"
+      }
+    }
+  ],
+  "geocoding": [
+    {
+      "id": "otsu--tenson",
+      "query": "滋賀県大津市京町3-3-36",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%BA%AC%E7%94%BA3-3-36",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.867218,
+              35.005489
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "滋賀県大津市京町三丁目３番３６号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "otsu--betsuin",
+      "query": "滋賀県大津市中央2-5-25",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%B8%AD%E5%A4%AE2-5-25",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.86702,
+              35.006897
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "滋賀県大津市中央二丁目５番２５号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "otsu--hikiyama",
+      "query": "滋賀県大津市中央1-2-27",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%B8%AD%E5%A4%AE1-2-27",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.863449,
+              35.008492
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "滋賀県大津市中央一丁目２番２７号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "otsu--arcade",
+      "query": "滋賀県大津市長等2丁目",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E9%95%B7%E7%AD%892%E4%B8%81%E7%9B%AE",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.860306,
+              35.009125
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "滋賀県大津市長等二丁目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "otsu--otsue",
+      "query": "滋賀県大津市三井寺町3-38",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E4%B8%89%E4%BA%95%E5%AF%BA%E7%94%BA3-38",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.85759,
+              35.009674
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "滋賀県大津市三井寺町３番３８号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "otsu--kanou",
+      "query": "滋賀県大津市長等2-4-2",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E9%95%B7%E7%AD%892-4-2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.858582,
+              35.008587
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "滋賀県大津市長等二丁目４番２号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "otsu--mochi",
+      "query": "滋賀県大津市浜大津2-1-30",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E6%B5%9C%E5%A4%A7%E6%B4%A52-1-30",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.863037,
+              35.011082
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "滋賀県大津市浜大津二丁目１番３０号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "otsu--hall",
+      "query": "滋賀県大津市浜大津1-4-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E6%B5%9C%E5%A4%A7%E6%B4%A51-4-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.865494,
+              35.010204
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "滋賀県大津市浜大津一丁目４番１号"
+          }
+        }
+      ]
+    },
+    {
+      "id": "otsu--park",
+      "query": "滋賀県大津市島の関",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E5%B3%B6%E3%81%AE%E9%96%A2",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.869949,
+              35.008633
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "滋賀県大津市島の関"
+          }
+        }
+      ]
+    },
+    {
+      "id": "otsu--port",
+      "query": "滋賀県大津市浜大津5-1-1",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E6%B5%9C%E5%A4%A7%E6%B4%A55-1-1",
+      "rawResponse": [
+        {
+          "geometry": {
+            "coordinates": [
+              135.866165,
+              35.012074
+            ],
+            "type": "Point"
+          },
+          "type": "Feature",
+          "properties": {
+            "addressCode": "",
+            "title": "滋賀県大津市浜大津五丁目１番１号"
+          }
+        }
+      ]
+    }
+  ]
+}
