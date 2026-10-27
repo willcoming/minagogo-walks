@@ -45,7 +45,8 @@
           "https://www.sakai-tcb.or.jp/spot/detail/157",
           "https://www.sakai-tcb.or.jp/spot/detail/146"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "sakai--teppo",
@@ -91,7 +92,8 @@
           "https://tsuboichi.co.jp/store/sakai",
           "https://www.sakai-tcb.or.jp/spot/detail/407"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "sakai--mizuno",
@@ -129,7 +131,8 @@
         "id": "sakai",
         "name": "堺環濠北部",
         "href": "/walks/sakai/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "sakai--yamaguchi",
@@ -175,7 +178,8 @@
           "https://www.sakai-tcb.or.jp/spot/detail/157",
           "https://www.sakai-tcb.or.jp/spot/detail/146"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "sakai--tsuboichi",
@@ -221,7 +225,8 @@
           "https://tsuboichi.co.jp/store/sakai",
           "https://www.sakai-tcb.or.jp/spot/detail/407"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "sakai--kakuoji",
@@ -259,7 +264,8 @@
         "id": "sakai",
         "name": "堺環濠北部",
         "href": "/walks/sakai/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "sakai--honganji",
@@ -305,7 +311,8 @@
           "https://www.sakai-tcb.or.jp/spot/detail/157",
           "https://www.sakai-tcb.or.jp/spot/detail/146"
         ]
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "sakai--myokokuji",
@@ -343,7 +350,8 @@
         "id": "sakai",
         "name": "堺環濠北部",
         "href": "/walks/sakai/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "sakai--denshokan",
@@ -389,7 +397,8 @@
           "https://tsuboichi.co.jp/store/sakai",
           "https://www.sakai-tcb.or.jp/spot/detail/407"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "sakai--zabiel",
@@ -427,7 +436,8 @@
         "id": "sakai",
         "name": "堺環濠北部",
         "href": "/walks/sakai/"
-      }
+      },
+      "displayOrder": 10
     }
   ],
   "routes": [
@@ -551,6 +561,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "sakai",
     "name": "堺環濠北部",

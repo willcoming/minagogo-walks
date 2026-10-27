@@ -3,61 +3,6 @@
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
-      "id": "kawagoe--p_dd7e46911c2680ca",
-      "name": "glin coffee大工町2号店",
-      "address": "埼玉県川越市連雀町27-1（影片記錄的舊址）",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中的大工町舊店址",
-      "descriptionParagraphs": [
-        "影片記錄的是 glin coffee 大工町 2 號店。品牌官方沿革確認，這間分店已在 2022 年 10 月遷往伊佐沼。",
-        "原始資料記錄的地址為 埼玉県川越市連雀町27-1（影片記錄的舊址）。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "此分店已遷移。官方沿革記載 2022 年 10 月大工町店遷往伊佐沼；保留影片收錄記錄，請勿依舊址前往用餐。",
-      "coordinate": {
-        "lat": 35.91851,
-        "lng": 139.481079,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E9%80%A3%E9%9B%80%E7%94%BA27-1",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "-UCmS86LwKs",
-          "title": "cafe vlog｜川 越 食 べ 歩 き グ ル メ 10 選 ／2022年保存版／猫まんま／おだんご／お蕎麦屋さん",
-          "url": "https://www.youtube.com/watch?v=-UCmS86LwKs",
-          "time": "0:16",
-          "seconds": 16
-        }
-      ],
-      "official": "https://glincoffee.jp/pages/company",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_dd7e46911c2680ca"
-        ],
-        "status": "relocated",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/glincoffee+Nariyukika+1+Do/data=!4m7!3m6!1s0x6018da6184ac5555:0x58c7ba38215a44d!8m2!3d35.9246233!4d139.4850899!16s%2Fg%2F11c7sz3yw0!19sChIJVVWshGHaGGARTaQVgqN7jAU?authuser=0&hl=zh-TW&rclk=1"
-      },
-      "illustration": {
-        "image": "/art/source-library/kawagoe--p_dd7e46911c2680ca.webp",
-        "alt": "glin coffee大工町2号店的日系水彩插圖"
-      },
-      "order": 1,
-      "canonicalArea": {
-        "id": "kawagoe",
-        "name": "川越藏造老街",
-        "href": "/walks/kawagoe/"
-      },
-      "recommendation": null
-    },
-    {
       "id": "kawagoe--renkeiji",
       "order": 2,
       "name": "蓮馨寺",
@@ -93,7 +38,8 @@
         "id": "kawagoe",
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kawagoe--kumano",
@@ -131,7 +77,8 @@
         "id": "kawagoe",
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "kawagoe--taisho",
@@ -176,7 +123,8 @@
           "https://koedo.com/",
           "https://kawagoe-purin.com/"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "kawagoe--pudding",
@@ -233,7 +181,8 @@
           "https://koedo.com/",
           "https://kawagoe-purin.com/"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "kawagoe--kurazukuri",
@@ -283,7 +232,8 @@
         "id": "kawagoe",
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "kawagoe--juan",
@@ -333,7 +283,8 @@
         "id": "kawagoe",
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "kawagoe--nakaichi",
@@ -383,7 +334,8 @@
         "id": "kawagoe",
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "kawagoe--bell",
@@ -429,7 +381,8 @@
           "https://store.starbucks.co.jp/detail-1554/",
           "https://koedo.or.jp/spot_003/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "kawagoe--starbucks",
@@ -475,7 +428,8 @@
           "https://store.starbucks.co.jp/detail-1554/",
           "https://koedo.or.jp/spot_003/"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "kawagoe--osatsu",
@@ -525,7 +479,8 @@
         "id": "kawagoe",
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "kawagoe--festival",
@@ -563,7 +518,8 @@
         "id": "kawagoe",
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "kawagoe--miyako",
@@ -613,7 +569,8 @@
         "id": "kawagoe",
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "kawagoe--p_a19b544f6e31c30e",
@@ -668,7 +625,8 @@
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 13
     },
     {
       "id": "kawagoe--kashiya",
@@ -714,7 +672,8 @@
           "https://store.starbucks.co.jp/detail-1554/",
           "https://koedo.or.jp/spot_003/"
         ]
-      }
+      },
+      "displayOrder": 14
     },
     {
       "id": "kawagoe--lec",
@@ -764,7 +723,64 @@
         "id": "kawagoe",
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
-      }
+      },
+      "displayOrder": 15
+    },
+    {
+      "id": "kawagoe--p_dd7e46911c2680ca",
+      "name": "glin coffee大工町2号店",
+      "address": "埼玉県川越市連雀町27-1（影片記錄的舊址）",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中的大工町舊店址",
+      "descriptionParagraphs": [
+        "影片記錄的是 glin coffee 大工町 2 號店。品牌官方沿革確認，這間分店已在 2022 年 10 月遷往伊佐沼。",
+        "原始資料記錄的地址為 埼玉県川越市連雀町27-1（影片記錄的舊址）。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "此分店已遷移。官方沿革記載 2022 年 10 月大工町店遷往伊佐沼；保留影片收錄記錄，請勿依舊址前往用餐。",
+      "coordinate": {
+        "lat": 35.91851,
+        "lng": 139.481079,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E9%80%A3%E9%9B%80%E7%94%BA27-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "-UCmS86LwKs",
+          "title": "cafe vlog｜川 越 食 べ 歩 き グ ル メ 10 選 ／2022年保存版／猫まんま／おだんご／お蕎麦屋さん",
+          "url": "https://www.youtube.com/watch?v=-UCmS86LwKs",
+          "time": "0:16",
+          "seconds": 16
+        }
+      ],
+      "official": "https://glincoffee.jp/pages/company",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_dd7e46911c2680ca"
+        ],
+        "status": "relocated",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/glincoffee+Nariyukika+1+Do/data=!4m7!3m6!1s0x6018da6184ac5555:0x58c7ba38215a44d!8m2!3d35.9246233!4d139.4850899!16s%2Fg%2F11c7sz3yw0!19sChIJVVWshGHaGGARTaQVgqN7jAU?authuser=0&hl=zh-TW&rclk=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_dd7e46911c2680ca.webp",
+        "alt": "glin coffee大工町2号店的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kawagoe",
+        "name": "川越藏造老街",
+        "href": "/walks/kawagoe/"
+      },
+      "recommendation": null,
+      "displayOrder": null
     }
   ],
   "routes": [
@@ -883,7 +899,6 @@
     "unlocated": 0,
     "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_dd7e46911c2680ca",
       "p_31a251818b6b1971",
       "p_95a5a590370fac08",
       "p_e6320c92bf9396d4",
@@ -891,9 +906,11 @@
       "p_de0cfe29b90875b7",
       "p_526b39f59d4b8892",
       "p_a19b544f6e31c30e",
-      "p_1ea35e82bf4fddca"
+      "p_1ea35e82bf4fddca",
+      "p_dd7e46911c2680ca"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kawagoe",
     "name": "川越藏造老街",

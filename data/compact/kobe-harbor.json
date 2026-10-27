@@ -59,7 +59,8 @@
           "https://www.kobe-port-tower.com/",
           "https://harborland.co.jp/area_guide/umie/"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "name": "神戸ポートタワー",
@@ -106,7 +107,8 @@
           "https://www.kobe-port-tower.com/",
           "https://harborland.co.jp/area_guide/umie/"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "name": "神戸海洋博物館",
@@ -153,7 +155,8 @@
           "https://www.feel-kobe.jp/facilities/0000000144/",
           "https://kobe-maritime-museum.com/"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "name": "メリケンパーク",
@@ -200,7 +203,8 @@
           "https://www.feel-kobe.jp/facilities/0000000144/",
           "https://kobe-maritime-museum.com/"
         ]
-      }
+      },
+      "displayOrder": 4
     }
   ],
   "routes": [
@@ -310,6 +314,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "kobe-harbor",
     "name": "神戶港灣",

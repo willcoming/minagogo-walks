@@ -50,7 +50,8 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "asakusa--p_80ce7016fd4645fd",
@@ -105,7 +106,8 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "asakusa--p_3884f9d4bd99bc9a",
@@ -170,7 +172,8 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "asakusa--p_601844f1dec669fd",
@@ -246,7 +249,8 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     },
     {
       "id": "asakusa--p_61588ff8b4415633",
@@ -301,7 +305,8 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 5
     },
     {
       "id": "asakusa--p_02386fa3de3e90b4",
@@ -352,7 +357,8 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 6
     }
   ],
   "routes": [],
@@ -371,6 +377,7 @@
       "p_02386fa3de3e90b4"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "oku-asakusa",
     "name": "奧淺草",

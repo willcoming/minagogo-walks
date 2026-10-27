@@ -53,7 +53,8 @@
         "name": "三軒茶屋",
         "href": "/walks/sangenjaya/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -66,6 +67,7 @@
       "p_135871d72948e644"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "sangenjaya",
     "name": "三軒茶屋",

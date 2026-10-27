@@ -1,6 +1,6 @@
 /* Pure route/filter rules shared by the page and its drawer. */
 const WalkState = (() => {
-  const query = p => `${p.name} ${p.address}`;
+  const query = p => `${p.originalName || p.name} ${p.address}`;
   const url = (path, params) => `https://www.google.com/maps/${path}?${new URLSearchParams({api: '1', ...params})}`;
   const mapUrl = p => url('search/', {query: query(p), ...(p.googleMapsPlaceId ? {query_place_id: p.googleMapsPlaceId} : {})});
   function directions(list) {
@@ -35,8 +35,8 @@ const WalkState = (() => {
   function filterPlaces(places, chosen, filter, term) {
     const needle = term.trim().toLocaleLowerCase();
     const ordered = filter === 'selected' ? selectedPlaces(places, chosen) : places;
-    return ordered.filter(p => (filter === 'all' || (filter === 'selected' ? chosen.has(p.id) : filter === 'record' ? !!p.libraryRecord : p.group === filter))
-      && `${p.name} ${p.address} ${p.categoryLabel}`.toLocaleLowerCase().includes(needle));
+    return ordered.filter(p => (filter === 'all' || (filter === 'selected' ? chosen.has(p.id) : p.group === filter))
+      && `${p.name} ${p.originalName || ''} ${p.address} ${p.categoryLabel}`.toLocaleLowerCase().includes(needle));
   }
   const selectedPlaces = (places, chosen) => [...chosen].map(id => places.find(p => p.id === id)).filter(Boolean);
   function move(chosen, id, offset) {

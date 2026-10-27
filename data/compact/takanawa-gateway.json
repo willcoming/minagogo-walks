@@ -53,7 +53,8 @@
         "name": "高輪Gateway",
         "href": "/walks/takanawa-gateway/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -66,6 +67,7 @@
       "p_16bf5a9d7743a0e1"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "takanawa-gateway",
     "name": "高輪Gateway",

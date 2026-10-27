@@ -48,7 +48,8 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "asakusa--p_ad9b609d7d486246",
@@ -125,7 +126,8 @@
           "https://www.kappabashi.or.jp/shops/117/"
         ]
       },
-      "recommendation": "依紅鶴當日店頭預約時段用餐，先確認名額與訂金規則。"
+      "recommendation": "依紅鶴當日店頭預約時段用餐，先確認名額與訂金規則。",
+      "displayOrder": 2
     },
     {
       "id": "asakusa--p_c2bc8a559c049512",
@@ -178,7 +180,8 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "asakusa--p_03b06522b228de6a",
@@ -229,7 +232,8 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     },
     {
       "id": "asakusa--p_cc07870cb0906223",
@@ -290,7 +294,8 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 5
     },
     {
       "id": "asakusa--p_cf12a75d54630bf8",
@@ -350,7 +355,8 @@
           "http://www.cafeotonova.net/"
         ]
       },
-      "recommendation": "轉進西淺草巷弄，在 Otonova 留一段咖啡時間。"
+      "recommendation": "轉進西淺草巷弄，在 Otonova 留一段咖啡時間。",
+      "displayOrder": 6
     },
     {
       "id": "asakusa--p_54b927a85af07aef",
@@ -409,7 +415,8 @@
           "https://www.kappabashi.or.jp/shops/117/"
         ]
       },
-      "recommendation": "在 Union 咖啡豆店看豆款與香氣，當作外帶購物停留。"
+      "recommendation": "在 Union 咖啡豆店看豆款與香氣，當作外帶購物停留。",
+      "displayOrder": 7
     },
     {
       "id": "asakusa--p_58381eaff27a2e6d",
@@ -458,7 +465,8 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 8
     },
     {
       "id": "asakusa--p_631cc84f7ca598c6",
@@ -510,7 +518,8 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 9
     },
     {
       "id": "asakusa--p_e6d53140c027e6ef",
@@ -570,7 +579,8 @@
           "http://www.cafeotonova.net/"
         ]
       },
-      "recommendation": "到馬嶋屋看看烘焙模具，購物量依行李空間取捨。"
+      "recommendation": "到馬嶋屋看看烘焙模具，購物量依行李空間取捨。",
+      "displayOrder": 10
     },
     {
       "id": "asakusa--p_2c2d8618572883d6",
@@ -630,7 +640,8 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 11
     },
     {
       "id": "asakusa--p_0c9c659b6d86b287",
@@ -690,7 +701,8 @@
           "http://www.cafeotonova.net/"
         ]
       },
-      "recommendation": "從田窯的陶器開始逛道具街，挑喜歡的日用器皿。"
+      "recommendation": "從田窯的陶器開始逛道具街，挑喜歡的日用器皿。",
+      "displayOrder": 12
     }
   ],
   "routes": [
@@ -814,6 +826,7 @@
       "p_0c9c659b6d86b287"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kappabashi",
     "name": "合羽橋・西淺草",

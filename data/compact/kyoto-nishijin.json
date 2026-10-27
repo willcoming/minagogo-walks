@@ -44,7 +44,8 @@
           "https://www.raku-yaki.or.jp/museum/index.html",
           "https://www.kyoto-kankou.or.jp/info_search/3624"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kyoto-nishijin--seimei",
@@ -90,7 +91,8 @@
           "https://nishijin.or.jp/nishijin_textile_center/",
           "https://www.tsuruyayoshinobu.jp/shop/head"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "kyoto-nishijin--textile",
@@ -136,7 +138,8 @@
           "https://nishijin.or.jp/nishijin_textile_center/",
           "https://www.tsuruyayoshinobu.jp/shop/head"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "kyoto-nishijin--tsuruya",
@@ -182,7 +185,8 @@
           "https://nishijin.or.jp/nishijin_textile_center/",
           "https://www.tsuruyayoshinobu.jp/shop/head"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "kyoto-nishijin--shiramine",
@@ -220,7 +224,8 @@
         "id": "kyoto-nishijin",
         "name": "西陣・千兩辻",
         "href": "/walks/kyoto-nishijin/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "kyoto-nishijin--archaeology",
@@ -265,7 +270,8 @@
           "https://www.raku-yaki.or.jp/museum/index.html",
           "https://www.kyoto-kankou.or.jp/info_search/3624"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "kyoto-nishijin--tondaya",
@@ -303,7 +309,8 @@
         "id": "kyoto-nishijin",
         "name": "西陣・千兩辻",
         "href": "/walks/kyoto-nishijin/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "kyoto-nishijin--honryuji",
@@ -341,7 +348,8 @@
         "id": "kyoto-nishijin",
         "name": "西陣・千兩辻",
         "href": "/walks/kyoto-nishijin/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "kyoto-nishijin--uhoin",
@@ -379,7 +387,8 @@
         "id": "kyoto-nishijin",
         "name": "西陣・千兩辻",
         "href": "/walks/kyoto-nishijin/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "kyoto-nishijin--p_45e861ebd5eb6745",
@@ -430,7 +439,8 @@
         "name": "西陣・千兩辻",
         "href": "/walks/kyoto-nishijin/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 10
     },
     {
       "id": "kyoto-nishijin--p_48a2680d743537ba",
@@ -481,7 +491,8 @@
         "name": "西陣・千兩辻",
         "href": "/walks/kyoto-nishijin/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 11
     }
   ],
   "routes": [
@@ -598,6 +609,7 @@
       "p_48a2680d743537ba"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kyoto-nishijin",
     "name": "西陣・千兩辻",

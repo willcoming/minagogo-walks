@@ -37,7 +37,8 @@
         "id": "otsu",
         "name": "大津百町・濱大津",
         "href": "/walks/otsu/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "otsu--betsuin",
@@ -75,7 +76,8 @@
         "id": "otsu",
         "name": "大津百町・濱大津",
         "href": "/walks/otsu/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "otsu--park",
@@ -113,7 +115,8 @@
         "id": "otsu",
         "name": "大津百町・濱大津",
         "href": "/walks/otsu/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "otsu--hall",
@@ -151,7 +154,8 @@
         "id": "otsu",
         "name": "大津百町・濱大津",
         "href": "/walks/otsu/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "otsu--port",
@@ -197,7 +201,8 @@
           "https://www.tikaramoti.jp/item/",
           "https://www.biwakokisen.co.jp/access/otsu/"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "otsu--mochi",
@@ -243,7 +248,8 @@
           "https://www.tikaramoti.jp/item/",
           "https://www.biwakokisen.co.jp/access/otsu/"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "otsu--hikiyama",
@@ -289,7 +295,8 @@
           "https://www.tikaramoti.jp/item/",
           "https://www.biwakokisen.co.jp/access/otsu/"
         ]
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "otsu--arcade",
@@ -335,7 +342,8 @@
           "https://kanou.com/gnaviplus/store/",
           "https://otsu.or.jp/thingstodo/spot52"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "otsu--kanou",
@@ -381,7 +389,8 @@
           "https://kanou.com/gnaviplus/store/",
           "https://otsu.or.jp/thingstodo/spot52"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "otsu--otsue",
@@ -427,7 +436,8 @@
           "https://kanou.com/gnaviplus/store/",
           "https://otsu.or.jp/thingstodo/spot52"
         ]
-      }
+      },
+      "displayOrder": 10
     }
   ],
   "routes": [
@@ -541,6 +551,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "otsu",
     "name": "大津百町・濱大津",

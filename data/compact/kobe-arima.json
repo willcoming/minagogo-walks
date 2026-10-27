@@ -46,7 +46,8 @@
           "https://www.arima-onsen.com/pickup/47/515/",
           "https://www.arima-onsen.com/pickup/35/535/"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kobe-arima--gin",
@@ -85,7 +86,8 @@
         "id": "kobe-arima",
         "name": "有馬溫泉街",
         "href": "/walks/kobe-arima/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "kobe-arima--tosen",
@@ -124,7 +126,8 @@
         "id": "kobe-arima",
         "name": "有馬溫泉街",
         "href": "/walks/kobe-arima/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "kobe-arima--onsenji",
@@ -171,7 +174,8 @@
           "https://www.arima-onsen.com/pickup/47/515/",
           "https://www.arima-onsen.com/pickup/35/535/"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "kobe-arima--nenbutsuji",
@@ -218,7 +222,8 @@
           "https://www.arima-onsen.com/pickup/47/515/",
           "https://www.arima-onsen.com/pickup/35/535/"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "kobe-arima--onsendo",
@@ -264,7 +269,8 @@
           "https://tansan.co.jp/shop/",
           "https://www.arima-onsen.com/pickup/38/1390/"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "kobe-arima--mitsumori",
@@ -310,7 +316,8 @@
           "https://tansan.co.jp/shop/",
           "https://www.arima-onsen.com/pickup/38/1390/"
         ]
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "kobe-arima--kin",
@@ -349,7 +356,8 @@
         "id": "kobe-arima",
         "name": "有馬溫泉街",
         "href": "/walks/kobe-arima/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "kobe-arima--toys",
@@ -396,7 +404,8 @@
           "https://tansan.co.jp/shop/",
           "https://www.arima-onsen.com/pickup/38/1390/"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "kobe-arima--zenpukuji",
@@ -435,7 +444,8 @@
         "id": "kobe-arima",
         "name": "有馬溫泉街",
         "href": "/walks/kobe-arima/"
-      }
+      },
+      "displayOrder": 10
     }
   ],
   "routes": [
@@ -559,6 +569,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "kobe-arima",
     "name": "有馬溫泉街",

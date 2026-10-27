@@ -47,7 +47,8 @@
         "id": "kobe-motomachi",
         "name": "神戶元町・舊居留地",
         "href": "/walks/kobe-motomachi/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "name": "神戸市立博物館",
@@ -97,7 +98,8 @@
           "https://www.montplus.com/",
           "https://kobecitymuseum.jp/"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "name": "KOBEとんぼ玉ミュージアム",
@@ -143,7 +145,8 @@
           "https://feelseen.jp/pages/store",
           "https://lampwork-museum.com/"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "name": "大丸神戸店",
@@ -182,7 +185,8 @@
         "id": "kobe-motomachi",
         "name": "神戶元町・舊居留地",
         "href": "/walks/kobe-motomachi/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "name": "ユーハイム 神戸元町本店",
@@ -221,7 +225,8 @@
         "id": "kobe-motomachi",
         "name": "神戶元町・舊居留地",
         "href": "/walks/kobe-motomachi/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "name": "エストローヤル 南京町本店",
@@ -259,7 +264,8 @@
         "id": "kobe-motomachi",
         "name": "神戶元町・舊居留地",
         "href": "/walks/kobe-motomachi/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "name": "南京町（廣場周邊）",
@@ -306,7 +312,8 @@
           "https://www.montplus.com/",
           "https://kobecitymuseum.jp/"
         ]
-      }
+      },
+      "displayOrder": 7
     },
     {
       "name": "観音屋 元町本店",
@@ -356,7 +363,8 @@
           "https://feelseen.jp/pages/store",
           "https://lampwork-museum.com/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "name": "パティスリー モンプリュ 本店",
@@ -402,7 +410,8 @@
           "https://www.montplus.com/",
           "https://kobecitymuseum.jp/"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "name": "FEELSEEN KOBE",
@@ -460,7 +469,8 @@
           "https://feelseen.jp/pages/store",
           "https://lampwork-museum.com/"
         ]
-      }
+      },
+      "displayOrder": 10
     }
   ],
   "routes": [
@@ -584,6 +594,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "kobe-motomachi",
     "name": "神戶元町・舊居留地",

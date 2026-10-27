@@ -51,7 +51,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "asakusa--p_75025032e8267add",
@@ -106,7 +107,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "asakusa--p_40381e21c85f35e6",
@@ -163,7 +165,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "asakusa--p_e14582b459ac1a42",
@@ -214,7 +217,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     },
     {
       "id": "asakusa--p_350bb093084df1c6",
@@ -265,7 +269,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 5
     },
     {
       "id": "asakusa--p_e75994d817aa0aaf",
@@ -320,7 +325,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 6
     },
     {
       "id": "asakusa--funawa",
@@ -391,7 +397,8 @@
         "id": "asakusa",
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "asakusa--p_41e6f96fb1d39e25",
@@ -442,7 +449,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 8
     },
     {
       "id": "asakusa--p_02d0f3597385882a",
@@ -493,7 +501,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 9
     },
     {
       "id": "asakusa--p_ff49a9834d92713c",
@@ -559,7 +568,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 10
     },
     {
       "id": "asakusa--p_3b64a1e92e15f371",
@@ -614,7 +624,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 11
     },
     {
       "id": "asakusa--p_7e60fe837ec49422",
@@ -669,7 +680,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 12
     },
     {
       "id": "asakusa--p_2513c195c1d1979a",
@@ -724,7 +736,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 13
     },
     {
       "id": "asakusa--p_9122103f19b6d294",
@@ -773,7 +786,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 14
     },
     {
       "id": "asakusa--p_dca08acdaf76c016",
@@ -822,7 +836,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 15
     },
     {
       "id": "asakusa--p_39c3c18c8c60342f",
@@ -871,7 +886,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 16
     },
     {
       "id": "asakusa--umezono",
@@ -929,7 +945,8 @@
         "id": "asakusa",
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
-      }
+      },
+      "displayOrder": 17
     },
     {
       "id": "asakusa--p_a87d13be6ca5b0a4",
@@ -980,7 +997,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 18
     },
     {
       "id": "asakusa--p_7e64e7c7e5a6ba82",
@@ -1029,7 +1047,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 19
     },
     {
       "id": "asakusa--p_78a4820290243e28",
@@ -1086,7 +1105,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 20
     },
     {
       "id": "asakusa--p_45c75a3a0c9749ad",
@@ -1135,7 +1155,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 21
     },
     {
       "id": "asakusa--temple",
@@ -1209,7 +1230,8 @@
           "https://www.senso-ji.jp/",
           "https://www.instagram.com/coffee_tengoku/"
         ]
-      }
+      },
+      "displayOrder": 22
     },
     {
       "id": "asakusa--shrine",
@@ -1259,7 +1281,8 @@
         "id": "asakusa",
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
-      }
+      },
+      "displayOrder": 23
     },
     {
       "id": "asakusa--kimuraya",
@@ -1316,7 +1339,8 @@
         "id": "asakusa",
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
-      }
+      },
+      "displayOrder": 24
     },
     {
       "id": "asakusa--p_91acb113c6c90210",
@@ -1365,7 +1389,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 25
     },
     {
       "id": "asakusa--p_1689499bb89f1713",
@@ -1420,7 +1445,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 26
     },
     {
       "id": "asakusa--p_8c7d4bfcb11416a6",
@@ -1471,7 +1497,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 27
     },
     {
       "id": "asakusa--p_f378645a09727e4f",
@@ -1522,7 +1549,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 28
     },
     {
       "id": "asakusa--p_8c860a07786a3ae4",
@@ -1573,7 +1601,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 29
     },
     {
       "id": "asakusa--nakamise",
@@ -1635,7 +1664,8 @@
           "https://www.asakusa-nakamise.jp/about/index.html",
           "https://www.city.taito.lg.jp/bunka_kanko/tiikidentou/tradition/kogeikan/index.html"
         ]
-      }
+      },
+      "displayOrder": 30
     },
     {
       "id": "asakusa--p_25857f2c87705829",
@@ -1686,7 +1716,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 31
     },
     {
       "id": "asakusa--p_51e183cf03182b6e",
@@ -1737,7 +1768,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 32
     },
     {
       "id": "asakusa--p_17ee6864ab985de4",
@@ -1788,7 +1820,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 33
     },
     {
       "id": "asakusa--p_06d937f2f8940ee6",
@@ -1839,7 +1872,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 34
     },
     {
       "id": "asakusa--p_6a35a9a8c4960ed4",
@@ -1890,7 +1924,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 35
     },
     {
       "id": "asakusa--p_d33a03092970931d",
@@ -1941,7 +1976,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 36
     },
     {
       "id": "asakusa--p_2b265bcdb64c8826",
@@ -1999,7 +2035,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 37
     },
     {
       "id": "asakusa--p_c640420bde17b3a5",
@@ -2050,7 +2087,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 38
     },
     {
       "id": "asakusa--center",
@@ -2108,7 +2146,8 @@
           "https://www.senso-ji.jp/",
           "https://www.instagram.com/coffee_tengoku/"
         ]
-      }
+      },
+      "displayOrder": 39
     },
     {
       "id": "asakusa--p_e276e4bda0a5962e",
@@ -2163,7 +2202,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 40
     },
     {
       "id": "asakusa--p_966a9044c4d40d21",
@@ -2214,7 +2254,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 41
     },
     {
       "id": "asakusa--p_620a570ae0de97be",
@@ -2263,7 +2304,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 42
     },
     {
       "id": "asakusa--p_2d8a044bda1415f9",
@@ -2318,7 +2360,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 43
     },
     {
       "id": "asakusa--p_6e2a78d98b382be0",
@@ -2369,7 +2412,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 44
     },
     {
       "id": "asakusa--p_8b200cf83a362aa4",
@@ -2422,7 +2466,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 45
     },
     {
       "id": "asakusa--p_bbe058922ab15981",
@@ -2489,7 +2534,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 46
     },
     {
       "id": "asakusa--p_721ef98102190bf3",
@@ -2544,7 +2590,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 47
     },
     {
       "id": "asakusa--p_f9bfb91abc6f1647",
@@ -2599,7 +2646,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 48
     },
     {
       "id": "asakusa--p_cea81a337f83b15d",
@@ -2650,7 +2698,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 49
     },
     {
       "id": "asakusa--p_73fdd3dceaf82422",
@@ -2702,7 +2751,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 50
     },
     {
       "id": "asakusa--p_d96169527a0b439c",
@@ -2753,7 +2803,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 51
     },
     {
       "id": "asakusa--tengoku",
@@ -2835,7 +2886,8 @@
           "https://www.senso-ji.jp/",
           "https://www.instagram.com/coffee_tengoku/"
         ]
-      }
+      },
+      "displayOrder": 52
     },
     {
       "id": "asakusa--p_f7394e78ad4a7424",
@@ -2898,7 +2950,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 53
     },
     {
       "id": "asakusa--p_0090ef6203581d49",
@@ -2955,7 +3008,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 54
     },
     {
       "id": "asakusa--p_3c430ceeebdb5016",
@@ -3020,7 +3074,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 55
     },
     {
       "id": "asakusa--p_636b3eec37d37bf7",
@@ -3075,7 +3130,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 56
     },
     {
       "id": "asakusa--p_4ac35694f110cc77",
@@ -3147,7 +3203,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 57
     },
     {
       "id": "asakusa--p_31cbd134a95a2ea5",
@@ -3196,7 +3253,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 58
     },
     {
       "id": "asakusa--p_9b0464035e71b432",
@@ -3245,7 +3303,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 59
     },
     {
       "id": "asakusa--p_8cbf317f85bc2767",
@@ -3309,7 +3368,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 60
     },
     {
       "id": "asakusa--p_a0e7efd6cb4ad816",
@@ -3358,7 +3418,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 61
     },
     {
       "id": "asakusa--p_bce07ade4f431a5b",
@@ -3407,7 +3468,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 62
     },
     {
       "id": "asakusa--p_96c292e826cd46f3",
@@ -3456,7 +3518,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 63
     },
     {
       "id": "asakusa--craft",
@@ -3502,7 +3565,8 @@
           "https://www.asakusa-nakamise.jp/about/index.html",
           "https://www.city.taito.lg.jp/bunka_kanko/tiikidentou/tradition/kogeikan/index.html"
         ]
-      }
+      },
+      "displayOrder": 64
     },
     {
       "id": "asakusa--p_ab7a6a5209366ef3",
@@ -3557,7 +3621,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 65
     },
     {
       "id": "asakusa--p_f623b7097a99077f",
@@ -3608,7 +3673,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 66
     },
     {
       "id": "asakusa--p_374389a9fc8ad67f",
@@ -3660,7 +3726,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 67
     },
     {
       "id": "asakusa--sumida",
@@ -3718,7 +3785,8 @@
           "https://www.asakusa-nakamise.jp/about/index.html",
           "https://www.city.taito.lg.jp/bunka_kanko/tiikidentou/tradition/kogeikan/index.html"
         ]
-      }
+      },
+      "displayOrder": 68
     },
     {
       "id": "asakusa--p_9a5bf40c99333236",
@@ -3776,7 +3844,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 69
     },
     {
       "id": "asakusa--p_9a5686f72c97327f",
@@ -3820,7 +3889,8 @@
         "name": "淺草寺・雷門",
         "href": "/walks/asakusa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 70
     }
   ],
   "routes": [
@@ -4025,6 +4095,7 @@
       "p_9a5686f72c97327f"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "asakusa",
     "name": "淺草寺・雷門",
@@ -4527,15 +4598,15 @@
     {
       "id": "asakusa--p_9c6c24dfaccc3455",
       "name": "Readin’ Writin’ BOOK STORE",
-      "address": "",
+      "address": "東京都台東区寿2-4-7",
       "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "獨立書店",
+      "caption": "舊木材倉庫改成的獨立書店，從書架讀田原町。",
       "descriptionParagraphs": [
-        "「Readin’ Writin’ BOOK STORE」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "Readin’ Writin’ 是田原町的獨立書店，由舊木材倉庫改建。保留木構與挑高空間的店面，讓找書也成為觀察老建築的一段停留。",
+        "書店由前新聞記者經營，選書關注社會、人文與生活，也舉辦閱讀和對談活動。店址在壽2-4-7；活動與營業時間請依店方最新公告確認。"
       ],
-      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "note": "已核對壽2-4-7店址；本次未能讀取店家官網確認最新營業時間，請先查店方公告再前往。",
       "coordinate": {
         "lat": 35.7091529,
         "lng": 139.7898696,
@@ -4575,7 +4646,39 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "cardNotice": "營業時間待確認",
+      "description": "Readin’ Writin’ 是田原町的獨立書店，由舊木材倉庫改建。保留木構與挑高空間的店面，讓找書也成為觀察老建築的一段停留。\n\n書店由前新聞記者經營，選書關注社會、人文與生活，也舉辦閱讀和對談活動。店址在壽2-4-7；活動與營業時間請依店方最新公告確認。",
+      "placeReview": {
+        "checkedAt": "2026-10-26",
+        "sources": [
+          {
+            "url": "https://www.174kenchiku.net/readin",
+            "title": "174 architects｜Readin Writin 改裝設計",
+            "result": "木材倉庫改為書店的一手建築紀錄。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://www.bunkanews.jp/article/265279/",
+            "title": "文化通信｜店主落合博署名文章",
+            "result": "店主背景、選書與壽2-4-7店址。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://findmy.tokyo/challenge/228",
+            "title": "東京Metro｜書店活動介紹",
+            "result": "交叉核對同一家店的名稱與店址。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://readinwritin.net/",
+            "title": "Readin Writin｜店家官網",
+            "result": "讀取逾時；不作為可正常營業的證據。",
+            "checkedAt": "2026-10-26"
+          }
+        ],
+        "findings": "建築師的原始作品紀錄確認木材倉庫改裝；店主署名文章與東京Metro店家介紹均列壽2-4-7。官網https://readinwritin.net/兩次逾時，未據此判定閉店；不將歷史營業時間寫成現況。非餐飲店，使用建築師與店主的一手資料。"
+      }
     },
     {
       "id": "asakusa--p_0c9c659b6d86b287",

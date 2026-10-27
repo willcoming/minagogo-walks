@@ -50,7 +50,8 @@
         "name": "本所吾妻橋・東駒形",
         "href": "/walks/azumabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "asakusa--p_0a9cb4ab0253b5e8",
@@ -113,7 +114,8 @@
         "name": "本所吾妻橋・東駒形",
         "href": "/walks/azumabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "kuramae--p_c55e83fd1938ebd0",
@@ -164,7 +166,8 @@
         "name": "本所吾妻橋・東駒形",
         "href": "/walks/azumabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     }
   ],
   "defaultSelection": null,
@@ -178,6 +181,7 @@
       "p_c55e83fd1938ebd0"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "azumabashi",
     "name": "本所吾妻橋・東駒形",

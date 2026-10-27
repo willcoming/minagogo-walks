@@ -2,51 +2,47 @@
   "updatedAt": "2026-10-26",
   "places": [
     {
-      "id": "jiyugaoka--p_02a9b798f688b70f",
-      "name": "Relief coffee stand",
-      "address": "東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F",
-      "group": "food",
-      "categoryLabel": "咖啡",
+      "id": "jiyugaoka--p_caef28ea72e47439",
+      "name": "アルチザン・ブーランジェ・クピド",
+      "address": "東京都世田谷区奥沢3丁目45−2",
+      "group": "sights",
+      "categoryLabel": "交通",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「Relief coffee stand」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「アルチザン・ブーランジェ・クピド」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢3丁目45−2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.599781,
-        "lng": 139.669693,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24-4-7",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+        "lat": 35.603439,
+        "lng": 139.673859,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
           "channel": "Tokyo Cafe Channel",
-          "videoId": "ZtNSe_zKHfw",
-          "title": "【NEW】東京新店舗カフェ10選～2025年下半期☕✨銀座／表参道／新宿／高輪etc.",
-          "url": "https://www.youtube.com/watch?v=ZtNSe_zKHfw",
-          "time": "17:06",
-          "seconds": 1026
+          "videoId": "yUgM36GeGwo",
+          "title": "【東京・パン屋】バターたっぷり！デニッシュが美味しいベーカリー特集８選！８danish pastries",
+          "url": "https://www.youtube.com/watch?v=yUgM36GeGwo",
+          "time": "09:15",
+          "seconds": 555
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_02a9b798f688b70f"
+          "p_caef28ea72e47439"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": true,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Relief+coffee+stand+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24-4-7+%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%E3%83%84%E5%A5%A5%E6%B2%A2+1F"
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%81%E3%82%B6%E3%83%B3%E3%83%BB%E3%83%96%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%BB%E3%82%AF%E3%83%94%E3%83%89+%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%94%EF%BC%95%E2%88%92%EF%BC%92+%E5%A5%A5%E6%B2%A2%E9%A7%85+%E5%BE%92%E6%AD%A9%EF%BC%93%E5%88%86"
       },
       "illustration": {
-        "image": "/art/source-library/jiyugaoka--p_02a9b798f688b70f.webp",
-        "alt": "Relief coffee stand的日系水彩插圖"
+        "image": "/art/source-library/jiyugaoka--p_caef28ea72e47439.webp",
+        "alt": "アルチザン・ブーランジェ・クピド的日系水彩插圖"
       },
       "order": 1,
       "canonicalArea": {
@@ -54,7 +50,8 @@
         "name": "奧澤",
         "href": "/walks/okusawa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "jiyugaoka--p_192e7685627626d7",
@@ -109,7 +106,64 @@
         "name": "奧澤",
         "href": "/walks/okusawa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
+    },
+    {
+      "id": "jiyugaoka--p_02a9b798f688b70f",
+      "name": "Relief coffee stand",
+      "address": "東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Relief coffee stand」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.599781,
+        "lng": 139.669693,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24-4-7",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "ZtNSe_zKHfw",
+          "title": "【NEW】東京新店舗カフェ10選～2025年下半期☕✨銀座／表参道／新宿／高輪etc.",
+          "url": "https://www.youtube.com/watch?v=ZtNSe_zKHfw",
+          "time": "17:06",
+          "seconds": 1026
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_02a9b798f688b70f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Relief+coffee+stand+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A24-4-7+%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%8F%E3%82%A4%E3%83%84%E5%A5%A5%E6%B2%A2+1F"
+      },
+      "illustration": {
+        "image": "/art/source-library/jiyugaoka--p_02a9b798f688b70f.webp",
+        "alt": "Relief coffee stand的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "okusawa",
+        "name": "奧澤",
+        "href": "/walks/okusawa/"
+      },
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "jiyugaoka--p_bb6b140592115737",
@@ -155,74 +209,30 @@
         "image": "/art/source-library/jiyugaoka--p_bb6b140592115737.webp",
         "alt": "茶房牡丹 (Sabou Botan)的日系水彩插圖"
       },
-      "order": 3,
-      "canonicalArea": {
-        "id": "okusawa",
-        "name": "奧澤",
-        "href": "/walks/okusawa/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "jiyugaoka--p_caef28ea72e47439",
-      "name": "アルチザン・ブーランジェ・クピド",
-      "address": "世田谷区奥沢３丁目４５−２ 奥沢駅 徒歩３分",
-      "group": "sights",
-      "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「アルチザン・ブーランジェ・クピド」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 世田谷区奥沢３丁目４５−２ 奥沢駅 徒歩３分。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
-      "coordinate": null,
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "yUgM36GeGwo",
-          "title": "【東京・パン屋】バターたっぷり！デニッシュが美味しいベーカリー特集８選！８danish pastries",
-          "url": "https://www.youtube.com/watch?v=yUgM36GeGwo",
-          "time": "09:15",
-          "seconds": 555
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_caef28ea72e47439"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%81%E3%82%B6%E3%83%B3%E3%83%BB%E3%83%96%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%BB%E3%82%AF%E3%83%94%E3%83%89+%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%94%EF%BC%95%E2%88%92%EF%BC%92+%E5%A5%A5%E6%B2%A2%E9%A7%85+%E5%BE%92%E6%AD%A9%EF%BC%93%E5%88%86"
-      },
-      "illustration": {
-        "image": "/art/source-library/jiyugaoka--p_caef28ea72e47439.webp",
-        "alt": "アルチザン・ブーランジェ・クピド的日系水彩插圖"
-      },
       "order": 4,
       "canonicalArea": {
         "id": "okusawa",
         "name": "奧澤",
         "href": "/walks/okusawa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     }
   ],
   "routes": [],
   "defaultSelection": null,
   "libraryCoverage": {
     "added": 4,
-    "unlocated": 1,
+    "unlocated": 0,
     "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_02a9b798f688b70f",
+      "p_caef28ea72e47439",
       "p_192e7685627626d7",
-      "p_bb6b140592115737",
-      "p_caef28ea72e47439"
+      "p_02a9b798f688b70f",
+      "p_bb6b140592115737"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "okusawa",
     "name": "奧澤",

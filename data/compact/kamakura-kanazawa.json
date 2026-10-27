@@ -51,7 +51,8 @@
         "name": "鎌倉金澤街道",
         "href": "/walks/kamakura-kanazawa/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -64,6 +65,7 @@
       "p_bb6644f3a9ca0e14"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kamakura-kanazawa",
     "name": "鎌倉金澤街道",

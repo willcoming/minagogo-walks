@@ -49,7 +49,8 @@
         "id": "kyoto-gosho-west",
         "name": "京都御苑西側",
         "href": "/walks/kyoto-gosho-west/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kyoto-nishijin--p_b68dd810244524bc",
@@ -100,7 +101,8 @@
         "name": "京都御苑西側",
         "href": "/walks/kyoto-gosho-west/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     }
   ],
   "routes": [],
@@ -114,6 +116,7 @@
       "p_b68dd810244524bc"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kyoto-gosho-west",
     "name": "京都御苑西側",

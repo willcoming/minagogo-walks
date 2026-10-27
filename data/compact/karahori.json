@@ -38,7 +38,8 @@
         "id": "karahori",
         "name": "空堀",
         "href": "/walks/karahori/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "name": "空堀・惣",
@@ -87,7 +88,8 @@
           "https://www.so-karahori.com/",
           "https://www.ek-chuah.co.jp/user_data/shop_honten.php"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "name": "十五番だんご＆カフェ 空堀本店",
@@ -125,7 +127,8 @@
         "id": "karahori",
         "name": "空堀",
         "href": "/walks/karahori/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "name": "冨紗家 本店",
@@ -167,7 +170,8 @@
         "id": "karahori",
         "name": "空堀",
         "href": "/walks/karahori/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "name": "趣佳",
@@ -213,7 +217,8 @@
           "https://www.so-karahori.com/",
           "https://www.ek-chuah.co.jp/user_data/shop_honten.php"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "name": "結音茶舗",
@@ -259,7 +264,8 @@
           "https://www.kami-emoji.com/product/",
           "https://yui-on.jp/"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "name": "書肆喫茶mori",
@@ -298,7 +304,8 @@
         "id": "karahori",
         "name": "空堀",
         "href": "/walks/karahori/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "name": "紙匠雑貨エモジ",
@@ -344,7 +351,8 @@
           "https://www.kami-emoji.com/product/",
           "https://yui-on.jp/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "name": "旧ヤム邸 空堀店",
@@ -383,7 +391,8 @@
         "id": "karahori",
         "name": "空堀",
         "href": "/walks/karahori/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "name": "こんぶ土居",
@@ -429,7 +438,8 @@
           "https://www.kami-emoji.com/product/",
           "https://yui-on.jp/"
         ]
-      }
+      },
+      "displayOrder": 10
     },
     {
       "name": "大阪昆布ミュージアム",
@@ -467,7 +477,8 @@
         "id": "karahori",
         "name": "空堀",
         "href": "/walks/karahori/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "name": "空堀商店街",
@@ -508,7 +519,8 @@
         "id": "karahori",
         "name": "空堀",
         "href": "/walks/karahori/"
-      }
+      },
+      "displayOrder": 12
     },
     {
       "name": "直木三十五記念館",
@@ -551,7 +563,8 @@
         "id": "karahori",
         "name": "空堀",
         "href": "/walks/karahori/"
-      }
+      },
+      "displayOrder": 13
     },
     {
       "name": "榎木大明神・直木三十五文学碑",
@@ -590,7 +603,8 @@
         "id": "karahori",
         "name": "空堀",
         "href": "/walks/karahori/"
-      }
+      },
+      "displayOrder": 14
     },
     {
       "name": "エクチュア からほり「蔵」本店",
@@ -641,7 +655,8 @@
           "https://www.so-karahori.com/",
           "https://www.ek-chuah.co.jp/user_data/shop_honten.php"
         ]
-      }
+      },
+      "displayOrder": 15
     }
   ],
   "routes": [
@@ -765,6 +780,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "karahori",
     "name": "空堀",

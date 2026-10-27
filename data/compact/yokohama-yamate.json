@@ -54,7 +54,8 @@
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "yokohama-yamate--harbor",
@@ -100,7 +101,8 @@
           "https://www.enokitei.co.jp/",
           "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "yokohama-yamate--111",
@@ -138,7 +140,8 @@
         "id": "yokohama-yamate",
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "yokohama-yamate--british",
@@ -176,7 +179,8 @@
         "id": "yokohama-yamate",
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "yokohama-yamate--234",
@@ -222,7 +226,8 @@
           "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/",
           "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "yokohama-yamate--enoki",
@@ -268,7 +273,8 @@
           "https://www.enokitei.co.jp/",
           "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "yokohama-yamate--berrick",
@@ -306,7 +312,8 @@
         "id": "yokohama-yamate",
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "yokohama-yamate--bakery",
@@ -362,7 +369,8 @@
           "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/",
           "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "yokohama-yamate--p_57f1a52b47d1ba4a",
@@ -417,7 +425,8 @@
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 9
     },
     {
       "id": "yokohama-yamate--ehrismann",
@@ -463,7 +472,8 @@
           "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/ehrismann/",
           "https://www.hama-midorinokyokai.or.jp/yamate-seiyoukan/yamate234/"
         ]
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "yokohama-yamate--p_b3d245cdcbf889b5",
@@ -516,7 +526,8 @@
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 11
     },
     {
       "id": "yokohama-yamate--p_b20acc0524974fa7",
@@ -569,7 +580,8 @@
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 12
     },
     {
       "id": "yokohama-yamate--p_c82e714384da856a",
@@ -631,60 +643,8 @@
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
       },
-      "recommendation": null
-    },
-    {
-      "id": "yokohama-yamate--p_02440d83989ca1ae",
-      "name": "クレープドン（閉店紀錄）",
-      "address": "神奈川県横浜市中区元町1-13",
-      "group": "food",
-      "categoryLabel": "可麗餅",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "保留元町可麗餅店クレープドン的歷史影片與店招風景。",
-        "原始資料記錄的地址為 神奈川県横浜市中区元町1-13。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "在地報導記載此店已於2023年2月28日閉店；此為歷史紀錄，不列入導航。",
-      "coordinate": {
-        "lat": 35.441593,
-        "lng": 139.650635,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-13",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "sZdTatptBvs",
-          "title": "cafe vlog｜横浜中華街グルメ／食べ歩き／小籠包／北京ダック／肉まん／スイーツ",
-          "url": "https://www.youtube.com/watch?v=sZdTatptBvs"
-        }
-      ],
-      "official": "https://tabelog.com/kanagawa/A1401/A140105/14023297/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_02440d83989ca1ae"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%BB%E3%83%89%E3%83%B3+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-13"
-      },
-      "illustration": {
-        "image": "/art/source-library/yokohama-yamate--p_02440d83989ca1ae.webp",
-        "alt": "クレープドン（閉店紀錄）的日系水彩插圖"
-      },
-      "order": 14,
-      "canonicalArea": {
-        "id": "yokohama-yamate",
-        "name": "橫濱山手・元町",
-        "href": "/walks/yokohama-yamate/"
-      },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 13
     },
     {
       "id": "yokohama-yamate--p_db1e1714bc57df22",
@@ -737,7 +697,8 @@
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 14
     },
     {
       "id": "yokohama-yamate--bluff18",
@@ -775,7 +736,8 @@
         "id": "yokohama-yamate",
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
-      }
+      },
+      "displayOrder": 15
     },
     {
       "id": "yokohama-yamate--gaikokan",
@@ -821,7 +783,8 @@
           "https://www.enokitei.co.jp/",
           "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen007.html"
         ]
-      }
+      },
+      "displayOrder": 16
     },
     {
       "id": "yokohama-yamate--italia",
@@ -859,7 +822,8 @@
         "id": "yokohama-yamate",
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
-      }
+      },
+      "displayOrder": 17
     },
     {
       "id": "yokohama-yamate--p_f218e8cd0dcd9018",
@@ -912,7 +876,8 @@
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 18
     },
     {
       "id": "yokohama-yamate--p_c80f8af50707b75e",
@@ -958,7 +923,62 @@
         "name": "橫濱山手・元町",
         "href": "/walks/yokohama-yamate/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 19
+    },
+    {
+      "id": "yokohama-yamate--p_02440d83989ca1ae",
+      "name": "クレープドン（閉店紀錄）",
+      "address": "神奈川県横浜市中区元町1-13",
+      "group": "food",
+      "categoryLabel": "可麗餅",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "保留元町可麗餅店クレープドン的歷史影片與店招風景。",
+        "原始資料記錄的地址為 神奈川県横浜市中区元町1-13。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "在地報導記載此店已於2023年2月28日閉店；此為歷史紀錄，不列入導航。",
+      "coordinate": {
+        "lat": 35.441593,
+        "lng": 139.650635,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-13",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院地番代表點，非指定店面入口；同址樓層可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "sZdTatptBvs",
+          "title": "cafe vlog｜横浜中華街グルメ／食べ歩き／小籠包／北京ダック／肉まん／スイーツ",
+          "url": "https://www.youtube.com/watch?v=sZdTatptBvs"
+        }
+      ],
+      "official": "https://tabelog.com/kanagawa/A1401/A140105/14023297/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_02440d83989ca1ae"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%BB%E3%83%89%E3%83%B3+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%85%83%E7%94%BA1-13"
+      },
+      "illustration": {
+        "image": "/art/source-library/yokohama-yamate--p_02440d83989ca1ae.webp",
+        "alt": "クレープドン（閉店紀錄）的日系水彩插圖"
+      },
+      "order": 14,
+      "canonicalArea": {
+        "id": "yokohama-yamate",
+        "name": "橫濱山手・元町",
+        "href": "/walks/yokohama-yamate/"
+      },
+      "recommendation": null,
+      "displayOrder": null
     }
   ],
   "routes": [
@@ -1090,12 +1110,13 @@
       "p_b20acc0524974fa7",
       "p_c82e714384da856a",
       "p_ce83ccc48085b801",
-      "p_02440d83989ca1ae",
       "p_db1e1714bc57df22",
       "p_f218e8cd0dcd9018",
-      "p_c80f8af50707b75e"
+      "p_c80f8af50707b75e",
+      "p_02440d83989ca1ae"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "yokohama-yamate",
     "name": "橫濱山手・元町",

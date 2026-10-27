@@ -38,7 +38,8 @@
         "name": "足利公園周邊",
         "href": "/walks/ashikaga-park/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -49,6 +50,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "ashikaga-park",
     "name": "足利公園周邊",

@@ -889,14 +889,14 @@
       ],
       "note": null,
       "coordinate": {
-        "lat": 35.314812,
-        "lng": 139.552155,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%A4%A7%E7%94%BA2%E4%B8%81%E7%9B%AE2%E2%88%9234%E3%83%BC1",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+        "lat": 35.314763,
+        "lng": 139.552172,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%A2%E3%83%AA%E3%83%83%E3%82%AF/@35.314763,139.552172,17z/data=!3m1!4b1!4m6!3m5!1s0x601845dcb60faadf:0x6f01d673a152e710!8m2!3d35.314763!4d139.552172!16s%2Fg%2F1tj45wh9?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "shopUrl": "https://tabelog.com/kanagawa/A1404/A140402/14002237/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
       },
       "sources": [
         {
@@ -917,7 +917,7 @@
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%A2%E3%83%AA%E3%83%83%E3%82%AF+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%A4%A7%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92%E2%88%9234%EF%BD%B01"
+        "mapUrl": "https://www.google.com/maps/place/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%A2%E3%83%AA%E3%83%83%E3%82%AF/@35.314763,139.552172,17z/data=!3m1!4b1!4m6!3m5!1s0x601845dcb60faadf:0x6f01d673a152e710!8m2!3d35.314763!4d139.552172!16s%2Fg%2F1tj45wh9?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "illustration": {
         "image": "/art/source-library/kamakura--p_3dcb05e906f51004.webp",

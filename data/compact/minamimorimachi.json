@@ -53,7 +53,8 @@
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "osaka-tenma--p_27a8fd777f23578d",
@@ -107,7 +108,8 @@
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "osaka-tenma--p_e3738d31a2438ec1",
@@ -163,7 +165,8 @@
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "osaka-tenma--p_465fbe52caf5a842",
@@ -219,7 +222,8 @@
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     },
     {
       "id": "osaka-tenma--arcade",
@@ -267,7 +271,8 @@
           "https://osaka-info.jp/experience/ja/osaka/spot/261",
           "https://www.osakachakai.jp/shop/"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "osaka-tenma--wagashi",
@@ -313,7 +318,8 @@
           "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
           "https://www.tenjin123.com/takeout/"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "osaka-tenma--nakamura",
@@ -351,7 +357,8 @@
         "id": "minamimorimachi",
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "osaka-tenma--cha",
@@ -399,7 +406,8 @@
           "https://osaka-info.jp/experience/ja/osaka/spot/261",
           "https://www.osakachakai.jp/shop/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "osaka-tenma--hanjotei",
@@ -437,7 +445,8 @@
         "id": "minamimorimachi",
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "osaka-tenma--temmangu",
@@ -495,7 +504,8 @@
           "https://osaka-info.jp/experience/ja/osaka/spot/261",
           "https://www.osakachakai.jp/shop/"
         ]
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "osaka-tenma--p_8d389b499ace1d13",
@@ -549,7 +559,8 @@
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 11
     },
     {
       "id": "osaka-tenma--southpark",
@@ -595,7 +606,8 @@
           "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
           "https://www.tenjin123.com/takeout/"
         ]
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "osaka-tenma--p_7878919f4b11b5ef",
@@ -650,7 +662,8 @@
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 13
     },
     {
       "id": "osaka-tenma--p_3f0e16ea37fefebb",
@@ -705,7 +718,8 @@
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 14
     },
     {
       "id": "osaka-tenma--p_7adca45c474ed8da",
@@ -760,7 +774,8 @@
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 15
     },
     {
       "id": "osaka-tenma--p_46f7c0f05a9077ef",
@@ -813,7 +828,8 @@
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 16
     },
     {
       "id": "osaka-tenma--p_bb1c5e2b626b74d1",
@@ -869,7 +885,8 @@
         "name": "南森町・天滿宮",
         "href": "/walks/minamimorimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 17
     }
   ],
   "routes": [
@@ -1004,6 +1021,7 @@
       "p_bb1c5e2b626b74d1"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "minamimorimachi",
     "name": "南森町・天滿宮",

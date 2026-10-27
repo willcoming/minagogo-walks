@@ -54,7 +54,8 @@
         "name": "橫濱中華街",
         "href": "/walks/yokohama-chinatown/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -67,6 +68,7 @@
       "p_a727670c29301bf7"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "yokohama-chinatown",
     "name": "橫濱中華街",

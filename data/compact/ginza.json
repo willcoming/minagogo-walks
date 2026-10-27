@@ -2,6 +2,60 @@
   "updatedAt": "2026-10-26",
   "places": [
     {
+      "id": "omihachiman--p_73b8718fe931b3e4",
+      "name": "たねや 銀座三越店",
+      "address": "東京都中央区銀座4-6-16 銀座三越B2F",
+      "group": "food",
+      "categoryLabel": "和菓子",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹銀座三越地下食品區的たねや，販售栗饅頭及季節和菓子。此處已依影片與品牌店鋪資料修正為銀座三越櫃位，並保留原始影片來源。",
+        "原始資料記錄的地址為 東京都中央区銀座4-6-16 銀座三越B2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片00:30明確介紹銀座三越店，先前名稱搜尋誤配為滋賀近江八幡店，已修正分店。",
+      "coordinate": {
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A74-6-16",
+        "lat": 35.671577,
+        "lng": 139.765594,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "QX4Fl6pW_Hk",
+          "title": "東京 🇯🇵 🥮🍱 銀座三越與松屋銀座必買地下街美食！人氣甜點及精緻便當指南",
+          "url": "https://www.youtube.com/watch?v=QX4Fl6pW_Hk"
+        }
+      ],
+      "official": "https://taneya.jp/shop/tokyo_g-mitsukoshi",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_73b8718fe931b3e4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/omihachiman--p_73b8718fe931b3e4.webp",
+        "alt": "たねや 銀座三越店的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "ginza",
+        "name": "銀座",
+        "href": "/walks/ginza/"
+      },
+      "recommendation": null,
+      "displayOrder": 1
+    },
+    {
       "id": "nihonbashi--p_0a0053f59ababd84",
       "name": "日本料理 むとう（銀座・閉店）",
       "address": "東京都中央区銀座6-4-16",
@@ -64,60 +118,8 @@
         "name": "銀座",
         "href": "/walks/ginza/"
       },
-      "recommendation": null
-    },
-    {
-      "id": "omihachiman--p_73b8718fe931b3e4",
-      "name": "たねや 銀座三越店",
-      "address": "東京都中央区銀座4-6-16 銀座三越B2F",
-      "group": "food",
-      "categoryLabel": "和菓子",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "原影片介紹銀座三越地下食品區的たねや，販售栗饅頭及季節和菓子。此處已依影片與品牌店鋪資料修正為銀座三越櫃位，並保留原始影片來源。",
-        "原始資料記錄的地址為 東京都中央区銀座4-6-16 銀座三越B2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "原影片00:30明確介紹銀座三越店，先前名稱搜尋誤配為滋賀近江八幡店，已修正分店。",
-      "coordinate": {
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A74-6-16",
-        "lat": 35.671577,
-        "lng": 139.765594,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "SoloInTokyoLife",
-          "videoId": "QX4Fl6pW_Hk",
-          "title": "東京 🇯🇵 🥮🍱 銀座三越與松屋銀座必買地下街美食！人氣甜點及精緻便當指南",
-          "url": "https://www.youtube.com/watch?v=QX4Fl6pW_Hk"
-        }
-      ],
-      "official": "https://taneya.jp/shop/tokyo_g-mitsukoshi",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_73b8718fe931b3e4"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": null
-      },
-      "illustration": {
-        "image": "/art/source-library/omihachiman--p_73b8718fe931b3e4.webp",
-        "alt": "たねや 銀座三越店的日系水彩插圖"
-      },
-      "order": 2,
-      "canonicalArea": {
-        "id": "ginza",
-        "name": "銀座",
-        "href": "/walks/ginza/"
-      },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": null
     }
   ],
   "routes": [],
@@ -127,10 +129,11 @@
     "unlocated": 0,
     "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_0a0053f59ababd84",
-      "p_73b8718fe931b3e4"
+      "p_73b8718fe931b3e4",
+      "p_0a0053f59ababd84"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "ginza",
     "name": "銀座",

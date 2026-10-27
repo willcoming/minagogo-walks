@@ -44,7 +44,8 @@
           "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
           "https://www.tenmaichiba.com/"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "osaka-tenma--p_72393c30d77d056b",
@@ -100,7 +101,8 @@
         "name": "天滿・扇町",
         "href": "/walks/osaka-tenma/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "osaka-tenma--p_65391eb9038efe61",
@@ -154,7 +156,8 @@
         "name": "天滿・扇町",
         "href": "/walks/osaka-tenma/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "osaka-tenma--seiyo",
@@ -211,7 +214,8 @@
           "https://www.tenmaichiba.com/",
           "https://osaka-shotengai-info.com/featured/b_30/"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "osaka-tenma--ogimachi",
@@ -256,7 +260,8 @@
           "https://www.city.osaka.lg.jp/kita/page/0000002170.html",
           "https://www.tenmaichiba.com/"
         ]
-      }
+      },
+      "displayOrder": 5
     }
   ],
   "routes": [
@@ -366,6 +371,7 @@
       "p_ffc782c4f76c1d96"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "osaka-tenma",
     "name": "天滿・扇町",

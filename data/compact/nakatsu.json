@@ -51,7 +51,8 @@
         "name": "中津・豐崎",
         "href": "/walks/nakatsu/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -64,6 +65,7 @@
       "p_655562a1ff37fac1"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "nakatsu",
     "name": "中津・豐崎",

@@ -49,7 +49,8 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "kagurazaka--p_44d1c7e446275240",
@@ -104,7 +105,8 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "kagurazaka--p_3dc7e9a2120ef7db",
@@ -155,7 +157,8 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "kagurazaka--p_5bf94a4af47c8b28",
@@ -210,7 +213,8 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     },
     {
       "id": "kagurazaka--p_3bab845b2ec6b12a",
@@ -265,7 +269,8 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 5
     },
     {
       "id": "kagurazaka--p_d8638ae37e88cee9",
@@ -316,7 +321,8 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 6
     }
   ],
   "routes": [],
@@ -334,6 +340,7 @@
       "p_d8638ae37e88cee9"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "iidabashi",
     "name": "飯田橋・東京大神宮",

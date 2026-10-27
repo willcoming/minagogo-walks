@@ -38,7 +38,8 @@
         "id": "wakayama",
         "name": "和歌山城下町",
         "href": "/walks/wakayama/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "name": "和歌山市立有吉佐和子記念館",
@@ -79,7 +80,8 @@
         "id": "wakayama",
         "name": "和歌山城下町",
         "href": "/walks/wakayama/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "name": "和歌山市民図書館",
@@ -117,7 +119,8 @@
         "id": "wakayama",
         "name": "和歌山城下町",
         "href": "/walks/wakayama/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "name": "和歌山市立こども科学館",
@@ -155,7 +158,8 @@
         "id": "wakayama",
         "name": "和歌山城下町",
         "href": "/walks/wakayama/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "name": "総本家駿河屋善右衛門 駿河町本舗",
@@ -197,7 +201,8 @@
         "id": "wakayama",
         "name": "和歌山城下町",
         "href": "/walks/wakayama/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "name": "和歌山城ホール",
@@ -239,7 +244,8 @@
         "id": "wakayama",
         "name": "和歌山城下町",
         "href": "/walks/wakayama/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "name": "わかやま歴史館",
@@ -277,7 +283,8 @@
         "id": "wakayama",
         "name": "和歌山城下町",
         "href": "/walks/wakayama/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "name": "茶室 紅松庵",
@@ -324,7 +331,8 @@
           "https://www.wakayama-kanko.or.jp/spots/detail_9.html",
           "https://wakayamajo.jp/kousyouan/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "name": "名勝 西之丸庭園（紅葉渓庭園）",
@@ -370,7 +378,8 @@
           "https://www.wakayama-kanko.or.jp/spots/detail_9.html",
           "https://wakayamajo.jp/kousyouan/"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "name": "和歌山城 天守閣",
@@ -420,7 +429,8 @@
           "https://www.wakayama-kanko.or.jp/spots/detail_9.html",
           "https://wakayamajo.jp/kousyouan/"
         ]
-      }
+      },
+      "displayOrder": 10
     },
     {
       "name": "和歌山城公園動物園",
@@ -458,7 +468,8 @@
         "id": "wakayama",
         "name": "和歌山城下町",
         "href": "/walks/wakayama/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "name": "和歌山県立近代美術館",
@@ -503,7 +514,8 @@
           "https://www.wakayama-kanko.or.jp/spots/detail_668.html",
           "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1001214/1034245.html"
         ]
-      }
+      },
+      "displayOrder": 12
     },
     {
       "name": "和歌山県立博物館",
@@ -544,7 +556,8 @@
         "id": "wakayama",
         "name": "和歌山城下町",
         "href": "/walks/wakayama/"
-      }
+      },
+      "displayOrder": 13
     },
     {
       "name": "刺田比古神社（岡の宮）",
@@ -585,7 +598,8 @@
         "id": "wakayama",
         "name": "和歌山城下町",
         "href": "/walks/wakayama/"
-      }
+      },
+      "displayOrder": 14
     },
     {
       "name": "岡公園",
@@ -630,7 +644,8 @@
           "https://www.wakayama-kanko.or.jp/spots/detail_668.html",
           "https://www.city.wakayama.wakayama.jp/kankou/kankouspot/1001214/1034245.html"
         ]
-      }
+      },
+      "displayOrder": 15
     }
   ],
   "routes": [
@@ -744,6 +759,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "wakayama",
     "name": "和歌山城下町",

@@ -55,7 +55,8 @@
         "name": "長谷・由比濱",
         "href": "/walks/kamakura-hase/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "kamakura--p_83a522f2f3d4787f",
@@ -117,7 +118,8 @@
           "https://enokama.jp/spot/977/"
         ]
       },
-      "recommendation": "在無心庵吃甘味；鐵道附近請遵守店家與現場通行指示。"
+      "recommendation": "在無心庵吃甘味；鐵道附近請遵守店家與現場通行指示。",
+      "displayOrder": 2
     },
     {
       "id": "kamakura--p_11a7b56b06648837",
@@ -168,7 +170,8 @@
         "name": "長谷・由比濱",
         "href": "/walks/kamakura-hase/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "kamakura--p_83867c89a61760d7",
@@ -233,7 +236,8 @@
           "https://www.kannoncoffee.com/"
         ]
       },
-      "recommendation": "走回門前街道，到 KANNON COFFEE 小休。"
+      "recommendation": "走回門前街道，到 KANNON COFFEE 小休。",
+      "displayOrder": 4
     },
     {
       "id": "kamakura--p_5cc1814454aacca7",
@@ -291,7 +295,8 @@
           "https://www.kannoncoffee.com/"
         ]
       },
-      "recommendation": "沿長谷寺境內慢慢參觀，坡道與季節人潮另留彈性。"
+      "recommendation": "沿長谷寺境內慢慢參觀，坡道與季節人潮另留彈性。",
+      "displayOrder": 5
     },
     {
       "id": "kamakura--p_30ba752e2ae09af6",
@@ -353,7 +358,8 @@
           "https://enokama.jp/spot/977/"
         ]
       },
-      "recommendation": "在坂之下挑一份貝果，再沿住宅街向由比濱方向步行。"
+      "recommendation": "在坂之下挑一份貝果，再沿住宅街向由比濱方向步行。",
+      "displayOrder": 6
     }
   ],
   "routes": [
@@ -465,6 +471,7 @@
       "p_30ba752e2ae09af6"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kamakura-hase",
     "name": "長谷・由比濱",

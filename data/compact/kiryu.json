@@ -46,7 +46,8 @@
           "https://kiryutenjin.jp/",
           "https://www.kiryu-renga.jp/"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kiryu--renga",
@@ -92,7 +93,8 @@
           "https://kiryutenjin.jp/",
           "https://www.kiryu-renga.jp/"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "kiryu--saika",
@@ -130,7 +132,8 @@
         "id": "kiryu",
         "name": "桐生舊市街",
         "href": "/walks/kiryu/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "kiryu--ichinoyu",
@@ -168,7 +171,8 @@
         "id": "kiryu",
         "name": "桐生舊市街",
         "href": "/walks/kiryu/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "kiryu--fujiya",
@@ -206,7 +210,8 @@
         "id": "kiryu",
         "name": "桐生舊市街",
         "href": "/walks/kiryu/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "kiryu--machinaka",
@@ -244,7 +249,8 @@
         "id": "kiryu",
         "name": "桐生舊市街",
         "href": "/walks/kiryu/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "kiryu--yurinkan",
@@ -290,7 +296,8 @@
           "https://kiryutenjin.jp/",
           "https://www.kiryu-renga.jp/"
         ]
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "kiryu--yanoen",
@@ -328,7 +335,8 @@
         "id": "kiryu",
         "name": "桐生舊市街",
         "href": "/walks/kiryu/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "kiryu--nishinomiya",
@@ -366,7 +374,8 @@
         "id": "kiryu",
         "name": "桐生舊市街",
         "href": "/walks/kiryu/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "kiryu--zoo",
@@ -404,7 +413,8 @@
         "id": "kiryu",
         "name": "桐生舊市街",
         "href": "/walks/kiryu/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "kiryu--azuma",
@@ -442,7 +452,8 @@
         "id": "kiryu",
         "name": "桐生舊市街",
         "href": "/walks/kiryu/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "kiryu--okawa",
@@ -487,7 +498,8 @@
           "https://kiryuorimonokinenkan.com/",
           "https://okawamuseum.jp/"
         ]
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "kiryu--station",
@@ -525,7 +537,8 @@
         "id": "kiryu",
         "name": "桐生舊市街",
         "href": "/walks/kiryu/"
-      }
+      },
+      "displayOrder": 13
     },
     {
       "id": "kiryu--orimono",
@@ -570,7 +583,8 @@
           "https://kiryuorimonokinenkan.com/",
           "https://okawamuseum.jp/"
         ]
-      }
+      },
+      "displayOrder": 14
     },
     {
       "id": "kiryu--yukari",
@@ -608,7 +622,8 @@
         "id": "kiryu",
         "name": "桐生舊市街",
         "href": "/walks/kiryu/"
-      }
+      },
+      "displayOrder": 15
     }
   ],
   "routes": [
@@ -724,6 +739,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "kiryu",
     "name": "桐生舊市街",

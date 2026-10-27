@@ -45,7 +45,8 @@
           "https://www.shimogamo-jinja.or.jp/",
           "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kyoto-demachi--kawai",
@@ -96,7 +97,8 @@
         "id": "kyoto-demachi",
         "name": "出町・下鴨",
         "href": "/walks/kyoto-demachi/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "kyoto-demachi--mitsui",
@@ -142,7 +144,8 @@
           "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
           "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "kyoto-demachi--river",
@@ -208,7 +211,8 @@
           "https://www.shimogamo-jinja.or.jp/",
           "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "kyoto-demachi--futaba",
@@ -254,7 +258,8 @@
           "https://www.shimogamo-jinja.or.jp/",
           "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "kyoto-demachi--isehan",
@@ -292,7 +297,8 @@
         "id": "kyoto-demachi",
         "name": "出町・下鴨",
         "href": "/walks/kyoto-demachi/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "kyoto-demachi--delta",
@@ -330,7 +336,8 @@
         "id": "kyoto-demachi",
         "name": "出町・下鴨",
         "href": "/walks/kyoto-demachi/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "kyoto-demachi--fujiya",
@@ -368,7 +375,8 @@
         "id": "kyoto-demachi",
         "name": "出町・下鴨",
         "href": "/walks/kyoto-demachi/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "kyoto-demachi--masugata",
@@ -414,7 +422,8 @@
           "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
           "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "kyoto-demachi--cinema",
@@ -460,7 +469,8 @@
           "https://www.keihan.co.jp/tsu/kyoto/course/demachiyanagi.html",
           "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2505"
         ]
-      }
+      },
+      "displayOrder": 10
     }
   ],
   "routes": [
@@ -587,6 +597,7 @@
       "p_ad51d74a07f848eb"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kyoto-demachi",
     "name": "出町・下鴨",

@@ -37,7 +37,8 @@
         "id": "kyoto-ichijoji",
         "name": "一乘寺",
         "href": "/walks/kyoto-ichijoji/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kyoto-ichijoji--hachidai",
@@ -75,7 +76,8 @@
         "id": "kyoto-ichijoji",
         "name": "一乘寺",
         "href": "/walks/kyoto-ichijoji/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "kyoto-ichijoji--shisendo",
@@ -121,7 +123,8 @@
           "https://ja.kyoto.travel/tourism/single01.php?category_id=5&tourism_id=1847",
           "https://www.keibunsha-store.com/"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "kyoto-ichijoji--konpukuji",
@@ -159,7 +162,8 @@
         "id": "kyoto-ichijoji",
         "name": "一乘寺",
         "href": "/walks/kyoto-ichijoji/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "kyoto-ichijoji--nakatani",
@@ -205,7 +209,8 @@
           "https://ja.kyoto.travel/tourism/single01.php?category_id=5&tourism_id=1847",
           "https://www.keibunsha-store.com/"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "kyoto-ichijoji--sagarimatsu",
@@ -243,7 +248,8 @@
         "id": "kyoto-ichijoji",
         "name": "一乘寺",
         "href": "/walks/kyoto-ichijoji/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "kyoto-ichijoji--pan",
@@ -288,7 +294,8 @@
           "https://pannhare.stores.jp/about",
           "https://bastetcoffee.com/"
         ]
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "kyoto-ichijoji--keibunsha",
@@ -334,7 +341,8 @@
           "https://ja.kyoto.travel/tourism/single01.php?category_id=5&tourism_id=1847",
           "https://www.keibunsha-store.com/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "kyoto-ichijoji--chinyu",
@@ -372,7 +380,8 @@
         "id": "kyoto-ichijoji",
         "name": "一乘寺",
         "href": "/walks/kyoto-ichijoji/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "kyoto-ichijoji--bastet",
@@ -417,7 +426,8 @@
           "https://pannhare.stores.jp/about",
           "https://bastetcoffee.com/"
         ]
-      }
+      },
+      "displayOrder": 10
     }
   ],
   "routes": [
@@ -533,6 +543,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "kyoto-ichijoji",
     "name": "一乘寺",

@@ -59,7 +59,8 @@
         "name": "新御徒町・元淺草",
         "href": "/walks/shin-okachimachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -73,6 +74,7 @@
       "p_4e9753b7c5ef6189"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "shin-okachimachi",
     "name": "新御徒町・元淺草",

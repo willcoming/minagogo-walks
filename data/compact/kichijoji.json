@@ -57,7 +57,8 @@
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kichijoji--p_ff7f8ce817e4ddc2",
@@ -108,7 +109,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "kichijoji--p_791e7342964ac3a7",
@@ -174,7 +176,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "kichijoji--p_2737f387b183baff",
@@ -225,7 +228,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     },
     {
       "id": "kichijoji--p_5872c116235617b7",
@@ -282,7 +286,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 5
     },
     {
       "id": "kichijoji--p_4269210f45c83916",
@@ -337,7 +342,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 6
     },
     {
       "id": "kichijoji--p_c94ea4fe6f953c30",
@@ -386,7 +392,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 7
     },
     {
       "id": "kichijoji--p_e3a9a9d054306c5d",
@@ -437,7 +444,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 8
     },
     {
       "id": "kichijoji--p_dc70911ce703e354",
@@ -495,7 +503,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 9
     },
     {
       "id": "kichijoji--satou",
@@ -533,7 +542,8 @@
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "kichijoji--ozasa",
@@ -571,7 +581,8 @@
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "kichijoji--harmonica",
@@ -627,7 +638,8 @@
           "https://www.musashino.or.jp/museum/",
           "https://sabo-musashinobunko.jimdofree.com/"
         ]
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "kichijoji--museum",
@@ -673,7 +685,8 @@
           "https://www.musashino.or.jp/museum/",
           "https://sabo-musashinobunko.jimdofree.com/"
         ]
-      }
+      },
+      "displayOrder": 13
     },
     {
       "id": "kichijoji--p_8318379e6d85acc7",
@@ -724,7 +737,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 14
     },
     {
       "id": "kichijoji--p_1e1dbc9a535ca172",
@@ -779,7 +793,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 15
     },
     {
       "id": "kichijoji--p_0bbf2b9501ceef47",
@@ -847,7 +862,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 16
     },
     {
       "id": "kichijoji--p_cb8a5e8cba50ff7e",
@@ -896,7 +912,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 17
     },
     {
       "id": "kichijoji--nakamichi",
@@ -942,7 +959,8 @@
           "https://lightupcoffee.com/pages/store",
           "https://kichijoji-nakamichi.com/about/"
         ]
-      }
+      },
+      "displayOrder": 18
     },
     {
       "id": "kichijoji--bunko",
@@ -988,7 +1006,8 @@
           "https://www.musashino.or.jp/museum/",
           "https://sabo-musashinobunko.jimdofree.com/"
         ]
-      }
+      },
+      "displayOrder": 19
     },
     {
       "id": "kichijoji--p_b805fa6ddf547529",
@@ -1039,7 +1058,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 20
     },
     {
       "id": "kichijoji--p_0b49693e62654562",
@@ -1090,7 +1110,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 21
     },
     {
       "id": "kichijoji--p_779e3432c8c95742",
@@ -1141,7 +1162,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 22
     },
     {
       "id": "kichijoji--p_71fce2dd1f0ba0aa",
@@ -1190,7 +1212,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 23
     },
     {
       "id": "kichijoji--p_f8cfae7c4598ffc5",
@@ -1239,7 +1262,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 24
     },
     {
       "id": "kichijoji--park",
@@ -1334,7 +1358,8 @@
           "https://lightupcoffee.com/pages/store",
           "https://kichijoji-nakamichi.com/about/"
         ]
-      }
+      },
+      "displayOrder": 25
     },
     {
       "id": "kichijoji--zoo",
@@ -1372,7 +1397,8 @@
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
-      }
+      },
+      "displayOrder": 26
     },
     {
       "id": "kichijoji--p_aba6b2bf0d69dad4",
@@ -1427,7 +1453,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 27
     },
     {
       "id": "kichijoji--p_7ec71078c5dda06e",
@@ -1478,7 +1505,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 28
     },
     {
       "id": "kichijoji--p_48f2de742a36fa5c",
@@ -1535,7 +1563,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 29
     },
     {
       "id": "kichijoji--p_f80fc9bfe72ab20f",
@@ -1586,7 +1615,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 30
     },
     {
       "id": "kichijoji--p_150b1cd36fc48f3b",
@@ -1639,7 +1669,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 31
     },
     {
       "id": "kichijoji--p_af8aafb5a0b02c0e",
@@ -1694,7 +1725,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 32
     },
     {
       "id": "kichijoji--p_7ed9511870056fa4",
@@ -1745,7 +1777,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 33
     },
     {
       "id": "kichijoji--p_fb1e21949acd0c59",
@@ -1794,62 +1827,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
-    },
-    {
-      "id": "kichijoji--p_ef86f6def7c79400",
-      "name": "ピワン（吉祥寺本町舊址）",
-      "address": "東京都武蔵野市吉祥寺本町２丁目１４−７",
-      "group": "sights",
-      "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「ピワン」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町２丁目１４−７。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "影片記錄的是吉祥寺本町 2-14-7 舊址；已於 2025 年 3 月遷至東京都三鷹市井の頭 3-31-16。此頁保留舊址紀錄與當時空間插畫，請勿依舊址前往。2026-10-26 核對官方新地址。",
-      "coordinate": {
-        "lat": 35.706524,
-        "lng": 139.577591,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2%E4%B8%81%E7%9B%AE14%E2%88%927",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "zVmpLi_Ybk0",
-          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
-          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
-          "time": "14:15",
-          "seconds": 855
-        }
-      ],
-      "official": "https://piwang.jp/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_ef86f6def7c79400"
-        ],
-        "status": "relocated",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%AF%E3%83%B3+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%94%E2%88%92%EF%BC%97"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_ef86f6def7c79400.webp",
-        "alt": "ピワン（吉祥寺本町舊址）的日系水彩插圖"
-      },
-      "order": 35,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 34
     },
     {
       "id": "kichijoji--p_6e160efa9e48596b",
@@ -1909,7 +1888,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 35
     },
     {
       "id": "kichijoji--p_7f2ead42564eabc1",
@@ -1960,7 +1940,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 36
     },
     {
       "id": "kichijoji--p_80c5f46f31229ce2",
@@ -2015,7 +1996,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 37
     },
     {
       "id": "kichijoji--p_7fc9261079dd1cfd",
@@ -2066,7 +2048,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 38
     },
     {
       "id": "kichijoji--lightup",
@@ -2112,7 +2095,8 @@
           "https://lightupcoffee.com/pages/store",
           "https://kichijoji-nakamichi.com/about/"
         ]
-      }
+      },
+      "displayOrder": 39
     },
     {
       "id": "kichijoji--p_3b713381d8cda60b",
@@ -2167,7 +2151,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 40
     },
     {
       "id": "kichijoji--p_f18fbfef46e36302",
@@ -2216,7 +2201,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 41
     },
     {
       "id": "kichijoji--p_6cf905ca7452a75a",
@@ -2271,7 +2257,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 42
     },
     {
       "id": "kichijoji--p_ccebea293404c2be",
@@ -2326,7 +2313,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 43
     },
     {
       "id": "kichijoji--p_94ccf769cbf0d2b8",
@@ -2384,7 +2372,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 44
     },
     {
       "id": "kichijoji--p_517cc986a7d87ba7",
@@ -2435,7 +2424,8 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 45
     },
     {
       "id": "kichijoji--p_b1aa292c554fce71",
@@ -2481,7 +2471,64 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 46
+    },
+    {
+      "id": "kichijoji--p_ef86f6def7c79400",
+      "name": "ピワン（吉祥寺本町舊址）",
+      "address": "東京都武蔵野市吉祥寺本町2丁目14−7",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「ピワン」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都武蔵野市吉祥寺本町2丁目14−7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "影片記錄的是吉祥寺本町 2-14-7 舊址；已於 2025 年 3 月遷至東京都三鷹市井の頭 3-31-16。此頁保留舊址紀錄與當時空間插畫，請勿依舊址前往。2026-10-26 核對官方新地址。",
+      "coordinate": {
+        "lat": 35.706524,
+        "lng": 139.577591,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2%E4%B8%81%E7%9B%AE14%E2%88%927",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zVmpLi_Ybk0",
+          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
+          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
+          "time": "14:15",
+          "seconds": 855
+        }
+      ],
+      "official": "https://piwang.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ef86f6def7c79400"
+        ],
+        "status": "relocated",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%AF%E3%83%B3+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%94%E2%88%92%EF%BC%97"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_ef86f6def7c79400.webp",
+        "alt": "ピワン（吉祥寺本町舊址）的日系水彩插圖"
+      },
+      "order": 35,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": null
     }
   ],
   "routes": [
@@ -2636,7 +2683,6 @@
       "p_af8aafb5a0b02c0e",
       "p_7ed9511870056fa4",
       "p_fb1e21949acd0c59",
-      "p_ef86f6def7c79400",
       "p_6e160efa9e48596b",
       "p_43eec9463a44b325",
       "p_7f2ead42564eabc1",
@@ -2649,9 +2695,11 @@
       "p_94ccf769cbf0d2b8",
       "p_dca4056346d58f58",
       "p_517cc986a7d87ba7",
-      "p_b1aa292c554fce71"
+      "p_b1aa292c554fce71",
+      "p_ef86f6def7c79400"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kichijoji",
     "name": "吉祥寺・井之頭",

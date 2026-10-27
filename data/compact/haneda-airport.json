@@ -46,7 +46,8 @@
         "name": "羽田機場",
         "href": "/walks/haneda-airport/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -59,6 +60,7 @@
       "p_a0e6a5ed233c921a"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "haneda-airport",
     "name": "羽田機場",

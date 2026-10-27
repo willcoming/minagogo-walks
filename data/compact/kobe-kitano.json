@@ -52,7 +52,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "name": "ベンの家",
@@ -90,7 +91,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "name": "洋館長屋（仏蘭西館）",
@@ -128,7 +130,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "name": "英国館",
@@ -183,7 +186,8 @@
           "https://www.kobeijinkan.com/ijinkan_list/england",
           "https://store.starbucks.co.jp/detail-940/"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "name": "ラインの館",
@@ -229,7 +233,8 @@
           "https://www.kobeijinkan.com/ijinkan_list/line",
           "https://kobe-nishimura.jp/shop/kitanozaka.html"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "name": "香りの家オランダ館",
@@ -276,7 +281,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "name": "デンマーク館",
@@ -314,7 +320,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "name": "ウィーン・オーストリアの家",
@@ -352,7 +359,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "name": "うろこの家・展望ギャラリー",
@@ -399,7 +407,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "name": "山手八番館",
@@ -437,7 +446,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "name": "北野外国人倶楽部",
@@ -475,7 +485,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "name": "北野天満神社",
@@ -516,7 +527,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 12
     },
     {
       "name": "風見鶏の館",
@@ -566,7 +578,8 @@
           "https://www.kobeijinkan.com/ijinkan_list/line",
           "https://kobe-nishimura.jp/shop/kitanozaka.html"
         ]
-      }
+      },
+      "displayOrder": 13
     },
     {
       "name": "萌黄の館",
@@ -612,7 +625,8 @@
           "https://www.kobeijinkan.com/ijinkan_list/england",
           "https://store.starbucks.co.jp/detail-940/"
         ]
-      }
+      },
+      "displayOrder": 14
     },
     {
       "name": "スターバックス 神戸北野異人館店",
@@ -661,7 +675,8 @@
           "https://www.kobeijinkan.com/ijinkan_list/england",
           "https://store.starbucks.co.jp/detail-940/"
         ]
-      }
+      },
+      "displayOrder": 15
     },
     {
       "name": "北野坂にしむら珈琲店",
@@ -718,7 +733,8 @@
           "https://www.kobeijinkan.com/ijinkan_list/line",
           "https://kobe-nishimura.jp/shop/kitanozaka.html"
         ]
-      }
+      },
+      "displayOrder": 16
     },
     {
       "name": "神戸北野ノスタ",
@@ -760,7 +776,8 @@
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
-      }
+      },
+      "displayOrder": 17
     }
   ],
   "routes": [
@@ -884,6 +901,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "kobe-kitano",
     "name": "神戶北野",

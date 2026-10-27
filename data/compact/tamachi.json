@@ -52,7 +52,8 @@
         "name": "田町・三田站周邊",
         "href": "/walks/tamachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -65,6 +66,7 @@
       "p_8d0c9cba3b47febd"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "tamachi",
     "name": "田町・三田站周邊",

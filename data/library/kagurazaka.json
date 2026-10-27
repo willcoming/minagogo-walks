@@ -562,16 +562,25 @@
     {
       "id": "kagurazaka--p_eeada37b4af62a2b",
       "name": "神楽坂ワイン食堂 ビストロ Entraide",
-      "address": "",
+      "address": "東京都新宿区神楽坂2-11-6 第83東京ビル 2F",
       "group": "food",
       "categoryLabel": "餐廳",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「神楽坂ワイン食堂 ビストロ Entraide」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原始資料記錄的地址為 東京都新宿区神楽坂2-11-6 第83東京ビル 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
-      "coordinate": null,
+      "note": null,
+      "coordinate": {
+        "lat": 35.700921,
+        "lng": 139.741761,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Entraide/@35.700921,139.741761,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c5b2e63d673:0x823614e301dc8037!8m2!3d35.700921!4d139.741761!16s%2Fg%2F1hhn5rx81?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "shopUrl": "https://tabelog.com/tokyo/A1309/A130905/13150770/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
       "sources": [
         {
           "channel": "ハーリーのグルメ",
@@ -589,7 +598,7 @@
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%A5%BD%E5%9D%82%E3%83%AF%E3%82%A4%E3%83%B3%E9%A3%9F%E5%A0%82+%E3%83%93%E3%82%B9%E3%83%88%E3%83%AD%E3%80%80Entraide+Japan"
+        "mapUrl": "https://www.google.com/maps/place/Entraide/@35.700921,139.741761,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c5b2e63d673:0x823614e301dc8037!8m2!3d35.700921!4d139.741761!16s%2Fg%2F1hhn5rx81?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "illustration": {
         "image": "/art/source-library/kagurazaka--p_eeada37b4af62a2b.webp",
@@ -1544,14 +1553,14 @@
       ],
       "note": null,
       "coordinate": {
-        "lat": 35.701534,
-        "lng": 139.740402,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%823-2-33",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+        "lat": 35.7016452,
+        "lng": 139.7403545,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Spicier+-+%E5%8D%B0%E5%BA%A6%E5%A5%B6%E8%8C%B6%E5%92%8C%E5%92%96%E5%96%B1%E9%9D%A2%E5%8C%85%E5%B0%88%E9%96%80%E5%BA%97/@35.7016452,139.7403545,17z/data=!3m1!4b1!4m6!3m5!1s0x60188d9923f93def:0x76cd5dd8807a3d15!8m2!3d35.7016452!4d139.7403545!16s%2Fg%2F11k3d1sh4j?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "shopUrl": "https://tabelog.com/tokyo/A1309/A130905/13280101/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
       },
       "sources": [
         {
@@ -1572,7 +1581,7 @@
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Spicier%28%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B7%E3%82%A2%29+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%823-2-33+%E8%8A%B8%E8%80%85%E6%96%B0%E9%81%93+Rosy"
+        "mapUrl": "https://www.google.com/maps/place/Spicier+-+%E5%8D%B0%E5%BA%A6%E5%A5%B6%E8%8C%B6%E5%92%8C%E5%92%96%E5%96%B1%E9%9D%A2%E5%8C%85%E5%B0%88%E9%96%80%E5%BA%97/@35.7016452,139.7403545,17z/data=!3m1!4b1!4m6!3m5!1s0x60188d9923f93def:0x76cd5dd8807a3d15!8m2!3d35.7016452!4d139.7403545!16s%2Fg%2F11k3d1sh4j?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "illustration": {
         "image": "/art/source-library/kagurazaka--p_bac953455afffacc.webp",

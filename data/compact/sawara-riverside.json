@@ -58,7 +58,8 @@
         "name": "佐原利根川岸",
         "href": "/walks/sawara-riverside/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -71,6 +72,7 @@
       "p_e6c8fe87746530fc"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "sawara-riverside",
     "name": "佐原利根川岸",

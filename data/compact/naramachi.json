@@ -152,7 +152,8 @@
         "id": "naramachi",
         "name": "奈良町",
         "href": "/walks/naramachi/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "nara_sakura",
@@ -190,7 +191,8 @@
         "id": "naramachi",
         "name": "奈良町",
         "href": "/walks/naramachi/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "nara_museum",
@@ -228,7 +230,8 @@
         "id": "naramachi",
         "name": "奈良町",
         "href": "/walks/naramachi/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "nara_nigiwai",
@@ -275,7 +278,8 @@
           "https://naramachi-nigiwainoie.jp/",
           "https://www.city.nara.lg.jp/site/shisetsu/6242.html"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "nara_gangoji",
@@ -313,7 +317,8 @@
         "id": "naramachi",
         "name": "奈良町",
         "href": "/walks/naramachi/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "nara_goryo",
@@ -351,7 +356,8 @@
         "id": "naramachi",
         "name": "奈良町",
         "href": "/walks/naramachi/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "nara_kondou",
@@ -389,7 +395,8 @@
         "id": "naramachi",
         "name": "奈良町",
         "href": "/walks/naramachi/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "nara_koshi",
@@ -434,7 +441,8 @@
           "https://naramachi-nigiwainoie.jp/",
           "https://www.city.nara.lg.jp/site/shisetsu/6242.html"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "nara_jurin",
@@ -472,7 +480,8 @@
         "id": "naramachi",
         "name": "奈良町",
         "href": "/walks/naramachi/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "nara_imanishi",
@@ -510,7 +519,8 @@
         "id": "naramachi",
         "name": "奈良町",
         "href": "/walks/naramachi/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "nara_harushika",
@@ -548,7 +558,8 @@
         "id": "naramachi",
         "name": "奈良町",
         "href": "/walks/naramachi/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "nara_kanakana",
@@ -594,7 +605,8 @@
           "https://naramachi-nigiwainoie.jp/",
           "https://kanakana.info/"
         ]
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "nara_sarusawa",
@@ -640,7 +652,8 @@
           "https://naramachi-nigiwainoie.jp/",
           "https://www.city.nara.lg.jp/site/shisetsu/6242.html"
         ]
-      }
+      },
+      "displayOrder": 13
     },
     {
       "id": "nara_nakagawa",
@@ -698,7 +711,8 @@
           "https://naramachi-nigiwainoie.jp/",
           "https://kanakana.info/"
         ]
-      }
+      },
+      "displayOrder": 14
     },
     {
       "id": "nara_manmando",
@@ -736,7 +750,8 @@
         "id": "naramachi",
         "name": "奈良町",
         "href": "/walks/naramachi/"
-      }
+      },
+      "displayOrder": 15
     }
   ],
   "defaultSelection": "naramachi-day",
@@ -748,6 +763,7 @@
       "p_b16ad4ff0009fade"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "naramachi",
     "name": "奈良町",

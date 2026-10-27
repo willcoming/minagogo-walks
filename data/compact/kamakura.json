@@ -55,7 +55,8 @@
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "kamakura--p_87504f9def81d217",
@@ -108,7 +109,8 @@
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "kamakura--yuria",
@@ -158,7 +160,8 @@
         "id": "kamakura",
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "kamakura--p_58d859f4a2ba1d04",
@@ -213,7 +216,8 @@
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     },
     {
       "id": "kamakura--bank",
@@ -263,7 +267,8 @@
         "id": "kamakura",
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "kamakura--p_e0a866cf41a798d7",
@@ -314,7 +319,8 @@
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 6
     },
     {
       "id": "kamakura--daily",
@@ -373,7 +379,8 @@
         "id": "kamakura",
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "kamakura--montblanc",
@@ -421,7 +428,8 @@
         "id": "kamakura",
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "kamakura--iwata",
@@ -486,7 +494,8 @@
           "https://www.hato.co.jp/shop",
           "https://iwatacoffee.sakura.ne.jp/"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "kamakura--p_d8560e2a14e85bb7",
@@ -543,7 +552,8 @@
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 10
     },
     {
       "id": "kamakura--komachi",
@@ -628,7 +638,8 @@
           "https://www.hachimangu.or.jp/",
           "https://www.at-yokohama.net/spots/816"
         ]
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "kamakura--p_372ff1ebb63c47ea",
@@ -686,7 +697,8 @@
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 12
     },
     {
       "id": "kamakura--shiratama",
@@ -736,7 +748,8 @@
         "id": "kamakura",
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
-      }
+      },
+      "displayOrder": 13
     },
     {
       "id": "kamakura--toshimaya",
@@ -782,7 +795,8 @@
           "https://www.hato.co.jp/shop",
           "https://iwatacoffee.sakura.ne.jp/"
         ]
-      }
+      },
+      "displayOrder": 14
     },
     {
       "id": "kamakura--p_afacf03090106401",
@@ -835,7 +849,8 @@
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 15
     },
     {
       "id": "kamakura--milk",
@@ -893,7 +908,8 @@
           "https://www.hachimangu.or.jp/",
           "https://www.at-yokohama.net/spots/816"
         ]
-      }
+      },
+      "displayOrder": 16
     },
     {
       "id": "kamakura--p_667fc6154d6c6f7c",
@@ -944,7 +960,8 @@
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 17
     },
     {
       "id": "kamakura--ruru",
@@ -994,7 +1011,8 @@
         "id": "kamakura",
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
-      }
+      },
+      "displayOrder": 18
     },
     {
       "id": "kamakura--coquelicot",
@@ -1042,7 +1060,8 @@
         "id": "kamakura",
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
-      }
+      },
+      "displayOrder": 19
     },
     {
       "id": "kamakura--tomoya",
@@ -1099,7 +1118,8 @@
         "id": "kamakura",
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
-      }
+      },
+      "displayOrder": 20
     },
     {
       "id": "kamakura--chacha",
@@ -1147,7 +1167,8 @@
         "id": "kamakura",
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
-      }
+      },
+      "displayOrder": 21
     },
     {
       "id": "kamakura--kaburaki",
@@ -1193,7 +1214,8 @@
           "https://www.hato.co.jp/shop",
           "https://iwatacoffee.sakura.ne.jp/"
         ]
-      }
+      },
+      "displayOrder": 22
     },
     {
       "id": "kamakura--hachimangu",
@@ -1239,7 +1261,8 @@
           "https://www.hachimangu.or.jp/",
           "https://www.at-yokohama.net/spots/816"
         ]
-      }
+      },
+      "displayOrder": 23
     },
     {
       "id": "kamakura--p_09bb45262a97725a",
@@ -1283,7 +1306,8 @@
         "name": "鎌倉站・小町",
         "href": "/walks/kamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 24
     }
   ],
   "routes": [
@@ -1436,6 +1460,7 @@
       "p_09bb45262a97725a"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kamakura",
     "name": "鎌倉站・小町",
@@ -1908,14 +1933,14 @@
       ],
       "note": null,
       "coordinate": {
-        "lat": 35.314812,
-        "lng": 139.552155,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%A4%A7%E7%94%BA2%E4%B8%81%E7%9B%AE2%E2%88%9234%E3%83%BC1",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+        "lat": 35.314763,
+        "lng": 139.552172,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%A2%E3%83%AA%E3%83%83%E3%82%AF/@35.314763,139.552172,17z/data=!3m1!4b1!4m6!3m5!1s0x601845dcb60faadf:0x6f01d673a152e710!8m2!3d35.314763!4d139.552172!16s%2Fg%2F1tj45wh9?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "shopUrl": "https://tabelog.com/kanagawa/A1404/A140402/14002237/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
       },
       "sources": [
         {
@@ -1936,7 +1961,7 @@
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%A2%E3%83%AA%E3%83%83%E3%82%AF+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%A4%A7%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92%E2%88%9234%EF%BD%B01"
+        "mapUrl": "https://www.google.com/maps/place/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%97%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%A2%E3%83%AA%E3%83%83%E3%82%AF/@35.314763,139.552172,17z/data=!3m1!4b1!4m6!3m5!1s0x601845dcb60faadf:0x6f01d673a152e710!8m2!3d35.314763!4d139.552172!16s%2Fg%2F1tj45wh9?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "illustration": {
         "image": "/art/source-library/kamakura--p_3dcb05e906f51004.webp",
@@ -2332,7 +2357,7 @@
         "image": "/art/source-library/jiyugaoka--p_c9317f8eb9ebc033.webp",
         "alt": "MINIMAL MAAT的日系水彩插圖"
       },
-      "order": 20,
+      "order": 18,
       "recommendation": null,
       "canonicalPlaceId": "jiyugaoka--p_c9317f8eb9ebc033",
       "canonicalArea": {

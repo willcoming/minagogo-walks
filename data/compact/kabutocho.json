@@ -54,7 +54,8 @@
         "name": "兜町・茅場町",
         "href": "/walks/kabutocho/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "nihonbashi--p_6886d94828577668",
@@ -116,7 +117,8 @@
           "https://k5-tokyo.com/"
         ]
       },
-      "recommendation": "在 HOPPERS 吃一份斯里蘭卡風味餐。"
+      "recommendation": "在 HOPPERS 吃一份斯里蘭卡風味餐。",
+      "displayOrder": 2
     },
     {
       "id": "nihonbashi--p_9a34828da743d3c5",
@@ -171,7 +173,8 @@
         "name": "兜町・茅場町",
         "href": "/walks/kabutocho/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "nihonbashi--p_5551340b561336e3",
@@ -234,7 +237,8 @@
           "https://k5-tokyo.com/information/6547/"
         ]
       },
-      "recommendation": "在 bank 看看麵包與昔日銀行空間。"
+      "recommendation": "在 bank 看看麵包與昔日銀行空間。",
+      "displayOrder": 4
     },
     {
       "id": "nihonbashi--p_5ec65c7b62dfc0a1",
@@ -295,7 +299,8 @@
         "name": "兜町・茅場町",
         "href": "/walks/kabutocho/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 5
     },
     {
       "id": "nihonbashi--p_eebc3054c052ca99",
@@ -346,7 +351,8 @@
         "name": "兜町・茅場町",
         "href": "/walks/kabutocho/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 6
     },
     {
       "id": "nihonbashi--p_98c6e450d7807151",
@@ -395,7 +401,8 @@
         "name": "兜町・茅場町",
         "href": "/walks/kabutocho/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 7
     },
     {
       "id": "nihonbashi--p_ec7e511b666baecf",
@@ -458,7 +465,8 @@
         "name": "兜町・茅場町",
         "href": "/walks/kabutocho/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 8
     },
     {
       "id": "nihonbashi--p_e560d31ba76fbc49",
@@ -524,7 +532,8 @@
           "https://k5-tokyo.com/"
         ]
       },
-      "recommendation": "從街道看 K5 的建築；使用餐飲空間時依現場規定入內。"
+      "recommendation": "從街道看 K5 的建築；使用餐飲空間時依現場規定入內。",
+      "displayOrder": 9
     },
     {
       "id": "nihonbashi--p_27c9791341ecf996",
@@ -598,7 +607,8 @@
           "https://k5-tokyo.com/information/6547/"
         ]
       },
-      "recommendation": "到日證館一樓，選巧克力或冰淇淋，沿附近街廓慢走。"
+      "recommendation": "到日證館一樓，選巧克力或冰淇淋，沿附近街廓慢走。",
+      "displayOrder": 10
     }
   ],
   "routes": [
@@ -713,6 +723,7 @@
       "p_6f750ca8d1f63693"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kabutocho",
     "name": "兜町・茅場町",

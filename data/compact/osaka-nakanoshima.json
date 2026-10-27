@@ -37,7 +37,8 @@
         "id": "osaka-nakanoshima",
         "name": "中之島東部・北濱",
         "href": "/walks/osaka-nakanoshima/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "osaka-nakanoshima--retro",
@@ -83,7 +84,8 @@
           "https://www.keihan.co.jp/visiting/spot/detail/202.html",
           "https://www.kitahama-retro.com/"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "osaka-nakanoshima--exchange",
@@ -121,7 +123,8 @@
         "id": "osaka-nakanoshima",
         "name": "中之島東部・北濱",
         "href": "/walks/osaka-nakanoshima/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "osaka-nakanoshima--gokan",
@@ -167,7 +170,8 @@
           "https://www.tekijuku.osaka-u.ac.jp/ja",
           "https://8ken-ya.osaka/guide/2139/"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "osaka-nakanoshima--park",
@@ -233,7 +237,8 @@
           "https://www.keihan.co.jp/visiting/spot/detail/202.html",
           "https://www.kitahama-retro.com/"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "osaka-nakanoshima--books",
@@ -281,7 +286,8 @@
         "id": "osaka-nakanoshima",
         "name": "中之島東部・北濱",
         "href": "/walks/osaka-nakanoshima/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "osaka-nakanoshima--hall",
@@ -337,7 +343,8 @@
           "https://www.keihan.co.jp/visiting/spot/detail/202.html",
           "https://www.kitahama-retro.com/"
         ]
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "osaka-nakanoshima--library",
@@ -383,7 +390,8 @@
           "https://www.tekijuku.osaka-u.ac.jp/ja",
           "https://8ken-ya.osaka/guide/2139/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "osaka-nakanoshima--yodoyabashi",
@@ -421,7 +429,8 @@
         "id": "osaka-nakanoshima",
         "name": "中之島東部・北濱",
         "href": "/walks/osaka-nakanoshima/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "osaka-nakanoshima--tekijuku",
@@ -467,7 +476,8 @@
           "https://www.tekijuku.osaka-u.ac.jp/ja",
           "https://8ken-ya.osaka/guide/2139/"
         ]
-      }
+      },
+      "displayOrder": 10
     }
   ],
   "routes": [
@@ -595,6 +605,7 @@
       "p_33787f173026dd52"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "osaka-nakanoshima",
     "name": "中之島東部・北濱",

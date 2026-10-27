@@ -38,7 +38,8 @@
         "id": "omihachiman",
         "name": "近江八幡・八幡堀",
         "href": "/walks/omihachiman/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "name": "旧伴家住宅",
@@ -76,7 +77,8 @@
         "id": "omihachiman",
         "name": "近江八幡・八幡堀",
         "href": "/walks/omihachiman/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "name": "旧西川家住宅",
@@ -122,7 +124,8 @@
           "https://www.omi8.com/spot/detail_1034.html",
           "https://clubharie.jp/shop/himure/"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "name": "新町通り",
@@ -168,7 +171,8 @@
           "https://www.omi8.com/spot/detail_1034.html",
           "https://clubharie.jp/shop/himure/"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "name": "近江兄弟社メンターム資料館",
@@ -206,7 +210,8 @@
         "id": "omihachiman",
         "name": "近江八幡・八幡堀",
         "href": "/walks/omihachiman/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "name": "クラブハリエ 日牟禮館",
@@ -252,7 +257,8 @@
           "https://www.omi8.com/spot/detail_1034.html",
           "https://clubharie.jp/shop/himure/"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "name": "たねや 日牟禮乃舍",
@@ -298,7 +304,8 @@
           "https://www.omi8.com/spot/detail_1008.html",
           "https://taneya.jp/shop/shiga_himure"
         ]
-      }
+      },
+      "displayOrder": 7
     },
     {
       "name": "日牟禮八幡宮",
@@ -344,7 +351,8 @@
           "https://www.omi8.com/spot/detail_1008.html",
           "https://taneya.jp/shop/shiga_himure"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "name": "白雲館",
@@ -382,7 +390,8 @@
         "id": "omihachiman",
         "name": "近江八幡・八幡堀",
         "href": "/walks/omihachiman/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "name": "まちや倶楽部",
@@ -420,7 +429,8 @@
         "id": "omihachiman",
         "name": "近江八幡・八幡堀",
         "href": "/walks/omihachiman/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "name": "旧八幡郵便局",
@@ -458,7 +468,8 @@
         "id": "omihachiman",
         "name": "近江八幡・八幡堀",
         "href": "/walks/omihachiman/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "name": "ボーダレス・アートミュージアム NO-MA",
@@ -496,7 +507,8 @@
         "id": "omihachiman",
         "name": "近江八幡・八幡堀",
         "href": "/walks/omihachiman/"
-      }
+      },
+      "displayOrder": 12
     },
     {
       "name": "ヴォーリズ記念館（一柳記念館）",
@@ -534,7 +546,8 @@
         "id": "omihachiman",
         "name": "近江八幡・八幡堀",
         "href": "/walks/omihachiman/"
-      }
+      },
+      "displayOrder": 13
     },
     {
       "name": "かわらミュージアム",
@@ -572,7 +585,8 @@
         "id": "omihachiman",
         "name": "近江八幡・八幡堀",
         "href": "/walks/omihachiman/"
-      }
+      },
+      "displayOrder": 14
     },
     {
       "name": "八幡堀",
@@ -618,7 +632,8 @@
           "https://www.omi8.com/spot/detail_1008.html",
           "https://taneya.jp/shop/shiga_himure"
         ]
-      }
+      },
+      "displayOrder": 15
     }
   ],
   "routes": [
@@ -736,6 +751,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "omihachiman",
     "name": "近江八幡・八幡堀",

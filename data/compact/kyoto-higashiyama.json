@@ -91,7 +91,8 @@
           "https://store.starbucks.co.jp/detail-1476/",
           "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kyoto-higashiyama--asahido",
@@ -137,7 +138,8 @@
           "https://www.shichimiya.co.jp/store",
           "https://nittodo.jp/"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "kyoto-higashiyama--p_84bb23435dfac0af",
@@ -186,7 +188,8 @@
         "name": "京都清水・高台寺",
         "href": "/walks/kyoto-higashiyama/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "kyoto-higashiyama--sannenzaka",
@@ -224,7 +227,8 @@
         "id": "kyoto-higashiyama",
         "name": "京都清水・高台寺",
         "href": "/walks/kyoto-higashiyama/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "kyoto-higashiyama--shichimi",
@@ -282,7 +286,8 @@
           "https://www.shichimiya.co.jp/store",
           "https://nittodo.jp/"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "kyoto-higashiyama--itosousou",
@@ -332,7 +337,8 @@
         "id": "kyoto-higashiyama",
         "name": "京都清水・高台寺",
         "href": "/walks/kyoto-higashiyama/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "kyoto-higashiyama--yojiya",
@@ -382,7 +388,8 @@
         "id": "kyoto-higashiyama",
         "name": "京都清水・高台寺",
         "href": "/walks/kyoto-higashiyama/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "kyoto-higashiyama--k36",
@@ -432,7 +439,8 @@
         "id": "kyoto-higashiyama",
         "name": "京都清水・高台寺",
         "href": "/walks/kyoto-higashiyama/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "kyoto-higashiyama--nittodo",
@@ -490,7 +498,8 @@
           "https://www.shichimiya.co.jp/store",
           "https://nittodo.jp/"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "kyoto-higashiyama--hokanji",
@@ -536,7 +545,8 @@
           "https://store.starbucks.co.jp/detail-1476/",
           "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248"
         ]
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "kyoto-higashiyama--koshindo",
@@ -586,7 +596,8 @@
         "id": "kyoto-higashiyama",
         "name": "京都清水・高台寺",
         "href": "/walks/kyoto-higashiyama/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "kyoto-higashiyama--starbucks",
@@ -659,7 +670,8 @@
           "https://store.starbucks.co.jp/detail-1476/",
           "https://ja.kyoto.travel/tourism/single02.php?category_id=9&tourism_id=248"
         ]
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "kyoto-higashiyama--ninenzaka",
@@ -697,7 +709,8 @@
         "id": "kyoto-higashiyama",
         "name": "京都清水・高台寺",
         "href": "/walks/kyoto-higashiyama/"
-      }
+      },
+      "displayOrder": 13
     },
     {
       "id": "kyoto-higashiyama--kodaiji",
@@ -735,7 +748,8 @@
         "id": "kyoto-higashiyama",
         "name": "京都清水・高台寺",
         "href": "/walks/kyoto-higashiyama/"
-      }
+      },
+      "displayOrder": 14
     },
     {
       "id": "kyoto-higashiyama--entokuin",
@@ -773,7 +787,8 @@
         "id": "kyoto-higashiyama",
         "name": "京都清水・高台寺",
         "href": "/walks/kyoto-higashiyama/"
-      }
+      },
+      "displayOrder": 15
     }
   ],
   "routes": [
@@ -909,6 +924,7 @@
       "p_f5376bbc07bc2d0c"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kyoto-higashiyama",
     "name": "京都清水・高台寺",

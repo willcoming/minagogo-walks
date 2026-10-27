@@ -37,7 +37,8 @@
         "id": "imai",
         "name": "今井町",
         "href": "/walks/imai/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "imai--kawai",
@@ -75,7 +76,8 @@
         "id": "imai",
         "name": "今井町",
         "href": "/walks/imai/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "imai--keikan",
@@ -121,7 +123,8 @@
           "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083",
           "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "imai--kometani",
@@ -167,7 +170,8 @@
           "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
           "https://cafe-tamayura-kashihara.com/"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "imai--tamayura",
@@ -213,7 +217,8 @@
           "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
           "https://cafe-tamayura-kashihara.com/"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "imai--machiyakan",
@@ -259,7 +264,8 @@
           "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083",
           "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "imai--shonenji",
@@ -305,7 +311,8 @@
           "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00083",
           "https://kashihara-kanko.or.jp/spot/detail.php?sid=S00105"
         ]
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "imai--jippensha",
@@ -343,7 +350,8 @@
         "id": "imai",
         "name": "今井町",
         "href": "/walks/imai/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "imai--narawashi",
@@ -389,7 +397,8 @@
           "https://kashihara-kanko.or.jp/feature/detail.php?fid=36",
           "https://cafe-tamayura-kashihara.com/"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "imai--imanishi",
@@ -427,7 +436,8 @@
         "id": "imai",
         "name": "今井町",
         "href": "/walks/imai/"
-      }
+      },
+      "displayOrder": 10
     }
   ],
   "routes": [
@@ -551,6 +561,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "imai",
     "name": "今井町",

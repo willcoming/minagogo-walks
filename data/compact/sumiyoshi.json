@@ -49,7 +49,8 @@
         "name": "住吉",
         "href": "/walks/sumiyoshi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -62,6 +63,7 @@
       "p_448c675d56366a58"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "sumiyoshi",
     "name": "住吉",

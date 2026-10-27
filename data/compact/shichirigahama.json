@@ -55,7 +55,8 @@
         "name": "稻村崎・七里濱",
         "href": "/walks/shichirigahama/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "kamakura--p_e03a48877b3f4022",
@@ -110,7 +111,8 @@
         "name": "稻村崎・七里濱",
         "href": "/walks/shichirigahama/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     }
   ],
   "routes": [],
@@ -124,6 +126,7 @@
       "p_e03a48877b3f4022"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "shichirigahama",
     "name": "稻村崎・七里濱",

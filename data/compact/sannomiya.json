@@ -47,7 +47,8 @@
         "id": "sannomiya",
         "name": "三宮站周邊",
         "href": "/walks/sannomiya/"
-      }
+      },
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -58,6 +59,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "sannomiya",
     "name": "三宮站周邊",

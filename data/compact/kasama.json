@@ -38,7 +38,8 @@
         "id": "kasama",
         "name": "笠間稻荷門前",
         "href": "/walks/kasama/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kasama--inari",
@@ -84,7 +85,8 @@
           "https://www.city.kasama.lg.jp/page/page009195.html",
           "https://cafefutaba.jimdosite.com/"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "kasama--sasame",
@@ -122,7 +124,8 @@
         "id": "kasama",
         "name": "笠間稻荷門前",
         "href": "/walks/kasama/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "kasama--futatsugi",
@@ -160,7 +163,8 @@
         "id": "kasama",
         "name": "笠間稻荷門前",
         "href": "/walks/kasama/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "kasama--kula",
@@ -198,7 +202,8 @@
         "id": "kasama",
         "name": "笠間稻荷門前",
         "href": "/walks/kasama/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "kasama--okai",
@@ -236,7 +241,8 @@
         "id": "kasama",
         "name": "笠間稻荷門前",
         "href": "/walks/kasama/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "kasama--kasamacafe",
@@ -274,7 +280,8 @@
         "id": "kasama",
         "name": "笠間稻荷門前",
         "href": "/walks/kasama/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "kasama--lemidi",
@@ -320,7 +327,8 @@
           "https://cfactory.nabeya-rice.com/",
           "https://www.kasama-shoko.jp/member/id119"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "kasama--nakaya",
@@ -358,7 +366,8 @@
         "id": "kasama",
         "name": "笠間稻荷門前",
         "href": "/walks/kasama/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "kasama--idutsuya",
@@ -404,7 +413,8 @@
           "https://www.city.kasama.lg.jp/page/page009195.html",
           "https://cafefutaba.jimdosite.com/"
         ]
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "kasama--littlecu",
@@ -442,7 +452,8 @@
         "id": "kasama",
         "name": "笠間稻荷門前",
         "href": "/walks/kasama/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "kasama--futaba",
@@ -488,7 +499,8 @@
           "https://www.city.kasama.lg.jp/page/page009195.html",
           "https://cafefutaba.jimdosite.com/"
         ]
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "kasama--choco",
@@ -534,7 +546,8 @@
           "https://cfactory.nabeya-rice.com/",
           "https://www.kasama-shoko.jp/member/id119"
         ]
-      }
+      },
+      "displayOrder": 13
     },
     {
       "id": "kasama--nichido",
@@ -580,7 +593,8 @@
           "https://cfactory.nabeya-rice.com/",
           "https://www.kasama-shoko.jp/member/id119"
         ]
-      }
+      },
+      "displayOrder": 14
     },
     {
       "id": "kasama--shofukuji",
@@ -618,7 +632,8 @@
         "id": "kasama",
         "name": "笠間稻荷門前",
         "href": "/walks/kasama/"
-      }
+      },
+      "displayOrder": 15
     }
   ],
   "routes": [
@@ -742,6 +757,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "kasama",
     "name": "笠間稻荷門前",

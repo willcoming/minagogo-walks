@@ -38,7 +38,8 @@
         "id": "sawara",
         "name": "佐原小野川",
         "href": "/walks/sawara/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "sawara--tokun",
@@ -76,7 +77,8 @@
         "id": "sawara",
         "name": "佐原小野川",
         "href": "/walks/sawara/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "sawara--p_a3d238488dfaff0b",
@@ -132,7 +134,8 @@
         "name": "佐原小野川",
         "href": "/walks/sawara/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "sawara--leun",
@@ -179,7 +182,8 @@
         "id": "sawara",
         "name": "佐原小野川",
         "href": "/walks/sawara/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "sawara--ino-museum",
@@ -225,7 +229,8 @@
           "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html",
           "https://www.city.katori.lg.jp/sightseeing/museum/index.html"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "sawara--toyo-bridge",
@@ -271,7 +276,8 @@
           "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html",
           "https://www.city.katori.lg.jp/sightseeing/museum/index.html"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "sawara--ino-residence",
@@ -329,7 +335,8 @@
         "id": "sawara",
         "name": "佐原小野川",
         "href": "/walks/sawara/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "sawara--mitsubishi",
@@ -375,7 +382,8 @@
           "https://www.shoujyou.com/",
           "https://sawara-machinami.com/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "sawara--suppinya",
@@ -433,7 +441,8 @@
         "id": "sawara",
         "name": "佐原小野川",
         "href": "/walks/sawara/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "sawara--nakamuraya",
@@ -471,7 +480,8 @@
         "id": "sawara",
         "name": "佐原小野川",
         "href": "/walks/sawara/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "sawara--kobori",
@@ -509,7 +519,8 @@
         "id": "sawara",
         "name": "佐原小野川",
         "href": "/walks/sawara/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "sawara--fukushin",
@@ -547,7 +558,8 @@
         "id": "sawara",
         "name": "佐原小野川",
         "href": "/walks/sawara/"
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "sawara--inae",
@@ -593,7 +605,8 @@
           "https://www.city.katori.lg.jp/sightseeing/meisho/kanko/toyohashi.html",
           "https://www.city.katori.lg.jp/sightseeing/museum/index.html"
         ]
-      }
+      },
+      "displayOrder": 13
     },
     {
       "id": "sawara--machiya",
@@ -631,7 +644,8 @@
         "id": "sawara",
         "name": "佐原小野川",
         "href": "/walks/sawara/"
-      }
+      },
+      "displayOrder": 14
     },
     {
       "id": "sawara--shojou",
@@ -677,7 +691,8 @@
           "https://www.shoujyou.com/",
           "https://sawara-machinami.com/"
         ]
-      }
+      },
+      "displayOrder": 15
     },
     {
       "id": "sawara--dashi",
@@ -723,7 +738,8 @@
           "https://www.shoujyou.com/",
           "https://sawara-machinami.com/"
         ]
-      }
+      },
+      "displayOrder": 16
     }
   ],
   "routes": [
@@ -851,6 +867,7 @@
       "p_7545204d045b397b"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "sawara",
     "name": "佐原小野川",

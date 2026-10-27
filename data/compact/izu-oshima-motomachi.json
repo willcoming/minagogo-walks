@@ -54,7 +54,8 @@
         "name": "伊豆大島・元町",
         "href": "/walks/izu-oshima-motomachi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -67,6 +68,7 @@
       "p_18174abe5963517a"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "izu-oshima-motomachi",
     "name": "伊豆大島・元町",

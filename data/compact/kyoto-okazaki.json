@@ -51,7 +51,8 @@
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "kyoto-okazaki--craft",
@@ -89,7 +90,8 @@
         "id": "kyoto-okazaki",
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "kyoto-okazaki--momak",
@@ -127,7 +129,8 @@
         "id": "kyoto-okazaki",
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "kyoto-okazaki--terrace",
@@ -173,7 +176,8 @@
           "https://www.heianjingu.or.jp/",
           "https://rohmtheatrekyoto.jp/floorguide/"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "kyoto-okazaki--rohm",
@@ -211,7 +215,8 @@
         "id": "kyoto-okazaki",
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "kyoto-okazaki--hosomi",
@@ -249,7 +254,8 @@
         "id": "kyoto-okazaki",
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "kyoto-okazaki--kyocera",
@@ -305,7 +311,8 @@
           "https://www.heianjingu.or.jp/",
           "https://rohmtheatrekyoto.jp/floorguide/"
         ]
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "kyoto-okazaki--okakita",
@@ -353,7 +360,8 @@
         "id": "kyoto-okazaki",
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "kyoto-okazaki--heian",
@@ -409,7 +417,8 @@
           "https://www.heianjingu.or.jp/",
           "https://rohmtheatrekyoto.jp/floorguide/"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "kyoto-okazaki--zoo",
@@ -447,7 +456,8 @@
         "id": "kyoto-okazaki",
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "kyoto-okazaki--murin",
@@ -492,7 +502,8 @@
           "https://murin-an.jp/",
           "https://store.bluebottlecoffee.jp/pages/kyoto"
         ]
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "kyoto-okazaki--sosui",
@@ -530,7 +541,8 @@
         "id": "kyoto-okazaki",
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "kyoto-okazaki--bluebottle",
@@ -594,7 +606,8 @@
           "https://murin-an.jp/",
           "https://store.bluebottlecoffee.jp/pages/kyoto"
         ]
-      }
+      },
+      "displayOrder": 13
     },
     {
       "id": "kyoto-okazaki--nanzen",
@@ -632,7 +645,8 @@
         "id": "kyoto-okazaki",
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
-      }
+      },
+      "displayOrder": 14
     },
     {
       "id": "kyoto-okazaki--eikando",
@@ -670,7 +684,8 @@
         "id": "kyoto-okazaki",
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
-      }
+      },
+      "displayOrder": 15
     },
     {
       "id": "kyoto-okazaki--okazakijinja",
@@ -693,7 +708,17 @@
           "channel": "Celia Ting",
           "videoId": "pemI7VRrJ8Y",
           "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
-          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y"
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Celia Ting",
+          "videoId": "pemI7VRrJ8Y",
+          "title": "第一次來京都🍵 ｜直衝宇治抹茶工廠、參拜兔子神社、住到人生飯店🤎｜Kyoto in 4 days",
+          "url": "https://www.youtube.com/watch?v=pemI7VRrJ8Y",
+          "time": "27:39",
+          "seconds": 1659
         }
       ],
       "coordinate": {
@@ -718,7 +743,8 @@
         "id": "kyoto-okazaki",
         "name": "京都岡崎・南禪寺",
         "href": "/walks/kyoto-okazaki/"
-      }
+      },
+      "displayOrder": 16
     }
   ],
   "routes": [
@@ -842,6 +868,7 @@
       "p_7d1ded7a28a58a47"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kyoto-okazaki",
     "name": "京都岡崎・南禪寺",

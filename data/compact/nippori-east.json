@@ -53,7 +53,8 @@
         "name": "日暮里東側",
         "href": "/walks/nippori-east/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "yanaka--p_49a5c097f87425e4",
@@ -108,7 +109,8 @@
         "name": "日暮里東側",
         "href": "/walks/nippori-east/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     }
   ],
   "routes": [],
@@ -122,6 +124,7 @@
       "p_49a5c097f87425e4"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "nippori-east",
     "name": "日暮里東側",

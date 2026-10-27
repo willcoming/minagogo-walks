@@ -46,7 +46,8 @@
           "https://www.ashikaga-kankou.jp/buy/usagiya",
           "https://www.ashikaga-kankou.jp/spot/artspaceandcafe"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "ashikaga--hachikura",
@@ -92,7 +93,8 @@
           "https://www.ashikaga-kankou.jp/spot/bannaji",
           "https://www.ashikaga-kankou.jp/ashikaga-gosyuinl/detail/Recommendedcafe.html"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "ashikaga--usagiya",
@@ -138,7 +140,8 @@
           "https://www.ashikaga-kankou.jp/buy/usagiya",
           "https://www.ashikaga-kankou.jp/spot/artspaceandcafe"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "ashikaga--bannaji",
@@ -184,7 +187,8 @@
           "https://www.ashikaga-kankou.jp/spot/bannaji",
           "https://www.ashikaga-kankou.jp/ashikaga-gosyuinl/detail/Recommendedcafe.html"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "ashikaga--gakko",
@@ -230,7 +234,8 @@
           "https://www.ashikaga-kankou.jp/spot/bannaji",
           "https://www.ashikaga-kankou.jp/ashikaga-gosyuinl/detail/Recommendedcafe.html"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "ashikaga--taihei",
@@ -268,7 +273,8 @@
         "id": "ashikaga",
         "name": "足利學校・織姬",
         "href": "/walks/ashikaga/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "ashikaga--yugaku",
@@ -306,7 +312,8 @@
         "id": "ashikaga",
         "name": "足利學校・織姬",
         "href": "/walks/ashikaga/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "ashikaga--museum",
@@ -352,7 +359,8 @@
           "https://www.ashikaga-kankou.jp/buy/usagiya",
           "https://www.ashikaga-kankou.jp/spot/artspaceandcafe"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "ashikaga--orimono",
@@ -390,7 +398,8 @@
         "id": "ashikaga",
         "name": "足利學校・織姬",
         "href": "/walks/ashikaga/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "ashikaga--koundo",
@@ -428,7 +437,8 @@
         "id": "ashikaga",
         "name": "足利學校・織姬",
         "href": "/walks/ashikaga/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "ashikaga--heki",
@@ -466,7 +476,8 @@
         "id": "ashikaga",
         "name": "足利學校・織姬",
         "href": "/walks/ashikaga/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "ashikaga--orihime",
@@ -504,7 +515,8 @@
         "id": "ashikaga",
         "name": "足利學校・織姬",
         "href": "/walks/ashikaga/"
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "ashikaga--butsugai",
@@ -542,7 +554,8 @@
         "id": "ashikaga",
         "name": "足利學校・織姬",
         "href": "/walks/ashikaga/"
-      }
+      },
+      "displayOrder": 13
     },
     {
       "id": "ashikaga--bridge",
@@ -580,7 +593,8 @@
         "id": "ashikaga",
         "name": "足利學校・織姬",
         "href": "/walks/ashikaga/"
-      }
+      },
+      "displayOrder": 14
     }
   ],
   "routes": [
@@ -696,6 +710,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "ashikaga",
     "name": "足利學校・織姬",

@@ -44,7 +44,8 @@
           "https://www.naritasan.or.jp/tour/other/",
           "https://www.naritashodo.jp/?page_id=10120"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "kyoto-fushimi--p_b7b5ba7c26c6e0c5",
@@ -99,7 +100,8 @@
         "name": "成田山表參道",
         "href": "/walks/narita/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "narita--shinshoji",
@@ -165,7 +167,8 @@
           "https://www.nrtk.jp/mypage/00055.html",
           "https://www.naritasan.or.jp/"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "narita--park",
@@ -210,7 +213,8 @@
           "https://www.naritasan.or.jp/tour/other/",
           "https://www.naritashodo.jp/?page_id=10120"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "narita--visitor",
@@ -248,7 +252,8 @@
         "id": "narita",
         "name": "成田山表參道",
         "href": "/walks/narita/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "narita--fujikura",
@@ -294,7 +299,8 @@
           "https://www.nrtk.jp/mypage/00055.html",
           "https://www.naritasan.or.jp/"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "narita--kawatoyo",
@@ -332,7 +338,8 @@
         "id": "narita",
         "name": "成田山表參道",
         "href": "/walks/narita/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "narita--miyoshiya",
@@ -378,7 +385,8 @@
           "https://www.nrtk.jp/mypage/00055.html",
           "https://www.naritasan.or.jp/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "narita--hayashida",
@@ -416,7 +424,8 @@
         "id": "narita",
         "name": "成田山表參道",
         "href": "/walks/narita/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "narita--yoneya",
@@ -454,7 +463,8 @@
         "id": "narita",
         "name": "成田山表參道",
         "href": "/walks/narita/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "narita--goto",
@@ -492,7 +502,8 @@
         "id": "narita",
         "name": "成田山表參道",
         "href": "/walks/narita/"
-      }
+      },
+      "displayOrder": 11
     }
   ],
   "routes": [
@@ -613,6 +624,7 @@
       "p_b1d95c11d2d22829"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "narita",
     "name": "成田山表參道",

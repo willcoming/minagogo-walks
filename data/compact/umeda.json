@@ -51,7 +51,8 @@
         "name": "梅田站・茶屋町",
         "href": "/walks/umeda/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "nakazakicho--p_75420c1c9ffb6b12",
@@ -102,7 +103,8 @@
         "name": "梅田站・茶屋町",
         "href": "/walks/umeda/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "nakazakicho--p_e078f000f87057e6",
@@ -153,7 +155,8 @@
         "name": "梅田站・茶屋町",
         "href": "/walks/umeda/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     }
   ],
   "routes": [],
@@ -168,6 +171,7 @@
       "p_e078f000f87057e6"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "umeda",
     "name": "梅田站・茶屋町",

@@ -71,7 +71,8 @@
         "name": "京橋・寶町",
         "href": "/walks/kyobashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -85,6 +86,7 @@
       "p_ad2cfeaaada5424b"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kyobashi",
     "name": "京橋・寶町",

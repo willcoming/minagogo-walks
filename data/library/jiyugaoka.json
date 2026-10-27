@@ -1713,24 +1713,24 @@
     {
       "id": "jiyugaoka--p_07f24538c3b013f1",
       "name": "Paris S'eveille（パリセヴェイユ）",
-      "address": "東京都目黒区自由が上2丁目14-5",
+      "address": "東京都目黒区自由が丘2-14-5 館山ビル1F",
       "group": "sights",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「Paris S'eveille（パリセヴェイユ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が上2丁目14-5。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都目黒区自由が丘2-14-5 館山ビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {
-        "lat": 35.610138,
-        "lng": 139.669952,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%8A2%E4%B8%81%E7%9B%AE14-5",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+        "lat": 35.6069629,
+        "lng": 139.6665734,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/patisserie+Paris+S'eveille/@35.6069629,139.6665734,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f51e8a2e4139:0x695d461432ff79ab!8m2!3d35.6069629!4d139.6665734!16s%2Fg%2F1tfxgqvx?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "shopUrl": "https://tabelog.com/tokyo/A1317/A131703/13005198/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
       },
       "sources": [
         {
@@ -1751,7 +1751,7 @@
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Paris+S%27eveille%EF%BC%88%E3%83%91%E3%83%AA%E3%82%BB%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%8A2%E4%B8%81%E7%9B%AE14-5"
+        "mapUrl": "https://www.google.com/maps/place/patisserie+Paris+S'eveille/@35.6069629,139.6665734,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f51e8a2e4139:0x695d461432ff79ab!8m2!3d35.6069629!4d139.6665734!16s%2Fg%2F1tfxgqvx?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "illustration": {
         "image": "/art/source-library/jiyugaoka--p_07f24538c3b013f1.webp",
@@ -2367,16 +2367,21 @@
     {
       "id": "jiyugaoka--p_caef28ea72e47439",
       "name": "アルチザン・ブーランジェ・クピド",
-      "address": "世田谷区奥沢３丁目４５−２ 奥沢駅 徒歩３分",
+      "address": "東京都世田谷区奥沢3丁目45−2",
       "group": "sights",
       "categoryLabel": "交通",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「アルチザン・ブーランジェ・クピド」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 世田谷区奥沢３丁目４５−２ 奥沢駅 徒歩３分。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都世田谷区奥沢3丁目45−2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
-      "coordinate": null,
+      "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
+      "coordinate": {
+        "lat": 35.603439,
+        "lng": 139.673859,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
       "sources": [
         {
           "channel": "Tokyo Cafe Channel",
@@ -2395,7 +2400,7 @@
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
-        "extension": false,
+        "extension": true,
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%81%E3%82%B6%E3%83%B3%E3%83%BB%E3%83%96%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%BB%E3%82%AF%E3%83%94%E3%83%89+%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A5%A5%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%94%EF%BC%95%E2%88%92%EF%BC%92+%E5%A5%A5%E6%B2%A2%E9%A7%85+%E5%BE%92%E6%AD%A9%EF%BC%93%E5%88%86"
       },
       "illustration": {

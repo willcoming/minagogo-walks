@@ -54,7 +54,8 @@
         "name": "築地",
         "href": "/walks/tsukiji/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "defaultSelection": null,
@@ -66,6 +67,7 @@
       "p_499533cd5ccca793"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "tsukiji",
     "name": "築地",

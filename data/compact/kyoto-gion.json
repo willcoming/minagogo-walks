@@ -58,7 +58,8 @@
         "name": "京都祇園",
         "href": "/walks/kyoto-gion/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "kyoto-higashiyama--p_cca86fe0bdd22b1d",
@@ -116,7 +117,8 @@
           "https://giontsujiri.co.jp/store/saryotsujiri-honten/"
         ]
       },
-      "recommendation": "回到祇園商店街，在都路里選一份茶甜點。"
+      "recommendation": "回到祇園商店街，在都路里選一份茶甜點。",
+      "displayOrder": 2
     },
     {
       "id": "kyoto-higashiyama--p_9f37c326a0bd41ac",
@@ -177,7 +179,8 @@
         "name": "京都祇園",
         "href": "/walks/kyoto-gion/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "kyoto-higashiyama--p_12b04da60b2b1515",
@@ -240,7 +243,8 @@
           "https://gion-kitagwahanbee.com/en"
         ]
       },
-      "recommendation": "在北川半兵衛留一段品茶與甜點時間。"
+      "recommendation": "在北川半兵衛留一段品茶與甜點時間。",
+      "displayOrder": 4
     },
     {
       "id": "kyoto-higashiyama--p_8b836e89080ccd20",
@@ -305,7 +309,8 @@
           "https://gion-kitagwahanbee.com/en"
         ]
       },
-      "recommendation": "參拜八坂神社，再往祇園南側的街巷散步。"
+      "recommendation": "參拜八坂神社，再往祇園南側的街巷散步。",
+      "displayOrder": 5
     },
     {
       "id": "kyoto-higashiyama--yasui",
@@ -355,7 +360,8 @@
         "id": "kyoto-gion",
         "name": "京都祇園",
         "href": "/walks/kyoto-gion/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "kyoto-higashiyama--p_987f648f151229d0",
@@ -406,7 +412,8 @@
         "name": "京都祇園",
         "href": "/walks/kyoto-gion/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 7
     },
     {
       "id": "kyoto-higashiyama--p_c26bee4052bedb00",
@@ -457,7 +464,8 @@
         "name": "京都祇園",
         "href": "/walks/kyoto-gion/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 8
     },
     {
       "id": "kyoto-higashiyama--p_777a851faf84d814",
@@ -517,7 +525,8 @@
           "https://giontsujiri.co.jp/store/saryotsujiri-honten/"
         ]
       },
-      "recommendation": "安排建仁寺參觀，入內前確認當日拜觀範圍。"
+      "recommendation": "安排建仁寺參觀，入內前確認當日拜觀範圍。",
+      "displayOrder": 9
     }
   ],
   "routes": [
@@ -635,6 +644,7 @@
       "p_777a851faf84d814"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kyoto-gion",
     "name": "京都祇園",

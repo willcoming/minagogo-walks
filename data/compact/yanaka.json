@@ -38,7 +38,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "yanaka--p_f020150de26fe73e",
@@ -93,7 +94,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "yanaka--p_1d5637301ef3bd7c",
@@ -157,62 +159,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
-    },
-    {
-      "id": "yanaka--p_18f7ac1544470bd0",
-      "name": "亀の子束子 谷中店（閉店紀錄）",
-      "address": "東京都文京区根津2-19-8 SENTOビル1F A",
-      "group": "shops",
-      "categoryLabel": "生活道具",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "亀の子束子谷中店曾在根津的舊宮之湯建築販售棕櫚刷與生活道具，這裡保留影片時期的店面。",
-        "原始資料記錄的地址為 東京都文京区根津2-19-8 SENTOビル1F A。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "官方已公告谷中店於2026年5月10日閉店；此地址為2020年搬入的根津舊址，不能再安排購物。",
-      "coordinate": {
-        "lat": 35.718433,
-        "lng": 139.765244,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA%E6%A0%B9%E6%B4%A52-19-8",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "r26KUeSIgKg",
-          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
-          "time": "6:21",
-          "seconds": 381
-        }
-      ],
-      "official": "https://www.kamenoko-tawashi.co.jp/shopinfo/14241",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_18f7ac1544470bd0"
-        ],
-        "status": "closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": null
-      },
-      "illustration": {
-        "image": "/art/source-library/yanaka--p_18f7ac1544470bd0.webp",
-        "alt": "亀の子束子 谷中店（閉店紀錄）的日系水彩插圖"
-      },
-      "order": 4,
-      "canonicalArea": {
-        "id": "yanaka",
-        "name": "谷根千",
-        "href": "/walks/yanaka/"
-      },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
       "id": "yanaka--kayaba",
@@ -272,7 +220,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "yanaka--yoshidaya",
@@ -310,7 +259,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "yanaka--p_19a5131afe1ba3ea",
@@ -363,7 +313,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 6
     },
     {
       "id": "yanaka--aiyu",
@@ -401,7 +352,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "yanaka--scai",
@@ -448,7 +400,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "yanaka--beer-hall",
@@ -498,7 +451,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "yanaka--atari",
@@ -556,7 +510,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "yanaka--p_e89032327d195175",
@@ -620,7 +575,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 11
     },
     {
       "id": "yanaka--think",
@@ -678,62 +634,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
-    },
-    {
-      "id": "yanaka--p_b12b22086ced0e1a",
-      "name": "VANER（閉店紀錄）",
-      "address": "東京都台東区上野桜木2-15-6",
-      "group": "food",
-      "categoryLabel": "麵包",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "原影片收錄上野桜木あたり裡的北歐風麵包店 VANER，保留當年的木造店面與影片紀錄。",
-        "原始資料記錄的地址為 東京都台東区上野桜木2-15-6。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "實訪媒體 NICO STOP 已註記此店於2022年11月27日閉店；保留歷史資料，不再列入導航停靠。",
-      "coordinate": {
-        "lat": 35.72234,
-        "lng": 139.770828,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
       },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "W-E7hko919E",
-          "title": "cafe vlog｜谷根千カフェ・グルメ巡り6選／下町散策／古民家カフェ／和栗や／ひみつ堂",
-          "url": "https://www.youtube.com/watch?v=W-E7hko919E",
-          "time": "3:02",
-          "seconds": 182
-        }
-      ],
-      "official": "https://tabelog.com/tokyo/A1311/A131105/13224862/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_b12b22086ced0e1a"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=VANER+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6"
-      },
-      "illustration": {
-        "image": "/art/source-library/yanaka--p_b12b22086ced0e1a.webp",
-        "alt": "VANER（閉店紀錄）的日系水彩插圖"
-      },
-      "order": 14,
-      "canonicalArea": {
-        "id": "yanaka",
-        "name": "谷根千",
-        "href": "/walks/yanaka/"
-      },
-      "recommendation": null
+      "displayOrder": 12
     },
     {
       "id": "yanaka--p_94d975e547970c05",
@@ -788,7 +690,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 13
     },
     {
       "id": "yanaka--p_0216823918be70b6",
@@ -843,7 +746,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 14
     },
     {
       "id": "yanaka--cemetery",
@@ -901,7 +805,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 15
     },
     {
       "id": "yanaka--p_b9baa09a351372e0",
@@ -954,7 +859,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 16
     },
     {
       "id": "yanaka--nikai",
@@ -1004,7 +910,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 17
     },
     {
       "id": "yanaka--p_656b54d90866e923",
@@ -1059,7 +966,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 18
     },
     {
       "id": "yanaka--p_c0b5e1594558e86b",
@@ -1114,7 +1022,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 19
     },
     {
       "id": "yanaka--zenshoan",
@@ -1152,7 +1061,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 20
     },
     {
       "id": "yanaka--isetatsu",
@@ -1198,7 +1108,8 @@
           "https://www.isetatsu.com/company/",
           "https://www.cibi.jp/ja-jp/pages/access"
         ]
-      }
+      },
+      "displayOrder": 21
     },
     {
       "id": "yanaka--cibi",
@@ -1270,7 +1181,8 @@
           "https://www.isetatsu.com/company/",
           "https://www.cibi.jp/ja-jp/pages/access"
         ]
-      }
+      },
+      "displayOrder": 22
     },
     {
       "id": "yanaka--p_b667f915e5584eef",
@@ -1325,7 +1237,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 23
     },
     {
       "id": "yanaka--fukumaru",
@@ -1372,7 +1285,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 24
     },
     {
       "id": "yanaka--hagiso",
@@ -1438,7 +1352,8 @@
           "https://www.yanakaginza.com/",
           "https://hagiso.com/hagiso/"
         ]
-      }
+      },
+      "displayOrder": 25
     },
     {
       "id": "yanaka--himitsudo",
@@ -1503,7 +1418,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 26
     },
     {
       "id": "yanaka--p_62d18a721c3c6c01",
@@ -1558,7 +1474,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 27
     },
     {
       "id": "yanaka--p_45316fa41dc4d277",
@@ -1634,7 +1551,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 28
     },
     {
       "id": "yanaka--fukubagel",
@@ -1684,7 +1602,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 29
     },
     {
       "id": "yanaka--matsunoya",
@@ -1739,7 +1658,8 @@
           "https://www.isetatsu.com/company/",
           "https://www.cibi.jp/ja-jp/pages/access"
         ]
-      }
+      },
+      "displayOrder": 30
     },
     {
       "id": "yanaka--p_d23040e6954214c6",
@@ -1792,7 +1712,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 31
     },
     {
       "id": "yanaka--starbucks",
@@ -1851,60 +1772,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
-    },
-    {
-      "id": "yanaka--p_86a1d11be6c5200c",
-      "name": "たんぴょう亭（閉店紀錄）",
-      "address": "東京都台東区谷中7-18-21",
-      "group": "food",
-      "categoryLabel": "日本料理",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "原影片介紹谷中巷內的日本料理店たんぴょう亭，這裡保留當年的店面與用餐紀錄。",
-        "原始資料記錄的地址為 東京都台東区谷中7-18-21。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "食べログ目前標示閉店，未找到確切閉店日期；保留原址與影片，不能再按舊影片安排用餐。",
-      "coordinate": {
-        "lat": 35.727409,
-        "lng": 139.769058,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD7-18-21",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
       },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "iZhgxQ0X5Vk",
-          "title": "[日暮裡/西日暮裡]午餐最佳7！ @日本東京",
-          "url": "https://www.youtube.com/watch?v=iZhgxQ0X5Vk"
-        }
-      ],
-      "official": "https://tabelog.com/tokyo/A1311/A131105/13038075/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_86a1d11be6c5200c"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=688215248213525317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/yanaka--p_86a1d11be6c5200c.webp",
-        "alt": "たんぴょう亭（閉店紀錄）的日系水彩插圖"
-      },
-      "order": 35,
-      "canonicalArea": {
-        "id": "yanaka",
-        "name": "谷根千",
-        "href": "/walks/yanaka/"
-      },
-      "recommendation": null
+      "displayOrder": 32
     },
     {
       "id": "yanaka--asakura",
@@ -1950,7 +1819,8 @@
           "https://www.yanakaginza.com/",
           "https://hagiso.com/hagiso/"
         ]
-      }
+      },
+      "displayOrder": 33
     },
     {
       "id": "yanaka--tennoji",
@@ -1988,7 +1858,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 34
     },
     {
       "id": "yanaka--p_ecf884d7d05c2233",
@@ -2043,7 +1914,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 35
     },
     {
       "id": "yanaka--ginza",
@@ -2122,7 +1994,8 @@
           "https://www.yanakaginza.com/",
           "https://hagiso.com/hagiso/"
         ]
-      }
+      },
+      "displayOrder": 36
     },
     {
       "id": "yanaka--waguriya",
@@ -2181,7 +2054,8 @@
         "id": "yanaka",
         "name": "谷根千",
         "href": "/walks/yanaka/"
-      }
+      },
+      "displayOrder": 37
     },
     {
       "id": "yanaka--p_9ce0b4a4d7c066b7",
@@ -2234,7 +2108,8 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 38
     },
     {
       "id": "yanaka--p_f42563428873dc5b",
@@ -2280,7 +2155,174 @@
         "name": "谷根千",
         "href": "/walks/yanaka/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 39
+    },
+    {
+      "id": "yanaka--p_18f7ac1544470bd0",
+      "name": "亀の子束子 谷中店（閉店紀錄）",
+      "address": "東京都文京区根津2-19-8 SENTOビル1F A",
+      "group": "shops",
+      "categoryLabel": "生活道具",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "亀の子束子谷中店曾在根津的舊宮之湯建築販售棕櫚刷與生活道具，這裡保留影片時期的店面。",
+        "原始資料記錄的地址為 東京都文京区根津2-19-8 SENTOビル1F A。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "官方已公告谷中店於2026年5月10日閉店；此地址為2020年搬入的根津舊址，不能再安排購物。",
+      "coordinate": {
+        "lat": 35.718433,
+        "lng": 139.765244,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA%E6%A0%B9%E6%B4%A52-19-8",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "r26KUeSIgKg",
+          "title": "🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=r26KUeSIgKg",
+          "time": "6:21",
+          "seconds": 381
+        }
+      ],
+      "official": "https://www.kamenoko-tawashi.co.jp/shopinfo/14241",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_18f7ac1544470bd0"
+        ],
+        "status": "closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": null
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_18f7ac1544470bd0.webp",
+        "alt": "亀の子束子 谷中店（閉店紀錄）的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "yanaka--p_b12b22086ced0e1a",
+      "name": "VANER（閉店紀錄）",
+      "address": "東京都台東区上野桜木2-15-6",
+      "group": "food",
+      "categoryLabel": "麵包",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片收錄上野桜木あたり裡的北歐風麵包店 VANER，保留當年的木造店面與影片紀錄。",
+        "原始資料記錄的地址為 東京都台東区上野桜木2-15-6。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "實訪媒體 NICO STOP 已註記此店於2022年11月27日閉店；保留歷史資料，不再列入導航停靠。",
+      "coordinate": {
+        "lat": 35.72234,
+        "lng": 139.770828,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；請依現場店面與樓層標示確認。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "W-E7hko919E",
+          "title": "cafe vlog｜谷根千カフェ・グルメ巡り6選／下町散策／古民家カフェ／和栗や／ひみつ堂",
+          "url": "https://www.youtube.com/watch?v=W-E7hko919E",
+          "time": "3:02",
+          "seconds": 182
+        }
+      ],
+      "official": "https://tabelog.com/tokyo/A1311/A131105/13224862/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b12b22086ced0e1a"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=VANER+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%E6%A1%9C%E6%9C%A82-15-6"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_b12b22086ced0e1a.webp",
+        "alt": "VANER（閉店紀錄）的日系水彩插圖"
+      },
+      "order": 14,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "yanaka--p_86a1d11be6c5200c",
+      "name": "たんぴょう亭（閉店紀錄）",
+      "address": "東京都台東区谷中7-18-21",
+      "group": "food",
+      "categoryLabel": "日本料理",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹谷中巷內的日本料理店たんぴょう亭，這裡保留當年的店面與用餐紀錄。",
+        "原始資料記錄的地址為 東京都台東区谷中7-18-21。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "食べログ目前標示閉店，未找到確切閉店日期；保留原址與影片，不能再按舊影片安排用餐。",
+      "coordinate": {
+        "lat": 35.727409,
+        "lng": 139.769058,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%B0%B7%E4%B8%AD7-18-21",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；車站與街道位置請依現場出口或通行路線確認。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "iZhgxQ0X5Vk",
+          "title": "[日暮裡/西日暮裡]午餐最佳7！ @日本東京",
+          "url": "https://www.youtube.com/watch?v=iZhgxQ0X5Vk"
+        }
+      ],
+      "official": "https://tabelog.com/tokyo/A1311/A131105/13038075/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_86a1d11be6c5200c"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=688215248213525317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/yanaka--p_86a1d11be6c5200c.webp",
+        "alt": "たんぴょう亭（閉店紀錄）的日系水彩插圖"
+      },
+      "order": 35,
+      "canonicalArea": {
+        "id": "yanaka",
+        "name": "谷根千",
+        "href": "/walks/yanaka/"
+      },
+      "recommendation": null,
+      "displayOrder": null
     }
   ],
   "routes": [
@@ -2406,7 +2448,6 @@
       "p_f020150de26fe73e",
       "p_1d5637301ef3bd7c",
       "p_547b4dc6d19c5af1",
-      "p_18f7ac1544470bd0",
       "p_c29efc02a40be4b7",
       "p_19a5131afe1ba3ea",
       "p_e75d13ff807d02e9",
@@ -2414,7 +2455,6 @@
       "p_e89032327d195175",
       "p_0d72812f39a0e5b4",
       "p_dd3bb2220ea60bc4",
-      "p_b12b22086ced0e1a",
       "p_94d975e547970c05",
       "p_0216823918be70b6",
       "p_ebe7bd9dc663c50e",
@@ -2434,16 +2474,19 @@
       "p_d23040e6954214c6",
       "p_336ec564bb6a5aaf",
       "p_61b135d0ce252ce9",
-      "p_86a1d11be6c5200c",
       "p_ecf884d7d05c2233",
       "p_17ed58db06b4794e",
       "p_04c00a97d708cb2b",
       "p_845ac5055e10029c",
       "p_279ee56c0f09928b",
       "p_9ce0b4a4d7c066b7",
-      "p_f42563428873dc5b"
+      "p_f42563428873dc5b",
+      "p_18f7ac1544470bd0",
+      "p_b12b22086ced0e1a",
+      "p_86a1d11be6c5200c"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "yanaka",
     "name": "谷根千",

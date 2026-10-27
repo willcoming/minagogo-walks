@@ -55,7 +55,8 @@
         "name": "高田馬場・高田三丁目",
         "href": "/walks/takadanobaba/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -68,6 +69,7 @@
       "p_a040448ef5601644"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "takadanobaba",
     "name": "高田馬場・高田三丁目",

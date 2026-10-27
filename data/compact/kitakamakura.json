@@ -55,7 +55,8 @@
         "name": "北鎌倉",
         "href": "/walks/kitakamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "kamakura--p_b5d18e801dd1a2c5",
@@ -110,7 +111,8 @@
         "name": "北鎌倉",
         "href": "/walks/kitakamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "kamakura--p_9b8b1580595c83a6",
@@ -165,7 +167,8 @@
         "name": "北鎌倉",
         "href": "/walks/kitakamakura/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     }
   ],
   "routes": [],
@@ -180,6 +183,7 @@
       "p_9b8b1580595c83a6"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kitakamakura",
     "name": "北鎌倉",

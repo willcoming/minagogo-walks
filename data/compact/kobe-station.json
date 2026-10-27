@@ -47,7 +47,8 @@
         "id": "kobe-station",
         "name": "神戶站・湊川神社",
         "href": "/walks/kobe-station/"
-      }
+      },
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -58,6 +59,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "kobe-station",
     "name": "神戶站・湊川神社",

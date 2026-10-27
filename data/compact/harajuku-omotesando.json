@@ -55,7 +55,8 @@
         "name": "原宿・表參道",
         "href": "/walks/harajuku-omotesando/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -68,6 +69,7 @@
       "p_f243fdad43222637"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "harajuku-omotesando",
     "name": "原宿・表參道",

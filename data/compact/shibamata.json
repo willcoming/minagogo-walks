@@ -45,7 +45,8 @@
           "https://katsushika-kanko.jp/shiba/005toramus.html",
           "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "shibamata--yamada",
@@ -83,7 +84,8 @@
         "id": "shibamata",
         "name": "柴又",
         "href": "/walks/shibamata/"
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "shibamata--park",
@@ -129,7 +131,8 @@
           "https://katsushika-kanko.jp/shiba/005toramus.html",
           "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "shibamata--yamamoto",
@@ -185,7 +188,8 @@
           "https://katsushika-kanko.jp/shiba/002yamamototei.html",
           "https://katsushika-kanko.jp/shiba/010takagiya.html"
         ]
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "shibamata--taishakuten",
@@ -231,7 +235,8 @@
           "https://katsushika-kanko.jp/shiba/002yamamototei.html",
           "https://katsushika-kanko.jp/shiba/010takagiya.html"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "shibamata--kawachiya",
@@ -269,7 +274,8 @@
         "id": "shibamata",
         "name": "柴又",
         "href": "/walks/shibamata/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "shibamata--matsuya",
@@ -307,7 +313,8 @@
         "id": "shibamata",
         "name": "柴又",
         "href": "/walks/shibamata/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "shibamata--ishii",
@@ -345,7 +352,8 @@
         "id": "shibamata",
         "name": "柴又",
         "href": "/walks/shibamata/"
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "shibamata--toraya",
@@ -391,7 +399,8 @@
           "https://katsushika-kanko.jp/shiba/005toramus.html",
           "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "shibamata--takagiya",
@@ -447,7 +456,8 @@
           "https://katsushika-kanko.jp/shiba/002yamamototei.html",
           "https://katsushika-kanko.jp/shiba/010takagiya.html"
         ]
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "shibamata--p_c159b16530210987",
@@ -496,7 +506,8 @@
         "name": "柴又",
         "href": "/walks/shibamata/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 11
     },
     {
       "id": "shibamata--p_86f5a24a0efe8535",
@@ -550,7 +561,8 @@
         "name": "柴又",
         "href": "/walks/shibamata/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 12
     }
   ],
   "routes": [
@@ -679,6 +691,7 @@
       "p_86f5a24a0efe8535"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "shibamata",
     "name": "柴又",

@@ -54,7 +54,8 @@
         "name": "堂島浜",
         "href": "/walks/dojimahama/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -67,6 +68,7 @@
       "p_fd6484147b2101f4"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "dojimahama",
     "name": "堂島浜",

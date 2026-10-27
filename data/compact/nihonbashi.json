@@ -2,102 +2,45 @@
   "updatedAt": "2026-10-26",
   "places": [
     {
-      "id": "nihonbashi--p_1d8adec9d46b584c",
-      "name": "いい乃じ",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 3-chōme−2−１ コレド室町テラス １F",
+      "id": "nihonbashi--p_e5e24ed267852edf",
+      "name": "Nihonbashi Dashi Bar Hanare",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 1F",
       "group": "food",
       "categoryLabel": "餐廳",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「Iinoji」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 3-chōme−2−１ コレド室町テラス １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Nihonbashi Dashi Bar Hanare」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.6882151,
-        "lng": 139.7724331,
+        "lat": 35.6866848,
+        "lng": 139.7747375,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
           "channel": "ハーリーのグルメ",
-          "videoId": "a-hJd0A0ys4",
-          "title": "【日本橋午餐精選5選】從香川直送的高性價比烏龍麵、米其林星級斯里蘭卡料理、銀行裝修後的小酒館等等！",
-          "url": "https://www.youtube.com/watch?v=a-hJd0A0ys4"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "IygyJAPg9Xs",
-          "title": "【東京午餐精選7】麵包吃到飽、巨型山豬肉、東京唯一的漢堡等等！",
-          "url": "https://www.youtube.com/watch?v=IygyJAPg9Xs"
-        }
-      ],
-      "official": "https://iinoji.zetton.co.jp/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_1d8adec9d46b584c"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=7158092119783181677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_1d8adec9d46b584c.webp",
-        "alt": "いい乃じ的日系水彩插圖"
-      },
-      "order": 1,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_a2df3a2afa4f42f4",
-      "name": "COREDO 室町Terrace",
-      "address": "3-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「COREDO 室町Terrace」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.687748299999996,
-        "lng": 139.77253299999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "W4TmqMySm0Q",
-          "title": "A Day in Tokyo : Yaesu & Nihonbashi / Tokyo's Timeless & Modern Heart | 2025 Tokyo Vlog",
-          "url": "https://www.youtube.com/watch?v=W4TmqMySm0Q",
-          "time": "16:24",
-          "seconds": 984
+          "videoId": "imShh65JKDI",
+          "title": "【日本橋午餐精選5選】米其林星級！ 1919年創業300年的壽喜燒鰹魚片家族經營的東京第一披薩店！",
+          "url": "https://www.youtube.com/watch?v=imShh65JKDI"
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_a2df3a2afa4f42f4"
+          "p_e5e24ed267852edf"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=1342476599623167850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=16944559240344062167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/nihonbashi--p_a2df3a2afa4f42f4.webp",
-        "alt": "COREDO 室町Terrace的日系水彩插圖"
+        "image": "/art/source-library/nihonbashi--p_e5e24ed267852edf.webp",
+        "alt": "Nihonbashi Dashi Bar Hanare的日系水彩插圖"
       },
       "order": 2,
       "canonicalArea": {
@@ -105,54 +48,49 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
-      "id": "nihonbashi--p_933de38a7d78f07e",
-      "name": "guang（グアン）",
-      "address": "東京都中央区日本橋室町3-2-1 コレド室町テラス 2F",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "id": "nihonbashi--p_adbc5cca73b1a77f",
+      "name": "日本橋 芋屋金次郎",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ 一階",
+      "group": "food",
+      "categoryLabel": "甜點",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「guang（グアン）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋室町3-2-1 コレド室町テラス 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「日本橋 芋屋金次郎」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ 一階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.687458,
-        "lng": 139.77272,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA3-2-1",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+        "lat": 35.6867657,
+        "lng": 139.7746309,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "65E1KjhHIGg",
-          "title": "cafe vlog｜2021冬NEW OPENカフェ6選！／渋谷／自由が丘／日本橋／銀座／...etc",
-          "url": "https://www.youtube.com/watch?v=65E1KjhHIGg",
-          "time": "5:35",
-          "seconds": 335
+          "channel": "SoloInTokyoLife",
+          "videoId": "DORb03tMCt0",
+          "title": "東京 🇯🇵 日本橋・三越前美食：現擠蒙布朗、焙茶銅鑼燒等！東京單人觀光美食指南",
+          "url": "https://www.youtube.com/watch?v=DORb03tMCt0"
         }
       ],
-      "official": "https://guang.owst.jp/",
+      "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_933de38a7d78f07e"
+          "p_adbc5cca73b1a77f"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=guang%EF%BC%88%E3%82%B0%E3%82%A2%E3%83%B3%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA3-2-1+%E3%82%B3%E3%83%AC%E3%83%89%E5%AE%A4%E7%94%BA%E3%83%86%E3%83%A9%E3%82%B9+2F"
+        "mapUrl": "https://maps.google.com/?cid=14201578842441624154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/nihonbashi--p_933de38a7d78f07e.webp",
-        "alt": "guang（グアン）的日系水彩插圖"
+        "image": "/art/source-library/nihonbashi--p_adbc5cca73b1a77f.webp",
+        "alt": "日本橋 芋屋金次郎的日系水彩插圖"
       },
       "order": 3,
       "canonicalArea": {
@@ -160,57 +98,49 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
-      "id": "nihonbashi--p_14482c8e1e1eab5d",
-      "name": "IPPUKU & MATCHA",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−1−１ 日本橋三井タワ １階",
+      "id": "nihonbashi--p_a14eaf780af97e07",
+      "name": "和栗モンブラン専門店 栗りん 日本橋コレド室町店",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 B1F",
       "group": "food",
-      "categoryLabel": "咖啡",
+      "categoryLabel": "甜點",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「IPPUKU & MATCHA」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−1−１ 日本橋三井タワ １階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「和栗モンブラン専門店 栗りん 日本橋コレド室町店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 B1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.687336699999996,
-        "lng": 139.7729769,
+        "lat": 35.6868988,
+        "lng": 139.7747059,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
-          "channel": "ハーリーのグルメ",
-          "videoId": "v0hlmLr6l1g",
-          "title": "【Nihonbashi Cafe Best 5】由米其林主廚打造的新canelé、熱愛抹茶的咖啡館等等！",
-          "url": "https://www.youtube.com/watch?v=v0hlmLr6l1g"
-        },
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "qacCtvyNScw",
-          "title": "cafe vlog｜東 京 抹 茶 ス イ ー ツ 巡 り ８ 選／表参道・銀座・下北沢・自由が丘・日本橋他",
-          "url": "https://www.youtube.com/watch?v=qacCtvyNScw",
-          "time": "0:16",
-          "seconds": 16
+          "channel": "SoloInTokyoLife",
+          "videoId": "DORb03tMCt0",
+          "title": "東京 🇯🇵 日本橋・三越前美食：現擠蒙布朗、焙茶銅鑼燒等！東京單人觀光美食指南",
+          "url": "https://www.youtube.com/watch?v=DORb03tMCt0"
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_14482c8e1e1eab5d",
-          "p_d835bbd41b067877"
+          "p_a14eaf780af97e07"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=6137875774303364269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=5470019180865376544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/nihonbashi--p_14482c8e1e1eab5d.webp",
-        "alt": "IPPUKU & MATCHA的日系水彩插圖"
+        "image": "/art/source-library/nihonbashi--p_a14eaf780af97e07.webp",
+        "alt": "和栗モンブラン専門店 栗りん 日本橋コレド室町店的日系水彩插圖"
       },
       "order": 4,
       "canonicalArea": {
@@ -218,59 +148,58 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 3
     },
     {
-      "id": "nihonbashi--p_f67482ab05644bb1",
-      "name": "Ishiya Nihonbashi",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 3-chōme−2−１ コレド室町テラス 1F",
+      "id": "nihonbashi--p_53f714e1d614206f",
+      "name": "ほしのバター コレド室町2店",
+      "address": "東京都中央区日本橋室町2-3-1 コレド室町2 B1F",
       "group": "food",
-      "categoryLabel": "咖啡",
+      "categoryLabel": "奶油和洋菓子",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「Ishiya Nihonbashi」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 3-chōme−2−１ コレド室町テラス 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "COREDO 室町2地下樓的奶油菓子店，以北海道十勝奶油製作和洋點心，影片曾介紹其紅豆奶油銅鑼燒。",
+        "原始資料記錄的地址為 東京都中央区日本橋室町2-3-1 コレド室町2 B1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "note": "",
+      "note": "此為ほしのバター菓子店，與附近的讃岐うどんほし野是不同店；兩支原始影片分別保留。",
       "coordinate": {
-        "lat": 35.6875657,
-        "lng": 139.7730523,
+        "lat": 35.686842999999996,
+        "lng": 139.77482369999998,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "W4TmqMySm0Q",
-          "title": "A Day in Tokyo : Yaesu & Nihonbashi / Tokyo's Timeless & Modern Heart | 2025 Tokyo Vlog",
-          "url": "https://www.youtube.com/watch?v=W4TmqMySm0Q",
-          "time": "16:24",
-          "seconds": 984
+          "channel": "SoloInTokyoLife",
+          "videoId": "DORb03tMCt0",
+          "title": "東京 🇯🇵 日本橋・三越前美食：現擠蒙布朗、焙茶銅鑼燒等！東京單人觀光美食指南",
+          "url": "https://www.youtube.com/watch?v=DORb03tMCt0"
         },
         {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "WHISuV4aXW8",
-          "title": "Cafe Vlog | 10 Best Ice Cream Spots in Tokyo / 2021 Guide ✧˖ Omotesando / Ginza / Shinjuku / Shib...",
-          "url": "https://www.youtube.com/watch?v=WHISuV4aXW8",
-          "time": "11:24",
-          "seconds": 684
+          "channel": "SoloInTokyoLife",
+          "videoId": "C2JGPCx8SxE",
+          "title": "東京必吃銅鑼燒巡禮 🇯🇵 日本橋兔屋絕品與叶匠壽庵 | 2026日本伴手禮推薦",
+          "url": "https://www.youtube.com/watch?v=C2JGPCx8SxE",
+          "time": "07:23",
+          "seconds": 443
         }
       ],
-      "official": null,
+      "official": "https://mitsui-shopping-park.com/urban/muromachi/store/2768159.html",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_f67482ab05644bb1",
-          "p_8c371008579f62ce"
+          "p_53f714e1d614206f",
+          "p_a3a4cf3f6988f35d"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=11728528809233129967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=15281274669475177373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/nihonbashi--p_f67482ab05644bb1.webp",
-        "alt": "Ishiya Nihonbashi的日系水彩插圖"
+        "image": "/art/source-library/nihonbashi--p_53f714e1d614206f.webp",
+        "alt": "ほしのバター コレド室町2店的日系水彩插圖"
       },
       "order": 5,
       "canonicalArea": {
@@ -278,43 +207,141 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     },
     {
-      "id": "nihonbashi--p_327d988ccd102372",
-      "name": "三越前",
-      "address": "日本〒103-0022 東京都中央區日本橋室町 2 Chome−1",
-      "group": "sights",
-      "categoryLabel": "交通",
+      "id": "nihonbashi--p_2e96a7a2afd01763",
+      "name": "稻庭烏龍麵 金子半之助Coredo室町",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 地下 ホーム 1",
+      "group": "food",
+      "categoryLabel": "餐廳",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「三越前」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 日本〒103-0022 東京都中央區日本橋室町 2 Chome−1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「稻庭烏龍麵 金子半之助Coredo室町」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 地下 ホーム 1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.687155499999996,
-        "lng": 139.7735707,
+        "lat": 35.6869619,
+        "lng": 139.774504,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "36mT1AvxWrI",
-          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
-          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
-          "time": "10:50",
-          "seconds": 650
+          "channel": "ハーリーのグルメ",
+          "videoId": "sw2RKptmG9E",
+          "title": "【東京十大午餐】吃到飽的烤牛肉、最適合約會或女孩之夜的小酒館等等！",
+          "url": "https://www.youtube.com/watch?v=sw2RKptmG9E"
         },
         {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "36mT1AvxWrI",
-          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
-          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
-          "time": "16:10",
-          "seconds": 970
+          "channel": "ハーリーのグルメ",
+          "videoId": "-Gpn7ajGTbw",
+          "title": "【東京ランチ10選】2か月前から予約が埋まる名店、1964年東京オリンピック創業の老舗など！",
+          "url": "https://www.youtube.com/watch?v=-Gpn7ajGTbw"
         },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "s6xeAzXrYR8",
+          "title": "【保存版】東京で絶対外さないランチ10選！食べログ1位・ミシュラン・Diorカフェ",
+          "url": "https://www.youtube.com/watch?v=s6xeAzXrYR8"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2e96a7a2afd01763"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=17247950122595085645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_2e96a7a2afd01763.webp",
+        "alt": "稻庭烏龍麵 金子半之助Coredo室町的日系水彩插圖"
+      },
+      "order": 6,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 5
+    },
+    {
+      "id": "nihonbashi--p_17ead40e41c7fd19",
+      "name": "日本橋 海鮮丼 つじ半 室町店",
+      "address": "2-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Nihonbashi Kaisen Don Tsujihan - Muromachi Branch」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.686842399999996,
+        "lng": 139.7743921,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "dP6ckmVgtKA",
+          "title": "【東京寿司5選】千円以下の超コスパ寿司から2時間待ちの行列店まで！丼からネタが溢れるあの有名店もご紹介！【ハーリー】",
+          "url": "https://www.youtube.com/watch?v=dP6ckmVgtKA"
+        }
+      ],
+      "official": "https://mitsui-shopping-park.com/urban/muromachi/special/23-085/article/049/01.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_17ead40e41c7fd19"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=10252409159684219706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_17ead40e41c7fd19.webp",
+        "alt": "日本橋 海鮮丼 つじ半 室町店的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 6
+    },
+    {
+      "id": "nihonbashi--p_efa20d4ec5b98d65",
+      "name": "タロー書房",
+      "address": "東京都中央区日本橋室町2-2-1 COREDO室町1 B1F",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Book Store TARO」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋室町2-2-1 COREDO室町1 B1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6866774,
+        "lng": 139.7742314,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/uNfSp1n1FqHjUFa46",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
+      "sources": [
         {
           "channel": "Hiro | Days in Tokyo",
           "videoId": "lRJl3E2hsAg",
@@ -324,45 +351,97 @@
           "seconds": 1308
         }
       ],
-      "official": null,
+      "official": "https://mitsui-shopping-park.com/urban/muromachi/store/600233.html",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_327d988ccd102372",
-          "p_99cdeb01c953396b"
+          "p_efa20d4ec5b98d65"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=9766707380764620119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.app.goo.gl/uNfSp1n1FqHjUFa46"
       },
       "illustration": {
-        "image": "/art/source-library/nihonbashi--p_327d988ccd102372.webp",
-        "alt": "三越前的日系水彩插圖"
+        "image": "/art/source-library/nihonbashi--p_efa20d4ec5b98d65.webp",
+        "alt": "タロー書房的日系水彩插圖"
       },
-      "order": 6,
+      "order": 8,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 7
     },
     {
-      "id": "nihonbashi--p_98fdc89be88641aa",
-      "name": "XEX NIHONBASHI The BAR",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−4−３ YUITO/日本橋室町野村ビル4階",
+      "id": "nihonbashi--p_8e0a537b31d964b4",
+      "name": "石川亭 COREDO室町店",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−1 コレド室町1 3F",
       "group": "food",
       "categoryLabel": "餐廳",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「XEX NIHONBASHI The BAR」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−4−３ YUITO/日本橋室町野村ビル4階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「石川亭 COREDO室町店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−1 コレド室町1 3F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.6873292,
-        "lng": 139.7739142,
+        "lat": 35.686645299999995,
+        "lng": 139.7742423,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "JbwqGEm4KNk",
+          "title": "BEST 20 ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japan Travel Guide 2024",
+          "url": "https://www.youtube.com/watch?v=JbwqGEm4KNk",
+          "time": "19:13",
+          "seconds": 1153
+        }
+      ],
+      "official": "https://ishikawatei.co.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8e0a537b31d964b4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16516389509103654744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_8e0a537b31d964b4.webp",
+        "alt": "石川亭 COREDO室町店的日系水彩插圖"
+      },
+      "order": 9,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 8
+    },
+    {
+      "id": "nihonbashi--p_982b25cf9c5e4cd3",
+      "name": "肉割烹 KINTAN コレド室町",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−1 コレド室町1 3F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Beef sushi Restaurant KINTAN koredo muromachi」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−1 コレド室町1 3F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6865095,
+        "lng": 139.774128,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
@@ -372,64 +451,213 @@
           "videoId": "yh9s6bOVa4c",
           "title": "【日本橋・三越前ランチ10選】ミシュラン獲得！誰も知らない1,000円台ランチなど",
           "url": "https://www.youtube.com/watch?v=yh9s6bOVa4c"
-        },
+        }
+      ],
+      "official": "https://kintan.restaurant/shop/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_982b25cf9c5e4cd3"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16165030654646702907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_982b25cf9c5e4cd3.webp",
+        "alt": "肉割烹 KINTAN コレド室町的日系水彩插圖"
+      },
+      "order": 10,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 9
+    },
+    {
+      "id": "nihonbashi--p_cdbcdabf5e58bcbe",
+      "name": "COREDO室町 1",
+      "address": "2-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「COREDO室町 1」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6865187,
+        "lng": 139.7740345,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
         {
-          "channel": "ハーリーのグルメ",
-          "videoId": "Cx6uhMYHVOw",
-          "title": "【東京吃到飽5選】1000日圓左右的生火腿烤牛肉canelé吃到飽！ ？今年夏季限定自助餐也有！",
-          "url": "https://www.youtube.com/watch?v=Cx6uhMYHVOw"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "V_nH-ApoJ0M",
-          "title": "【東京食べ放題】今だけ限定メロンビュッフェが最高だった...",
-          "url": "https://www.youtube.com/watch?v=V_nH-ApoJ0M"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "_RDoaFdXAYc",
-          "title": "【東京食べ放題5選】1000円で時間無制限！？39階で楽しめる天空のビュッフェも！",
-          "url": "https://www.youtube.com/watch?v=_RDoaFdXAYc"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "B_z2ML18WPw",
-          "title": "【東京食べ放題5選】時間無制限の1000円台ホテルビュッフェ、世界一有名なブランドのパン食べ放題など！",
-          "url": "https://www.youtube.com/watch?v=B_z2ML18WPw"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "It4cS76rRSM",
-          "title": "【東京食べ放題5選】この秋限定シャインマスカット食べ放題、1970年ニューヨーク生まれの極上ビュッフェ！",
-          "url": "https://www.youtube.com/watch?v=It4cS76rRSM"
+          "channel": "Hina Life in Japan",
+          "videoId": "8b2OxMJC_RQ",
+          "title": "Life in Tokyo 🗼 Discovering Neighborhoods Along the Asakusa Line: Asakusa, Kuramae & Beyond",
+          "url": "https://www.youtube.com/watch?v=8b2OxMJC_RQ"
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_98fdc89be88641aa"
+          "p_cdbcdabf5e58bcbe"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=9400702367401502095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=8045973119871515421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/nihonbashi--p_98fdc89be88641aa.webp",
-        "alt": "XEX NIHONBASHI The BAR的日系水彩插圖"
+        "image": "/art/source-library/nihonbashi--p_cdbcdabf5e58bcbe.webp",
+        "alt": "COREDO室町 1的日系水彩插圖"
       },
-      "order": 7,
+      "order": 11,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 10
+    },
+    {
+      "id": "nihonbashi--ninben",
+      "order": 12,
+      "name": "日本橋だし場本店",
+      "address": "東京都中央区日本橋室町2-2-1",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "用一杯高湯，換一種休息方式",
+      "descriptionParagraphs": [
+        "にんべん在 COREDO 室町的だし場本店，以鰹節與高湯為主角，讓日常食材成為可以直接品嘗的味道。比起正式用餐，一杯溫熱高湯就能形成輕巧停頓。",
+        "可在木屋或神社之後順路看看當日供應，再決定是否加點食物。這裡是本店的高湯吧，與其他分店餐廳不同，選擇時留意店名與樓層。"
+      ],
+      "description": "にんべん在 COREDO 室町的だし場本店，以鰹節與高湯為主角，讓日常食材成為可以直接品嘗的味道。比起正式用餐，一杯溫熱高湯就能形成輕巧停頓。\n\n可在木屋或神社之後順路看看當日供應，再決定是否加點食物。這裡是本店的高湯吧，與其他分店餐廳不同，選擇時留意店名與樓層。",
+      "note": "",
+      "official": "https://www.ninben.co.jp/store/dashiba/index.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.686451,
+        "lng": 139.774048,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-2-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/ninben.webp",
+        "alt": "日本橋だし場本店的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "displayOrder": 11
+    },
+    {
+      "id": "nihonbashi--kiya",
+      "order": 13,
+      "name": "日本橋木屋本店",
+      "address": "東京都中央区日本橋室町2-2-1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "把廚房裡的工具，重新看一遍",
+      "descriptionParagraphs": [
+        "木屋本店以刀具與廚房用品展現日本橋的器物文化，整齊陳列讓材料與用途成為焦點。從一把刀到小型料理工具，都能引人留意日常動作背後的設計。",
+        "與だし場位於同一座商業設施，可依興趣前後調整。選購前先了解尺寸、用途與保養方式，將看工具當作一段從容的生活觀察。"
+      ],
+      "description": "木屋本店以刀具與廚房用品展現日本橋的器物文化，整齊陳列讓材料與用途成為焦點。從一把刀到小型料理工具，都能引人留意日常動作背後的設計。\n\n與だし場位於同一座商業設施，可依興趣前後調整。選購前先了解尺寸、用途與保養方式，將看工具當作一段從容的生活觀察。",
+      "note": "",
+      "official": "https://www.kiya-hamono.co.jp/shop/kiya_honten.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.686451,
+        "lng": 139.774048,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-2-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/kiya.webp",
+        "alt": "日本橋木屋本店的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "displayOrder": 12
+    },
+    {
+      "id": "nihonbashi--p_dec1e12aeedc06de",
+      "name": "日本橋 墨之栄",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−１ COREDO室町 2F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「海鮮居酒屋・墨之榮」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−１ COREDO室町 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.686666699999996,
+        "lng": 139.7740227,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "yh9s6bOVa4c",
+          "title": "【日本橋・三越前ランチ10選】ミシュラン獲得！誰も知らない1,000円台ランチなど",
+          "url": "https://www.youtube.com/watch?v=yh9s6bOVa4c"
+        }
+      ],
+      "official": "https://shop.ap-holdings.jp/detail/45/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_dec1e12aeedc06de"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7409383971288321796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_dec1e12aeedc06de.webp",
+        "alt": "日本橋 墨之栄的日系水彩插圖"
+      },
+      "order": 14,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 13
     },
     {
       "id": "nihonbashi--fukutoku",
-      "order": 8,
+      "order": 15,
       "name": "福德神社",
       "address": "東京都中央区日本橋室町2-4-14",
       "group": "sights",
@@ -507,396 +735,24 @@
           "https://mebuki.jp/",
           "https://www.sembikiya.co.jp/shop-list/main-store"
         ]
-      }
+      },
+      "displayOrder": 14
     },
     {
-      "id": "nihonbashi--p_2e96a7a2afd01763",
-      "name": "稻庭烏龍麵 金子半之助Coredo室町",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 地下 ホーム 1",
+      "id": "nihonbashi--p_98fdc89be88641aa",
+      "name": "XEX NIHONBASHI The BAR",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−4−３ YUITO/日本橋室町野村ビル4階",
       "group": "food",
       "categoryLabel": "餐廳",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「稻庭烏龍麵 金子半之助Coredo室町」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 地下 ホーム 1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「XEX NIHONBASHI The BAR」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−4−３ YUITO/日本橋室町野村ビル4階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.6869619,
-        "lng": 139.774504,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "sw2RKptmG9E",
-          "title": "【東京十大午餐】吃到飽的烤牛肉、最適合約會或女孩之夜的小酒館等等！",
-          "url": "https://www.youtube.com/watch?v=sw2RKptmG9E"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "-Gpn7ajGTbw",
-          "title": "【東京ランチ10選】2か月前から予約が埋まる名店、1964年東京オリンピック創業の老舗など！",
-          "url": "https://www.youtube.com/watch?v=-Gpn7ajGTbw"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "s6xeAzXrYR8",
-          "title": "【保存版】東京で絶対外さないランチ10選！食べログ1位・ミシュラン・Diorカフェ",
-          "url": "https://www.youtube.com/watch?v=s6xeAzXrYR8"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_2e96a7a2afd01763"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=17247950122595085645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_2e96a7a2afd01763.webp",
-        "alt": "稻庭烏龍麵 金子半之助Coredo室町的日系水彩插圖"
-      },
-      "order": 9,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_17ead40e41c7fd19",
-      "name": "日本橋 海鮮丼 つじ半 室町店",
-      "address": "2-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Nihonbashi Kaisen Don Tsujihan - Muromachi Branch」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.686842399999996,
-        "lng": 139.7743921,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "dP6ckmVgtKA",
-          "title": "【東京寿司5選】千円以下の超コスパ寿司から2時間待ちの行列店まで！丼からネタが溢れるあの有名店もご紹介！【ハーリー】",
-          "url": "https://www.youtube.com/watch?v=dP6ckmVgtKA"
-        }
-      ],
-      "official": "https://mitsui-shopping-park.com/urban/muromachi/special/23-085/article/049/01.html",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_17ead40e41c7fd19"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=10252409159684219706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_17ead40e41c7fd19.webp",
-        "alt": "日本橋 海鮮丼 つじ半 室町店的日系水彩插圖"
-      },
-      "order": 10,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_adbc5cca73b1a77f",
-      "name": "日本橋 芋屋金次郎",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ 一階",
-      "group": "food",
-      "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「日本橋 芋屋金次郎」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ 一階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6867657,
-        "lng": 139.7746309,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "SoloInTokyoLife",
-          "videoId": "DORb03tMCt0",
-          "title": "東京 🇯🇵 日本橋・三越前美食：現擠蒙布朗、焙茶銅鑼燒等！東京單人觀光美食指南",
-          "url": "https://www.youtube.com/watch?v=DORb03tMCt0"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_adbc5cca73b1a77f"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=14201578842441624154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_adbc5cca73b1a77f.webp",
-        "alt": "日本橋 芋屋金次郎的日系水彩插圖"
-      },
-      "order": 11,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_e5e24ed267852edf",
-      "name": "Nihonbashi Dashi Bar Hanare",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 1F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Nihonbashi Dashi Bar Hanare」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6866848,
-        "lng": 139.7747375,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "imShh65JKDI",
-          "title": "【日本橋午餐精選5選】米其林星級！ 1919年創業300年的壽喜燒鰹魚片家族經營的東京第一披薩店！",
-          "url": "https://www.youtube.com/watch?v=imShh65JKDI"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_e5e24ed267852edf"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=16944559240344062167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_e5e24ed267852edf.webp",
-        "alt": "Nihonbashi Dashi Bar Hanare的日系水彩插圖"
-      },
-      "order": 12,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_48dcc7b9ae75d405",
-      "name": "Canelé de CHIANTI 日本橋店（舊址紀錄）",
-      "address": "東京都中央区日本橋室町2-3-1 コレド室町2 2F @Kitchen",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "原影片介紹 COREDO 室町2二樓共享廚房內的可麗露專門店，保留當時店面與甜點紀錄。",
-        "原始資料記錄的地址為 東京都中央区日本橋室町2-3-1 コレド室町2 2F @Kitchen。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "入駐的 @Kitchen NIHONBASHI 已公告2026年8月30日閉店。品牌官網仍列日本橋舊址，尚未確認新址或後續營業安排；請勿直接依舊影片前往。",
-      "coordinate": {
-        "lat": 35.686623,
-        "lng": 139.774582,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-3-1",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "bXb5psl7rUo",
-          "title": "【東京・最新】2022年最新カフェ８店舗～2022年下半期版～ 新大久保／銀座／丸の内／日本橋／蔵前／...etc",
-          "url": "https://www.youtube.com/watch?v=bXb5psl7rUo",
-          "time": "09:50",
-          "seconds": 590
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "v0hlmLr6l1g",
-          "title": "【Nihonbashi Cafe Best 5】由米其林主廚打造的新canelé、熱愛抹茶的咖啡館等等！",
-          "url": "https://www.youtube.com/watch?v=v0hlmLr6l1g"
-        }
-      ],
-      "official": "https://a-c-inc.co.jp/canele-de-chianti/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_48dcc7b9ae75d405",
-          "p_cbb21e3fe9ab06d7"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/%E3%82%AB%E3%83%8C%E3%83%AC%E5%B0%82%E9%96%80%E5%BA%97+Canele+de+CHIANTI+%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%BA%97+%E3%82%AB%E3%83%8C%E3%83%AC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%86%E3%82%A3/@35.6866655,139.7748356,17z/data=!3m1!4b1!4m6!3m5!1s0x601889cf9f1286e1:0x981517ba8c24b030!8m2!3d35.6866655!4d139.7748356!16s%2Fg%2F11t7r393zh?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_48dcc7b9ae75d405.webp",
-        "alt": "Canelé de CHIANTI 日本橋店（舊址紀錄）的日系水彩插圖"
-      },
-      "order": 13,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_8e0a537b31d964b4",
-      "name": "石川亭 COREDO室町店",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−1 コレド室町1 3F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「石川亭 COREDO室町店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−1 コレド室町1 3F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.686645299999995,
-        "lng": 139.7742423,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "JbwqGEm4KNk",
-          "title": "BEST 20 ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japan Travel Guide 2024",
-          "url": "https://www.youtube.com/watch?v=JbwqGEm4KNk",
-          "time": "19:13",
-          "seconds": 1153
-        }
-      ],
-      "official": "https://ishikawatei.co.jp/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_8e0a537b31d964b4"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=16516389509103654744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_8e0a537b31d964b4.webp",
-        "alt": "石川亭 COREDO室町店的日系水彩插圖"
-      },
-      "order": 14,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_efa20d4ec5b98d65",
-      "name": "タロー書房",
-      "address": "東京都中央区日本橋室町2-2-1 COREDO室町1 B1F",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Book Store TARO」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋室町2-2-1 COREDO室町1 B1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6866774,
-        "lng": 139.7742314,
-        "provider": "source-library",
-        "url": "https://maps.app.goo.gl/uNfSp1n1FqHjUFa46",
-        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
-      },
-      "sources": [
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "lRJl3E2hsAg",
-          "title": "舊日東京駐足之處：兩國、人形町與日本橋 | 水岸風光、博物館與巷弄咖啡館 | 東京Vlog",
-          "url": "https://www.youtube.com/watch?v=lRJl3E2hsAg",
-          "time": "21:48",
-          "seconds": 1308
-        }
-      ],
-      "official": "https://mitsui-shopping-park.com/urban/muromachi/store/600233.html",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_efa20d4ec5b98d65"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.app.goo.gl/uNfSp1n1FqHjUFa46"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_efa20d4ec5b98d65.webp",
-        "alt": "タロー書房的日系水彩插圖"
-      },
-      "order": 15,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_dec1e12aeedc06de",
-      "name": "日本橋 墨之栄",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−１ COREDO室町 2F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「海鮮居酒屋・墨之榮」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−１ COREDO室町 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.686666699999996,
-        "lng": 139.7740227,
+        "lat": 35.6873292,
+        "lng": 139.7739142,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
@@ -906,22 +762,52 @@
           "videoId": "yh9s6bOVa4c",
           "title": "【日本橋・三越前ランチ10選】ミシュラン獲得！誰も知らない1,000円台ランチなど",
           "url": "https://www.youtube.com/watch?v=yh9s6bOVa4c"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "Cx6uhMYHVOw",
+          "title": "【東京吃到飽5選】1000日圓左右的生火腿烤牛肉canelé吃到飽！ ？今年夏季限定自助餐也有！",
+          "url": "https://www.youtube.com/watch?v=Cx6uhMYHVOw"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "V_nH-ApoJ0M",
+          "title": "【東京食べ放題】今だけ限定メロンビュッフェが最高だった...",
+          "url": "https://www.youtube.com/watch?v=V_nH-ApoJ0M"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "_RDoaFdXAYc",
+          "title": "【東京食べ放題5選】1000円で時間無制限！？39階で楽しめる天空のビュッフェも！",
+          "url": "https://www.youtube.com/watch?v=_RDoaFdXAYc"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "B_z2ML18WPw",
+          "title": "【東京食べ放題5選】時間無制限の1000円台ホテルビュッフェ、世界一有名なブランドのパン食べ放題など！",
+          "url": "https://www.youtube.com/watch?v=B_z2ML18WPw"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "It4cS76rRSM",
+          "title": "【東京食べ放題5選】この秋限定シャインマスカット食べ放題、1970年ニューヨーク生まれの極上ビュッフェ！",
+          "url": "https://www.youtube.com/watch?v=It4cS76rRSM"
         }
       ],
-      "official": "https://shop.ap-holdings.jp/detail/45/",
+      "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_dec1e12aeedc06de"
+          "p_98fdc89be88641aa"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=7409383971288321796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=9400702367401502095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/nihonbashi--p_dec1e12aeedc06de.webp",
-        "alt": "日本橋 墨之栄的日系水彩插圖"
+        "image": "/art/source-library/nihonbashi--p_98fdc89be88641aa.webp",
+        "alt": "XEX NIHONBASHI The BAR的日系水彩插圖"
       },
       "order": 16,
       "canonicalArea": {
@@ -929,1073 +815,24 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_cdbcdabf5e58bcbe",
-      "name": "COREDO室町 1",
-      "address": "2-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「COREDO室町 1」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6865187,
-        "lng": 139.7740345,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "8b2OxMJC_RQ",
-          "title": "Life in Tokyo 🗼 Discovering Neighborhoods Along the Asakusa Line: Asakusa, Kuramae & Beyond",
-          "url": "https://www.youtube.com/watch?v=8b2OxMJC_RQ"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_cdbcdabf5e58bcbe"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=8045973119871515421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_cdbcdabf5e58bcbe.webp",
-        "alt": "COREDO室町 1的日系水彩插圖"
-      },
-      "order": 17,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--ninben",
-      "order": 18,
-      "name": "日本橋だし場本店",
-      "address": "東京都中央区日本橋室町2-2-1",
-      "group": "food",
-      "categoryLabel": "喫茶・餐食",
-      "caption": "用一杯高湯，換一種休息方式",
-      "descriptionParagraphs": [
-        "にんべん在 COREDO 室町的だし場本店，以鰹節與高湯為主角，讓日常食材成為可以直接品嘗的味道。比起正式用餐，一杯溫熱高湯就能形成輕巧停頓。",
-        "可在木屋或神社之後順路看看當日供應，再決定是否加點食物。這裡是本店的高湯吧，與其他分店餐廳不同，選擇時留意店名與樓層。"
-      ],
-      "description": "にんべん在 COREDO 室町的だし場本店，以鰹節與高湯為主角，讓日常食材成為可以直接品嘗的味道。比起正式用餐，一杯溫熱高湯就能形成輕巧停頓。\n\n可在木屋或神社之後順路看看當日供應，再決定是否加點食物。這裡是本店的高湯吧，與其他分店餐廳不同，選擇時留意店名與樓層。",
-      "note": "",
-      "official": "https://www.ninben.co.jp/store/dashiba/index.html",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.686451,
-        "lng": 139.774048,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-2-1",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/nihonbashi/ninben.webp",
-        "alt": "日本橋だし場本店的日系水彩插圖"
-      },
       "recommendation": null,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      }
+      "displayOrder": 15
     },
     {
-      "id": "nihonbashi--kiya",
-      "order": 19,
-      "name": "日本橋木屋本店",
-      "address": "東京都中央区日本橋室町2-2-1",
-      "group": "shops",
-      "categoryLabel": "老舖・選物",
-      "caption": "把廚房裡的工具，重新看一遍",
-      "descriptionParagraphs": [
-        "木屋本店以刀具與廚房用品展現日本橋的器物文化，整齊陳列讓材料與用途成為焦點。從一把刀到小型料理工具，都能引人留意日常動作背後的設計。",
-        "與だし場位於同一座商業設施，可依興趣前後調整。選購前先了解尺寸、用途與保養方式，將看工具當作一段從容的生活觀察。"
-      ],
-      "description": "木屋本店以刀具與廚房用品展現日本橋的器物文化，整齊陳列讓材料與用途成為焦點。從一把刀到小型料理工具，都能引人留意日常動作背後的設計。\n\n與だし場位於同一座商業設施，可依興趣前後調整。選購前先了解尺寸、用途與保養方式，將看工具當作一段從容的生活觀察。",
-      "note": "",
-      "official": "https://www.kiya-hamono.co.jp/shop/kiya_honten.html",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.686451,
-        "lng": 139.774048,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-2-1",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
-      },
-      "illustration": {
-        "image": "/art/walks/nihonbashi/kiya.webp",
-        "alt": "日本橋木屋本店的日系水彩插圖"
-      },
-      "recommendation": null,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      }
-    },
-    {
-      "id": "nihonbashi--p_982b25cf9c5e4cd3",
-      "name": "肉割烹 KINTAN コレド室町",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−1 コレド室町1 3F",
-      "group": "food",
-      "categoryLabel": "餐廳",
+      "id": "nihonbashi--p_327d988ccd102372",
+      "name": "三越前",
+      "address": "日本〒103-0022 東京都中央區日本橋室町 2 Chome−1",
+      "group": "sights",
+      "categoryLabel": "交通",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「Beef sushi Restaurant KINTAN koredo muromachi」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−1 コレド室町1 3F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「三越前」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 日本〒103-0022 東京都中央區日本橋室町 2 Chome−1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.6865095,
-        "lng": 139.774128,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "yh9s6bOVa4c",
-          "title": "【日本橋・三越前ランチ10選】ミシュラン獲得！誰も知らない1,000円台ランチなど",
-          "url": "https://www.youtube.com/watch?v=yh9s6bOVa4c"
-        }
-      ],
-      "official": "https://kintan.restaurant/shop/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_982b25cf9c5e4cd3"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=16165030654646702907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_982b25cf9c5e4cd3.webp",
-        "alt": "肉割烹 KINTAN コレド室町的日系水彩插圖"
-      },
-      "order": 20,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_3ba9648827e5a4c7",
-      "name": "鶴屋吉信 TOKYO MISE（閉店）",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−5−５ COREDO Muromachi 3, 1F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "曾位於COREDO室町3的一樓，設有現製和菓子吧台與茶房；保留原影片介紹及歷史店內插畫。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−5−５ COREDO Muromachi 3, 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "官方公告已於2026年8月23日結束營業。此處為原址紀錄，無法再安排店內用餐。",
-      "coordinate": {
-        "lat": 35.686227699999996,
-        "lng": 139.77426789999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "OvWBmxhzQlo",
-          "title": "BEST 10 FOODS YOU MUST TRY IN TOKYO, JAPAN ｜Food and Travel Guide 2025",
-          "url": "https://www.youtube.com/watch?v=OvWBmxhzQlo"
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "gGPtGRcCn5A",
-          "title": "BEST 10 MUST VISIT SPOTS IN GINZA, TOKYO｜Japan Ultimate Guide 2025",
-          "url": "https://www.youtube.com/watch?v=gGPtGRcCn5A"
-        },
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "pnZLgsDQmjw",
-          "title": "cafe vlog｜東 京 和 カ フ ェまとめ／2022年初投稿／和カフェ／老舗カフェ／お寺カフェ",
-          "url": "https://www.youtube.com/watch?v=pnZLgsDQmjw",
-          "time": "6:19",
-          "seconds": 379
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "XPjdXrF5JSA",
-          "title": "BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2025",
-          "url": "https://www.youtube.com/watch?v=XPjdXrF5JSA"
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "SAVL6zlxG60",
-          "title": "BEST 20 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2025",
-          "url": "https://www.youtube.com/watch?v=SAVL6zlxG60"
-        }
-      ],
-      "official": "https://www.tsuruyayoshinobu.jp/shop/tokyo-mise",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_3ba9648827e5a4c7",
-          "p_e5d6143dbb201d9b",
-          "p_e44ea1220d5f5fdf",
-          "p_10fa534c476b2644"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=7090159825262291526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_3ba9648827e5a4c7.webp",
-        "alt": "鶴屋吉信 TOKYO MISE（閉店）的日系水彩插圖"
-      },
-      "order": 21,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_73a7ed8629655efc",
-      "name": "uRn.chAi&TeA COREDO3",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−5−５ COREDO Muromachi 3, 2F",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「uRn.chAi&TeA COREDO3」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−5−５ COREDO Muromachi 3, 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.686145599999996,
-        "lng": 139.7744526,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "kpQqkxuM9JU",
-          "title": "[東京最佳咖啡廳 21 家] 東京 21 家最佳咖啡廳",
-          "url": "https://www.youtube.com/watch?v=kpQqkxuM9JU"
-        }
-      ],
-      "official": "https://urn-jp.com/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_73a7ed8629655efc"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=9426326165434245451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_73a7ed8629655efc.webp",
-        "alt": "uRn.chAi&TeA COREDO3的日系水彩插圖"
-      },
-      "order": 22,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_4d633bbd9389f800",
-      "name": "鉄板焼 東洋（閉店）",
-      "address": "1-chōme-5-2 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "原影片介紹的日本橋室町鐵板燒店，保留原址與店面紀錄。",
-        "原始資料記錄的地址為 1-chōme-5-2 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "店家公告因日本橋室町一丁目再開發，已於2025年10月31日結束營業。此處保留歷史紀錄。",
-      "coordinate": {
-        "lat": 35.685625699999996,
-        "lng": 139.7746405,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "wV12BgedVrE",
-          "title": "日本橋和三越前最美味的5種午餐！",
-          "url": "https://www.youtube.com/watch?v=wV12BgedVrE"
-        }
-      ],
-      "official": "https://www.hotpepper.jp/strJ000839452/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_4d633bbd9389f800"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=764271964091759396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_4d633bbd9389f800.webp",
-        "alt": "鉄板焼 東洋（閉店）的日系水彩插圖"
-      },
-      "order": 23,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_2261aa98d26ab803",
-      "name": "Dedesuke Saigon Kitchen",
-      "address": "1-chōme-11-4 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Dedesuke Saigon Kitchen」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-11-4 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6856192,
-        "lng": 139.7750029,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "JbwqGEm4KNk",
-          "title": "BEST 20 ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japan Travel Guide 2024",
-          "url": "https://www.youtube.com/watch?v=JbwqGEm4KNk",
-          "time": "22:12",
-          "seconds": 1332
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_2261aa98d26ab803"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=18088310824015033546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_2261aa98d26ab803.webp",
-        "alt": "Dedesuke Saigon Kitchen的日系水彩插圖"
-      },
-      "order": 24,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_7b90a01e061bb4e7",
-      "name": "日本橋 讃岐うどん ほし野",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−11−２ 松楽ビル １階",
-      "group": "food",
-      "categoryLabel": "烏龍麵",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Hoshino」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−11−２ 松楽ビル １階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.685572,
-        "lng": 139.7751696,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "a-hJd0A0ys4",
-          "title": "【日本橋午餐精選5選】從香川直送的高性價比烏龍麵、米其林星級斯里蘭卡料理、銀行裝修後的小酒館等等！",
-          "url": "https://www.youtube.com/watch?v=a-hJd0A0ys4"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_7b90a01e061bb4e7"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=16950125548083930946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_7b90a01e061bb4e7.webp",
-        "alt": "日本橋 讃岐うどん ほし野的日系水彩插圖"
-      },
-      "order": 25,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_fa7c0f89308d8aa3",
-      "name": "日本橋 天丼 金子半之助 日本橋総本店",
-      "address": "1-chōme-11-15 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「日本橋天丼 金子半之助」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-11-15 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6853778,
-        "lng": 139.7752665,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "xloXdeHE9JU",
-          "title": "BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2024",
-          "url": "https://www.youtube.com/watch?v=xloXdeHE9JU"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "t5HboqYNvqQ",
-          "title": "【日本橋午餐5選】米其林評級的披薩、1887年創業的壽司等等！",
-          "url": "https://www.youtube.com/watch?v=t5HboqYNvqQ"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "7Kz9ZLOzHIk",
-          "title": "【東京午餐最佳7選】2024年最新！ 人們排隊2小時的美味天婦羅蓋飯、閃閃發光的烤肉、看起來像艾爾斯岩的豬肉等等！",
-          "url": "https://www.youtube.com/watch?v=7Kz9ZLOzHIk"
-        }
-      ],
-      "official": "https://kanekohannosuke.com/shop/?id=0020001",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_fa7c0f89308d8aa3"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=2076606597046497200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_fa7c0f89308d8aa3.webp",
-        "alt": "日本橋 天丼 金子半之助 日本橋総本店的日系水彩插圖"
-      },
-      "order": 26,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_c9f0f0e6f16af0fb",
-      "name": "京の馳走 はんなりや",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−11−１５ UNOビル 2F",
-      "group": "food",
-      "categoryLabel": "京料理",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Hannariya」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−11−１５ UNOビル 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.68541,
-        "lng": 139.7753938,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "TGtK9IacVb0",
-          "title": "[日本橋/三越前 5 種午餐選擇] 最好的 5 種美味午餐！",
-          "url": "https://www.youtube.com/watch?v=TGtK9IacVb0"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_c9f0f0e6f16af0fb"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=2295619296135272407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_c9f0f0e6f16af0fb.webp",
-        "alt": "京の馳走 はんなりや的日系水彩插圖"
-      },
-      "order": 27,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_92318589ed4e263c",
-      "name": "MIKADO 咖啡館 日本橋本店",
-      "address": "日本橋ムロホンビル, 3, 1-chōme-12-15 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「MIKADO 咖啡館 日本橋本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 日本橋ムロホンビル, 3, 1-chōme-12-15 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.685801,
-        "lng": 139.7751491,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "kpQqkxuM9JU",
-          "title": "[東京最佳咖啡廳 21 家] 東京 21 家最佳咖啡廳",
-          "url": "https://www.youtube.com/watch?v=kpQqkxuM9JU"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "v0hlmLr6l1g",
-          "title": "【Nihonbashi Cafe Best 5】由米其林主廚打造的新canelé、熱愛抹茶的咖啡館等等！",
-          "url": "https://www.youtube.com/watch?v=v0hlmLr6l1g"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_92318589ed4e263c"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=11744760076007948324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_92318589ed4e263c.webp",
-        "alt": "MIKADO 咖啡館 日本橋本店的日系水彩插圖"
-      },
-      "order": 28,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_bc4a784a362797f8",
-      "name": "いちや 日本橋三越前店 (Ichiya Nihonbashi Mitsukoshimae Store)",
-      "address": "",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「いちや 日本橋三越前店 (Ichiya Nihonbashi Mitsukoshimae Store)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6859113,
-        "lng": 139.7754955,
-        "provider": "source-library",
-        "url": "https://maps.app.goo.gl/FmguPJS9RY168bkr7",
-        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
-      },
-      "sources": [
-        {
-          "channel": "SoloInTokyoLife",
-          "videoId": "C2JGPCx8SxE",
-          "title": "東京必吃銅鑼燒巡禮 🇯🇵 日本橋兔屋絕品與叶匠壽庵 | 2026日本伴手禮推薦",
-          "url": "https://www.youtube.com/watch?v=C2JGPCx8SxE",
-          "time": "09:23",
-          "seconds": 563
-        },
-        {
-          "channel": "SoloInTokyoLife",
-          "videoId": "P-wLYmfb7WA",
-          "title": "東京 🇯🇵 夏日紅豆甜點巡禮！御門屋本店冰鎮善哉與銀座西川高級紅豆吐司 | 日本美食",
-          "url": "https://www.youtube.com/watch?v=P-wLYmfb7WA",
-          "time": "02:20",
-          "seconds": 140
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_bc4a784a362797f8",
-          "p_1af6d466cdf3f07e"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.app.goo.gl/FmguPJS9RY168bkr7"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_bc4a784a362797f8.webp",
-        "alt": "いちや 日本橋三越前店 (Ichiya Nihonbashi Mitsukoshimae Store)的日系水彩插圖"
-      },
-      "order": 29,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_a12731ca64bc1258",
-      "name": "BULVÁR TOKYO",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−12−６ 日本橋ムロホンビル4 ２階／３階",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「BULVÁR TOKYO」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−12−６ 日本橋ムロホンビル4 ２階／３階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.686109699999996,
-        "lng": 139.7752122,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "dD91YblnPT0",
-          "title": "[最佳5日本橋居酒屋] SNS上流行的西班牙語，世界上最美味的朝日啤酒！",
-          "url": "https://www.youtube.com/watch?v=dD91YblnPT0"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_a12731ca64bc1258"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=421463869439060616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_a12731ca64bc1258.webp",
-        "alt": "BULVÁR TOKYO的日系水彩插圖"
-      },
-      "order": 30,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_047095d200067f39",
-      "name": "日本橋炸豬排 一 HAJIME",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−13−９ 池田ビル １Ｆ",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「日本橋炸豬排 一 HAJIME」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−13−９ 池田ビル １Ｆ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6864255,
-        "lng": 139.7754729,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "jrPOQIeOyNI",
-          "title": "BEST 10 JAPANESE ULTIMATE FOOD TOUR: Japan Guide 2023",
-          "url": "https://www.youtube.com/watch?v=jrPOQIeOyNI",
-          "time": "0:00",
-          "seconds": 0
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "xloXdeHE9JU",
-          "title": "BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2024",
-          "url": "https://www.youtube.com/watch?v=xloXdeHE9JU"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "wV12BgedVrE",
-          "title": "日本橋和三越前最美味的5種午餐！",
-          "url": "https://www.youtube.com/watch?v=wV12BgedVrE"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_047095d200067f39"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=6574211571385242520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_047095d200067f39.webp",
-        "alt": "日本橋炸豬排 一 HAJIME的日系水彩插圖"
-      },
-      "order": 31,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_6f181aa8e225ce61",
-      "name": "Restaurant Katsura",
-      "address": "1-chōme-13-7 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Restaurant Katsura」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-13-7 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6865847,
-        "lng": 139.7752928,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "t5HboqYNvqQ",
-          "title": "【日本橋午餐5選】米其林評級的披薩、1887年創業的壽司等等！",
-          "url": "https://www.youtube.com/watch?v=t5HboqYNvqQ"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "cOTqL7T8Plg",
-          "title": "【東京ランチ10選】今なら穴場！日本洋食発祥のお店など",
-          "url": "https://www.youtube.com/watch?v=cOTqL7T8Plg"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_6f181aa8e225ce61"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=5616033413204229376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_6f181aa8e225ce61.webp",
-        "alt": "Restaurant Katsura的日系水彩插圖"
-      },
-      "order": 32,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_53f714e1d614206f",
-      "name": "ほしのバター コレド室町2店",
-      "address": "東京都中央区日本橋室町2-3-1 コレド室町2 B1F",
-      "group": "food",
-      "categoryLabel": "奶油和洋菓子",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "COREDO 室町2地下樓的奶油菓子店，以北海道十勝奶油製作和洋點心，影片曾介紹其紅豆奶油銅鑼燒。",
-        "原始資料記錄的地址為 東京都中央区日本橋室町2-3-1 コレド室町2 B1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "此為ほしのバター菓子店，與附近的讃岐うどんほし野是不同店；兩支原始影片分別保留。",
-      "coordinate": {
-        "lat": 35.686842999999996,
-        "lng": 139.77482369999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "SoloInTokyoLife",
-          "videoId": "DORb03tMCt0",
-          "title": "東京 🇯🇵 日本橋・三越前美食：現擠蒙布朗、焙茶銅鑼燒等！東京單人觀光美食指南",
-          "url": "https://www.youtube.com/watch?v=DORb03tMCt0"
-        },
-        {
-          "channel": "SoloInTokyoLife",
-          "videoId": "C2JGPCx8SxE",
-          "title": "東京必吃銅鑼燒巡禮 🇯🇵 日本橋兔屋絕品與叶匠壽庵 | 2026日本伴手禮推薦",
-          "url": "https://www.youtube.com/watch?v=C2JGPCx8SxE",
-          "time": "07:23",
-          "seconds": 443
-        }
-      ],
-      "official": "https://mitsui-shopping-park.com/urban/muromachi/store/2768159.html",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_53f714e1d614206f",
-          "p_a3a4cf3f6988f35d"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=15281274669475177373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_53f714e1d614206f.webp",
-        "alt": "ほしのバター コレド室町2店的日系水彩插圖"
-      },
-      "order": 33,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_a14eaf780af97e07",
-      "name": "和栗モンブラン専門店 栗りん 日本橋コレド室町店",
-      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 B1F",
-      "group": "food",
-      "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「和栗モンブラン専門店 栗りん 日本橋コレド室町店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−3−１ コレド室町2 B1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6868988,
-        "lng": 139.7747059,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "SoloInTokyoLife",
-          "videoId": "DORb03tMCt0",
-          "title": "東京 🇯🇵 日本橋・三越前美食：現擠蒙布朗、焙茶銅鑼燒等！東京單人觀光美食指南",
-          "url": "https://www.youtube.com/watch?v=DORb03tMCt0"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_a14eaf780af97e07"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=5470019180865376544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_a14eaf780af97e07.webp",
-        "alt": "和栗モンブラン専門店 栗りん 日本橋コレド室町店的日系水彩插圖"
-      },
-      "order": 34,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_81db1cf82af0aaf3",
-      "name": "日本橋 せいとう",
-      "address": "〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 2-chōme−4−１２ イズミビル B1",
-      "group": "food",
-      "categoryLabel": "洋食",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Seito Main store」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 2-chōme−4−１２ イズミビル B1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.687023499999995,
-        "lng": 139.775767,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "JbwqGEm4KNk",
-          "title": "BEST 20 ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japan Travel Guide 2024",
-          "url": "https://www.youtube.com/watch?v=JbwqGEm4KNk",
-          "time": "25:14",
-          "seconds": 1514
-        }
-      ],
-      "official": "https://www.seitow-aoshima.co.jp/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_81db1cf82af0aaf3"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=17653602229207902359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_81db1cf82af0aaf3.webp",
-        "alt": "日本橋 せいとう的日系水彩插圖"
-      },
-      "order": 35,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_67a05ce779355420",
-      "name": "サクレフルール 日本橋",
-      "address": "〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 2-chōme−2−５ 二丁目ビル 1F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Sacrée Fleur Nihonbashi」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 2-chōme−2−５ 二丁目ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6879314,
-        "lng": 139.775372,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "dD91YblnPT0",
-          "title": "[最佳5日本橋居酒屋] SNS上流行的西班牙語，世界上最美味的朝日啤酒！",
-          "url": "https://www.youtube.com/watch?v=dD91YblnPT0"
-        }
-      ],
-      "official": "https://sacreefleur-nihonbashi.com/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_67a05ce779355420"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=14875893441321821125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_67a05ce779355420.webp",
-        "alt": "サクレフルール 日本橋的日系水彩插圖"
-      },
-      "order": 36,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_ee02c36ff050c9aa",
-      "name": "THE A.I.R BUILDING",
-      "address": "〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 3-chōme−2−８ THE A.I.R BUILDING 1F",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「THE A.I.R BUILDING」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 3-chōme−2−８ THE A.I.R BUILDING 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "一樓設有咖啡空間，其餘樓層用於攝影、展覽與活動；非全棟隨時自由參觀。",
-      "coordinate": {
-        "lat": 35.688514999999995,
-        "lng": 139.7745197,
+        "lat": 35.687155499999996,
+        "lng": 139.7735707,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
@@ -2007,138 +844,48 @@
           "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
           "time": "10:50",
           "seconds": 650
-        }
-      ],
-      "official": "https://theairbuilding.squarespace.com/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_ee02c36ff050c9aa"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=13219468464157401776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_ee02c36ff050c9aa.webp",
-        "alt": "THE A.I.R BUILDING的日系水彩插圖"
-      },
-      "order": 37,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_ea49eb87d0520b1d",
-      "name": "三井花園飯店日本橋普米爾",
-      "address": "東京都中央区日本橋室町3-4-4",
-      "group": "sights",
-      "categoryLabel": "住宿",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「三井花園飯店日本橋普米爾」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋室町3-4-4。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "保留影片中的住宿及飯店餐飲紀錄；館內部分區域限住宿者使用，餐廳及酒吧請另確認預約與開放方式。",
-      "coordinate": {
-        "lat": 35.6881348,
-        "lng": 139.7734674,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "HLZo1Su4sQg",
-          "title": "LUXURY HOTEL STAY BEST6: Ultimate Tokyo Hotel Tour",
-          "url": "https://www.youtube.com/watch?v=HLZo1Su4sQg",
-          "time": "12:43",
-          "seconds": 763
         },
         {
-          "channel": "Hina Life in Japan",
-          "videoId": "C0-Cvbml2ck",
-          "title": "Under $50 Hotel Buffet : TOKYO BEST GUIDE",
-          "url": "https://www.youtube.com/watch?v=C0-Cvbml2ck",
-          "time": "2:32",
-          "seconds": 152
-        }
-      ],
-      "official": "https://www.gardenhotels.co.jp/nihonbashi-premier/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_ea49eb87d0520b1d"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=11075742174855154111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_ea49eb87d0520b1d.webp",
-        "alt": "三井花園飯店日本橋普米爾的日系水彩插圖"
-      },
-      "order": 38,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_1d458ba6476892fb",
-      "name": "The Pizza Bar On 38th",
-      "address": "2-chōme-1-1 Nihonbashimuromachi, Chuo City, Tokyo 103-8328",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「The Pizza Bar On 38th」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-1-1 Nihonbashimuromachi, Chuo City, Tokyo 103-8328。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6869744,
-        "lng": 139.77303329999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "36mT1AvxWrI",
+          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
+          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
+          "time": "16:10",
+          "seconds": 970
+        },
         {
-          "channel": "ハーリーのグルメ",
-          "videoId": "t5HboqYNvqQ",
-          "title": "【日本橋午餐5選】米其林評級的披薩、1887年創業的壽司等等！",
-          "url": "https://www.youtube.com/watch?v=t5HboqYNvqQ"
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "lRJl3E2hsAg",
+          "title": "舊日東京駐足之處：兩國、人形町與日本橋 | 水岸風光、博物館與巷弄咖啡館 | 東京Vlog",
+          "url": "https://www.youtube.com/watch?v=lRJl3E2hsAg",
+          "time": "21:48",
+          "seconds": 1308
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_1d458ba6476892fb"
+          "p_327d988ccd102372",
+          "p_99cdeb01c953396b"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=16411248613557931469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=9766707380764620119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/nihonbashi--p_1d458ba6476892fb.webp",
-        "alt": "The Pizza Bar On 38th的日系水彩插圖"
+        "image": "/art/source-library/nihonbashi--p_327d988ccd102372.webp",
+        "alt": "三越前的日系水彩插圖"
       },
-      "order": 39,
+      "order": 17,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 16
     },
     {
       "id": "nihonbashi--p_b0d59ff7b81ff0d5",
@@ -2189,13 +936,64 @@
         "image": "/art/source-library/nihonbashi--p_b0d59ff7b81ff0d5.webp",
         "alt": "Ventaglio的日系水彩插圖"
       },
-      "order": 40,
+      "order": 18,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 17
+    },
+    {
+      "id": "nihonbashi--p_1d458ba6476892fb",
+      "name": "The Pizza Bar On 38th",
+      "address": "2-chōme-1-1 Nihonbashimuromachi, Chuo City, Tokyo 103-8328",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「The Pizza Bar On 38th」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 2-chōme-1-1 Nihonbashimuromachi, Chuo City, Tokyo 103-8328。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6869744,
+        "lng": 139.77303329999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "t5HboqYNvqQ",
+          "title": "【日本橋午餐5選】米其林評級的披薩、1887年創業的壽司等等！",
+          "url": "https://www.youtube.com/watch?v=t5HboqYNvqQ"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1d458ba6476892fb"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16411248613557931469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_1d458ba6476892fb.webp",
+        "alt": "The Pizza Bar On 38th的日系水彩插圖"
+      },
+      "order": 19,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 18
     },
     {
       "id": "nihonbashi--p_b1112d48e102166e",
@@ -2259,124 +1057,1124 @@
         "image": "/art/source-library/nihonbashi--p_b1112d48e102166e.webp",
         "alt": "文華東方美食店的日系水彩插圖"
       },
-      "order": 41,
+      "order": 20,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 19
     },
     {
-      "id": "nihonbashi--sembikiya",
-      "order": 42,
-      "name": "千疋屋總本店日本橋本店",
-      "address": "東京都中央区日本橋室町2-1-2",
+      "id": "nihonbashi--p_14482c8e1e1eab5d",
+      "name": "IPPUKU & MATCHA",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−1−１ 日本橋三井タワ １階",
       "group": "food",
-      "categoryLabel": "喫茶・餐食",
-      "caption": "讓一份水果，接住午後腳步",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "千疋屋總本店日本橋本店將水果販售與喫茶空間放在同一處，明亮陳列帶出季節色彩。水果甜點與芭菲讓人不必買一整份禮盒，也能以一餐小休認識老店。",
-        "可在逛完室町後坐下，再從三越前站離開。不同樓層有各自的座位與菜單，依當日候位情況選擇，不必為指定品項壓縮其他散步時間。"
+        "「IPPUKU & MATCHA」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−1−１ 日本橋三井タワ １階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "description": "千疋屋總本店日本橋本店將水果販售與喫茶空間放在同一處，明亮陳列帶出季節色彩。水果甜點與芭菲讓人不必買一整份禮盒，也能以一餐小休認識老店。\n\n可在逛完室町後坐下，再從三越前站離開。不同樓層有各自的座位與菜單，依當日候位情況選擇，不必為指定品項壓縮其他散步時間。",
       "note": "",
-      "official": "https://www.sembikiya.co.jp/shop-list/main-store",
-      "verifiedAt": "2026-10-24",
+      "coordinate": {
+        "lat": 35.687336699999996,
+        "lng": 139.7729769,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "v0hlmLr6l1g",
+          "title": "【Nihonbashi Cafe Best 5】由米其林主廚打造的新canelé、熱愛抹茶的咖啡館等等！",
+          "url": "https://www.youtube.com/watch?v=v0hlmLr6l1g"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "qacCtvyNScw",
+          "title": "cafe vlog｜東 京 抹 茶 ス イ ー ツ 巡 り ８ 選／表参道・銀座・下北沢・自由が丘・日本橋他",
+          "url": "https://www.youtube.com/watch?v=qacCtvyNScw",
+          "time": "0:16",
+          "seconds": 16
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_14482c8e1e1eab5d",
+          "p_d835bbd41b067877"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6137875774303364269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_14482c8e1e1eab5d.webp",
+        "alt": "IPPUKU & MATCHA的日系水彩插圖"
+      },
+      "order": 21,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 20
+    },
+    {
+      "id": "nihonbashi--p_f67482ab05644bb1",
+      "name": "Ishiya Nihonbashi",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 3-chōme−2−１ コレド室町テラス 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Ishiya Nihonbashi」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 3-chōme−2−１ コレド室町テラス 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6875657,
+        "lng": 139.7730523,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "W4TmqMySm0Q",
+          "title": "A Day in Tokyo : Yaesu & Nihonbashi / Tokyo's Timeless & Modern Heart | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=W4TmqMySm0Q",
+          "time": "16:24",
+          "seconds": 984
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "WHISuV4aXW8",
+          "title": "Cafe Vlog | 10 Best Ice Cream Spots in Tokyo / 2021 Guide ✧˖ Omotesando / Ginza / Shinjuku / Shib...",
+          "url": "https://www.youtube.com/watch?v=WHISuV4aXW8",
+          "time": "11:24",
+          "seconds": 684
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f67482ab05644bb1",
+          "p_8c371008579f62ce"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11728528809233129967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_f67482ab05644bb1.webp",
+        "alt": "Ishiya Nihonbashi的日系水彩插圖"
+      },
+      "order": 22,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 21
+    },
+    {
+      "id": "nihonbashi--p_933de38a7d78f07e",
+      "name": "guang（グアン）",
+      "address": "東京都中央区日本橋室町3-2-1",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「guang（グアン）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋室町3-2-1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.687458,
+        "lng": 139.77272,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA3-2-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "65E1KjhHIGg",
+          "title": "cafe vlog｜2021冬NEW OPENカフェ6選！／渋谷／自由が丘／日本橋／銀座／...etc",
+          "url": "https://www.youtube.com/watch?v=65E1KjhHIGg",
+          "time": "5:35",
+          "seconds": 335
+        }
+      ],
+      "official": "https://guang.owst.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_933de38a7d78f07e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=guang%EF%BC%88%E3%82%B0%E3%82%A2%E3%83%B3%EF%BC%89+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA3-2-1+%E3%82%B3%E3%83%AC%E3%83%89%E5%AE%A4%E7%94%BA%E3%83%86%E3%83%A9%E3%82%B9+2F"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_933de38a7d78f07e.webp",
+        "alt": "guang（グアン）的日系水彩插圖"
+      },
+      "order": 23,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 22
+    },
+    {
+      "id": "nihonbashi--p_a2df3a2afa4f42f4",
+      "name": "COREDO 室町Terrace",
+      "address": "3-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「COREDO 室町Terrace」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 3-chōme-2-1 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.687748299999996,
+        "lng": 139.77253299999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "W4TmqMySm0Q",
+          "title": "A Day in Tokyo : Yaesu & Nihonbashi / Tokyo's Timeless & Modern Heart | 2025 Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=W4TmqMySm0Q",
+          "time": "16:24",
+          "seconds": 984
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a2df3a2afa4f42f4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=1342476599623167850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_a2df3a2afa4f42f4.webp",
+        "alt": "COREDO 室町Terrace的日系水彩插圖"
+      },
+      "order": 24,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 23
+    },
+    {
+      "id": "nihonbashi--p_1d8adec9d46b584c",
+      "name": "いい乃じ",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 3-chōme−2−１ コレド室町テラス １F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Iinoji」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 3-chōme−2−１ コレド室町テラス １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6882151,
+        "lng": 139.7724331,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "a-hJd0A0ys4",
+          "title": "【日本橋午餐精選5選】從香川直送的高性價比烏龍麵、米其林星級斯里蘭卡料理、銀行裝修後的小酒館等等！",
+          "url": "https://www.youtube.com/watch?v=a-hJd0A0ys4"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "IygyJAPg9Xs",
+          "title": "【東京午餐精選7】麵包吃到飽、巨型山豬肉、東京唯一的漢堡等等！",
+          "url": "https://www.youtube.com/watch?v=IygyJAPg9Xs"
+        }
+      ],
+      "official": "https://iinoji.zetton.co.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1d8adec9d46b584c"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7158092119783181677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_1d8adec9d46b584c.webp",
+        "alt": "いい乃じ的日系水彩插圖"
+      },
+      "order": 25,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 24
+    },
+    {
+      "id": "nihonbashi--p_ea49eb87d0520b1d",
+      "name": "三井花園飯店日本橋普米爾",
+      "address": "東京都中央区日本橋室町3-4-4",
+      "group": "sights",
+      "categoryLabel": "住宿",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「三井花園飯店日本橋普米爾」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋室町3-4-4。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "保留影片中的住宿及飯店餐飲紀錄；館內部分區域限住宿者使用，餐廳及酒吧請另確認預約與開放方式。",
+      "coordinate": {
+        "lat": 35.6881348,
+        "lng": 139.7734674,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HLZo1Su4sQg",
+          "title": "LUXURY HOTEL STAY BEST6: Ultimate Tokyo Hotel Tour",
+          "url": "https://www.youtube.com/watch?v=HLZo1Su4sQg",
+          "time": "12:43",
+          "seconds": 763
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "C0-Cvbml2ck",
+          "title": "Under $50 Hotel Buffet : TOKYO BEST GUIDE",
+          "url": "https://www.youtube.com/watch?v=C0-Cvbml2ck",
+          "time": "2:32",
+          "seconds": 152
+        }
+      ],
+      "official": "https://www.gardenhotels.co.jp/nihonbashi-premier/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ea49eb87d0520b1d"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11075742174855154111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_ea49eb87d0520b1d.webp",
+        "alt": "三井花園飯店日本橋普米爾的日系水彩插圖"
+      },
+      "order": 26,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 25
+    },
+    {
+      "id": "nihonbashi--p_ee02c36ff050c9aa",
+      "name": "THE A.I.R BUILDING",
+      "address": "〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 3-chōme−2−８ THE A.I.R BUILDING 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「THE A.I.R BUILDING」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 3-chōme−2−８ THE A.I.R BUILDING 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "一樓設有咖啡空間，其餘樓層用於攝影、展覽與活動；非全棟隨時自由參觀。",
+      "coordinate": {
+        "lat": 35.688514999999995,
+        "lng": 139.7745197,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "36mT1AvxWrI",
+          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
+          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
+          "time": "10:50",
+          "seconds": 650
+        }
+      ],
+      "official": "https://theairbuilding.squarespace.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_ee02c36ff050c9aa"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13219468464157401776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_ee02c36ff050c9aa.webp",
+        "alt": "THE A.I.R BUILDING的日系水彩插圖"
+      },
+      "order": 27,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 26
+    },
+    {
+      "id": "nihonbashi--p_67a05ce779355420",
+      "name": "サクレフルール 日本橋",
+      "address": "〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 2-chōme−2−５ 二丁目ビル 1F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Sacrée Fleur Nihonbashi」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 2-chōme−2−５ 二丁目ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6879314,
+        "lng": 139.775372,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "dD91YblnPT0",
+          "title": "[最佳5日本橋居酒屋] SNS上流行的西班牙語，世界上最美味的朝日啤酒！",
+          "url": "https://www.youtube.com/watch?v=dD91YblnPT0"
+        }
+      ],
+      "official": "https://sacreefleur-nihonbashi.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_67a05ce779355420"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14875893441321821125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_67a05ce779355420.webp",
+        "alt": "サクレフルール 日本橋的日系水彩插圖"
+      },
+      "order": 28,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 27
+    },
+    {
+      "id": "nihonbashi--p_81db1cf82af0aaf3",
+      "name": "日本橋 せいとう",
+      "address": "〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 2-chōme−4−１２ イズミビル B1",
+      "group": "food",
+      "categoryLabel": "洋食",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Seito Main store」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0023 Tokyo, Chuo City, Nihonbashihonchō, 2-chōme−4−１２ イズミビル B1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.687023499999995,
+        "lng": 139.775767,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "JbwqGEm4KNk",
+          "title": "BEST 20 ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japan Travel Guide 2024",
+          "url": "https://www.youtube.com/watch?v=JbwqGEm4KNk",
+          "time": "25:14",
+          "seconds": 1514
+        }
+      ],
+      "official": "https://www.seitow-aoshima.co.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_81db1cf82af0aaf3"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=17653602229207902359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_81db1cf82af0aaf3.webp",
+        "alt": "日本橋 せいとう的日系水彩插圖"
+      },
+      "order": 29,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 28
+    },
+    {
+      "id": "nihonbashi--p_6f181aa8e225ce61",
+      "name": "Restaurant Katsura",
+      "address": "1-chōme-13-7 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Restaurant Katsura」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-13-7 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6865847,
+        "lng": 139.7752928,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "t5HboqYNvqQ",
+          "title": "【日本橋午餐5選】米其林評級的披薩、1887年創業的壽司等等！",
+          "url": "https://www.youtube.com/watch?v=t5HboqYNvqQ"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "cOTqL7T8Plg",
+          "title": "【東京ランチ10選】今なら穴場！日本洋食発祥のお店など",
+          "url": "https://www.youtube.com/watch?v=cOTqL7T8Plg"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6f181aa8e225ce61"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=5616033413204229376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_6f181aa8e225ce61.webp",
+        "alt": "Restaurant Katsura的日系水彩插圖"
+      },
+      "order": 30,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 29
+    },
+    {
+      "id": "nihonbashi--p_047095d200067f39",
+      "name": "日本橋炸豬排 一 HAJIME",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−13−９ 池田ビル １Ｆ",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「日本橋炸豬排 一 HAJIME」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−13−９ 池田ビル １Ｆ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6864255,
+        "lng": 139.7754729,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "jrPOQIeOyNI",
+          "title": "BEST 10 JAPANESE ULTIMATE FOOD TOUR: Japan Guide 2023",
+          "url": "https://www.youtube.com/watch?v=jrPOQIeOyNI",
+          "time": "0:00",
+          "seconds": 0
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "xloXdeHE9JU",
+          "title": "BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2024",
+          "url": "https://www.youtube.com/watch?v=xloXdeHE9JU"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "wV12BgedVrE",
+          "title": "日本橋和三越前最美味的5種午餐！",
+          "url": "https://www.youtube.com/watch?v=wV12BgedVrE"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_047095d200067f39"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=6574211571385242520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_047095d200067f39.webp",
+        "alt": "日本橋炸豬排 一 HAJIME的日系水彩插圖"
+      },
+      "order": 31,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 30
+    },
+    {
+      "id": "nihonbashi--p_a12731ca64bc1258",
+      "name": "BULVÁR TOKYO",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−12−６ 日本橋ムロホンビル4 ２階／３階",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「BULVÁR TOKYO」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−12−６ 日本橋ムロホンビル4 ２階／３階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.686109699999996,
+        "lng": 139.7752122,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "dD91YblnPT0",
+          "title": "[最佳5日本橋居酒屋] SNS上流行的西班牙語，世界上最美味的朝日啤酒！",
+          "url": "https://www.youtube.com/watch?v=dD91YblnPT0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a12731ca64bc1258"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=421463869439060616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_a12731ca64bc1258.webp",
+        "alt": "BULVÁR TOKYO的日系水彩插圖"
+      },
+      "order": 32,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 31
+    },
+    {
+      "id": "nihonbashi--p_bc4a784a362797f8",
+      "name": "いちや 日本橋三越前店 (Ichiya Nihonbashi Mitsukoshimae Store)",
+      "address": "",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「いちや 日本橋三越前店 (Ichiya Nihonbashi Mitsukoshimae Store)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6859113,
+        "lng": 139.7754955,
+        "provider": "source-library",
+        "url": "https://maps.app.goo.gl/FmguPJS9RY168bkr7",
+        "precisionNote": "原影片地圖連結的地點座標，非目前店況查證。"
+      },
       "sources": [
         {
           "channel": "SoloInTokyoLife",
-          "videoId": "Eh0FBt7xsfU",
-          "title": "銀座三越🍰🍱從新開幕甜點到人氣便當 精選10家｜東京百貨地下美食・伴手禮推薦",
-          "url": "https://www.youtube.com/watch?v=Eh0FBt7xsfU"
+          "videoId": "C2JGPCx8SxE",
+          "title": "東京必吃銅鑼燒巡禮 🇯🇵 日本橋兔屋絕品與叶匠壽庵 | 2026日本伴手禮推薦",
+          "url": "https://www.youtube.com/watch?v=C2JGPCx8SxE",
+          "time": "09:23",
+          "seconds": 563
         },
         {
           "channel": "SoloInTokyoLife",
-          "videoId": "Wu0r7snJatA",
-          "title": "銀座三越🍰🥪獎勵自己的甜點＆輕食16選｜推薦的日式和洋點心｜百貨地下美食戰利品",
-          "url": "https://www.youtube.com/watch?v=Wu0r7snJatA"
+          "videoId": "P-wLYmfb7WA",
+          "title": "東京 🇯🇵 夏日紅豆甜點巡禮！御門屋本店冰鎮善哉與銀座西川高級紅豆吐司 | 日本美食",
+          "url": "https://www.youtube.com/watch?v=P-wLYmfb7WA",
+          "time": "02:20",
+          "seconds": 140
         }
       ],
-      "coordinate": {
-        "lat": 35.686127,
-        "lng": 139.772583,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-1-2",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bc4a784a362797f8",
+          "p_1af6d466cdf3f07e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.app.goo.gl/FmguPJS9RY168bkr7"
       },
       "illustration": {
-        "image": "/art/walks/nihonbashi/sembikiya.webp",
-        "alt": "千疋屋總本店日本橋本店的日系水彩插圖"
+        "image": "/art/source-library/nihonbashi--p_bc4a784a362797f8.webp",
+        "alt": "いちや 日本橋三越前店 (Ichiya Nihonbashi Mitsukoshimae Store)的日系水彩插圖"
       },
-      "recommendation": "選一份水果甜點休息，將剩下的時間留給附近老店。",
-      "sourceLibraryIds": [
-        "p_1a6bd809b578419d"
-      ],
+      "order": 33,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://www.city.chuo.lg.jp/miryoku/imamukashi/nihonbashi.html",
-          "https://mebuki.jp/",
-          "https://www.sembikiya.co.jp/shop-list/main-store"
-        ]
-      }
+      "recommendation": null,
+      "displayOrder": 32
     },
     {
-      "id": "nihonbashi--museum",
-      "order": 43,
-      "name": "三井紀念美術館",
-      "address": "東京都中央区日本橋室町2-1-1",
-      "group": "sights",
-      "categoryLabel": "文化・景點",
-      "caption": "把城市聲音，留在展廳外",
+      "id": "nihonbashi--p_92318589ed4e263c",
+      "name": "MIKADO 咖啡館 日本橋本店",
+      "address": "日本橋ムロホンビル, 3, 1-chōme-12-15 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "三井紀念美術館位於三井本館七樓，以日本與東亞美術、茶道器物等收藏形成展覽特色。沉穩展廳與老建築背景，適合把注意力收回器物、繪畫與細節之間。",
-        "若當期展覽符合興趣，可用這裡替換一兩間商店，避免把全展硬塞進三小時。入口依三井大樓一樓的指標前往，展期、休館與購票方式先看當日公告。"
+        "「MIKADO 咖啡館 日本橋本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 日本橋ムロホンビル, 3, 1-chōme-12-15 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
-      "description": "三井紀念美術館位於三井本館七樓，以日本與東亞美術、茶道器物等收藏形成展覽特色。沉穩展廳與老建築背景，適合把注意力收回器物、繪畫與細節之間。\n\n若當期展覽符合興趣，可用這裡替換一兩間商店，避免把全展硬塞進三小時。入口依三井大樓一樓的指標前往，展期、休館與購票方式先看當日公告。",
       "note": "",
-      "official": "https://www.mitsui-museum.jp/overview/overview.html",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
       "coordinate": {
-        "lat": 35.686001,
-        "lng": 139.772644,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-1-1",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+        "lat": 35.685801,
+        "lng": 139.7751491,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "kpQqkxuM9JU",
+          "title": "[東京最佳咖啡廳 21 家] 東京 21 家最佳咖啡廳",
+          "url": "https://www.youtube.com/watch?v=kpQqkxuM9JU"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "v0hlmLr6l1g",
+          "title": "【Nihonbashi Cafe Best 5】由米其林主廚打造的新canelé、熱愛抹茶的咖啡館等等！",
+          "url": "https://www.youtube.com/watch?v=v0hlmLr6l1g"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_92318589ed4e263c"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11744760076007948324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/walks/nihonbashi/museum.webp",
-        "alt": "三井紀念美術館的日系水彩插圖"
+        "image": "/art/source-library/nihonbashi--p_92318589ed4e263c.webp",
+        "alt": "MIKADO 咖啡館 日本橋本店的日系水彩插圖"
       },
-      "recommendation": "從三井塔一樓入口進入美術館，看當期展覽後就近由三越前站離開。",
+      "order": 34,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://museum.haibara.co.jp/shop/",
-          "https://www.mitsui-museum.jp/overview/overview.html"
-        ]
-      }
+      "recommendation": null,
+      "displayOrder": 33
+    },
+    {
+      "id": "nihonbashi--p_2261aa98d26ab803",
+      "name": "Dedesuke Saigon Kitchen",
+      "address": "1-chōme-11-4 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Dedesuke Saigon Kitchen」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-11-4 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6856192,
+        "lng": 139.7750029,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "JbwqGEm4KNk",
+          "title": "BEST 20 ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japan Travel Guide 2024",
+          "url": "https://www.youtube.com/watch?v=JbwqGEm4KNk",
+          "time": "22:12",
+          "seconds": 1332
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2261aa98d26ab803"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=18088310824015033546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_2261aa98d26ab803.webp",
+        "alt": "Dedesuke Saigon Kitchen的日系水彩插圖"
+      },
+      "order": 35,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 34
+    },
+    {
+      "id": "nihonbashi--p_7b90a01e061bb4e7",
+      "name": "日本橋 讃岐うどん ほし野",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−11−２ 松楽ビル １階",
+      "group": "food",
+      "categoryLabel": "烏龍麵",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Hoshino」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−11−２ 松楽ビル １階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.685572,
+        "lng": 139.7751696,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "a-hJd0A0ys4",
+          "title": "【日本橋午餐精選5選】從香川直送的高性價比烏龍麵、米其林星級斯里蘭卡料理、銀行裝修後的小酒館等等！",
+          "url": "https://www.youtube.com/watch?v=a-hJd0A0ys4"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7b90a01e061bb4e7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16950125548083930946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_7b90a01e061bb4e7.webp",
+        "alt": "日本橋 讃岐うどん ほし野的日系水彩插圖"
+      },
+      "order": 36,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 35
+    },
+    {
+      "id": "nihonbashi--p_fa7c0f89308d8aa3",
+      "name": "日本橋 天丼 金子半之助 日本橋総本店",
+      "address": "1-chōme-11-15 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「日本橋天丼 金子半之助」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 1-chōme-11-15 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6853778,
+        "lng": 139.7752665,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "xloXdeHE9JU",
+          "title": "BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2024",
+          "url": "https://www.youtube.com/watch?v=xloXdeHE9JU"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "t5HboqYNvqQ",
+          "title": "【日本橋午餐5選】米其林評級的披薩、1887年創業的壽司等等！",
+          "url": "https://www.youtube.com/watch?v=t5HboqYNvqQ"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "7Kz9ZLOzHIk",
+          "title": "【東京午餐最佳7選】2024年最新！ 人們排隊2小時的美味天婦羅蓋飯、閃閃發光的烤肉、看起來像艾爾斯岩的豬肉等等！",
+          "url": "https://www.youtube.com/watch?v=7Kz9ZLOzHIk"
+        }
+      ],
+      "official": "https://kanekohannosuke.com/shop/?id=0020001",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fa7c0f89308d8aa3"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=2076606597046497200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_fa7c0f89308d8aa3.webp",
+        "alt": "日本橋 天丼 金子半之助 日本橋総本店的日系水彩插圖"
+      },
+      "order": 37,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 36
+    },
+    {
+      "id": "nihonbashi--p_c9f0f0e6f16af0fb",
+      "name": "京の馳走 はんなりや",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−11−１５ UNOビル 2F",
+      "group": "food",
+      "categoryLabel": "京料理",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Hannariya」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−11−１５ UNOビル 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.68541,
+        "lng": 139.7753938,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "TGtK9IacVb0",
+          "title": "[日本橋/三越前 5 種午餐選擇] 最好的 5 種美味午餐！",
+          "url": "https://www.youtube.com/watch?v=TGtK9IacVb0"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c9f0f0e6f16af0fb"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=2295619296135272407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_c9f0f0e6f16af0fb.webp",
+        "alt": "京の馳走 はんなりや的日系水彩插圖"
+      },
+      "order": 38,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 37
+    },
+    {
+      "id": "nihonbashi--p_73a7ed8629655efc",
+      "name": "uRn.chAi&TeA COREDO3",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−5−５ COREDO Muromachi 3, 2F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「uRn.chAi&TeA COREDO3」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−5−５ COREDO Muromachi 3, 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.686145599999996,
+        "lng": 139.7744526,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "kpQqkxuM9JU",
+          "title": "[東京最佳咖啡廳 21 家] 東京 21 家最佳咖啡廳",
+          "url": "https://www.youtube.com/watch?v=kpQqkxuM9JU"
+        }
+      ],
+      "official": "https://urn-jp.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_73a7ed8629655efc"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=9426326165434245451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_73a7ed8629655efc.webp",
+        "alt": "uRn.chAi&TeA COREDO3的日系水彩插圖"
+      },
+      "order": 40,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 38
+    },
+    {
+      "id": "nihonbashi--p_f07b803fd0ce4b5f",
+      "name": "小布施堂 日本橋三越本店",
+      "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館B1F",
+      "group": "sights",
+      "categoryLabel": "其他",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「小布施堂」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区日本橋室町1-4-1 日本橋三越本店 本館B1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "原影片為日本橋三越地下食品樓層介紹；櫃位或快閃店可能更動，出發前請查百貨最新樓層資訊。",
+      "coordinate": {
+        "lat": 35.6856332,
+        "lng": 139.7734296,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E5%B0%8F%E5%B8%83%E6%96%BD%E5%A0%82+%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%89%E8%B6%8A%E6%9C%AC%E5%BA%97/@35.6856332,139.7734296,17z/data=!3m1!4b1!4m6!3m5!1s0x601889ce5fe9144f:0xa39e54dbc9990abf!8m2!3d35.6856332!4d139.7734296!16s%2Fg%2F11l4mh4jn5?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "shopUrl": "https://tabelog.com/tokyo/A1302/A130202/13240810/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "Oimoの休日グルメ旅",
+          "videoId": "z6urhZqcK94",
+          "title": "【日本橋三越】デパ地下最新スイーツ7選！本当に喜ばれる東京手土産【2026年最新】",
+          "url": "https://www.youtube.com/watch?v=z6urhZqcK94",
+          "time": "00:53",
+          "seconds": 53
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f07b803fd0ce4b5f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%B0%8F%E5%B8%83%E6%96%BD%E5%A0%82+%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%89%E8%B6%8A%E6%9C%AC%E5%BA%97/@35.6856332,139.7734296,17z/data=!3m1!4b1!4m6!3m5!1s0x601889ce5fe9144f:0xa39e54dbc9990abf!8m2!3d35.6856332!4d139.7734296!16s%2Fg%2F11l4mh4jn5?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_f07b803fd0ce4b5f.webp",
+        "alt": "小布施堂 日本橋三越本店的日系水彩插圖"
+      },
+      "order": 42,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": 39
     },
     {
       "id": "nihonbashi--mitsukoshi",
-      "order": 44,
+      "order": 43,
       "name": "日本橋三越本店",
       "address": "東京都中央区日本橋室町1-4-1",
       "group": "shops",
@@ -2453,7 +2251,8 @@
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
-      }
+      },
+      "displayOrder": 40
     },
     {
       "id": "nihonbashi--p_e1039fc9a2e273e7",
@@ -2502,68 +2301,14 @@
         "image": "/art/source-library/nihonbashi--p_e1039fc9a2e273e7.webp",
         "alt": "27℃ 日本橋三越本店的日系水彩插圖"
       },
-      "order": 45,
+      "order": 44,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_f07b803fd0ce4b5f",
-      "name": "小布施堂 日本橋三越本店",
-      "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館B1F",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「小布施堂」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋室町1-4-1 日本橋三越本店 本館B1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "原影片為日本橋三越地下食品樓層介紹；櫃位或快閃店可能更動，出發前請查百貨最新樓層資訊。",
-      "coordinate": {
-        "lat": 35.685177,
-        "lng": 139.77298,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA1-4-1",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Oimoの休日グルメ旅",
-          "videoId": "z6urhZqcK94",
-          "title": "【日本橋三越】デパ地下最新スイーツ7選！本当に喜ばれる東京手土産【2026年最新】",
-          "url": "https://www.youtube.com/watch?v=z6urhZqcK94",
-          "time": "00:53",
-          "seconds": 53
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_f07b803fd0ce4b5f"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B8%83%E6%96%BD%E5%A0%82+Japan"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_f07b803fd0ce4b5f.webp",
-        "alt": "小布施堂 日本橋三越本店的日系水彩插圖"
-      },
-      "order": 46,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 41
     },
     {
       "id": "nihonbashi--p_ad5eb4d9385d4aff",
@@ -2612,13 +2357,14 @@
         "image": "/art/source-library/nihonbashi--p_ad5eb4d9385d4aff.webp",
         "alt": "榮太樓總本鋪 日本橋三越本店的日系水彩插圖"
       },
-      "order": 47,
+      "order": 45,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 42
     },
     {
       "id": "nihonbashi--p_b1928938f04af6f6",
@@ -2667,13 +2413,14 @@
         "image": "/art/source-library/nihonbashi--p_b1928938f04af6f6.webp",
         "alt": "CUSTA 日本橋三越本店的日系水彩插圖"
       },
-      "order": 48,
+      "order": 46,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 43
     },
     {
       "id": "nihonbashi--p_c3c177fbabc3be97",
@@ -2722,13 +2469,14 @@
         "image": "/art/source-library/nihonbashi--p_c3c177fbabc3be97.webp",
         "alt": "PAYSAGE 日本橋三越本店的日系水彩插圖"
       },
-      "order": 49,
+      "order": 47,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 44
     },
     {
       "id": "nihonbashi--p_34521008dfbf3368",
@@ -2777,13 +2525,123 @@
         "image": "/art/source-library/nihonbashi--p_34521008dfbf3368.webp",
         "alt": "クラブハリエ 日本橋三越店的日系水彩插圖"
       },
-      "order": 50,
+      "order": 48,
       "canonicalArea": {
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 45
+    },
+    {
+      "id": "nihonbashi--museum",
+      "order": 49,
+      "name": "三井紀念美術館",
+      "address": "東京都中央区日本橋室町2-1-1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "把城市聲音，留在展廳外",
+      "descriptionParagraphs": [
+        "三井紀念美術館位於三井本館七樓，以日本與東亞美術、茶道器物等收藏形成展覽特色。沉穩展廳與老建築背景，適合把注意力收回器物、繪畫與細節之間。",
+        "若當期展覽符合興趣，可用這裡替換一兩間商店，避免把全展硬塞進三小時。入口依三井大樓一樓的指標前往，展期、休館與購票方式先看當日公告。"
+      ],
+      "description": "三井紀念美術館位於三井本館七樓，以日本與東亞美術、茶道器物等收藏形成展覽特色。沉穩展廳與老建築背景，適合把注意力收回器物、繪畫與細節之間。\n\n若當期展覽符合興趣，可用這裡替換一兩間商店，避免把全展硬塞進三小時。入口依三井大樓一樓的指標前往，展期、休館與購票方式先看當日公告。",
+      "note": "",
+      "official": "https://www.mitsui-museum.jp/overview/overview.html",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.686001,
+        "lng": 139.772644,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-1-1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/museum.webp",
+        "alt": "三井紀念美術館的日系水彩插圖"
+      },
+      "recommendation": "從三井塔一樓入口進入美術館，看當期展覽後就近由三越前站離開。",
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://museum.haibara.co.jp/shop/",
+          "https://www.mitsui-museum.jp/overview/overview.html"
+        ]
+      },
+      "displayOrder": 46
+    },
+    {
+      "id": "nihonbashi--sembikiya",
+      "order": 50,
+      "name": "千疋屋總本店日本橋本店",
+      "address": "東京都中央区日本橋室町2-1-2",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "讓一份水果，接住午後腳步",
+      "descriptionParagraphs": [
+        "千疋屋總本店日本橋本店將水果販售與喫茶空間放在同一處，明亮陳列帶出季節色彩。水果甜點與芭菲讓人不必買一整份禮盒，也能以一餐小休認識老店。",
+        "可在逛完室町後坐下，再從三越前站離開。不同樓層有各自的座位與菜單，依當日候位情況選擇，不必為指定品項壓縮其他散步時間。"
+      ],
+      "description": "千疋屋總本店日本橋本店將水果販售與喫茶空間放在同一處，明亮陳列帶出季節色彩。水果甜點與芭菲讓人不必買一整份禮盒，也能以一餐小休認識老店。\n\n可在逛完室町後坐下，再從三越前站離開。不同樓層有各自的座位與菜單，依當日候位情況選擇，不必為指定品項壓縮其他散步時間。",
+      "note": "",
+      "official": "https://www.sembikiya.co.jp/shop-list/main-store",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "Eh0FBt7xsfU",
+          "title": "銀座三越🍰🍱從新開幕甜點到人氣便當 精選10家｜東京百貨地下美食・伴手禮推薦",
+          "url": "https://www.youtube.com/watch?v=Eh0FBt7xsfU"
+        },
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "Wu0r7snJatA",
+          "title": "銀座三越🍰🥪獎勵自己的甜點＆輕食16選｜推薦的日式和洋點心｜百貨地下美食戰利品",
+          "url": "https://www.youtube.com/watch?v=Wu0r7snJatA"
+        }
+      ],
+      "coordinate": {
+        "lat": 35.686127,
+        "lng": 139.772583,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-1-2",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/nihonbashi/sembikiya.webp",
+        "alt": "千疋屋總本店日本橋本店的日系水彩插圖"
+      },
+      "recommendation": "選一份水果甜點休息，將剩下的時間留給附近老店。",
+      "sourceLibraryIds": [
+        "p_1a6bd809b578419d"
+      ],
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.chuo.lg.jp/miryoku/imamukashi/nihonbashi.html",
+          "https://mebuki.jp/",
+          "https://www.sembikiya.co.jp/shop-list/main-store"
+        ]
+      },
+      "displayOrder": 47
     },
     {
       "id": "nihonbashi--p_450844b8b514c386",
@@ -2832,7 +2690,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 48
     },
     {
       "id": "nihonbashi--p_0662a9f1dd2cfb6e",
@@ -2899,7 +2758,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 49
     },
     {
       "id": "nihonbashi--p_f3f72ea8b580970a",
@@ -2954,7 +2814,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 50
     },
     {
       "id": "nihonbashi--p_3ddb0104cb8de2f8",
@@ -3003,7 +2864,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 51
     },
     {
       "id": "nihonbashi--p_5cd09d5758930f39",
@@ -3058,62 +2920,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_bf1bef1b7d2bbd04",
-      "name": "Mighty steps coffee stop（閉店）",
-      "address": "東京都中央区日本橋本町4-3-14",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "曾在日本橋本町老屋一樓營業的咖啡與冰淇淋店，保留影片及昔日店面紀錄。",
-        "原始資料記錄的地址為 東京都中央区日本橋本町4-3-14。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "食べログ與《散步達人》均標示閉店；此處保留原址及原始影片，不作營業中店家推薦。",
-      "coordinate": {
-        "lat": 35.689724,
-        "lng": 139.773499,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%9C%AC%E7%94%BA4-3-14",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "WHISuV4aXW8",
-          "title": "Cafe Vlog | 10 Best Ice Cream Spots in Tokyo / 2021 Guide ✧˖ Omotesando / Ginza / Shinjuku / Shib...",
-          "url": "https://www.youtube.com/watch?v=WHISuV4aXW8",
-          "time": "09:08",
-          "seconds": 548
-        }
-      ],
-      "official": "https://tabelog.com/tokyo/A1302/A130202/13171053/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_bf1bef1b7d2bbd04"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/4-ch%C5%8Dme-3-14+Nihonbashihonch%C5%8D/data=!4m7!3m6!1s0x60188eaabb4d2367:0x4f04bf7e8a49584b!8m2!3d35.689774!4d139.7735206!16s%2Fg%2F11mdft2l98!19sChIJZyNNu6qOGGARS1hJin6_BE8?authuser=0&hl=zh-TW&rclk=1"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_bf1bef1b7d2bbd04.webp",
-        "alt": "Mighty steps coffee stop（閉店）的日系水彩插圖"
-      },
-      "order": 56,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 52
     },
     {
       "id": "nihonbashi--p_59f17d0d4e85b545",
@@ -3162,7 +2970,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 53
     },
     {
       "id": "nihonbashi--p_89e561d7fad1c897",
@@ -3213,7 +3022,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 54
     },
     {
       "id": "nihonbashi--ibasen",
@@ -3251,7 +3061,8 @@
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
-      }
+      },
+      "displayOrder": 55
     },
     {
       "id": "nihonbashi--p_ebf4208864c6e974",
@@ -3300,7 +3111,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 56
     },
     {
       "id": "nihonbashi--p_c48fc36fbee80ecf",
@@ -3363,7 +3175,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 57
     },
     {
       "id": "nihonbashi--nori",
@@ -3401,7 +3214,8 @@
         "id": "nihonbashi",
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
-      }
+      },
+      "displayOrder": 58
     },
     {
       "id": "nihonbashi--p_053b7488b3906558",
@@ -3450,7 +3264,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 59
     },
     {
       "id": "nihonbashi--p_bbf887d9715cf8df",
@@ -3514,7 +3329,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 60
     },
     {
       "id": "nihonbashi--bridge",
@@ -3581,7 +3397,8 @@
           "https://mebuki.jp/",
           "https://www.sembikiya.co.jp/shop-list/main-store"
         ]
-      }
+      },
+      "displayOrder": 61
     },
     {
       "id": "nihonbashi--p_a6d935c4cbf7fd56",
@@ -3630,7 +3447,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 62
     },
     {
       "id": "nihonbashi--p_db08b4a97f1baa57",
@@ -3689,7 +3507,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 63
     },
     {
       "id": "nihonbashi--p_3a3038c0cdb2547e",
@@ -3747,7 +3566,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 64
     },
     {
       "id": "nihonbashi--p_82aa6d988083e286",
@@ -3798,56 +3618,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_a379bb51d68c07e9",
-      "name": "紅花別館（閉店）",
-      "address": "東京都中央区日本橋1-2-15",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "紅花別館曾以鐵板燒與陶鍋咖哩受到喜愛，原址在日本橋街區。店家因再開發於2025年12月27日結束營業，這裡保留影片中的舊店紀錄。",
-        "原始資料記錄的地址為 東京都中央区日本橋1-2-15。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "官方公告原址已於2025年12月27日閉店；日本橋新店仍在規劃，尚未公布重新開業地址。",
-      "coordinate": {
-        "lat": 35.6833007,
-        "lng": 139.7732614,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "TGtK9IacVb0",
-          "title": "[日本橋/三越前 5 種午餐選擇] 最好的 5 種美味午餐！",
-          "url": "https://www.youtube.com/watch?v=TGtK9IacVb0"
-        }
-      ],
-      "official": "https://www.benihana.jp/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_a379bb51d68c07e9"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=16941433128707925568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_a379bb51d68c07e9.webp",
-        "alt": "紅花別館（閉店）的日系水彩插圖"
-      },
-      "order": 70,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 65
     },
     {
       "id": "nihonbashi--haibara",
@@ -3892,158 +3664,8 @@
           "https://museum.haibara.co.jp/shop/",
           "https://www.mitsui-museum.jp/overview/overview.html"
         ]
-      }
-    },
-    {
-      "id": "nihonbashi--p_b70680d6208a10c8",
-      "name": "Thong from Bangkok コレド日本橋店（閉店）",
-      "address": "東京都中央区日本橋1-4-1 コレド日本橋4F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "這家泰國料理店原位於COREDO日本橋四樓，原影片留下了當時的用餐紀錄。隨商場二至四樓結束營業，該店已不能按舊址安排用餐。",
-        "原始資料記錄的地址為 東京都中央区日本橋1-4-1 コレド日本橋4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "COREDO日本橋官方公告二至四樓店鋪於2026年6月15日結束營業；保留歷史影片紀錄。",
-      "coordinate": {
-        "lat": 35.6825265,
-        "lng": 139.7742926,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "JbwqGEm4KNk",
-          "title": "BEST 20 ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japan Travel Guide 2024",
-          "url": "https://www.youtube.com/watch?v=JbwqGEm4KNk",
-          "time": "28:19",
-          "seconds": 1699
-        }
-      ],
-      "official": "https://prtimes.jp/main/html/rd/p/000000049.000033162.html",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_b70680d6208a10c8"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=4789633147556213965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_b70680d6208a10c8.webp",
-        "alt": "Thong from Bangkok コレド日本橋店（閉店）的日系水彩插圖"
-      },
-      "order": 72,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_07080c13f6650eb9",
-      "name": "京都石塀小路 豆ちゃ 日本橋（閉店）",
-      "address": "東京都中央区日本橋1-4-1 コレド日本橋4F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "豆ちゃ日本橋店曾在COREDO日本橋四樓提供京都風味料理。營運公司已公告該店結束營業，原影片與店面插畫保留作為街區紀錄。",
-        "原始資料記錄的地址為 東京都中央区日本橋1-4-1 コレド日本橋4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "營運公司確認2026年6月15日閉店；目前不能按影片中的舊址安排用餐。",
-      "coordinate": {
-        "lat": 35.682291899999996,
-        "lng": 139.7749131,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "iKCUC4bKPbY",
-          "title": "【東京駅ランチ10選】鯛めし食べ放題や、ミシュラン、KinKi KidsがNo.1に選んだ洋食など！",
-          "url": "https://www.youtube.com/watch?v=iKCUC4bKPbY"
-        }
-      ],
-      "official": "https://www.dd-holdings.jp/shops/mamecha/nihonbashi",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_07080c13f6650eb9"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=14963280836541579171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_07080c13f6650eb9.webp",
-        "alt": "京都石塀小路 豆ちゃ 日本橋（閉店）的日系水彩插圖"
-      },
-      "order": 73,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_81c206ff48f29cd5",
-      "name": "奈美路や コレド日本橋（閉店）",
-      "address": "東京都中央区日本橋1-4-1 コレド日本橋4F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "奈美路や曾在COREDO日本橋四樓供應江戶風味料理，也是原影片介紹的午餐地點。商場二至四樓已結束營業，這裡保留過往用餐與街區紀錄。",
-        "原始資料記錄的地址為 東京都中央区日本橋1-4-1 コレド日本橋4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "依COREDO日本橋營運方公告，二至四樓店鋪於2026年6月15日結束營業；這是原址歷史紀錄。",
-      "coordinate": {
-        "lat": 35.682310099999995,
-        "lng": 139.7750355,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "iatOTL9fWJA",
-          "title": "Let’s feel Edo period with Tokyo Nihonbashi traditional lunch",
-          "url": "https://www.youtube.com/watch?v=iatOTL9fWJA",
-          "time": "02:21",
-          "seconds": 141
-        }
-      ],
-      "official": "https://prtimes.jp/main/html/rd/p/000000049.000033162.html",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_81c206ff48f29cd5"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=7555680140245275788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_81c206ff48f29cd5.webp",
-        "alt": "奈美路や コレド日本橋（閉店）的日系水彩插圖"
-      },
-      "order": 74,
-      "canonicalArea": {
-        "id": "nihonbashi",
-        "name": "日本橋・室町",
-        "href": "/walks/nihonbashi/"
-      },
-      "recommendation": null
+      "displayOrder": 66
     },
     {
       "id": "nihonbashi--p_a10e27481fe705d6",
@@ -4092,7 +3714,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 67
     },
     {
       "id": "nihonbashi--p_eaf9e80c5aca491a",
@@ -4167,7 +3790,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 68
     },
     {
       "id": "nihonbashi--p_7a69f0f92c94619e",
@@ -4216,7 +3840,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 69
     },
     {
       "id": "nihonbashi--p_d240231245d2447b",
@@ -4265,7 +3890,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 70
     },
     {
       "id": "nihonbashi--p_440e3902c50cb41a",
@@ -4317,7 +3943,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 71
     },
     {
       "id": "nihonbashi--p_b181c54a5e7d4d59",
@@ -4383,7 +4010,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 72
     },
     {
       "id": "nihonbashi--p_2cc15af46aff19d1",
@@ -4436,7 +4064,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 73
     },
     {
       "id": "nihonbashi--p_0f68f541300eaac0",
@@ -4487,7 +4116,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 74
     },
     {
       "id": "nihonbashi--p_067bcd8ec55fdcba",
@@ -4546,7 +4176,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 75
     },
     {
       "id": "nihonbashi--p_756c35df06e7ad94",
@@ -4595,7 +4226,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 76
     },
     {
       "id": "nihonbashi--p_a382d71a26576a4b",
@@ -4646,7 +4278,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 77
     },
     {
       "id": "nihonbashi--p_fde9883f401b42f2",
@@ -4701,7 +4334,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 78
     },
     {
       "id": "nihonbashi--p_108c49340947a927",
@@ -4762,7 +4396,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 79
     },
     {
       "id": "nihonbashi--p_f538fa2dc16d5129",
@@ -4811,7 +4446,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 80
     },
     {
       "id": "nihonbashi--p_c5050edd4a19bc74",
@@ -4869,7 +4505,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 81
     },
     {
       "id": "nihonbashi--p_5bf83fcd8e0f5abf",
@@ -4924,7 +4561,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 82
     },
     {
       "id": "nihonbashi--p_f6b8ba03e86f9182",
@@ -4973,7 +4611,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 83
     },
     {
       "id": "nihonbashi--p_b8ae1176ec752d98",
@@ -5024,7 +4663,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 84
     },
     {
       "id": "nihonbashi--p_685c3eaf0fb40a55",
@@ -5076,7 +4716,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 85
     },
     {
       "id": "nihonbashi--p_dc37cf5f0093c7ab",
@@ -5131,7 +4772,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 86
     },
     {
       "id": "nihonbashi--p_7710a89d345e4368",
@@ -5190,7 +4832,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 87
     },
     {
       "id": "nihonbashi--p_aedd16766aeef3ee",
@@ -5239,7 +4882,8 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 88
     },
     {
       "id": "nihonbashi--p_c4c1274fc4d08b98",
@@ -5288,7 +4932,460 @@
         "name": "日本橋・室町",
         "href": "/walks/nihonbashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 89
+    },
+    {
+      "id": "nihonbashi--p_48dcc7b9ae75d405",
+      "name": "Canelé de CHIANTI 日本橋店（舊址紀錄）",
+      "address": "東京都中央区日本橋室町2-3-1 コレド室町2 2F @Kitchen",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹 COREDO 室町2二樓共享廚房內的可麗露專門店，保留當時店面與甜點紀錄。",
+        "原始資料記錄的地址為 東京都中央区日本橋室町2-3-1 コレド室町2 2F @Kitchen。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "入駐的 @Kitchen NIHONBASHI 已公告2026年8月30日閉店。品牌官網仍列日本橋舊址，尚未確認新址或後續營業安排；請勿直接依舊影片前往。",
+      "coordinate": {
+        "lat": 35.686623,
+        "lng": 139.774582,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA2-3-1",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "bXb5psl7rUo",
+          "title": "【東京・最新】2022年最新カフェ８店舗～2022年下半期版～ 新大久保／銀座／丸の内／日本橋／蔵前／...etc",
+          "url": "https://www.youtube.com/watch?v=bXb5psl7rUo",
+          "time": "09:50",
+          "seconds": 590
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "v0hlmLr6l1g",
+          "title": "【Nihonbashi Cafe Best 5】由米其林主廚打造的新canelé、熱愛抹茶的咖啡館等等！",
+          "url": "https://www.youtube.com/watch?v=v0hlmLr6l1g"
+        }
+      ],
+      "official": "https://a-c-inc.co.jp/canele-de-chianti/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_48dcc7b9ae75d405",
+          "p_cbb21e3fe9ab06d7"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E3%82%AB%E3%83%8C%E3%83%AC%E5%B0%82%E9%96%80%E5%BA%97+Canele+de+CHIANTI+%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%BA%97+%E3%82%AB%E3%83%8C%E3%83%AC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%86%E3%82%A3/@35.6866655,139.7748356,17z/data=!3m1!4b1!4m6!3m5!1s0x601889cf9f1286e1:0x981517ba8c24b030!8m2!3d35.6866655!4d139.7748356!16s%2Fg%2F11t7r393zh?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_48dcc7b9ae75d405.webp",
+        "alt": "Canelé de CHIANTI 日本橋店（舊址紀錄）的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "nihonbashi--p_4d633bbd9389f800",
+      "name": "鉄板焼 東洋（閉店）",
+      "address": "1-chōme-5-2 Nihonbashimuromachi, Chuo City, Tokyo 103-0022",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "原影片介紹的日本橋室町鐵板燒店，保留原址與店面紀錄。",
+        "原始資料記錄的地址為 1-chōme-5-2 Nihonbashimuromachi, Chuo City, Tokyo 103-0022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "店家公告因日本橋室町一丁目再開發，已於2025年10月31日結束營業。此處保留歷史紀錄。",
+      "coordinate": {
+        "lat": 35.685625699999996,
+        "lng": 139.7746405,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "wV12BgedVrE",
+          "title": "日本橋和三越前最美味的5種午餐！",
+          "url": "https://www.youtube.com/watch?v=wV12BgedVrE"
+        }
+      ],
+      "official": "https://www.hotpepper.jp/strJ000839452/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_4d633bbd9389f800"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=764271964091759396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_4d633bbd9389f800.webp",
+        "alt": "鉄板焼 東洋（閉店）的日系水彩插圖"
+      },
+      "order": 39,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "nihonbashi--p_3ba9648827e5a4c7",
+      "name": "鶴屋吉信 TOKYO MISE（閉店）",
+      "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−5−５ COREDO Muromachi 3, 1F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "曾位於COREDO室町3的一樓，設有現製和菓子吧台與茶房；保留原影片介紹及歷史店內插畫。",
+        "原始資料記錄的地址為 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−5−５ COREDO Muromachi 3, 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "官方公告已於2026年8月23日結束營業。此處為原址紀錄，無法再安排店內用餐。",
+      "coordinate": {
+        "lat": 35.686227699999996,
+        "lng": 139.77426789999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "OvWBmxhzQlo",
+          "title": "BEST 10 FOODS YOU MUST TRY IN TOKYO, JAPAN ｜Food and Travel Guide 2025",
+          "url": "https://www.youtube.com/watch?v=OvWBmxhzQlo"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "gGPtGRcCn5A",
+          "title": "BEST 10 MUST VISIT SPOTS IN GINZA, TOKYO｜Japan Ultimate Guide 2025",
+          "url": "https://www.youtube.com/watch?v=gGPtGRcCn5A"
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "pnZLgsDQmjw",
+          "title": "cafe vlog｜東 京 和 カ フ ェまとめ／2022年初投稿／和カフェ／老舗カフェ／お寺カフェ",
+          "url": "https://www.youtube.com/watch?v=pnZLgsDQmjw",
+          "time": "6:19",
+          "seconds": 379
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "XPjdXrF5JSA",
+          "title": "BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2025",
+          "url": "https://www.youtube.com/watch?v=XPjdXrF5JSA"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "SAVL6zlxG60",
+          "title": "BEST 20 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2025",
+          "url": "https://www.youtube.com/watch?v=SAVL6zlxG60"
+        }
+      ],
+      "official": "https://www.tsuruyayoshinobu.jp/shop/tokyo-mise",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3ba9648827e5a4c7",
+          "p_e5d6143dbb201d9b",
+          "p_e44ea1220d5f5fdf",
+          "p_10fa534c476b2644"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7090159825262291526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_3ba9648827e5a4c7.webp",
+        "alt": "鶴屋吉信 TOKYO MISE（閉店）的日系水彩插圖"
+      },
+      "order": 41,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "nihonbashi--p_bf1bef1b7d2bbd04",
+      "name": "Mighty steps coffee stop（閉店）",
+      "address": "東京都中央区日本橋本町4-3-14",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "曾在日本橋本町老屋一樓營業的咖啡與冰淇淋店，保留影片及昔日店面紀錄。",
+        "原始資料記錄的地址為 東京都中央区日本橋本町4-3-14。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "食べログ與《散步達人》均標示閉店；此處保留原址及原始影片，不作營業中店家推薦。",
+      "coordinate": {
+        "lat": 35.689724,
+        "lng": 139.773499,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%9C%AC%E7%94%BA4-3-14",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "WHISuV4aXW8",
+          "title": "Cafe Vlog | 10 Best Ice Cream Spots in Tokyo / 2021 Guide ✧˖ Omotesando / Ginza / Shinjuku / Shib...",
+          "url": "https://www.youtube.com/watch?v=WHISuV4aXW8",
+          "time": "09:08",
+          "seconds": 548
+        }
+      ],
+      "official": "https://tabelog.com/tokyo/A1302/A130202/13171053/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bf1bef1b7d2bbd04"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/4-ch%C5%8Dme-3-14+Nihonbashihonch%C5%8D/data=!4m7!3m6!1s0x60188eaabb4d2367:0x4f04bf7e8a49584b!8m2!3d35.689774!4d139.7735206!16s%2Fg%2F11mdft2l98!19sChIJZyNNu6qOGGARS1hJin6_BE8?authuser=0&hl=zh-TW&rclk=1"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_bf1bef1b7d2bbd04.webp",
+        "alt": "Mighty steps coffee stop（閉店）的日系水彩插圖"
+      },
+      "order": 56,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "nihonbashi--p_a379bb51d68c07e9",
+      "name": "紅花別館（閉店）",
+      "address": "東京都中央区日本橋1-2-15",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "紅花別館曾以鐵板燒與陶鍋咖哩受到喜愛，原址在日本橋街區。店家因再開發於2025年12月27日結束營業，這裡保留影片中的舊店紀錄。",
+        "原始資料記錄的地址為 東京都中央区日本橋1-2-15。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "官方公告原址已於2025年12月27日閉店；日本橋新店仍在規劃，尚未公布重新開業地址。",
+      "coordinate": {
+        "lat": 35.6833007,
+        "lng": 139.7732614,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "TGtK9IacVb0",
+          "title": "[日本橋/三越前 5 種午餐選擇] 最好的 5 種美味午餐！",
+          "url": "https://www.youtube.com/watch?v=TGtK9IacVb0"
+        }
+      ],
+      "official": "https://www.benihana.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a379bb51d68c07e9"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=16941433128707925568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_a379bb51d68c07e9.webp",
+        "alt": "紅花別館（閉店）的日系水彩插圖"
+      },
+      "order": 70,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "nihonbashi--p_b70680d6208a10c8",
+      "name": "Thong from Bangkok コレド日本橋店（閉店）",
+      "address": "東京都中央区日本橋1-4-1 コレド日本橋4F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "這家泰國料理店原位於COREDO日本橋四樓，原影片留下了當時的用餐紀錄。隨商場二至四樓結束營業，該店已不能按舊址安排用餐。",
+        "原始資料記錄的地址為 東京都中央区日本橋1-4-1 コレド日本橋4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "COREDO日本橋官方公告二至四樓店鋪於2026年6月15日結束營業；保留歷史影片紀錄。",
+      "coordinate": {
+        "lat": 35.6825265,
+        "lng": 139.7742926,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "JbwqGEm4KNk",
+          "title": "BEST 20 ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japan Travel Guide 2024",
+          "url": "https://www.youtube.com/watch?v=JbwqGEm4KNk",
+          "time": "28:19",
+          "seconds": 1699
+        }
+      ],
+      "official": "https://prtimes.jp/main/html/rd/p/000000049.000033162.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b70680d6208a10c8"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=4789633147556213965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_b70680d6208a10c8.webp",
+        "alt": "Thong from Bangkok コレド日本橋店（閉店）的日系水彩插圖"
+      },
+      "order": 72,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "nihonbashi--p_07080c13f6650eb9",
+      "name": "京都石塀小路 豆ちゃ 日本橋（閉店）",
+      "address": "東京都中央区日本橋1-4-1 コレド日本橋4F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "豆ちゃ日本橋店曾在COREDO日本橋四樓提供京都風味料理。營運公司已公告該店結束營業，原影片與店面插畫保留作為街區紀錄。",
+        "原始資料記錄的地址為 東京都中央区日本橋1-4-1 コレド日本橋4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "營運公司確認2026年6月15日閉店；目前不能按影片中的舊址安排用餐。",
+      "coordinate": {
+        "lat": 35.682291899999996,
+        "lng": 139.7749131,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "iKCUC4bKPbY",
+          "title": "【東京駅ランチ10選】鯛めし食べ放題や、ミシュラン、KinKi KidsがNo.1に選んだ洋食など！",
+          "url": "https://www.youtube.com/watch?v=iKCUC4bKPbY"
+        }
+      ],
+      "official": "https://www.dd-holdings.jp/shops/mamecha/nihonbashi",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_07080c13f6650eb9"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14963280836541579171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_07080c13f6650eb9.webp",
+        "alt": "京都石塀小路 豆ちゃ 日本橋（閉店）的日系水彩插圖"
+      },
+      "order": 73,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "nihonbashi--p_81c206ff48f29cd5",
+      "name": "奈美路や コレド日本橋（閉店）",
+      "address": "東京都中央区日本橋1-4-1 コレド日本橋4F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "奈美路や曾在COREDO日本橋四樓供應江戶風味料理，也是原影片介紹的午餐地點。商場二至四樓已結束營業，這裡保留過往用餐與街區紀錄。",
+        "原始資料記錄的地址為 東京都中央区日本橋1-4-1 コレド日本橋4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "依COREDO日本橋營運方公告，二至四樓店鋪於2026年6月15日結束營業；這是原址歷史紀錄。",
+      "coordinate": {
+        "lat": 35.682310099999995,
+        "lng": 139.7750355,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "iatOTL9fWJA",
+          "title": "Let’s feel Edo period with Tokyo Nihonbashi traditional lunch",
+          "url": "https://www.youtube.com/watch?v=iatOTL9fWJA",
+          "time": "02:21",
+          "seconds": 141
+        }
+      ],
+      "official": "https://prtimes.jp/main/html/rd/p/000000049.000033162.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_81c206ff48f29cd5"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7555680140245275788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_81c206ff48f29cd5.webp",
+        "alt": "奈美路や コレド日本橋（閉店）的日系水彩插圖"
+      },
+      "order": 74,
+      "canonicalArea": {
+        "id": "nihonbashi",
+        "name": "日本橋・室町",
+        "href": "/walks/nihonbashi/"
+      },
+      "recommendation": null,
+      "displayOrder": null
     }
   ],
   "routes": [
@@ -5407,70 +5504,62 @@
     "unlocated": 0,
     "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_1d8adec9d46b584c",
-      "p_a2df3a2afa4f42f4",
-      "p_933de38a7d78f07e",
+      "p_e5e24ed267852edf",
+      "p_adbc5cca73b1a77f",
+      "p_a14eaf780af97e07",
+      "p_53f714e1d614206f",
+      "p_a3a4cf3f6988f35d",
+      "p_2e96a7a2afd01763",
+      "p_17ead40e41c7fd19",
+      "p_efa20d4ec5b98d65",
+      "p_8e0a537b31d964b4",
+      "p_982b25cf9c5e4cd3",
+      "p_cdbcdabf5e58bcbe",
+      "p_dec1e12aeedc06de",
+      "p_02ff0ed81815e3de",
+      "p_98fdc89be88641aa",
+      "p_327d988ccd102372",
+      "p_99cdeb01c953396b",
+      "p_b0d59ff7b81ff0d5",
+      "p_1d458ba6476892fb",
+      "p_b1112d48e102166e",
+      "p_4bf6bc7b6dcd633e",
       "p_14482c8e1e1eab5d",
       "p_d835bbd41b067877",
       "p_f67482ab05644bb1",
       "p_8c371008579f62ce",
-      "p_327d988ccd102372",
-      "p_99cdeb01c953396b",
-      "p_98fdc89be88641aa",
-      "p_02ff0ed81815e3de",
-      "p_2e96a7a2afd01763",
-      "p_17ead40e41c7fd19",
-      "p_adbc5cca73b1a77f",
-      "p_e5e24ed267852edf",
-      "p_48dcc7b9ae75d405",
-      "p_cbb21e3fe9ab06d7",
-      "p_8e0a537b31d964b4",
-      "p_efa20d4ec5b98d65",
-      "p_dec1e12aeedc06de",
-      "p_cdbcdabf5e58bcbe",
-      "p_982b25cf9c5e4cd3",
-      "p_3ba9648827e5a4c7",
-      "p_e5d6143dbb201d9b",
-      "p_e44ea1220d5f5fdf",
-      "p_10fa534c476b2644",
-      "p_73a7ed8629655efc",
-      "p_4d633bbd9389f800",
+      "p_933de38a7d78f07e",
+      "p_a2df3a2afa4f42f4",
+      "p_1d8adec9d46b584c",
+      "p_ea49eb87d0520b1d",
+      "p_ee02c36ff050c9aa",
+      "p_67a05ce779355420",
+      "p_81db1cf82af0aaf3",
+      "p_6f181aa8e225ce61",
+      "p_047095d200067f39",
+      "p_a12731ca64bc1258",
+      "p_bc4a784a362797f8",
+      "p_1af6d466cdf3f07e",
+      "p_92318589ed4e263c",
       "p_2261aa98d26ab803",
       "p_7b90a01e061bb4e7",
       "p_fa7c0f89308d8aa3",
       "p_c9f0f0e6f16af0fb",
-      "p_92318589ed4e263c",
-      "p_bc4a784a362797f8",
-      "p_1af6d466cdf3f07e",
-      "p_a12731ca64bc1258",
-      "p_047095d200067f39",
-      "p_6f181aa8e225ce61",
-      "p_53f714e1d614206f",
-      "p_a3a4cf3f6988f35d",
-      "p_a14eaf780af97e07",
-      "p_81db1cf82af0aaf3",
-      "p_67a05ce779355420",
-      "p_ee02c36ff050c9aa",
-      "p_ea49eb87d0520b1d",
-      "p_1d458ba6476892fb",
-      "p_b0d59ff7b81ff0d5",
-      "p_b1112d48e102166e",
-      "p_4bf6bc7b6dcd633e",
-      "p_1a6bd809b578419d",
+      "p_73a7ed8629655efc",
+      "p_f07b803fd0ce4b5f",
       "p_051038f8f28f4149",
       "p_134a613c607e12e0",
       "p_e1039fc9a2e273e7",
-      "p_f07b803fd0ce4b5f",
       "p_ad5eb4d9385d4aff",
       "p_b1928938f04af6f6",
       "p_c3c177fbabc3be97",
       "p_34521008dfbf3368",
+      "p_1a6bd809b578419d",
       "p_450844b8b514c386",
       "p_0662a9f1dd2cfb6e",
       "p_f3f72ea8b580970a",
       "p_3ddb0104cb8de2f8",
       "p_5cd09d5758930f39",
-      "p_bf1bef1b7d2bbd04",
       "p_59f17d0d4e85b545",
       "p_89e561d7fad1c897",
       "p_ebf4208864c6e974",
@@ -5485,10 +5574,6 @@
       "p_3a3038c0cdb2547e",
       "p_6f59b518ff1ae1e8",
       "p_82aa6d988083e286",
-      "p_a379bb51d68c07e9",
-      "p_b70680d6208a10c8",
-      "p_07080c13f6650eb9",
-      "p_81c206ff48f29cd5",
       "p_a10e27481fe705d6",
       "p_eaf9e80c5aca491a",
       "p_7a69f0f92c94619e",
@@ -5514,9 +5599,22 @@
       "p_dc37cf5f0093c7ab",
       "p_7710a89d345e4368",
       "p_aedd16766aeef3ee",
-      "p_c4c1274fc4d08b98"
+      "p_c4c1274fc4d08b98",
+      "p_48dcc7b9ae75d405",
+      "p_cbb21e3fe9ab06d7",
+      "p_4d633bbd9389f800",
+      "p_3ba9648827e5a4c7",
+      "p_e5d6143dbb201d9b",
+      "p_e44ea1220d5f5fdf",
+      "p_10fa534c476b2644",
+      "p_bf1bef1b7d2bbd04",
+      "p_a379bb51d68c07e9",
+      "p_b70680d6208a10c8",
+      "p_07080c13f6650eb9",
+      "p_81c206ff48f29cd5"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "nihonbashi",
     "name": "日本橋・室町",
@@ -7582,13 +7680,13 @@
     {
       "id": "nihonbashi--p_0083198ddf2fb655",
       "name": "CASTOR",
-      "address": "東京都中央区日本橋本町4-13-8 朱ビル 1F",
+      "address": "東京都中央区日本橋本町4-13-8",
       "group": "sights",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「CASTOR （ カストール）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋本町4-13-8 朱ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都中央区日本橋本町4-13-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {

@@ -42,7 +42,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "name": "蜜香屋 中崎町本店",
@@ -87,7 +88,8 @@
           "https://arabiq.net/",
           "https://mikkouya.com/"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "name": "Guignol ギニョール",
@@ -136,7 +138,8 @@
           "https://guignol.jp/",
           "https://taiyounotou.com/shops/honten/"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "name": "JAM POT",
@@ -174,7 +177,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "name": "green pepe",
@@ -235,7 +239,8 @@
           "https://guignol.jp/",
           "https://taiyounotou.com/shops/honten/"
         ]
-      }
+      },
+      "displayOrder": 5
     },
     {
       "name": "中崎町ホール",
@@ -273,7 +278,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "name": "Salon de AManTo 天人",
@@ -315,7 +321,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "name": "珈琲舎・書肆アラビク",
@@ -363,7 +370,8 @@
           "https://arabiq.net/",
           "https://mikkouya.com/"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "name": "cafe 太陽ノ塔 本店",
@@ -419,7 +427,8 @@
           "https://guignol.jp/",
           "https://taiyounotou.com/shops/honten/"
         ]
-      }
+      },
+      "displayOrder": 9
     },
     {
       "name": "おにぎりごりちゃん 中崎町本店",
@@ -473,7 +482,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 10
     },
     {
       "name": "イロリムラ",
@@ -516,7 +526,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 11
     },
     {
       "name": "hannoc",
@@ -554,7 +565,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 12
     },
     {
       "name": "cafe 太陽ノ塔 GREEN WEST",
@@ -592,7 +604,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 13
     },
     {
       "name": "Cafe&Bar Marble",
@@ -644,7 +657,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 14
     },
     {
       "name": "neel 中崎町",
@@ -697,7 +711,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 15
     },
     {
       "name": "アトリエ三月",
@@ -739,7 +754,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 16
     },
     {
       "name": "KAYA CAFE",
@@ -791,7 +807,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 17
     },
     {
       "name": "エレメカ研究所",
@@ -841,7 +858,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 18
     },
     {
       "name": "HAIKU COFFEE ROASTERS",
@@ -880,7 +898,8 @@
         "id": "nakazakicho",
         "name": "中崎町",
         "href": "/walks/nakazakicho/"
-      }
+      },
+      "displayOrder": 19
     }
   ],
   "routes": [
@@ -1008,6 +1027,7 @@
       "p_c96658bb62841e00"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "nakazakicho",
     "name": "中崎町",

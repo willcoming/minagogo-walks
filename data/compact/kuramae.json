@@ -221,7 +221,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "p_40162bcb1904fe28",
@@ -285,7 +286,8 @@
           "https://www.mizukiya.jp/map.html",
           "https://fromafar.stores.jp/about"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "p_32eedb3b96b57916",
@@ -348,7 +350,8 @@
           "https://www.mizukiya.jp/map.html",
           "https://fromafar.stores.jp/about"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "p_4587f83ff726cc8b",
@@ -360,7 +363,7 @@
       "group": "food",
       "caption": "帶走一份可麗露，再繼續走。",
       "description": "目前以外帶店安排這一站，別把它當成坐下喝咖啡的行程。逛完後可以接續藏前站附近的其他停留。",
-      "note": "目前收錄可麗露外帶店；品牌官網將 KURAMAE CANNELE CAFE 標示為休業中，請勿安排咖啡內用。",
+      "note": "官方店舖頁列藏前外帶店營業，KURAMAE CANNELE CAFE則標示休業中。食べログ共用頁仍含過往內用評論，請勿據此安排咖啡內用。",
       "official": "https://www.kuramae-cannele.jp/shops/",
       "verifiedAt": "2026-10-22",
       "sources": [
@@ -403,66 +406,27 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
-    },
-    {
-      "id": "kuramae--p_803a658e21e90dea",
-      "name": "藏前",
-      "address": "2-chōme-3-1 Kuramae, Taito City, Tokyo 111-0051",
-      "group": "sights",
-      "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「藏前」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-3-1 Kuramae, Taito City, Tokyo 111-0051。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.7031637,
-        "lng": 139.7908275,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
-      "sources": [
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "36mT1AvxWrI",
-          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
-          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
-          "time": "6:35",
-          "seconds": 395
-        },
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "ttDsUCKuhvY",
-          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
-          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
-          "time": "6:03",
-          "seconds": 363
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_803a658e21e90dea"
+      "cardNotice": "外帶店營業・內用休業",
+      "placeReview": {
+        "checkedAt": "2026-10-26",
+        "sources": [
+          {
+            "url": "https://www.kuramae-cannele.jp/shops/",
+            "title": "KURAMAE CANNELE｜官方店舖列表",
+            "result": "藏前2-1-23外帶店與CAFE休業狀態。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13281428/",
+            "title": "食べログ｜KURAMAE CANNELE",
+            "result": "同店址，含歷史內用評論；不取代官方休業公告。",
+            "checkedAt": "2026-10-26"
+          }
         ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=7376009065730975557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "findings": "官方分別列藏前外帶店與休業中的CAFE；食べログ同地址頁含過去內用紀錄，並非內用現況確認。依官方標示保留外帶、明確提示內用休業。"
       },
-      "illustration": {
-        "image": "/art/source-library/kuramae--p_803a658e21e90dea.webp",
-        "alt": "藏前的日系水彩插圖"
-      },
-      "order": 5,
-      "canonicalArea": {
-        "id": "kuramae",
-        "name": "藏前・田原町",
-        "href": "/walks/kuramae/"
-      },
-      "recommendation": null
+      "displayOrder": 4
     },
     {
       "id": "p_2faa023ac911baa6",
@@ -533,62 +497,8 @@
           "https://store.coffee-wrights.jp/about",
           "https://www.fromafar-tokyo.com/kissahangetsu"
         ]
-      }
-    },
-    {
-      "id": "kuramae--p_20eec8967837e7ad",
-      "name": "atelier tamiser（藏前舊店）",
-      "address": "東京都台東区蔵前4-14-11 ウグイスビル 1F",
-      "group": "food",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「atelier tamiser(アトリエ タミゼ)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区蔵前4-14-11 ウグイスビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "食べログ與開店當日採訪的「かもめと街」皆已標示閉店；保留藏前4-14-11的影片與2021年糕點展示插畫。",
-      "coordinate": {
-        "lat": 35.703739,
-        "lng": 139.789978,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%94%B5%E5%89%8D4-14-11",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "NX3OxRVbo-k",
-          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
-          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k",
-          "time": "09:15",
-          "seconds": 555
-        }
-      ],
-      "official": "https://tabelog.com/tokyo/A1311/A131103/13258439/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_20eec8967837e7ad"
-        ],
-        "status": "reported-closed",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/Atelier+tamiser/@35.7037748,139.7899444,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fdaba893e0b:0x1a9251fa7dc17b8d!8m2!3d35.7037748!4d139.7899444!16s%2Fg%2F11qp0y1t90?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "illustration": {
-        "image": "/art/source-library/kuramae--p_20eec8967837e7ad.webp",
-        "alt": "atelier tamiser（藏前舊店）的日系水彩插圖"
-      },
-      "order": 7,
-      "canonicalArea": {
-        "id": "kuramae",
-        "name": "藏前・田原町",
-        "href": "/walks/kuramae/"
-      },
-      "recommendation": null
+      "displayOrder": 5
     },
     {
       "id": "p_755e902f96d154b8",
@@ -644,7 +554,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "p_5ab99f7b092e719f",
@@ -714,7 +625,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "p_4f678d160f4ac364",
@@ -782,7 +694,8 @@
           "https://store.coffee-wrights.jp/about",
           "https://www.fromafar-tokyo.com/kissahangetsu"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "p_91fd233286b858f4",
@@ -838,7 +751,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "chigaya",
@@ -915,7 +829,8 @@
           "https://fromafar.stores.jp/about",
           "https://www.locationbox.metro.tokyo.lg.jp/catalog/7832/"
         ]
-      }
+      },
+      "displayOrder": 10
     },
     {
       "id": "nobori",
@@ -979,7 +894,8 @@
           "https://www.mizukiya.jp/map.html",
           "https://fromafar.stores.jp/about"
         ]
-      }
+      },
+      "displayOrder": 11
     },
     {
       "id": "p_765b0f07994197bb",
@@ -1034,7 +950,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 12
     },
     {
       "id": "p_614823c1d1799627",
@@ -1087,7 +1004,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 13
     },
     {
       "id": "tomei",
@@ -1150,7 +1068,8 @@
           "https://fromafar.stores.jp/about",
           "https://www.locationbox.metro.tokyo.lg.jp/catalog/7832/"
         ]
-      }
+      },
+      "displayOrder": 14
     },
     {
       "id": "p_2ca59cf0ccfab515",
@@ -1205,20 +1124,21 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 15
     },
     {
       "id": "kuramae--p_395efc3f319ac2e1",
       "name": "萬代總部（BANDAI）",
       "address": "東京都台東区駒形1-4-8",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "建築・街景",
+      "caption": "駒形街角的萬代總部，順路看看玩具公司的建築。",
       "descriptionParagraphs": [
-        "「BANDAI 株式会社バンダイ」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区駒形1-4-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "位於駒形一丁目的萬代總部，沿江戶通往返藏前與淺草時可以順路經過。這裡是玩具公司的辦公建築，適合作為看建築外觀的短暫停留。",
+        "此頁以戶外街景為主，不將公司辦公區視為可自由進入的景點。若想參觀館內展示，請先查閱萬代官方的開放安排，並留意當日活動或管制。"
       ],
-      "note": "",
+      "note": "此處以總部建築外觀為散步停留點；入館開放日及臨時管制請先確認官方公告。",
       "coordinate": {
         "lat": 35.7073176,
         "lng": 139.7946492,
@@ -1233,7 +1153,7 @@
           "url": "https://www.youtube.com/watch?v=fmBz7azgE1k"
         }
       ],
-      "official": "https://t-navi.city.taito.lg.jp/features/72",
+      "official": "https://www.bandai.co.jp/company/profile/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1254,7 +1174,28 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "recommendation": null
+      "cardNotice": "以外觀參觀為主",
+      "description": "位於駒形一丁目的萬代總部，沿江戶通往返藏前與淺草時可以順路經過。這裡是玩具公司的辦公建築，適合作為看建築外觀的短暫停留。\n\n此頁以戶外街景為主，不將公司辦公區視為可自由進入的景點。若想參觀館內展示，請先查閱萬代官方的開放安排，並留意當日活動或管制。",
+      "placeReview": {
+        "checkedAt": "2026-10-26",
+        "sources": [
+          {
+            "url": "https://www.bandai.co.jp/company/profile/",
+            "title": "萬代｜公司概要與交通",
+            "result": "搜尋索引確認本社地址；直接讀取時轉至維護頁。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://www.bandai.co.jp/recruit/faq/",
+            "title": "萬代｜參觀常見問題",
+            "result": "館內參觀有營業日與臨時活動限制，不能等同戶外街景自由停留。",
+            "checkedAt": "2026-10-26"
+          }
+        ],
+        "findings": "公司官方索引的地址與原始紀錄駒形1-4-8相符。公司概要直接讀取時為維護頁，未承諾當日可入館；保守標示外觀參觀。"
+      },
+      "recommendation": null,
+      "displayOrder": 16
     },
     {
       "id": "p_088547dbd6fad237",
@@ -1309,7 +1250,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 17
     },
     {
       "id": "p_0baebe3d3ec9b05c",
@@ -1362,7 +1304,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 18
     },
     {
       "id": "p_f858fe6d8b9f148d",
@@ -1417,7 +1360,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 19
     },
     {
       "id": "p_40d37e8b90f1d3a2",
@@ -1470,20 +1414,21 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 20
     },
     {
       "id": "kuramae--p_92942cbf86942e65",
       "name": "イリヤプラスカフェ カスタム倉庫 （iriya plus cafe）",
       "address": "東京都台東区寿4-7-11",
       "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "咖啡・鬆餅",
+      "caption": "舊服裝倉庫裡的鬆餅、手作蛋糕與咖啡。",
       "descriptionParagraphs": [
-        "「イリヤプラスカフェ カスタム倉庫 （iriya plus cafe）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区寿4-7-11。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "入谷咖啡的倉庫店位在田原町站附近，由舊服裝倉庫改建。店家提供鬆餅、米粉巴斯克乳酪蛋糕、布丁與自製司康，適合在藏前、壽一帶散步時坐下喝杯咖啡。",
+        "請用壽4-7-11查找這間分店，避免導航至下谷的入谷本店。食べログ的舊頁屬改裝前紀錄，已有同地址的新店家頁；官網與新頁的部分平日營業時間仍有差異，因此不在此列出固定結束時間。"
       ],
-      "note": "",
+      "note": "本頁為壽4-7-11的倉庫店，不是下谷本店。官網與食べログ對部分平日結束營業時間的記載不同，出發前請確認官方 Instagram 或電話；兩者皆列週一、週二休息。",
       "coordinate": {
         "lat": 35.708633,
         "lng": 139.791855,
@@ -1504,7 +1449,7 @@
           "seconds": 262
         }
       ],
-      "official": null,
+      "official": "https://www.iriyapluscafe.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1525,7 +1470,34 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "recommendation": null
+      "cardNotice": "營業時間待確認",
+      "description": "入谷咖啡的倉庫店位在田原町站附近，由舊服裝倉庫改建。店家提供鬆餅、米粉巴斯克乳酪蛋糕、布丁與自製司康，適合在藏前、壽一帶散步時坐下喝杯咖啡。\n\n請用壽4-7-11查找這間分店，避免導航至下谷的入谷本店。食べログ的舊頁屬改裝前紀錄，已有同地址的新店家頁；官網與新頁的部分平日營業時間仍有差異，因此不在此列出固定結束時間。",
+      "placeReview": {
+        "checkedAt": "2026-10-26",
+        "sources": [
+          {
+            "url": "https://www.iriyapluscafe.jp/",
+            "title": "iriya plus café｜官方分店資訊",
+            "result": "舊服裝倉庫改裝、餐點、地址、電話與營業時間。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13237318/",
+            "title": "食べログ｜倉庫店現行頁",
+            "result": "同址同電話；平日結束時間與官方不同。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13148629/",
+            "title": "食べログ｜改裝前舊頁",
+            "result": "リニューアル標示，連至現行店家頁。",
+            "checkedAt": "2026-10-26"
+          }
+        ],
+        "findings": "官方與食べログ新店家頁均為壽4-7-11、電話03-5830-3863。舊頁13148629標示リニューアル並指向13237318；不是閉店。官方列8:30–17:00，食べログ週三四16:00、週五16:30結束，故標示時間待確認。"
+      },
+      "recommendation": null,
+      "displayOrder": 21
     },
     {
       "id": "p_7ea40bdd99c4bed6",
@@ -1578,20 +1550,21 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 22
     },
     {
       "id": "kuramae--p_3f9cc41e4c83b0e5",
       "name": "Maple Pizza",
       "address": "東京都台東区寿2-4-8-101",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "披薩・餐食",
+      "caption": "田原町巷裡，以一片披薩接上散步。",
       "descriptionParagraphs": [
-        "「Maple Pizza」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区寿2-4-8-101。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "Maple Pizza 在壽二丁目的小巷，從田原町站走來可以和附近的書店、甜點店一起安排。店家以披薩為主，適合把咖啡散策中途換成一段用餐。",
+        "店址為壽2-4-8-101。官方與食べログ列出的部分結束營業時間不同，若打算傍晚造訪，請先確認店方當日公告。"
       ],
-      "note": "",
+      "note": "官方與食べログ的部分營業結束時間不同，出發前請確認官方 Instagram 或致電店家；兩者皆列週二、週三休息。",
       "coordinate": {
         "lat": 35.709152,
         "lng": 139.789932,
@@ -1633,20 +1606,41 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "recommendation": null
+      "cardNotice": "營業時間待確認",
+      "description": "Maple Pizza 在壽二丁目的小巷，從田原町站走來可以和附近的書店、甜點店一起安排。店家以披薩為主，適合把咖啡散策中途換成一段用餐。\n\n店址為壽2-4-8-101。官方與食べログ列出的部分結束營業時間不同，若打算傍晚造訪，請先確認店方當日公告。",
+      "placeReview": {
+        "checkedAt": "2026-10-26",
+        "sources": [
+          {
+            "url": "https://maplepizza.jp/",
+            "title": "Maple Pizza｜官方店家資訊",
+            "result": "披薩店、完整地址、電話與營業資訊。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13273711/",
+            "title": "食べログ｜Maple Pizza",
+            "result": "同址同電話，分類披薩；時間與官方有差異。",
+            "checkedAt": "2026-10-26"
+          }
+        ],
+        "findings": "核對地址壽2-4-8與官方2-4-8-101、電話070-2434-1818相同。食べログ分類ピザ，應歸food。官方平日21:00／週末17:00，食べログ按日列18:00、20:30、16:30、16:00，未證實哪方較新。"
+      },
+      "recommendation": null,
+      "displayOrder": 23
     },
     {
       "id": "asakusa--p_9c6c24dfaccc3455",
       "name": "Readin’ Writin’ BOOK STORE",
-      "address": "",
+      "address": "東京都台東区寿2-4-7",
       "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "獨立書店",
+      "caption": "舊木材倉庫改成的獨立書店，從書架讀田原町。",
       "descriptionParagraphs": [
-        "「Readin’ Writin’ BOOK STORE」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "Readin’ Writin’ 是田原町的獨立書店，由舊木材倉庫改建。保留木構與挑高空間的店面，讓找書也成為觀察老建築的一段停留。",
+        "書店由前新聞記者經營，選書關注社會、人文與生活，也舉辦閱讀和對談活動。店址在壽2-4-7；活動與營業時間請依店方最新公告確認。"
       ],
-      "note": "",
+      "note": "已核對壽2-4-7店址；本次未能讀取店家官網確認最新營業時間，請先查店方公告再前往。",
       "coordinate": {
         "lat": 35.7091529,
         "lng": 139.7898696,
@@ -1685,7 +1679,40 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "recommendation": null
+      "cardNotice": "營業時間待確認",
+      "description": "Readin’ Writin’ 是田原町的獨立書店，由舊木材倉庫改建。保留木構與挑高空間的店面，讓找書也成為觀察老建築的一段停留。\n\n書店由前新聞記者經營，選書關注社會、人文與生活，也舉辦閱讀和對談活動。店址在壽2-4-7；活動與營業時間請依店方最新公告確認。",
+      "placeReview": {
+        "checkedAt": "2026-10-26",
+        "sources": [
+          {
+            "url": "https://www.174kenchiku.net/readin",
+            "title": "174 architects｜Readin Writin 改裝設計",
+            "result": "木材倉庫改為書店的一手建築紀錄。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://www.bunkanews.jp/article/265279/",
+            "title": "文化通信｜店主落合博署名文章",
+            "result": "店主背景、選書與壽2-4-7店址。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://findmy.tokyo/challenge/228",
+            "title": "東京Metro｜書店活動介紹",
+            "result": "交叉核對同一家店的名稱與店址。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://readinwritin.net/",
+            "title": "Readin Writin｜店家官網",
+            "result": "讀取逾時；不作為可正常營業的證據。",
+            "checkedAt": "2026-10-26"
+          }
+        ],
+        "findings": "建築師的原始作品紀錄確認木材倉庫改裝；店主署名文章與東京Metro店家介紹均列壽2-4-7。官網https://readinwritin.net/兩次逾時，未據此判定閉店；不將歷史營業時間寫成現況。非餐飲店，使用建築師與店主的一手資料。"
+      },
+      "recommendation": null,
+      "displayOrder": 24
     },
     {
       "id": "p_58015a8c60b78515",
@@ -1740,60 +1767,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
-    },
-    {
-      "id": "kuramae--p_d6be19d6ed446c03",
-      "name": "from afar（田原町舊址）",
-      "address": "東京都台東区寿２丁目５−１２ 加瀬ビル １階",
-      "group": "food",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「from afar」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区寿２丁目５−１２ 加瀬ビル １階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "官方確認因建築老舊於2024年搬至東京都墨田区東向島5-2-7；此處保留影片中的壽2-5-12舊址與當時店面插畫，請勿依舊址前往。",
-      "coordinate": {
-        "lat": 35.709129,
-        "lng": 139.789566,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%AF%BF2%E4%B8%81%E7%9B%AE5%E2%88%9212",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
       },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "Z6xDDJWC4oc",
-          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
-          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
-        }
-      ],
-      "official": "https://www.fromafar-tokyo.com/fromafar",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_d6be19d6ed446c03"
-        ],
-        "status": "relocated",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/from+afar/@35.7247641,139.8204922,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec8de2250e3:0x4313b20d8de2aefd!8m2!3d35.7247641!4d139.8204922!16s%2Fg%2F11bwfm7df9?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "illustration": {
-        "image": "/art/source-library/kuramae--p_d6be19d6ed446c03.webp",
-        "alt": "from afar（田原町舊址）的日系水彩插圖"
-      },
-      "order": 28,
-      "canonicalArea": {
-        "id": "kuramae",
-        "name": "藏前・田原町",
-        "href": "/walks/kuramae/"
-      },
-      "recommendation": null
+      "displayOrder": 25
     },
     {
       "id": "p_5134c4a12795d5bd",
@@ -1855,7 +1830,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 26
     },
     {
       "id": "p_9e11b0025b540196",
@@ -1918,7 +1894,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 27
     },
     {
       "id": "bark",
@@ -1979,7 +1956,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 28
     },
     {
       "id": "p_3be500963da21948",
@@ -2040,7 +2018,8 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 29
     },
     {
       "id": "p_8e426a44d227b5f9",
@@ -2095,12 +2074,167 @@
         "id": "kuramae",
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
-      }
+      },
+      "displayOrder": 30
+    },
+    {
+      "id": "kuramae--p_20eec8967837e7ad",
+      "name": "atelier tamiser（藏前舊店）",
+      "address": "東京都台東区蔵前4-14-11 ウグイスビル 1F",
+      "group": "food",
+      "categoryLabel": "烘焙・甜點（舊店）",
+      "caption": "曾以可麗露與烘焙點心聞名的藏前舊店紀錄。",
+      "descriptionParagraphs": [
+        "atelier tamiser 曾在藏前ウグイスビル販售可麗露與烘焙點心。當年的開店採訪保留了糕點與小店的樣貌，這裡的影片和插畫也記錄那段時期。",
+        "食べログ與原始實訪報導都已標示此店閉店。此筆為藏前4-14-11的歷史紀錄，不作為可新增的用餐或購物行程。"
+      ],
+      "note": "食べログ與開店當日採訪的「かもめと街」皆已標示閉店；保留藏前4-14-11的影片與2021年糕點展示插畫。",
+      "coordinate": {
+        "lat": 35.703739,
+        "lng": 139.789978,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%94%B5%E5%89%8D4-14-11",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "NX3OxRVbo-k",
+          "title": "cafe vlog｜カフェ激戦区‼︎ 蔵前おすすめカフェ8選𖠚ᐝ人気店／老舗／海外発...etc",
+          "url": "https://www.youtube.com/watch?v=NX3OxRVbo-k",
+          "time": "09:15",
+          "seconds": 555
+        }
+      ],
+      "official": "https://tabelog.com/tokyo/A1311/A131103/13258439/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_20eec8967837e7ad"
+        ],
+        "status": "reported-closed",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Atelier+tamiser/@35.7037748,139.7899444,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fdaba893e0b:0x1a9251fa7dc17b8d!8m2!3d35.7037748!4d139.7899444!16s%2Fg%2F11qp0y1t90?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_20eec8967837e7ad.webp",
+        "alt": "atelier tamiser（藏前舊店）的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "kuramae",
+        "name": "藏前・田原町",
+        "href": "/walks/kuramae/"
+      },
+      "description": "atelier tamiser 曾在藏前ウグイスビル販售可麗露與烘焙點心。當年的開店採訪保留了糕點與小店的樣貌，這裡的影片和插畫也記錄那段時期。\n\n食べログ與原始實訪報導都已標示此店閉店。此筆為藏前4-14-11的歷史紀錄，不作為可新增的用餐或購物行程。",
+      "placeReview": {
+        "checkedAt": "2026-10-26",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13258439/",
+            "title": "食べログ｜atelier tamiser 藏前舊店",
+            "result": "蔵前4-14-11、洋菓子，頁面明列閉店。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://www.kamometomachi.com/atelier-tamiser",
+            "title": "かもめと街｜開店當日採訪",
+            "result": "第一手烘焙點心採訪，標題已更正為閉店。",
+            "checkedAt": "2026-10-26"
+          }
+        ],
+        "findings": "再次核對食べログ同址店家頁13258439明列閉店；開店當日採訪的原作者亦已更新閉店標題。保留既有reported-closed狀態，無新增可造訪承諾。"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "kuramae--p_d6be19d6ed446c03",
+      "name": "from afar（田原町舊址）",
+      "address": "東京都台東区寿２丁目５−１２ 加瀬ビル １階",
+      "group": "food",
+      "categoryLabel": "咖啡（舊址）",
+      "caption": "田原町舊址的咖啡館記憶，店家已移至東向島。",
+      "descriptionParagraphs": [
+        "from afar 曾在田原町壽二丁目經營咖啡館，影片裡的空間與店面插畫對應這個舊址。此處保留當時的街區紀錄，供查找原始影片。",
+        "官方現址已是墨田區東向島5-2-7，食べログ的新舊店家頁也明確記錄這次搬遷。請勿依田原町舊址前往；若要造訪現店，需另行安排前往東向島。"
+      ],
+      "note": "官方確認因建築老舊於2024年搬至東京都墨田区東向島5-2-7；此處保留影片中的壽2-5-12舊址與當時店面插畫，請勿依舊址前往。",
+      "coordinate": {
+        "lat": 35.709129,
+        "lng": 139.789566,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%AF%BF2%E4%B8%81%E7%9B%AE5%E2%88%9212",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Z6xDDJWC4oc",
+          "title": "【vlog】浅草カフェ巡り９店舗紹介！",
+          "url": "https://www.youtube.com/watch?v=Z6xDDJWC4oc"
+        }
+      ],
+      "official": "https://www.fromafar-tokyo.com/fromafar",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d6be19d6ed446c03"
+        ],
+        "status": "relocated",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/from+afar/@35.7247641,139.8204922,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec8de2250e3:0x4313b20d8de2aefd!8m2!3d35.7247641!4d139.8204922!16s%2Fg%2F11bwfm7df9?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_d6be19d6ed446c03.webp",
+        "alt": "from afar（田原町舊址）的日系水彩插圖"
+      },
+      "order": 28,
+      "canonicalArea": {
+        "id": "kuramae",
+        "name": "藏前・田原町",
+        "href": "/walks/kuramae/"
+      },
+      "description": "from afar 曾在田原町壽二丁目經營咖啡館，影片裡的空間與店面插畫對應這個舊址。此處保留當時的街區紀錄，供查找原始影片。\n\n官方現址已是墨田區東向島5-2-7，食べログ的新舊店家頁也明確記錄這次搬遷。請勿依田原町舊址前往；若要造訪現店，需另行安排前往東向島。",
+      "placeReview": {
+        "checkedAt": "2026-10-26",
+        "sources": [
+          {
+            "url": "https://www.fromafar-tokyo.com/fromafar",
+            "title": "from afar｜官方現址",
+            "result": "東向島5-2-7。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13242054/",
+            "title": "食べログ｜田原町舊址",
+            "result": "移転、壽2-5-12。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1312/A131203/13300844/",
+            "title": "食べログ｜東向島現店",
+            "result": "與官方地址相符，標明由壽2-5-12搬遷。",
+            "checkedAt": "2026-10-26"
+          }
+        ],
+        "findings": "官方現址與食べログ新頁13300844均為東向島5-2-7；舊頁13242054標示移転並保留壽2-5-12。保留relocated狀態與舊址插畫，不把現店地址套在舊圖上。"
+      },
+      "recommendation": null,
+      "displayOrder": null
     }
   ],
   "defaultSelection": "books",
   "libraryCoverage": {
-    "added": 7,
+    "added": 6,
     "unlocated": 0,
     "checkedAt": "2026-10-26",
     "sourceIds": [
@@ -2108,10 +2242,8 @@
       "p_40162bcb1904fe28",
       "p_32eedb3b96b57916",
       "p_4587f83ff726cc8b",
-      "p_803a658e21e90dea",
       "p_38dfa5a513fa580b",
       "p_2faa023ac911baa6",
-      "p_20eec8967837e7ad",
       "p_755e902f96d154b8",
       "p_5ab99f7b092e719f",
       "p_2e2630c77d84ab66",
@@ -2135,15 +2267,99 @@
       "p_3f9cc41e4c83b0e5",
       "p_9c6c24dfaccc3455",
       "p_58015a8c60b78515",
-      "p_d6be19d6ed446c03",
       "p_5134c4a12795d5bd",
       "p_007b2269caeaaed6",
       "p_9e11b0025b540196",
       "p_22c144de79c690aa",
       "p_3be500963da21948",
-      "p_8e426a44d227b5f9"
+      "p_8e426a44d227b5f9",
+      "p_20eec8967837e7ad",
+      "p_d6be19d6ed446c03",
+      "p_803a658e21e90dea"
     ]
   },
+  "transportPoints": [
+    {
+      "id": "kuramae--p_803a658e21e90dea",
+      "name": "蔵前駅",
+      "address": "2-chōme-3-1 Kuramae, Taito City, Tokyo 111-0051",
+      "group": "sights",
+      "categoryLabel": "交通入口",
+      "caption": "淺草線與大江戶線的交通入口。",
+      "descriptionParagraphs": [
+        "這筆影片紀錄指的是都營地下鐵藏前站，供旅人確認集合點與散步的交通入口；它並不是另一間店家或獨立的觀光景點。",
+        "淺草線與大江戶線的站體分開，轉乘需走到地面。若打算前往壽、駒形或藏前的小店，出站前先比對地址與出口，能減少來回繞路。"
+      ],
+      "note": "淺草線與大江戶線之間需經地面轉乘；請依目的地確認出口。",
+      "coordinate": {
+        "lat": 35.7031637,
+        "lng": 139.7908275,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "36mT1AvxWrI",
+          "title": "東京早春色彩筆記 | 藏前、日本橋、麻布台之丘 櫻花散策",
+          "url": "https://www.youtube.com/watch?v=36mT1AvxWrI",
+          "time": "6:35",
+          "seconds": 395
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "ttDsUCKuhvY",
+          "title": "Where Tokyo Slows Down | Asakusabashi, Kuramae, Asakusa | 2026 Vlog",
+          "url": "https://www.youtube.com/watch?v=ttDsUCKuhvY",
+          "time": "6:03",
+          "seconds": 363
+        }
+      ],
+      "official": "https://www.kotsu.metro.tokyo.jp/subway/stations/kuramae.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_803a658e21e90dea"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=7376009065730975557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kuramae--p_803a658e21e90dea.webp",
+        "alt": "藏前的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "kuramae",
+        "name": "藏前・田原町",
+        "href": "/walks/kuramae/"
+      },
+      "cardNotice": "兩線需地面轉乘",
+      "transportOnly": true,
+      "description": "這筆影片紀錄指的是都營地下鐵藏前站，供旅人確認集合點與散步的交通入口；它並不是另一間店家或獨立的觀光景點。\n\n淺草線與大江戶線的站體分開，轉乘需走到地面。若打算前往壽、駒形或藏前的小店，出站前先比對地址與出口，能減少來回繞路。",
+      "placeReview": {
+        "checkedAt": "2026-10-26",
+        "sources": [
+          {
+            "url": "https://www.kotsu.metro.tokyo.jp/subway/stations/kuramae.html",
+            "title": "東京都交通局｜藏前站",
+            "result": "都營淺草線、大江戶線車站資訊。",
+            "checkedAt": "2026-10-26"
+          },
+          {
+            "url": "https://www.kotsu.metro.tokyo.jp/subway/kanren/pdf/barrierfree_guide.pdf",
+            "title": "東京都交通局｜無障礙便利帳",
+            "result": "藏前站明列地面轉乘。",
+            "checkedAt": "2026-10-26"
+          }
+        ],
+        "findings": "將含糊的街區名稱明確標為車站與交通入口，補足用途；保留原 ID、影片與收藏。"
+      },
+      "recommendation": null
+    }
+  ],
   "scope": {
     "id": "kuramae",
     "name": "藏前・田原町",

@@ -323,14 +323,14 @@
       ],
       "note": "原影片為日本橋三越地下食品樓層介紹；櫃位或快閃店可能更動，出發前請查百貨最新樓層資訊。",
       "coordinate": {
-        "lat": 35.685177,
-        "lng": 139.77298,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA1-4-1",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+        "lat": 35.6856332,
+        "lng": 139.7734296,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E5%B0%8F%E5%B8%83%E6%96%BD%E5%A0%82+%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%89%E8%B6%8A%E6%9C%AC%E5%BA%97/@35.6856332,139.7734296,17z/data=!3m1!4b1!4m6!3m5!1s0x601889ce5fe9144f:0xa39e54dbc9990abf!8m2!3d35.6856332!4d139.7734296!16s%2Fg%2F11l4mh4jn5?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "shopUrl": "https://tabelog.com/tokyo/A1302/A130202/13240810/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
       },
       "sources": [
         {
@@ -351,7 +351,7 @@
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%B8%83%E6%96%BD%E5%A0%82+Japan"
+        "mapUrl": "https://www.google.com/maps/place/%E5%B0%8F%E5%B8%83%E6%96%BD%E5%A0%82+%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%89%E8%B6%8A%E6%9C%AC%E5%BA%97/@35.6856332,139.7734296,17z/data=!3m1!4b1!4m6!3m5!1s0x601889ce5fe9144f:0xa39e54dbc9990abf!8m2!3d35.6856332!4d139.7734296!16s%2Fg%2F11l4mh4jn5?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
       },
       "illustration": {
         "image": "/art/source-library/nihonbashi--p_f07b803fd0ce4b5f.webp",
@@ -2690,13 +2690,13 @@
     {
       "id": "nihonbashi--p_0083198ddf2fb655",
       "name": "CASTOR",
-      "address": "東京都中央区日本橋本町4-13-8 朱ビル 1F",
+      "address": "東京都中央区日本橋本町4-13-8",
       "group": "sights",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「CASTOR （ カストール）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋本町4-13-8 朱ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都中央区日本橋本町4-13-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -3243,13 +3243,13 @@
     {
       "id": "nihonbashi--p_933de38a7d78f07e",
       "name": "guang（グアン）",
-      "address": "東京都中央区日本橋室町3-2-1 コレド室町テラス 2F",
+      "address": "東京都中央区日本橋室町3-2-1",
       "group": "sights",
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
         "「guang（グアン）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋室町3-2-1 コレド室町テラス 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原始資料記錄的地址為 東京都中央区日本橋室町3-2-1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
       "coordinate": {

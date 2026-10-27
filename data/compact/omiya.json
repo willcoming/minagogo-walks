@@ -45,7 +45,8 @@
           "https://musashiichinomiya-hikawa.or.jp/",
           "https://visitsaitamacity.jp/spots/53"
         ]
-      }
+      },
+      "displayOrder": 1
     },
     {
       "id": "omiya--bibli",
@@ -91,7 +92,8 @@
           "https://visitsaitamacity.jp/features/1",
           "https://www.city.saitama.lg.jp/kosodate/topics/p127809.html"
         ]
-      }
+      },
+      "displayOrder": 2
     },
     {
       "id": "omiya--dango",
@@ -137,7 +139,8 @@
           "https://visitsaitamacity.jp/features/1",
           "https://www.city.saitama.lg.jp/kosodate/topics/p127809.html"
         ]
-      }
+      },
+      "displayOrder": 3
     },
     {
       "id": "omiya--culture",
@@ -175,7 +178,8 @@
         "id": "omiya",
         "name": "大宮冰川參道",
         "href": "/walks/omiya/"
-      }
+      },
+      "displayOrder": 4
     },
     {
       "id": "omiya--sando",
@@ -213,7 +217,8 @@
         "id": "omiya",
         "name": "大宮冰川參道",
         "href": "/walks/omiya/"
-      }
+      },
+      "displayOrder": 5
     },
     {
       "id": "omiya--shrine",
@@ -259,7 +264,8 @@
           "https://musashiichinomiya-hikawa.or.jp/",
           "https://visitsaitamacity.jp/spots/53"
         ]
-      }
+      },
+      "displayOrder": 6
     },
     {
       "id": "omiya--manawa",
@@ -297,7 +303,8 @@
         "id": "omiya",
         "name": "大宮冰川參道",
         "href": "/walks/omiya/"
-      }
+      },
+      "displayOrder": 7
     },
     {
       "id": "omiya--park",
@@ -343,7 +350,8 @@
           "https://musashiichinomiya-hikawa.or.jp/",
           "https://visitsaitamacity.jp/spots/53"
         ]
-      }
+      },
+      "displayOrder": 8
     },
     {
       "id": "omiya--zoo",
@@ -381,7 +389,8 @@
         "id": "omiya",
         "name": "大宮冰川參道",
         "href": "/walks/omiya/"
-      }
+      },
+      "displayOrder": 9
     },
     {
       "id": "omiya--museum",
@@ -427,7 +436,8 @@
           "https://visitsaitamacity.jp/features/1",
           "https://www.city.saitama.lg.jp/kosodate/topics/p127809.html"
         ]
-      }
+      },
+      "displayOrder": 10
     }
   ],
   "routes": [
@@ -553,6 +563,7 @@
     "checkedAt": "2026-10-26",
     "sourceIds": []
   },
+  "transportPoints": [],
   "scope": {
     "id": "omiya",
     "name": "大宮冰川參道",

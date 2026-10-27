@@ -53,7 +53,8 @@
         "name": "新宿御苑前",
         "href": "/walks/shinjuku-gyoen/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": null
     }
   ],
   "routes": [],
@@ -66,6 +67,7 @@
       "p_6c2c7ef5276cb53a"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "shinjuku-gyoen",
     "name": "新宿御苑前",

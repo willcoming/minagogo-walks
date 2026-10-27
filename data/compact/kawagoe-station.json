@@ -50,7 +50,8 @@
         "name": "川越站周邊",
         "href": "/walks/kawagoe-station/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -63,6 +64,7 @@
       "p_6b559b83f036c12c"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kawagoe-station",
     "name": "川越站周邊",

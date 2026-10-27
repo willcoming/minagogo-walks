@@ -152,7 +152,8 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     },
     {
       "id": "kuramae--p_500aed5155361116",
@@ -208,7 +209,8 @@
           "https://t-navi.city.taito.lg.jp/spot/1090"
         ]
       },
-      "recommendation": "依當日展覽與咖啡開放資訊，安排老屋藝廊停留。"
+      "recommendation": "依當日展覽與咖啡開放資訊，安排老屋藝廊停留。",
+      "displayOrder": 2
     },
     {
       "id": "nihonbashi--p_bd1dd24720e1ab67",
@@ -266,7 +268,8 @@
           "https://t-navi.city.taito.lg.jp/spot/1090"
         ]
       },
-      "recommendation": "從柳橋看神田川與船宿街景，不進入私人碼頭。"
+      "recommendation": "從柳橋看神田川與船宿街景，不進入私人碼頭。",
+      "displayOrder": 3
     },
     {
       "id": "kuramae--p_6160adafced6602d",
@@ -317,7 +320,8 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     },
     {
       "id": "kuramae--p_27c24e65b79e6da4",
@@ -368,7 +372,8 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 5
     },
     {
       "id": "kuramae--p_9022b5fbb1b362ca",
@@ -427,7 +432,8 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 6
     },
     {
       "id": "kuramae--p_15d518ad81e7ddb0",
@@ -485,7 +491,8 @@
           "https://ichibiko.jp/store/kuramae/"
         ]
       },
-      "recommendation": "離開車站商店街，沿街巷到鳥越神社參拜。"
+      "recommendation": "離開車站商店街，沿街巷到鳥越神社參拜。",
+      "displayOrder": 7
     },
     {
       "id": "kuramae--p_5304d79ce902f709",
@@ -547,7 +554,8 @@
           "https://ichibiko.jp/store/kuramae/"
         ]
       },
-      "recommendation": "到鳥越的 ICHIBIKO 選一份草莓甜點。"
+      "recommendation": "到鳥越的 ICHIBIKO 選一份草莓甜點。",
+      "displayOrder": 8
     }
   ],
   "defaultSelection": "asakusabashi-torigoe-and-strawberries",
@@ -567,6 +575,7 @@
       "p_5304d79ce902f709"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "asakusabashi",
     "name": "淺草橋・鳥越",

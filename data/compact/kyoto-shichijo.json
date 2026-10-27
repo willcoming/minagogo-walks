@@ -51,7 +51,8 @@
         "name": "京都七條・妙法院",
         "href": "/walks/kyoto-shichijo/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -64,6 +65,7 @@
       "p_5db5f810e1ac2ea0"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "kyoto-shichijo",
     "name": "京都七條・妙法院",

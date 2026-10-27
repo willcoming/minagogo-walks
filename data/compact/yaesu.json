@@ -70,7 +70,8 @@
           "https://aromacoffee.co.jp/yaesu.html"
         ]
       },
-      "recommendation": "走入八重洲地下街，在 Aroma 喝杯咖啡休息。 逛過站外街廓與地下街後，到喫茶店小休。"
+      "recommendation": "走入八重洲地下街，在 Aroma 喝杯咖啡休息。 逛過站外街廓與地下街後，到喫茶店小休。",
+      "displayOrder": 1
     },
     {
       "id": "nihonbashi--p_e0ab7f3ab1c42756",
@@ -119,68 +120,8 @@
         "name": "東京站・八重洲",
         "href": "/walks/yaesu/"
       },
-      "recommendation": null
-    },
-    {
-      "id": "nihonbashi--p_33bfdc4d3941512a",
-      "name": "泰興樓 TOKYO本店（八重洲1-5-15舊址）",
-      "address": "東京都中央区八重洲1-5-15 荘栄建物ビル",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「中華料理 泰興樓 本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区八重洲1-5-15 荘栄建物ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "此為原影片收錄的八重洲1-5-15臨時店面，保留舊址與插圖作紀錄。官方宣布2026年9月10日遷至八重洲1-6-1 TOFROM YAESU TOWER 1F，請依官網新址前往。",
-      "coordinate": {
-        "lat": 35.6816406,
-        "lng": 139.7707685,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "LxcczhS0teI",
-          "title": "【東京駅ランチ10選】一人でも入りやすい！絶品東京駅ランチ！",
-          "url": "https://www.youtube.com/watch?v=LxcczhS0teI"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "oW9ypq6LNzs",
-          "title": "【東京駅ランチ10選】コスパ最高の食べ放題、ミシュラン獲得1,000円台ビストロなど！",
-          "url": "https://www.youtube.com/watch?v=oW9ypq6LNzs"
-        },
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "EaqTd7_3E7Q",
-          "title": "【東京駅ランチ５選】ミシュラン３つ星の味を1,000円台！？、1949年創業の老舗、アジフライ食べ放題など！",
-          "url": "https://www.youtube.com/watch?v=EaqTd7_3E7Q"
-        }
-      ],
-      "official": "https://www.taikourou.com/tokyo/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_33bfdc4d3941512a"
-        ],
-        "status": "relocated",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=14579020155997307201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_33bfdc4d3941512a.webp",
-        "alt": "泰興樓 TOKYO本店（八重洲1-5-15舊址）的日系水彩插圖"
-      },
-      "order": 3,
-      "canonicalArea": {
-        "id": "yaesu",
-        "name": "東京站・八重洲",
-        "href": "/walks/yaesu/"
-      },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 2
     },
     {
       "id": "nihonbashi--p_e0a7c1114a83c990",
@@ -248,56 +189,8 @@
           "https://www.unahashi.com/"
         ]
       },
-      "recommendation": "用一份鰻魚飯作為午餐重點，出發前確認訂位與供應。"
-    },
-    {
-      "id": "nihonbashi--p_c1d4f5ff35be4a0a",
-      "name": "割烹 嶋村（八重洲1-4-10舊址）",
-      "address": "東京都中央区八重洲1-4-10 東京建物八重洲仲通りビル1～2F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「Kappou Shimamura」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区八重洲1-4-10 東京建物八重洲仲通りビル1～2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "此為原影片收錄的八重洲1-4-10店面。中央區觀光協會2026年9月26日實訪確認已遷至八重洲1-6-1 TOFROM YAESU TOWER 1F；保留舊址與插圖作影片紀錄，請依新址前往。",
-      "coordinate": {
-        "lat": 35.682212799999995,
-        "lng": 139.77183359999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "W9YgyJX98T4",
-          "title": "【日本橋最佳午餐5選】江戶時代的米其林星級餐廳！ ？ 還有站著的蕎麥麵，1杯390日圓！",
-          "url": "https://www.youtube.com/watch?v=W9YgyJX98T4"
-        }
-      ],
-      "official": "https://tokuhain.chuo-kanko.or.jp/detail.php?id=7339",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_c1d4f5ff35be4a0a"
-        ],
-        "status": "relocated",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=4853100895790027372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/nihonbashi--p_c1d4f5ff35be4a0a.webp",
-        "alt": "割烹 嶋村（八重洲1-4-10舊址）的日系水彩插圖"
-      },
-      "order": 5,
-      "canonicalArea": {
-        "id": "yaesu",
-        "name": "東京站・八重洲",
-        "href": "/walks/yaesu/"
-      },
-      "recommendation": null
+      "recommendation": "用一份鰻魚飯作為午餐重點，出發前確認訂位與供應。",
+      "displayOrder": 3
     },
     {
       "id": "nihonbashi--p_7cb539100f0f45ba",
@@ -346,7 +239,8 @@
         "name": "東京站・八重洲",
         "href": "/walks/yaesu/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 4
     },
     {
       "id": "nihonbashi--p_ab201d6aed651632",
@@ -402,7 +296,8 @@
           "https://aromacoffee.co.jp/yaesu.html"
         ]
       },
-      "recommendation": "在鐵鋼大樓的 Sarabeth’s 吃早午餐，避開急著轉車的節奏。"
+      "recommendation": "在鐵鋼大樓的 Sarabeth’s 吃早午餐，避開急著轉車的節奏。",
+      "displayOrder": 5
     },
     {
       "id": "nihonbashi--p_bd63a41a02823cb1",
@@ -453,7 +348,8 @@
         "name": "東京站・八重洲",
         "href": "/walks/yaesu/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 6
     },
     {
       "id": "nihonbashi--p_e011bbb71cc25cf7",
@@ -506,7 +402,120 @@
         "name": "東京站・八重洲",
         "href": "/walks/yaesu/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 7
+    },
+    {
+      "id": "nihonbashi--p_33bfdc4d3941512a",
+      "name": "泰興樓 TOKYO本店（八重洲1-5-15舊址）",
+      "address": "東京都中央区八重洲1-5-15 荘栄建物ビル",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「中華料理 泰興樓 本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区八重洲1-5-15 荘栄建物ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "此為原影片收錄的八重洲1-5-15臨時店面，保留舊址與插圖作紀錄。官方宣布2026年9月10日遷至八重洲1-6-1 TOFROM YAESU TOWER 1F，請依官網新址前往。",
+      "coordinate": {
+        "lat": 35.6816406,
+        "lng": 139.7707685,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "LxcczhS0teI",
+          "title": "【東京駅ランチ10選】一人でも入りやすい！絶品東京駅ランチ！",
+          "url": "https://www.youtube.com/watch?v=LxcczhS0teI"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "oW9ypq6LNzs",
+          "title": "【東京駅ランチ10選】コスパ最高の食べ放題、ミシュラン獲得1,000円台ビストロなど！",
+          "url": "https://www.youtube.com/watch?v=oW9ypq6LNzs"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "EaqTd7_3E7Q",
+          "title": "【東京駅ランチ５選】ミシュラン３つ星の味を1,000円台！？、1949年創業の老舗、アジフライ食べ放題など！",
+          "url": "https://www.youtube.com/watch?v=EaqTd7_3E7Q"
+        }
+      ],
+      "official": "https://www.taikourou.com/tokyo/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_33bfdc4d3941512a"
+        ],
+        "status": "relocated",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=14579020155997307201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_33bfdc4d3941512a.webp",
+        "alt": "泰興樓 TOKYO本店（八重洲1-5-15舊址）的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "recommendation": null,
+      "displayOrder": null
+    },
+    {
+      "id": "nihonbashi--p_c1d4f5ff35be4a0a",
+      "name": "割烹 嶋村（八重洲1-4-10舊址）",
+      "address": "東京都中央区八重洲1-4-10 東京建物八重洲仲通りビル1～2F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片中收錄的停留點",
+      "descriptionParagraphs": [
+        "「Kappou Shimamura」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
+        "原始資料記錄的地址為 東京都中央区八重洲1-4-10 東京建物八重洲仲通りビル1～2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+      ],
+      "note": "此為原影片收錄的八重洲1-4-10店面。中央區觀光協會2026年9月26日實訪確認已遷至八重洲1-6-1 TOFROM YAESU TOWER 1F；保留舊址與插圖作影片紀錄，請依新址前往。",
+      "coordinate": {
+        "lat": 35.682212799999995,
+        "lng": 139.77183359999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "W9YgyJX98T4",
+          "title": "【日本橋最佳午餐5選】江戶時代的米其林星級餐廳！ ？ 還有站著的蕎麥麵，1杯390日圓！",
+          "url": "https://www.youtube.com/watch?v=W9YgyJX98T4"
+        }
+      ],
+      "official": "https://tokuhain.chuo-kanko.or.jp/detail.php?id=7339",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c1d4f5ff35be4a0a"
+        ],
+        "status": "relocated",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=4853100895790027372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_c1d4f5ff35be4a0a.webp",
+        "alt": "割烹 嶋村（八重洲1-4-10舊址）的日系水彩插圖"
+      },
+      "order": 5,
+      "canonicalArea": {
+        "id": "yaesu",
+        "name": "東京站・八重洲",
+        "href": "/walks/yaesu/"
+      },
+      "recommendation": null,
+      "displayOrder": null
     }
   ],
   "routes": [
@@ -613,16 +622,17 @@
       "p_3a113c1ef51d7720",
       "p_9e466855e0dde0ce",
       "p_e0ab7f3ab1c42756",
-      "p_33bfdc4d3941512a",
       "p_e0a7c1114a83c990",
       "p_ba062d5d6f02a72e",
-      "p_c1d4f5ff35be4a0a",
       "p_7cb539100f0f45ba",
       "p_ab201d6aed651632",
       "p_bd63a41a02823cb1",
-      "p_e011bbb71cc25cf7"
+      "p_e011bbb71cc25cf7",
+      "p_33bfdc4d3941512a",
+      "p_c1d4f5ff35be4a0a"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "yaesu",
     "name": "東京站・八重洲",

@@ -62,7 +62,8 @@
         "name": "都立大學・中根",
         "href": "/walks/toritsu-daigaku/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": null
     }
   ],
   "routes": [],
@@ -75,6 +76,7 @@
       "p_bbbcfa152724fbf5"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "toritsu-daigaku",
     "name": "都立大學・中根",

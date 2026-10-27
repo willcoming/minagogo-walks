@@ -53,7 +53,8 @@
         "name": "南池袋",
         "href": "/walks/minami-ikebukuro/"
       },
-      "recommendation": null
+      "recommendation": null,
+      "displayOrder": 1
     }
   ],
   "routes": [],
@@ -66,6 +67,7 @@
       "p_9c9b0fb489ef24e7"
     ]
   },
+  "transportPoints": [],
   "scope": {
     "id": "minami-ikebukuro",
     "name": "南池袋",
