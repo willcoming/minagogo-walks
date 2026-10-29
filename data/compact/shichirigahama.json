@@ -8,10 +8,10 @@
       "address": "〒248-0026 Kanagawa, Kamakura, Shichirigahamahigashi, 2-chōme−1, 七里ガ浜",
       "group": "sights",
       "categoryLabel": "海灘",
-      "caption": "影片中收錄的停留點",
+      "caption": "海灘・Kanagawa…。",
       "descriptionParagraphs": [
-        "「七里濱」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒248-0026 Kanagawa, Kamakura, Shichirigahamahigashi, 2-chōme−1, 七里ガ浜。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「七里濱」位於本次稻村崎・七里濱收錄範圍，既有資料將這一站歸為海灘。地址紀錄為 〒248-0026 Kanagawa, Kamakura, Shichirigahamahigashi, 2-chōme−1, 七里ガ浜。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -56,18 +56,27 @@
         "href": "/walks/shichirigahama/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「七里濱」位於本次稻村崎・七里濱收錄範圍，既有資料將這一站歸為海灘。地址紀錄為 〒248-0026 Kanagawa, Kamakura, Shichirigahamahigashi, 2-chōme−1, 七里ガ浜。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8bb236004949b67b"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kamakura--p_e03a48877b3f4022",
       "name": "ヨリドコロ",
       "address": "神奈川県鎌倉市稲村ガ崎1-12-16",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・神奈川県鎌倉市稲村ガ崎1-12-16。",
       "descriptionParagraphs": [
-        "「ヨリドコロ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 神奈川県鎌倉市稲村ガ崎1-12-16。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「ヨリドコロ」位於本次稻村崎・七里濱收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市稲村ガ崎1-12-16。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -112,7 +121,16 @@
         "href": "/walks/shichirigahama/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「ヨリドコロ」位於本次稻村崎・七里濱收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市稲村ガ崎1-12-16。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e03a48877b3f4022"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

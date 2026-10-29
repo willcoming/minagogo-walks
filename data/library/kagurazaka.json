@@ -250,7 +250,7 @@
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「東京大神宮」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "「東京大神宮」出現在老辣妹、部屋隆的生活頻道的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
       ],
       "note": null,
@@ -268,6 +268,14 @@
           "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
           "time": "0:37",
           "seconds": 37
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "2yfy1-1w-lk",
+          "title": "#東京自由行 絕對推薦的#另一半 #皇居 北邊旅遊路線 你熟悉卻陌生的市中心旁邊 絕對順路的交通路線建議 #水道橋 #飯田橋 #後樂園 #神樂坂 #東京巨蛋 良緣寶地#東京大神宮 #神樂 怎麼念？",
+          "url": "https://www.youtube.com/watch?v=2yfy1-1w-lk",
+          "time": "08:31",
+          "seconds": 511
         }
       ],
       "official": null,
@@ -439,16 +447,7 @@
         "原始資料記錄的地址為 東京都新宿区神楽坂4-3 楽山ビル3F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "原始地圖曾錯配同名公司，已依店家官方資訊更正為神樂坂分店。",
-      "coordinate": {
-        "lat": 35.701981,
-        "lng": 139.739929,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%824-3",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
+      "coordinate": null,
       "sources": [
         {
           "channel": "ハーリーのグルメ",

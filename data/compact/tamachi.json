@@ -7,10 +7,10 @@
       "address": "東京都港区芝4-16-1 カテリーナ三田ウエスト1F",
       "group": "food",
       "categoryLabel": "義大利麵",
-      "caption": "影片中收錄的停留點",
+      "caption": "義大利麵・東京都港区芝4-16-1 カテリーナ三田ウエスト1F。",
       "descriptionParagraphs": [
-        "原影片介紹田町本店，以生義大利麵與吧檯座位為特色；店址靠近田町與三田站。",
-        "原始資料記錄的地址為 東京都港区芝4-16-1 カテリーナ三田ウエスト1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「PASTAVOLA 田町本店」位於本次田町・三田站周邊收錄範圍，既有資料將這一站歸為義大利麵。地址紀錄為 東京都港区芝4-16-1 カテリーナ三田ウエスト1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片連結明確指向田町本店，先前誤配為日本橋分店；已依官方店鋪表修正並獨立收錄。",
       "coordinate": {
@@ -53,7 +53,16 @@
         "href": "/walks/tamachi/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「PASTAVOLA 田町本店」位於本次田町・三田站周邊收錄範圍，既有資料將這一站歸為義大利麵。地址紀錄為 東京都港区芝4-16-1 カテリーナ三田ウエスト1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8d0c9cba3b47febd"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

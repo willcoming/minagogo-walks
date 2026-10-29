@@ -145,6 +145,60 @@
       }
     },
     {
+      "id": "nihonbashi--p_5def497fde333f3f",
+      "name": "人形町今半 惣菜本店",
+      "address": "東京都中央区日本橋人形町2-10-3",
+      "group": "food",
+      "categoryLabel": "可樂餅・熟食",
+      "caption": "人形町巷內的壽喜燒可樂餅",
+      "descriptionParagraphs": [
+        "今半熟食本店提供可樂餅、炸物與便當，與附近的壽喜燒餐廳是不同店面。招牌壽喜燒可樂餅把熟悉的醬香包進酥脆外衣，適合在甘酒橫丁一帶散步時順路購買。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6856665,
+        "lng": 139.783753,
+        "provider": "original-video-map",
+        "url": "https://www.google.com/maps/place/Imahan+Delicatessen/@35.6856665,139.7811781,17z/data=!3m1!4b1!4m6!3m5!1s0x6018894fcfe3929d:0x7ecf551dbeaabac!8m2!3d35.6856665!4d139.783753!16s%2Fg%2F11c1pcnt09?coh=277533",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "iDyk1F7gZCA",
+          "title": "東京 🇯🇵 🗼 和菓子天堂！人形町超人氣銅鑼燒、老牌紅豆湯美食散策",
+          "url": "https://www.youtube.com/watch?v=iDyk1F7gZCA"
+        }
+      ],
+      "official": "https://ningyochoimahan-souzaihonten.foodre.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5def497fde333f3f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Imahan+Delicatessen/@35.6856665,139.7811781,17z/data=!3m1!4b1!4m6!3m5!1s0x6018894fcfe3929d:0x7ecf551dbeaabac!8m2!3d35.6856665!4d139.783753!16s%2Fg%2F11c1pcnt09?coh=277533"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://ningyochoimahan-souzaihonten.foodre.jp/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区日本橋人形町2-10-3；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_5def497fde333f3f.webp",
+        "alt": "人形町今半 惣菜本店的日系水彩插圖"
+      }
+    },
+    {
       "id": "nihonbashi--p_e0a7c1114a83c990",
       "name": "八重洲 鰻 はし本",
       "address": "東京都中央区八重洲1-5-10",
@@ -250,6 +304,60 @@
       }
     },
     {
+      "id": "nihonbashi--p_8b6b107480ae9e58",
+      "name": "三原堂本店",
+      "address": "東京都中央区日本橋人形町1-14-10",
+      "group": "food",
+      "categoryLabel": "和洋菓子",
+      "caption": "水天宮前街角的和洋菓子老店",
+      "descriptionParagraphs": [
+        "三原堂本店位於人形町通與水天宮前的街角，販售和菓子、洋菓子與鹽仙貝。可選擇小份點心或旅途伴手禮，店面黑底金字招牌是街角醒目的辨識點。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6840026,
+        "lng": 139.7842042,
+        "provider": "original-video-map",
+        "url": "https://www.google.com/maps/place/Miharado+Honten/@35.6827322,139.7647057,15z/data=!3m1!5s0x601889455bc7e36f:0x3e661d07b9e124f6!4m7!3m6!1s0x601889455f3a202f:0xc0ec8d8a64de58f8!8m2!3d35.6840026!4d139.7842042!15sCg_kuInljp_loILmnKzlupciA4gBAVoTIhHkuInljp8g5aCCIOacrOW6l5IBG2phcGFuZXNlX2NvbmZlY3Rpb25lcnlfc2hvcOABAA!16s%2Fg%2F1tdzlj_p?coh=277533",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "iDyk1F7gZCA",
+          "title": "東京 🇯🇵 🗼 和菓子天堂！人形町超人氣銅鑼燒、老牌紅豆湯美食散策",
+          "url": "https://www.youtube.com/watch?v=iDyk1F7gZCA"
+        }
+      ],
+      "official": "https://www.ningyocho.or.jp/contents/shop/food/a38.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_8b6b107480ae9e58"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Miharado+Honten/@35.6827322,139.7647057,15z/data=!3m1!5s0x601889455bc7e36f:0x3e661d07b9e124f6!4m7!3m6!1s0x601889455f3a202f:0xc0ec8d8a64de58f8!8m2!3d35.6840026!4d139.7842042!15sCg_kuInljp_loILmnKzlupciA4gBAVoTIhHkuInljp8g5aCCIOacrOW6l5IBG2phcGFuZXNlX2NvbmZlY3Rpb25lcnlfc2hvcOABAA!16s%2Fg%2F1tdzlj_p?coh=277533"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.ningyocho.or.jp/contents/shop/food/a38.html",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区日本橋人形町1-14-10；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_8b6b107480ae9e58.webp",
+        "alt": "三原堂本店的日系水彩插圖"
+      }
+    },
+    {
       "id": "nihonbashi--p_327d988ccd102372",
       "name": "三越前",
       "address": "日本〒103-0022 東京都中央區日本橋室町 2 Chome−1",
@@ -308,6 +416,60 @@
       "illustration": {
         "image": "/art/source-library/nihonbashi--p_327d988ccd102372.webp",
         "alt": "三越前的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--p_e3b7c66301ba1547",
+      "name": "三陽食堂 東京駅ヤエチカ店",
+      "address": "東京都中央区八重洲2-1 八重洲地下街2番通り",
+      "group": "food",
+      "categoryLabel": "炸魚定食",
+      "caption": "八重洲地下街裡的炸竹莢魚定食",
+      "descriptionParagraphs": [
+        "三陽食堂東京站八重洲地下街店以竹莢魚料理為主，適合在車站周邊散步時安排一頓定食。店面位於地下街，找入口時請依商場樓層指引；候位與用餐另留時間。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6796432,
+        "lng": 139.7707481,
+        "provider": "original-video-map",
+        "url": "https://maps.google.com/?cid=13408876315878559857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "EaqTd7_3E7Q",
+          "title": "【東京駅ランチ５選】ミシュラン３つ星の味を1,000円台！？、1949年創業の老舗、アジフライ食べ放題など！",
+          "url": "https://www.youtube.com/watch?v=EaqTd7_3E7Q"
+        }
+      ],
+      "official": "https://www.yaechika.com/shop/sp487/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e3b7c66301ba1547"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=13408876315878559857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.yaechika.com/shop/sp487/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区八重洲2-1 八重洲地下街2番通り；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_e3b7c66301ba1547.webp",
+        "alt": "三陽食堂 東京駅ヤエチカ店的日系水彩插圖"
       }
     },
     {
@@ -1014,6 +1176,60 @@
       }
     },
     {
+      "id": "nihonbashi--p_25ea85e8c92640f4",
+      "name": "甘味処 初音",
+      "address": "東京都中央区日本橋人形町1-15-6",
+      "group": "food",
+      "categoryLabel": "日式甜點",
+      "caption": "木門後的紅豆與寒天甜點",
+      "descriptionParagraphs": [
+        "初音位於人形町一丁目，以紅豆、寒天與黑糖等材料製作傳統日式甜點。木框門面與小巧陳列櫃保有老街氣氛，適合從水天宮往人形町散步途中坐下吃一份甜點。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6843199,
+        "lng": 139.7838658,
+        "provider": "original-video-map",
+        "url": "https://www.google.com/maps/place/Hatsune/@35.6843199,139.7812909,17z/data=!3m1!4b1!4m6!3m5!1s0x6018894ffac2249f:0x506884af3053af9b!8m2!3d35.6843199!4d139.7838658!16s%2Fg%2F1tgb_rt6?coh=277533",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "iDyk1F7gZCA",
+          "title": "東京 🇯🇵 🗼 和菓子天堂！人形町超人氣銅鑼燒、老牌紅豆湯美食散策",
+          "url": "https://www.youtube.com/watch?v=iDyk1F7gZCA"
+        }
+      ],
+      "official": "https://www.ningyocho.or.jp/contents/shop/food/a26.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_25ea85e8c92640f4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Hatsune/@35.6843199,139.7812909,17z/data=!3m1!4b1!4m6!3m5!1s0x6018894ffac2249f:0x506884af3053af9b!8m2!3d35.6843199!4d139.7838658!16s%2Fg%2F1tgb_rt6?coh=277533"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.ningyocho.or.jp/contents/shop/food/a26.html",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区日本橋人形町1-15-6；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_25ea85e8c92640f4.webp",
+        "alt": "甘味処 初音的日系水彩插圖"
+      }
+    },
+    {
       "id": "nihonbashi--p_8e0a537b31d964b4",
       "name": "石川亭 COREDO室町店",
       "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2-chōme−2−1 コレド室町1 3F",
@@ -1279,6 +1495,60 @@
       "illustration": {
         "image": "/art/source-library/nihonbashi--p_cd78694a3c388a13.webp",
         "alt": "彦九郎的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--p_bd2a6a5ec1a0ea20",
+      "name": "重盛永信堂 本店",
+      "address": "東京都中央区日本橋人形町2-1-1",
+      "group": "food",
+      "categoryLabel": "人形燒",
+      "caption": "人形町路口的人形燒與仙貝",
+      "descriptionParagraphs": [
+        "重盛永信堂在人形町路口製售人形燒與ゼイタク煎餅。沿水天宮與甘酒橫丁散步時，可以順路挑選點心；藍色招牌與綠色遮棚讓轉角店面容易辨認。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6840991,
+        "lng": 139.784519,
+        "provider": "original-video-map",
+        "url": "https://www.google.com/maps/place/Shigemori+Ningyoyaki/@35.6840991,139.7819441,17z/data=!3m1!4b1!4m6!3m5!1s0x6018894561aac3d7:0x9a89c5e69c5a8cc!8m2!3d35.6840991!4d139.784519!16s%2Fg%2F11kmnq7wpc?coh=277533",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "iDyk1F7gZCA",
+          "title": "東京 🇯🇵 🗼 和菓子天堂！人形町超人氣銅鑼燒、老牌紅豆湯美食散策",
+          "url": "https://www.youtube.com/watch?v=iDyk1F7gZCA"
+        }
+      ],
+      "official": "https://www.shigemori-eishindo.co.jp/information",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bd2a6a5ec1a0ea20"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Shigemori+Ningyoyaki/@35.6840991,139.7819441,17z/data=!3m1!4b1!4m6!3m5!1s0x6018894561aac3d7:0x9a89c5e69c5a8cc!8m2!3d35.6840991!4d139.784519!16s%2Fg%2F11kmnq7wpc?coh=277533"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.shigemori-eishindo.co.jp/information",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区日本橋人形町2-1-1；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_bd2a6a5ec1a0ea20.webp",
+        "alt": "重盛永信堂 本店的日系水彩插圖"
       }
     },
     {
@@ -2490,6 +2760,66 @@
       }
     },
     {
+      "id": "nihonbashi--p_76c831bcfffc7082",
+      "name": "Bubby’s ヤエチカ",
+      "address": "東京都中央区八重洲2-1 八重洲地下街中3号",
+      "group": "food",
+      "categoryLabel": "美式餐點・派",
+      "caption": "木質店面裡的美式餐點與手作派",
+      "descriptionParagraphs": [
+        "Bubby’s 八重洲地下街店以美式家常餐點、派與咖啡為主。暖色木質店面與甜點櫃連接地下街動線，可作為東京站周邊散步的用餐或甜點休息。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.679803199999995,
+        "lng": 139.7704847,
+        "provider": "original-video-map",
+        "url": "https://maps.google.com/?cid=9883468267051545697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "pVjoR_5dzaY",
+          "title": "【東京スイーツ13選】2025年最新！東京で美味しいスイーツを食べるならここ！",
+          "url": "https://www.youtube.com/watch?v=pVjoR_5dzaY"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "E2o08qZw1j0",
+          "title": "【東京スイーツ７選】お土産・プレゼントにも！東京で美味しいスイーツを食べるならここ！",
+          "url": "https://www.youtube.com/watch?v=E2o08qZw1j0"
+        }
+      ],
+      "official": "https://bubbys.jp/locations/yaechika/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_76c831bcfffc7082"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=9883468267051545697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://bubbys.jp/locations/yaechika/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区八重洲2-1 八重洲地下街中3号；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_76c831bcfffc7082.webp",
+        "alt": "Bubby’s ヤエチカ的日系水彩插圖"
+      }
+    },
+    {
       "id": "nihonbashi--p_a12731ca64bc1258",
       "name": "BULVÁR TOKYO",
       "address": "〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 1-chōme−12−６ 日本橋ムロホンビル4 ２階／３階",
@@ -3190,6 +3520,66 @@
       }
     },
     {
+      "id": "nihonbashi--p_1f895cf9aed649b2",
+      "name": "エリックサウス 八重洲店",
+      "address": "東京都中央区八重洲2-1 八重洲地下街中4号",
+      "group": "food",
+      "categoryLabel": "南印度料理",
+      "caption": "地下街裡的南印度香料餐桌",
+      "descriptionParagraphs": [
+        "ERICK SOUTH 八重洲店位於東京站八重洲地下街，提供南印度咖哩與米食料理。多種香料與小碗料理組成豐富的一餐，適合把車站周邊行程和午餐安排在一起。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6794859,
+        "lng": 139.77084299999999,
+        "provider": "original-video-map",
+        "url": "https://maps.google.com/?cid=9048390921055239887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "YVERfiOOzWc",
+          "title": "【東京站午餐精選8】源自林米、名古屋特產味噌二味烏冬面等！",
+          "url": "https://www.youtube.com/watch?v=YVERfiOOzWc"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "2lGOIX9A85A",
+          "title": "【東京駅ランチ10選】菊池風磨やニノも絶賛！1,000円台から楽しめるミシュラン店など！",
+          "url": "https://www.youtube.com/watch?v=2lGOIX9A85A"
+        }
+      ],
+      "official": "https://info.erickcurry.jp/yaesu/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1f895cf9aed649b2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=9048390921055239887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://info.erickcurry.jp/yaesu/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区八重洲2-1 八重洲地下街中4号；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_1f895cf9aed649b2.webp",
+        "alt": "エリックサウス 八重洲店的日系水彩插圖"
+      }
+    },
+    {
       "id": "nihonbashi--p_c5050edd4a19bc74",
       "name": "Good Coffee Farms Café & Bar",
       "address": "〒103-0027 Tokyo, Chuo City, Nihonbashi, 3-chōme−1−３ 日本橋さくらビル 1F",
@@ -3738,13 +4128,20 @@
           "videoId": "oW9ypq6LNzs",
           "title": "【東京駅ランチ10選】コスパ最高の食べ放題、ミシュラン獲得1,000円台ビストロなど！",
           "url": "https://www.youtube.com/watch?v=oW9ypq6LNzs"
+        },
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "ReLRuVn5SWY",
+          "title": "【東京駅ランチ7選】迷ったらココ",
+          "url": "https://www.youtube.com/watch?v=ReLRuVn5SWY"
         }
       ],
       "official": "https://tabelog.com/tokyo/A1302/A130202/13011465/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_fde9883f401b42f2"
+          "p_fde9883f401b42f2",
+          "p_39a917c4e78239d6"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
@@ -3807,6 +4204,70 @@
       "illustration": {
         "image": "/art/source-library/nihonbashi--p_f67482ab05644bb1.webp",
         "alt": "Ishiya Nihonbashi的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--p_94a30d6b0200f27a",
+      "name": "蛇の市本店",
+      "address": "東京都中央区日本橋室町1-12-10 J1ビル1F",
+      "group": "food",
+      "categoryLabel": "江戶前壽司",
+      "caption": "室町街巷的江戶前壽司",
+      "descriptionParagraphs": [
+        "蛇之市本店位於日本橋室町一丁目，以江戶前壽司為主。白色暖簾與發光店招標示入口，適合在日本橋散步之外，另留一段完整用餐時間；出發前可先確認訂位安排。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.686119,
+        "lng": 139.7755825,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Janoichi+Honten/@35.686119,139.7755825,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be477694285:0xe6f9987aec9ee38f!8m2!3d35.686119!4d139.7755825!16s%2Fg%2F1tzlyyxs?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/tokyo/A1302/A130202/13243895/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "TvYD7BQfg08",
+          "title": "東京, 築地 vlog｜MUST-VISIT 12 ULTIMATE FOOD SPOTS IN TSUKIJI, TOKYO🇯🇵｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=TvYD7BQfg08",
+          "time": "19:17",
+          "seconds": 1157
+        }
+      ],
+      "official": "https://jyanoichi.tokyo/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_94a30d6b0200f27a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Janoichi+Honten/@35.686119,139.7755825,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be477694285:0xe6f9987aec9ee38f!8m2!3d35.686119!4d139.7755825!16s%2Fg%2F1tzlyyxs?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://jyanoichi.tokyo/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区日本橋室町1-12-10 J1ビル1F；用途與介紹相符。營業時間未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1302/A130202/13243895/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区日本橋室町1-12-10 J1ビル1F；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_94a30d6b0200f27a.webp",
+        "alt": "蛇の市本店的日系水彩插圖"
       }
     },
     {
@@ -3913,6 +4374,68 @@
       "illustration": {
         "image": "/art/source-library/nihonbashi--p_e560d31ba76fbc49.webp",
         "alt": "K5的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--p_1757030b71f33c1a",
+      "name": "神乃珈琲 ヤエチカ店",
+      "address": "東京都中央区八重洲2-1 八重洲地下街中1号Aブロック2-010-070号",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "木格柵吧台旁的地下街咖啡時間",
+      "descriptionParagraphs": [
+        "神乃珈琲八重洲地下街店以木格柵、曲線吧台與暖色燈光構成沉穩的咖啡空間。從東京站地下步行可抵達，適合旅途中坐下喝杯咖啡，或在轉車前稍作休息。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6804402,
+        "lng": 139.7688465,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E7%A5%9E%E4%B9%83%E7%8F%88%E7%90%B2+%E3%83%A4%E3%82%A8%E3%83%81%E3%82%AB%E5%BA%97/@35.6804402,139.7688465,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0004eb0ed5:0xbca53fd6152c5feb!8m2!3d35.6804402!4d139.7688465!16s%2Fg%2F11mckn1s21?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/tokyo/A1302/A130201/13308530/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "1ySCColiyDQ",
+          "title": "MUST-VISIT 10 ULTIMATE FOOD SPOTS in TOKYO STATION & SHINJUKU, TOKYO🇯🇵｜Tokyo vlog 2026",
+          "url": "https://www.youtube.com/watch?v=1ySCColiyDQ"
+        }
+      ],
+      "official": "https://kannocoffee.com/contents/shopinfo/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1757030b71f33c1a"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/%E7%A5%9E%E4%B9%83%E7%8F%88%E7%90%B2+%E3%83%A4%E3%82%A8%E3%83%81%E3%82%AB%E5%BA%97/@35.6804402,139.7688465,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0004eb0ed5:0xbca53fd6152c5feb!8m2!3d35.6804402!4d139.7688465!16s%2Fg%2F11mckn1s21?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://kannocoffee.com/contents/shopinfo/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区八重洲2-1 八重洲地下街中1号Aブロック2-010-070号；用途與介紹相符。營業時間未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1302/A130201/13308530/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区八重洲2-1 八重洲地下街中1号Aブロック2-010-070号；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_1757030b71f33c1a.webp",
+        "alt": "神乃珈琲 ヤエチカ店的日系水彩插圖"
       }
     },
     {
@@ -4965,6 +5488,60 @@
       "illustration": {
         "image": "/art/source-library/nihonbashi--p_dd1f7c81ac1aa894.webp",
         "alt": "PIZZA DA BABBO的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--p_bd120200700ee9a1",
+      "name": "POINT ET LIGNE 東京ミッドタウン八重洲店",
+      "address": "東京都中央区八重洲2-1-4 東京ミッドタウン八重洲セントラルスクエア1F",
+      "group": "food",
+      "categoryLabel": "烘焙・餐廳",
+      "caption": "薪火料理與石窯麵包的八重洲餐廳",
+      "descriptionParagraphs": [
+        "POINT ET LIGNE 八重洲店位於東京 Midtown 八重洲 Central Square 一樓，結合薪火料理、石窯麵包與餐廳。可依行程選擇購買麵包，或另留時間坐下用餐。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6797721,
+        "lng": 139.7698108,
+        "provider": "original-video-map",
+        "url": "https://maps.google.com/?cid=733980659770749379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "DwGb0sDvDYY",
+          "title": "【東京食べ放題5選】60品の寿司が5000円で食べ放題！誰も知らない秘密のデザートワゴン♪",
+          "url": "https://www.youtube.com/watch?v=DwGb0sDvDYY"
+        }
+      ],
+      "official": "https://www.yaesu.tokyo-midtown.com/shop-restaurant/detail/50100",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_bd120200700ee9a1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=733980659770749379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.yaesu.tokyo-midtown.com/shop-restaurant/detail/50100",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区八重洲2-1-4 東京ミッドタウン八重洲セントラルスクエア1F；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_bd120200700ee9a1.webp",
+        "alt": "POINT ET LIGNE 東京ミッドタウン八重洲店的日系水彩插圖"
       }
     },
     {
@@ -6107,6 +6684,60 @@
       }
     },
     {
+      "id": "nihonbashi--p_407ad52fb16201a9",
+      "name": "オリミネベーカーズ 人形町店",
+      "address": "東京都中央区日本橋人形町1-19-6 中島牧野ビル1階",
+      "group": "food",
+      "categoryLabel": "麵包",
+      "caption": "人形町街角的日常烘焙",
+      "descriptionParagraphs": [
+        "Orimine Bakers 人形町店位於人形町一丁目，以日常麵包與烘焙小點為主。從車站步行即可到達，適合在逛人形町街巷時選一份麵包，作為散步途中或稍後享用的小點。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.6860113,
+        "lng": 139.7822796,
+        "provider": "original-video-map",
+        "url": "https://www.google.com/maps/place/Orimine+Bakers+Ningyocho/@35.6860113,139.7797047,17z/data=!3m1!4b1!4m6!3m5!1s0x601889d56caa2e87:0x1aa324f60d02689b!8m2!3d35.6860113!4d139.7822796!16s%2Fg%2F11qwzkmm47?coh=277533",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "SoloInTokyoLife",
+          "videoId": "iDyk1F7gZCA",
+          "title": "東京 🇯🇵 🗼 和菓子天堂！人形町超人氣銅鑼燒、老牌紅豆湯美食散策",
+          "url": "https://www.youtube.com/watch?v=iDyk1F7gZCA"
+        }
+      ],
+      "official": "https://oriminebakers.com/shops",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_407ad52fb16201a9"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Orimine+Bakers+Ningyocho/@35.6860113,139.7797047,17z/data=!3m1!4b1!4m6!3m5!1s0x601889d56caa2e87:0x1aa324f60d02689b!8m2!3d35.6860113!4d139.7822796!16s%2Fg%2F11qwzkmm47?coh=277533"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://oriminebakers.com/shops",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区日本橋人形町1-19-6 中島牧野ビル1階；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_407ad52fb16201a9.webp",
+        "alt": "オリミネベーカーズ 人形町店的日系水彩插圖"
+      }
+    },
+    {
       "id": "nihonbashi--p_34521008dfbf3368",
       "name": "クラブハリエ 日本橋三越店",
       "address": "東京都中央区日本橋室町1-4-1 日本橋三越本店 本館B1F",
@@ -6281,6 +6912,55 @@
       "illustration": {
         "image": "/art/source-library/nihonbashi--p_fa048855eba36dc2.webp",
         "alt": "ハシゴ楼的日系水彩插圖"
+      }
+    },
+    {
+      "id": "nihonbashi--p_21e9301040b383cd",
+      "name": "ポーたま 東京ミッドタウン八重洲店",
+      "address": "東京都中央区八重洲2-2-1 東京ミッドタウン八重洲B1F",
+      "group": "food",
+      "categoryLabel": "飯糰",
+      "caption": "從沖繩日常延伸到東京站的豬肉蛋飯糰",
+      "descriptionParagraphs": [
+        "ポーたま八重洲店位於東京 Midtown 八重洲地下一樓，以海苔包裹米飯、煎蛋與午餐肉，也提供不同配料組合。可從八重洲地下街連通，適合散步前後購買外帶餐點。"
+      ],
+      "note": "已依官方更正門牌；舊座標來自不同門牌，店內位置待重新確認，暫不提供地圖標記與導航。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "5yNAXlOxwUg",
+          "title": "【東 京 駅】おすすめ食べ歩きスイーツ・グルメ１０選＼東京駅限定メニュー多数紹介／Tokyo station food tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=5yNAXlOxwUg",
+          "time": "08:46",
+          "seconds": 526
+        }
+      ],
+      "official": "https://porktamago.com/shop/009-tmy/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_21e9301040b383cd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%83%9D%E3%83%BC%E3%81%9F%E3%81%BE+%E6%9D%B1%E4%BA%AC%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%82%A6%E3%83%B3%E5%85%AB%E9%87%8D%E6%B4%B2%E5%BA%97+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%AB%E9%87%8D%E6%B4%B2%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92%E2%88%92%EF%BC%92"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://porktamago.com/shop/009-tmy/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：東京都中央区八重洲2-2-1 東京ミッドタウン八重洲B1F；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/nihonbashi--p_21e9301040b383cd.webp",
+        "alt": "ポーたま 東京ミッドタウン八重洲店的日系水彩插圖"
       }
     },
     {

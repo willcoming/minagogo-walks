@@ -6,12 +6,12 @@
       "id": "nakazakicho--p_cdd7974d52ec6f06",
       "name": "HEP FIVE",
       "address": "大阪府大阪市北区角田町5-15",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "shops",
+      "categoryLabel": "購物商場",
+      "caption": "購物商場・大阪府大阪市北区角田町5-15。",
       "descriptionParagraphs": [
-        "「HEP FIVE」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区角田町5-15。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「HEP FIVE」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物商場。地址紀錄為 大阪府大阪市北区角田町5-15。",
+        "來源包括老辣妹、Travel Seeker /夫婦の旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "館內店家與觀覽車各有營業及休館安排，出發前請確認官方最新公告。",
       "coordinate": {
@@ -28,6 +28,14 @@
           "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
           "time": "2:05",
           "seconds": 125
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "NMzbHSwVfSU",
+          "title": "超好買【梅田最完整購物地圖】大阪車站必買必去🇯🇵看完不再迷路｜大阪梅田購物攻略｜",
+          "url": "https://www.youtube.com/watch?v=NMzbHSwVfSU",
+          "time": "12:47",
+          "seconds": 767
         }
       ],
       "official": "https://www.hepfive.jp/",
@@ -52,18 +60,46 @@
         "href": "/walks/umeda/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "visitingHours": {
+        "summary": "商店11–21・餐廳11–22:30・不定休",
+        "note": "HEP FIVE官方頁面所列；各店與設施時段不同，休館日請再查公告。",
+        "sourceUrl": "https://www.hepfive.jp/access",
+        "sourceLabel": "HEP FIVE官方資訊",
+        "checkedAt": "2026-10-28",
+        "status": "listed"
+      },
+      "description": "「HEP FIVE」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物商場。地址紀錄為 大阪府大阪市北区角田町5-15。\n\n來源包括老辣妹、Travel Seeker /夫婦の旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_cdd7974d52ec6f06"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://www.hepfive.jp/access",
+            "checkedAt": "2026-10-28",
+            "result": "店名地址匹配，商店11–21，餐廳11–22:30，不定期休館。"
+          }
+        ],
+        "findings": "HEP FIVE官方Access與既有大阪市北區角田町5-15匹配；商場、餐廳、遊樂及摩天輪分開列時段，不將單店時間當作全館。"
+      }
     },
     {
       "id": "nakazakicho--p_75420c1c9ffb6b12",
       "name": "梅田EST",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "大阪府大阪市北区角田町3-25",
+      "group": "shops",
+      "categoryLabel": "購物商場",
+      "caption": "購物商場・大阪府大阪市北区角田町3-25。",
       "descriptionParagraphs": [
-        "「梅田EST」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「梅田EST」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物商場。地址紀錄為 大阪府大阪市北区角田町3-25。",
+        "來源包括老辣妹、Travel Seeker /夫婦の旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -80,9 +116,17 @@
           "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
           "time": "4:04",
           "seconds": 244
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "NMzbHSwVfSU",
+          "title": "超好買【梅田最完整購物地圖】大阪車站必買必去🇯🇵看完不再迷路｜大阪梅田購物攻略｜",
+          "url": "https://www.youtube.com/watch?v=NMzbHSwVfSU",
+          "time": "15:54",
+          "seconds": 954
         }
       ],
-      "official": null,
+      "official": "https://www.est-sc.com/access/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -104,7 +148,27 @@
         "href": "/walks/umeda/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「梅田EST」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物商場。地址紀錄為 大阪府大阪市北区角田町3-25。\n\n來源包括老辣妹、Travel Seeker /夫婦の旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_75420c1c9ffb6b12"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://www.est-sc.com/access/",
+            "checkedAt": "2026-10-28",
+            "result": "EST官方商場頁匹配大阪市北區角田町3-25；不同店鋪時段不統一，未設定通用時間。"
+          }
+        ],
+        "findings": "EST官方商場頁匹配大阪市北區角田町3-25；不同店鋪時段不統一，未設定通用時間。"
+      }
     },
     {
       "id": "nakazakicho--p_e078f000f87057e6",
@@ -112,10 +176,10 @@
       "address": "大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内。",
       "descriptionParagraphs": [
-        "「タリーズコーヒー 阪急大阪梅田駅3F店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「タリーズコーヒー 阪急大阪梅田駅3F店」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物。地址紀錄為 大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "位於阪急大阪梅田站3樓閘內，須持有效乘車票或符合站方入場規定；請先確認入場方式。",
       "coordinate": {
@@ -156,7 +220,16 @@
         "href": "/walks/umeda/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「タリーズコーヒー 阪急大阪梅田駅3F店」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物。地址紀錄為 大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e078f000f87057e6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

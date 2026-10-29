@@ -222,7 +222,34 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 1
+      "displayOrder": 1,
+      "visitingHours": {
+        "summary": "09:00–19:00・無固定公休",
+        "note": "最後點餐 18:30；官方列無定休日，臨時調整以店方公告為準。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://www.fromafar-tokyo.com/marble",
+        "sourceLabel": "marble 官方店舖頁",
+        "sources": [
+          {
+            "url": "https://www.fromafar-tokyo.com/marble",
+            "label": "marble 官方店舖頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前4-1-4 トマック第3ビル1F",
+        "findings": "核對 marble，地址 東京都台東区蔵前4-1-4 トマック第3ビル1F。最後點餐 18:30；官方列無定休日，臨時調整以店方公告為準。",
+        "sources": [
+          {
+            "url": "https://www.fromafar-tokyo.com/marble",
+            "title": "marble 官方店舖頁",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前4-1-4 1F；9–19，最後點餐18:30，無定休日。"
+          }
+        ]
+      }
     },
     {
       "id": "p_40162bcb1904fe28",
@@ -287,7 +314,34 @@
           "https://fromafar.stores.jp/about"
         ]
       },
-      "displayOrder": 2
+      "displayOrder": 2,
+      "visitingHours": {
+        "summary": "12:00–19:00・週一休（逢日本國定假日營業）",
+        "note": "此時段為東京藏前店；兵庫工廠店採不同時段。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://hibi-jp.com/en/shop.php",
+        "sourceLabel": "hibi 官方東京店資訊",
+        "sources": [
+          {
+            "url": "https://hibi-jp.com/en/shop.php",
+            "label": "hibi 官方東京店資訊"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前4-4-8 田中ビル1F",
+        "findings": "核對 hibi 10MINUTES AROMA STORE TOKYO，地址 東京都台東区蔵前4-4-8 田中ビル1F。此時段為東京藏前店；兵庫工廠店採不同時段。",
+        "sources": [
+          {
+            "url": "https://hibi-jp.com/en/shop.php",
+            "title": "hibi 官方東京店資訊",
+            "checkedAt": "2026-10-28",
+            "result": "Tanaka Building 1F、蔵前4-4-8；週二至日12–19，週一休，國定假日除外。"
+          }
+        ]
+      }
     },
     {
       "id": "p_32eedb3b96b57916",
@@ -351,7 +405,44 @@
           "https://fromafar.stores.jp/about"
         ]
       },
-      "displayOrder": 3
+      "displayOrder": 3,
+      "visitingHours": {
+        "summary": "09:30–17:00・週六、日及日本國定假日休",
+        "note": "官方公司概要與交通頁的地址、休業日一致。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://www.mizukiya.jp/profile.html",
+        "sourceLabel": "水木屋馬場商店官方資訊",
+        "sources": [
+          {
+            "url": "https://www.mizukiya.jp/profile.html",
+            "label": "水木屋馬場商店官方資訊"
+          },
+          {
+            "url": "https://www.mizukiya.jp/map.html",
+            "label": "水木屋馬場商店交通頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前4-6-7",
+        "findings": "核對 水木屋馬場商店，地址 東京都台東区蔵前4-6-7。官方公司概要與交通頁的地址、休業日一致。",
+        "sources": [
+          {
+            "url": "https://www.mizukiya.jp/profile.html",
+            "title": "水木屋馬場商店官方資訊",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前4-6-7；9:30–17，土日祝休。"
+          },
+          {
+            "url": "https://www.mizukiya.jp/map.html",
+            "title": "水木屋馬場商店交通頁",
+            "checkedAt": "2026-10-28",
+            "result": "同址，明列土日祝休。"
+          }
+        ]
+      }
     },
     {
       "id": "p_4587f83ff726cc8b",
@@ -426,7 +517,34 @@
         ],
         "findings": "官方分別列藏前外帶店與休業中的CAFE；食べログ同地址頁含過去內用紀錄，並非內用現況確認。依官方標示保留外帶、明確提示內用休業。"
       },
-      "displayOrder": 4
+      "displayOrder": 4,
+      "visitingHours": {
+        "summary": "外帶 11:00–18:00・週一休",
+        "note": "此為藏前外帶店時段；同址 KURAMAE CANNELE CAFE 仍標示休業中，不可據此安排內用。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://www.kuramae-cannele.jp/shops/",
+        "sourceLabel": "KURAMAE CANNELE 官方店舖頁",
+        "sources": [
+          {
+            "url": "https://www.kuramae-cannele.jp/shops/",
+            "label": "KURAMAE CANNELE 官方店舖頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前2-1-23 蔵前第2ビルヂング",
+        "findings": "核對 KURAMAE CANNELE，地址 東京都台東区蔵前2-1-23 蔵前第2ビルヂング。此為藏前外帶店時段；同址 KURAMAE CANNELE CAFE 仍標示休業中，不可據此安排內用。",
+        "sources": [
+          {
+            "url": "https://www.kuramae-cannele.jp/shops/",
+            "title": "KURAMAE CANNELE 官方店舖頁",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前2-1-23，外帶11–18週一休；CAFE休業中，與上野店分開列。"
+          }
+        ]
+      }
     },
     {
       "id": "p_2faa023ac911baa6",
@@ -498,7 +616,34 @@
           "https://www.fromafar-tokyo.com/kissahangetsu"
         ]
       },
-      "displayOrder": 5
+      "displayOrder": 5,
+      "visitingHours": {
+        "summary": "09:00–19:00・無固定公休",
+        "note": "09:00–11:30 為早餐時段；11:30 起供應咖啡菜單，最後點餐 18:30。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://www.fromafar-tokyo.com/kissahangetsu",
+        "sourceLabel": "喫茶半月官方店舖頁",
+        "sources": [
+          {
+            "url": "https://www.fromafar-tokyo.com/kissahangetsu",
+            "label": "喫茶半月官方店舖頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前4-14-11 ウグイスビル103",
+        "findings": "核對 喫茶半月，地址 東京都台東区蔵前4-14-11 ウグイスビル103。09:00–11:30 為早餐時段；11:30 起供應咖啡菜單，最後點餐 18:30。",
+        "sources": [
+          {
+            "url": "https://www.fromafar-tokyo.com/kissahangetsu",
+            "title": "喫茶半月官方店舖頁",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前4-14-11 103；無定休日，9–11:30早餐、11:30–19咖啡菜單，LO18:30。"
+          }
+        ]
+      }
     },
     {
       "id": "p_755e902f96d154b8",
@@ -555,7 +700,34 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 6
+      "displayOrder": 6,
+      "visitingHours": {
+        "summary": "12:00–18:00・週三休、週二不定休",
+        "note": "週二是否營業請先查看店方公告；與同棟 103 的喫茶半月分開核對。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://frobergue.storeinfo.jp/pages/8304/About",
+        "sourceLabel": "Frobergue 官方店舖頁",
+        "sources": [
+          {
+            "url": "https://frobergue.storeinfo.jp/pages/8304/About",
+            "label": "Frobergue 官方店舖頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前4-14-11 ウグイスビル101",
+        "findings": "核對 Frobergue，地址 東京都台東区蔵前4-14-11 ウグイスビル101。週二是否營業請先查看店方公告；與同棟 103 的喫茶半月分開核對。",
+        "sources": [
+          {
+            "url": "https://frobergue.storeinfo.jp/pages/8304/About",
+            "title": "Frobergue 官方店舖頁",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前4-14-11 101；12–18，水曜休、火曜不定休。"
+          }
+        ]
+      }
     },
     {
       "id": "p_5ab99f7b092e719f",
@@ -626,7 +798,44 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 7
+      "displayOrder": 7,
+      "visitingHours": {
+        "summary": "10:00–19:00・無固定公休",
+        "note": "官方與食べログ時段一致；年末年始及臨時休業另依官方公告。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://dandelionchocolate.jp/pages/factory-cafe-kuramae",
+        "sourceLabel": "Dandelion 官方藏前店資訊",
+        "sources": [
+          {
+            "url": "https://dandelionchocolate.jp/pages/factory-cafe-kuramae",
+            "label": "Dandelion 官方藏前店資訊"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13191976/",
+            "label": "食べログ・Dandelion 藏前店"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前4-14-6",
+        "findings": "核對 Dandelion Chocolate Factory & Cafe Kuramae，地址 東京都台東区蔵前4-14-6。官方與食べログ時段一致；年末年始及臨時休業另依官方公告。",
+        "sources": [
+          {
+            "url": "https://dandelionchocolate.jp/pages/factory-cafe-kuramae",
+            "title": "Dandelion 官方藏前店資訊",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前4-14-6，10–19。"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13191976/",
+            "title": "食べログ・Dandelion 藏前店",
+            "checkedAt": "2026-10-28",
+            "result": "同址、電話03-5833-7270，10–19；無固定公休，休業時官網與SNS公告。"
+          }
+        ]
+      }
     },
     {
       "id": "p_4f678d160f4ac364",
@@ -695,7 +904,34 @@
           "https://www.fromafar-tokyo.com/kissahangetsu"
         ]
       },
-      "displayOrder": 8
+      "displayOrder": 8,
+      "visitingHours": {
+        "summary": "平日 11:00–16:00／週末、假日 10:00–17:30",
+        "note": "週一、週二公休，逢日本國定假日營業。此為藏前店，表參道店時段不同。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://store.coffee-wrights.jp/about",
+        "sourceLabel": "Coffee Wrights 官方分店資訊",
+        "sources": [
+          {
+            "url": "https://store.coffee-wrights.jp/about",
+            "label": "Coffee Wrights 官方分店資訊"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前4-20-2",
+        "findings": "核對 Coffee Wrights 蔵前，地址 東京都台東区蔵前4-20-2。週一、週二公休，逢日本國定假日營業。此為藏前店，表參道店時段不同。",
+        "sources": [
+          {
+            "url": "https://store.coffee-wrights.jp/about",
+            "title": "Coffee Wrights 官方分店資訊",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前4-20-2，平日11–16、土日祝10–17:30，月火休但祝日營業。"
+          }
+        ]
+      }
     },
     {
       "id": "p_91fd233286b858f4",
@@ -752,7 +988,50 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 9
+      "displayOrder": 9,
+      "visitingHours": {
+        "summary": "營業時段有差異・定休日待確認",
+        "note": "兩個官方頁分別列 10:00–18:00 與 11:00–19:00，未能確認哪份較新。官方 Instagram 本次無法讀取，出發前請向藏前店確認。",
+        "status": "conflict",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://joli-qube.jp/?mode=f76",
+        "sourceLabel": "JOLI 官方商店頁",
+        "sources": [
+          {
+            "url": "https://joli-qube.jp/?mode=f76",
+            "label": "JOLI 官方商店頁"
+          },
+          {
+            "url": "https://www.joli-chaussures.com/kuramae.html",
+            "label": "JOLI 品牌官方藏前店頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前4-21-2 蔵前MORIビル1F＆4F",
+        "findings": "核對 JOLI ALL LEATHER ITEMS 蔵前，地址 東京都台東区蔵前4-21-2 蔵前MORIビル1F＆4F。兩個官方頁分別列 10:00–18:00 與 11:00–19:00，未能確認哪份較新。官方 Instagram 本次無法讀取，出發前請向藏前店確認。",
+        "sources": [
+          {
+            "url": "https://joli-qube.jp/?mode=f76",
+            "title": "JOLI 官方商店頁",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前4-21-2 1F＆4F，10–18。"
+          },
+          {
+            "url": "https://www.joli-chaussures.com/kuramae.html",
+            "title": "JOLI 品牌官方藏前店頁",
+            "checkedAt": "2026-10-28",
+            "result": "同址同分店，11–19，與官方商店頁不同。"
+          },
+          {
+            "url": "https://www.instagram.com/joli_kuramae/",
+            "title": "JOLI 藏前官方 Instagram",
+            "checkedAt": "2026-10-28",
+            "result": "由品牌官方頁連出；讀取失敗，無法用於排除時段衝突。"
+          }
+        ]
+      }
     },
     {
       "id": "chigaya",
@@ -830,7 +1109,34 @@
           "https://www.locationbox.metro.tokyo.lg.jp/catalog/7832/"
         ]
       },
-      "displayOrder": 10
+      "displayOrder": 10,
+      "visitingHours": {
+        "summary": "08:00–18:30・定休日待確認",
+        "note": "核對的是搬遷後蔵前 4-29-3 店址；食べログ每日欄列相同時段，但未明列定休日，不沿用鳥越舊店時段。",
+        "status": "partial",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://tabelog.com/tokyo/A1311/A131103/13314958/",
+        "sourceLabel": "食べログ・chigaya 藏前現店",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13314958/",
+            "label": "食べログ・chigaya 藏前現店"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前4-29-3",
+        "findings": "核對 chigaya kuramae，地址 東京都台東区蔵前4-29-3。核對的是搬遷後蔵前 4-29-3 店址；食べログ每日欄列相同時段，但未明列定休日，不沿用鳥越舊店時段。",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13314958/",
+            "title": "食べログ・chigaya 藏前現店",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前4-29-3，2025-10-11開店、由鳥越2-8-11搬遷，8–18:30。"
+          }
+        ]
+      }
     },
     {
       "id": "nobori",
@@ -895,7 +1201,34 @@
           "https://fromafar.stores.jp/about"
         ]
       },
-      "displayOrder": 11
+      "displayOrder": 11,
+      "visitingHours": {
+        "summary": "11:00–19:00・無固定公休",
+        "note": "官方店舖頁列無定休日；臨時調整依店方公告。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://www.fromafar-tokyo.com/nobori",
+        "sourceLabel": "道具屋 nobori 官方店舖頁",
+        "sources": [
+          {
+            "url": "https://www.fromafar-tokyo.com/nobori",
+            "label": "道具屋 nobori 官方店舖頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿3-7-1 寿町フラワーホーム1F",
+        "findings": "核對 道具屋 nobori，地址 東京都台東区寿3-7-1 寿町フラワーホーム1F。官方店舖頁列無定休日；臨時調整依店方公告。",
+        "sources": [
+          {
+            "url": "https://www.fromafar-tokyo.com/nobori",
+            "title": "道具屋 nobori 官方店舖頁",
+            "checkedAt": "2026-10-28",
+            "result": "寿3-7-1 1F，11–19，無定休日。"
+          }
+        ]
+      }
     },
     {
       "id": "p_765b0f07994197bb",
@@ -951,7 +1284,44 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 12
+      "displayOrder": 12,
+      "visitingHours": {
+        "summary": "08:30–17:30・無固定公休",
+        "note": "官方集團頁確認此為壽 3-5-9 的第五店 Blucca；時段依同址食べログ頁，不套用淺草 3-1-1 分店。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://tabelog.com/tokyo/A1311/A131103/13289305/",
+        "sourceLabel": "食べログ・Blucca",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13289305/",
+            "label": "食べログ・Blucca"
+          },
+          {
+            "url": "https://febscoffee.thebase.in/about",
+            "label": "FEBRUARY GROUP 官方分店頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿3-5-9",
+        "findings": "核對 feb’s coffee&scone Blucca店，地址 東京都台東区寿3-5-9。官方集團頁確認此為壽 3-5-9 的第五店 Blucca；時段依同址食べログ頁，不套用淺草 3-1-1 分店。",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13289305/",
+            "title": "食べログ・Blucca",
+            "checkedAt": "2026-10-28",
+            "result": "寿3-5-9，8:30–17:30，明列已改為無定休日。"
+          },
+          {
+            "url": "https://febscoffee.thebase.in/about",
+            "title": "FEBRUARY GROUP 官方分店頁",
+            "checkedAt": "2026-10-28",
+            "result": "第五店 feb’s coffee&scone Blucca，寿3-5-9；與淺草其他分店分列。"
+          }
+        ]
+      }
     },
     {
       "id": "p_614823c1d1799627",
@@ -1005,7 +1375,44 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 13
+      "displayOrder": 13,
+      "visitingHours": {
+        "summary": "08:00–15:00・週一、二休（逢日本國定假日營業）",
+        "note": "核對藏前壽 3-13-4 現店；官網確認由谷中搬遷，營業時段採同址食べログ記載。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://tabelog.com/tokyo/A1311/A131103/13311945/",
+        "sourceLabel": "食べログ・Le bage 現店",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13311945/",
+            "label": "食べログ・Le bage 現店"
+          },
+          {
+            "url": "https://lebage.theshop.jp/about",
+            "label": "Le bage 官方店舖資訊"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿3-13-4",
+        "findings": "核對 Le bage，地址 東京都台東区寿3-13-4。核對藏前壽 3-13-4 現店；官網確認由谷中搬遷，營業時段採同址食べログ記載。",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13311945/",
+            "title": "食べログ・Le bage 現店",
+            "checkedAt": "2026-10-28",
+            "result": "寿3-13-4，8–15，月火休但祝日營業。"
+          },
+          {
+            "url": "https://lebage.theshop.jp/about",
+            "title": "Le bage 官方店舖資訊",
+            "checkedAt": "2026-10-28",
+            "result": "2025年8月由谷中搬遷，現址寿3-13-4，電話070-8528-7726。"
+          }
+        ]
+      }
     },
     {
       "id": "tomei",
@@ -1069,7 +1476,54 @@
           "https://www.locationbox.metro.tokyo.lg.jp/catalog/7832/"
         ]
       },
-      "displayOrder": 14
+      "displayOrder": 14,
+      "visitingHours": {
+        "summary": "24 小時・有人服務週一、四至日 12:00–19:00",
+        "note": "其餘時段為無人營業，無人時段不收現金。活動期間可能調整；週二、週三是無人營業，不能當作全店公休日。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://corp.freee.co.jp/news/20250411TomeiBookstore_openhours.html",
+        "sourceLabel": "freee 官方透明書店營業公告",
+        "sources": [
+          {
+            "url": "https://corp.freee.co.jp/news/20250411TomeiBookstore_openhours.html",
+            "label": "freee 官方透明書店營業公告"
+          },
+          {
+            "url": "https://note.freee.co.jp/n/n44ca6e959abb",
+            "label": "freee 官方透明書店紀錄"
+          },
+          {
+            "url": "https://note.freee.co.jp/n/ncca1c6f43b86",
+            "label": "freee 官方 2026 年 9 月營運日誌"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿3-13-14 1F",
+        "findings": "核對 透明書店，地址 東京都台東区寿3-13-14 1F。其餘時段為無人營業，無人時段不收現金。活動期間可能調整；週二、週三是無人營業，不能當作全店公休日。",
+        "sources": [
+          {
+            "url": "https://corp.freee.co.jp/news/20250411TomeiBookstore_openhours.html",
+            "title": "freee 官方透明書店營業公告",
+            "checkedAt": "2026-10-28",
+            "result": "寿3-13-14 1F；2025-4-11啟用無人營業，有人月木金土日12–19，其餘時間無人、現金不可。"
+          },
+          {
+            "url": "https://note.freee.co.jp/n/n44ca6e959abb",
+            "title": "freee 官方透明書店紀錄",
+            "checkedAt": "2026-10-28",
+            "result": "引述2025-12店方公告24小時全年無休。"
+          },
+          {
+            "url": "https://note.freee.co.jp/n/ncca1c6f43b86",
+            "title": "freee 官方 2026 年 9 月營運日誌",
+            "checkedAt": "2026-10-28",
+            "result": "2026-10刊出9月下半月日誌，確認仍有24小時及無人銷售。"
+          }
+        ]
+      }
     },
     {
       "id": "p_2ca59cf0ccfab515",
@@ -1125,7 +1579,34 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 15
+      "displayOrder": 15,
+      "visitingHours": {
+        "summary": "11:00–18:00・週三休",
+        "note": "食べログ同址店家頁所列；臨時調整與預約資訊請查看店方公告。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://tabelog.com/tokyo/A1311/A131102/13235744/",
+        "sourceLabel": "食べログ・HATCOFFEE",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13235744/",
+            "label": "食べログ・HATCOFFEE"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿3-15-6",
+        "findings": "核對 HATCOFFEE，地址 東京都台東区寿3-15-6。食べログ同址店家頁所列；臨時調整與預約資訊請查看店方公告。",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13235744/",
+            "title": "食べログ・HATCOFFEE",
+            "checkedAt": "2026-10-28",
+            "result": "寿3-15-6，11–18，水曜休。"
+          }
+        ]
+      }
     },
     {
       "id": "kuramae--p_395efc3f319ac2e1",
@@ -1195,7 +1676,29 @@
         "findings": "公司官方索引的地址與原始紀錄駒形1-4-8相符。公司概要直接讀取時為維護頁，未承諾當日可入館；保守標示外觀參觀。"
       },
       "recommendation": null,
-      "displayOrder": 16
+      "displayOrder": 16,
+      "visitingHours": {
+        "summary": "外觀停留・館內開放時段待確認",
+        "note": "以建築外觀為停留點；官方參觀頁目前轉至維護頁，無法確認館內時段，不將公司上班時間當成參觀時間。",
+        "status": "pending",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://www.bandai.co.jp/recruit/faq/",
+        "sourceLabel": "萬代官方參觀資訊",
+        "sources": []
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区駒形1-4-8",
+        "findings": "核對 萬代總部（BANDAI），地址 東京都台東区駒形1-4-8。以建築外觀為停留點；官方參觀頁目前轉至維護頁，無法確認館內時段，不將公司上班時間當成參觀時間。",
+        "sources": [
+          {
+            "url": "https://www.bandai.co.jp/recruit/faq/",
+            "title": "萬代官方參觀資訊",
+            "checkedAt": "2026-10-28",
+            "result": "原既有參觀來源，讀取時轉至官方維護頁，未取得現行開放時間；沿用先前駒形1-4-8地址核對。"
+          }
+        ]
+      }
     },
     {
       "id": "p_088547dbd6fad237",
@@ -1251,7 +1754,34 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 17
+      "displayOrder": 17,
+      "visitingHours": {
+        "summary": "11:00–20:30・休業日依每月公告",
+        "note": "最後點餐 20:00；官方逐月公告休業日，並非固定每週公休，請出發前確認當月清單。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://dozeu.com/table/",
+        "sourceLabel": "駒形どぜう本店官方資訊",
+        "sources": [
+          {
+            "url": "https://dozeu.com/table/",
+            "label": "駒形どぜう本店官方資訊"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区駒形1-7-12",
+        "findings": "核對 駒形どぜう 本店，地址 東京都台東区駒形1-7-12。最後點餐 20:00；官方逐月公告休業日，並非固定每週公休，請出發前確認當月清單。",
+        "sources": [
+          {
+            "url": "https://dozeu.com/table/",
+            "title": "駒形どぜう本店官方資訊",
+            "checkedAt": "2026-10-28",
+            "result": "駒形1-7-12，11–20:30、LO20，網站列逐月休業日期。"
+          }
+        ]
+      }
     },
     {
       "id": "p_0baebe3d3ec9b05c",
@@ -1305,7 +1835,40 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 18
+      "displayOrder": 18,
+      "visitingHours": {
+        "summary": "10:00–19:00・定休日待確認",
+        "note": "食べログ同址淺草駒形店各日欄列相同時段，未明列公休日；官網本次未傳回可讀內容。",
+        "status": "partial",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://tabelog.com/tokyo/A1311/A131102/13032272/",
+        "sourceLabel": "食べログ・興伸淺草駒形店",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13032272/",
+            "label": "食べログ・興伸淺草駒形店"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区駒形2-6-6",
+        "findings": "核對 おいもやさん興伸 浅草駒形店，地址 東京都台東区駒形2-6-6。食べログ同址淺草駒形店各日欄列相同時段，未明列公休日；官網本次未傳回可讀內容。",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13032272/",
+            "title": "食べログ・興伸淺草駒形店",
+            "checkedAt": "2026-10-28",
+            "result": "駒形2-6-6，10–19，未明列定休日。"
+          },
+          {
+            "url": "https://oimoyasan.com/",
+            "title": "興伸官方網站",
+            "checkedAt": "2026-10-28",
+            "result": "讀取回應無可讀文字，無法確認分店定休日。"
+          }
+        ]
+      }
     },
     {
       "id": "p_f858fe6d8b9f148d",
@@ -1361,7 +1924,34 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 19
+      "displayOrder": 19,
+      "visitingHours": {
+        "summary": "11:00–19:00・定休日待確認",
+        "note": "KONCENT 官方分店頁確認駒形 2-6-10 現址與時段，未列固定公休日。",
+        "status": "partial",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://koncent.jp/blog/shop",
+        "sourceLabel": "KONCENT 官方分店資訊",
+        "sources": [
+          {
+            "url": "https://koncent.jp/blog/shop",
+            "label": "KONCENT 官方分店資訊"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区駒形2-6-10",
+        "findings": "核對 KONCENT 駒形本店，地址 東京都台東区駒形2-6-10。KONCENT 官方分店頁確認駒形 2-6-10 現址與時段，未列固定公休日。",
+        "sources": [
+          {
+            "url": "https://koncent.jp/blog/shop",
+            "title": "KONCENT 官方分店資訊",
+            "checkedAt": "2026-10-28",
+            "result": "KONCENT Komagata，駒形2-6-10，11–19；未列定休日。"
+          }
+        ]
+      }
     },
     {
       "id": "p_40d37e8b90f1d3a2",
@@ -1415,7 +2005,34 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 20
+      "displayOrder": 20,
+      "visitingHours": {
+        "summary": "12:00–18:30・週日休，另有不定休",
+        "note": "最後點餐 18:00；核對壽 4-12-6 現址，不沿用涉谷舊址時段。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://tabelog.com/tokyo/A1311/A131102/13267302/",
+        "sourceLabel": "食べログ・COFFEECOUNTER NISHIYA",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13267302/",
+            "label": "食べログ・COFFEECOUNTER NISHIYA"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿4-12-6",
+        "findings": "核對 COFFEECOUNTER NISHIYA，地址 東京都台東区寿4-12-6。最後點餐 18:00；核對壽 4-12-6 現址，不沿用涉谷舊址時段。",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13267302/",
+            "title": "食べログ・COFFEECOUNTER NISHIYA",
+            "checkedAt": "2026-10-28",
+            "result": "寿4-12-6，12–18:30、LO18；日休，另有不定休。"
+          }
+        ]
+      }
     },
     {
       "id": "kuramae--p_92942cbf86942e65",
@@ -1497,7 +2114,50 @@
         "findings": "官方與食べログ新店家頁均為壽4-7-11、電話03-5830-3863。舊頁13148629標示リニューアル並指向13237318；不是閉店。官方列8:30–17:00，食べログ週三四16:00、週五16:30結束，故標示時間待確認。"
       },
       "recommendation": null,
-      "displayOrder": 21
+      "displayOrder": 21,
+      "visitingHours": {
+        "summary": "08:30 起・週一、二休，結束時間待確認",
+        "note": "官網列 08:30–17:00；食べログ列週三、四至 16:00、週五至 16:30、週末至 17:00。官網另列公休逢日本國定假日營業。官方 Instagram 本次無法讀取，差異仍待確認。",
+        "status": "conflict",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://www.iriyapluscafe.jp/",
+        "sourceLabel": "iriya plus café 官方分店資訊",
+        "sources": [
+          {
+            "url": "https://www.iriyapluscafe.jp/",
+            "label": "iriya plus café 官方分店資訊"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13237318/",
+            "label": "食べログ・iriya plus café 倉庫店"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿4-7-11",
+        "findings": "核對 イリヤプラスカフェ カスタム倉庫 （iriya plus cafe），地址 東京都台東区寿4-7-11。官網列 08:30–17:00；食べログ列週三、四至 16:00、週五至 16:30、週末至 17:00。官網另列公休逢日本國定假日營業。官方 Instagram 本次無法讀取，差異仍待確認。",
+        "sources": [
+          {
+            "url": "https://www.iriyapluscafe.jp/",
+            "title": "iriya plus café 官方分店資訊",
+            "checkedAt": "2026-10-28",
+            "result": "倉庫店寿4-7-11、03-5830-3863，8:30–17，月火休、祝日營業。"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13237318/",
+            "title": "食べログ・iriya plus café 倉庫店",
+            "checkedAt": "2026-10-28",
+            "result": "同址同電話；水木8:30–16、金8:30–16:30、土日8:30–17，月火休。"
+          },
+          {
+            "url": "https://www.instagram.com/iriya_plus_cafe/",
+            "title": "iriya plus café 官方 Instagram",
+            "checkedAt": "2026-10-28",
+            "result": "由官網連出；讀取失敗，未能排除差異。"
+          }
+        ]
+      }
     },
     {
       "id": "p_7ea40bdd99c4bed6",
@@ -1551,7 +2211,34 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 22
+      "displayOrder": 22,
+      "visitingHours": {
+        "summary": "08:00–17:00・週日休",
+        "note": "售完可能提早結束；夏季、年末年初另有特別休業日。此為麵包店，與附近 Pelican CAFE 時段不同。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://bakerpelican.com/shop.html",
+        "sourceLabel": "パンのペリカン官方店舖資訊",
+        "sources": [
+          {
+            "url": "https://bakerpelican.com/shop.html",
+            "label": "パンのペリカン官方店舖資訊"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿4-7-4",
+        "findings": "核對 パンのペリカン，地址 東京都台東区寿4-7-4。售完可能提早結束；夏季、年末年初另有特別休業日。此為麵包店，與附近 Pelican CAFE 時段不同。",
+        "sources": [
+          {
+            "url": "https://bakerpelican.com/shop.html",
+            "title": "パンのペリカン官方店舖資訊",
+            "checkedAt": "2026-10-28",
+            "result": "寿4-7-4；月土8–17、日及特別休業日休、售完可能提早關門。"
+          }
+        ]
+      }
     },
     {
       "id": "kuramae--p_3f9cc41e4c83b0e5",
@@ -1627,7 +2314,50 @@
         "findings": "核對地址壽2-4-8與官方2-4-8-101、電話070-2434-1818相同。食べログ分類ピザ，應歸food。官方平日21:00／週末17:00，食べログ按日列18:00、20:30、16:30、16:00，未證實哪方較新。"
       },
       "recommendation": null,
-      "displayOrder": 23
+      "displayOrder": 23,
+      "visitingHours": {
+        "summary": "11:30 起・週二、三休，結束時間待確認",
+        "note": "官網列平日至 21:00、週末至 17:00；食べログ列週一至 18:00、週四五至 20:30、週六至 16:30、週日至 16:00。官方 Instagram 本次無法讀取，請先確認當日時段。",
+        "status": "conflict",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://maplepizza.jp/",
+        "sourceLabel": "Maple Pizza 官方店家資訊",
+        "sources": [
+          {
+            "url": "https://maplepizza.jp/",
+            "label": "Maple Pizza 官方店家資訊"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13273711/",
+            "label": "食べログ・Maple Pizza"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿2-4-8-101",
+        "findings": "核對 Maple Pizza，地址 東京都台東区寿2-4-8-101。官網列平日至 21:00、週末至 17:00；食べログ列週一至 18:00、週四五至 20:30、週六至 16:30、週日至 16:00。官方 Instagram 本次無法讀取，請先確認當日時段。",
+        "sources": [
+          {
+            "url": "https://maplepizza.jp/",
+            "title": "Maple Pizza 官方店家資訊",
+            "checkedAt": "2026-10-28",
+            "result": "寿2-4-8-101、070-2434-1818；平日11:30–21、週末11:30–17，火水休。"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13273711/",
+            "title": "食べログ・Maple Pizza",
+            "checkedAt": "2026-10-28",
+            "result": "同址電話相符；月11:30–18、木金11:30–20:30、土11:30–16:30、日11:30–16、火水休。"
+          },
+          {
+            "url": "https://www.instagram.com/maplepizza_/",
+            "title": "Maple Pizza 官方 Instagram",
+            "checkedAt": "2026-10-28",
+            "result": "由官網連出；讀取失敗，未能排除衝突。"
+          }
+        ]
+      }
     },
     {
       "id": "asakusa--p_9c6c24dfaccc3455",
@@ -1712,7 +2442,40 @@
         "findings": "建築師的原始作品紀錄確認木材倉庫改裝；店主署名文章與東京Metro店家介紹均列壽2-4-7。官網https://readinwritin.net/兩次逾時，未據此判定閉店；不將歷史營業時間寫成現況。非餐飲店，使用建築師與店主的一手資料。"
       },
       "recommendation": null,
-      "displayOrder": 24
+      "displayOrder": 24,
+      "visitingHours": {
+        "summary": "12:00–18:00・週一、二休",
+        "note": "依《裝苑》2026 年店主採訪及同址店家資料；店方官網本次讀取失敗，臨時調整仍請確認店方公告。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://soen.tokyo/lifestyle/tokyo-bookshop-readinwritin260818/",
+        "sourceLabel": "裝苑・Readin’ Writin’ 店主採訪",
+        "sources": [
+          {
+            "url": "https://soen.tokyo/lifestyle/tokyo-bookshop-readinwritin260818/",
+            "label": "裝苑・Readin’ Writin’ 店主採訪"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿2-4-7",
+        "findings": "核對 Readin’ Writin’ BOOK STORE，地址 東京都台東区寿2-4-7。依《裝苑》2026 年店主採訪及同址店家資料；店方官網本次讀取失敗，臨時調整仍請確認店方公告。",
+        "sources": [
+          {
+            "url": "https://soen.tokyo/lifestyle/tokyo-bookshop-readinwritin260818/",
+            "title": "裝苑・Readin’ Writin’ 店主採訪",
+            "checkedAt": "2026-10-28",
+            "result": "2026年店主採訪；寿2-4-7、12–18、月火休；文末WEB誤指他店shelf，未採用該連結。"
+          },
+          {
+            "url": "https://readinwritin.net/",
+            "title": "Readin’ Writin’ 官方網站",
+            "checkedAt": "2026-10-28",
+            "result": "502讀取失敗，未用此回應判斷店家營業狀態。"
+          }
+        ]
+      }
     },
     {
       "id": "p_58015a8c60b78515",
@@ -1768,7 +2531,34 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 25
+      "displayOrder": 25,
+      "visitingHours": {
+        "summary": "12:00–15:30・週日、一休",
+        "note": "09:00–18:00 是電話預約受理時間，店面販售時段為 12:00–15:30。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://www.lemonpie-asakusa.com/",
+        "sourceLabel": "洋菓子レモンパイ官方店舖資訊",
+        "sources": [
+          {
+            "url": "https://www.lemonpie-asakusa.com/",
+            "label": "洋菓子レモンパイ官方店舖資訊"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿2-4-6",
+        "findings": "核對 洋菓子レモンパイ，地址 東京都台東区寿2-4-6。09:00–18:00 是電話預約受理時間，店面販售時段為 12:00–15:30。",
+        "sources": [
+          {
+            "url": "https://www.lemonpie-asakusa.com/",
+            "title": "洋菓子レモンパイ官方店舖資訊",
+            "checkedAt": "2026-10-28",
+            "result": "寿2-4-6；販售12–15:30、電話預約9–18，日月休。"
+          }
+        ]
+      }
     },
     {
       "id": "p_5134c4a12795d5bd",
@@ -1831,7 +2621,40 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 26
+      "displayOrder": 26,
+      "visitingHours": {
+        "summary": "09:00–17:00・週日休",
+        "note": "夏季、年末年初另有特別休業日；依食べログ壽 3-9-11 咖啡店資料，官方淺草店頁本次讀取逾時。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://tabelog.com/tokyo/A1311/A131103/13212182/",
+        "sourceLabel": "食べログ・Pelican CAFE 淺草店",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13212182/",
+            "label": "食べログ・Pelican CAFE 淺草店"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿3-9-11",
+        "findings": "核對 ペリカンカフェ 浅草店，地址 東京都台東区寿3-9-11。夏季、年末年初另有特別休業日；依食べログ壽 3-9-11 咖啡店資料，官方淺草店頁本次讀取逾時。",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13212182/",
+            "title": "食べログ・Pelican CAFE 淺草店",
+            "checkedAt": "2026-10-28",
+            "result": "寿3-9-11 1F；月土9–17、日及特別休業日休。"
+          },
+          {
+            "url": "https://asakusa.pelicancafe.jp/",
+            "title": "Pelican CAFE 淺草官方頁",
+            "checkedAt": "2026-10-28",
+            "result": "兩次讀取逾時，採同址食べログ店家資訊。"
+          }
+        ]
+      }
     },
     {
       "id": "p_9e11b0025b540196",
@@ -1895,7 +2718,44 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 27
+      "displayOrder": 27,
+      "visitingHours": {
+        "summary": "社務所 09:00–16:00・境內開放時段待確認",
+        "note": "官方御朱印頁列社務所受理時段；御朱印受理另有時間與人員限制，不等同境內開放時間。公休與當日授與方式請確認官方公告。",
+        "status": "partial",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://kuramaejinja.tokyo/?page_id=1158",
+        "sourceLabel": "藏前神社官方御朱印資訊",
+        "sources": [
+          {
+            "url": "https://kuramaejinja.tokyo/?page_id=1158",
+            "label": "藏前神社官方御朱印資訊"
+          },
+          {
+            "url": "https://kuramaejinja.tokyo/",
+            "label": "藏前神社官方首頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前3-14-11",
+        "findings": "核對 藏前神社，地址 東京都台東区蔵前3-14-11。官方御朱印頁列社務所受理時段；御朱印受理另有時間與人員限制，不等同境內開放時間。公休與當日授與方式請確認官方公告。",
+        "sources": [
+          {
+            "url": "https://kuramaejinja.tokyo/?page_id=1158",
+            "title": "藏前神社官方御朱印資訊",
+            "checkedAt": "2026-10-28",
+            "result": "社務所9–16；直書9:30–13:30、書置9:30起售完止，人員可能外出，另有期間書置限定。"
+          },
+          {
+            "url": "https://kuramaejinja.tokyo/",
+            "title": "藏前神社官方首頁",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前3-14-11，未列完整境內開放時段。"
+          }
+        ]
+      }
     },
     {
       "id": "bark",
@@ -1957,7 +2817,50 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 28
+      "displayOrder": 28,
+      "visitingHours": {
+        "summary": "08:00 起・部分日期結束時間待確認",
+        "note": "食べログ列週四至 17:00、其他日至 19:00；東京都交通局 2025 年介紹列週一至三至 19:00、週五至日至 17:00，並寫無休。官方 Instagram 本次無法讀取，差異與公休安排待確認。",
+        "status": "conflict",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://tabelog.com/tokyo/A1311/A131103/13298861/",
+        "sourceLabel": "食べログ・BARK",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13298861/",
+            "label": "食べログ・BARK"
+          },
+          {
+            "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/magazine/fureai/web/column/2025-11/",
+            "label": "東京都交通局・BARK 採訪"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前3-13-4",
+        "findings": "核對 BARK BAKE & ROAST，地址 東京都台東区蔵前3-13-4。食べログ列週四至 17:00、其他日至 19:00；東京都交通局 2025 年介紹列週一至三至 19:00、週五至日至 17:00，並寫無休。官方 Instagram 本次無法讀取，差異與公休安排待確認。",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131103/13298861/",
+            "title": "食べログ・BARK",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前3-13-4，月火水金土日8–19，木8–17。"
+          },
+          {
+            "url": "https://www.kotsu.metro.tokyo.jp/pickup_information/magazine/fureai/web/column/2025-11/",
+            "title": "東京都交通局・BARK 採訪",
+            "checkedAt": "2026-10-28",
+            "result": "蔵前3-13-4，2025年11月介紹列月水8–19、金日8–17、無休，時段與食べログ不同且未列週四。"
+          },
+          {
+            "url": "https://www.instagram.com/bark_kuramae/",
+            "title": "BARK 官方 Instagram",
+            "checkedAt": "2026-10-28",
+            "result": "由採訪及食べログ列出；讀取失敗，差異無法解決。"
+          }
+        ]
+      }
     },
     {
       "id": "p_3be500963da21948",
@@ -2019,7 +2922,54 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 29
+      "displayOrder": 29,
+      "visitingHours": {
+        "summary": "咖啡 08:00–18:00／酒吧 18:00–翌日 00:30",
+        "note": "不定休。酒吧最後點餐 24:00；早午餐最後點餐平日 13:45、週末及日本國定假日 14:00。此為對外餐飲空間，非住宿櫃台時段。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://backpackersjapan.co.jp/nuihostel/cafe",
+        "sourceLabel": "Nui. 官方咖啡資訊",
+        "sources": [
+          {
+            "url": "https://backpackersjapan.co.jp/nuihostel/cafe",
+            "label": "Nui. 官方咖啡資訊"
+          },
+          {
+            "url": "https://backpackersjapan.co.jp/nuihostel/bardining",
+            "label": "Nui. 官方酒吧資訊"
+          },
+          {
+            "url": "https://backpackersjapan.co.jp/nuihostel/",
+            "label": "Nui. 官方首頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区蔵前2-14-13",
+        "findings": "核對 Nui. HOSTEL & BAR LOUNGE，地址 東京都台東区蔵前2-14-13。不定休。酒吧最後點餐 24:00；早午餐最後點餐平日 13:45、週末及日本國定假日 14:00。此為對外餐飲空間，非住宿櫃台時段。",
+        "sources": [
+          {
+            "url": "https://backpackersjapan.co.jp/nuihostel/cafe",
+            "title": "Nui. 官方咖啡資訊",
+            "checkedAt": "2026-10-28",
+            "result": "咖啡8–18、不定休，早午餐LO平日13:45、週末假日14。"
+          },
+          {
+            "url": "https://backpackersjapan.co.jp/nuihostel/bardining",
+            "title": "Nui. 官方酒吧資訊",
+            "checkedAt": "2026-10-28",
+            "result": "酒吧18–24:30、LO24、不定休。"
+          },
+          {
+            "url": "https://backpackersjapan.co.jp/nuihostel/",
+            "title": "Nui. 官方首頁",
+            "checkedAt": "2026-10-28",
+            "result": "核對同一旅舍附設一樓餐飲空間。"
+          }
+        ]
+      }
     },
     {
       "id": "p_8e426a44d227b5f9",
@@ -2075,7 +3025,34 @@
         "name": "藏前・田原町",
         "href": "/walks/kuramae/"
       },
-      "displayOrder": 30
+      "displayOrder": 30,
+      "visitingHours": {
+        "summary": "11:00–23:00・週一休（假日另調整）",
+        "note": "週一若為日本國定假日則營業，改週三休。餐點與飲料最後點餐 22:00；露台 21:30 最後點餐、22:00 結束，平日午餐套餐最後點餐 14:30。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://asage-kuramae.owst.jp/map",
+        "sourceLabel": "ASAGE CAFE 官方營運頁",
+        "sources": [
+          {
+            "url": "https://asage-kuramae.owst.jp/map",
+            "label": "ASAGE CAFE 官方營運頁"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区駒形2-1-5 1階",
+        "findings": "核對 ASAGE CAFE，地址 東京都台東区駒形2-1-5 1階。週一若為日本國定假日則營業，改週三休。餐點與飲料最後點餐 22:00；露台 21:30 最後點餐、22:00 結束，平日午餐套餐最後點餐 14:30。",
+        "sources": [
+          {
+            "url": "https://asage-kuramae.owst.jp/map",
+            "title": "ASAGE CAFE 官方營運頁",
+            "checkedAt": "2026-10-28",
+            "result": "駒形2-1-5 1F，火日至23、11時起；月休、月祝改水休；露台與午餐另列時段。"
+          }
+        ]
+      }
     },
     {
       "id": "kuramae--p_20eec8967837e7ad",
@@ -2382,10 +3359,10 @@
       "address": "4-chōme-6-9 Higashikomagata, Sumida City, Tokyo 130-0005",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：美味海鮮丼",
       "descriptionParagraphs": [
-        "「野口鮮魚店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 4-chōme-6-9 Higashikomagata, Sumida City, Tokyo 130-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「野口鮮魚店」的餐點筆記提到美味海鮮丼。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -2426,7 +3403,16 @@
         "name": "本所吾妻橋・東駒形",
         "href": "/walks/azumabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "原影片在「野口鮮魚店」的餐點筆記提到美味海鮮丼。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c55e83fd1938ebd0"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_a710bbb8b8d030ce",
@@ -2434,10 +3420,10 @@
       "address": "1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・1-chōme-1-9 Higashikomagata…。",
       "descriptionParagraphs": [
-        "「I'll」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「I'll」位於本次本所吾妻橋・東駒形收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -2476,7 +3462,16 @@
         "name": "本所吾妻橋・東駒形",
         "href": "/walks/azumabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「I'll」位於本次本所吾妻橋・東駒形收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a710bbb8b8d030ce"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_15d518ad81e7ddb0",
@@ -2484,10 +3479,10 @@
       "address": "2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・2-chōme-4-1 Torigoe。",
       "descriptionParagraphs": [
-        "「鳥越神社」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「鳥越神社」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為景點。地址紀錄為 2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -2528,7 +3523,16 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「鳥越神社」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為景點。地址紀錄為 2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_15d518ad81e7ddb0"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_9022b5fbb1b362ca",
@@ -2536,10 +3540,10 @@
       "address": "3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・3-chōme-4-4 Asakusabashi…。",
       "descriptionParagraphs": [
-        "「hamorebi coffee」出現在Hina Life in Japan、Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「hamorebi coffee」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053。",
+        "來源包括Hina Life in Japan、Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "淺草橋方向的延伸點；請另留步行時間。",
       "coordinate": {
@@ -2588,7 +3592,16 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「hamorebi coffee」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053。\n\n來源包括Hina Life in Japan、Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9022b5fbb1b362ca"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_27c24e65b79e6da4",
@@ -2596,10 +3609,10 @@
       "address": "1-chōme-28-9 Asakusabashi, Taito City, Tokyo 111-0053",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：腦天刺身飯、特製鹽味拉麵、招牌燒賣",
       "descriptionParagraphs": [
-        "「饗黑㐂」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-28-9 Asakusabashi, Taito City, Tokyo 111-0053。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「饗黑㐂」的餐點筆記提到腦天刺身飯、特製鹽味拉麵、招牌燒賣。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "淺草橋方向的延伸點；請另留步行時間。",
       "coordinate": {
@@ -2640,7 +3653,16 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "原影片在「饗黑㐂」的餐點筆記提到腦天刺身飯、特製鹽味拉麵、招牌燒賣。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_27c24e65b79e6da4"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_6160adafced6602d",
@@ -2648,10 +3670,10 @@
       "address": "日本〒111-0053 東京都台東區淺草橋 1 Chome−18",
       "group": "sights",
       "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
+      "caption": "交通・日本〒111-0053 東京都台東區淺草橋 1 Chome−18。",
       "descriptionParagraphs": [
-        "「淺草橋」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 日本〒111-0053 東京都台東區淺草橋 1 Chome−18。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「淺草橋」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為交通。地址紀錄為 日本〒111-0053 東京都台東區淺草橋 1 Chome−18。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "淺草橋方向的延伸點；請另留步行時間。",
       "coordinate": {
@@ -2692,7 +3714,16 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「淺草橋」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為交通。地址紀錄為 日本〒111-0053 東京都台東區淺草橋 1 Chome−18。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6160adafced6602d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_500aed5155361116",
@@ -2700,10 +3731,10 @@
       "address": "〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Lucite Gallery」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Lucite Gallery」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為景點。地址紀錄為 〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー。",
+        "來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -2742,7 +3773,16 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Lucite Gallery」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為景點。地址紀錄為 〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー。\n\n來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_500aed5155361116"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_fd0085ce79d57d3e",
@@ -2750,10 +3790,10 @@
       "address": "〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Pretty Good」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Pretty Good」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F。",
+        "來源包括Hina Life in Japan、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -2801,18 +3841,28 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Pretty Good」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F。\n\n來源包括Hina Life in Japan、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_fd0085ce79d57d3e",
+          "p_e418febe599fa95d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_5304d79ce902f709",
       "name": "ICHIBIKO KURAMAE",
       "address": "東京都台東区鳥越1-30-10",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区鳥越1-30-10。",
       "descriptionParagraphs": [
-        "「ICHIBIKO KURAMAE」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区鳥越1-30-10。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「ICHIBIKO KURAMAE」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区鳥越1-30-10。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -2857,18 +3907,27 @@
         "name": "淺草橋・鳥越",
         "href": "/walks/asakusabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「ICHIBIKO KURAMAE」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区鳥越1-30-10。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5304d79ce902f709"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_2e3d82ad3745c664",
       "name": "はなび 東神田店（舊址）",
       "address": "東京都千代田区東神田2-10-14 日本センヂミアビル1F",
       "group": "food",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "居酒屋（舊址）",
+      "caption": "居酒屋（舊址）・東京都千代田区東神田2-10-14 日本センヂミアビル1F。",
       "descriptionParagraphs": [
-        "原影片介紹的烏龍麵與串揚店「はなび 東神田店」，保留東神田2-10-14舊址紀錄。",
-        "原始資料記錄的地址為 東京都千代田区東神田2-10-14 日本センヂミアビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「はなび 東神田店（舊址）」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為居酒屋（舊址）。地址紀錄為 東京都千代田区東神田2-10-14 日本センヂミアビル1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "影片原始食べログ連結為東神田店，先前誤配為藏前的ボン花火，已修正。舊址食べログ已標示閉店；現行店家頁位於東神田2-6-9 Daiwaプレイス東神田2 1F，2026年訪客記錄亦確認搬遷。插畫依舊店照片製作。",
       "coordinate": {
@@ -2911,7 +3970,27 @@
         "name": "馬喰町・小傳馬町",
         "href": "/walks/bakurocho/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「はなび 東神田店（舊址）」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為居酒屋（舊址）。地址紀錄為 東京都千代田区東神田2-10-14 日本センヂミアビル1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2e3d82ad3745c664"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1302/A130204/13192874/",
+            "checkedAt": "2026-10-28",
+            "result": "搜索結果匹配はなび東神田店、東神田2-10-14及居酒屋。保留既有舊址與已遷移判定，不沿用舊營業時間。"
+          }
+        ],
+        "findings": "搜索結果匹配はなび東神田店、東神田2-10-14及居酒屋。保留既有舊址與已遷移判定，不沿用舊營業時間。"
+      }
     },
     {
       "id": "kuramae--p_499533cd5ccca793",
@@ -2919,10 +3998,10 @@
       "address": "東京都中央区築地2-15-17 築地食パンビル1F",
       "group": "food",
       "categoryLabel": "自助餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "自助餐廳・東京都中央区築地2-15-17 築地食パンビル1F。",
       "descriptionParagraphs": [
-        "銀座に志かわ在築地的咖啡烘焙店，提供吐司與咖啡。保留原影片的築地店紀錄。",
-        "原始資料記錄的地址為 東京都中央区築地2-15-17 築地食パンビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「GINZA NISHIKAWA COFFEE ROASTERY 築地店」位於本次築地收錄範圍，既有資料將這一站歸為自助餐廳。地址紀錄為 東京都中央区築地2-15-17 築地食パンビル1F。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片VKiiTmD8Iqs為築地散步，店家連結指向築地店；原資料誤配為藏前分店，已依影片與官方地址修正。",
       "coordinate": {
@@ -2965,7 +4044,16 @@
         "name": "築地",
         "href": "/walks/tsukiji/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「GINZA NISHIKAWA COFFEE ROASTERY 築地店」位於本次築地收錄範圍，既有資料將這一站歸為自助餐廳。地址紀錄為 東京都中央区築地2-15-17 築地食パンビル1F。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_499533cd5ccca793"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "inheritedWalkIds": [

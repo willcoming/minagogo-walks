@@ -6,12 +6,12 @@
       "id": "kamakura--p_3dcb05e906f51004",
       "name": "クレープリー・アルモリック",
       "address": "神奈川県鎌倉市大町２丁目２−34ｰ1",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・神奈川県鎌倉市大町２丁目２−34ｰ1。",
       "descriptionParagraphs": [
-        "「クレープリー・アルモリック」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 神奈川県鎌倉市大町２丁目２−34ｰ1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「クレープリー・アルモリック」位於本次大町・材木座收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市大町２丁目２−34ｰ1。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -56,18 +56,27 @@
         "href": "/walks/kamakura-omachi/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「クレープリー・アルモリック」位於本次大町・材木座收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市大町２丁目２−34ｰ1。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3dcb05e906f51004"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kamakura--p_6bc350281a45939c",
       "name": "amugu. （アムグ）",
       "address": "神奈川県鎌倉市材木座3-3-37",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・神奈川県鎌倉市材木座3-3-37。",
       "descriptionParagraphs": [
-        "「amugu. （アムグ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 神奈川県鎌倉市材木座3-3-37。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「amugu. （アムグ）」位於本次大町・材木座收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市材木座3-3-37。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -112,7 +121,16 @@
         "href": "/walks/kamakura-omachi/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「amugu. （アムグ）」位於本次大町・材木座收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市材木座3-3-37。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6bc350281a45939c"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

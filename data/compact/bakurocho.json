@@ -7,10 +7,10 @@
       "address": "東京都中央区日本橋馬喰町2-2-1 DDD HOTEL 2F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都中央区日本橋馬喰町2-2-1 DDD HOTEL 2F。",
       "descriptionParagraphs": [
-        "「abno」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋馬喰町2-2-1 DDD HOTEL 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「abno」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都中央区日本橋馬喰町2-2-1 DDD HOTEL 2F。",
+        "來源包括Hina Life in Japan、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -62,7 +62,16 @@
         ]
       },
       "recommendation": "走向馬喰町，在 abno 留一段咖啡時間。",
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「abno」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都中央区日本橋馬喰町2-2-1 DDD HOTEL 2F。\n\n來源包括Hina Life in Japan、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c898d3b39671e087"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_0cc12fa5c4cca98d",
@@ -70,10 +79,10 @@
       "address": "東京都中央区日本橋大伝馬町15-2 CITAN 1F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都中央区日本橋大伝馬町15-2 CITAN 1F。",
       "descriptionParagraphs": [
-        "「Berth Coffee」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋大伝馬町15-2 CITAN 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「BERTH COFFEE」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都中央区日本橋大伝馬町15-2 CITAN 1F。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -131,18 +140,27 @@
         ]
       },
       "recommendation": "在 CITAN 一樓的 BERTH 喝杯咖啡，看看街邊的日常。",
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「BERTH COFFEE」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都中央区日本橋大伝馬町15-2 CITAN 1F。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0cc12fa5c4cca98d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_2786c19025595e05",
       "name": "ovgo Baker Edo St.",
       "address": "東京都中央区日本橋小伝馬町10-8",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都中央区日本橋小伝馬町10-8。",
       "descriptionParagraphs": [
-        "「ovgo B.A.K.E.R」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋小伝馬町10-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「ovgo Baker Edo St.」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都中央区日本橋小伝馬町10-8。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "小傳馬町10-8為Edo St.店，已於2024年1月重新開業；與期間限定的East店不同。",
       "coordinate": {
@@ -194,7 +212,16 @@
         ]
       },
       "recommendation": "在 ovgo 挑一份植物性餅乾，沿巷弄往大傳馬町走。",
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「ovgo Baker Edo St.」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都中央区日本橋小伝馬町10-8。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2786c19025595e05"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_1137155245e1f6ba",
@@ -202,10 +229,10 @@
       "address": "東京都中央区日本橋大伝馬町3-9 グリーンパーク日本橋1F",
       "group": "food",
       "categoryLabel": "選物與抹茶",
-      "caption": "影片中收錄的停留點",
+      "caption": "選物與抹茶・東京都中央区日本橋大伝馬町3-9 グリーンパーク日本橋1F。",
       "descriptionParagraphs": [
-        "位於小傳馬町的和風選物店，陳列日用雜貨、食品與生活用品，也提供以外帶為主的抹茶、咖啡與輕食。原CAFE LIFE於2026年4月更新為musubi 結，原影片可能呈現改裝前的樣貌。",
-        "原始資料記錄的地址為 東京都中央区日本橋大伝馬町3-9 グリーンパーク日本橋1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「musubi 結」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為選物與抹茶。地址紀錄為 東京都中央区日本橋大伝馬町3-9 グリーンパーク日本橋1F。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "2026年4月1日由CAFE LIFE更新店名與經營概念，現以選物零售及外帶飲食為主。",
       "coordinate": {
@@ -253,18 +280,27 @@
         ]
       },
       "recommendation": "在 musubi 結看看生活選物，再沿大傳馬町街巷慢慢走。",
-      "displayOrder": 4
+      "displayOrder": 4,
+      "description": "「musubi 結」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為選物與抹茶。地址紀錄為 東京都中央区日本橋大伝馬町3-9 グリーンパーク日本橋1F。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_1137155245e1f6ba"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_0083198ddf2fb655",
       "name": "CASTOR",
       "address": "東京都中央区日本橋本町4-13-8",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都中央区日本橋本町4-13-8。",
       "descriptionParagraphs": [
-        "「CASTOR （ カストール）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋本町4-13-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「CASTOR」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都中央区日本橋本町4-13-8。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -309,18 +345,27 @@
         "href": "/walks/bakurocho/"
       },
       "recommendation": null,
-      "displayOrder": 5
+      "displayOrder": 5,
+      "description": "「CASTOR」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都中央区日本橋本町4-13-8。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0083198ddf2fb655"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_2e3d82ad3745c664",
       "name": "はなび 東神田店（舊址）",
       "address": "東京都千代田区東神田2-10-14 日本センヂミアビル1F",
       "group": "food",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "居酒屋（舊址）",
+      "caption": "居酒屋（舊址）・東京都千代田区東神田2-10-14 日本センヂミアビル1F。",
       "descriptionParagraphs": [
-        "原影片介紹的烏龍麵與串揚店「はなび 東神田店」，保留東神田2-10-14舊址紀錄。",
-        "原始資料記錄的地址為 東京都千代田区東神田2-10-14 日本センヂミアビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「はなび 東神田店（舊址）」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為居酒屋（舊址）。地址紀錄為 東京都千代田区東神田2-10-14 日本センヂミアビル1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "影片原始食べログ連結為東神田店，先前誤配為藏前的ボン花火，已修正。舊址食べログ已標示閉店；現行店家頁位於東神田2-6-9 Daiwaプレイス東神田2 1F，2026年訪客記錄亦確認搬遷。插畫依舊店照片製作。",
       "coordinate": {
@@ -363,7 +408,27 @@
         "href": "/walks/bakurocho/"
       },
       "recommendation": null,
-      "displayOrder": null
+      "displayOrder": null,
+      "description": "「はなび 東神田店（舊址）」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為居酒屋（舊址）。地址紀錄為 東京都千代田区東神田2-10-14 日本センヂミアビル1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2e3d82ad3745c664"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1302/A130204/13192874/",
+            "checkedAt": "2026-10-28",
+            "result": "搜索結果匹配はなび東神田店、東神田2-10-14及居酒屋。保留既有舊址與已遷移判定，不沿用舊營業時間。"
+          }
+        ],
+        "findings": "搜索結果匹配はなび東神田店、東神田2-10-14及居酒屋。保留既有舊址與已遷移判定，不沿用舊營業時間。"
+      }
     },
     {
       "id": "nihonbashi--p_234fab6d0ddf2c6c",
@@ -371,10 +436,10 @@
       "address": "東京都中央区日本橋本町3-11-5 commissary内",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・東京都中央区日本橋本町3-11-5 commissary内。",
       "descriptionParagraphs": [
-        "Chigaya曾在日本橋COMMISSARY裡販售麵包與甜甜圈，原影片記錄了當時的櫃檯與甜點。訪店報導已更新為閉店，食べログ也停止確認營業資訊，因此保留為歷史紀錄。",
-        "原始資料記錄的地址為 東京都中央区日本橋本町3-11-5 commissary内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「chigaya bakery 日本橋店（閉店紀錄）」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 東京都中央区日本橋本町3-11-5 commissary内。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "Let’s ENJOY TOKYO於2025年11月更新為閉店；食べログ列為掲載保留，未查到確切閉店日期。不列入可造訪行程。",
       "coordinate": {
@@ -419,7 +484,16 @@
         "href": "/walks/bakurocho/"
       },
       "recommendation": null,
-      "displayOrder": null
+      "displayOrder": null,
+      "description": "「chigaya bakery 日本橋店（閉店紀錄）」位於本次馬喰町・小傳馬町收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 東京都中央区日本橋本町3-11-5 commissary内。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_234fab6d0ddf2c6c"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [

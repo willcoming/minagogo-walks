@@ -8,10 +8,10 @@
       "address": "〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo。",
       "descriptionParagraphs": [
-        "「Kashikobo Fukudora」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Kashikobo Fukudora」位於本次住吉收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -50,7 +50,16 @@
         "href": "/walks/sumiyoshi/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「Kashikobo Fukudora」位於本次住吉收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_448c675d56366a58"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

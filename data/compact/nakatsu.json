@@ -8,10 +8,10 @@
       "address": "3-chōme-4-12 Toyosaki, Kita Ward, Osaka, 531-0072",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：特製雞湯醬油拉麵+炙燒豬肉丼+叉燒三拼",
       "descriptionParagraphs": [
-        "「麦と麺助 新梅田中津店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-4-12 Toyosaki, Kita Ward, Osaka, 531-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「麦と麺助 新梅田中津店」的餐點筆記提到特製雞湯醬油拉麵+炙燒豬肉丼+叉燒三拼。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -52,7 +52,16 @@
         "href": "/walks/nakatsu/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "原影片在「麦と麺助 新梅田中津店」的餐點筆記提到特製雞湯醬油拉麵+炙燒豬肉丼+叉燒三拼。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_655562a1ff37fac1"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

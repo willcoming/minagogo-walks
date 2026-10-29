@@ -7,10 +7,10 @@
       "address": "東京都世田谷区奥沢3丁目45−2",
       "group": "sights",
       "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
+      "caption": "交通・東京都世田谷区奥沢3丁目45−2。",
       "descriptionParagraphs": [
-        "「アルチザン・ブーランジェ・クピド」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢3丁目45−2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「アルチザン・ブーランジェ・クピド」位於本次奧澤收錄範圍，既有資料將這一站歸為交通。地址紀錄為 東京都世田谷区奥沢3丁目45−2。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -51,18 +51,27 @@
         "href": "/walks/okusawa/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「アルチザン・ブーランジェ・クピド」位於本次奧澤收錄範圍，既有資料將這一站歸為交通。地址紀錄為 東京都世田谷区奥沢3丁目45−2。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_caef28ea72e47439"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_192e7685627626d7",
       "name": "アトリエルル",
       "address": "東京都世田谷区奥沢4丁目26-9",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都世田谷区奥沢4丁目26-9。",
       "descriptionParagraphs": [
-        "「アトリエルル」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢4丁目26-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「アトリエルル」位於本次奧澤收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都世田谷区奥沢4丁目26-9。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -107,7 +116,16 @@
         "href": "/walks/okusawa/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「アトリエルル」位於本次奧澤收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都世田谷区奥沢4丁目26-9。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_192e7685627626d7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_02a9b798f688b70f",
@@ -115,10 +133,10 @@
       "address": "東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。",
       "descriptionParagraphs": [
-        "「Relief coffee stand」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Relief coffee stand」位於本次奧澤收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -163,7 +181,16 @@
         "href": "/walks/okusawa/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「Relief coffee stand」位於本次奧澤收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_02a9b798f688b70f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_bb6b140592115737",
@@ -171,10 +198,10 @@
       "address": "",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・奧澤的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「茶房牡丹 (Sabou Botan)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「茶房牡丹 (Sabou Botan)」位於本次奧澤收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -216,7 +243,16 @@
         "href": "/walks/okusawa/"
       },
       "recommendation": null,
-      "displayOrder": 4
+      "displayOrder": 4,
+      "description": "「茶房牡丹 (Sabou Botan)」位於本次奧澤收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bb6b140592115737"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

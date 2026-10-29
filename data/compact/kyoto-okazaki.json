@@ -8,10 +8,10 @@
       "address": "20-2 Shichikenchō, Higashiyama Ward, Kyoto, 605-0011",
       "group": "food",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：瑪格麗特+四起司披薩",
       "descriptionParagraphs": [
-        "「Pizzeria Da Naghino」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 20-2 Shichikenchō, Higashiyama Ward, Kyoto, 605-0011。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「Pizzeria Da Naghino」的餐點筆記提到瑪格麗特+四起司披薩。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -52,7 +52,16 @@
         "href": "/walks/kyoto-okazaki/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "原影片在「Pizzeria Da Naghino」的餐點筆記提到瑪格麗特+四起司披薩。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_758c064e44c195b7"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-okazaki--craft",
@@ -385,6 +394,22 @@
           "videoId": "6-t-19xIZOA",
           "title": "BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots",
           "url": "https://www.youtube.com/watch?v=6-t-19xIZOA"
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "x8Y-_VVeJ3E",
+          "title": "#大阪自由行 全新五天四夜 #省最多 #賺超大 使用最佳票卷 完整路線說明 以及消費狀況 完整說明 方便暢行無阻的#大阪關西 #交通 說明 #姬路 #奈良 #難波 #京都 #天王寺 #新大阪",
+          "url": "https://www.youtube.com/watch?v=x8Y-_VVeJ3E",
+          "time": "16:45",
+          "seconds": 1005
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "7ciGMDdFolA",
+          "title": "#京都自由行 第二眼美女#京都 請再去一次 公開#10種祕技 讓你更愛上他 精彩五天四夜行程 超高CP飯店住宿介紹 #巴士一日卷 千萬不要在網路上買!!慢活 購物 玩樂 踏青 流行 一次搞定的萬象京都",
+          "url": "https://www.youtube.com/watch?v=7ciGMDdFolA",
+          "time": "12:11",
+          "seconds": 731
         }
       ],
       "coordinate": {

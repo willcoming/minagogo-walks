@@ -3,6 +3,251 @@
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
+      "name": "メリケンパーク",
+      "address": "兵庫県神戸市中央区波止場町2",
+      "group": "sights",
+      "categoryLabel": "港灣公園",
+      "caption": "走到草地邊，把目光交給海。",
+      "descriptionParagraphs": [
+        "開闊的港邊公園，把草地、船影、公共藝術與神戶的地標建築放進同一片風景。從密集街巷走出來，海風與水面的尺度會讓午後自然放鬆。",
+        "可以沿著水岸散步，看看港塔與海洋博物館的輪廓，也可以只在草地旁坐一會兒。想延長行程，再往 Harborland 走，將日間港景接到傍晚燈光。"
+      ],
+      "official": "https://www.feel-kobe.jp/facilities/0000000144/",
+      "coordinate": {
+        "lat": 34.6835132559322,
+        "lng": 135.18913883559318,
+        "url": "https://www.openstreetmap.org/way/529083594",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
+      },
+      "note": "",
+      "id": "kobe-motomachi--meriken",
+      "order": 1,
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "神戶的雙雙 | Shuang in Kobe",
+          "videoId": "5X4GedCL7I4",
+          "title": "神戶跨年Vlog｜神戶塔燈光秀＋街頭小吃，日本過年現場實錄",
+          "url": "https://www.youtube.com/watch?v=5X4GedCL7I4",
+          "time": "4:45",
+          "seconds": 285
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "CecyZzrkkSc",
+          "title": "#關西自由行 最美的#關西 港都#神戶 #長榮 天天直飛 過關快速18分鐘就到市中心 不再是京阪神的配角 值得一去的山海都市 採購 旅遊 美食面面俱到 從迷思破解到景點介紹最後的住宿區域推薦 一手搞定",
+          "url": "https://www.youtube.com/watch?v=CecyZzrkkSc",
+          "time": "17:00",
+          "seconds": 1020
+        },
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "2EAZkJ1eD-4",
+          "title": "第一次玩神戶就喜歡上🌞｜連逛5棟北野異人館、超濃郁六甲牧場霜淇淋、百年洋館×港邊超美星巴克、志玲姊姊推薦神戶牛、超過1800年生田神社｜DJI Pocket 4 × Kobe VLOG",
+          "url": "https://www.youtube.com/watch?v=2EAZkJ1eD-4",
+          "time": "14:54",
+          "seconds": 894
+        }
+      ],
+      "description": "開闊的港邊公園，把草地、船影、公共藝術與神戶的地標建築放進同一片風景。從密集街巷走出來，海風與水面的尺度會讓午後自然放鬆。\n\n可以沿著水岸散步，看看港塔與海洋博物館的輪廓，也可以只在草地旁坐一會兒。想延長行程，再往 Harborland 走，將日間港景接到傍晚燈光。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/meriken.webp",
+        "alt": "メリケンパーク，依實景照片繪製的日系水彩插圖"
+      },
+      "recommendation": "沿公園海濱慢慢走，留時間看船與海風。",
+      "sourceLibraryIds": [
+        "p_4e570b180e912949",
+        "p_161f8e635351934b"
+      ],
+      "canonicalArea": {
+        "id": "kobe-harbor",
+        "name": "神戶港灣",
+        "href": "/walks/kobe-harbor/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.feel-kobe.jp/area-guide/meriken-harbor/",
+          "https://www.kobe-port-tower.com/",
+          "https://www.feel-kobe.jp/facilities/0000000144/",
+          "https://kobe-maritime-museum.com/"
+        ]
+      },
+      "displayOrder": 1
+    },
+    {
+      "name": "神戸海洋博物館",
+      "address": "兵庫県神戸市中央区波止場町2-2",
+      "group": "sights",
+      "categoryLabel": "港口・船舶博物館",
+      "caption": "把港灣看見的船，再往裡讀。",
+      "descriptionParagraphs": [
+        "港邊的海洋博物館，從船舶、港口與航運的角度介紹神戶。展場中的船模與資料，讓室外看到的海港景色有了更多可以理解的細節。",
+        "適合對交通、船舶或城市發展有興趣的人，也能作為炎熱或下雨時的室內停留。看完再回到水岸，比只拍下地標輪廓多了一段故事。"
+      ],
+      "official": "https://kobe-maritime-museum.com/",
+      "coordinate": {
+        "lat": 34.6829503,
+        "lng": 135.1884501,
+        "url": "https://www.openstreetmap.org/node/1423083509",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "通常週一休館，遇國定假日順延。",
+      "id": "kobe-motomachi--maritime",
+      "order": 2,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "港邊的海洋博物館，從船舶、港口與航運的角度介紹神戶。展場中的船模與資料，讓室外看到的海港景色有了更多可以理解的細節。\n\n適合對交通、船舶或城市發展有興趣的人，也能作為炎熱或下雨時的室內停留。看完再回到水岸，比只拍下地標輪廓多了一段故事。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/maritime.webp",
+        "alt": "神戸海洋博物館，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": "選一段海洋博物館展示參觀。",
+      "canonicalArea": {
+        "id": "kobe-harbor",
+        "name": "神戶港灣",
+        "href": "/walks/kobe-harbor/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.feel-kobe.jp/area-guide/meriken-harbor/",
+          "https://www.kobe-port-tower.com/",
+          "https://www.feel-kobe.jp/facilities/0000000144/",
+          "https://kobe-maritime-museum.com/"
+        ]
+      },
+      "displayOrder": 2
+    },
+    {
+      "id": "kobe-motomachi--p_c0e7ede9b2afbbad",
+      "name": "スターバックス 神戸メリケンパーク店",
+      "address": "兵庫県神戸市中央区波止場町2-4",
+      "group": "food",
+      "categoryLabel": "港灣咖啡",
+      "caption": "面向神戶港、以郵輪為靈感的咖啡店",
+      "descriptionParagraphs": [
+        "神戶美利堅公園店位於波止場町的港邊，建築以停泊的郵輪為靈感。大面窗景與戶外公園相接，適合沿海濱步行時安排咖啡休息，也可欣賞港灣景色。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 34.6816088,
+        "lng": 135.1884715,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E6%98%9F%E5%B7%B4%E5%85%8B+%E7%A5%9E%E6%88%B6%E7%BE%8E%E5%88%A9%E5%A0%85%E5%85%AC%E5%9C%92%E5%BA%97/@34.6816088,135.1884715,17z/data=!3m1!4b1!4m6!3m5!1s0x60008e5562f56cdf:0xd2aa7eeaaf6e065d!8m2!3d34.6816088!4d135.1884715!16s%2Fg%2F11c715_07x?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/hyogo/A2801/A280102/28048745/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "2EAZkJ1eD-4",
+          "title": "第一次玩神戶就喜歡上🌞｜連逛5棟北野異人館、超濃郁六甲牧場霜淇淋、百年洋館×港邊超美星巴克、志玲姊姊推薦神戶牛、超過1800年生田神社｜DJI Pocket 4 × Kobe VLOG",
+          "url": "https://www.youtube.com/watch?v=2EAZkJ1eD-4",
+          "time": "1:08",
+          "seconds": 68
+        }
+      ],
+      "official": "https://store.starbucks.co.jp/detail-1432/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c0e7ede9b2afbbad"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E6%98%9F%E5%B7%B4%E5%85%8B+%E7%A5%9E%E6%88%B6%E7%BE%8E%E5%88%A9%E5%A0%85%E5%85%AC%E5%9C%92%E5%BA%97/@34.6816088,135.1884715,17z/data=!3m1!4b1!4m6!3m5!1s0x60008e5562f56cdf:0xd2aa7eeaaf6e065d!8m2!3d34.6816088!4d135.1884715!16s%2Fg%2F11c715_07x?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://store.starbucks.co.jp/detail-1432/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/hyogo/A2801/A280102/28048745/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-motomachi--p_c0e7ede9b2afbbad.webp",
+        "alt": "スターバックス 神戸メリケンパーク店的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "kobe-harbor",
+        "name": "神戶港灣",
+        "href": "/walks/kobe-harbor/"
+      },
+      "recommendation": null,
+      "displayOrder": 3
+    },
+    {
+      "name": "神戸ポートタワー",
+      "address": "兵庫県神戸市中央区波止場町5-5",
+      "group": "sights",
+      "categoryLabel": "展望塔",
+      "caption": "紅色塔身，替港都畫一條曲線。",
+      "descriptionParagraphs": [
+        "紅色鋼構與向上展開的塔身，是神戶港最有辨識度的輪廓之一。整修後的展望空間與屋上區域，讓看港景多了不同高度的視角。",
+        "可以先在水岸看它如何與船隻、建築相映，再決定是否購票登塔。傍晚到夜間的燈光變化，也適合留給喜歡慢慢拍街景的人。"
+      ],
+      "official": "https://www.kobe-port-tower.com/",
+      "coordinate": {
+        "lat": 34.68262978666667,
+        "lng": 135.18672204444448,
+        "url": "https://www.openstreetmap.org/way/99457921",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "note": "展望層需購票；屋上區域可能因天候關閉。",
+      "photoPage": "https://www.feel-kobe.jp/facilities/0000000144/",
+      "id": "kobe-motomachi--tower",
+      "order": 4,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "紅色鋼構與向上展開的塔身，是神戶港最有辨識度的輪廓之一。整修後的展望空間與屋上區域，讓看港景多了不同高度的視角。\n\n可以先在水岸看它如何與船隻、建築相映，再決定是否購票登塔。傍晚到夜間的燈光變化，也適合留給喜歡慢慢拍街景的人。",
+      "illustration": {
+        "image": "/art/walks/kobe-motomachi/tower.webp",
+        "alt": "神戸ポートタワー，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": "從港塔周邊看港景；登塔時先確認時段與門票。 看港塔與港灣景色，按當日時段決定是否登塔。",
+      "canonicalArea": {
+        "id": "kobe-harbor",
+        "name": "神戶港灣",
+        "href": "/walks/kobe-harbor/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.feel-kobe.jp/area-guide/meriken-harbor/",
+          "https://www.kobe-port-tower.com/",
+          "https://harborland.co.jp/area_guide/umie/"
+        ]
+      },
+      "displayOrder": 4
+    },
+    {
       "name": "神戸ハーバーランドumie・MOSAIC",
       "address": "兵庫県神戸市中央区東川崎町1-6-1（MOSAIC周邊）",
       "group": "shops",
@@ -29,7 +274,7 @@
       ],
       "photoPage": "https://harborland.co.jp/area_guide/umie/",
       "id": "kobe-motomachi--umie",
-      "order": 1,
+      "order": 5,
       "verifiedAt": "2026-10-24",
       "sources": [
         {
@@ -60,151 +305,7 @@
           "https://harborland.co.jp/area_guide/umie/"
         ]
       },
-      "displayOrder": 1
-    },
-    {
-      "name": "神戸ポートタワー",
-      "address": "兵庫県神戸市中央区波止場町5-5",
-      "group": "sights",
-      "categoryLabel": "展望塔",
-      "caption": "紅色塔身，替港都畫一條曲線。",
-      "descriptionParagraphs": [
-        "紅色鋼構與向上展開的塔身，是神戶港最有辨識度的輪廓之一。整修後的展望空間與屋上區域，讓看港景多了不同高度的視角。",
-        "可以先在水岸看它如何與船隻、建築相映，再決定是否購票登塔。傍晚到夜間的燈光變化，也適合留給喜歡慢慢拍街景的人。"
-      ],
-      "official": "https://www.kobe-port-tower.com/",
-      "coordinate": {
-        "lat": 34.68262978666667,
-        "lng": 135.18672204444448,
-        "url": "https://www.openstreetmap.org/way/99457921",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "note": "展望層需購票；屋上區域可能因天候關閉。",
-      "photoPage": "https://www.feel-kobe.jp/facilities/0000000144/",
-      "id": "kobe-motomachi--tower",
-      "order": 2,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "紅色鋼構與向上展開的塔身，是神戶港最有辨識度的輪廓之一。整修後的展望空間與屋上區域，讓看港景多了不同高度的視角。\n\n可以先在水岸看它如何與船隻、建築相映，再決定是否購票登塔。傍晚到夜間的燈光變化，也適合留給喜歡慢慢拍街景的人。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/tower.webp",
-        "alt": "神戸ポートタワー，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": "從港塔周邊看港景；登塔時先確認時段與門票。 看港塔與港灣景色，按當日時段決定是否登塔。",
-      "canonicalArea": {
-        "id": "kobe-harbor",
-        "name": "神戶港灣",
-        "href": "/walks/kobe-harbor/"
-      },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://www.feel-kobe.jp/area-guide/meriken-harbor/",
-          "https://www.kobe-port-tower.com/",
-          "https://harborland.co.jp/area_guide/umie/"
-        ]
-      },
-      "displayOrder": 2
-    },
-    {
-      "name": "神戸海洋博物館",
-      "address": "兵庫県神戸市中央区波止場町2-2",
-      "group": "sights",
-      "categoryLabel": "港口・船舶博物館",
-      "caption": "把港灣看見的船，再往裡讀。",
-      "descriptionParagraphs": [
-        "港邊的海洋博物館，從船舶、港口與航運的角度介紹神戶。展場中的船模與資料，讓室外看到的海港景色有了更多可以理解的細節。",
-        "適合對交通、船舶或城市發展有興趣的人，也能作為炎熱或下雨時的室內停留。看完再回到水岸，比只拍下地標輪廓多了一段故事。"
-      ],
-      "official": "https://kobe-maritime-museum.com/",
-      "coordinate": {
-        "lat": 34.6829503,
-        "lng": 135.1884501,
-        "url": "https://www.openstreetmap.org/node/1423083509",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "note": "通常週一休館，遇國定假日順延。",
-      "id": "kobe-motomachi--maritime",
-      "order": 3,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "港邊的海洋博物館，從船舶、港口與航運的角度介紹神戶。展場中的船模與資料，讓室外看到的海港景色有了更多可以理解的細節。\n\n適合對交通、船舶或城市發展有興趣的人，也能作為炎熱或下雨時的室內停留。看完再回到水岸，比只拍下地標輪廓多了一段故事。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/maritime.webp",
-        "alt": "神戸海洋博物館，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": "選一段海洋博物館展示參觀。",
-      "canonicalArea": {
-        "id": "kobe-harbor",
-        "name": "神戶港灣",
-        "href": "/walks/kobe-harbor/"
-      },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://www.feel-kobe.jp/area-guide/meriken-harbor/",
-          "https://www.kobe-port-tower.com/",
-          "https://www.feel-kobe.jp/facilities/0000000144/",
-          "https://kobe-maritime-museum.com/"
-        ]
-      },
-      "displayOrder": 3
-    },
-    {
-      "name": "メリケンパーク",
-      "address": "兵庫県神戸市中央区波止場町2",
-      "group": "sights",
-      "categoryLabel": "港灣公園",
-      "caption": "走到草地邊，把目光交給海。",
-      "descriptionParagraphs": [
-        "開闊的港邊公園，把草地、船影、公共藝術與神戶的地標建築放進同一片風景。從密集街巷走出來，海風與水面的尺度會讓午後自然放鬆。",
-        "可以沿著水岸散步，看看港塔與海洋博物館的輪廓，也可以只在草地旁坐一會兒。想延長行程，再往 Harborland 走，將日間港景接到傍晚燈光。"
-      ],
-      "official": "https://www.feel-kobe.jp/facilities/0000000144/",
-      "coordinate": {
-        "lat": 34.6835132559322,
-        "lng": 135.18913883559318,
-        "url": "https://www.openstreetmap.org/way/529083594",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
-      },
-      "note": "",
-      "id": "kobe-motomachi--meriken",
-      "order": 4,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "開闊的港邊公園，把草地、船影、公共藝術與神戶的地標建築放進同一片風景。從密集街巷走出來，海風與水面的尺度會讓午後自然放鬆。\n\n可以沿著水岸散步，看看港塔與海洋博物館的輪廓，也可以只在草地旁坐一會兒。想延長行程，再往 Harborland 走，將日間港景接到傍晚燈光。",
-      "illustration": {
-        "image": "/art/walks/kobe-motomachi/meriken.webp",
-        "alt": "メリケンパーク，依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": "沿公園海濱慢慢走，留時間看船與海風。",
-      "canonicalArea": {
-        "id": "kobe-harbor",
-        "name": "神戶港灣",
-        "href": "/walks/kobe-harbor/"
-      },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://www.feel-kobe.jp/area-guide/meriken-harbor/",
-          "https://www.kobe-port-tower.com/",
-          "https://www.feel-kobe.jp/facilities/0000000144/",
-          "https://kobe-maritime-museum.com/"
-        ]
-      },
-      "displayOrder": 4
+      "displayOrder": 5
     }
   ],
   "routes": [
@@ -309,10 +410,14 @@
   ],
   "defaultSelection": "kobe-harbor-port-and-maritime",
   "libraryCoverage": {
-    "added": 0,
+    "added": 1,
     "unlocated": 0,
     "checkedAt": "2026-10-26",
-    "sourceIds": []
+    "sourceIds": [
+      "p_4e570b180e912949",
+      "p_161f8e635351934b",
+      "p_c0e7ede9b2afbbad"
+    ]
   },
   "transportPoints": [],
   "scope": {
@@ -329,7 +434,7 @@
     ],
     "boundaryKind": "editorial-area",
     "reviewedAt": "2026-10-26",
-    "placeCount": 4
+    "placeCount": 5
   },
   "savedPlaceArchive": [],
   "inheritedWalkIds": [

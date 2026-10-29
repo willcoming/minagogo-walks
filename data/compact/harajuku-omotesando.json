@@ -8,21 +8,17 @@
       "address": "東京都渋谷区神宮前6-1-9",
       "group": "shops",
       "categoryLabel": "角色商品",
-      "caption": "影片中收錄的停留點",
+      "caption": "角色商品・東京都渋谷区神宮前6-1-9。",
       "descriptionParagraphs": [
-        "原影片16:55介紹表參道上的キデイランド原宿店，收錄多層樓角色商品與玩具賣場。",
-        "原始資料記錄的地址為 東京都渋谷区神宮前6-1-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「キデイランド 原宿店」位於本次原宿・表參道收錄範圍，既有資料將這一站歸為角色商品。地址紀錄為 東京都渋谷区神宮前6-1-9。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片描述欄地圖連結明確指向原宿店，已修正先前誤配的大阪梅田店。營業與樓層資訊請以官方公告為準。",
       "coordinate": {
         "lat": 35.667809,
         "lng": 139.706512,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%A5%9E%E5%AE%AE%E5%89%8D6-1-9",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "東京都渋谷区神宮前六丁目1番9號地址代表點，非指定入口。"
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
@@ -38,6 +34,7 @@
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
+          "p_e6d1c84ac8f70095",
           "p_f243fdad43222637"
         ],
         "status": "source-record",
@@ -56,7 +53,16 @@
         "href": "/walks/harajuku-omotesando/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「キデイランド 原宿店」位於本次原宿・表參道收錄範圍，既有資料將這一站歸為角色商品。地址紀錄為 東京都渋谷区神宮前6-1-9。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e6d1c84ac8f70095"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],
@@ -66,6 +72,7 @@
     "unlocated": 0,
     "checkedAt": "2026-10-26",
     "sourceIds": [
+      "p_e6d1c84ac8f70095",
       "p_f243fdad43222637"
     ]
   },

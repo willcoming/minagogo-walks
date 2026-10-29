@@ -5,12 +5,12 @@
       "id": "jiyugaoka--p_4c734d5af37303a2",
       "name": "PÂTISSERIE Mont St. Clair（モンサンクレール）",
       "address": "東京都目黒区自由が丘2-22-4",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区自由が丘2-22-4。",
       "descriptionParagraphs": [
-        "「PÂTISSERIE Mont St. Clair（モンサンクレール）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘2-22-4。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「PÂTISSERIE Mont St. Clair（モンサンクレール）」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘2-22-4。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -55,7 +55,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「PÂTISSERIE Mont St. Clair（モンサンクレール）」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘2-22-4。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_4c734d5af37303a2"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--lavita",
@@ -108,12 +117,12 @@
       "id": "jiyugaoka--p_a8729ae024a2bb45",
       "name": "古桑庵",
       "address": "東京都目黒区自由が丘1丁目24-23",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区自由が丘1丁目24-23。",
       "descriptionParagraphs": [
-        "「古桑庵」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘1丁目24-23。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「古桑庵」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘1丁目24-23。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -158,18 +167,27 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「古桑庵」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘1丁目24-23。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a8729ae024a2bb45"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_7a8c49c50fec13c4",
       "name": "MONT-NOM(モンノン)",
       "address": "東京都目黒区自由が丘1丁目24-16",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区自由が丘1丁目24-16。",
       "descriptionParagraphs": [
-        "「MONT-NOM(モンノン)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘1丁目24-16。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「MONT-NOM(モンノン)」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘1丁目24-16。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -222,7 +240,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 4
+      "displayOrder": 4,
+      "description": "「MONT-NOM(モンノン)」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘1丁目24-16。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_7a8c49c50fec13c4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--kumano",
@@ -373,10 +400,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１８ チェスナットヒルズ 2 1F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Jiyugaoka Sando」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１８ チェスナットヒルズ 2 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Jiyugaoka Sando」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１８ チェスナットヒルズ 2 1F。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -421,7 +448,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 8
+      "displayOrder": 8,
+      "description": "「Jiyugaoka Sando」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１８ チェスナットヒルズ 2 1F。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_4fc1f814d24b0ce2"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_8679edd8f829f7e6",
@@ -429,10 +465,10 @@
       "address": "1-chōme-26-16 Jiyūgaoka, Meguro City, Tokyo 152-0035",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・1-chōme-26-16 Jiyūgaoka…。",
       "descriptionParagraphs": [
-        "「MILKLAND HOKKAIDO TOKYO」出現在MissLiv 日本旅行和生活的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-26-16 Jiyūgaoka, Meguro City, Tokyo 152-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「MILKLAND HOKKAIDO TOKYO」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-26-16 Jiyūgaoka, Meguro City, Tokyo 152-0035。",
+        "來源包括MissLiv 日本旅行和生活、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -480,7 +516,17 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 9
+      "displayOrder": 9,
+      "description": "「MILKLAND HOKKAIDO TOKYO」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-26-16 Jiyūgaoka, Meguro City, Tokyo 152-0035。\n\n來源包括MissLiv 日本旅行和生活、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8679edd8f829f7e6",
+          "p_6c7121d9ea3d2f4e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_6c0c53d9d8a99a9e",
@@ -488,10 +534,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１４ オクズミビル 1F",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Mrs.BAGEL 自由が丘店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１４ オクズミビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Mrs.BAGEL 自由が丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１４ オクズミビル 1F。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -530,7 +576,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 10
+      "displayOrder": 10,
+      "description": "「Mrs.BAGEL 自由が丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−１４ オクズミビル 1F。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6c0c53d9d8a99a9e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_a2591f451c34cee9",
@@ -538,10 +593,10 @@
       "address": "東京都目黒区自由が丘２丁目９−６ Luz自由が丘 ３F",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・東京都目黒区自由が丘２丁目９−６ Luz自由が丘 ３F。",
       "descriptionParagraphs": [
-        "「パンとエスプレッソと自由形」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘２丁目９−６ Luz自由が丘 ３F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「パンとエスプレッソと自由形」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 東京都目黒区自由が丘２丁目９−６ Luz自由が丘 ３F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -595,7 +650,17 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 11
+      "displayOrder": 11,
+      "description": "「パンとエスプレッソと自由形」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 東京都目黒区自由が丘２丁目９−６ Luz自由が丘 ３F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a2591f451c34cee9",
+          "p_386cae5ea1adba5c"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_0bbbb5e0dc468c37",
@@ -603,10 +668,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−６ Luz自由が丘 １F",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Crepe to Espresso to Jiyukei」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−６ Luz自由が丘 １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Crepe to Espresso to Jiyukei」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−６ Luz自由が丘 １F。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -645,7 +710,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 12
+      "displayOrder": 12,
+      "description": "「Crepe to Espresso to Jiyukei」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−６ Luz自由が丘 １F。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0bbbb5e0dc468c37"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_5dee6593990c8c9c",
@@ -653,10 +727,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−４ 岡ビル 1F",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Bel Amer Jiyugaoka」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−４ 岡ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Bel Amer Jiyugaoka」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−４ 岡ビル 1F。",
+        "來源包括SoloInTokyoLife、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -704,18 +778,28 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 13
+      "displayOrder": 13,
+      "description": "「Bel Amer Jiyugaoka」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−9−４ 岡ビル 1F。\n\n來源包括SoloInTokyoLife、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5dee6593990c8c9c",
+          "p_dca87196fc216214"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_fab5a844612da925",
       "name": "THE LAB TOKYO",
       "address": "東京都目黒区自由が丘2-9-8",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区自由が丘2-9-8。",
       "descriptionParagraphs": [
-        "「THE LAB TOKYO」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘2-9-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「THE LAB TOKYO」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘2-9-8。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -769,7 +853,17 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 14
+      "displayOrder": 14,
+      "description": "「THE LAB TOKYO」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘2-9-8。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_fab5a844612da925",
+          "p_0482401f0021e6a2"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_6797b81e5d9ebaf3",
@@ -777,10 +871,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−９ 三笠ビル 1F",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Jiyugaoka Bakery」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−９ 三笠ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Jiyugaoka Bakery」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−９ 三笠ビル 1F。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -819,7 +913,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 15
+      "displayOrder": 15,
+      "description": "「Jiyugaoka Bakery」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−26−９ 三笠ビル 1F。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6797b81e5d9ebaf3"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_c9317f8eb9ebc033",
@@ -827,10 +930,10 @@
       "address": "東京都目黒区自由が丘1-26-7 ストークビル2F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都目黒区自由が丘1-26-7 ストークビル2F。",
       "descriptionParagraphs": [
-        "「MINIMAL MAAT」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘1-26-7 ストークビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「MINIMAL MAAT」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都目黒区自由が丘1-26-7 ストークビル2F。",
+        "來源包括Hina Life in Japan、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "部分影片說明中的鎌倉搬遷地址與 MINI DONUT FACTORY 的地址相符；此店依官方資料列於自由之丘，已合併重複影片紀錄。",
       "coordinate": {
@@ -886,7 +989,17 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 16
+      "displayOrder": 16,
+      "description": "「MINIMAL MAAT」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都目黒区自由が丘1-26-7 ストークビル2F。\n\n來源包括Hina Life in Japan、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c9317f8eb9ebc033",
+          "p_254a736eebfc3859"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--montblanc",
@@ -953,10 +1066,10 @@
       "address": "1-chōme-28-8 Jiyūgaoka, Meguro City, Tokyo 152-0035",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・1-chōme-28-8 Jiyūgaoka…。",
       "descriptionParagraphs": [
-        "「Yohei Miyaguchi」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-28-8 Jiyūgaoka, Meguro City, Tokyo 152-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Yohei Miyaguchi」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 1-chōme-28-8 Jiyūgaoka, Meguro City, Tokyo 152-0035。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -995,18 +1108,27 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 18
+      "displayOrder": 18,
+      "description": "「Yohei Miyaguchi」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 1-chōme-28-8 Jiyūgaoka, Meguro City, Tokyo 152-0035。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_005ecfdea2b36a17"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_4ec402daf95da05e",
       "name": "自由が丘 ミューズスクエア (JIYUGAOKA MUSE SQUARE)",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "shops",
+      "categoryLabel": "購物・複合設施",
+      "caption": "購物・複合設施・自由之丘的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「自由が丘 ミューズスクエア (JIYUGAOKA MUSE SQUARE)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「自由が丘 ミューズスクエア (JIYUGAOKA MUSE SQUARE)」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物・複合設施。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括SoloInTokyoLife、Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1040,7 +1162,7 @@
           "seconds": 1836
         }
       ],
-      "official": null,
+      "official": "https://jiyugaoka-muse-square.jp/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1064,7 +1186,29 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 19
+      "displayOrder": 19,
+      "description": "「自由が丘 ミューズスクエア (JIYUGAOKA MUSE SQUARE)」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物・複合設施。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括SoloInTokyoLife、Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_4ec402daf95da05e",
+          "p_288d299893f22bcd",
+          "p_ef2c15d59833f411"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://jiyugaoka-muse-square.jp/",
+            "checkedAt": "2026-10-28",
+            "result": "官方ミューズスクエア頁有商店清單與樓層指南；匹配自由之丘同名設施，不推定各店營業時間。"
+          }
+        ],
+        "findings": "官方ミューズスクエア頁有商店清單與樓層指南；匹配自由之丘同名設施，不推定各店營業時間。"
+      }
     },
     {
       "id": "jiyugaoka--hachinoya",
@@ -1111,10 +1255,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−10−４ ミルシェ自由が丘 3F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・Tokyo…。",
       "descriptionParagraphs": [
-        "「Alpha Beta Coffee Club」出現在Celia Ting、Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−10−４ ミルシェ自由が丘 3F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Alpha Beta Coffee Club」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−10−４ ミルシェ自由が丘 3F。",
+        "來源包括Celia Ting、Hina Life in Japan、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1168,7 +1312,17 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 21
+      "displayOrder": 21,
+      "description": "「Alpha Beta Coffee Club」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−10−４ ミルシェ自由が丘 3F。\n\n來源包括Celia Ting、Hina Life in Japan、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_29cbaf7b3a1349fe",
+          "p_3dcfd6d7882e8635"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_3e64f819d52576d2",
@@ -1176,10 +1330,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−11−３ SMBC自由が丘ビル 1階",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「I'm donut ? 自由が丘駅前」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−11−３ SMBC自由が丘ビル 1階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「I'm donut ? 自由が丘駅前」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−11−３ SMBC自由が丘ビル 1階。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1218,18 +1372,27 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 22
+      "displayOrder": 22,
+      "description": "「I'm donut ? 自由が丘駅前」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−11−３ SMBC自由が丘ビル 1階。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3e64f819d52576d2"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_c07261c92342bff3",
       "name": "アイムドーナツ？ 自由が丘 / ダコー 自由が丘",
       "address": "東京都目黒区自由が丘2丁目11-3",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区自由が丘2丁目11-3。",
       "descriptionParagraphs": [
-        "「アイムドーナツ？ 自由が丘 / ダコー 自由が丘」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘2丁目11-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「アイムドーナツ？ 自由が丘 / ダコー 自由が丘」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘2丁目11-3。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1274,7 +1437,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 23
+      "displayOrder": 23,
+      "description": "「アイムドーナツ？ 自由が丘 / ダコー 自由が丘」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘2丁目11-3。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c07261c92342bff3"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_e9f597835d8dd46c",
@@ -1282,10 +1454,10 @@
       "address": "東京都目黒区自由が丘1-31-11",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・東京都目黒区自由が丘1-31-11。",
       "descriptionParagraphs": [
-        "「OZ bread」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘1-31-11。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「OZ bread」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 東京都目黒区自由が丘1-31-11。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1330,7 +1502,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 24
+      "displayOrder": 24,
+      "description": "「OZ bread」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 東京都目黒区自由が丘1-31-11。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e9f597835d8dd46c"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_8c0c9d840b80f1d4",
@@ -1338,10 +1519,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−31−１０ BAKEビル 1F",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「BAKE the SHOP 自由之丘店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−31−１０ BAKEビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「BAKE the SHOP 自由之丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−31−１０ BAKEビル 1F。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1380,7 +1561,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 25
+      "displayOrder": 25,
+      "description": "「BAKE the SHOP 自由之丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−31−１０ BAKEビル 1F。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8c0c9d840b80f1d4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_9ecab1cb225726f3",
@@ -1388,10 +1578,10 @@
       "address": "東京都目黒区自由が丘1-9-6 オハナビル2F",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都目黒区自由が丘1-9-6 オハナビル2F。",
       "descriptionParagraphs": [
-        "「和栗モンブラン専門店・栗歩」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘1-9-6 オハナビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「和栗モンブラン専門店・栗歩」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都目黒区自由が丘1-9-6 オハナビル2F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1434,7 +1624,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 26
+      "displayOrder": 26,
+      "description": "「和栗モンブラン専門店・栗歩」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都目黒区自由が丘1-9-6 オハナビル2F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9ecab1cb225726f3"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_b1968ddbaae6859b",
@@ -1442,10 +1641,10 @@
       "address": "",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・自由之丘的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「ハルズベーグル 自由が丘店 (HAL'S BAGEL Jiyugaoka)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「ハルズベーグル 自由が丘店 (HAL'S BAGEL Jiyugaoka)」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1484,7 +1683,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 27
+      "displayOrder": 27,
+      "description": "「ハルズベーグル 自由が丘店 (HAL'S BAGEL Jiyugaoka)」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_b1968ddbaae6859b"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_0569ab808a6d8933",
@@ -1492,10 +1700,10 @@
       "address": "5-chōme-20-19 Okusawa, Setagaya City, Tokyo 158-0083",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・5-chōme-20-19 Okusawa…。",
       "descriptionParagraphs": [
-        "「BASIC and ACCENT」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 5-chōme-20-19 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「BASIC and ACCENT」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 5-chōme-20-19 Okusawa, Setagaya City, Tokyo 158-0083。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1536,7 +1744,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 28
+      "displayOrder": 28,
+      "description": "「BASIC and ACCENT」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 5-chōme-20-19 Okusawa, Setagaya City, Tokyo 158-0083。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0569ab808a6d8933"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_192716194be3d6d7",
@@ -1544,10 +1761,10 @@
       "address": "東京都世田谷区奥沢5-20-19 K&F自由が丘2階",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都世田谷区奥沢5-20-19 K&F自由が丘2階。",
       "descriptionParagraphs": [
-        "「C×Clabo」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢5-20-19 K&F自由が丘2階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「C×Clabo」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都世田谷区奥沢5-20-19 K&F自由が丘2階。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1586,7 +1803,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 29
+      "displayOrder": 29,
+      "description": "「C×Clabo」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都世田谷区奥沢5-20-19 K&F自由が丘2階。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_192716194be3d6d7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_d5b7f6f8237e5e25",
@@ -1594,10 +1820,10 @@
       "address": "5-chōme-20-18 Okusawa, Setagaya City, Tokyo 158-0083",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・5-chōme-20-18 Okusawa…。",
       "descriptionParagraphs": [
-        "「grin」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 5-chōme-20-18 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「grin」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 5-chōme-20-18 Okusawa, Setagaya City, Tokyo 158-0083。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1636,7 +1862,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 30
+      "displayOrder": 30,
+      "description": "「grin」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 5-chōme-20-18 Okusawa, Setagaya City, Tokyo 158-0083。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_d5b7f6f8237e5e25"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--katakana",
@@ -1689,12 +1924,12 @@
       "id": "jiyugaoka--p_3e6744963c57f147",
       "name": "Crepes NoKa'Oi （クレープス ノカオイ）",
       "address": "東京都世田谷区奥沢2-37-10 ホームズ自由が丘 1F",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都世田谷区奥沢2-37-10 ホームズ自由が丘 1F。",
       "descriptionParagraphs": [
-        "「Crepes NoKa'Oi （クレープス ノカオイ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢2-37-10 ホームズ自由が丘 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Crepes NoKa'Oi （クレープス ノカオイ）」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都世田谷区奥沢2-37-10 ホームズ自由が丘 1F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1747,7 +1982,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 32
+      "displayOrder": 32,
+      "description": "「Crepes NoKa'Oi （クレープス ノカオイ）」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都世田谷区奥沢2-37-10 ホームズ自由が丘 1F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3e6744963c57f147"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--greenway",
@@ -1794,10 +2038,10 @@
       "address": "2-chōme-25-14 Midorigaoka, Meguro City, Tokyo 152-0034",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・2-chōme-25-14 Midorigaoka…。",
       "descriptionParagraphs": [
-        "「Dulton 自由之丘店」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-25-14 Midorigaoka, Meguro City, Tokyo 152-0034。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Dulton 自由之丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 2-chōme-25-14 Midorigaoka, Meguro City, Tokyo 152-0034。",
+        "來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1836,7 +2080,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 34
+      "displayOrder": 34,
+      "description": "「Dulton 自由之丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 2-chōme-25-14 Midorigaoka, Meguro City, Tokyo 152-0034。\n\n來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e82f69c0da0a46e2"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_3ce76ce23288ac2b",
@@ -1844,10 +2097,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１３ 8ビル 1階",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「WeLoveDonut 自由が丘」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１３ 8ビル 1階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「WeLoveDonut 自由が丘」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１３ 8ビル 1階。",
+        "來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1886,7 +2139,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 35
+      "displayOrder": 35,
+      "description": "「WeLoveDonut 自由が丘」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１３ 8ビル 1階。\n\n來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3ce76ce23288ac2b"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_6af6bdcf8f27fa44",
@@ -1894,10 +2156,10 @@
       "address": "東京都目黒区自由が丘１丁目４−６",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都目黒区自由が丘１丁目４−６。",
       "descriptionParagraphs": [
-        "「大山生煎店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘１丁目４−６。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「大山生煎店」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都目黒区自由が丘１丁目４−６。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1942,7 +2204,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 36
+      "displayOrder": 36,
+      "description": "「大山生煎店」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都目黒区自由が丘１丁目４−６。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6af6bdcf8f27fa44"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_968b4be9ee911691",
@@ -1950,10 +2221,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１７ 自由が丘センタービル",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Sushi Rinka」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１７ 自由が丘センタービル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Sushi Rinka」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１７ 自由が丘センタービル。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1994,7 +2265,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 37
+      "displayOrder": 37,
+      "description": "「Sushi Rinka」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１７ 自由が丘センタービル。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_968b4be9ee911691"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--onibus",
@@ -2086,10 +2366,10 @@
       "address": "103 2-chōme-15-17 Midorigaoka, Meguro City, Tokyo 152-0034",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・103 2-chōme-15-17 Midorigaoka…。",
       "descriptionParagraphs": [
-        "「BAGEL BASE Jiyugaoka store」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 103 2-chōme-15-17 Midorigaoka, Meguro City, Tokyo 152-0034。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「BAGEL BASE Jiyugaoka store」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 103 2-chōme-15-17 Midorigaoka, Meguro City, Tokyo 152-0034。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2128,7 +2408,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 39
+      "displayOrder": 39,
+      "description": "「BAGEL BASE Jiyugaoka store」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 103 2-chōme-15-17 Midorigaoka, Meguro City, Tokyo 152-0034。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5b4adbf59021de31"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_144ffd99dc778d70",
@@ -2136,10 +2425,10 @@
       "address": "",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・自由之丘的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「バゲットラビット 自由が丘店 (baguette rabbit Jiyugaoka)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「バゲットラビット 自由が丘店 (baguette rabbit Jiyugaoka)」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2181,7 +2470,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 40
+      "displayOrder": 40,
+      "description": "「バゲットラビット 自由が丘店 (baguette rabbit Jiyugaoka)」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_144ffd99dc778d70"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--todays",
@@ -2246,10 +2544,10 @@
       "address": "東京都目黒区自由が丘2-17-8",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都目黒区自由が丘2-17-8。",
       "descriptionParagraphs": [
-        "「GOOD CHEESE GOOD PIZZA 自由が丘店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘2-17-8。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「GOOD CHEESE GOOD PIZZA 自由が丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都目黒区自由が丘2-17-8。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2294,7 +2592,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 42
+      "displayOrder": 42,
+      "description": "「GOOD CHEESE GOOD PIZZA 自由が丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都目黒区自由が丘2-17-8。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9ed7454b024fda82"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_fbc6a90d27958efa",
@@ -2302,10 +2609,10 @@
       "address": "2-chōme-16-3 Jiyūgaoka, Meguro City, Tokyo 152-0035",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・2-chōme-16-3 Jiyūgaoka…。",
       "descriptionParagraphs": [
-        "「Royal Crystal Coffee」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-16-3 Jiyūgaoka, Meguro City, Tokyo 152-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Royal Crystal Coffee」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 2-chōme-16-3 Jiyūgaoka, Meguro City, Tokyo 152-0035。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2344,7 +2651,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 43
+      "displayOrder": 43,
+      "description": "「Royal Crystal Coffee」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 2-chōme-16-3 Jiyūgaoka, Meguro City, Tokyo 152-0035。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_fbc6a90d27958efa"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_86cf47e50b039bf2",
@@ -2352,10 +2668,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−16−１０ メイプルファームA 1",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Tecona bagel 自由が丘」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−16−１０ メイプルファームA 1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Tecona bagel 自由が丘」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−16−１０ メイプルファームA 1。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2400,7 +2716,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 44
+      "displayOrder": 44,
+      "description": "「Tecona bagel 自由が丘」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−16−１０ メイプルファームA 1。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_86cf47e50b039bf2"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_0514cc213a0208ee",
@@ -2408,10 +2733,10 @@
       "address": "〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−15−４ de aone 2F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「RISTRETTO & CROISSANT LABORATORIO」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−15−４ de aone 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「RISTRETTO & CROISSANT LABORATORIO」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−15−４ de aone 2F。",
+        "來源包括SoloInTokyoLife、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2457,7 +2782,17 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 45
+      "displayOrder": 45,
+      "description": "「RISTRETTO & CROISSANT LABORATORIO」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 2-chōme−15−４ de aone 2F。\n\n來源包括SoloInTokyoLife、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0514cc213a0208ee",
+          "p_91ff2b6df6b8fd1f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_8a0e382077cc0586",
@@ -2465,10 +2800,10 @@
       "address": "目黒区自由が丘２丁目１５−７ 自由が丘駅 徒歩４分",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・目黒区自由が丘２丁目１５−７ 自由が丘駅 徒歩４分。",
       "descriptionParagraphs": [
-        "「C'EST UNE BONNE IDÉE 自由が丘店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 目黒区自由が丘２丁目１５−７ 自由が丘駅 徒歩４分。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「C'EST UNE BONNE IDÉE 自由が丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 目黒区自由が丘２丁目１５−７ 自由が丘駅 徒歩４分。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2509,7 +2844,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 46
+      "displayOrder": 46,
+      "description": "「C'EST UNE BONNE IDÉE 自由が丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 目黒区自由が丘２丁目１５−７ 自由が丘駅 徒歩４分。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8a0e382077cc0586"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_af25c633c769e627",
@@ -2517,10 +2861,10 @@
       "address": "2-chōme-14-2 Jiyūgaoka, Meguro City, Tokyo 152-0035",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-14-2 Jiyūgaoka…。",
       "descriptionParagraphs": [
-        "「PIZZA17」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-14-2 Jiyūgaoka, Meguro City, Tokyo 152-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「PIZZA17」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-14-2 Jiyūgaoka, Meguro City, Tokyo 152-0035。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2559,18 +2903,27 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 47
+      "displayOrder": 47,
+      "description": "「PIZZA17」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-14-2 Jiyūgaoka, Meguro City, Tokyo 152-0035。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_af25c633c769e627"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_07f24538c3b013f1",
       "name": "Paris S'eveille（パリセヴェイユ）",
       "address": "東京都目黒区自由が丘2-14-5 館山ビル1F",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区自由が丘2-14-5 館山ビル1F。",
       "descriptionParagraphs": [
-        "「Paris S'eveille（パリセヴェイユ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘2-14-5 館山ビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Paris S'eveille（パリセヴェイユ）」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘2-14-5 館山ビル1F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2615,7 +2968,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 48
+      "displayOrder": 48,
+      "description": "「Paris S'eveille（パリセヴェイユ）」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘2-14-5 館山ビル1F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_07f24538c3b013f1"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_fe665ea89a684890",
@@ -2623,10 +2985,10 @@
       "address": "〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 2F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・Tokyo…。",
       "descriptionParagraphs": [
-        "「amber」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「amber」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 2F。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2665,7 +3027,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 49
+      "displayOrder": 49,
+      "description": "「amber」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 2F。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_fe665ea89a684890"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_f408adfdd044c778",
@@ -2673,10 +3044,10 @@
       "address": "〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 1F",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Dumbo」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Dumbo」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 1F。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2715,7 +3086,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 50
+      "displayOrder": 50,
+      "description": "「Dumbo」位於本次自由之丘收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒158-0083 Tokyo, Setagaya City, Okusawa, 5-chōme−42−３ トレインチ自由が丘 1F。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_f408adfdd044c778"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_83645868e06b3292",
@@ -2723,10 +3103,10 @@
       "address": "6-chōme-33-14 Okusawa, Setagaya City, Tokyo 158-0083",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・6-chōme-33-14 Okusawa…。",
       "descriptionParagraphs": [
-        "「Magie du Chocolat Jiyugaoka」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 6-chōme-33-14 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Magie du Chocolat Jiyugaoka」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 6-chōme-33-14 Okusawa, Setagaya City, Tokyo 158-0083。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2765,18 +3145,27 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 51
+      "displayOrder": 51,
+      "description": "「Magie du Chocolat Jiyugaoka」位於本次自由之丘收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 6-chōme-33-14 Okusawa, Setagaya City, Tokyo 158-0083。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_83645868e06b3292"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_97c7c35ba75a38b6",
       "name": "台湾 席茶 蓮月庭",
       "address": "東京都目黒区自由が丘2-15-10 A&Dハウス102",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区自由が丘2-15-10 A&Dハウス102。",
       "descriptionParagraphs": [
-        "「台湾 席茶 蓮月庭」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘2-15-10 A&Dハウス102。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「台湾 席茶 蓮月庭」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘2-15-10 A&Dハウス102。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2821,18 +3210,27 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": 52
+      "displayOrder": 52,
+      "description": "「台湾 席茶 蓮月庭」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘2-15-10 A&Dハウス102。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_97c7c35ba75a38b6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_a708b066a52a91e2",
       "name": "THE ESSENCE",
       "address": "東京都目黒区自由が丘1-27-2",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区自由が丘1-27-2。",
       "descriptionParagraphs": [
-        "「THE ESSENCE」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘1-27-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「THE ESSENCE」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘1-27-2。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "自由が丘.net 已將 THE ESSENCE 標示為閉店；保留影片與自由が丘ひかり街原址紀錄，插圖依當時店面照片製作。",
       "coordinate": {
@@ -2877,18 +3275,27 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": null
+      "displayOrder": null,
+      "description": "「THE ESSENCE」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘1-27-2。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a708b066a52a91e2"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_235b4857c973520d",
       "name": "花きゃべつ",
       "address": "東京都目黒区自由が丘1丁目7-3",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区自由が丘1丁目7-3。",
       "descriptionParagraphs": [
-        "「花きゃべつ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘1丁目7-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「花きゃべつ」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘1丁目7-3。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "食べログ目前將自由之丘花きゃべつ標示為閉店；保留影片與原址紀錄，插圖依原店照片製作。",
       "coordinate": {
@@ -2933,7 +3340,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": null
+      "displayOrder": null,
+      "description": "「花きゃべつ」位於本次自由之丘收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区自由が丘1丁目7-3。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_235b4857c973520d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_07ff0e02ab26b303",
@@ -2941,10 +3357,10 @@
       "address": "東京都目黒区自由が丘1丁目4-10",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都目黒区自由が丘1丁目4-10。",
       "descriptionParagraphs": [
-        "「資生堂パーラー 自由が丘店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区自由が丘1丁目4-10。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「資生堂パーラー 自由が丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都目黒区自由が丘1丁目4-10。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "資生堂パーラー自由が丘店已於2024年6月16日結束營業；保留影片與原址紀錄，插圖依當時店面照片製作。",
       "coordinate": {
@@ -2989,7 +3405,16 @@
         "href": "/walks/jiyugaoka/"
       },
       "recommendation": null,
-      "displayOrder": null
+      "displayOrder": null,
+      "description": "「資生堂パーラー 自由が丘店」位於本次自由之丘收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都目黒区自由が丘1丁目4-10。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_07ff0e02ab26b303"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [
@@ -3196,12 +3621,12 @@
       "id": "jiyugaoka--p_bbbcfa152724fbf5",
       "name": "有機茶生どら Dolala",
       "address": "東京都目黒区中根1-23-5 1F",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区中根1-23-5 1F。",
       "descriptionParagraphs": [
-        "「有機茶生どら Dolala」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区中根1-23-5 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「有機茶生どら Dolala」位於本次都立大學・中根收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区中根1-23-5 1F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "食べログ標示 Dolala 已由中根 1-23-5 遷往橫濱市旭區南本宿町；本頁保留影片中的中根原址，插圖依原店照片製作。",
       "coordinate": {
@@ -3254,7 +3679,16 @@
         "name": "都立大學・中根",
         "href": "/walks/toritsu-daigaku/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「有機茶生どら Dolala」位於本次都立大學・中根收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区中根1-23-5 1F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bbbcfa152724fbf5"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_caef28ea72e47439",
@@ -3262,10 +3696,10 @@
       "address": "東京都世田谷区奥沢3丁目45−2",
       "group": "sights",
       "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
+      "caption": "交通・東京都世田谷区奥沢3丁目45−2。",
       "descriptionParagraphs": [
-        "「アルチザン・ブーランジェ・クピド」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢3丁目45−2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「アルチザン・ブーランジェ・クピド」位於本次奧澤收錄範圍，既有資料將這一站歸為交通。地址紀錄為 東京都世田谷区奥沢3丁目45−2。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -3306,18 +3740,27 @@
         "name": "奧澤",
         "href": "/walks/okusawa/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「アルチザン・ブーランジェ・クピド」位於本次奧澤收錄範圍，既有資料將這一站歸為交通。地址紀錄為 東京都世田谷区奥沢3丁目45−2。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_caef28ea72e47439"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_192e7685627626d7",
       "name": "アトリエルル",
       "address": "東京都世田谷区奥沢4丁目26-9",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都世田谷区奥沢4丁目26-9。",
       "descriptionParagraphs": [
-        "「アトリエルル」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢4丁目26-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「アトリエルル」位於本次奧澤收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都世田谷区奥沢4丁目26-9。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -3362,7 +3805,16 @@
         "name": "奧澤",
         "href": "/walks/okusawa/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「アトリエルル」位於本次奧澤收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都世田谷区奥沢4丁目26-9。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_192e7685627626d7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_02a9b798f688b70f",
@@ -3370,10 +3822,10 @@
       "address": "東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。",
       "descriptionParagraphs": [
-        "「Relief coffee stand」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Relief coffee stand」位於本次奧澤收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -3418,7 +3870,16 @@
         "name": "奧澤",
         "href": "/walks/okusawa/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Relief coffee stand」位於本次奧澤收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都世田谷区奥沢4-4-7 スカイハイツ奥沢 1F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_02a9b798f688b70f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_bb6b140592115737",
@@ -3426,10 +3887,10 @@
       "address": "",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・奧澤的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「茶房牡丹 (Sabou Botan)」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「茶房牡丹 (Sabou Botan)」位於本次奧澤收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -3471,7 +3932,16 @@
         "name": "奧澤",
         "href": "/walks/okusawa/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「茶房牡丹 (Sabou Botan)」位於本次奧澤收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bb6b140592115737"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_3617c2776b3f5525",
@@ -3479,10 +3949,10 @@
       "address": "7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・7-chōme-41-3 Okusawa…。",
       "descriptionParagraphs": [
-        "「九品山 唯在念佛院 淨眞寺」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「九品山 唯在念佛院 淨眞寺」位於本次九品佛收錄範圍，既有資料將這一站歸為景點。地址紀錄為 7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -3523,7 +3993,16 @@
         "name": "九品佛",
         "href": "/walks/kuhonbutsu/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「九品山 唯在念佛院 淨眞寺」位於本次九品佛收錄範圍，既有資料將這一站歸為景點。地址紀錄為 7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3617c2776b3f5525"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_083cfefd907be600",
@@ -3531,10 +4010,10 @@
       "address": "7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・7-chōme-19-12 Okusawa…。",
       "descriptionParagraphs": [
-        "「Comme'N」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Comme'N」位於本次九品佛收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -3587,18 +4066,29 @@
         "name": "九品佛",
         "href": "/walks/kuhonbutsu/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Comme'N」位於本次九品佛收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_083cfefd907be600",
+          "p_4f67c84ecb544322",
+          "p_24a0c72573b60d49"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_83889c8a300ae40e",
       "name": "gouter(グテ)",
       "address": "東京都世田谷区奥沢6-13-7",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都世田谷区奥沢6-13-7。",
       "descriptionParagraphs": [
-        "「gouter(グテ)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢6-13-7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「gouter(グテ)」位於本次九品佛收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都世田谷区奥沢6-13-7。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "食べログ目前標示九品佛的 gouter 已閉店；保留影片與原址紀錄，插圖依原店面照片製作。出發前請另行確認，勿與學藝大學的同名麵包店混淆。",
       "coordinate": {
@@ -3643,7 +4133,16 @@
         "name": "九品佛",
         "href": "/walks/kuhonbutsu/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「gouter(グテ)」位於本次九品佛收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都世田谷区奥沢6-13-7。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_83889c8a300ae40e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_09e4054dfdbf4b2f",
@@ -3651,10 +4150,10 @@
       "address": "東京都世田谷区奥沢8-3-2",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・東京都世田谷区奥沢8-3-2。",
       "descriptionParagraphs": [
-        "「D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢8-3-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )」位於本次九品佛收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都世田谷区奥沢8-3-2。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -3699,7 +4198,16 @@
         "name": "九品佛",
         "href": "/walks/kuhonbutsu/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )」位於本次九品佛收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都世田谷区奥沢8-3-2。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_09e4054dfdbf4b2f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "inheritedWalkIds": []

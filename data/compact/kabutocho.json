@@ -7,10 +7,10 @@
       "address": "3-chōme-5-1 Nihonbashikayabachō, Chuo City, Tokyo 103-0025",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・3-chōme-5-1 Nihonbashikayabachō…。",
       "descriptionParagraphs": [
-        "「串燒 宮川」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-5-1 Nihonbashikayabachō, Chuo City, Tokyo 103-0025。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「串燒 宮川」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 3-chōme-5-1 Nihonbashikayabachō, Chuo City, Tokyo 103-0025。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -55,7 +55,16 @@
         "href": "/walks/kabutocho/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「串燒 宮川」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 3-chōme-5-1 Nihonbashikayabachō, Chuo City, Tokyo 103-0025。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_f706af44024bb8b9"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_6886d94828577668",
@@ -63,10 +72,10 @@
       "address": "〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「HOPPERS」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「HOPPERS」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -118,7 +127,16 @@
         ]
       },
       "recommendation": "在 HOPPERS 吃一份斯里蘭卡風味餐。",
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「HOPPERS」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6886d94828577668"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_9a34828da743d3c5",
@@ -126,10 +144,10 @@
       "address": "〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・Tokyo…。",
       "descriptionParagraphs": [
-        "「KNAG」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「KNAG」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -174,7 +192,16 @@
         "href": "/walks/kabutocho/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「KNAG」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 7−１ KABUTO ONE 1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9a34828da743d3c5"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_5551340b561336e3",
@@ -182,10 +209,10 @@
       "address": "〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル 1F",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Bakery Bank」出現在Hiro | Days in Tokyo、SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Bakery Bank」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル 1F。",
+        "來源包括Hiro | Days in Tokyo、SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -238,7 +265,16 @@
         ]
       },
       "recommendation": "在 bank 看看麵包與昔日銀行空間。",
-      "displayOrder": 4
+      "displayOrder": 4,
+      "description": "「Bakery Bank」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル 1F。\n\n來源包括Hiro | Days in Tokyo、SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5551340b561336e3"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_5ec65c7b62dfc0a1",
@@ -246,10 +282,10 @@
       "address": "〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Bistro Yen」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Bistro Yen」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -300,7 +336,16 @@
         "href": "/walks/kabutocho/"
       },
       "recommendation": null,
-      "displayOrder": 5
+      "displayOrder": 5,
+      "description": "「Bistro Yen」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 6−７ 兜町第7平和ビル。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5ec65c7b62dfc0a1"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_eebc3054c052ca99",
@@ -308,10 +353,10 @@
       "address": "6-5 Nihonbashikabutochō, Chuo City, Tokyo 103-0026",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・6-5 Nihonbashikabutochō…。",
       "descriptionParagraphs": [
-        "「SR Coffee Roaster」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 6-5 Nihonbashikabutochō, Chuo City, Tokyo 103-0026。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「SR Coffee Roaster」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 6-5 Nihonbashikabutochō, Chuo City, Tokyo 103-0026。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "SR於2025年由兜町9-5移至6-5；此處地址與插圖採官方目前店址，原影片連結保留。",
       "coordinate": {
@@ -352,7 +397,16 @@
         "href": "/walks/kabutocho/"
       },
       "recommendation": null,
-      "displayOrder": 6
+      "displayOrder": 6,
+      "description": "「SR Coffee Roaster」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 6-5 Nihonbashikabutochō, Chuo City, Tokyo 103-0026。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_eebc3054c052ca99"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_98c6e450d7807151",
@@ -360,10 +414,10 @@
       "address": "9-1 Nihonbashikabutochō, Chuo City, Tokyo 103-0026",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・9-1 Nihonbashikabutochō…。",
       "descriptionParagraphs": [
-        "「Pâtisserie ease」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 9-1 Nihonbashikabutochō, Chuo City, Tokyo 103-0026。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Pâtisserie ease」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 9-1 Nihonbashikabutochō, Chuo City, Tokyo 103-0026。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -402,7 +456,16 @@
         "href": "/walks/kabutocho/"
       },
       "recommendation": null,
-      "displayOrder": 7
+      "displayOrder": 7,
+      "description": "「Pâtisserie ease」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 9-1 Nihonbashikabutochō, Chuo City, Tokyo 103-0026。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_98c6e450d7807151"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_ec7e511b666baecf",
@@ -410,10 +473,10 @@
       "address": "東京都中央区日本橋兜町3-5",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都中央区日本橋兜町3-5。",
       "descriptionParagraphs": [
-        "「CAFE DANCE(カフェダンス)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋兜町3-5。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「CAFE DANCE(カフェダンス)」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都中央区日本橋兜町3-5。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -466,7 +529,16 @@
         "href": "/walks/kabutocho/"
       },
       "recommendation": null,
-      "displayOrder": 8
+      "displayOrder": 8,
+      "description": "「CAFE DANCE(カフェダンス)」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都中央区日本橋兜町3-5。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_ec7e511b666baecf"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_e560d31ba76fbc49",
@@ -474,10 +546,10 @@
       "address": "〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 3−５ K5ビル 1階",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・Tokyo…。",
       "descriptionParagraphs": [
-        "「K5」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 3−５ K5ビル 1階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「K5」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 3−５ K5ビル 1階。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -533,18 +605,27 @@
         ]
       },
       "recommendation": "從街道看 K5 的建築；使用餐飲空間時依現場規定入內。",
-      "displayOrder": 9
+      "displayOrder": 9,
+      "description": "「K5」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒103-0026 Tokyo, Chuo City, Nihonbashikabutochō, 3−５ K5ビル 1階。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e560d31ba76fbc49"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_27c9791341ecf996",
       "name": "teal （ティール）",
       "address": "東京都中央区日本橋兜町1-10 日証館 1F",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都中央区日本橋兜町1-10 日証館 1F。",
       "descriptionParagraphs": [
-        "「teal （ティール）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都中央区日本橋兜町1-10 日証館 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「teal （ティール）」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都中央区日本橋兜町1-10 日証館 1F。",
+        "來源包括Tokyo Cafe Channel、Hina Life in Japan、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -608,7 +689,17 @@
         ]
       },
       "recommendation": "到日證館一樓，選巧克力或冰淇淋，沿附近街廓慢走。",
-      "displayOrder": 10
+      "displayOrder": 10,
+      "description": "「teal （ティール）」位於本次兜町・茅場町收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都中央区日本橋兜町1-10 日証館 1F。\n\n來源包括Tokyo Cafe Channel、Hina Life in Japan、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_27c9791341ecf996",
+          "p_6f750ca8d1f63693"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [

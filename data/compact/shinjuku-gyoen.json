@@ -8,10 +8,10 @@
       "address": "東京都新宿区新宿1-5-5 御苑フラトー2F",
       "group": "food",
       "categoryLabel": "中華料理",
-      "caption": "影片中收錄的停留點",
+      "caption": "中華料理・東京都新宿区新宿1-5-5 御苑フラトー2F。",
       "descriptionParagraphs": [
-        "原影片介紹新宿御苑旁的中華料理店古月新宿，已修正先前誤配的池之端本店。",
-        "原始資料記錄的地址為 東京都新宿区新宿1-5-5 御苑フラトー2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「古月 新宿（閉店紀錄）」位於本次新宿御苑前收錄範圍，既有資料將這一站歸為中華料理。地址紀錄為 東京都新宿区新宿1-5-5 御苑フラトー2F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片食べログ連結明確指向新宿店；食べログ與散步の達人均已標示閉店。保留新宿原址與影片，不再列入導航。",
       "coordinate": {
@@ -54,7 +54,16 @@
         "href": "/walks/shinjuku-gyoen/"
       },
       "recommendation": null,
-      "displayOrder": null
+      "displayOrder": null,
+      "description": "「古月 新宿（閉店紀錄）」位於本次新宿御苑前收錄範圍，既有資料將這一站歸為中華料理。地址紀錄為 東京都新宿区新宿1-5-5 御苑フラトー2F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6c2c7ef5276cb53a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

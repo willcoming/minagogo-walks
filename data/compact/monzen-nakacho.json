@@ -53,10 +53,10 @@
       "address": "1-chōme-2-4 Monzennakachō, Koto City, Tokyo 135-0048",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・1-chōme-2-4 Monzennakachō…。",
       "descriptionParagraphs": [
-        "「門仲パン屋 MONPAN」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-2-4 Monzennakachō, Koto City, Tokyo 135-0048。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「門仲パン屋 MONPAN」位於本次門前仲町收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 1-chōme-2-4 Monzennakachō, Koto City, Tokyo 135-0048。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -95,7 +95,16 @@
         "href": "/walks/monzen-nakacho/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「門仲パン屋 MONPAN」位於本次門前仲町收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 1-chōme-2-4 Monzennakachō, Koto City, Tokyo 135-0048。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_307db0b60498ca6d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "monzen-nakacho--marushichi",
@@ -198,10 +207,10 @@
       "address": "〒135-0048 Tokyo, Koto City, Monzennakachō, 2-chōme−6−９ ひいらぎビル 1F",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・Tokyo…。",
       "descriptionParagraphs": [
-        "「Dorayama」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒135-0048 Tokyo, Koto City, Monzennakachō, 2-chōme−6−９ ひいらぎビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Dorayama」位於本次門前仲町收錄範圍，既有資料將這一站歸為購物。地址紀錄為 〒135-0048 Tokyo, Koto City, Monzennakachō, 2-chōme−6−９ ひいらぎビル 1F。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -240,7 +249,16 @@
         "href": "/walks/monzen-nakacho/"
       },
       "recommendation": null,
-      "displayOrder": 5
+      "displayOrder": 5,
+      "description": "「Dorayama」位於本次門前仲町收錄範圍，既有資料將這一站歸為購物。地址紀錄為 〒135-0048 Tokyo, Koto City, Monzennakachō, 2-chōme−6−９ ひいらぎビル 1F。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c11ad7477122755a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "monzen-nakacho--park",
@@ -287,10 +305,10 @@
       "address": "1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・1-chōme-14-7 Tomioka。",
       "descriptionParagraphs": [
-        "「（有）其角」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「其角せんべい」位於本次門前仲町收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -329,7 +347,16 @@
         "href": "/walks/monzen-nakacho/"
       },
       "recommendation": null,
-      "displayOrder": 7
+      "displayOrder": 7,
+      "description": "「其角せんべい」位於本次門前仲町收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 1-chōme-14-7 Tomioka, Koto City, Tokyo 135-0047。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3cee4b6ce07e8b5f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "monzen-nakacho--monz",
@@ -384,10 +411,10 @@
       "address": "1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047",
       "group": "food",
       "categoryLabel": "和菓子",
-      "caption": "影片中收錄的停留點",
+      "caption": "和菓子・1-chōme-14-4 Tomioka。",
       "descriptionParagraphs": [
-        "「Tekka」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「天然鯛焼き 鉄華」位於本次門前仲町收錄範圍，既有資料將這一站歸為和菓子。地址紀錄為 1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -426,7 +453,16 @@
         "href": "/walks/monzen-nakacho/"
       },
       "recommendation": null,
-      "displayOrder": 9
+      "displayOrder": 9,
+      "description": "「天然鯛焼き 鉄華」位於本次門前仲町收錄範圍，既有資料將這一站歸為和菓子。地址紀錄為 1-chōme-14-4 Tomioka, Koto City, Tokyo 135-0047。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_04eb0df096ee3f59"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "monzen-nakacho--fudo",
@@ -520,10 +556,10 @@
       "address": "〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo。",
       "descriptionParagraphs": [
-        "「Fukagawa Iseya Honten」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「深川伊勢屋 本店」位於本次門前仲町收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -562,7 +598,16 @@
         "href": "/walks/monzen-nakacho/"
       },
       "recommendation": null,
-      "displayOrder": 12
+      "displayOrder": 12,
+      "description": "「深川伊勢屋 本店」位於本次門前仲町收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒135-0047 Tokyo, Koto City, Tomioka, 1-chōme−9−９ 明光堂ビル １F。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e9bded65ce3c24bc"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "monzen-nakacho--fukagawajuku",
@@ -835,10 +880,10 @@
       "address": "東京都大島町元町3-3-3",
       "group": "sights",
       "categoryLabel": "住宿",
-      "caption": "影片中收錄的停留點",
+      "caption": "住宿・東京都大島町元町3-3-3。",
       "descriptionParagraphs": [
-        "原影片22:27住宿章節介紹伊豆大島的 Hotel Shiraiwa（ホテル白岩），位於元町港附近高地。",
-        "原始資料記錄的地址為 東京都大島町元町3-3-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Hotel Shiraiwa（ホテル白岩）」位於本次伊豆大島・元町收錄範圍，既有資料將這一站歸為住宿。地址紀錄為 東京都大島町元町3-3-3。",
+        "來源包括Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "伊豆大島住宿紀錄，需另行安排船班或航班。預約與館內設施開放方式請向飯店確認。",
       "coordinate": {
@@ -883,7 +928,16 @@
         "name": "伊豆大島・元町",
         "href": "/walks/izu-oshima-motomachi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Hotel Shiraiwa（ホテル白岩）」位於本次伊豆大島・元町收錄範圍，既有資料將這一站歸為住宿。地址紀錄為 東京都大島町元町3-3-3。\n\n來源包括Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_18174abe5963517a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "inheritedWalkIds": []

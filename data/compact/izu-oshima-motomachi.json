@@ -7,10 +7,10 @@
       "address": "東京都大島町元町3-3-3",
       "group": "sights",
       "categoryLabel": "住宿",
-      "caption": "影片中收錄的停留點",
+      "caption": "住宿・東京都大島町元町3-3-3。",
       "descriptionParagraphs": [
-        "原影片22:27住宿章節介紹伊豆大島的 Hotel Shiraiwa（ホテル白岩），位於元町港附近高地。",
-        "原始資料記錄的地址為 東京都大島町元町3-3-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Hotel Shiraiwa（ホテル白岩）」位於本次伊豆大島・元町收錄範圍，既有資料將這一站歸為住宿。地址紀錄為 東京都大島町元町3-3-3。",
+        "來源包括Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "伊豆大島住宿紀錄，需另行安排船班或航班。預約與館內設施開放方式請向飯店確認。",
       "coordinate": {
@@ -55,7 +55,16 @@
         "href": "/walks/izu-oshima-motomachi/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「Hotel Shiraiwa（ホテル白岩）」位於本次伊豆大島・元町收錄範圍，既有資料將這一站歸為住宿。地址紀錄為 東京都大島町元町3-3-3。\n\n來源包括Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_18174abe5963517a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

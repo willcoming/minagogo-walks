@@ -7,10 +7,10 @@
       "address": "〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Asakusa Beer Kobo」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Asakusa Beer Kobo」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -49,7 +49,16 @@
         "href": "/walks/kappabashi/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「Asakusa Beer Kobo」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_184e27e9c0f46ecd"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_ad9b609d7d486246",
@@ -57,10 +66,10 @@
       "address": "2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-1-11 Nishiasakusa…。",
       "descriptionParagraphs": [
-        "「紅鶴」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「紅鶴」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035。",
+        "來源包括ハーリーのグルメ、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -127,18 +136,28 @@
         ]
       },
       "recommendation": "依紅鶴當日店頭預約時段用餐，先確認名額與訂金規則。",
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「紅鶴」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035。\n\n來源包括ハーリーのグルメ、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_ad9b609d7d486246",
+          "p_786f709ac9df6eed"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_c2bc8a559c049512",
       "name": "かぐらちゃかプチ",
       "address": "東京都台東区西浅草２丁目２７−１１",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区西浅草２丁目２７−１１。",
       "descriptionParagraphs": [
-        "「かぐらちゃかプチ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区西浅草２丁目２７−１１。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「かぐらちゃかプチ」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区西浅草２丁目２７−１１。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -181,7 +200,16 @@
         "href": "/walks/kappabashi/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「かぐらちゃかプチ」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区西浅草２丁目２７−１１。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c2bc8a559c049512"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_03b06522b228de6a",
@@ -189,10 +217,10 @@
       "address": "東京都台東区西浅草3-1-12",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：極上霜降和牛御膳",
       "descriptionParagraphs": [
-        "「壽喜燒老店 淺草今半」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区西浅草3-1-12。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「壽喜燒老店 淺草今半」的餐點筆記提到極上霜降和牛御膳。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -233,18 +261,27 @@
         "href": "/walks/kappabashi/"
       },
       "recommendation": null,
-      "displayOrder": 4
+      "displayOrder": 4,
+      "description": "原影片在「壽喜燒老店 淺草今半」的餐點筆記提到極上霜降和牛御膳。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_03b06522b228de6a"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_cc07870cb0906223",
       "name": "本とさや",
       "address": "東京都台東区西浅草3-1-9",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "影片餐點筆記：特上牛小排+鹽味牛舌+特上橫隔膜",
       "descriptionParagraphs": [
-        "「本とさや」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区西浅草3-1-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「本とさや」的餐點筆記提到特上牛小排+鹽味牛舌+特上橫隔膜。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -295,7 +332,17 @@
         "href": "/walks/kappabashi/"
       },
       "recommendation": null,
-      "displayOrder": 5
+      "displayOrder": 5,
+      "description": "原影片在「本とさや」的餐點筆記提到特上牛小排+鹽味牛舌+特上橫隔膜。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_cc07870cb0906223",
+          "p_fa597b5398849918"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_cf12a75d54630bf8",
@@ -303,10 +350,10 @@
       "address": "",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・合羽橋・西淺草的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「Cafe Otonova」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Cafe Otonova」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -356,7 +403,16 @@
         ]
       },
       "recommendation": "轉進西淺草巷弄，在 Otonova 留一段咖啡時間。",
-      "displayOrder": 6
+      "displayOrder": 6,
+      "description": "「Cafe Otonova」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_cf12a75d54630bf8"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_54b927a85af07aef",
@@ -364,10 +420,10 @@
       "address": "",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・合羽橋・西淺草的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「Union coffee shop」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Union coffee shop」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -416,7 +472,16 @@
         ]
       },
       "recommendation": "在 Union 咖啡豆店看豆款與香氣，當作外帶購物停留。",
-      "displayOrder": 7
+      "displayOrder": 7,
+      "description": "「Union coffee shop」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_54b927a85af07aef"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_58381eaff27a2e6d",
@@ -424,10 +489,10 @@
       "address": "2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-26-6 Matsugaya…。",
       "descriptionParagraphs": [
-        "「Tasuke Sushi」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Tasuke Sushi」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -466,18 +531,27 @@
         "href": "/walks/kappabashi/"
       },
       "recommendation": null,
-      "displayOrder": 8
+      "displayOrder": 8,
+      "description": "「Tasuke Sushi」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_58381eaff27a2e6d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_631cc84f7ca598c6",
       "name": "FU WA RI",
       "address": "",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "類別待確認",
+      "caption": "合羽橋・西淺草影片路線中的「FU WA RI」，用途與現況待確認。",
       "descriptionParagraphs": [
-        "「FU WA RI」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「FU WA RI」位於本次合羽橋・西淺草收錄範圍，既有資料尚不足以確認具體用途。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -519,18 +593,27 @@
         "href": "/walks/kappabashi/"
       },
       "recommendation": null,
-      "displayOrder": 9
+      "displayOrder": 9,
+      "description": "「FU WA RI」位於本次合羽橋・西淺草收錄範圍，既有資料尚不足以確認具體用途。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_631cc84f7ca598c6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_e6d53140c027e6ef",
       "name": "Majimaya",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "東京都台東区西浅草2-5-4",
+      "group": "shops",
+      "categoryLabel": "烘焙模具・道具",
+      "caption": "烘焙模具・道具・東京都台東区西浅草2-5-4。",
       "descriptionParagraphs": [
-        "「Majimaya」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Majimaya」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為烘焙模具・道具。地址紀錄為 東京都台東区西浅草2-5-4。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -550,7 +633,7 @@
           "seconds": 571
         }
       ],
-      "official": null,
+      "official": "https://majimaya.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -580,7 +663,27 @@
         ]
       },
       "recommendation": "到馬嶋屋看看烘焙模具，購物量依行李空間取捨。",
-      "displayOrder": 10
+      "displayOrder": 10,
+      "description": "「Majimaya」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為烘焙模具・道具。地址紀錄為 東京都台東区西浅草2-5-4。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e6d53140c027e6ef"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://majimaya.com/",
+            "checkedAt": "2026-10-28",
+            "result": "官方搜尋結果列馬嶋屋菓子道具店、Majimaya與西淺草2-5-4，烘焙用品；完整頁面逾時，未設定營業時間。"
+          }
+        ],
+        "findings": "官方搜尋結果列馬嶋屋菓子道具店、Majimaya與西淺草2-5-4，烘焙用品；完整頁面逾時，未設定營業時間。"
+      }
     },
     {
       "id": "asakusa--p_2c2d8618572883d6",
@@ -588,10 +691,10 @@
       "address": "3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・3-chōme-18-2 Matsugaya…。",
       "descriptionParagraphs": [
-        "「合羽橋」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「合羽橋」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為景點。地址紀錄為 3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036。",
+        "來源包括Unique Japan Travel、Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -641,18 +744,28 @@
         "href": "/walks/kappabashi/"
       },
       "recommendation": null,
-      "displayOrder": 11
+      "displayOrder": 11,
+      "description": "「合羽橋」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為景點。地址紀錄為 3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036。\n\n來源包括Unique Japan Travel、Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2c2d8618572883d6",
+          "p_5166ba32987fb735"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_0c9c659b6d86b287",
       "name": "Dengama",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "東京都台東区西浅草1-4-3",
+      "group": "shops",
+      "categoryLabel": "陶器・器皿",
+      "caption": "陶器・器皿・東京都台東区西浅草1-4-3。",
       "descriptionParagraphs": [
-        "「Dengama」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Dengama」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為陶器・器皿。地址紀錄為 東京都台東区西浅草1-4-3。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -672,7 +785,7 @@
           "seconds": 571
         }
       ],
-      "official": null,
+      "official": "https://den-gama.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -702,7 +815,27 @@
         ]
       },
       "recommendation": "從田窯的陶器開始逛道具街，挑喜歡的日用器皿。",
-      "displayOrder": 12
+      "displayOrder": 12,
+      "description": "「Dengama」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為陶器・器皿。地址紀錄為 東京都台東区西浅草1-4-3。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0c9c659b6d86b287"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://den-gama.com/",
+            "checkedAt": "2026-10-28",
+            "result": "官方搜尋結果列和の器田窯（Dengama）與西淺草1-4-3；完整頁面逾時，未設定營業時間。"
+          }
+        ],
+        "findings": "官方搜尋結果列和の器田窯（Dengama）與西淺草1-4-3；完整頁面逾時，未設定營業時間。"
+      }
     }
   ],
   "routes": [

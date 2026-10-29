@@ -5,13 +5,13 @@
     {
       "id": "kiyosumi-shirakawa--p_b231c7d0ce46bc81",
       "name": "Farm to Me Restaurant",
-      "address": "〒135-0006 Tokyo, Koto City, Tokiwa, 1-chōme−4−４ Farm to Me SUGAR FACTORY 3階",
+      "address": "東京都江東区常盤1-4-4 Farm to Me SUGAR FACTORY 3F",
       "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "餐廳・麵包",
+      "caption": "在隅田川畔，把現烤麵包與季節料理排進午餐。",
       "descriptionParagraphs": [
-        "「Farm to Me Restaurant」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒135-0006 Tokyo, Koto City, Tokiwa, 1-chōme−4−４ Farm to Me SUGAR FACTORY 3階。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "Farm to Me SUGAR FACTORY 三樓的餐廳，將自家麵包與季節食材料理搭配。這筆紀錄對應三樓 Restaurant；同棟一樓 Bakery & Shop 是不同的用餐與購買入口，營業時段也不同。",
+        "餐廳平日與週末以午、晚餐分時提供，週日另有早餐、晚餐休息。若為影片中的早餐而來，請先確認星期與預約；官方與食べログ對週日下午咖啡時段的記載不同，該時段仍待確認。"
       ],
       "note": "",
       "coordinate": {
@@ -42,7 +42,7 @@
           "seconds": 19
         }
       ],
-      "official": null,
+      "official": "https://farm-to-me.com/menu/restaurant/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -65,7 +65,42 @@
         "href": "/walks/kiyosumi-shirakawa/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "visitingHours": {
+        "summary": "週二、三休・午11–16／晚18–22（日晚休）",
+        "note": "週日早餐8:30–10:30。週日下午咖啡時段：官方14–17、食べログ16–17，尚待店家確認。訂位與最後點餐請查看官方公告。",
+        "sourceUrl": "https://farm-to-me.com/access/",
+        "sourceLabel": "官方營業資訊",
+        "checkedAt": "2026-10-28",
+        "status": "partial-conflict"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1312/A131201/13289115/",
+            "result": "3F Restaurant，週二三休；午11–16、晚18–22、週日無晚餐；週日咖啡16–17。",
+            "checkedAt": "2026-10-28"
+          },
+          {
+            "url": "https://tabelog.com/tokyo/A1312/A131201/13282954/",
+            "result": "同址1F Bakery，與Restaurant不同店面，不套用麵包店時段。",
+            "checkedAt": "2026-10-28"
+          },
+          {
+            "url": "https://farm-to-me.com/access/",
+            "result": "官方地址與樓層確認；餐廳午晚餐及定休一致，週日咖啡14–17有衝突。",
+            "checkedAt": "2026-10-28"
+          },
+          {
+            "url": "https://farm-to-me.com/menu/restaurant/",
+            "result": "麵包與料理、週日早餐說明。",
+            "checkedAt": "2026-10-28"
+          }
+        ],
+        "findings": "以店名、東京都江東区常盤1-4-4與3F核對Restaurant，另查同址1F Bakery避免套錯時段。午晚餐、週二三定休及週日早餐一致；週日咖啡時段不一致，保留待確認。"
+      },
+      "description": "Farm to Me SUGAR FACTORY 三樓的餐廳，將自家麵包與季節食材料理搭配。這筆紀錄對應三樓 Restaurant；同棟一樓 Bakery & Shop 是不同的用餐與購買入口，營業時段也不同。\n\n餐廳平日與週末以午、晚餐分時提供，週日另有早餐、晚餐休息。若為影片中的早餐而來，請先確認星期與預約；官方與食べログ對週日下午咖啡時段的記載不同，該時段仍待確認。"
     },
     {
       "id": "kiyosumi-shirakawa--iki",
@@ -121,13 +156,13 @@
     {
       "id": "kiyosumi-shirakawa--p_b604af4fde716f6a",
       "name": "BELLA NAPOLI",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "東京都江東区高橋9-3",
+      "group": "food",
+      "categoryLabel": "披薩・義式料理",
+      "caption": "高橋街巷裡的披薩餐廳，影片以生火腿芝麻葉披薩為重點。",
       "descriptionParagraphs": [
-        "「BELLA NAPOLI」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "位於江東區高橋9-3的 BELLA NAPOLI，是清澄白河與森下之間的披薩、義式料理店。原影片介紹的重點是生火腿與芝麻葉披薩，可從保留的章節連結回看。",
+        "營業資訊存在版本差異：食べログ列週三至六18–22、週日17–21、週一二休；江東區時間仍列週二至六18–22:30、週日及假日17–21:30、週一休。未能確認哪份仍有效，晚餐時段與休息日請在訂位時確認。"
       ],
       "note": "",
       "coordinate": {
@@ -176,7 +211,37 @@
         "href": "/walks/kiyosumi-shirakawa/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "visitingHours": {
+        "summary": "晚餐時段・營業時間／定休日待確認",
+        "note": "來源不一致：食べログ列週一、二休；江東區時間列週一休，晚間結束時間也不同。請向店家確認後安排。",
+        "sourceUrl": "https://tabelog.com/tokyo/A1312/A131201/13005043/",
+        "sourceLabel": "食べログ店家頁",
+        "checkedAt": "2026-10-28",
+        "status": "conflict"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1312/A131201/13005043/",
+            "result": "高橋9-3，披薩／義式料理；週三至六18–22、週日17–21、週一二休。",
+            "checkedAt": "2026-10-28"
+          },
+          {
+            "url": "https://www.koto-jikan.com/request/area/shop_detail/687/",
+            "result": "高橋9-3，披薩；列週二至六18–22:30、週日及假日17–21:30、週一休，與食べログ衝突。",
+            "checkedAt": "2026-10-28"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=79-liI53PXE&t=464s",
+            "result": "既有影片來源筆記記載生火腿芝麻葉披薩，保留章節。",
+            "checkedAt": "2026-10-28"
+          }
+        ],
+        "findings": "依高橋9-3、店名及原Maps位置匹配同一店，補披薩分類與原影片重點。營業時間和休息日來源有差異，未將任一版本當成確定現況。"
+      },
+      "description": "位於江東區高橋9-3的 BELLA NAPOLI，是清澄白河與森下之間的披薩、義式料理店。原影片介紹的重點是生火腿與芝麻葉披薩，可從保留的章節連結回看。\n\n營業資訊存在版本差異：食べログ列週三至六18–22、週日17–21、週一二休；江東區時間仍列週二至六18–22:30、週日及假日17–21:30、週一休。未能確認哪份仍有效，晚餐時段與休息日請在訂位時確認。"
     },
     {
       "id": "kiyosumi-shirakawa--reiganji",
@@ -548,10 +613,10 @@
       "address": "東京都江東区清澄3-1-3",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都江東区清澄3-1-3。",
       "descriptionParagraphs": [
-        "「TOKAKU coffee+(トカクコーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都江東区清澄3-1-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「TOKAKU coffee+(トカクコーヒー)」位於本次清澄白河收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都江東区清澄3-1-3。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -596,7 +661,16 @@
         "href": "/walks/kiyosumi-shirakawa/"
       },
       "recommendation": null,
-      "displayOrder": 12
+      "displayOrder": 12,
+      "description": "「TOKAKU coffee+(トカクコーヒー)」位於本次清澄白河收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都江東区清澄3-1-3。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2dd6bdfe83eae05f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kiyosumi-shirakawa--b2",
@@ -848,10 +922,10 @@
       "address": "3-chōme-7-2 Hirano, Koto City, Tokyo 135-0023",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・3-chōme-7-2 Hirano。",
       "descriptionParagraphs": [
-        "「Allpress Espresso Tokyo Roastery & Cafe」出現在MissLiv 日本旅行和生活的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-7-2 Hirano, Koto City, Tokyo 135-0023。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Allpress Espresso Tokyo Roastery & Cafe」位於本次清澄白河收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 3-chōme-7-2 Hirano, Koto City, Tokyo 135-0023。",
+        "來源包括MissLiv 日本旅行和生活的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -890,7 +964,16 @@
         "href": "/walks/kiyosumi-shirakawa/"
       },
       "recommendation": null,
-      "displayOrder": 18
+      "displayOrder": 18,
+      "description": "「Allpress Espresso Tokyo Roastery & Cafe」位於本次清澄白河收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 3-chōme-7-2 Hirano, Koto City, Tokyo 135-0023。\n\n來源包括MissLiv 日本旅行和生活的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_155fff76ca19dd39"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kiyosumi-shirakawa--p_a4ce61758b9a0179",
@@ -898,10 +981,10 @@
       "address": "東京都江東区平野3-7-21",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都江東区平野3-7-21。",
       "descriptionParagraphs": [
-        "「HAGAN ORGANIC COFFEE(ヘイガン オーガニック コーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都江東区平野3-7-21。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「HAGAN ORGANIC COFFEE(ヘイガン オーガニック コーヒー)」位於本次清澄白河收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都江東区平野3-7-21。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -946,7 +1029,16 @@
         "href": "/walks/kiyosumi-shirakawa/"
       },
       "recommendation": null,
-      "displayOrder": 19
+      "displayOrder": 19,
+      "description": "「HAGAN ORGANIC COFFEE(ヘイガン オーガニック コーヒー)」位於本次清澄白河收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都江東区平野3-7-21。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a4ce61758b9a0179"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kiyosumi-shirakawa--kiba",
@@ -1093,12 +1185,12 @@
       "id": "kiyosumi-shirakawa--p_62bdf99d8fd11928",
       "name": "小麦の奴隷 LABO×MITSUME（清澄白河舊址）",
       "address": "東京都江東区常盤1-15-1 1F MITSUME内",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都江東区常盤1-15-1 1F MITSUME内。",
       "descriptionParagraphs": [
-        "「小麦の奴隷 LABO×MITSUME」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都江東区常盤1-15-1 1F MITSUME内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「小麦の奴隷 LABO×MITSUME（清澄白河舊址）」位於本次清澄白河收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都江東区常盤1-15-1 1F MITSUME内。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "影片記錄常盤 1-15-1 的期間限定合作店。原店資料已標示搬遷；此處保留 2021 年舊址紀錄與當時店面插畫，請勿依舊址前往。2026-10-26 核對。",
       "coordinate": {
@@ -1143,7 +1235,16 @@
         "href": "/walks/kiyosumi-shirakawa/"
       },
       "recommendation": null,
-      "displayOrder": null
+      "displayOrder": null,
+      "description": "「小麦の奴隷 LABO×MITSUME（清澄白河舊址）」位於本次清澄白河收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都江東区常盤1-15-1 1F MITSUME内。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_62bdf99d8fd11928"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [
@@ -1306,10 +1407,10 @@
       "address": "〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo。",
       "descriptionParagraphs": [
-        "「Kashikobo Fukudora」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Kashikobo Fukudora」位於本次住吉收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -1348,7 +1449,16 @@
         "name": "住吉",
         "href": "/walks/sumiyoshi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Kashikobo Fukudora」位於本次住吉收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒135-0002 Tokyo, Koto City, Sumiyoshi, 2-chōme−3−１８ 井尾ビル。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_448c675d56366a58"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kiyosumi-shirakawa--p_0d5099d4cbbd85aa",

@@ -205,6 +205,14 @@
           "url": "https://www.youtube.com/watch?v=vctjD9CdC54",
           "time": "21:09",
           "seconds": 1269
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "Ihvo50HJD58",
+          "title": "#大阪自由行 第二次來大阪請住#本町 好好寵愛自己 舒服完大阪的10個密絕讓你愛不釋手#大阪住宿 #問屋街 大片綠地公園 高聳的辦公樓 與 美味的平價#美食 大阪人下班後都跑去哪? 大阪上班族的最愛",
+          "url": "https://www.youtube.com/watch?v=Ihvo50HJD58",
+          "time": "15:20",
+          "seconds": 920
         }
       ],
       "coordinate": {
@@ -628,10 +636,10 @@
       "address": "大阪府大阪市北区堂島浜1-1-27 大阪堂島浜タワー16F",
       "group": "sights",
       "categoryLabel": "觀景露臺",
-      "caption": "影片中收錄的停留點",
+      "caption": "觀景露臺・大阪府大阪市北区堂島浜1-1-27 大阪堂島浜タワー16F。",
       "descriptionParagraphs": [
-        "WowUs位於大阪堂島浜塔樓十六樓，設有觀光休憩區與戶外木平台。從露臺可以看向淀屋橋、御堂筋與中之島周邊，活動或天候可能影響開放範圍。",
-        "原始資料記錄的地址為 大阪府大阪市北区堂島浜1-1-27 大阪堂島浜タワー16F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「WowUs ワオアス」位於本次堂島浜收錄範圍，既有資料將這一站歸為觀景露臺。地址紀錄為 大阪府大阪市北区堂島浜1-1-27 大阪堂島浜タワー16F。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -676,7 +684,16 @@
         "name": "堂島浜",
         "href": "/walks/dojimahama/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「WowUs ワオアス」位於本次堂島浜收錄範圍，既有資料將這一站歸為觀景露臺。地址紀錄為 大阪府大阪市北区堂島浜1-1-27 大阪堂島浜タワー16F。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_fd6484147b2101f4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "inheritedWalkIds": []

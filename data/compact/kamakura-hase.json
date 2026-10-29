@@ -3,22 +3,22 @@
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
-      "id": "kamakura--p_aec1a4e4ae315e51",
-      "name": "茶房 空花 （サボウ ソラハナ）",
-      "address": "神奈川県鎌倉市由比ガ浜2-7-12-22",
+      "id": "kamakura--p_30ba752e2ae09af6",
+      "name": "なみまちベーグル",
+      "address": "神奈川県鎌倉市坂ノ下19-12",
       "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・神奈川県鎌倉市坂ノ下19-12。",
       "descriptionParagraphs": [
-        "「茶房 空花 （サボウ ソラハナ）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 神奈川県鎌倉市由比ガ浜2-7-12-22。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「なみまちベーグル」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市坂ノ下19-12。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.314236,
-        "lng": 139.546539,
+        "lat": 35.309639,
+        "lng": 139.533737,
         "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E7%94%B1%E6%AF%94%E3%82%AC%E6%B5%9C2-7-12-22",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%9D%82%E3%83%8E%E4%B8%8B19-12",
         "label": "國土地理院地址代表點",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
@@ -27,85 +27,29 @@
       "sources": [
         {
           "channel": "Tokyo Cafe Channel",
-          "videoId": "iHlWzlTrIOs",
-          "title": "【鎌倉】絶対に外さない鎌倉カフェ・グルメ８選【2024年保存版】古民家／非日常／江ノ電〜Kamakura food tour(with English subtitles)",
-          "url": "https://www.youtube.com/watch?v=iHlWzlTrIOs",
-          "time": "01:58",
-          "seconds": 118
+          "videoId": "2Fn2OzljIMg",
+          "title": "cafe vlog｜鎌倉カフェグルメ10選 {2022年保存版}人気／老舗／穴場／...etc",
+          "url": "https://www.youtube.com/watch?v=2Fn2OzljIMg",
+          "time": "0:17",
+          "seconds": 17
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_aec1a4e4ae315e51"
+          "p_30ba752e2ae09af6"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": true,
-        "mapUrl": "https://www.google.com/maps/place/%E8%8C%B6%E6%88%BF+%E7%A9%BA%E8%8A%B1+%E9%8E%8C%E5%80%89/@35.3142914,139.5465576,17z/data=!3m1!4b1!4m6!3m5!1s0x601845506d7f3619:0xd0b934b8d6468906!8m2!3d35.3142914!4d139.5465576!16s%2Fg%2F11f651w7jw?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%BF%E3%81%BE%E3%81%A1%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%9D%82%E3%83%8E%E4%B8%8B19-12"
       },
       "illustration": {
-        "image": "/art/source-library/kamakura--p_aec1a4e4ae315e51.webp",
-        "alt": "茶房 空花 （サボウ ソラハナ）的日系水彩插圖"
+        "image": "/art/source-library/kamakura--p_30ba752e2ae09af6.webp",
+        "alt": "なみまちベーグル的日系水彩插圖"
       },
       "order": 1,
-      "canonicalArea": {
-        "id": "kamakura-hase",
-        "name": "長谷・由比濱",
-        "href": "/walks/kamakura-hase/"
-      },
-      "recommendation": null,
-      "displayOrder": 1
-    },
-    {
-      "id": "kamakura--p_83a522f2f3d4787f",
-      "name": "無心庵 （むしんあん）",
-      "address": "神奈川県鎌倉市由比ガ浜3-2-13",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「無心庵 （むしんあん）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 神奈川県鎌倉市由比ガ浜3-2-13。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.31369,
-        "lng": 139.545074,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E7%94%B1%E6%AF%94%E3%82%AC%E6%B5%9C3-2-13",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "iHlWzlTrIOs",
-          "title": "【鎌倉】絶対に外さない鎌倉カフェ・グルメ８選【2024年保存版】古民家／非日常／江ノ電〜Kamakura food tour(with English subtitles)",
-          "url": "https://www.youtube.com/watch?v=iHlWzlTrIOs",
-          "time": "00:18",
-          "seconds": 18
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_83a522f2f3d4787f"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://www.google.com/maps/place/%E7%94%98%E5%91%B3%E8%99%95+%E7%84%A1%E5%BF%83%E5%BA%B5/@35.3136916,139.5449663,17z/data=!3m1!4b1!4m6!3m5!1s0x601845e8ee9a0aa7:0x4b2ebc800243f849!8m2!3d35.3136916!4d139.5449663!16s%2Fg%2F1tc_l2xk?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "illustration": {
-        "image": "/art/source-library/kamakura--p_83a522f2f3d4787f.webp",
-        "alt": "無心庵 （むしんあん）的日系水彩插圖"
-      },
-      "order": 2,
       "canonicalArea": {
         "id": "kamakura-hase",
         "name": "長谷・由比濱",
@@ -118,60 +62,85 @@
           "https://enokama.jp/spot/977/"
         ]
       },
-      "recommendation": "在無心庵吃甘味；鐵道附近請遵守店家與現場通行指示。",
-      "displayOrder": 2
+      "recommendation": "在坂之下挑一份貝果，再沿住宅街向由比濱方向步行。",
+      "displayOrder": 1,
+      "description": "「なみまちベーグル」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市坂ノ下19-12。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_30ba752e2ae09af6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
-      "id": "kamakura--p_11a7b56b06648837",
-      "name": "Ocean Harvest Cocomo",
-      "address": "〒248-0016 Kanagawa, Kamakura, Hase, 2-chōme−8−８ 鎌倉コートハウス ２F",
-      "group": "food",
-      "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "id": "kamakura--p_5cc1814454aacca7",
+      "name": "長谷寺",
+      "address": "3-chōme-11-2 Hase, Kamakura, Kanagawa 248-0016",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "景點・3-chōme-11-2 Hase。",
       "descriptionParagraphs": [
-        "「Ocean Harvest Cocomo」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒248-0016 Kanagawa, Kamakura, Hase, 2-chōme−8−８ 鎌倉コートハウス ２F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「長谷寺」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為景點。地址紀錄為 3-chōme-11-2 Hase, Kamakura, Kanagawa 248-0016。",
+        "來源包括Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.310355,
-        "lng": 139.53832620000003,
+        "lat": 35.3124645,
+        "lng": 139.5330634,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
-          "channel": "Hina Life in Japan",
-          "videoId": "HcSvq3GprBE",
-          "title": "japan diaries: exploring tokyo + full 5 day itinerary | coffee shops, food, shopping!",
-          "url": "https://www.youtube.com/watch?v=HcSvq3GprBE",
-          "time": "51:08",
-          "seconds": 3068
+          "channel": "Unique Japan Travel",
+          "videoId": "9KD3kg_L3n4",
+          "title": "吉卜力風的海濱小鎮 | 東京附近的鎌倉一日火車之旅 | 日本旅遊影片博客",
+          "url": "https://www.youtube.com/watch?v=9KD3kg_L3n4",
+          "time": "6:34",
+          "seconds": 394
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_11a7b56b06648837"
+          "p_5cc1814454aacca7"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=2698268847674408334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=6335264300188806609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/kamakura--p_11a7b56b06648837.webp",
-        "alt": "Ocean Harvest Cocomo的日系水彩插圖"
+        "image": "/art/source-library/kamakura--p_5cc1814454aacca7.webp",
+        "alt": "長谷寺的日系水彩插圖"
       },
-      "order": 3,
+      "order": 2,
       "canonicalArea": {
         "id": "kamakura-hase",
         "name": "長谷・由比濱",
         "href": "/walks/kamakura-hase/"
       },
-      "recommendation": null,
-      "displayOrder": 3
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.hasedera.jp/",
+          "https://www.kannoncoffee.com/"
+        ]
+      },
+      "recommendation": "沿長谷寺境內慢慢參觀，坡道與季節人潮另留彈性。",
+      "displayOrder": 2,
+      "description": "「長谷寺」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為景點。地址紀錄為 3-chōme-11-2 Hase, Kamakura, Kanagawa 248-0016。\n\n來源包括Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5cc1814454aacca7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kamakura--p_83867c89a61760d7",
@@ -179,10 +148,10 @@
       "address": "3-chōme-10-29 Hase, Kamakura, Kanagawa 248-0016",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・3-chōme-10-29 Hase。",
       "descriptionParagraphs": [
-        "「KANNON COFFEE kamakura」出現在MissLiv 日本旅行和生活的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-10-29 Hase, Kamakura, Kanagawa 248-0016。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「KANNON COFFEE kamakura」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 3-chōme-10-29 Hase, Kamakura, Kanagawa 248-0016。",
+        "來源包括MissLiv 日本旅行和生活的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -223,7 +192,7 @@
         "image": "/art/source-library/kamakura--p_83867c89a61760d7.webp",
         "alt": "KANNON COFFEE kamakura的日系水彩插圖"
       },
-      "order": 4,
+      "order": 3,
       "canonicalArea": {
         "id": "kamakura-hase",
         "name": "長谷・由比濱",
@@ -237,50 +206,132 @@
         ]
       },
       "recommendation": "走回門前街道，到 KANNON COFFEE 小休。",
-      "displayOrder": 4
+      "displayOrder": 3,
+      "description": "「KANNON COFFEE kamakura」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 3-chōme-10-29 Hase, Kamakura, Kanagawa 248-0016。\n\n來源包括MissLiv 日本旅行和生活的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_83867c89a61760d7",
+          "p_5ed6ccf90d927439"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
-      "id": "kamakura--p_5cc1814454aacca7",
-      "name": "長谷寺",
-      "address": "3-chōme-11-2 Hase, Kamakura, Kanagawa 248-0016",
-      "group": "sights",
-      "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "id": "kamakura--p_269fd575fb224380",
+      "name": "cafe Luonto",
+      "address": "神奈川県鎌倉市長谷2-11-21",
+      "group": "food",
+      "categoryLabel": "咖啡・甜點",
+      "caption": "在長谷鐵道旁喝咖啡、看江之電經過",
       "descriptionParagraphs": [
-        "「長谷寺」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-11-2 Hase, Kamakura, Kanagawa 248-0016。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "Luonto 位於長谷站附近的鐵道旁，以咖啡與甜點為主。白色外牆、藍色門框和面向鐵道的露台，讓窗外駛過的江之電也成為休息時的一部分。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.3124645,
-        "lng": 139.5330634,
+        "lat": 35.3115308,
+        "lng": 139.5368585,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/cafe+Luonto/@35.3115308,139.5368585,17z/data=!3m1!4b1!4m6!3m5!1s0x601845f1b5e5aaab:0x67426dd29618de1c!8m2!3d35.3115308!4d139.5368585!16s%2Fg%2F11bw_4gy1k?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/kanagawa/A1404/A140402/14063201/dtlmap/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "lS-aSHu0uo8",
+          "title": "東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=lS-aSHu0uo8",
+          "time": "10:26",
+          "seconds": 626
+        }
+      ],
+      "official": "https://enokama.jp/spot/1009/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_269fd575fb224380"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/cafe+Luonto/@35.3115308,139.5368585,17z/data=!3m1!4b1!4m6!3m5!1s0x601845f1b5e5aaab:0x67426dd29618de1c!8m2!3d35.3115308!4d139.5368585!16s%2Fg%2F11bw_4gy1k?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://enokama.jp/spot/1009/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/kanagawa/A1404/A140402/14063201/dtlmap/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_269fd575fb224380.webp",
+        "alt": "cafe Luonto的日系水彩插圖"
+      },
+      "order": 4,
+      "canonicalArea": {
+        "id": "kamakura-hase",
+        "name": "長谷・由比濱",
+        "href": "/walks/kamakura-hase/"
+      },
+      "recommendation": null,
+      "displayOrder": 4
+    },
+    {
+      "id": "kamakura--p_11a7b56b06648837",
+      "name": "Ocean Harvest Cocomo",
+      "address": "〒248-0016 Kanagawa, Kamakura, Hase, 2-chōme−8−８ 鎌倉コートハウス ２F",
+      "group": "food",
+      "categoryLabel": "購物",
+      "caption": "購物・Kanagawa…。",
+      "descriptionParagraphs": [
+        "「Ocean Harvest Cocomo」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為購物。地址紀錄為 〒248-0016 Kanagawa, Kamakura, Hase, 2-chōme−8−８ 鎌倉コートハウス ２F。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.310355,
+        "lng": 139.53832620000003,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
-          "channel": "Unique Japan Travel",
-          "videoId": "9KD3kg_L3n4",
-          "title": "吉卜力風的海濱小鎮 | 東京附近的鎌倉一日火車之旅 | 日本旅遊影片博客",
-          "url": "https://www.youtube.com/watch?v=9KD3kg_L3n4",
-          "time": "6:34",
-          "seconds": 394
+          "channel": "Hina Life in Japan",
+          "videoId": "HcSvq3GprBE",
+          "title": "japan diaries: exploring tokyo + full 5 day itinerary | coffee shops, food, shopping!",
+          "url": "https://www.youtube.com/watch?v=HcSvq3GprBE",
+          "time": "51:08",
+          "seconds": 3068
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_5cc1814454aacca7"
+          "p_11a7b56b06648837"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=6335264300188806609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=2698268847674408334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/kamakura--p_5cc1814454aacca7.webp",
-        "alt": "長谷寺的日系水彩插圖"
+        "image": "/art/source-library/kamakura--p_11a7b56b06648837.webp",
+        "alt": "Ocean Harvest Cocomo的日系水彩插圖"
       },
       "order": 5,
       "canonicalArea": {
@@ -288,33 +339,35 @@
         "name": "長谷・由比濱",
         "href": "/walks/kamakura-hase/"
       },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://www.hasedera.jp/",
-          "https://www.kannoncoffee.com/"
-        ]
-      },
-      "recommendation": "沿長谷寺境內慢慢參觀，坡道與季節人潮另留彈性。",
-      "displayOrder": 5
+      "recommendation": null,
+      "displayOrder": 5,
+      "description": "「Ocean Harvest Cocomo」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為購物。地址紀錄為 〒248-0016 Kanagawa, Kamakura, Hase, 2-chōme−8−８ 鎌倉コートハウス ２F。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_11a7b56b06648837"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
-      "id": "kamakura--p_30ba752e2ae09af6",
-      "name": "なみまちベーグル",
-      "address": "神奈川県鎌倉市坂ノ下19-12",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "id": "kamakura--p_83a522f2f3d4787f",
+      "name": "無心庵 （むしんあん）",
+      "address": "神奈川県鎌倉市由比ガ浜3-2-13",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・神奈川県鎌倉市由比ガ浜3-2-13。",
       "descriptionParagraphs": [
-        "「なみまちベーグル」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 神奈川県鎌倉市坂ノ下19-12。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「無心庵 （むしんあん）」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市由比ガ浜3-2-13。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.309639,
-        "lng": 139.533737,
+        "lat": 35.31369,
+        "lng": 139.545074,
         "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%9D%82%E3%83%8E%E4%B8%8B19-12",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E7%94%B1%E6%AF%94%E3%82%AC%E6%B5%9C3-2-13",
         "label": "國土地理院地址代表點",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
@@ -323,27 +376,27 @@
       "sources": [
         {
           "channel": "Tokyo Cafe Channel",
-          "videoId": "2Fn2OzljIMg",
-          "title": "cafe vlog｜鎌倉カフェグルメ10選 {2022年保存版}人気／老舗／穴場／...etc",
-          "url": "https://www.youtube.com/watch?v=2Fn2OzljIMg",
-          "time": "0:17",
-          "seconds": 17
+          "videoId": "iHlWzlTrIOs",
+          "title": "【鎌倉】絶対に外さない鎌倉カフェ・グルメ８選【2024年保存版】古民家／非日常／江ノ電〜Kamakura food tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=iHlWzlTrIOs",
+          "time": "00:18",
+          "seconds": 18
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_30ba752e2ae09af6"
+          "p_83a522f2f3d4787f"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": true,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%BF%E3%81%BE%E3%81%A1%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%9D%82%E3%83%8E%E4%B8%8B19-12"
+        "mapUrl": "https://www.google.com/maps/place/%E7%94%98%E5%91%B3%E8%99%95+%E7%84%A1%E5%BF%83%E5%BA%B5/@35.3136916,139.5449663,17z/data=!3m1!4b1!4m6!3m5!1s0x601845e8ee9a0aa7:0x4b2ebc800243f849!8m2!3d35.3136916!4d139.5449663!16s%2Fg%2F1tc_l2xk?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
       },
       "illustration": {
-        "image": "/art/source-library/kamakura--p_30ba752e2ae09af6.webp",
-        "alt": "なみまちベーグル的日系水彩插圖"
+        "image": "/art/source-library/kamakura--p_83a522f2f3d4787f.webp",
+        "alt": "無心庵 （むしんあん）的日系水彩插圖"
       },
       "order": 6,
       "canonicalArea": {
@@ -358,8 +411,82 @@
           "https://enokama.jp/spot/977/"
         ]
       },
-      "recommendation": "在坂之下挑一份貝果，再沿住宅街向由比濱方向步行。",
-      "displayOrder": 6
+      "recommendation": "在無心庵吃甘味；鐵道附近請遵守店家與現場通行指示。",
+      "displayOrder": 6,
+      "description": "「無心庵 （むしんあん）」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市由比ガ浜3-2-13。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_83a522f2f3d4787f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kamakura--p_aec1a4e4ae315e51",
+      "name": "茶房 空花 （サボウ ソラハナ）",
+      "address": "神奈川県鎌倉市由比ガ浜2-7-12-22",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "咖啡・神奈川県鎌倉市由比ガ浜2-7-12-22。",
+      "descriptionParagraphs": [
+        "「茶房 空花 （サボウ ソラハナ）」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 神奈川県鎌倉市由比ガ浜2-7-12-22。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.314236,
+        "lng": 139.546539,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E7%94%B1%E6%AF%94%E3%82%AC%E6%B5%9C2-7-12-22",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "iHlWzlTrIOs",
+          "title": "【鎌倉】絶対に外さない鎌倉カフェ・グルメ８選【2024年保存版】古民家／非日常／江ノ電〜Kamakura food tour(with English subtitles)",
+          "url": "https://www.youtube.com/watch?v=iHlWzlTrIOs",
+          "time": "01:58",
+          "seconds": 118
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_aec1a4e4ae315e51"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/%E8%8C%B6%E6%88%BF+%E7%A9%BA%E8%8A%B1+%E9%8E%8C%E5%80%89/@35.3142914,139.5465576,17z/data=!3m1!4b1!4m6!3m5!1s0x601845506d7f3619:0xd0b934b8d6468906!8m2!3d35.3142914!4d139.5465576!16s%2Fg%2F11f651w7jw?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_aec1a4e4ae315e51.webp",
+        "alt": "茶房 空花 （サボウ ソラハナ）的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "kamakura-hase",
+        "name": "長谷・由比濱",
+        "href": "/walks/kamakura-hase/"
+      },
+      "recommendation": null,
+      "displayOrder": 7,
+      "description": "「茶房 空花 （サボウ ソラハナ）」位於本次長谷・由比濱收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 神奈川県鎌倉市由比ガ浜2-7-12-22。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_aec1a4e4ae315e51"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [
@@ -458,17 +585,18 @@
   ],
   "defaultSelection": "kamakura-hase-temple-and-coffee",
   "libraryCoverage": {
-    "added": 6,
+    "added": 7,
     "unlocated": 0,
     "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_aec1a4e4ae315e51",
-      "p_83a522f2f3d4787f",
-      "p_11a7b56b06648837",
+      "p_30ba752e2ae09af6",
+      "p_5cc1814454aacca7",
       "p_83867c89a61760d7",
       "p_5ed6ccf90d927439",
-      "p_5cc1814454aacca7",
-      "p_30ba752e2ae09af6"
+      "p_269fd575fb224380",
+      "p_11a7b56b06648837",
+      "p_83a522f2f3d4787f",
+      "p_aec1a4e4ae315e51"
     ]
   },
   "transportPoints": [],
@@ -486,7 +614,7 @@
     ],
     "boundaryKind": "editorial-area",
     "reviewedAt": "2026-10-26",
-    "placeCount": 6
+    "placeCount": 7
   },
   "savedPlaceArchive": [],
   "inheritedWalkIds": [

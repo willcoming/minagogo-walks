@@ -1,5 +1,65 @@
 {
-  "places": [],
+  "places": [
+    {
+      "id": "kobe-arima--p_12edd835fcabc34e",
+      "name": "ねね橋",
+      "address": "兵庫県神戸市北区有馬町（ねね橋）",
+      "group": "sights",
+      "categoryLabel": "橋梁・街景",
+      "caption": "紅色欄杆與寧寧像的溫泉街入口",
+      "descriptionParagraphs": [
+        "寧寧橋位於有馬溫泉街中心，紅色欄杆與橋旁的寧寧像是醒目的街景。從車站走向溫泉街時可以順路停留，再繼續往金之湯與湯本坂慢慢走。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.7982287,
+        "lng": 135.2476666,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E5%AF%A7%E5%AF%A7%E6%A9%8B/@34.7982287,135.2476666,17z/data=!3m1!4b1!4m6!3m5!1s0x60008b004c6e5a41:0xa67987621a793f5d!8m2!3d34.7982287!4d135.2476666!16s%2Fg%2F11vs8qr0rx?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://www.arima-onsen.com/pickup/03/536/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "神戶的雙雙 | Shuang in Kobe",
+          "videoId": "BX5VdQci2m8",
+          "title": "有馬溫泉一日漫步｜來神戶有馬溫泉，當然不只是泡溫泉！百年古董郵票、七福神御朱印、山谷現炸鱒魚",
+          "url": "https://www.youtube.com/watch?v=BX5VdQci2m8",
+          "time": "1:23",
+          "seconds": 83
+        }
+      ],
+      "official": "https://www.arima-onsen.com/pickup/03/536/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_12edd835fcabc34e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%AF%A7%E5%AF%A7%E6%A9%8B/@34.7982287,135.2476666,17z/data=!3m1!4b1!4m6!3m5!1s0x60008b004c6e5a41:0xa67987621a793f5d!8m2!3d34.7982287!4d135.2476666!16s%2Fg%2F11vs8qr0rx?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.arima-onsen.com/pickup/03/536/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-arima--p_12edd835fcabc34e.webp",
+        "alt": "ねね橋的日系水彩插圖"
+      }
+    }
+  ],
   "matches": {},
   "archived": []
 }

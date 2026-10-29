@@ -52,7 +52,7 @@
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「梅田EST」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "「梅田EST」出現在老辣妹、Travel Seeker /夫婦の旅的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
       ],
       "note": null,
@@ -70,6 +70,14 @@
           "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
           "time": "4:04",
           "seconds": 244
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "NMzbHSwVfSU",
+          "title": "超好買【梅田最完整購物地圖】大阪車站必買必去🇯🇵看完不再迷路｜大阪梅田購物攻略｜",
+          "url": "https://www.youtube.com/watch?v=NMzbHSwVfSU",
+          "time": "15:54",
+          "seconds": 954
         }
       ],
       "official": null,
@@ -96,7 +104,7 @@
       "categoryLabel": "其他",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「HEP FIVE」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "「HEP FIVE」出現在老辣妹、Travel Seeker /夫婦の旅的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 大阪府大阪市北区角田町5-15。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "館內店家與觀覽車各有營業及休館安排，出發前請確認官方最新公告。",
@@ -114,6 +122,14 @@
           "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
           "time": "2:05",
           "seconds": 125
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "NMzbHSwVfSU",
+          "title": "超好買【梅田最完整購物地圖】大阪車站必買必去🇯🇵看完不再迷路｜大阪梅田購物攻略｜",
+          "url": "https://www.youtube.com/watch?v=NMzbHSwVfSU",
+          "time": "12:47",
+          "seconds": 767
         }
       ],
       "official": "https://www.hepfive.jp/",
@@ -147,12 +163,8 @@
       "coordinate": {
         "lat": 35.667809,
         "lng": 139.706512,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%A5%9E%E5%AE%AE%E5%89%8D6-1-9",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "東京都渋谷区神宮前六丁目1番9號地址代表點，非指定入口。"
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
@@ -168,6 +180,7 @@
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
+          "p_e6d1c84ac8f70095",
           "p_f243fdad43222637"
         ],
         "status": "source-record",

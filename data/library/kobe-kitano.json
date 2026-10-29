@@ -1,6 +1,125 @@
 {
   "places": [
     {
+      "id": "kobe-kitano--p_3d3fed009d352af6",
+      "name": "神戸六甲牧場 北野本店",
+      "address": "兵庫県神戸市中央区北野町3丁目11-4",
+      "group": "food",
+      "categoryLabel": "霜淇淋",
+      "caption": "北野坡道間的霜淇淋小歇",
+      "descriptionParagraphs": [
+        "神戶六甲牧場北野本店是品牌在北野町的旗艦店與製造直售處，提供霜淇淋、飲品與自家製甜點。適合在異人館街散步時短暫休息，與山上的六甲山牧場是不同地點。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 34.700974,
+        "lng": 135.189941,
+        "provider": "gsi-exact-address",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%87%8E%E7%94%BA3%E4%B8%81%E7%9B%AE11-4",
+        "checkedAt": "2026-10-27",
+        "precision": "address",
+        "note": "完整門牌匹配的地址代表點，非實測店家入口；不代表目前仍在營業。",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "attribution": "出典：国土地理院ウェブサイト。Minagogo 依來源門牌選取並轉換格式。",
+        "precisionNote": "完整門牌匹配的地址代表點，非實測店家入口；不代表目前仍在營業。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "2EAZkJ1eD-4",
+          "title": "第一次玩神戶就喜歡上🌞｜連逛5棟北野異人館、超濃郁六甲牧場霜淇淋、百年洋館×港邊超美星巴克、志玲姊姊推薦神戶牛、超過1800年生田神社｜DJI Pocket 4 × Kobe VLOG",
+          "url": "https://www.youtube.com/watch?v=2EAZkJ1eD-4",
+          "time": "8:36",
+          "seconds": 516
+        }
+      ],
+      "official": "https://www.rokkobokujyo.com/shops/honten",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3d3fed009d352af6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B6%E5%85%AD%E7%94%B2%E7%89%A7%E5%A0%B4+%E5%8C%97%E9%87%8E%E6%9C%AC%E5%BA%97+%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%87%8E%E7%94%BA3%E4%B8%81%E7%9B%AE11-4"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.rokkobokujyo.com/shops/honten",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-kitano--p_3d3fed009d352af6.webp",
+        "alt": "神戸六甲牧場 北野本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-kitano--p_d6ca5440e33071d9",
+      "name": "神戸北野美術館",
+      "address": "兵庫県神戸市中央区北野町2-9-6",
+      "group": "sights",
+      "categoryLabel": "美術館・歷史建築",
+      "caption": "白色異人館裡的展覽與咖啡空間",
+      "descriptionParagraphs": [
+        "神戶北野美術館運用歷史建築作為畫廊、展覽與咖啡空間。白色外牆、紅磚圍牆與庭園構成北野街角景色；實際參觀內容依當期展覽與場地使用安排。"
+      ],
+      "note": "官方有2026年10月近期展覽公告；開館與入館安排依當期展覽及包場而異，請出發前確認。",
+      "coordinate": {
+        "lat": 34.701084,
+        "lng": 135.191528,
+        "provider": "gsi-exact-address",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%87%8E%E7%94%BA2-9-6",
+        "checkedAt": "2026-10-27",
+        "precision": "address",
+        "note": "完整門牌匹配的地址代表點，非實測店家入口；不代表目前仍在營業。",
+        "shopUrl": "https://www.kitano-museum.com/",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "attribution": "出典：国土地理院ウェブサイト。Minagogo 依來源門牌選取並轉換格式。",
+        "precisionNote": "完整門牌匹配的地址代表點，非實測店家入口；不代表目前仍在營業。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "2EAZkJ1eD-4",
+          "title": "第一次玩神戶就喜歡上🌞｜連逛5棟北野異人館、超濃郁六甲牧場霜淇淋、百年洋館×港邊超美星巴克、志玲姊姊推薦神戶牛、超過1800年生田神社｜DJI Pocket 4 × Kobe VLOG",
+          "url": "https://www.youtube.com/watch?v=2EAZkJ1eD-4"
+        }
+      ],
+      "official": "https://www.kitano-museum.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d6ca5440e33071d9"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%8C%97%E9%87%8E%E7%BE%8E%E8%A1%93%E9%A4%A8+%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%87%8E%E7%94%BA2-10-24"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.kitano-museum.com/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-kitano--p_d6ca5440e33071d9.webp",
+        "alt": "神戸北野美術館的日系水彩插圖"
+      }
+    },
+    {
       "id": "kobe-kitano--p_9c5f5c642746adb2",
       "name": "しげ松 昼の部（池袋）",
       "address": "東京都豊島区池袋2-70-5 カーサヤマブキ1F",

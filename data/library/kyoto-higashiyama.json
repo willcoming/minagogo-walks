@@ -183,6 +183,62 @@
       }
     },
     {
+      "id": "kyoto-higashiyama--p_598e31129c8c9a51",
+      "name": "和牛料亭 bungo 祇園",
+      "address": "京都府京都市東山区新橋通大和大路東入元吉町56",
+      "group": "food",
+      "categoryLabel": "和牛料理",
+      "caption": "祇園新橋通町家中的和牛料理",
+      "descriptionParagraphs": [
+        "bungo 祇園運用新橋通的傳統建築，提供由服務人員料理與上菜的和牛套餐。木構、紙拉門與低彩度座席延續町家氣氛，適合另作預約用餐安排，不算入一般散步的短暫停留。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.00581,
+        "lng": 135.7741248,
+        "provider": "original-video-map",
+        "url": "https://www.google.com.tw/maps/place/%E5%92%8C%E7%89%9B%E6%96%99%E4%BA%AD+bungo+%E7%A5%87%E5%9C%92/@35.00581,135.7715445,17z/data=!3m1!4b1!4m6!3m5!1s0x6001093aafac8663:0x69b8ebcb1fc485d8!8m2!3d35.00581!4d135.7741248!16s%2Fg%2F11tnk8lmxd?hl=zh-TW&entry=tts&shorturl=1",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "7:38",
+          "seconds": 458
+        }
+      ],
+      "official": "https://wagyuryotei-bungo.com/gion/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_598e31129c8c9a51"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com.tw/maps/place/%E5%92%8C%E7%89%9B%E6%96%99%E4%BA%AD+bungo+%E7%A5%87%E5%9C%92/@35.00581,135.7715445,17z/data=!3m1!4b1!4m6!3m5!1s0x6001093aafac8663:0x69b8ebcb1fc485d8!8m2!3d35.00581!4d135.7741248!16s%2Fg%2F11tnk8lmxd?hl=zh-TW&entry=tts&shorturl=1"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://wagyuryotei-bungo.com/gion/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：京都府京都市東山区新橋通大和大路東入元吉町56；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_598e31129c8c9a51.webp",
+        "alt": "和牛料亭 bungo 祇園的日系水彩插圖"
+      }
+    },
+    {
       "id": "kyoto-higashiyama--p_777a851faf84d814",
       "name": "建仁寺",
       "address": "京都府京都市東山区小松町584",
@@ -272,6 +328,62 @@
       "illustration": {
         "image": "/art/source-library/kyoto-higashiyama--p_12b04da60b2b1515.webp",
         "alt": "祇園 北川半兵衛的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kyoto-higashiyama--p_d60fc823d1bce523",
+      "name": "ぎをん小森",
+      "address": "京都府京都市東山区元吉町61",
+      "group": "food",
+      "categoryLabel": "日式甜點",
+      "caption": "祇園町家裡的庭院與甘味",
+      "descriptionParagraphs": [
+        "祇園小森位於元吉町的傳統町家，以日式甜點與茶為主。木構空間、庭院綠意與白川一帶的街景相接，適合散步途中休息；熱門時段的候位需另留時間。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.0058422,
+        "lng": 135.7746072,
+        "provider": "original-video-map",
+        "url": "https://maps.google.com/?cid=11272248159217716659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ",
+          "time": "3:26",
+          "seconds": 206
+        }
+      ],
+      "official": "https://www.giwon-komori.com/?mode=f4",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d60fc823d1bce523"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=11272248159217716659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.giwon-komori.com/?mode=f4",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：京都府京都市東山区元吉町61；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_d60fc823d1bce523.webp",
+        "alt": "ぎをん小森的日系水彩插圖"
       }
     },
     {
@@ -621,6 +733,22 @@
       ],
       "sources": [
         {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "7ciGMDdFolA",
+          "title": "#京都自由行 第二眼美女#京都 請再去一次 公開#10種祕技 讓你更愛上他 精彩五天四夜行程 超高CP飯店住宿介紹 #巴士一日卷 千萬不要在網路上買!!慢活 購物 玩樂 踏青 流行 一次搞定的萬象京都",
+          "url": "https://www.youtube.com/watch?v=7ciGMDdFolA",
+          "time": "06:54",
+          "seconds": 414
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "qI3IzguOch4",
+          "title": "#京都自由行 避開人潮這樣玩！7大區域一次搞懂 破除網路排隊名店迷思 提醒避開公車改搭鐵道運算 旅行不是考試 不要被#AI 綁死行程#交通 #住宿 與防坑秘訣 行前必看實用指南 包辦不踩雷不走冤枉路",
+          "url": "https://www.youtube.com/watch?v=qI3IzguOch4",
+          "time": "05:02",
+          "seconds": 302
+        },
+        {
           "channel": "Hina Life in Japan",
           "videoId": "_64n7qi0tX0",
           "title": "3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷",
@@ -643,6 +771,44 @@
           "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ",
           "time": "19:49",
           "seconds": 1189
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "6q6L5E1H61g",
+          "title": "【プチ旅｜京都】女子1人の京都バス旅行｜清水寺｜河原町｜京都観光｜カフェ｜一人旅｜京都観光｜国内旅行",
+          "url": "https://www.youtube.com/watch?v=6q6L5E1H61g",
+          "time": "3:06",
+          "seconds": 186
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "qTkw-wHwhv4",
+          "title": "【プチ旅｜京都】雪の京都絶景綺麗すぎ！冬の京都へ｜嵐山｜竹林の小径｜清水寺｜雪化粧｜｜京都観光｜一人旅｜京都観光｜国内旅行",
+          "url": "https://www.youtube.com/watch?v=qTkw-wHwhv4",
+          "time": "8:31",
+          "seconds": 511
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "_RJjeyyD7jg",
+          "title": "京都避開人潮‼️【日式低調奢華旅館｜京都住宿🇯🇵】清晨六點清水寺周邊散步｜難忘京都之旅",
+          "url": "https://www.youtube.com/watch?v=_RJjeyyD7jg"
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "bG-ohMZZTzM",
+          "title": "時間不夠怎麼玩京都⁉️【最簡單行程安排】東西南北這樣玩🇯🇵京都旅遊經典路線｜＊請開字幕",
+          "url": "https://www.youtube.com/watch?v=bG-ohMZZTzM",
+          "time": "01:37",
+          "seconds": 97
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "QBQQ0H8Qjo0",
+          "title": "帶爸媽玩日本【京都＆金澤玩什麼】京都清水寺＆搭乘北陸新幹線前往金澤｜京都自由行｜帶父母旅日攻略｜北陸景點｜金澤景點｜近江町市場",
+          "url": "https://www.youtube.com/watch?v=QBQQ0H8Qjo0",
+          "time": "1:33",
+          "seconds": 93
         },
         {
           "channel": "Unique Japan Travel",

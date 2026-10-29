@@ -6,12 +6,12 @@
       "id": "kamakura--p_2b3bd0085fd8e6af",
       "name": "茶屋かど",
       "address": "神奈川県鎌倉市山ノ内１５１８",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・神奈川県鎌倉市山ノ内１５１８。",
       "descriptionParagraphs": [
-        "「茶屋かど」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 神奈川県鎌倉市山ノ内１５１８。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「茶屋かど」位於本次北鎌倉收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市山ノ内１５１８。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -56,7 +56,16 @@
         "href": "/walks/kitakamakura/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「茶屋かど」位於本次北鎌倉收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 神奈川県鎌倉市山ノ内１５１８。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2b3bd0085fd8e6af"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kamakura--p_b5d18e801dd1a2c5",
@@ -64,10 +73,10 @@
       "address": "神奈川県鎌倉市山ノ内1379",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・神奈川県鎌倉市山ノ内1379。",
       "descriptionParagraphs": [
-        "「喫茶 吉野」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 神奈川県鎌倉市山ノ内1379。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「喫茶 吉野」位於本次北鎌倉收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 神奈川県鎌倉市山ノ内1379。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -112,7 +121,16 @@
         "href": "/walks/kitakamakura/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「喫茶 吉野」位於本次北鎌倉收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 神奈川県鎌倉市山ノ内1379。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_b5d18e801dd1a2c5"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kamakura--p_9b8b1580595c83a6",
@@ -120,10 +138,10 @@
       "address": "神奈川県鎌倉市山ノ内377-2",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・神奈川県鎌倉市山ノ内377-2。",
       "descriptionParagraphs": [
-        "「喫茶ミンカ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 神奈川県鎌倉市山ノ内377-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「喫茶ミンカ」位於本次北鎌倉收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 神奈川県鎌倉市山ノ内377-2。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -168,7 +186,16 @@
         "href": "/walks/kitakamakura/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「喫茶ミンカ」位於本次北鎌倉收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 神奈川県鎌倉市山ノ内377-2。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9b8b1580595c83a6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

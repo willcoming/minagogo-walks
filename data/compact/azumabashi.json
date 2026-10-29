@@ -9,10 +9,10 @@
       "address": "1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・1-chōme-1-9 Higashikomagata…。",
       "descriptionParagraphs": [
-        "「I'll」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「I'll」位於本次本所吾妻橋・東駒形收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -51,7 +51,16 @@
         "href": "/walks/azumabashi/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「I'll」位於本次本所吾妻橋・東駒形收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-1-9 Higashikomagata, Sumida City, Tokyo 130-0005。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a710bbb8b8d030ce"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_0a9cb4ab0253b5e8",
@@ -59,10 +68,10 @@
       "address": "東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ。",
       "descriptionParagraphs": [
-        "「満願堂 吾妻橋店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「満願堂 吾妻橋店」位於本次本所吾妻橋・東駒形收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -115,7 +124,16 @@
         "href": "/walks/azumabashi/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「満願堂 吾妻橋店」位於本次本所吾妻橋・東駒形收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0a9cb4ab0253b5e8"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_c55e83fd1938ebd0",
@@ -123,10 +141,10 @@
       "address": "4-chōme-6-9 Higashikomagata, Sumida City, Tokyo 130-0005",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：美味海鮮丼",
       "descriptionParagraphs": [
-        "「野口鮮魚店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 4-chōme-6-9 Higashikomagata, Sumida City, Tokyo 130-0005。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「野口鮮魚店」的餐點筆記提到美味海鮮丼。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -167,7 +185,16 @@
         "href": "/walks/azumabashi/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "原影片在「野口鮮魚店」的餐點筆記提到美味海鮮丼。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c55e83fd1938ebd0"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     }
   ],
   "defaultSelection": null,

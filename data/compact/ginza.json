@@ -7,10 +7,10 @@
       "address": "東京都中央区銀座4-6-16 銀座三越B2F",
       "group": "food",
       "categoryLabel": "和菓子",
-      "caption": "影片中收錄的停留點",
+      "caption": "和菓子・東京都中央区銀座4-6-16 銀座三越B2F。",
       "descriptionParagraphs": [
-        "原影片介紹銀座三越地下食品區的たねや，販售栗饅頭及季節和菓子。此處已依影片與品牌店鋪資料修正為銀座三越櫃位，並保留原始影片來源。",
-        "原始資料記錄的地址為 東京都中央区銀座4-6-16 銀座三越B2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「たねや 銀座三越店」位於本次銀座收錄範圍，既有資料將這一站歸為和菓子。地址紀錄為 東京都中央区銀座4-6-16 銀座三越B2F。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片00:30明確介紹銀座三越店，先前名稱搜尋誤配為滋賀近江八幡店，已修正分店。",
       "coordinate": {
@@ -53,7 +53,16 @@
         "href": "/walks/ginza/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「たねや 銀座三越店」位於本次銀座收錄範圍，既有資料將這一站歸為和菓子。地址紀錄為 東京都中央区銀座4-6-16 銀座三越B2F。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_73b8718fe931b3e4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_0a0053f59ababd84",
@@ -61,10 +70,10 @@
       "address": "東京都中央区銀座6-4-16",
       "group": "food",
       "categoryLabel": "日本料理",
-      "caption": "影片中收錄的停留點",
+      "caption": "日本料理・東京都中央区銀座6-4-16。",
       "descriptionParagraphs": [
-        "原影片介紹銀座的日本料理むとう，以鯛茶漬け為特色；保留歷史店面與影片紀錄。",
-        "原始資料記錄的地址為 東京都中央区銀座6-4-16。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「日本料理 むとう（銀座・閉店）」位於本次銀座收錄範圍，既有資料將這一站歸為日本料理。地址紀錄為 東京都中央区銀座6-4-16。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片連結指向銀座むとう，與日本橋的鮨むとう是不同店。食べログ標示閉店，實訪作者確認於2025年8月30日結束營業；此處保留原址紀錄。",
       "coordinate": {
@@ -119,7 +128,16 @@
         "href": "/walks/ginza/"
       },
       "recommendation": null,
-      "displayOrder": null
+      "displayOrder": null,
+      "description": "「日本料理 むとう（銀座・閉店）」位於本次銀座收錄範圍，既有資料將這一站歸為日本料理。地址紀錄為 東京都中央区銀座6-4-16。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0a0053f59ababd84"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

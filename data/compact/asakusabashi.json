@@ -102,10 +102,10 @@
       "address": "〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Pretty Good」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Pretty Good」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F。",
+        "來源包括Hina Life in Japan、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -153,7 +153,17 @@
         "href": "/walks/asakusabashi/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「Pretty Good」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒111-0052 Tokyo, Taito City, Yanagibashi, 2-chōme−20−１３ HOTEL OUROUR 1F。\n\n來源包括Hina Life in Japan、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_fd0085ce79d57d3e",
+          "p_e418febe599fa95d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_500aed5155361116",
@@ -161,10 +171,10 @@
       "address": "〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・Tokyo…。",
       "descriptionParagraphs": [
-        "「Lucite Gallery」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Lucite Gallery」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為景點。地址紀錄為 〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー。",
+        "來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -210,7 +220,16 @@
         ]
       },
       "recommendation": "依當日展覽與咖啡開放資訊，安排老屋藝廊停留。",
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「Lucite Gallery」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為景點。地址紀錄為 〒111-0052 Tokyo, Taito City, Yanagibashi, 1-chōme−28−８ ルーサイトギャラリー。\n\n來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_500aed5155361116"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_bd1dd24720e1ab67",
@@ -218,10 +237,10 @@
       "address": "2 Chome-2 Higashinihonbashi, Chuo City, Tokyo 103-0004",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・2 Chome-2 Higashinihonbashi…。",
       "descriptionParagraphs": [
-        "「Yanagi Bridge」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2 Chome-2 Higashinihonbashi, Chuo City, Tokyo 103-0004。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「柳橋」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為景點。地址紀錄為 2 Chome-2 Higashinihonbashi, Chuo City, Tokyo 103-0004。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -269,7 +288,16 @@
         ]
       },
       "recommendation": "從柳橋看神田川與船宿街景，不進入私人碼頭。",
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「柳橋」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為景點。地址紀錄為 2 Chome-2 Higashinihonbashi, Chuo City, Tokyo 103-0004。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bd1dd24720e1ab67"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_6160adafced6602d",
@@ -277,10 +305,10 @@
       "address": "日本〒111-0053 東京都台東區淺草橋 1 Chome−18",
       "group": "sights",
       "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
+      "caption": "交通・日本〒111-0053 東京都台東區淺草橋 1 Chome−18。",
       "descriptionParagraphs": [
-        "「淺草橋」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 日本〒111-0053 東京都台東區淺草橋 1 Chome−18。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「淺草橋」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為交通。地址紀錄為 日本〒111-0053 東京都台東區淺草橋 1 Chome−18。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "淺草橋方向的延伸點；請另留步行時間。",
       "coordinate": {
@@ -321,7 +349,16 @@
         "href": "/walks/asakusabashi/"
       },
       "recommendation": null,
-      "displayOrder": 4
+      "displayOrder": 4,
+      "description": "「淺草橋」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為交通。地址紀錄為 日本〒111-0053 東京都台東區淺草橋 1 Chome−18。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6160adafced6602d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_27c24e65b79e6da4",
@@ -329,10 +366,10 @@
       "address": "1-chōme-28-9 Asakusabashi, Taito City, Tokyo 111-0053",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：腦天刺身飯、特製鹽味拉麵、招牌燒賣",
       "descriptionParagraphs": [
-        "「饗黑㐂」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-28-9 Asakusabashi, Taito City, Tokyo 111-0053。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「饗黑㐂」的餐點筆記提到腦天刺身飯、特製鹽味拉麵、招牌燒賣。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "淺草橋方向的延伸點；請另留步行時間。",
       "coordinate": {
@@ -373,7 +410,16 @@
         "href": "/walks/asakusabashi/"
       },
       "recommendation": null,
-      "displayOrder": 5
+      "displayOrder": 5,
+      "description": "原影片在「饗黑㐂」的餐點筆記提到腦天刺身飯、特製鹽味拉麵、招牌燒賣。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_27c24e65b79e6da4"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_9022b5fbb1b362ca",
@@ -381,10 +427,10 @@
       "address": "3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・3-chōme-4-4 Asakusabashi…。",
       "descriptionParagraphs": [
-        "「hamorebi coffee」出現在Hina Life in Japan、Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「hamorebi coffee」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053。",
+        "來源包括Hina Life in Japan、Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "淺草橋方向的延伸點；請另留步行時間。",
       "coordinate": {
@@ -433,7 +479,16 @@
         "href": "/walks/asakusabashi/"
       },
       "recommendation": null,
-      "displayOrder": 6
+      "displayOrder": 6,
+      "description": "「hamorebi coffee」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 3-chōme-4-4 Asakusabashi, Taito City, Tokyo 111-0053。\n\n來源包括Hina Life in Japan、Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9022b5fbb1b362ca"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_15d518ad81e7ddb0",
@@ -441,10 +496,10 @@
       "address": "2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・2-chōme-4-1 Torigoe。",
       "descriptionParagraphs": [
-        "「鳥越神社」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「鳥越神社」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為景點。地址紀錄為 2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -492,18 +547,27 @@
         ]
       },
       "recommendation": "離開車站商店街，沿街巷到鳥越神社參拜。",
-      "displayOrder": 7
+      "displayOrder": 7,
+      "description": "「鳥越神社」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為景點。地址紀錄為 2-chōme-4-1 Torigoe, Taito City, Tokyo 111-0054。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_15d518ad81e7ddb0"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kuramae--p_5304d79ce902f709",
       "name": "ICHIBIKO KURAMAE",
       "address": "東京都台東区鳥越1-30-10",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区鳥越1-30-10。",
       "descriptionParagraphs": [
-        "「ICHIBIKO KURAMAE」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区鳥越1-30-10。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「ICHIBIKO KURAMAE」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区鳥越1-30-10。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -555,7 +619,16 @@
         ]
       },
       "recommendation": "到鳥越的 ICHIBIKO 選一份草莓甜點。",
-      "displayOrder": 8
+      "displayOrder": 8,
+      "description": "「ICHIBIKO KURAMAE」位於本次淺草橋・鳥越收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区鳥越1-30-10。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5304d79ce902f709"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "defaultSelection": "asakusabashi-torigoe-and-strawberries",

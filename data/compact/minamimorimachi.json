@@ -7,10 +7,10 @@
       "address": "大阪府大阪市北区天神橋3-8-18",
       "group": "food",
       "categoryLabel": "鯛魚燒",
-      "caption": "影片中收錄的停留點",
+      "caption": "鯛魚燒・大阪府大阪市北区天神橋3-8-18。",
       "descriptionParagraphs": [
-        "「鳴門鯛焼本舗 天神橋3丁目店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-8-18。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「鳴門鯛焼本舗 天神橋3丁目店」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為鯛魚燒。地址紀錄為 大阪府大阪市北区天神橋3-8-18。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -54,7 +54,16 @@
         "href": "/walks/minamimorimachi/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「鳴門鯛焼本舗 天神橋3丁目店」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為鯛魚燒。地址紀錄為 大阪府大阪市北区天神橋3-8-18。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bbbbe65f98b0f2d7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "osaka-tenma--p_27a8fd777f23578d",
@@ -62,10 +71,10 @@
       "address": "大阪府大阪市北区天神橋3-9-9",
       "group": "food",
       "categoryLabel": "大阪燒",
-      "caption": "影片中收錄的停留點",
+      "caption": "大阪燒・大阪府大阪市北区天神橋3-9-9。",
       "descriptionParagraphs": [
-        "「お好み焼 焼きそば 味の 双月」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-9-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「お好み焼 焼きそば 味の双月」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為大阪燒。地址紀錄為 大阪府大阪市北区天神橋3-9-9。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -109,7 +118,16 @@
         "href": "/walks/minamimorimachi/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「お好み焼 焼きそば 味の双月」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為大阪燒。地址紀錄為 大阪府大阪市北区天神橋3-9-9。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_27a8fd777f23578d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "osaka-tenma--p_e3738d31a2438ec1",
@@ -117,10 +135,10 @@
       "address": "大阪府大阪市北区天神橋3-8-3 マチスビル1F",
       "group": "food",
       "categoryLabel": "烏龍麵",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：山藥月見烏龍麵+炸雞天婦羅+舞竹香菇+鯛魚竹輪",
       "descriptionParagraphs": [
-        "「Ogimachi Udon-ya Asuroh」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-8-3 マチスビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「扇町うどん屋 あすろう」的餐點筆記提到山藥月見烏龍麵+炸雞天婦羅+舞竹香菇+鯛魚竹輪。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -166,7 +184,16 @@
         "href": "/walks/minamimorimachi/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "原影片在「扇町うどん屋 あすろう」的餐點筆記提到山藥月見烏龍麵+炸雞天婦羅+舞竹香菇+鯛魚竹輪。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e3738d31a2438ec1"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "osaka-tenma--p_465fbe52caf5a842",
@@ -174,10 +201,10 @@
       "address": "大阪府大阪市北区天神橋3-10-8 与力町スカイハイツ102",
       "group": "food",
       "categoryLabel": "漢堡排",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：Tabelog 3.56 西式料理 WEST \"百名店\" 2025",
       "descriptionParagraphs": [
-        "「Niku Sangourmand」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区天神橋3-10-8 与力町スカイハイツ102。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「ニク サングルマン」的餐點筆記提到Tabelog 3.56 西式料理 WEST \"百名店\" 2025。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -223,7 +250,16 @@
         "href": "/walks/minamimorimachi/"
       },
       "recommendation": null,
-      "displayOrder": 4
+      "displayOrder": 4,
+      "description": "原影片在「ニク サングルマン」的餐點筆記提到Tabelog 3.56 西式料理 WEST \"百名店\" 2025。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_465fbe52caf5a842"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "osaka-tenma--arcade",
@@ -513,10 +549,10 @@
       "address": "大阪府大阪市北区天神橋1-12-19",
       "group": "food",
       "categoryLabel": "喫茶",
-      "caption": "影片中收錄的停留點",
+      "caption": "喫茶・大阪府大阪市北区天神橋1-12-19。",
       "descriptionParagraphs": [
-        "「CAFE TOKIONA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区天神橋1-12-19。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「CAFE TOKIONA」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為喫茶。地址紀錄為 大阪府大阪市北区天神橋1-12-19。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -560,7 +596,16 @@
         "href": "/walks/minamimorimachi/"
       },
       "recommendation": null,
-      "displayOrder": 11
+      "displayOrder": 11,
+      "description": "「CAFE TOKIONA」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為喫茶。地址紀錄為 大阪府大阪市北区天神橋1-12-19。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8d389b499ace1d13"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "osaka-tenma--southpark",
@@ -615,10 +660,10 @@
       "address": "大阪府大阪市北区天満3-5-1 アイアンドアイビル1F",
       "group": "food",
       "categoryLabel": "銅鑼燒",
-      "caption": "影片中收錄的停留點",
+      "caption": "銅鑼燒・大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。",
       "descriptionParagraphs": [
-        "「COBATO STAND OSAKA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「COBATO STAND OSAKA」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為銅鑼燒。地址紀錄為 大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -663,7 +708,16 @@
         "href": "/walks/minamimorimachi/"
       },
       "recommendation": null,
-      "displayOrder": 13
+      "displayOrder": 13,
+      "description": "「COBATO STAND OSAKA」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為銅鑼燒。地址紀錄為 大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_7878919f4b11b5ef"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "osaka-tenma--p_3f0e16ea37fefebb",
@@ -671,10 +725,10 @@
       "address": "大阪府大阪市北区天満3-5-1 アイアンドアイビル1F",
       "group": "food",
       "categoryLabel": "餅乾伴手禮",
-      "caption": "影片中收錄的停留點",
+      "caption": "餅乾伴手禮・大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。",
       "descriptionParagraphs": [
-        "「COBATO STORE OSAKA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「COBATO STORE OSAKA」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為餅乾伴手禮。地址紀錄為 大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -719,7 +773,16 @@
         "href": "/walks/minamimorimachi/"
       },
       "recommendation": null,
-      "displayOrder": 14
+      "displayOrder": 14,
+      "description": "「COBATO STORE OSAKA」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為餅乾伴手禮。地址紀錄為 大阪府大阪市北区天満3-5-1 アイアンドアイビル1F。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3f0e16ea37fefebb"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "osaka-tenma--p_7adca45c474ed8da",
@@ -727,10 +790,10 @@
       "address": "大阪府大阪市北区天満3-4-22 日宝岩井町ビル1F-2",
       "group": "food",
       "categoryLabel": "麵包",
-      "caption": "影片中收錄的停留點",
+      "caption": "麵包・大阪府大阪市北区天満3-4-22 日宝岩井町ビル1F-2。",
       "descriptionParagraphs": [
-        "「コバトパン工場 COBATOPAN」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区天満3-4-22 日宝岩井町ビル1F-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「コバトパン工場 COBATOPAN」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為麵包。地址紀錄為 大阪府大阪市北区天満3-4-22 日宝岩井町ビル1F-2。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -775,7 +838,16 @@
         "href": "/walks/minamimorimachi/"
       },
       "recommendation": null,
-      "displayOrder": 15
+      "displayOrder": 15,
+      "description": "「コバトパン工場 COBATOPAN」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為麵包。地址紀錄為 大阪府大阪市北区天満3-4-22 日宝岩井町ビル1F-2。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_7adca45c474ed8da"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "osaka-tenma--p_46f7c0f05a9077ef",
@@ -783,10 +855,10 @@
       "address": "大阪府大阪市北区天満3-4-22 日宝岩井町ビル2F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・大阪府大阪市北区天満3-4-22 日宝岩井町ビル2F。",
       "descriptionParagraphs": [
-        "「SECOND BANANA」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区天満3-4-22 日宝岩井町ビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「SECOND BANANA」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 大阪府大阪市北区天満3-4-22 日宝岩井町ビル2F。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -829,7 +901,16 @@
         "href": "/walks/minamimorimachi/"
       },
       "recommendation": null,
-      "displayOrder": 16
+      "displayOrder": 16,
+      "description": "「SECOND BANANA」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 大阪府大阪市北区天満3-4-22 日宝岩井町ビル2F。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_46f7c0f05a9077ef"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "osaka-tenma--p_bb1c5e2b626b74d1",
@@ -837,10 +918,10 @@
       "address": "大阪府大阪市北区天満2-2-7 世詩花1F",
       "group": "food",
       "categoryLabel": "麵包・貝果",
-      "caption": "影片中收錄的停留點",
+      "caption": "麵包・貝果・大阪府大阪市北区天満2-2-7 世詩花1F。",
       "descriptionParagraphs": [
-        "「COBATO836」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区天満2-2-7 世詩花1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「COBATO836」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為麵包・貝果。地址紀錄為 大阪府大阪市北区天満2-2-7 世詩花1F。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -886,7 +967,16 @@
         "href": "/walks/minamimorimachi/"
       },
       "recommendation": null,
-      "displayOrder": 17
+      "displayOrder": 17,
+      "description": "「COBATO836」位於本次南森町・天滿宮收錄範圍，既有資料將這一站歸為麵包・貝果。地址紀錄為 大阪府大阪市北区天満2-2-7 世詩花1F。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bb1c5e2b626b74d1"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [

@@ -57,7 +57,16 @@
       "note": "",
       "official": "https://kawagoekumano.jp/",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "E_s1KGpYIZY",
+          "title": "比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=E_s1KGpYIZY",
+          "time": "11:09",
+          "seconds": 669
+        }
+      ],
       "coordinate": {
         "lat": 35.91902338125,
         "lng": 139.48322044375,
@@ -73,6 +82,9 @@
         "alt": "川越熊野神社的日系水彩插圖"
       },
       "recommendation": null,
+      "sourceLibraryIds": [
+        "p_ed5a95e1e413608c"
+      ],
       "canonicalArea": {
         "id": "kawagoe",
         "name": "川越藏造老街",
@@ -127,8 +139,147 @@
       "displayOrder": 3
     },
     {
-      "id": "kawagoe--pudding",
+      "id": "kawagoe--p_301ab34510f97598",
+      "name": "うなぎ 小川菊",
+      "address": "埼玉県川越市仲町3-22",
+      "group": "food",
+      "categoryLabel": "鰻魚料理",
+      "caption": "仲町老店的鰻魚料理",
+      "descriptionParagraphs": [
+        "小川菊位於川越仲町，官方沿革記載自江戶後期延續至今，以鰻魚料理為主。適合另留一段完整用餐時間；候位與用餐不計入原本推薦行程的短暫停留。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.9206734,
+        "lng": 139.4832727,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E9%B0%BB%E9%AD%9A%E9%A3%AF%E8%80%81%E5%BA%97+%E5%B0%8F%E5%B7%9D%E8%8F%8A/@35.9206734,139.4832727,17z/data=!3m1!4b1!4m6!3m5!1s0x6018da60bc145beb:0x54dd392ce4f9ca59!8m2!3d35.9206734!4d139.4832727!16s%2Fg%2F1tf7ml31?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/saitama/A1103/A110303/11000040/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "E_s1KGpYIZY",
+          "title": "比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=E_s1KGpYIZY",
+          "time": "06:12",
+          "seconds": 372
+        }
+      ],
+      "official": "https://www.ogakiku.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_301ab34510f97598"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E9%B0%BB%E9%AD%9A%E9%A3%AF%E8%80%81%E5%BA%97+%E5%B0%8F%E5%B7%9D%E8%8F%8A/@35.9206734,139.4832727,17z/data=!3m1!4b1!4m6!3m5!1s0x6018da60bc145beb:0x54dd392ce4f9ca59!8m2!3d35.9206734!4d139.4832727!16s%2Fg%2F1tf7ml31?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.ogakiku.com/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/saitama/A1103/A110303/11000040/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_301ab34510f97598.webp",
+        "alt": "うなぎ 小川菊的日系水彩插圖"
+      },
       "order": 5,
+      "canonicalArea": {
+        "id": "kawagoe",
+        "name": "川越藏造老街",
+        "href": "/walks/kawagoe/"
+      },
+      "recommendation": null,
+      "displayOrder": 4
+    },
+    {
+      "id": "kawagoe--p_5d35f2d6b02ca853",
+      "name": "まつさだ文具店",
+      "address": "〒350-0065 埼玉県川越市仲町３−16",
+      "group": "shops",
+      "categoryLabel": "文具・雜貨",
+      "caption": "大正浪漫夢通上的文具與紙氣球",
+      "descriptionParagraphs": [
+        "松定文具店位於仲町的大正浪漫夢通，以日常文具與紙氣球等雜貨為主。從藏造老街往南散步時，可以走進店裡慢慢找小巧、便於帶走的紀念品。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.9210267,
+        "lng": 139.4832143,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Teiku+Matsusada/@35.9210267,139.4832143,17z/data=!3m1!4b1!4m6!3m5!1s0x6018da60c0a38b31:0x4c9233acc13c0469!8m2!3d35.9210267!4d139.4832143!16s%2Fg%2F1vyk2jk_?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://matusada.co.jp/access/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "E_s1KGpYIZY",
+          "title": "比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=E_s1KGpYIZY",
+          "time": "07:30",
+          "seconds": 450
+        }
+      ],
+      "official": "https://matusada.co.jp/access/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5d35f2d6b02ca853"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Teiku+Matsusada/@35.9210267,139.4832143,17z/data=!3m1!4b1!4m6!3m5!1s0x6018da60c0a38b31:0x4c9233acc13c0469!8m2!3d35.9210267!4d139.4832143!16s%2Fg%2F1vyk2jk_?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://matusada.co.jp/access/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_5d35f2d6b02ca853.webp",
+        "alt": "まつさだ文具店的日系水彩插圖"
+      },
+      "order": 6,
+      "canonicalArea": {
+        "id": "kawagoe",
+        "name": "川越藏造老街",
+        "href": "/walks/kawagoe/"
+      },
+      "recommendation": null,
+      "displayOrder": 5
+    },
+    {
+      "id": "kawagoe--pudding",
+      "order": 7,
       "name": "川越プリン",
       "address": "埼玉県川越市幸町1-13",
       "group": "food",
@@ -182,11 +333,11 @@
           "https://kawagoe-purin.com/"
         ]
       },
-      "displayOrder": 4
+      "displayOrder": 6
     },
     {
       "id": "kawagoe--kurazukuri",
-      "order": 6,
+      "order": 8,
       "name": "くらづくり本舗 一番街店",
       "address": "埼玉県川越市幸町2-16",
       "group": "shops",
@@ -233,11 +384,11 @@
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
       },
-      "displayOrder": 5
+      "displayOrder": 7
     },
     {
       "id": "kawagoe--juan",
-      "order": 7,
+      "order": 9,
       "name": "寿庵 蔵のまち店",
       "address": "埼玉県川越市幸町3-18",
       "group": "food",
@@ -284,11 +435,11 @@
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
       },
-      "displayOrder": 6
+      "displayOrder": 8
     },
     {
       "id": "kawagoe--nakaichi",
-      "order": 8,
+      "order": 10,
       "name": "中市本店",
       "address": "埼玉県川越市幸町5-2",
       "group": "food",
@@ -310,6 +461,12 @@
           "url": "https://www.youtube.com/watch?v=-UCmS86LwKs",
           "time": "1:52",
           "seconds": 112
+        },
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "E_s1KGpYIZY",
+          "title": "比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=E_s1KGpYIZY"
         }
       ],
       "coordinate": {
@@ -328,18 +485,86 @@
       },
       "recommendation": null,
       "sourceLibraryIds": [
-        "p_b0e00433096a34e4"
+        "p_b0e00433096a34e4",
+        "p_0586d72710c4c4cb"
       ],
       "canonicalArea": {
         "id": "kawagoe",
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
       },
-      "displayOrder": 7
+      "displayOrder": 9
+    },
+    {
+      "id": "kawagoe--p_1c640fed5a868ad7",
+      "name": "SNOOPY Village 川越",
+      "address": "埼玉県川越市幸町5-4",
+      "group": "shops",
+      "categoryLabel": "角色雜貨",
+      "caption": "藏造街上的史努比角色雜貨與外帶小點",
+      "descriptionParagraphs": [
+        "幸町的 SNOOPY Village 川越店把角色雜貨與外帶甜點放進藏造老街的散步途中。適合從一番街順路看看，也可作為挑選旅途紀念品的一站。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.9229821,
+        "lng": 139.4826954,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Snoopy+Village/@35.9229821,139.4826954,17z/data=!3m1!4b1!4m6!3m5!1s0x6018db005f2d4a31:0xc879118075c09cbc!8m2!3d35.9229821!4d139.4826954!16s%2Fg%2F11xkfx6r04?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://snoopy-village.jp/shop/pages/shop-list/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "E_s1KGpYIZY",
+          "title": "比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=E_s1KGpYIZY",
+          "time": "08:02",
+          "seconds": 482
+        }
+      ],
+      "official": "https://snoopy-village.jp/shop/pages/shop-list/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_1c640fed5a868ad7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Snoopy+Village/@35.9229821,139.4826954,17z/data=!3m1!4b1!4m6!3m5!1s0x6018db005f2d4a31:0xc879118075c09cbc!8m2!3d35.9229821!4d139.4826954!16s%2Fg%2F11xkfx6r04?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://snoopy-village.jp/shop/pages/shop-list/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_1c640fed5a868ad7.webp",
+        "alt": "SNOOPY Village 川越的日系水彩插圖"
+      },
+      "order": 11,
+      "canonicalArea": {
+        "id": "kawagoe",
+        "name": "川越藏造老街",
+        "href": "/walks/kawagoe/"
+      },
+      "recommendation": null,
+      "displayOrder": 10
     },
     {
       "id": "kawagoe--bell",
-      "order": 9,
+      "order": 12,
       "name": "時の鐘",
       "address": "埼玉県川越市幸町15-7",
       "group": "sights",
@@ -353,7 +578,16 @@
       "note": "",
       "official": "https://koedo.or.jp/spot_001/",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "E_s1KGpYIZY",
+          "title": "比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=E_s1KGpYIZY",
+          "time": "09:23",
+          "seconds": 563
+        }
+      ],
       "coordinate": {
         "lat": 35.9234837,
         "lng": 139.4833403,
@@ -369,6 +603,9 @@
         "alt": "時の鐘的日系水彩插圖"
       },
       "recommendation": "抬頭看木造鐘樓，停一會兒拍照。",
+      "sourceLibraryIds": [
+        "p_e1e93efadbf7c7ac"
+      ],
       "canonicalArea": {
         "id": "kawagoe",
         "name": "川越藏造老街",
@@ -382,11 +619,83 @@
           "https://koedo.or.jp/spot_003/"
         ]
       },
-      "displayOrder": 8
+      "displayOrder": 11
+    },
+    {
+      "id": "kawagoe--p_36ae659c88107f15",
+      "name": "みっふぃー蔵のきっちん＆べーかりー 川越店",
+      "address": "埼玉県川越市幸町8-5",
+      "group": "shops",
+      "categoryLabel": "角色雜貨・麵包",
+      "caption": "黑色木造店面裡的米菲雜貨與烘焙",
+      "descriptionParagraphs": [
+        "川越幸町的米菲主題店以廚房雜貨、角色點心與烘焙商品為主。灰瓦屋頂和深色木造店面融入藏造街景，適合沿一番街散步時挑選伴手禮。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.9237338,
+        "lng": 139.4830531,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Miffy+Kitchen+%26+Bakery+KAWAGOE/@35.9237338,139.4830531,17z/data=!3m1!4b1!4m6!3m5!1s0x6018db4e32e7a587:0x30b3f4368e45fdb0!8m2!3d35.9237338!4d139.4830531!16s%2Fg%2F11tc1dyln6?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/saitama/A1103/A110303/11058701/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "E_s1KGpYIZY",
+          "title": "比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=E_s1KGpYIZY",
+          "time": "09:56",
+          "seconds": 596
+        }
+      ],
+      "official": "https://miffykitchenbakery.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_36ae659c88107f15"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Miffy+Kitchen+%26+Bakery+KAWAGOE/@35.9237338,139.4830531,17z/data=!3m1!4b1!4m6!3m5!1s0x6018db4e32e7a587:0x30b3f4368e45fdb0!8m2!3d35.9237338!4d139.4830531!16s%2Fg%2F11tc1dyln6?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://miffykitchenbakery.jp/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/saitama/A1103/A110303/11058701/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_36ae659c88107f15.webp",
+        "alt": "みっふぃー蔵のきっちん＆べーかりー 川越店的日系水彩插圖"
+      },
+      "order": 13,
+      "canonicalArea": {
+        "id": "kawagoe",
+        "name": "川越藏造老街",
+        "href": "/walks/kawagoe/"
+      },
+      "recommendation": null,
+      "displayOrder": 12
     },
     {
       "id": "kawagoe--starbucks",
-      "order": 10,
+      "order": 14,
       "name": "スターバックス 川越鐘つき通り店",
       "address": "埼玉県川越市幸町15-18",
       "group": "food",
@@ -429,11 +738,11 @@
           "https://koedo.or.jp/spot_003/"
         ]
       },
-      "displayOrder": 9
+      "displayOrder": 13
     },
     {
       "id": "kawagoe--osatsu",
-      "order": 11,
+      "order": 15,
       "name": "小江戸おさつ庵",
       "address": "埼玉県川越市幸町15-21",
       "group": "food",
@@ -455,6 +764,14 @@
           "url": "https://www.youtube.com/watch?v=-UCmS86LwKs",
           "time": "4:16",
           "seconds": 256
+        },
+        {
+          "channel": "Yunaty日本語",
+          "videoId": "cAtlayvyZl8",
+          "title": "【東京人氣近郊】想體驗傳統日本風情？現代小江戶川越值得一去！",
+          "url": "https://www.youtube.com/watch?v=cAtlayvyZl8",
+          "time": "3:39",
+          "seconds": 219
         }
       ],
       "coordinate": {
@@ -480,11 +797,11 @@
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
       },
-      "displayOrder": 10
+      "displayOrder": 14
     },
     {
       "id": "kawagoe--festival",
-      "order": 12,
+      "order": 16,
       "name": "川越まつり会館",
       "address": "埼玉県川越市元町2-1-10",
       "group": "sights",
@@ -519,11 +836,334 @@
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
       },
-      "displayOrder": 11
+      "displayOrder": 15
+    },
+    {
+      "id": "kawagoe--p_e41f97e4fb645153",
+      "name": "小江戸 coffee mame蔵",
+      "address": "埼玉県川越市元町2-1-2",
+      "group": "food",
+      "categoryLabel": "外帶咖啡",
+      "caption": "菓子屋橫丁入口的木造咖啡小店",
+      "descriptionParagraphs": [
+        "mame藏位於菓子屋橫丁入口附近，以外帶咖啡為主，也陳列與咖啡有關的器物。深色木造牆面、竹簾和白色暖簾，讓這個街角保有老街的小店氣氛。"
+      ],
+      "note": "不同來源的開始營業時間不一致，出發前請向店家確認。",
+      "coordinate": {
+        "lat": 35.9239929,
+        "lng": 139.4821634,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Koedo+Coffee+mame+zou/@35.9239929,139.4821634,17z/data=!3m1!4b1!4m6!3m5!1s0x6018da6155a53c91:0x770bdb53469510d3!8m2!3d35.9239929!4d139.4821634!16s%2Fg%2F1tfjl4d_?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/saitama/A1103/A110303/11005848/dtlmap/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "E_s1KGpYIZY",
+          "title": "比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=E_s1KGpYIZY",
+          "time": "05:45",
+          "seconds": 345
+        }
+      ],
+      "official": "https://www.mapple.net/spot/11011788/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e41f97e4fb645153"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Koedo+Coffee+mame+zou/@35.9239929,139.4821634,17z/data=!3m1!4b1!4m6!3m5!1s0x6018da6155a53c91:0x770bdb53469510d3!8m2!3d35.9239929!4d139.4821634!16s%2Fg%2F1tfjl4d_?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.mapple.net/spot/11011788/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/saitama/A1103/A110303/11005848/dtlmap/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_e41f97e4fb645153.webp",
+        "alt": "小江戸 coffee mame蔵的日系水彩插圖"
+      },
+      "order": 17,
+      "canonicalArea": {
+        "id": "kawagoe",
+        "name": "川越藏造老街",
+        "href": "/walks/kawagoe/"
+      },
+      "recommendation": null,
+      "displayOrder": 16
+    },
+    {
+      "id": "kawagoe--p_de6b13d968aa004f",
+      "name": "川越ベーカリー 楽楽",
+      "address": "埼玉県川越市元町2-10-13",
+      "group": "food",
+      "categoryLabel": "麵包",
+      "caption": "菓子屋橫丁旁的國產小麥麵包",
+      "descriptionParagraphs": [
+        "樂樂位於川越元町二丁目，使用國產小麥製作麵包，店面保留町家般的木構與暖色外牆。逛菓子屋橫丁時，可順路選一份麵包作為散步間的補給。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.9245213,
+        "lng": 139.4817416,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Bakery+Raku+Raku/@35.9245213,139.4817416,17z/data=!3m1!4b1!4m6!3m5!1s0x6018da640f06ff73:0xcbd1516321d6c0ee!8m2!3d35.9245213!4d139.4817416!16s%2Fg%2F1tzgjnj3?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/saitama/A1103/A110303/11005320/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "E_s1KGpYIZY",
+          "title": "比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=E_s1KGpYIZY",
+          "time": "04:41",
+          "seconds": 281
+        }
+      ],
+      "official": "https://bakery-rakuraku.co.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_de6b13d968aa004f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Bakery+Raku+Raku/@35.9245213,139.4817416,17z/data=!3m1!4b1!4m6!3m5!1s0x6018da640f06ff73:0xcbd1516321d6c0ee!8m2!3d35.9245213!4d139.4817416!16s%2Fg%2F1tzgjnj3?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://bakery-rakuraku.co.jp/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/saitama/A1103/A110303/11005320/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_de6b13d968aa004f.webp",
+        "alt": "川越ベーカリー 楽楽的日系水彩插圖"
+      },
+      "order": 18,
+      "canonicalArea": {
+        "id": "kawagoe",
+        "name": "川越藏造老街",
+        "href": "/walks/kawagoe/"
+      },
+      "recommendation": null,
+      "displayOrder": 17
+    },
+    {
+      "id": "kawagoe--p_5fcc601bda7f14bf",
+      "name": "ちいかわもぐもぐ本舗 川越店",
+      "address": "〒350-0062 埼玉県川越市元町二丁目7番9",
+      "group": "shops",
+      "categoryLabel": "角色雜貨",
+      "caption": "菓子屋橫丁裡的角色雜貨與番薯點心",
+      "descriptionParagraphs": [
+        "位於元町菓子屋橫丁的川越店，是ちいかわもぐもぐ本舗的第二間店。店內以川越街景與角色陳設呼應周邊老街，販售以番薯為題的點心與川越限定商品。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.9245452,
+        "lng": 139.4815019,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Chiikawa+Mogumogu+Hompo+Kawagoe/@35.9245452,139.4815019,17z/data=!3m1!4b1!4m6!3m5!1s0x6018db5ad3fee029:0x385f14ef6b654aee!8m2!3d35.9245452!4d139.4815019!16s%2Fg%2F11ybrxfzz6?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://www.chiikawamogumogu.jp/stores/kawagoe/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "E_s1KGpYIZY",
+          "title": "比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=E_s1KGpYIZY",
+          "time": "03:26",
+          "seconds": 206
+        }
+      ],
+      "official": "https://www.chiikawamogumogu.jp/stores/kawagoe/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5fcc601bda7f14bf"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Chiikawa+Mogumogu+Hompo+Kawagoe/@35.9245452,139.4815019,17z/data=!3m1!4b1!4m6!3m5!1s0x6018db5ad3fee029:0x385f14ef6b654aee!8m2!3d35.9245452!4d139.4815019!16s%2Fg%2F11ybrxfzz6?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.chiikawamogumogu.jp/stores/kawagoe/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_5fcc601bda7f14bf.webp",
+        "alt": "ちいかわもぐもぐ本舗 川越店的日系水彩插圖"
+      },
+      "order": 19,
+      "canonicalArea": {
+        "id": "kawagoe",
+        "name": "川越藏造老街",
+        "href": "/walks/kawagoe/"
+      },
+      "recommendation": null,
+      "displayOrder": 18
+    },
+    {
+      "id": "kawagoe--kashiya",
+      "order": 20,
+      "name": "菓子屋横丁",
+      "address": "埼玉県川越市元町2丁目周辺",
+      "group": "shops",
+      "categoryLabel": "菓子街",
+      "caption": "沿石板走一段，找回熟悉的零食香。",
+      "descriptionParagraphs": [
+        "菓子屋橫丁在散落彩色玻璃的石板路兩旁，聚集飴糖、糰子與各式傳統點心。香氣與小店的距離都很近，邊走邊挑，便能感受川越保留的庶民甜味。",
+        "這裡適合慢慢逛，也適合挑一兩樣點心帶回家。從一番街往西北轉入，街道尺度收得更小，散步的節奏也會跟著放慢。"
+      ],
+      "description": "菓子屋橫丁在散落彩色玻璃的石板路兩旁，聚集飴糖、糰子與各式傳統點心。香氣與小店的距離都很近，邊走邊挑，便能感受川越保留的庶民甜味。\n\n這裡適合慢慢逛，也適合挑一兩樣點心帶回家。從一番街往西北轉入，街道尺度收得更小，散步的節奏也會跟著放慢。",
+      "note": "",
+      "official": "https://koedo.or.jp/spot_003/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.9246247,
+        "lng": 139.48123588333337,
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "url": "https://www.openstreetmap.org/way/35570953",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
+      },
+      "illustration": {
+        "image": "/art/walks/kawagoe/kashiya.webp",
+        "alt": "菓子屋横丁的日系水彩插圖"
+      },
+      "recommendation": "慢逛點心小巷，挑喜歡的伴手禮。",
+      "canonicalArea": {
+        "id": "kawagoe",
+        "name": "川越藏造老街",
+        "href": "/walks/kawagoe/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://koedo.or.jp/spot_001/",
+          "https://store.starbucks.co.jp/detail-1554/",
+          "https://koedo.or.jp/spot_003/"
+        ]
+      },
+      "displayOrder": 19
+    },
+    {
+      "id": "kawagoe--p_a19b544f6e31c30e",
+      "name": "江戸飴細工 鈴木",
+      "address": "埼玉県川越市元町2-7-7",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・埼玉県川越市元町2-7-7。",
+      "descriptionParagraphs": [
+        "「江戸飴細工 鈴木」位於本次川越藏造老街收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 埼玉県川越市元町2-7-7。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.924809,
+        "lng": 139.481369,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%85%83%E7%94%BA2-7-7",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "-UCmS86LwKs",
+          "title": "cafe vlog｜川 越 食 べ 歩 き グ ル メ 10 選 ／2022年保存版／猫まんま／おだんご／お蕎麦屋さん",
+          "url": "https://www.youtube.com/watch?v=-UCmS86LwKs",
+          "time": "3:02",
+          "seconds": 182
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a19b544f6e31c30e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Suzuki's+Amezaiku/@35.9246326,139.4811351,17z/data=!3m1!4b1!4m6!3m5!1s0x6018dbf935e69ead:0x148ff825aa8e8583!8m2!3d35.9246326!4d139.4811351!16s%2Fg%2F11gwkn1r62?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kawagoe--p_a19b544f6e31c30e.webp",
+        "alt": "江戸飴細工 鈴木的日系水彩插圖"
+      },
+      "order": 21,
+      "canonicalArea": {
+        "id": "kawagoe",
+        "name": "川越藏造老街",
+        "href": "/walks/kawagoe/"
+      },
+      "recommendation": null,
+      "displayOrder": 20,
+      "description": "「江戸飴細工 鈴木」位於本次川越藏造老街收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 埼玉県川越市元町2-7-7。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a19b544f6e31c30e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kawagoe--miyako",
-      "order": 13,
+      "order": 22,
       "name": "都屋・横丁の焼きだんご",
       "address": "埼玉県川越市元町2-3-16",
       "group": "food",
@@ -570,114 +1210,11 @@
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
       },
-      "displayOrder": 12
-    },
-    {
-      "id": "kawagoe--p_a19b544f6e31c30e",
-      "name": "江戸飴細工 鈴木",
-      "address": "埼玉県川越市元町2-7-7",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「江戸飴細工 鈴木」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 埼玉県川越市元町2-7-7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.924809,
-        "lng": 139.481369,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%85%83%E7%94%BA2-7-7",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "-UCmS86LwKs",
-          "title": "cafe vlog｜川 越 食 べ 歩 き グ ル メ 10 選 ／2022年保存版／猫まんま／おだんご／お蕎麦屋さん",
-          "url": "https://www.youtube.com/watch?v=-UCmS86LwKs",
-          "time": "3:02",
-          "seconds": 182
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_a19b544f6e31c30e"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/Suzuki's+Amezaiku/@35.9246326,139.4811351,17z/data=!3m1!4b1!4m6!3m5!1s0x6018dbf935e69ead:0x148ff825aa8e8583!8m2!3d35.9246326!4d139.4811351!16s%2Fg%2F11gwkn1r62?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "illustration": {
-        "image": "/art/source-library/kawagoe--p_a19b544f6e31c30e.webp",
-        "alt": "江戸飴細工 鈴木的日系水彩插圖"
-      },
-      "order": 14,
-      "canonicalArea": {
-        "id": "kawagoe",
-        "name": "川越藏造老街",
-        "href": "/walks/kawagoe/"
-      },
-      "recommendation": null,
-      "displayOrder": 13
-    },
-    {
-      "id": "kawagoe--kashiya",
-      "order": 15,
-      "name": "菓子屋横丁",
-      "address": "埼玉県川越市元町2丁目周辺",
-      "group": "shops",
-      "categoryLabel": "菓子街",
-      "caption": "沿石板走一段，找回熟悉的零食香。",
-      "descriptionParagraphs": [
-        "菓子屋橫丁在散落彩色玻璃的石板路兩旁，聚集飴糖、糰子與各式傳統點心。香氣與小店的距離都很近，邊走邊挑，便能感受川越保留的庶民甜味。",
-        "這裡適合慢慢逛，也適合挑一兩樣點心帶回家。從一番街往西北轉入，街道尺度收得更小，散步的節奏也會跟著放慢。"
-      ],
-      "description": "菓子屋橫丁在散落彩色玻璃的石板路兩旁，聚集飴糖、糰子與各式傳統點心。香氣與小店的距離都很近，邊走邊挑，便能感受川越保留的庶民甜味。\n\n這裡適合慢慢逛，也適合挑一兩樣點心帶回家。從一番街往西北轉入，街道尺度收得更小，散步的節奏也會跟著放慢。",
-      "note": "",
-      "official": "https://koedo.or.jp/spot_003/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "coordinate": {
-        "lat": 35.9246247,
-        "lng": 139.48123588333337,
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "url": "https://www.openstreetmap.org/way/35570953",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "OpenStreetMap 命名地點或建築頂點平均代表點，並與來源地址核對。"
-      },
-      "illustration": {
-        "image": "/art/walks/kawagoe/kashiya.webp",
-        "alt": "菓子屋横丁的日系水彩插圖"
-      },
-      "recommendation": "慢逛點心小巷，挑喜歡的伴手禮。",
-      "canonicalArea": {
-        "id": "kawagoe",
-        "name": "川越藏造老街",
-        "href": "/walks/kawagoe/"
-      },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://koedo.or.jp/spot_001/",
-          "https://store.starbucks.co.jp/detail-1554/",
-          "https://koedo.or.jp/spot_003/"
-        ]
-      },
-      "displayOrder": 14
+      "displayOrder": 21
     },
     {
       "id": "kawagoe--lec",
-      "order": 16,
+      "order": 23,
       "name": "Little Edo Coffee（LEC）",
       "address": "埼玉県川越市志多町2-1",
       "group": "food",
@@ -724,7 +1261,7 @@
         "name": "川越藏造老街",
         "href": "/walks/kawagoe/"
       },
-      "displayOrder": 15
+      "displayOrder": 22
     },
     {
       "id": "kawagoe--p_dd7e46911c2680ca",
@@ -895,17 +1432,27 @@
   ],
   "defaultSelection": "kawagoe-slow-walk",
   "libraryCoverage": {
-    "added": 2,
+    "added": 9,
     "unlocated": 0,
     "checkedAt": "2026-10-26",
     "sourceIds": [
+      "p_ed5a95e1e413608c",
+      "p_301ab34510f97598",
+      "p_5d35f2d6b02ca853",
       "p_31a251818b6b1971",
       "p_95a5a590370fac08",
       "p_e6320c92bf9396d4",
       "p_b0e00433096a34e4",
+      "p_0586d72710c4c4cb",
+      "p_1c640fed5a868ad7",
+      "p_e1e93efadbf7c7ac",
+      "p_36ae659c88107f15",
       "p_de0cfe29b90875b7",
-      "p_526b39f59d4b8892",
+      "p_e41f97e4fb645153",
+      "p_de6b13d968aa004f",
+      "p_5fcc601bda7f14bf",
       "p_a19b544f6e31c30e",
+      "p_526b39f59d4b8892",
       "p_1ea35e82bf4fddca",
       "p_dd7e46911c2680ca"
     ]
@@ -924,7 +1471,7 @@
     ],
     "boundaryKind": "editorial-area",
     "reviewedAt": "2026-10-26",
-    "placeCount": 16
+    "placeCount": 23
   },
   "savedPlaceArchive": [
     {

@@ -8,10 +8,10 @@
       "address": "東京都荒川区西日暮里2-18-2 伊藤ビル1F",
       "group": "food",
       "categoryLabel": "手打拉麵",
-      "caption": "影片中收錄的停留點",
+      "caption": "手打拉麵・東京都荒川区西日暮里2-18-2 伊藤ビル1F。",
       "descriptionParagraphs": [
-        "「馬賊 日暮里店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都荒川区西日暮里2-18-2 伊藤ビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「中国手打拉麺 馬賊 日暮里店」位於本次日暮里東側收錄範圍，既有資料將這一站歸為手打拉麵。地址紀錄為 東京都荒川区西日暮里2-18-2 伊藤ビル1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -54,7 +54,16 @@
         "href": "/walks/nippori-east/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「中国手打拉麺 馬賊 日暮里店」位於本次日暮里東側收錄範圍，既有資料將這一站歸為手打拉麵。地址紀錄為 東京都荒川区西日暮里2-18-2 伊藤ビル1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_f1b66d6793401bb2"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "yanaka--p_49a5c097f87425e4",
@@ -62,10 +71,10 @@
       "address": "東京都荒川区西日暮里2-6-7 ひぐらしガーデン1F",
       "group": "food",
       "categoryLabel": "麵包・咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "麵包・咖啡・東京都荒川区西日暮里2-6-7 ひぐらしガーデン1F。",
       "descriptionParagraphs": [
-        "「ひぐらしベーカリー」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都荒川区西日暮里2-6-7 ひぐらしガーデン1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「ひぐらしベーカリー 日暮里店」位於本次日暮里東側收錄範圍，既有資料將這一站歸為麵包・咖啡。地址紀錄為 東京都荒川区西日暮里2-6-7 ひぐらしガーデン1F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -110,7 +119,16 @@
         "href": "/walks/nippori-east/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「ひぐらしベーカリー 日暮里店」位於本次日暮里東側收錄範圍，既有資料將這一站歸為麵包・咖啡。地址紀錄為 東京都荒川区西日暮里2-6-7 ひぐらしガーデン1F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_49a5c097f87425e4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

@@ -396,10 +396,10 @@
       "address": "591 Ubaganishichō, Kamigyo Ward, Kyoto, 602-8486",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：漢堡排炸雞雙拼+蒜香雞腿排",
       "descriptionParagraphs": [
-        "「Kitchen Papa」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 591 Ubaganishichō, Kamigyo Ward, Kyoto, 602-8486。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「Kitchen Papa」的餐點筆記提到漢堡排炸雞雙拼+蒜香雞腿排。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -440,15 +440,24 @@
         "href": "/walks/kyoto-nishijin/"
       },
       "recommendation": null,
-      "displayOrder": 10
+      "displayOrder": 10,
+      "description": "原影片在「Kitchen Papa」的餐點筆記提到漢堡排炸雞雙拼+蒜香雞腿排。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_45e861ebd5eb6745"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-nishijin--p_48a2680d743537ba",
       "name": "さらさ西陣",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "京都府京都市北区紫野東藤ノ森町11-1",
+      "group": "food",
+      "categoryLabel": "咖啡・餐食",
+      "caption": "在保留舊澡堂空間的咖啡店，安排一段西陣休息。",
       "descriptionParagraphs": [
         "「さらさ西陣」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
@@ -470,7 +479,7 @@
           "seconds": 831
         }
       ],
-      "official": null,
+      "official": "https://www.cafe-sarasa.com/shop/nishijin.html",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -492,7 +501,23 @@
         "href": "/walks/kyoto-nishijin/"
       },
       "recommendation": null,
-      "displayOrder": 11
+      "displayOrder": 11,
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://www.cafe-sarasa.com/shop/nishijin.html",
+            "checkedAt": "2026-10-28",
+            "result": "官方さらさ西陣頁與食べログ26000380所列西陣同店，確認元澡堂咖啡店及京都市北区紫野東藤ノ森町11-1。"
+          },
+          {
+            "url": "https://tabelog.com/kyoto/A2601/A260503/26000380/",
+            "checkedAt": "2026-10-28",
+            "result": "搜索結果匹配店名、地址與咖啡分類；未以搜尋摘要設定營業時間。"
+          }
+        ],
+        "findings": "官方さらさ西陣頁與食べログ26000380所列西陣同店，確認元澡堂咖啡店及京都市北区紫野東藤ノ森町11-1。"
+      }
     }
   ],
   "routes": [
@@ -683,10 +708,10 @@
       "address": "242-12 Yōanchō, Kamigyo Ward, Kyoto, 602-8022",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：熱湯蕎麥麵+冷湯蕎麥沾麵",
       "descriptionParagraphs": [
-        "「竹邑庵太郎敦盛」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 242-12 Yōanchō, Kamigyo Ward, Kyoto, 602-8022。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「竹邑庵太郎敦盛」的餐點筆記提到熱湯蕎麥麵+冷湯蕎麥沾麵。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -727,7 +752,16 @@
         "name": "京都御苑西側",
         "href": "/walks/kyoto-gosho-west/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "原影片在「竹邑庵太郎敦盛」的餐點筆記提到熱湯蕎麥麵+冷湯蕎麥沾麵。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_b68dd810244524bc"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-nishijin--p_9870b7da58043dbb",
@@ -735,10 +769,10 @@
       "address": "東京都豊島区池袋2-22-2 バイリンクビル2F",
       "group": "food",
       "categoryLabel": "咖啡館",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡館・東京都豊島区池袋2-22-2 バイリンクビル2F。",
       "descriptionParagraphs": [
-        "原影片介紹池袋西口的越南咖啡館 Nu coffee，位於池袋二丁目建築的二樓。",
-        "原始資料記錄的地址為 東京都豊島区池袋2-22-2 バイリンクビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Nu coffee 池袋店」位於本次池袋西口收錄範圍，既有資料將這一站歸為咖啡館。地址紀錄為 東京都豊島区池袋2-22-2 バイリンクビル2F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片店家連結與2023年實訪報導均指向池袋店。食べログ目前標示「掲載保留」，現況尚未確認，請先確認營業再安排行程。",
       "coordinate": {
@@ -781,7 +815,16 @@
         "name": "池袋西口",
         "href": "/walks/ikebukuro-west/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Nu coffee 池袋店」位於本次池袋西口收錄範圍，既有資料將這一站歸為咖啡館。地址紀錄為 東京都豊島区池袋2-22-2 バイリンクビル2F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9870b7da58043dbb"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "inheritedWalkIds": []

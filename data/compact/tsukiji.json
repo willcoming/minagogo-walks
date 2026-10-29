@@ -9,10 +9,10 @@
       "address": "東京都中央区築地2-15-17 築地食パンビル1F",
       "group": "food",
       "categoryLabel": "自助餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "自助餐廳・東京都中央区築地2-15-17 築地食パンビル1F。",
       "descriptionParagraphs": [
-        "銀座に志かわ在築地的咖啡烘焙店，提供吐司與咖啡。保留原影片的築地店紀錄。",
-        "原始資料記錄的地址為 東京都中央区築地2-15-17 築地食パンビル1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「GINZA NISHIKAWA COFFEE ROASTERY 築地店」位於本次築地收錄範圍，既有資料將這一站歸為自助餐廳。地址紀錄為 東京都中央区築地2-15-17 築地食パンビル1F。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片VKiiTmD8Iqs為築地散步，店家連結指向築地店；原資料誤配為藏前分店，已依影片與官方地址修正。",
       "coordinate": {
@@ -55,7 +55,16 @@
         "href": "/walks/tsukiji/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「GINZA NISHIKAWA COFFEE ROASTERY 築地店」位於本次築地收錄範圍，既有資料將這一站歸為自助餐廳。地址紀錄為 東京都中央区築地2-15-17 築地食パンビル1F。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_499533cd5ccca793"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "defaultSelection": null,

@@ -8,7 +8,7 @@
       "categoryLabel": "景點",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「ニンテンドーミュージアム 任天堂博物館」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
+        "「ニンテンドーミュージアム 任天堂博物館」出現在老辣妹、部屋隆的生活頻道、Travel Seeker /夫婦の旅的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 京都府宇治市小倉町神楽田56。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": "需事先取得指定日期與時段門票，請依官方預約及入館說明安排；館內商店與咖啡廳需持入館票。",
@@ -26,6 +26,22 @@
           "url": "https://www.youtube.com/watch?v=DYmnbZ8oaws",
           "time": "20:11",
           "seconds": 1211
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "djoF_ybkh7I",
+          "title": "#京都自由行 一生浪漫一次 您！必來的#抹茶 古都#宇治 千年貴族別墅 鈔票上的日本地標 天然濃醇抹茶 猶如時空穿越的浪漫故事 世界文化遺產 全部匯集於京都的後花園 只要10幾分鐘就可以抵達 沉浸體驗",
+          "url": "https://www.youtube.com/watch?v=djoF_ybkh7I",
+          "time": "22:00",
+          "seconds": 1320
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "dg4N6WJDgnk",
+          "title": "【京都任天堂博物館🇯🇵反省＆開箱Vlog】門票怎麼訂？紀念品店＆餐廳全部一篇搞懂！｜京都景點｜Nintendo Museum",
+          "url": "https://www.youtube.com/watch?v=dg4N6WJDgnk",
+          "time": "00:09",
+          "seconds": 9
         }
       ],
       "official": "https://museum.nintendo.com/",

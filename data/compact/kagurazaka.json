@@ -8,10 +8,10 @@
       "address": "〒162-0804 東京都新宿区中里町３０",
       "group": "sights",
       "categoryLabel": "住宿",
-      "caption": "影片中收錄的停留點",
+      "caption": "住宿・東京都新宿区中里町３０。",
       "descriptionParagraphs": [
-        "「Hotel Vintage Kagurazaka」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0804 東京都新宿区中里町３０。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Hotel Vintage Kagurazaka」位於本次神樂坂收錄範圍，既有資料將這一站歸為住宿。地址紀錄為 〒162-0804 東京都新宿区中里町３０。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -56,18 +56,27 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「Hotel Vintage Kagurazaka」位於本次神樂坂收錄範圍，既有資料將這一站歸為住宿。地址紀錄為 〒162-0804 東京都新宿区中里町３０。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_29bb3bfb9113e582"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_58d1d8cb13c1b87e",
       "name": "新宿区立あかぎ児童遊園",
       "address": "",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "公園",
+      "caption": "公園・神樂坂的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「新宿区立あかぎ児童遊園」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「新宿区立あかぎ児童遊園」位於本次神樂坂收錄範圍，既有資料將這一站歸為公園。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -108,7 +117,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「新宿区立あかぎ児童遊園」位於本次神樂坂收錄範圍，既有資料將這一站歸為公園。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_58d1d8cb13c1b87e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_1658a3bb436f44c8",
@@ -116,10 +134,10 @@
       "address": "東京都新宿区赤城下町10",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都新宿区赤城下町10。",
       "descriptionParagraphs": [
-        "「elm green coffee （エルム グリーン コーヒー）」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都新宿区赤城下町10。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「elm green coffee （エルム グリーン コーヒー）」位於本次神樂坂收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都新宿区赤城下町10。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -172,7 +190,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「elm green coffee （エルム グリーン コーヒー）」位於本次神樂坂收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都新宿区赤城下町10。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_1658a3bb436f44c8"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--kamome",
@@ -312,10 +339,10 @@
       "address": "日本〒162-0805 東京都新宿區矢來町",
       "group": "sights",
       "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
+      "caption": "交通・日本〒162-0805 東京都新宿區矢來町。",
       "descriptionParagraphs": [
-        "「神樂坂站」出現在Hiro | Days in Tokyo、Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 日本〒162-0805 東京都新宿區矢來町。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「神樂坂站」位於本次神樂坂收錄範圍，既有資料將這一站歸為交通。地址紀錄為 日本〒162-0805 東京都新宿區矢來町。",
+        "來源包括Hiro | Days in Tokyo、Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -364,7 +391,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 6
+      "displayOrder": 6,
+      "description": "「神樂坂站」位於本次神樂坂收錄範圍，既有資料將這一站歸為交通。地址紀錄為 日本〒162-0805 東京都新宿區矢來町。\n\n來源包括Hiro | Days in Tokyo、Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_44305709e2724aef"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_6196a98e381e7bc6",
@@ -372,10 +408,10 @@
       "address": "107-2 Yaraichō, Shinjuku City, Tokyo 162-0805",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・107-2 Yaraichō。",
       "descriptionParagraphs": [
-        "「Aux Merveilleux de Fred」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 107-2 Yaraichō, Shinjuku City, Tokyo 162-0805。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Aux Merveilleux de Fred」位於本次神樂坂收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 107-2 Yaraichō, Shinjuku City, Tokyo 162-0805。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -422,7 +458,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 7
+      "displayOrder": 7,
+      "description": "「Aux Merveilleux de Fred」位於本次神樂坂收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 107-2 Yaraichō, Shinjuku City, Tokyo 162-0805。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6196a98e381e7bc6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_a9e91c9f9b175073",
@@ -430,10 +475,10 @@
       "address": "",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・神樂坂的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「神楽坂ねこの郵便局というなまえのお店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「神楽坂ねこの郵便局というなまえのお店」位於本次神樂坂收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -474,7 +519,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 8
+      "displayOrder": 8,
+      "description": "「神楽坂ねこの郵便局というなまえのお店」位於本次神樂坂收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a9e91c9f9b175073"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--akagi",
@@ -578,10 +632,10 @@
       "address": "6-chōme-26-8 Kagurazaka, Shinjuku City, Tokyo 162-0825",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・6-chōme-26-8 Kagurazaka…。",
       "descriptionParagraphs": [
-        "「今彩」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 6-chōme-26-8 Kagurazaka, Shinjuku City, Tokyo 162-0825。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「今彩」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 6-chōme-26-8 Kagurazaka, Shinjuku City, Tokyo 162-0825。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -620,7 +674,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 11
+      "displayOrder": 11,
+      "description": "「今彩」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 6-chōme-26-8 Kagurazaka, Shinjuku City, Tokyo 162-0825。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_1b88ee4de929cad8"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--baikatei",
@@ -824,10 +887,10 @@
       "address": "4 Chome-8 Kagurazaka, Shinjuku City, Tokyo 162-0825",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・4 Chome-8 Kagurazaka…。",
       "descriptionParagraphs": [
-        "「創作懷石 おいしんぼ」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 4 Chome-8 Kagurazaka, Shinjuku City, Tokyo 162-0825。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「創作懷石 おいしんぼ」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 4 Chome-8 Kagurazaka, Shinjuku City, Tokyo 162-0825。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -866,7 +929,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 15
+      "displayOrder": 15,
+      "description": "「創作懷石 おいしんぼ」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 4 Chome-8 Kagurazaka, Shinjuku City, Tokyo 162-0825。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_14bbfa7a1f304ac6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_5cef684cfaa92fbe",
@@ -874,10 +946,10 @@
       "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−４ 河庄ビル １F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Taihu Tokyo」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−４ 河庄ビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Taihu Tokyo」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−４ 河庄ビル １F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -916,7 +988,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 16
+      "displayOrder": 16,
+      "description": "「Taihu Tokyo」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−４ 河庄ビル １F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5cef684cfaa92fbe"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_4068a8606217c721",
@@ -924,10 +1005,10 @@
       "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−３ 宮崎ビル 1F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「El Pulpo」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−３ 宮崎ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「El Pulpo」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−３ 宮崎ビル 1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -966,18 +1047,27 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 17
+      "displayOrder": 17,
+      "description": "「El Pulpo」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 4-chōme−３ 宮崎ビル 1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_4068a8606217c721"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_bac953455afffacc",
       "name": "Spicier(スパイシア)",
       "address": "東京都新宿区神楽坂3-2-33 芸者新道 Rosy",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都新宿区神楽坂3-2-33 芸者新道 Rosy。",
       "descriptionParagraphs": [
-        "「Spicier(スパイシア)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都新宿区神楽坂3-2-33 芸者新道 Rosy。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Spicier(スパイシア)」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都新宿区神楽坂3-2-33 芸者新道 Rosy。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1022,7 +1112,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 18
+      "displayOrder": 18,
+      "description": "「Spicier(スパイシア)」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都新宿区神楽坂3-2-33 芸者新道 Rosy。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bac953455afffacc"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_4d61b6144a45bd56",
@@ -1030,10 +1129,10 @@
       "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−2−１２ 摩耶ビル 1F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Torisoba Zagin Kagurazaka Tokyo Honten」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−2−１２ 摩耶ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Torisoba Zagin Kagurazaka Tokyo Honten」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−2−１２ 摩耶ビル 1F。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1074,7 +1173,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 19
+      "displayOrder": 19,
+      "description": "「Torisoba Zagin Kagurazaka Tokyo Honten」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−2−１２ 摩耶ビル 1F。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_4d61b6144a45bd56"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_cf8b58dc935275e2",
@@ -1082,10 +1190,10 @@
       "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−２ Yamanouchi Bld, B１",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「豬排 あげづき」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−２ Yamanouchi Bld, B１。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「豬排 あげづき」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−２ Yamanouchi Bld, B１。",
+        "來源包括Hina Life in Japan、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1137,7 +1245,17 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 20
+      "displayOrder": 20,
+      "description": "「豬排 あげづき」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−２ Yamanouchi Bld, B１。\n\n來源包括Hina Life in Japan、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_cf8b58dc935275e2",
+          "p_9ec76226832f9f40"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_f632f65f9a9f3933",
@@ -1145,10 +1263,10 @@
       "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−3−３−２ クレール神楽坂ＶＩ",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「九頭龍蕎麥 本店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−3−３−２ クレール神楽坂ＶＩ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「九頭龍蕎麥 本店」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−3−３−２ クレール神楽坂ＶＩ。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1187,7 +1305,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 21
+      "displayOrder": 21,
+      "description": "「九頭龍蕎麥 本店」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−3−３−２ クレール神楽坂ＶＩ。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_f632f65f9a9f3933"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_87cd3f0878fb06ca",
@@ -1195,10 +1322,10 @@
       "address": "東京都新宿区神楽坂2-12",
       "group": "sights",
       "categoryLabel": "建築物",
-      "caption": "影片中收錄的停留點",
+      "caption": "建築物・東京都新宿区神楽坂2-12。",
       "descriptionParagraphs": [
-        "「ＴＩＭＥＳ ＣＡＦＥ」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都新宿区神楽坂2-12。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「TOKI CAFE（舊名 TIMES CAFE）」位於本次神樂坂收錄範圍，既有資料將這一站歸為建築物。地址紀錄為 東京都新宿区神楽坂2-12。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原始紀錄使用舊店名 TIMES CAFE；店家已於 2019 年改名為 TOKI CAFE。插圖採舊店名時期店面照片，保留原影片紀錄。",
       "coordinate": {
@@ -1237,7 +1364,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 22
+      "displayOrder": 22,
+      "description": "「TOKI CAFE（舊名 TIMES CAFE）」位於本次神樂坂收錄範圍，既有資料將這一站歸為建築物。地址紀錄為 東京都新宿区神楽坂2-12。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_87cd3f0878fb06ca"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_8800c64b83f5f17b",
@@ -1245,10 +1381,10 @@
       "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 2-chōme−12−１０ ヒルズ神楽坂 1F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Le Coquillage」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 2-chōme−12−１０ ヒルズ神楽坂 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Le Coquillage」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 2-chōme−12−１０ ヒルズ神楽坂 1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1287,14 +1423,23 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 23
+      "displayOrder": 23,
+      "description": "「Le Coquillage」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 2-chōme−12−１０ ヒルズ神楽坂 1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8800c64b83f5f17b"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_54cbfacb64abdd12",
       "name": "紀の善 神楽坂",
       "address": "東京都新宿区神楽坂2-12-15 さわやビル1F/B1F",
-      "group": "sights",
-      "categoryLabel": "其他",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
       "caption": "重新開張的神樂坂甘味處",
       "descriptionParagraphs": [
         "紀の善曾於 2022 年結束營業，2025 年由新的經營團隊承接並在神樂坂重新開張。影片保留的是舊店時期的記錄。",
@@ -1351,10 +1496,10 @@
       "address": "東京都新宿区神楽坂2-11-6 第83東京ビル 2F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・東京都新宿区神楽坂2-11-6 第83東京ビル 2F。",
       "descriptionParagraphs": [
-        "「神楽坂ワイン食堂 ビストロ Entraide」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都新宿区神楽坂2-11-6 第83東京ビル 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「神楽坂ワイン食堂 ビストロ Entraide」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都新宿区神楽坂2-11-6 第83東京ビル 2F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1397,7 +1542,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 25
+      "displayOrder": 25,
+      "description": "「神楽坂ワイン食堂 ビストロ Entraide」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都新宿区神楽坂2-11-6 第83東京ビル 2F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_eeada37b4af62a2b"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--fujiya",
@@ -1599,10 +1753,10 @@
       "address": "3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・3-chōme-6 Kagurazaka…。",
       "descriptionParagraphs": [
-        "「別亭 鳥茶屋」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「別亭 鳥茶屋」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825。",
+        "來源包括Hina Life in Japan、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1665,7 +1819,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 29
+      "displayOrder": 29,
+      "description": "「別亭 鳥茶屋」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825。\n\n來源包括Hina Life in Japan、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8d7e229605a7bb05"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_052bf4ebc2eb0426",
@@ -1673,10 +1836,10 @@
       "address": "3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・3-chōme-6 Kagurazaka…。",
       "descriptionParagraphs": [
-        "「加賀生麩割烹 神樂坂 前田」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「加賀生麩割烹 神樂坂 前田」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1715,7 +1878,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 30
+      "displayOrder": 30,
+      "description": "「加賀生麩割烹 神樂坂 前田」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 3-chōme-6 Kagurazaka, Shinjuku City, Tokyo 162-0825。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_052bf4ebc2eb0426"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_a9be1c6db6efdc27",
@@ -1723,10 +1895,10 @@
       "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−６ Kagurazaka Sanchome Terrace, 1F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Cogs Dining Kagurazaka」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−６ Kagurazaka Sanchome Terrace, 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Cogs Dining Kagurazaka」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−６ Kagurazaka Sanchome Terrace, 1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1765,7 +1937,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 31
+      "displayOrder": 31,
+      "description": "「Cogs Dining Kagurazaka」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−６ Kagurazaka Sanchome Terrace, 1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a9be1c6db6efdc27"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--kyoraku",
@@ -1828,13 +2009,13 @@
     {
       "id": "kagurazaka--p_638672b7a7fa5794",
       "name": "果房 メロンとロマン",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "東京都新宿区神楽坂3-6-92",
+      "group": "food",
+      "categoryLabel": "甜點・刨冰・咖啡",
+      "caption": "甜點・刨冰・咖啡・東京都新宿区神楽坂3-6-92。",
       "descriptionParagraphs": [
-        "「果房 メロンとロマン」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「果房 メロンとロマン」位於本次神樂坂收錄範圍，既有資料將這一站歸為甜點・刨冰・咖啡。地址紀錄為 東京都新宿区神楽坂3-6-92。",
+        "來源包括老辣妹、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1882,7 +2063,35 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 33
+      "displayOrder": 33,
+      "visitingHours": {
+        "summary": "11:30–17:30・週一、二休",
+        "note": "來源頁面所列；臨時調整與最後點餐／入場請出發前另確認。",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://tabelog.com/tokyo/A1309/A130905/13236467/",
+        "status": "listed"
+      },
+      "description": "「果房 メロンとロマン」位於本次神樂坂收錄範圍，既有資料將這一站歸為甜點・刨冰・咖啡。地址紀錄為 東京都新宿区神楽坂3-6-92。\n\n來源包括老辣妹、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_638672b7a7fa5794",
+          "p_7b0e485c7e8becea"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1309/A130905/13236467/",
+            "checkedAt": "2026-10-28",
+            "result": "匹配果房メロンとロマン與神樂坂3-6-92；確認甜點、刨冰、咖啡分類。"
+          }
+        ],
+        "findings": "匹配果房メロンとロマン與神樂坂3-6-92；確認甜點、刨冰、咖啡分類。"
+      }
     },
     {
       "id": "kagurazaka--zenkokuji",
@@ -1929,10 +2138,10 @@
       "address": "〒162-0825 東京都新宿區神樂坂 3 Chome",
       "group": "sights",
       "categoryLabel": "歷史地標",
-      "caption": "影片中收錄的停留點",
+      "caption": "歷史地標・東京都新宿區神樂坂 3 Chome。",
       "descriptionParagraphs": [
-        "「Kagurazaka Street」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0825 東京都新宿區神樂坂 3 Chome。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Kagurazaka Street」位於本次神樂坂收錄範圍，既有資料將這一站歸為歷史地標。地址紀錄為 〒162-0825 東京都新宿區神樂坂 3 Chome。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1973,7 +2182,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 35
+      "displayOrder": 35,
+      "description": "「Kagurazaka Street」位於本次神樂坂收錄範圍，既有資料將這一站歸為歷史地標。地址紀錄為 〒162-0825 東京都新宿區神樂坂 3 Chome。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_15d47986aec4c65a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--bretagne",
@@ -2035,69 +2253,15 @@
       "displayOrder": 36
     },
     {
-      "id": "kagurazaka--p_e6819b1546b7f56f",
-      "name": "つみき神楽坂",
-      "address": "東京都新宿区神楽坂4-3 楽山ビル3F",
-      "group": "sights",
-      "categoryLabel": "服務業",
-      "caption": "影片中收錄的停留點",
-      "descriptionParagraphs": [
-        "「株式会社tsumiki」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都新宿区神楽坂4-3 楽山ビル3F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
-      ],
-      "note": "原始地圖曾錯配同名公司，已依店家官方資訊更正為神樂坂分店。",
-      "coordinate": {
-        "lat": 35.701981,
-        "lng": 139.739929,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%A5%9E%E6%A5%BD%E5%9D%824-3",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "1DBMmbnWA2A",
-          "title": "【神樂坂居酒屋Best 5】米其林星級蕎麥麵店、頂級烤肉割烹等！",
-          "url": "https://www.youtube.com/watch?v=1DBMmbnWA2A"
-        }
-      ],
-      "official": "https://www.tsumiki-kagurazaka.com/aboutus",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_e6819b1546b7f56f"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=8325211707248030319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/kagurazaka--p_e6819b1546b7f56f.webp",
-        "alt": "つみき神楽坂的日系水彩插圖"
-      },
-      "order": 37,
-      "canonicalArea": {
-        "id": "kagurazaka",
-        "name": "神樂坂",
-        "href": "/walks/kagurazaka/"
-      },
-      "recommendation": null,
-      "displayOrder": 37
-    },
-    {
       "id": "kagurazaka--p_7cb773b6ebe5331e",
       "name": "花神樂（Hana Kagura）",
       "address": "3-chōme-1 Kagurazaka, Shinjuku City, Tokyo 162-0825",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・3-chōme-1 Kagurazaka…。",
       "descriptionParagraphs": [
-        "「花神樂（Hana Kagura）」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-1 Kagurazaka, Shinjuku City, Tokyo 162-0825。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「花神樂（Hana Kagura）」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 3-chōme-1 Kagurazaka, Shinjuku City, Tokyo 162-0825。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2129,18 +2293,27 @@
         "image": "/art/source-library/kagurazaka--p_7cb773b6ebe5331e.webp",
         "alt": "花神樂（Hana Kagura）的日系水彩插圖"
       },
-      "order": 38,
+      "order": 37,
       "canonicalArea": {
         "id": "kagurazaka",
         "name": "神樂坂",
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 38
+      "displayOrder": 37,
+      "description": "「花神樂（Hana Kagura）」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 3-chōme-1 Kagurazaka, Shinjuku City, Tokyo 162-0825。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_7cb773b6ebe5331e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--kakurenbo",
-      "order": 39,
+      "order": 38,
       "name": "かくれんぼ横丁",
       "address": "東京都新宿区神楽坂3丁目周辺",
       "group": "sights",
@@ -2195,11 +2368,11 @@
           "https://www.kanko-shinjuku.jp/spot/-/article_434.html"
         ]
       },
-      "displayOrder": 39
+      "displayOrder": 38
     },
     {
       "id": "kagurazaka--saryo",
-      "order": 40,
+      "order": 39,
       "name": "神楽坂 茶寮 本店",
       "address": "東京都新宿区神楽坂3-1",
       "group": "food",
@@ -2244,7 +2417,7 @@
         "name": "神樂坂",
         "href": "/walks/kagurazaka/"
       },
-      "displayOrder": 40
+      "displayOrder": 39
     },
     {
       "id": "kagurazaka--p_3a0878931788a33a",
@@ -2252,10 +2425,10 @@
       "address": "東京都新宿区神楽坂3-1 クレールⅡ 3F・4F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都新宿区神楽坂3-1 クレールⅡ 3F・4F。",
       "descriptionParagraphs": [
-        "「latte All day diner(ラテオールデーダイナー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都新宿区神楽坂3-1 クレールⅡ 3F・4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「latte All day diner(ラテオールデーダイナー)」位於本次神樂坂收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都新宿区神楽坂3-1 クレールⅡ 3F・4F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2293,14 +2466,23 @@
         "image": "/art/source-library/kagurazaka--p_3a0878931788a33a.webp",
         "alt": "latte All day diner(ラテオールデーダイナー)的日系水彩插圖"
       },
-      "order": 41,
+      "order": 40,
       "canonicalArea": {
         "id": "kagurazaka",
         "name": "神樂坂",
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 41
+      "displayOrder": 40,
+      "description": "「latte All day diner(ラテオールデーダイナー)」位於本次神樂坂收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都新宿区神楽坂3-1 クレールⅡ 3F・4F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3a0878931788a33a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_8ccf12e71b514b4a",
@@ -2308,10 +2490,10 @@
       "address": "〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−１ クレール神楽坂３ 5F",
       "group": "food",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・Tokyo…。",
       "descriptionParagraphs": [
-        "「神樂坂 Stagione」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−１ クレール神楽坂３ 5F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「神樂坂 Stagione」位於本次神樂坂收錄範圍，既有資料將這一站歸為購物。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−１ クレール神楽坂３ 5F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2343,14 +2525,23 @@
         "image": "/art/source-library/kagurazaka--p_8ccf12e71b514b4a.webp",
         "alt": "神樂坂 Stagione的日系水彩插圖"
       },
-      "order": 42,
+      "order": 41,
       "canonicalArea": {
         "id": "kagurazaka",
         "name": "神樂坂",
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 42
+      "displayOrder": 41,
+      "description": "「神樂坂 Stagione」位於本次神樂坂收錄範圍，既有資料將這一站歸為購物。地址紀錄為 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 3-chōme−１ クレール神楽坂３ 5F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8ccf12e71b514b4a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_7a93f8063c6dc010",
@@ -2358,10 +2549,10 @@
       "address": "〒162-0821 Tokyo, Shinjuku City, Tsukudochō, 3−２０ イサミビル １F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo。",
       "descriptionParagraphs": [
-        "「神楽坂 囲炉裏 肉よろず」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0821 Tokyo, Shinjuku City, Tsukudochō, 3−２０ イサミビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「神楽坂 囲炉裏 肉よろず」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0821 Tokyo, Shinjuku City, Tsukudochō, 3−２０ イサミビル １F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2393,14 +2584,23 @@
         "image": "/art/source-library/kagurazaka--p_7a93f8063c6dc010.webp",
         "alt": "神楽坂 囲炉裏 肉よろず的日系水彩插圖"
       },
-      "order": 43,
+      "order": 42,
       "canonicalArea": {
         "id": "kagurazaka",
         "name": "神樂坂",
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 43
+      "displayOrder": 42,
+      "description": "「神楽坂 囲炉裏 肉よろず」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒162-0821 Tokyo, Shinjuku City, Tsukudochō, 3−２０ イサミビル １F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_7a93f8063c6dc010"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_a8e0f06ae5f31d70",
@@ -2408,10 +2608,10 @@
       "address": "2-22 Tsukudohachimanchō, Shinjuku City, Tokyo 162-0815",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：厚切牛舌+招牌牛尾+名物鹽烤肝+壽喜燒牛肋",
       "descriptionParagraphs": [
-        "「Sumizou」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-22 Tsukudohachimanchō, Shinjuku City, Tokyo 162-0815。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「Sumizou」的餐點筆記提到厚切牛舌+招牌牛尾+名物鹽烤肝+壽喜燒牛肋。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2445,14 +2645,23 @@
         "image": "/art/source-library/kagurazaka--p_a8e0f06ae5f31d70.webp",
         "alt": "Sumizou的日系水彩插圖"
       },
-      "order": 44,
+      "order": 43,
       "canonicalArea": {
         "id": "kagurazaka",
         "name": "神樂坂",
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 44
+      "displayOrder": 43,
+      "description": "原影片在「Sumizou」的餐點筆記提到厚切牛舌+招牌牛尾+名物鹽烤肝+壽喜燒牛肋。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a8e0f06ae5f31d70"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_6d94a726ac20ae03",
@@ -2460,10 +2669,10 @@
       "address": "kif annex, 102 13-1 Wakamiyachō, Shinjuku City, Tokyo 162-0827",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：生火腿芝麻葉+白雪披薩 FNT披薩",
       "descriptionParagraphs": [
-        "「400℃ PIZZA TOKYO」出現在肥波開吃啦、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 kif annex, 102 13-1 Wakamiyachō, Shinjuku City, Tokyo 162-0827。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「400℃ PIZZA TOKYO」的餐點筆記提到生火腿芝麻葉+白雪披薩 FNT披薩。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2503,14 +2712,23 @@
         "image": "/art/source-library/kagurazaka--p_6d94a726ac20ae03.webp",
         "alt": "400℃ PIZZA TOKYO的日系水彩插圖"
       },
-      "order": 45,
+      "order": 44,
       "canonicalArea": {
         "id": "kagurazaka",
         "name": "神樂坂",
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 45
+      "displayOrder": 44,
+      "description": "原影片在「400℃ PIZZA TOKYO」的餐點筆記提到生火腿芝麻葉+白雪披薩 FNT披薩。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6d94a726ac20ae03"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_0233c39473654f5a",
@@ -2518,10 +2736,10 @@
       "address": "〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ 日仏学院 内",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・Tokyo…。",
       "descriptionParagraphs": [
-        "「PASSAGE RIVE GAUCHE」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ 日仏学院 内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「PASSAGE RIVE GAUCHE」位於本次神樂坂收錄範圍，既有資料將這一站歸為購物。地址紀錄為 〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ 日仏学院 内。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2555,14 +2773,23 @@
         "image": "/art/source-library/kagurazaka--p_0233c39473654f5a.webp",
         "alt": "PASSAGE RIVE GAUCHE的日系水彩插圖"
       },
-      "order": 46,
+      "order": 45,
       "canonicalArea": {
         "id": "kagurazaka",
         "name": "神樂坂",
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 46
+      "displayOrder": 45,
+      "description": "「PASSAGE RIVE GAUCHE」位於本次神樂坂收錄範圍，既有資料將這一站歸為購物。地址紀錄為 〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ 日仏学院 内。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0233c39473654f5a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_d343db3a1e172957",
@@ -2570,10 +2797,10 @@
       "address": "15 Ichigayafunagawaramachi, Shinjuku City, Tokyo 162-8415",
       "group": "sights",
       "categoryLabel": "教育機構",
-      "caption": "影片中收錄的停留點",
+      "caption": "教育機構・15 Ichigayafunagawaramachi…。",
       "descriptionParagraphs": [
-        "「Institut français Tokyo（舊東京法國學院）」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 15 Ichigayafunagawaramachi, Shinjuku City, Tokyo 162-8415。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Institut français Tokyo（舊東京法國學院）」位於本次神樂坂收錄範圍，既有資料將這一站歸為教育機構。地址紀錄為 15 Ichigayafunagawaramachi, Shinjuku City, Tokyo 162-8415。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2615,14 +2842,23 @@
         "image": "/art/source-library/kagurazaka--p_d343db3a1e172957.webp",
         "alt": "Institut français Tokyo（舊東京法國學院）的日系水彩插圖"
       },
-      "order": 47,
+      "order": 46,
       "canonicalArea": {
         "id": "kagurazaka",
         "name": "神樂坂",
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 47
+      "displayOrder": 46,
+      "description": "「Institut français Tokyo（舊東京法國學院）」位於本次神樂坂收錄範圍，既有資料將這一站歸為教育機構。地址紀錄為 15 Ichigayafunagawaramachi, Shinjuku City, Tokyo 162-8415。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_d343db3a1e172957"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_b415ec0c833a414c",
@@ -2630,10 +2866,10 @@
       "address": "日本〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ ロワゾー・ドゥ・フランス",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・日本〒162-0826 Tokyo…。",
       "descriptionParagraphs": [
-        "「Loiseau de France」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 日本〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ ロワゾー・ドゥ・フランス。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Loiseau de France」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 日本〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ ロワゾー・ドゥ・フランス。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2667,6 +2903,60 @@
         "image": "/art/source-library/kagurazaka--p_b415ec0c833a414c.webp",
         "alt": "Loiseau de France的日系水彩插圖"
       },
+      "order": 47,
+      "canonicalArea": {
+        "id": "kagurazaka",
+        "name": "神樂坂",
+        "href": "/walks/kagurazaka/"
+      },
+      "recommendation": null,
+      "displayOrder": 47,
+      "description": "「Loiseau de France」位於本次神樂坂收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 日本〒162-0826 Tokyo, Shinjuku City, Ichigayafunagawaramachi, １５ ロワゾー・ドゥ・フランス。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_b415ec0c833a414c"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kagurazaka--p_e6819b1546b7f56f",
+      "name": "つみき神楽坂",
+      "address": "東京都新宿区神楽坂4-3 楽山ビル3F",
+      "group": "sights",
+      "categoryLabel": "服務業",
+      "caption": "服務業・東京都新宿区神楽坂4-3 楽山ビル3F。",
+      "descriptionParagraphs": [
+        "「つみき神楽坂」位於本次神樂坂收錄範圍，既有資料將這一站歸為服務業。地址紀錄為 東京都新宿区神楽坂4-3 楽山ビル3F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "原始地圖曾錯配同名公司，已依店家官方資訊更正為神樂坂分店。",
+      "coordinate": null,
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "1DBMmbnWA2A",
+          "title": "【神樂坂居酒屋Best 5】米其林星級蕎麥麵店、頂級烤肉割烹等！",
+          "url": "https://www.youtube.com/watch?v=1DBMmbnWA2A"
+        }
+      ],
+      "official": "https://www.tsumiki-kagurazaka.com/aboutus",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_e6819b1546b7f56f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=8325211707248030319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kagurazaka--p_e6819b1546b7f56f.webp",
+        "alt": "つみき神楽坂的日系水彩插圖"
+      },
       "order": 48,
       "canonicalArea": {
         "id": "kagurazaka",
@@ -2674,7 +2964,16 @@
         "href": "/walks/kagurazaka/"
       },
       "recommendation": null,
-      "displayOrder": 48
+      "displayOrder": 48,
+      "description": "「つみき神楽坂」位於本次神樂坂收錄範圍，既有資料將這一站歸為服務業。地址紀錄為 東京都新宿区神楽坂4-3 楽山ビル3F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e6819b1546b7f56f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [
@@ -2794,7 +3093,7 @@
   "defaultSelection": "kagurazaka-slow-walk",
   "libraryCoverage": {
     "added": 33,
-    "unlocated": 0,
+    "unlocated": 1,
     "checkedAt": "2026-10-26",
     "sourceIds": [
       "p_29bb3bfb9113e582",
@@ -2836,7 +3135,6 @@
       "p_7b0e485c7e8becea",
       "p_15d47986aec4c65a",
       "p_e0612a1f31084a3a",
-      "p_e6819b1546b7f56f",
       "p_7cb773b6ebe5331e",
       "p_7ad5d41cd192620c",
       "p_c16beb69a65922f7",
@@ -2847,7 +3145,8 @@
       "p_6d94a726ac20ae03",
       "p_0233c39473654f5a",
       "p_d343db3a1e172957",
-      "p_b415ec0c833a414c"
+      "p_b415ec0c833a414c",
+      "p_e6819b1546b7f56f"
     ]
   },
   "transportPoints": [],
@@ -2873,10 +3172,10 @@
       "address": "〒102-0071 Tokyo, Chiyoda City, Fujimi, 2-chōme−10−２ 飯田橋グランブルーム サクラテラス2F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Trattoria Gran Bocca」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒102-0071 Tokyo, Chiyoda City, Fujimi, 2-chōme−10−２ 飯田橋グランブルーム サクラテラス2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Trattoria Gran Bocca」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒102-0071 Tokyo, Chiyoda City, Fujimi, 2-chōme−10−２ 飯田橋グランブルーム サクラテラス2F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -2915,7 +3214,16 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Trattoria Gran Bocca」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒102-0071 Tokyo, Chiyoda City, Fujimi, 2-chōme−10−２ 飯田橋グランブルーム サクラテラス2F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_b0c7b9ddbd3936a7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_44d1c7e446275240",
@@ -2923,10 +3231,10 @@
       "address": "2-chōme-12-16 Fujimi, Chiyoda City, Tokyo 102-0071",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-12-16 Fujimi…。",
       "descriptionParagraphs": [
-        "「煎餃 おけ以」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-12-16 Fujimi, Chiyoda City, Tokyo 102-0071。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「煎餃 おけ以」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-12-16 Fujimi, Chiyoda City, Tokyo 102-0071。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -2971,18 +3279,27 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「煎餃 おけ以」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-12-16 Fujimi, Chiyoda City, Tokyo 102-0071。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_44d1c7e446275240"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_3dc7e9a2120ef7db",
       "name": "東京大神宮",
       "address": "",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "神社",
+      "caption": "神社・飯田橋・東京大神宮的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「東京大神宮」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「東京大神宮」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為神社。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹、部屋隆的生活頻道的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -2999,6 +3316,14 @@
           "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
           "time": "0:37",
           "seconds": 37
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "2yfy1-1w-lk",
+          "title": "#東京自由行 絕對推薦的#另一半 #皇居 北邊旅遊路線 你熟悉卻陌生的市中心旁邊 絕對順路的交通路線建議 #水道橋 #飯田橋 #後樂園 #神樂坂 #東京巨蛋 良緣寶地#東京大神宮 #神樂 怎麼念？",
+          "url": "https://www.youtube.com/watch?v=2yfy1-1w-lk",
+          "time": "08:31",
+          "seconds": 511
         }
       ],
       "official": null,
@@ -3023,7 +3348,16 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「東京大神宮」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為神社。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹、部屋隆的生活頻道的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3dc7e9a2120ef7db"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_5bf94a4af47c8b28",
@@ -3031,10 +3365,10 @@
       "address": "4-chōme-4-12 Iidabashi, Chiyoda City, Tokyo 102-0072",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・4-chōme-4-12 Iidabashi…。",
       "descriptionParagraphs": [
-        "「Sakana no Umaiten Īdabashi Honten」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 4-chōme-4-12 Iidabashi, Chiyoda City, Tokyo 102-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Sakana no Umaiten Īdabashi Honten」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 4-chōme-4-12 Iidabashi, Chiyoda City, Tokyo 102-0072。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -3079,7 +3413,16 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Sakana no Umaiten Īdabashi Honten」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 4-chōme-4-12 Iidabashi, Chiyoda City, Tokyo 102-0072。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5bf94a4af47c8b28"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_3bab845b2ec6b12a",
@@ -3087,10 +3430,10 @@
       "address": "4-chōme-9-7 Iidabashi, Chiyoda City, Tokyo 102-0072",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・4-chōme-9-7 Iidabashi…。",
       "descriptionParagraphs": [
-        "「iidabashi Bariton」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 4-chōme-9-7 Iidabashi, Chiyoda City, Tokyo 102-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「iidabashi Bariton」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 4-chōme-9-7 Iidabashi, Chiyoda City, Tokyo 102-0072。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -3135,7 +3478,16 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「iidabashi Bariton」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 4-chōme-9-7 Iidabashi, Chiyoda City, Tokyo 102-0072。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3bab845b2ec6b12a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_d8638ae37e88cee9",
@@ -3143,10 +3495,10 @@
       "address": "〒102-0072 東京都千代田区Iidabashi, 4-chōme−９−５",
       "group": "sights",
       "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
+      "caption": "交通・東京都千代田区Iidabashi。",
       "descriptionParagraphs": [
-        "「飯田橋車站」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒102-0072 東京都千代田区Iidabashi, 4-chōme−９−５。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「飯田橋車站」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為交通。地址紀錄為 〒102-0072 東京都千代田区Iidabashi, 4-chōme−９−５。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -3187,7 +3539,16 @@
         "name": "飯田橋・東京大神宮",
         "href": "/walks/iidabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「飯田橋車站」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為交通。地址紀錄為 〒102-0072 東京都千代田区Iidabashi, 4-chōme−９−５。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_d8638ae37e88cee9"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "inheritedWalkIds": []

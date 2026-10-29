@@ -7,10 +7,10 @@
       "address": "東京都世田谷区奥沢8-3-2",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・東京都世田谷区奥沢8-3-2。",
       "descriptionParagraphs": [
-        "「D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢8-3-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )」位於本次九品佛收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都世田谷区奥沢8-3-2。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -55,7 +55,16 @@
         "href": "/walks/kuhonbutsu/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「D&DEPARTMENT DINING(ディーアンドデパートメント ダイニング )」位於本次九品佛收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都世田谷区奥沢8-3-2。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_09e4054dfdbf4b2f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_083cfefd907be600",
@@ -63,10 +72,10 @@
       "address": "7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・7-chōme-19-12 Okusawa…。",
       "descriptionParagraphs": [
-        "「Comme'N」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Comme'N」位於本次九品佛收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -119,7 +128,18 @@
         "href": "/walks/kuhonbutsu/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「Comme'N」位於本次九品佛收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 7-chōme-19-12 Okusawa, Setagaya City, Tokyo 158-0083。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_083cfefd907be600",
+          "p_4f67c84ecb544322",
+          "p_24a0c72573b60d49"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_3617c2776b3f5525",
@@ -127,10 +147,10 @@
       "address": "7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・7-chōme-41-3 Okusawa…。",
       "descriptionParagraphs": [
-        "「九品山 唯在念佛院 淨眞寺」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「九品山 唯在念佛院 淨眞寺」位於本次九品佛收錄範圍，既有資料將這一站歸為景點。地址紀錄為 7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -171,18 +191,27 @@
         "href": "/walks/kuhonbutsu/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「九品山 唯在念佛院 淨眞寺」位於本次九品佛收錄範圍，既有資料將這一站歸為景點。地址紀錄為 7-chōme-41-3 Okusawa, Setagaya City, Tokyo 158-0083。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3617c2776b3f5525"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "jiyugaoka--p_83889c8a300ae40e",
       "name": "gouter(グテ)",
       "address": "東京都世田谷区奥沢6-13-7",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都世田谷区奥沢6-13-7。",
       "descriptionParagraphs": [
-        "「gouter(グテ)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都世田谷区奥沢6-13-7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「gouter(グテ)」位於本次九品佛收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都世田谷区奥沢6-13-7。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "食べログ目前標示九品佛的 gouter 已閉店；保留影片與原址紀錄，插圖依原店面照片製作。出發前請另行確認，勿與學藝大學的同名麵包店混淆。",
       "coordinate": {
@@ -227,7 +256,16 @@
         "href": "/walks/kuhonbutsu/"
       },
       "recommendation": null,
-      "displayOrder": null
+      "displayOrder": null,
+      "description": "「gouter(グテ)」位於本次九品佛收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都世田谷区奥沢6-13-7。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_83889c8a300ae40e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

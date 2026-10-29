@@ -86,10 +86,10 @@
       "address": "千葉県香取市佐原イ1708-2",
       "group": "sights",
       "categoryLabel": "歷史旅宿",
-      "caption": "影片中收錄的停留點",
+      "caption": "歷史旅宿・千葉県香取市佐原イ1708-2。",
       "descriptionParagraphs": [
-        "「Sawara Merchant Town Hotel NIPPONIA KAGURA」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 千葉県香取市佐原イ1708-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「佐原商家町ホテル NIPPONIA KAGURA棟」位於本次佐原小野川收錄範圍，既有資料將這一站歸為歷史旅宿。地址紀錄為 千葉県香取市佐原イ1708-2。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "KAGURA棟為飯店接待與餐廳所在，非任意開放參觀的客房；住宿、用餐與活動依飯店預約及現場規定。",
       "coordinate": {
@@ -135,7 +135,16 @@
         "href": "/walks/sawara/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「佐原商家町ホテル NIPPONIA KAGURA棟」位於本次佐原小野川收錄範圍，既有資料將這一站歸為歷史旅宿。地址紀錄為 千葉県香取市佐原イ1708-2。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a3d238488dfaff0b"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "sawara--leun",

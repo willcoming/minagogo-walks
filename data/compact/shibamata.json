@@ -465,10 +465,10 @@
       "address": "東京都葛飾区柴又7丁目",
       "group": "sights",
       "categoryLabel": "參道・街景",
-      "caption": "影片中收錄的停留點",
+      "caption": "參道・街景・東京都葛飾区柴又7丁目。",
       "descriptionParagraphs": [
-        "「Taishakuten Sandō」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都葛飾区柴又7丁目。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「柴又帝釋天門前參道」位於本次柴又收錄範圍，既有資料將這一站歸為參道・街景。地址紀錄為 東京都葛飾区柴又7丁目。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -507,7 +507,16 @@
         "href": "/walks/shibamata/"
       },
       "recommendation": null,
-      "displayOrder": 11
+      "displayOrder": 11,
+      "description": "「柴又帝釋天門前參道」位於本次柴又收錄範圍，既有資料將這一站歸為參道・街景。地址紀錄為 東京都葛飾区柴又7丁目。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c159b16530210987"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "shibamata--p_86f5a24a0efe8535",
@@ -515,10 +524,10 @@
       "address": "東京都葛飾区柴又7-3-12",
       "group": "shops",
       "categoryLabel": "玩具・零食",
-      "caption": "影片中收錄的停留點",
+      "caption": "玩具・零食・東京都葛飾区柴又7-3-12。",
       "descriptionParagraphs": [
-        "「Shibamata Haikara Yokocho」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都葛飾区柴又7-3-12。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「柴又ハイカラ横丁」位於本次柴又收錄範圍，既有資料將這一站歸為玩具・零食。地址紀錄為 東京都葛飾区柴又7-3-12。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -562,7 +571,16 @@
         "href": "/walks/shibamata/"
       },
       "recommendation": null,
-      "displayOrder": 12
+      "displayOrder": 12,
+      "description": "「柴又ハイカラ横丁」位於本次柴又收錄範圍，既有資料將這一站歸為玩具・零食。地址紀錄為 東京都葛飾区柴又7-3-12。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_86f5a24a0efe8535"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [

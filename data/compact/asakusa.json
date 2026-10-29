@@ -7,10 +7,10 @@
       "address": "",
       "group": "sights",
       "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
+      "caption": "交通・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「Tawaramachi Station」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Tawaramachi Station」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為交通。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -52,18 +52,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「Tawaramachi Station」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為交通。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_49583cc91c265bf4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_75025032e8267add",
       "name": "サクラ咲",
       "address": "東京都台東区雷門1-9-2 雷門ウェストビル 1F",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区雷門1-9-2 雷門ウェストビル 1F。",
       "descriptionParagraphs": [
-        "「サクラ咲」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区雷門1-9-2 雷門ウェストビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「サクラ咲」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区雷門1-9-2 雷門ウェストビル 1F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -108,7 +117,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「サクラ咲」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区雷門1-9-2 雷門ウェストビル 1F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_75025032e8267add"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_40381e21c85f35e6",
@@ -116,10 +134,10 @@
       "address": "",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「江戸料理 櫻田」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「江戸料理 櫻田」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -166,18 +184,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「江戸料理 櫻田」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_40381e21c85f35e6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_e14582b459ac1a42",
       "name": "Frites Bruges",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「Frites Bruges」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Frites Bruges」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -218,18 +245,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 4
+      "displayOrder": 4,
+      "description": "「Frites Bruges」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e14582b459ac1a42"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_350bb093084df1c6",
       "name": "狸貓巷 たぬき通り",
       "address": "",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "街巷",
+      "caption": "街巷・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「狸貓巷 たぬき通り」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「狸貓巷 たぬき通り」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為街巷。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -270,7 +306,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 5
+      "displayOrder": 5,
+      "description": "「狸貓巷 たぬき通り」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為街巷。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_350bb093084df1c6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_e75994d817aa0aaf",
@@ -278,10 +323,10 @@
       "address": "東京都台東区浅草1-28-2 ２Ｆ",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都台東区浅草1-28-2 ２Ｆ。",
       "descriptionParagraphs": [
-        "「銀座ブラジル 浅草支店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草1-28-2 ２Ｆ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「銀座ブラジル 浅草支店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都台東区浅草1-28-2 ２Ｆ。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -326,7 +371,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 6
+      "displayOrder": 6,
+      "description": "「銀座ブラジル 浅草支店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都台東区浅草1-28-2 ２Ｆ。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e75994d817aa0aaf"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--funawa",
@@ -406,10 +460,10 @@
       "address": "",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「橙通商店街 オレンジ通り」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「橙通商店街 オレンジ通り」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -450,7 +504,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 8
+      "displayOrder": 8,
+      "description": "「橙通商店街 オレンジ通り」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_41e6f96fb1d39e25"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_02d0f3597385882a",
@@ -458,10 +521,10 @@
       "address": "",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「牛カツ京都勝牛 浅草オレンジ通り店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「牛カツ京都勝牛 浅草オレンジ通り店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -502,7 +565,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 9
+      "displayOrder": 9,
+      "description": "「牛カツ京都勝牛 浅草オレンジ通り店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_02d0f3597385882a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_ff49a9834d92713c",
@@ -510,10 +582,10 @@
       "address": "1-chōme-17-5 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・1-chōme-17-5 Asakusa。",
       "descriptionParagraphs": [
-        "「Alchemist Asakusa」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-17-5 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Alchemist Asakusa」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-17-5 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -569,7 +641,17 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 10
+      "displayOrder": 10,
+      "description": "「Alchemist Asakusa」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-17-5 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_ff49a9834d92713c",
+          "p_97a6a7103873f66b"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_3b64a1e92e15f371",
@@ -577,10 +659,10 @@
       "address": "東京都台東区浅草1-18-11 1F～2F",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都台東区浅草1-18-11 1F～2F。",
       "descriptionParagraphs": [
-        "「花月堂 雷門店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草1-18-11 1F～2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「花月堂 雷門店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都台東区浅草1-18-11 1F～2F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -625,7 +707,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 11
+      "displayOrder": 11,
+      "description": "「花月堂 雷門店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都台東区浅草1-18-11 1F～2F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3b64a1e92e15f371"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_7e60fe837ec49422",
@@ -633,10 +724,10 @@
       "address": "1-chōme-20-3 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・1-chōme-20-3 Asakusa。",
       "descriptionParagraphs": [
-        "「立食壽司 日向丸」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-20-3 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「立食壽司 日向丸」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 1-chōme-20-3 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -681,7 +772,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 12
+      "displayOrder": 12,
+      "description": "「立食壽司 日向丸」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 1-chōme-20-3 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_7e60fe837ec49422"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_2513c195c1d1979a",
@@ -689,10 +789,10 @@
       "address": "東京都台東区浅草１-２０-２",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都台東区浅草１-２０-２。",
       "descriptionParagraphs": [
-        "「浅草コロッケ くろげ 浅草雷門店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草１-２０-２。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「浅草コロッケ くろげ 浅草雷門店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都台東区浅草１-２０-２。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -737,7 +837,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 13
+      "displayOrder": 13,
+      "description": "「浅草コロッケ くろげ 浅草雷門店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都台東区浅草１-２０-２。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2513c195c1d1979a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_9122103f19b6d294",
@@ -745,10 +854,10 @@
       "address": "1-chōme-20-1 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・1-chōme-20-1 Asakusa。",
       "descriptionParagraphs": [
-        "「舟和 仲見世3號店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-20-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「舟和 仲見世3號店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 1-chōme-20-1 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -787,7 +896,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 14
+      "displayOrder": 14,
+      "description": "「舟和 仲見世3號店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 1-chōme-20-1 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9122103f19b6d294"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_dca08acdaf76c016",
@@ -795,10 +913,10 @@
       "address": "1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・1-chōme-30-1 Asakusa。",
       "descriptionParagraphs": [
-        "「Shimizuya」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Shimizuya」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -837,7 +955,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 15
+      "displayOrder": 15,
+      "description": "「Shimizuya」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_dca08acdaf76c016"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_39c3c18c8c60342f",
@@ -845,10 +972,10 @@
       "address": "1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・1-chōme-30-1 Asakusa。",
       "descriptionParagraphs": [
-        "「Ginkado」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Ginkado」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -887,7 +1014,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 16
+      "displayOrder": 16,
+      "description": "「Ginkado」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 1-chōme-30-1 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_39c3c18c8c60342f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--umezono",
@@ -951,13 +1087,13 @@
     {
       "id": "asakusa--p_a87d13be6ca5b0a4",
       "name": "老奶奶桃鈴 吉備子屋",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "東京都台東区浅草1-37-2",
+      "group": "shops",
+      "categoryLabel": "桃鈴・紀念品",
+      "caption": "桃鈴・紀念品・東京都台東区浅草1-37-2。",
       "descriptionParagraphs": [
-        "「老奶奶桃鈴 吉備子屋」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「老奶奶桃鈴 吉備子屋」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為桃鈴・紀念品。地址紀錄為 東京都台東区浅草1-37-2。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -998,7 +1134,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 18
+      "displayOrder": 18,
+      "description": "「老奶奶桃鈴 吉備子屋」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為桃鈴・紀念品。地址紀錄為 東京都台東区浅草1-37-2。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a87d13be6ca5b0a4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://kanko.travel.rakuten.co.jp/tokyo/spot/S13025035.html",
+            "checkedAt": "2026-10-28",
+            "result": "吉備子屋淺草店頁列桃鈴與淺草1-37-2；本筆為桃鈴商店，不套用向島同名糰子店的時段。"
+          }
+        ],
+        "findings": "吉備子屋淺草店頁列桃鈴與淺草1-37-2；本筆為桃鈴商店，不套用向島同名糰子店的時段。"
+      }
     },
     {
       "id": "asakusa--p_7e64e7c7e5a6ba82",
@@ -1006,10 +1162,10 @@
       "address": "1-chōme-30-37-1 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・1-chōme-30-37-1 Asakusa…。",
       "descriptionParagraphs": [
-        "「三鳩堂」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-30-37-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「三鳩堂」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 1-chōme-30-37-1 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1048,18 +1204,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 19
+      "displayOrder": 19,
+      "description": "「三鳩堂」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 1-chōme-30-37-1 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_7e64e7c7e5a6ba82"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_78a4820290243e28",
       "name": "安心や",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「安心や」出現在Oimoの休日グルメ旅、Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「安心や」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Oimoの休日グルメ旅、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1106,7 +1271,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 20
+      "displayOrder": 20,
+      "description": "「安心や」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Oimoの休日グルメ旅、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_78a4820290243e28"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_45c75a3a0c9749ad",
@@ -1114,10 +1288,10 @@
       "address": "2-chōme-3-3 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-3-3 Asakusa。",
       "descriptionParagraphs": [
-        "「淺草炸肉餅」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-3-3 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「淺草炸肉餅」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-3-3 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1156,7 +1330,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 21
+      "displayOrder": 21,
+      "description": "「淺草炸肉餅」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-3-3 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_45c75a3a0c9749ad"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--temple",
@@ -1198,6 +1381,12 @@
           "url": "https://www.youtube.com/watch?v=uVDw0L3eoTg",
           "time": "3:35",
           "seconds": 215
+        },
+        {
+          "channel": "Yunaty日本語",
+          "videoId": "FgjRLtdQ3fc",
+          "title": "日本人2023年東京過年實錄｜淺草寺｜年末參拜｜迎新年",
+          "url": "https://www.youtube.com/watch?v=FgjRLtdQ3fc"
         }
       ],
       "coordinate": {
@@ -1348,10 +1537,10 @@
       "address": "2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・2-chōme-3-1 Asakusa。",
       "descriptionParagraphs": [
-        "「淺草滿願堂 仲見世店」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「淺草滿願堂 仲見世店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1390,18 +1579,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 25
+      "displayOrder": 25,
+      "description": "「淺草滿願堂 仲見世店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_91acb113c6c90210"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_1689499bb89f1713",
       "name": "浅草よ兵衛",
       "address": "東京都台東区浅草2-2-7",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区浅草2-2-7。",
       "descriptionParagraphs": [
-        "「浅草よ兵衛」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草2-2-7。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「浅草よ兵衛」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区浅草2-2-7。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1446,7 +1644,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 26
+      "displayOrder": 26,
+      "description": "「浅草よ兵衛」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区浅草2-2-7。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_1689499bb89f1713"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_8c7d4bfcb11416a6",
@@ -1454,10 +1661,10 @@
       "address": "2-chōme-2-10 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-2-10 Asakusa。",
       "descriptionParagraphs": [
-        "「抹茶 茶和和」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-2-10 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「抹茶 茶和和」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-2-10 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1498,7 +1705,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 27
+      "displayOrder": 27,
+      "description": "「抹茶 茶和和」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-2-10 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8c7d4bfcb11416a6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_f378645a09727e4f",
@@ -1506,10 +1722,10 @@
       "address": "2-chōme-1-3 Asakusa, 台東区 Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-1-3 Asakusa…。",
       "descriptionParagraphs": [
-        "「大宮 浅草本店」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-1-3 Asakusa, 台東区 Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「大宮 浅草本店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-1-3 Asakusa, 台東区 Taito City, Tokyo 111-0032。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1550,18 +1766,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 28
+      "displayOrder": 28,
+      "description": "「大宮 浅草本店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-1-3 Asakusa, 台東区 Taito City, Tokyo 111-0032。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_f378645a09727e4f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_8c860a07786a3ae4",
       "name": "MARUZEN Tea Roastery 淺草",
       "address": "東京都台東区浅草1-36-2",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区浅草1-36-2。",
       "descriptionParagraphs": [
-        "「Maruzen」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草1-36-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「MARUZEN Tea Roastery 淺草」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区浅草1-36-2。",
+        "來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1602,7 +1827,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 29
+      "displayOrder": 29,
+      "description": "「MARUZEN Tea Roastery 淺草」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区浅草1-36-2。\n\n來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8c860a07786a3ae4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--nakamise",
@@ -1632,6 +1866,14 @@
           "videoId": "KgGlPBfvLA4",
           "title": "MUST-THINGS TO DO IN TOKYO, JAPAN 2025 | TOKYO BEAUTIFUL TRADITIONAL SPOTS",
           "url": "https://www.youtube.com/watch?v=KgGlPBfvLA4"
+        },
+        {
+          "channel": "Yunaty日本語",
+          "videoId": "EXLokwvYA3c",
+          "title": "東京最讓人失望的5個景點，你去過幾個？",
+          "url": "https://www.youtube.com/watch?v=EXLokwvYA3c",
+          "time": "0:39",
+          "seconds": 39
         }
       ],
       "coordinate": {
@@ -1671,12 +1913,12 @@
       "id": "asakusa--p_25857f2c87705829",
       "name": "Masaru まさる",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "影片餐點筆記：大入江戶前天丼",
       "descriptionParagraphs": [
-        "「Masaru まさる」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原影片在「Masaru まさる」的餐點筆記提到大入江戶前天丼。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1717,18 +1959,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 31
+      "displayOrder": 31,
+      "description": "原影片在「Masaru まさる」的餐點筆記提到大入江戶前天丼。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_25857f2c87705829"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_51e183cf03182b6e",
       "name": "蛸たこ",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「蛸たこ」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「蛸たこ」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1769,7 +2020,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 32
+      "displayOrder": 32,
+      "description": "「蛸たこ」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_51e183cf03182b6e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_17ee6864ab985de4",
@@ -1777,10 +2037,10 @@
       "address": "",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「浅草地下商店街」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「浅草地下商店街」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1821,7 +2081,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 33
+      "displayOrder": 33,
+      "description": "「浅草地下商店街」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_17ee6864ab985de4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_06d937f2f8940ee6",
@@ -1829,10 +2098,10 @@
       "address": "",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「そばうどん 文殊 浅草店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「そばうどん 文殊 浅草店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1873,7 +2142,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 34
+      "displayOrder": 34,
+      "description": "「そばうどん 文殊 浅草店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_06d937f2f8940ee6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_6a35a9a8c4960ed4",
@@ -1881,10 +2159,10 @@
       "address": "",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「浅草やきそば 福ちゃん」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「浅草やきそば 福ちゃん」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1925,18 +2203,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 35
+      "displayOrder": 35,
+      "description": "「浅草やきそば 福ちゃん」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6a35a9a8c4960ed4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_d33a03092970931d",
       "name": "おいもやさん興伸",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「おいもやさん興伸」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「おいもやさん興伸」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1977,18 +2264,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 36
+      "displayOrder": 36,
+      "description": "「おいもやさん興伸」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_d33a03092970931d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_2b265bcdb64c8826",
       "name": "亀十",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「亀十」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「亀十」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Oimoの休日グルメ旅、SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2036,18 +2332,28 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 37
+      "displayOrder": 37,
+      "description": "「亀十」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Oimoの休日グルメ旅、SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2b265bcdb64c8826",
+          "p_c3dbfe05ed6933bd"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_c640420bde17b3a5",
       "name": "西むら",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「西むら」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「西むら」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2088,7 +2394,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 38
+      "displayOrder": 38,
+      "description": "「西むら」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c640420bde17b3a5"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--center",
@@ -2153,12 +2468,12 @@
       "id": "asakusa--p_e276e4bda0a5962e",
       "name": "ミハラシ・カフェ",
       "address": "東京都台東区雷門2-18-9 浅草文化観光センター 8F",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区雷門2-18-9 浅草文化観光センター 8F。",
       "descriptionParagraphs": [
-        "「ミハラシ・カフェ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区雷門2-18-9 浅草文化観光センター 8F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「ミハラシ・カフェ」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区雷門2-18-9 浅草文化観光センター 8F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2203,18 +2518,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 40
+      "displayOrder": 40,
+      "description": "「ミハラシ・カフェ」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区雷門2-18-9 浅草文化観光センター 8F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e276e4bda0a5962e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_966a9044c4d40d21",
       "name": "三定",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「三定」出現在Oimoの休日グルメ旅的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「三定」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2255,7 +2579,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 41
+      "displayOrder": 41,
+      "description": "「三定」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Oimoの休日グルメ旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_966a9044c4d40d21"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_620a570ae0de97be",
@@ -2263,10 +2596,10 @@
       "address": "2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・2-chōme-3-1 Asakusa。",
       "descriptionParagraphs": [
-        "「淺草寺 雷門」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「淺草寺 雷門」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為景點。地址紀錄為 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2305,18 +2638,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 42
+      "displayOrder": 42,
+      "description": "「淺草寺 雷門」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為景點。地址紀錄為 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_620a570ae0de97be"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_2d8a044bda1415f9",
       "name": "浅草きびだんご あづま",
       "address": "東京都台東区浅草1-18-1",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区浅草1-18-1。",
       "descriptionParagraphs": [
-        "「浅草きびだんご あづま」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草1-18-1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「浅草きびだんご あづま」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区浅草1-18-1。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2361,7 +2703,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 43
+      "displayOrder": 43,
+      "description": "「浅草きびだんご あづま」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区浅草1-18-1。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2d8a044bda1415f9"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_6e2a78d98b382be0",
@@ -2369,10 +2720,10 @@
       "address": "",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「よろし化粧堂 仲見世店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「よろし化粧堂 仲見世店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2413,18 +2764,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 44
+      "displayOrder": 44,
+      "description": "「よろし化粧堂 仲見世店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_6e2a78d98b382be0"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_8b200cf83a362aa4",
       "name": "フラワーミッフィー",
       "address": "東京都台東区雷門２丁目１９−７ 相磯ビル 1F",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区雷門２丁目１９−７ 相磯ビル 1F。",
       "descriptionParagraphs": [
-        "「フラワーミッフィー」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区雷門２丁目１９−７ 相磯ビル 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「フラワーミッフィー」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区雷門２丁目１９−７ 相磯ビル 1F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2467,7 +2827,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 45
+      "displayOrder": 45,
+      "description": "「フラワーミッフィー」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区雷門２丁目１９−７ 相磯ビル 1F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8b200cf83a362aa4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_bbe058922ab15981",
@@ -2475,10 +2844,10 @@
       "address": "1-chōme-1-3 Asakusa, Taito City, Tokyo 111-0032",
       "group": "sights",
       "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
+      "caption": "交通・1-chōme-1-3 Asakusa。",
       "descriptionParagraphs": [
-        "「淺草」出現在Hiro | Days in Tokyo、Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-1-3 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「淺草」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為交通。地址紀錄為 1-chōme-1-3 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括Hiro | Days in Tokyo、Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2535,18 +2904,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 46
+      "displayOrder": 46,
+      "description": "「淺草」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為交通。地址紀錄為 1-chōme-1-3 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括Hiro | Days in Tokyo、Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bbe058922ab15981"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_721ef98102190bf3",
       "name": "カフェ・ムルソー",
       "address": "東京都台東区雷門2-1-5 中村ビル",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区雷門2-1-5 中村ビル。",
       "descriptionParagraphs": [
-        "「カフェ・ムルソー」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区雷門2-1-5 中村ビル。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「カフェ・ムルソー」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区雷門2-1-5 中村ビル。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2591,7 +2969,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 47
+      "displayOrder": 47,
+      "description": "「カフェ・ムルソー」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区雷門2-1-5 中村ビル。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_721ef98102190bf3"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_f9bfb91abc6f1647",
@@ -2599,10 +2986,10 @@
       "address": "2-chōme-2-4 Kaminarimon, Taito City, Tokyo 111-0034",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-2-4 Kaminarimon…。",
       "descriptionParagraphs": [
-        "「Asakusa Mugitoro Main Branch」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-2-4 Kaminarimon, Taito City, Tokyo 111-0034。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Asakusa Mugitoro Main Branch」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-2-4 Kaminarimon, Taito City, Tokyo 111-0034。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2647,18 +3034,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 48
+      "displayOrder": 48,
+      "description": "「Asakusa Mugitoro Main Branch」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-2-4 Kaminarimon, Taito City, Tokyo 111-0034。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_f9bfb91abc6f1647"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_cea81a337f83b15d",
       "name": "並木藪蕎麦麵",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "影片餐點筆記：天婦羅蕎麥麵套組",
       "descriptionParagraphs": [
-        "「並木藪蕎麦麵」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "原影片在「並木藪蕎麦麵」的餐點筆記提到天婦羅蕎麥麵套組。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2699,7 +3095,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 49
+      "displayOrder": 49,
+      "description": "原影片在「並木藪蕎麦麵」的餐點筆記提到天婦羅蕎麥麵套組。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_cea81a337f83b15d"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_73fdd3dceaf82422",
@@ -2707,10 +3112,10 @@
       "address": "",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「KIELO COFFEE ASAKUSA」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「KIELO COFFEE ASAKUSA」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2752,18 +3157,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 50
+      "displayOrder": 50,
+      "description": "「KIELO COFFEE ASAKUSA」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_73fdd3dceaf82422"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_d96169527a0b439c",
       "name": "郵便ポスト（オレンテくん仕様）",
       "address": "",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "街角郵筒",
+      "caption": "街角郵筒・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「郵便ポスト（オレンテくん仕様）」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「郵便ポスト（オレンテくん仕様）」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為街角郵筒。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2804,7 +3218,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 51
+      "displayOrder": 51,
+      "description": "「郵便ポスト（オレンテくん仕様）」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為街角郵筒。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_d96169527a0b439c"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--tengoku",
@@ -2895,10 +3318,10 @@
       "address": "東京都台東区浅草1ｰ41ｰ4六区ブロードウェイ",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都台東区浅草1ｰ41ｰ4六区ブロードウェイ。",
       "descriptionParagraphs": [
-        "「洋食ヨシカミ浅草店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草1ｰ41ｰ4六区ブロードウェイ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「洋食ヨシカミ浅草店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都台東区浅草1ｰ41ｰ4六区ブロードウェイ。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -2951,7 +3374,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 53
+      "displayOrder": 53,
+      "description": "「洋食ヨシカミ浅草店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都台東区浅草1ｰ41ｰ4六区ブロードウェイ。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_f7394e78ad4a7424"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_0090ef6203581d49",
@@ -2959,10 +3391,10 @@
       "address": "〒111-0032 Tokyo, Taito City, Asakusa, 1-chōme−25−１５ ROX4F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo。",
       "descriptionParagraphs": [
-        "「藏壽司全球旗艦店 淺草ROX」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒111-0032 Tokyo, Taito City, Asakusa, 1-chōme−25−１５ ROX4F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「藏壽司全球旗艦店 淺草ROX」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒111-0032 Tokyo, Taito City, Asakusa, 1-chōme−25−１５ ROX4F。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3009,18 +3441,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 54
+      "displayOrder": 54,
+      "description": "「藏壽司全球旗艦店 淺草ROX」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒111-0032 Tokyo, Taito City, Asakusa, 1-chōme−25−１５ ROX4F。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0090ef6203581d49"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_3c430ceeebdb5016",
       "name": "フグレン",
       "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「フグレン」出現在Oimoの休日グルメ旅、Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「フグレン」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Oimoの休日グルメ旅、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3075,18 +3516,27 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 55
+      "displayOrder": 55,
+      "description": "「フグレン」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Oimoの休日グルメ旅、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3c430ceeebdb5016"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_636b3eec37d37bf7",
       "name": "浅草製作所",
       "address": "東京都台東区浅草2-7-13",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区浅草2-7-13。",
       "descriptionParagraphs": [
-        "「浅草製作所」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草2-7-13。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「浅草製作所」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区浅草2-7-13。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3131,7 +3581,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 56
+      "displayOrder": 56,
+      "description": "「浅草製作所」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区浅草2-7-13。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_636b3eec37d37bf7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_4ac35694f110cc77",
@@ -3139,10 +3598,10 @@
       "address": "〒111-0032 Tokyo, Taito City, Asakusa, 2-chōme−7−２１ 初音小路 商店街内 浅草うなな本店",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Asakusa Unana」出現在Hina Life in Japan、ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒111-0032 Tokyo, Taito City, Asakusa, 2-chōme−7−２１ 初音小路 商店街内 浅草うなな本店。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Asakusa Unana」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒111-0032 Tokyo, Taito City, Asakusa, 2-chōme−7−２１ 初音小路 商店街内 浅草うなな本店。",
+        "來源包括Hina Life in Japan、ハーリーのグルメ、Oimoの休日グルメ旅、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3204,7 +3663,17 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 57
+      "displayOrder": 57,
+      "description": "「Asakusa Unana」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒111-0032 Tokyo, Taito City, Asakusa, 2-chōme−7−２１ 初音小路 商店街内 浅草うなな本店。\n\n來源包括Hina Life in Japan、ハーリーのグルメ、Oimoの休日グルメ旅、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_4ac35694f110cc77",
+          "p_9ecd03fca23d4f9e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_31cbd134a95a2ea5",
@@ -3212,10 +3681,10 @@
       "address": "2-chōme-7-21 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・2-chōme-7-21 Asakusa。",
       "descriptionParagraphs": [
-        "「Kotobuki Seian」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-7-21 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Kotobuki Seian」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 2-chōme-7-21 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3254,7 +3723,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 58
+      "displayOrder": 58,
+      "description": "「Kotobuki Seian」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 2-chōme-7-21 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_31cbd134a95a2ea5"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_9b0464035e71b432",
@@ -3262,10 +3740,10 @@
       "address": "2-chōme-28-5 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・2-chōme-28-5 Asakusa。",
       "descriptionParagraphs": [
-        "「Taiyaki Sawada- Asakusa Hanayashiki Shop」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-28-5 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Taiyaki Sawada- Asakusa Hanayashiki Shop」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 2-chōme-28-5 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3304,7 +3782,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 59
+      "displayOrder": 59,
+      "description": "「Taiyaki Sawada- Asakusa Hanayashiki Shop」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 2-chōme-28-5 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9b0464035e71b432"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_8cbf317f85bc2767",
@@ -3312,10 +3799,10 @@
       "address": "東京都台東区浅草2-29-2 君塚ビル 102",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都台東区浅草2-29-2 君塚ビル 102。",
       "descriptionParagraphs": [
-        "「sukemasa coffee」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草2-29-2 君塚ビル 102。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「sukemasa coffee」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都台東区浅草2-29-2 君塚ビル 102。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3369,7 +3856,17 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 60
+      "displayOrder": 60,
+      "description": "「sukemasa coffee」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都台東区浅草2-29-2 君塚ビル 102。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8cbf317f85bc2767",
+          "p_0085131173cfbf87"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_a0e7efd6cb4ad816",
@@ -3377,10 +3874,10 @@
       "address": "2-chōme-7-13 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "甜點",
-      "caption": "影片中收錄的停留點",
+      "caption": "甜點・2-chōme-7-13 Asakusa。",
       "descriptionParagraphs": [
-        "「淺草 花月堂 本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-7-13 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「淺草 花月堂 本店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 2-chōme-7-13 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3419,7 +3916,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 61
+      "displayOrder": 61,
+      "description": "「淺草 花月堂 本店」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 2-chōme-7-13 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_a0e7efd6cb4ad816"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_bce07ade4f431a5b",
@@ -3427,10 +3933,10 @@
       "address": "2-chōme-7-7 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・2-chōme-7-7 Asakusa。",
       "descriptionParagraphs": [
-        "「Asakusa Chaya Tabanenoshi」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-7-7 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Asakusa Chaya Tabanenoshi」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 2-chōme-7-7 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3469,7 +3975,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 62
+      "displayOrder": 62,
+      "description": "「Asakusa Chaya Tabanenoshi」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 2-chōme-7-7 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bce07ade4f431a5b"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_96c292e826cd46f3",
@@ -3477,10 +3992,10 @@
       "address": "2-chōme-12-4 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・2-chōme-12-4 Asakusa。",
       "descriptionParagraphs": [
-        "「鯛魚燒 浅草浪花家」出現在SoloInTokyoLife的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-12-4 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「鯛魚燒 浅草浪花家」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 2-chōme-12-4 Asakusa, Taito City, Tokyo 111-0032。",
+        "來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3519,7 +4034,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 63
+      "displayOrder": 63,
+      "description": "「鯛魚燒 浅草浪花家」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 2-chōme-12-4 Asakusa, Taito City, Tokyo 111-0032。\n\n來源包括SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_96c292e826cd46f3"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--craft",
@@ -3574,10 +4098,10 @@
       "address": "東京都台東区浅草2-28-18",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都台東区浅草2-28-18。",
       "descriptionParagraphs": [
-        "「FEBRUARY COFFEE ROASTERY(フェブラリーコーヒーロースタリー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草2-28-18。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「FEBRUARY COFFEE ROASTERY(フェブラリーコーヒーロースタリー)」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都台東区浅草2-28-18。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3622,7 +4146,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 65
+      "displayOrder": 65,
+      "description": "「FEBRUARY COFFEE ROASTERY(フェブラリーコーヒーロースタリー)」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都台東区浅草2-28-18。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_ab7a6a5209366ef3"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_f623b7097a99077f",
@@ -3630,10 +4163,10 @@
       "address": "1-chōme-8-11 Hanakawado, Taito City, Tokyo 111-0033",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：磯煮章魚、海味三拼捲、酥炸竹莢魚、鯖魚紫蘇捲、鮪魚大腹",
       "descriptionParagraphs": [
-        "「ASA虎」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 1-chōme-8-11 Hanakawado, Taito City, Tokyo 111-0033。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「ASA虎」的餐點筆記提到磯煮章魚、海味三拼捲、酥炸竹莢魚、鯖魚紫蘇捲、鮪魚大腹。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3674,7 +4207,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 66
+      "displayOrder": 66,
+      "description": "原影片在「ASA虎」的餐點筆記提到磯煮章魚、海味三拼捲、酥炸竹莢魚、鯖魚紫蘇捲、鮪魚大腹。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_f623b7097a99077f"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_374389a9fc8ad67f",
@@ -3682,10 +4224,10 @@
       "address": "",
       "group": "sights",
       "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
+      "caption": "交通・淺草寺・雷門的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「Asakusa Station」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Asakusa Station」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為交通。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3727,7 +4269,16 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 67
+      "displayOrder": 67,
+      "description": "「Asakusa Station」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為交通。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_374389a9fc8ad67f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--sumida",
@@ -3794,10 +4345,10 @@
       "address": "2-chōme-14-3 Hanakawado, Taito City, Tokyo 111-0033",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・2-chōme-14-3 Hanakawado…。",
       "descriptionParagraphs": [
-        "「八十八良葉舍 淺草」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-14-3 Hanakawado, Taito City, Tokyo 111-0033。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「八十八良葉舍 淺草」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 2-chōme-14-3 Hanakawado, Taito City, Tokyo 111-0033。",
+        "來源包括Celia Ting、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -3845,20 +4396,30 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 69
+      "displayOrder": 69,
+      "description": "「八十八良葉舍 淺草」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 2-chōme-14-3 Hanakawado, Taito City, Tokyo 111-0033。\n\n來源包括Celia Ting、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9a5bf40c99333236",
+          "p_95e8fa464a307714"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_9a5686f72c97327f",
       "name": "豊福",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "東京都台東区浅草2-3-4",
+      "group": "food",
+      "categoryLabel": "麵包（現況待確認）",
+      "caption": "麵包（現況待確認）・東京都台東区浅草2-3-4。",
       "descriptionParagraphs": [
-        "「豊福」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「豊福」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為麵包（現況待確認）。地址紀錄為 東京都台東区浅草2-3-4。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
-      "note": "尚未確認地圖位置，保留收錄記錄供查找。",
+      "note": "食べログ掲載保留，營業現況待確認。",
       "coordinate": null,
       "sources": [
         {
@@ -3890,7 +4451,28 @@
         "href": "/walks/asakusa/"
       },
       "recommendation": null,
-      "displayOrder": 70
+      "displayOrder": 70,
+      "cardNotice": "營業現況待確認",
+      "description": "「豊福」位於本次淺草寺・雷門收錄範圍，既有資料將這一站歸為麵包（現況待確認）。地址紀錄為 東京都台東区浅草2-3-4。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9a5686f72c97327f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://tabelog.com/tokyo/A1311/A131102/13163383/",
+            "checkedAt": "2026-10-28",
+            "result": "食べログ豊福、淺草2-3-4、麵包分類匹配，頁面標掲載保留，無法確認營業現況。"
+          }
+        ],
+        "findings": "食べログ豊福、淺草2-3-4、麵包分類匹配，頁面標掲載保留，無法確認營業現況。"
+      }
     }
   ],
   "routes": [
@@ -4118,10 +4700,10 @@
       "address": "東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ。",
       "descriptionParagraphs": [
-        "「満願堂 吾妻橋店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「満願堂 吾妻橋店」位於本次本所吾妻橋・東駒形收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -4174,7 +4756,16 @@
         "name": "本所吾妻橋・東駒形",
         "href": "/walks/azumabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「満願堂 吾妻橋店」位於本次本所吾妻橋・東駒形收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都墨田区吾妻橋1-19-16 野口ビル １Ｆ。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0a9cb4ab0253b5e8"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_cd3505a7d6af58fa",
@@ -4182,10 +4773,10 @@
       "address": "東京都台東区花川戸2-16-1",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・東京都台東区花川戸2-16-1。",
       "descriptionParagraphs": [
-        "「Chinya すき焼 ちんや 浅草本店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区花川戸2-16-1。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Chinya すき焼 ちんや 浅草本店」位於本次奧淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都台東区花川戸2-16-1。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "官方確認現址為花川戶2-16-1，2022年3月於江戶通沿線重新開幕；此筆原影片地圖也指向新址。",
       "coordinate": {
@@ -4226,7 +4817,16 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Chinya すき焼 ちんや 浅草本店」位於本次奧淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都台東区花川戸2-16-1。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_cd3505a7d6af58fa"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_80ce7016fd4645fd",
@@ -4234,10 +4834,10 @@
       "address": "東京都台東区浅草3-26-10 トーセイホテル ココネ浅草 1F",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・東京都台東区浅草3-26-10 トーセイホテル ココネ浅草 1F。",
       "descriptionParagraphs": [
-        "「Petika sukemasacoffee(ペチカスケマサコーヒー)」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草3-26-10 トーセイホテル ココネ浅草 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Petika sukemasacoffee(ペチカスケマサコーヒー)」位於本次奧淺草收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都台東区浅草3-26-10 トーセイホテル ココネ浅草 1F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -4282,7 +4882,16 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Petika sukemasacoffee(ペチカスケマサコーヒー)」位於本次奧淺草收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都台東区浅草3-26-10 トーセイホテル ココネ浅草 1F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_80ce7016fd4645fd"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_3884f9d4bd99bc9a",
@@ -4290,10 +4899,10 @@
       "address": "3-chōme-24-6 Asakusa, Taito City, Tokyo 111-0032",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：特製蛋包飯 奶油蟹肉可樂餅",
       "descriptionParagraphs": [
-        "「牛肉蛋包飯 グリルグランド」出現在肥波開吃啦、Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-24-6 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「牛肉蛋包飯 グリルグランド」的餐點筆記提到特製蛋包飯 奶油蟹肉可樂餅。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦、Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -4348,7 +4957,16 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "原影片在「牛肉蛋包飯 グリルグランド」的餐點筆記提到特製蛋包飯 奶油蟹肉可樂餅。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦、Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3884f9d4bd99bc9a"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_601844f1dec669fd",
@@ -4356,10 +4974,10 @@
       "address": "東京都台東区浅草3-4-3",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・東京都台東区浅草3-4-3。",
       "descriptionParagraphs": [
-        "「壽々喜園 浅草本店」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草3-4-3。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「壽々喜園 浅草本店」位於本次奧淺草收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都台東区浅草3-4-3。",
+        "來源包括Tokyo Cafe Channel、Hina Life in Japan、SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -4425,18 +5043,28 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「壽々喜園 浅草本店」位於本次奧淺草收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都台東区浅草3-4-3。\n\n來源包括Tokyo Cafe Channel、Hina Life in Japan、SoloInTokyoLife的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_601844f1dec669fd",
+          "p_5a3f8eaa139d16f4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_cc07870cb0906223",
       "name": "本とさや",
       "address": "東京都台東区西浅草3-1-9",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "影片餐點筆記：特上牛小排+鹽味牛舌+特上橫隔膜",
       "descriptionParagraphs": [
-        "「本とさや」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区西浅草3-1-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「本とさや」的餐點筆記提到特上牛小排+鹽味牛舌+特上橫隔膜。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -4487,7 +5115,17 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "原影片在「本とさや」的餐點筆記提到特上牛小排+鹽味牛舌+特上橫隔膜。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_cc07870cb0906223",
+          "p_fa597b5398849918"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_03b06522b228de6a",
@@ -4495,10 +5133,10 @@
       "address": "東京都台東区西浅草3-1-12",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：極上霜降和牛御膳",
       "descriptionParagraphs": [
-        "「壽喜燒老店 淺草今半」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区西浅草3-1-12。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「壽喜燒老店 淺草今半」的餐點筆記提到極上霜降和牛御膳。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -4539,18 +5177,27 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "原影片在「壽喜燒老店 淺草今半」的餐點筆記提到極上霜降和牛御膳。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_03b06522b228de6a"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_c2bc8a559c049512",
       "name": "かぐらちゃかプチ",
       "address": "東京都台東区西浅草２丁目２７−１１",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区西浅草２丁目２７−１１。",
       "descriptionParagraphs": [
-        "「かぐらちゃかプチ」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区西浅草２丁目２７−１１。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「かぐらちゃかプチ」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区西浅草２丁目２７−１１。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -4593,7 +5240,16 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「かぐらちゃかプチ」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区西浅草２丁目２７−１１。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c2bc8a559c049512"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_9c6c24dfaccc3455",
@@ -4678,18 +5334,51 @@
           }
         ],
         "findings": "建築師的原始作品紀錄確認木材倉庫改裝；店主署名文章與東京Metro店家介紹均列壽2-4-7。官網https://readinwritin.net/兩次逾時，未據此判定閉店；不將歷史營業時間寫成現況。非餐飲店，使用建築師與店主的一手資料。"
+      },
+      "visitingHours": {
+        "summary": "12:00–18:00・週一、二休",
+        "note": "依《裝苑》2026 年店主採訪及同址店家資料；店方官網本次讀取失敗，臨時調整仍請確認店方公告。",
+        "status": "listed",
+        "checkedAt": "2026-10-28",
+        "sourceUrl": "https://soen.tokyo/lifestyle/tokyo-bookshop-readinwritin260818/",
+        "sourceLabel": "裝苑・Readin’ Writin’ 店主採訪",
+        "sources": [
+          {
+            "url": "https://soen.tokyo/lifestyle/tokyo-bookshop-readinwritin260818/",
+            "label": "裝苑・Readin’ Writin’ 店主採訪"
+          }
+        ]
+      },
+      "hoursReview": {
+        "checkedAt": "2026-10-28",
+        "matchedAddress": "東京都台東区寿2-4-7",
+        "findings": "核對 Readin’ Writin’ BOOK STORE，地址 東京都台東区寿2-4-7。依《裝苑》2026 年店主採訪及同址店家資料；店方官網本次讀取失敗，臨時調整仍請確認店方公告。",
+        "sources": [
+          {
+            "url": "https://soen.tokyo/lifestyle/tokyo-bookshop-readinwritin260818/",
+            "title": "裝苑・Readin’ Writin’ 店主採訪",
+            "checkedAt": "2026-10-28",
+            "result": "2026年店主採訪；寿2-4-7、12–18、月火休；文末WEB誤指他店shelf，未採用該連結。"
+          },
+          {
+            "url": "https://readinwritin.net/",
+            "title": "Readin’ Writin’ 官方網站",
+            "checkedAt": "2026-10-28",
+            "result": "502讀取失敗，未用此回應判斷店家營業狀態。"
+          }
+        ]
       }
     },
     {
       "id": "asakusa--p_0c9c659b6d86b287",
       "name": "Dengama",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "東京都台東区西浅草1-4-3",
+      "group": "shops",
+      "categoryLabel": "陶器・器皿",
+      "caption": "陶器・器皿・東京都台東区西浅草1-4-3。",
       "descriptionParagraphs": [
-        "「Dengama」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Dengama」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為陶器・器皿。地址紀錄為 東京都台東区西浅草1-4-3。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -4709,7 +5398,7 @@
           "seconds": 571
         }
       ],
-      "official": null,
+      "official": "https://den-gama.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -4731,7 +5420,27 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Dengama」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為陶器・器皿。地址紀錄為 東京都台東区西浅草1-4-3。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_0c9c659b6d86b287"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://den-gama.com/",
+            "checkedAt": "2026-10-28",
+            "result": "官方搜尋結果列和の器田窯（Dengama）與西淺草1-4-3；完整頁面逾時，未設定營業時間。"
+          }
+        ],
+        "findings": "官方搜尋結果列和の器田窯（Dengama）與西淺草1-4-3；完整頁面逾時，未設定營業時間。"
+      }
     },
     {
       "id": "asakusa--p_2c2d8618572883d6",
@@ -4739,10 +5448,10 @@
       "address": "3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・3-chōme-18-2 Matsugaya…。",
       "descriptionParagraphs": [
-        "「合羽橋」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「合羽橋」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為景點。地址紀錄為 3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036。",
+        "來源包括Unique Japan Travel、Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -4792,18 +5501,28 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「合羽橋」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為景點。地址紀錄為 3-chōme-18-2 Matsugaya, Taito City, Tokyo 110-0036。\n\n來源包括Unique Japan Travel、Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2c2d8618572883d6",
+          "p_5166ba32987fb735"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_e6d53140c027e6ef",
       "name": "Majimaya",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "東京都台東区西浅草2-5-4",
+      "group": "shops",
+      "categoryLabel": "烘焙模具・道具",
+      "caption": "烘焙模具・道具・東京都台東区西浅草2-5-4。",
       "descriptionParagraphs": [
-        "「Majimaya」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Majimaya」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為烘焙模具・道具。地址紀錄為 東京都台東区西浅草2-5-4。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -4823,7 +5542,7 @@
           "seconds": 571
         }
       ],
-      "official": null,
+      "official": "https://majimaya.com/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -4845,18 +5564,38 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Majimaya」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為烘焙模具・道具。地址紀錄為 東京都台東区西浅草2-5-4。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e6d53140c027e6ef"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://majimaya.com/",
+            "checkedAt": "2026-10-28",
+            "result": "官方搜尋結果列馬嶋屋菓子道具店、Majimaya與西淺草2-5-4，烘焙用品；完整頁面逾時，未設定營業時間。"
+          }
+        ],
+        "findings": "官方搜尋結果列馬嶋屋菓子道具店、Majimaya與西淺草2-5-4，烘焙用品；完整頁面逾時，未設定營業時間。"
+      }
     },
     {
       "id": "asakusa--p_631cc84f7ca598c6",
       "name": "FU WA RI",
       "address": "",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "類別待確認",
+      "caption": "合羽橋・西淺草影片路線中的「FU WA RI」，用途與現況待確認。",
       "descriptionParagraphs": [
-        "「FU WA RI」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「FU WA RI」位於本次合羽橋・西淺草收錄範圍，既有資料尚不足以確認具體用途。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -4898,7 +5637,16 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「FU WA RI」位於本次合羽橋・西淺草收錄範圍，既有資料尚不足以確認具體用途。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_631cc84f7ca598c6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_54b927a85af07aef",
@@ -4906,10 +5654,10 @@
       "address": "",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・合羽橋・西淺草的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「Union coffee shop」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Union coffee shop」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -4951,7 +5699,16 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Union coffee shop」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_54b927a85af07aef"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_58381eaff27a2e6d",
@@ -4959,10 +5716,10 @@
       "address": "2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-26-6 Matsugaya…。",
       "descriptionParagraphs": [
-        "「Tasuke Sushi」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Tasuke Sushi」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -5001,7 +5758,16 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Tasuke Sushi」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-26-6 Matsugaya, Taito City, Tokyo 111-0036。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_58381eaff27a2e6d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_cf12a75d54630bf8",
@@ -5009,10 +5775,10 @@
       "address": "",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・合羽橋・西淺草的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「Cafe Otonova」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「Cafe Otonova」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -5054,7 +5820,16 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Cafe Otonova」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為咖啡。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_cf12a75d54630bf8"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_02386fa3de3e90b4",
@@ -5062,10 +5837,10 @@
       "address": "東京都台東区千束1-6-2",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：單人關東煮盛  燉牛筋",
       "descriptionParagraphs": [
-        "「淺草關東煮老店 大多福」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区千束1-6-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「淺草關東煮老店 大多福」的餐點筆記提到單人關東煮盛  燉牛筋。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -5106,18 +5881,27 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "原影片在「淺草關東煮老店 大多福」的餐點筆記提到單人關東煮盛  燉牛筋。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_02386fa3de3e90b4"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_61588ff8b4415633",
       "name": "しゃん",
       "address": "東京都台東区浅草4-36-2",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区浅草4-36-2。",
       "descriptionParagraphs": [
-        "「しゃん」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区浅草4-36-2。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「しゃん」位於本次奧淺草收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区浅草4-36-2。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -5162,7 +5946,16 @@
         "name": "奧淺草",
         "href": "/walks/oku-asakusa/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「しゃん」位於本次奧淺草收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区浅草4-36-2。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_61588ff8b4415633"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_ad9b609d7d486246",
@@ -5170,10 +5963,10 @@
       "address": "2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-1-11 Nishiasakusa…。",
       "descriptionParagraphs": [
-        "「紅鶴」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「紅鶴」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035。",
+        "來源包括ハーリーのグルメ、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -5233,7 +6026,17 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「紅鶴」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-1-11 Nishiasakusa, Taito City, Tokyo 111-0035。\n\n來源包括ハーリーのグルメ、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_ad9b609d7d486246",
+          "p_786f709ac9df6eed"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_184e27e9c0f46ecd",
@@ -5241,10 +6044,10 @@
       "address": "〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Asakusa Beer Kobo」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Asakusa Beer Kobo」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -5283,18 +6086,27 @@
         "name": "合羽橋・西淺草",
         "href": "/walks/kappabashi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「Asakusa Beer Kobo」位於本次合羽橋・西淺草收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒111-0035 Tokyo, Taito City, Nishiasakusa, 2-chōme−2−２ 藤代ビル １F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_184e27e9c0f46ecd"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "asakusa--p_20324c0da415764e",
       "name": "UMIERE asakusa",
       "address": "東京都台東区元浅草３丁目１６−１６",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区元浅草３丁目１６−１６。",
       "descriptionParagraphs": [
-        "「UMIERE asakusa」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区元浅草３丁目１６−１６。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「UMIERE asakusa」位於本次新御徒町・元淺草收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区元浅草３丁目１６−１６。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -5344,7 +6156,17 @@
         "name": "新御徒町・元淺草",
         "href": "/walks/shin-okachimachi/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「UMIERE asakusa」位於本次新御徒町・元淺草收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区元浅草３丁目１６−１６。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_20324c0da415764e",
+          "p_4e9753b7c5ef6189"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "inheritedWalkIds": []

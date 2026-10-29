@@ -8,10 +8,10 @@
       "address": "〒102-0071 Tokyo, Chiyoda City, Fujimi, 2-chōme−10−２ 飯田橋グランブルーム サクラテラス2F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・Tokyo…。",
       "descriptionParagraphs": [
-        "「Trattoria Gran Bocca」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒102-0071 Tokyo, Chiyoda City, Fujimi, 2-chōme−10−２ 飯田橋グランブルーム サクラテラス2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Trattoria Gran Bocca」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒102-0071 Tokyo, Chiyoda City, Fujimi, 2-chōme−10−２ 飯田橋グランブルーム サクラテラス2F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -50,7 +50,16 @@
         "href": "/walks/iidabashi/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「Trattoria Gran Bocca」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒102-0071 Tokyo, Chiyoda City, Fujimi, 2-chōme−10−２ 飯田橋グランブルーム サクラテラス2F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_b0c7b9ddbd3936a7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_44d1c7e446275240",
@@ -58,10 +67,10 @@
       "address": "2-chōme-12-16 Fujimi, Chiyoda City, Tokyo 102-0071",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・2-chōme-12-16 Fujimi…。",
       "descriptionParagraphs": [
-        "「煎餃 おけ以」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-12-16 Fujimi, Chiyoda City, Tokyo 102-0071。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「煎餃 おけ以」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-12-16 Fujimi, Chiyoda City, Tokyo 102-0071。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -106,18 +115,27 @@
         "href": "/walks/iidabashi/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「煎餃 おけ以」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-12-16 Fujimi, Chiyoda City, Tokyo 102-0071。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_44d1c7e446275240"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_3dc7e9a2120ef7db",
       "name": "東京大神宮",
       "address": "",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "神社",
+      "caption": "神社・飯田橋・東京大神宮的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「東京大神宮」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「東京大神宮」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為神社。來源未留下完整門牌，請先從影片內容比對位置。",
+        "來源包括老辣妹、部屋隆的生活頻道的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -134,6 +152,14 @@
           "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
           "time": "0:37",
           "seconds": 37
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "2yfy1-1w-lk",
+          "title": "#東京自由行 絕對推薦的#另一半 #皇居 北邊旅遊路線 你熟悉卻陌生的市中心旁邊 絕對順路的交通路線建議 #水道橋 #飯田橋 #後樂園 #神樂坂 #東京巨蛋 良緣寶地#東京大神宮 #神樂 怎麼念？",
+          "url": "https://www.youtube.com/watch?v=2yfy1-1w-lk",
+          "time": "08:31",
+          "seconds": 511
         }
       ],
       "official": null,
@@ -158,7 +184,16 @@
         "href": "/walks/iidabashi/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 3,
+      "description": "「東京大神宮」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為神社。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹、部屋隆的生活頻道的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3dc7e9a2120ef7db"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_5bf94a4af47c8b28",
@@ -166,10 +201,10 @@
       "address": "4-chōme-4-12 Iidabashi, Chiyoda City, Tokyo 102-0072",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・4-chōme-4-12 Iidabashi…。",
       "descriptionParagraphs": [
-        "「Sakana no Umaiten Īdabashi Honten」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 4-chōme-4-12 Iidabashi, Chiyoda City, Tokyo 102-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Sakana no Umaiten Īdabashi Honten」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 4-chōme-4-12 Iidabashi, Chiyoda City, Tokyo 102-0072。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -214,7 +249,16 @@
         "href": "/walks/iidabashi/"
       },
       "recommendation": null,
-      "displayOrder": 4
+      "displayOrder": 4,
+      "description": "「Sakana no Umaiten Īdabashi Honten」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 4-chōme-4-12 Iidabashi, Chiyoda City, Tokyo 102-0072。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5bf94a4af47c8b28"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_3bab845b2ec6b12a",
@@ -222,10 +266,10 @@
       "address": "4-chōme-9-7 Iidabashi, Chiyoda City, Tokyo 102-0072",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・4-chōme-9-7 Iidabashi…。",
       "descriptionParagraphs": [
-        "「iidabashi Bariton」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 4-chōme-9-7 Iidabashi, Chiyoda City, Tokyo 102-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「iidabashi Bariton」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 4-chōme-9-7 Iidabashi, Chiyoda City, Tokyo 102-0072。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -270,7 +314,16 @@
         "href": "/walks/iidabashi/"
       },
       "recommendation": null,
-      "displayOrder": 5
+      "displayOrder": 5,
+      "description": "「iidabashi Bariton」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 4-chōme-9-7 Iidabashi, Chiyoda City, Tokyo 102-0072。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_3bab845b2ec6b12a"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kagurazaka--p_d8638ae37e88cee9",
@@ -278,10 +331,10 @@
       "address": "〒102-0072 東京都千代田区Iidabashi, 4-chōme−９−５",
       "group": "sights",
       "categoryLabel": "交通",
-      "caption": "影片中收錄的停留點",
+      "caption": "交通・東京都千代田区Iidabashi。",
       "descriptionParagraphs": [
-        "「飯田橋車站」出現在Hiro | Days in Tokyo的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 〒102-0072 東京都千代田区Iidabashi, 4-chōme−９−５。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「飯田橋車站」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為交通。地址紀錄為 〒102-0072 東京都千代田区Iidabashi, 4-chōme−９−５。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -322,7 +375,16 @@
         "href": "/walks/iidabashi/"
       },
       "recommendation": null,
-      "displayOrder": 6
+      "displayOrder": 6,
+      "description": "「飯田橋車站」位於本次飯田橋・東京大神宮收錄範圍，既有資料將這一站歸為交通。地址紀錄為 〒102-0072 東京都千代田区Iidabashi, 4-chōme−９−５。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_d8638ae37e88cee9"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

@@ -5,12 +5,12 @@
       "id": "asakusa--p_20324c0da415764e",
       "name": "UMIERE asakusa",
       "address": "東京都台東区元浅草３丁目１６−１６",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都台東区元浅草３丁目１６−１６。",
       "descriptionParagraphs": [
-        "「UMIERE asakusa」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区元浅草３丁目１６−１６。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「UMIERE asakusa」位於本次新御徒町・元淺草收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区元浅草３丁目１６−１６。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -60,7 +60,17 @@
         "href": "/walks/shin-okachimachi/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「UMIERE asakusa」位於本次新御徒町・元淺草收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都台東区元浅草３丁目１６−１６。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_20324c0da415764e",
+          "p_4e9753b7c5ef6189"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

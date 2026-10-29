@@ -8,10 +8,10 @@
       "address": "東京都豊島区池袋2-22-2 バイリンクビル2F",
       "group": "food",
       "categoryLabel": "咖啡館",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡館・東京都豊島区池袋2-22-2 バイリンクビル2F。",
       "descriptionParagraphs": [
-        "原影片介紹池袋西口的越南咖啡館 Nu coffee，位於池袋二丁目建築的二樓。",
-        "原始資料記錄的地址為 東京都豊島区池袋2-22-2 バイリンクビル2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Nu coffee 池袋店」位於本次池袋西口收錄範圍，既有資料將這一站歸為咖啡館。地址紀錄為 東京都豊島区池袋2-22-2 バイリンクビル2F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片店家連結與2023年實訪報導均指向池袋店。食べログ目前標示「掲載保留」，現況尚未確認，請先確認營業再安排行程。",
       "coordinate": {
@@ -54,7 +54,16 @@
         "href": "/walks/ikebukuro-west/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「Nu coffee 池袋店」位於本次池袋西口收錄範圍，既有資料將這一站歸為咖啡館。地址紀錄為 東京都豊島区池袋2-22-2 バイリンクビル2F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9870b7da58043dbb"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kobe-kitano--p_9c5f5c642746adb2",
@@ -62,10 +71,10 @@
       "address": "東京都豊島区池袋2-70-5 カーサヤマブキ1F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・東京都豊島区池袋2-70-5 カーサヤマブキ1F。",
       "descriptionParagraphs": [
-        "原影片介紹池袋的「しげ松 昼の部」，是居酒屋しげ松空間內的午間餐食紀錄。",
-        "原始資料記錄的地址為 東京都豊島区池袋2-70-5 カーサヤマブキ1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「しげ松 昼の部（池袋）」位於本次池袋西口收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都豊島区池袋2-70-5 カーサヤマブキ1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "已依原影片與池袋店地址修正同名誤配。影片拍攝於2022年，午間營業仍請事先向店家確認。",
       "coordinate": {
@@ -108,7 +117,16 @@
         "href": "/walks/ikebukuro-west/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「しげ松 昼の部（池袋）」位於本次池袋西口收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都豊島区池袋2-70-5 カーサヤマブキ1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9c5f5c642746adb2"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

@@ -3,15 +3,143 @@
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
+      "id": "kyoto-higashiyama--p_d60fc823d1bce523",
+      "name": "ぎをん小森",
+      "address": "京都府京都市東山区元吉町61",
+      "group": "food",
+      "categoryLabel": "日式甜點",
+      "caption": "祇園町家裡的庭院與甘味",
+      "descriptionParagraphs": [
+        "祇園小森位於元吉町的傳統町家，以日式甜點與茶為主。木構空間、庭院綠意與白川一帶的街景相接，適合散步途中休息；熱門時段的候位需另留時間。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.0058422,
+        "lng": 135.7746072,
+        "provider": "original-video-map",
+        "url": "https://maps.google.com/?cid=11272248159217716659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "MqjDjnqt9IQ",
+          "title": "ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023",
+          "url": "https://www.youtube.com/watch?v=MqjDjnqt9IQ",
+          "time": "3:26",
+          "seconds": 206
+        }
+      ],
+      "official": "https://www.giwon-komori.com/?mode=f4",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d60fc823d1bce523"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=11272248159217716659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.giwon-komori.com/?mode=f4",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：京都府京都市東山区元吉町61；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_d60fc823d1bce523.webp",
+        "alt": "ぎをん小森的日系水彩插圖"
+      },
+      "order": 1,
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "recommendation": null,
+      "displayOrder": 1
+    },
+    {
+      "id": "kyoto-higashiyama--p_598e31129c8c9a51",
+      "name": "和牛料亭 bungo 祇園",
+      "address": "京都府京都市東山区新橋通大和大路東入元吉町56",
+      "group": "food",
+      "categoryLabel": "和牛料理",
+      "caption": "祇園新橋通町家中的和牛料理",
+      "descriptionParagraphs": [
+        "bungo 祇園運用新橋通的傳統建築，提供由服務人員料理與上菜的和牛套餐。木構、紙拉門與低彩度座席延續町家氣氛，適合另作預約用餐安排，不算入一般散步的短暫停留。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.00581,
+        "lng": 135.7741248,
+        "provider": "original-video-map",
+        "url": "https://www.google.com.tw/maps/place/%E5%92%8C%E7%89%9B%E6%96%99%E4%BA%AD+bungo+%E7%A5%87%E5%9C%92/@35.00581,135.7715445,17z/data=!3m1!4b1!4m6!3m5!1s0x6001093aafac8663:0x69b8ebcb1fc485d8!8m2!3d35.00581!4d135.7741248!16s%2Fg%2F11tnk8lmxd?hl=zh-TW&entry=tts&shorturl=1",
+        "checkedAt": "2026-10-29",
+        "precisionNote": "原影片地圖位置；以官方分店地址交叉核對，非實測入口。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "lxjgJ6YeSFE",
+          "title": "🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=lxjgJ6YeSFE",
+          "time": "7:38",
+          "seconds": 458
+        }
+      ],
+      "official": "https://wagyuryotei-bungo.com/gion/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_598e31129c8c9a51"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com.tw/maps/place/%E5%92%8C%E7%89%9B%E6%96%99%E4%BA%AD+bungo+%E7%A5%87%E5%9C%92/@35.00581,135.7715445,17z/data=!3m1!4b1!4m6!3m5!1s0x6001093aafac8663:0x69b8ebcb1fc485d8!8m2!3d35.00581!4d135.7741248!16s%2Fg%2F11tnk8lmxd?hl=zh-TW&entry=tts&shorturl=1"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://wagyuryotei-bungo.com/gion/",
+            "checkedAt": "2026-10-29",
+            "finding": "核對店名、分店地址：京都府京都市東山区新橋通大和大路東入元吉町56；用途與介紹相符。營業時間未作即時保證。"
+          }
+        ],
+        "findings": "核對原影片來源及官方／商店街分店地址，符合既定街區；獨立照片與水彩已完成，新增為可選停留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kyoto-higashiyama--p_598e31129c8c9a51.webp",
+        "alt": "和牛料亭 bungo 祇園的日系水彩插圖"
+      },
+      "order": 2,
+      "canonicalArea": {
+        "id": "kyoto-gion",
+        "name": "京都祇園",
+        "href": "/walks/kyoto-gion/"
+      },
+      "recommendation": null,
+      "displayOrder": 2
+    },
+    {
       "id": "kyoto-higashiyama--p_5b9922cfea81ca7f",
       "name": "Gion Shirakawa Namisato",
       "address": "78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・78-3 Sueyoshichō…。",
       "descriptionParagraphs": [
-        "「Gion Shirakawa Namisato」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Gion Shirakawa Namisato」位於本次京都祇園收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -52,14 +180,24 @@
         "image": "/art/source-library/kyoto-higashiyama--p_5b9922cfea81ca7f.webp",
         "alt": "Gion Shirakawa Namisato的日系水彩插圖"
       },
-      "order": 1,
+      "order": 3,
       "canonicalArea": {
         "id": "kyoto-gion",
         "name": "京都祇園",
         "href": "/walks/kyoto-gion/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 3,
+      "description": "「Gion Shirakawa Namisato」位於本次京都祇園收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 78-3 Sueyoshichō, Higashiyama Ward, Kyoto, 605-0085。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5b9922cfea81ca7f",
+          "p_7cdfa7c4643b4aea"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-higashiyama--p_cca86fe0bdd22b1d",
@@ -67,10 +205,10 @@
       "address": "573-3 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・573-3 Gionmachi Minamigawa…。",
       "descriptionParagraphs": [
-        "「茶寮都路里 祇園本店」出現在ハーリーのグルメ的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 573-3 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「茶寮都路里 祇園本店」位於本次京都祇園收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 573-3 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -102,7 +240,7 @@
         "image": "/art/source-library/kyoto-higashiyama--p_cca86fe0bdd22b1d.webp",
         "alt": "茶寮都路里 祇園本店的日系水彩插圖"
       },
-      "order": 2,
+      "order": 4,
       "canonicalArea": {
         "id": "kyoto-gion",
         "name": "京都祇園",
@@ -118,7 +256,16 @@
         ]
       },
       "recommendation": "回到祇園商店街，在都路里選一份茶甜點。",
-      "displayOrder": 2
+      "displayOrder": 4,
+      "description": "「茶寮都路里 祇園本店」位於本次京都祇園收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 573-3 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_cca86fe0bdd22b1d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-higashiyama--p_9f37c326a0bd41ac",
@@ -126,10 +273,10 @@
       "address": "572-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・572-2 Gionmachi Minamigawa…。",
       "descriptionParagraphs": [
-        "「Miffy's Oyatsu-do by Miffy's Kitchen Gion」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 572-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Miffy's Oyatsu-do by Miffy's Kitchen Gion」位於本次京都祇園收錄範圍，既有資料將這一站歸為購物。地址紀錄為 572-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -173,14 +320,23 @@
         "image": "/art/source-library/kyoto-higashiyama--p_9f37c326a0bd41ac.webp",
         "alt": "Miffy's Oyatsu-do by Miffy's Kitchen Gion的日系水彩插圖"
       },
-      "order": 3,
+      "order": 5,
       "canonicalArea": {
         "id": "kyoto-gion",
         "name": "京都祇園",
         "href": "/walks/kyoto-gion/"
       },
       "recommendation": null,
-      "displayOrder": 3
+      "displayOrder": 5,
+      "description": "「Miffy's Oyatsu-do by Miffy's Kitchen Gion」位於本次京都祇園收錄範圍，既有資料將這一站歸為購物。地址紀錄為 572-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9f37c326a0bd41ac"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-higashiyama--p_12b04da60b2b1515",
@@ -188,10 +344,10 @@
       "address": "570-188 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・570-188 Gionmachi Minamigawa…。",
       "descriptionParagraphs": [
-        "「祇園 北川半兵衛」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 570-188 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「祇園 北川半兵衛」位於本次京都祇園收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 570-188 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -229,7 +385,7 @@
         "image": "/art/source-library/kyoto-higashiyama--p_12b04da60b2b1515.webp",
         "alt": "祇園 北川半兵衛的日系水彩插圖"
       },
-      "order": 4,
+      "order": 6,
       "canonicalArea": {
         "id": "kyoto-gion",
         "name": "京都祇園",
@@ -244,7 +400,16 @@
         ]
       },
       "recommendation": "在北川半兵衛留一段品茶與甜點時間。",
-      "displayOrder": 4
+      "displayOrder": 6,
+      "description": "「祇園 北川半兵衛」位於本次京都祇園收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 570-188 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_12b04da60b2b1515"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-higashiyama--p_8b836e89080ccd20",
@@ -252,10 +417,10 @@
       "address": "625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・625 Gionmachi Kitagawa…。",
       "descriptionParagraphs": [
-        "「八坂神社本殿」出現在Hina Life in Japan、Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「八坂神社本殿」位於本次京都祇園收錄範圍，既有資料將這一站歸為景點。地址紀錄為 625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073。",
+        "來源包括Hina Life in Japan、Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -295,7 +460,7 @@
         "image": "/art/source-library/kyoto-higashiyama--p_8b836e89080ccd20.webp",
         "alt": "八坂神社本殿的日系水彩插圖"
       },
-      "order": 5,
+      "order": 7,
       "canonicalArea": {
         "id": "kyoto-gion",
         "name": "京都祇園",
@@ -310,11 +475,20 @@
         ]
       },
       "recommendation": "參拜八坂神社，再往祇園南側的街巷散步。",
-      "displayOrder": 5
+      "displayOrder": 7,
+      "description": "「八坂神社本殿」位於本次京都祇園收錄範圍，既有資料將這一站歸為景點。地址紀錄為 625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073。\n\n來源包括Hina Life in Japan、Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_8b836e89080ccd20"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-higashiyama--yasui",
-      "order": 6,
+      "order": 8,
       "name": "安井金比羅宮",
       "address": "京都府京都市東山区下弁天町70",
       "group": "sights",
@@ -361,18 +535,18 @@
         "name": "京都祇園",
         "href": "/walks/kyoto-gion/"
       },
-      "displayOrder": 6
+      "displayOrder": 8
     },
     {
       "id": "kyoto-higashiyama--p_987f648f151229d0",
       "name": "西来院",
       "address": "京都府京都市東山区小松町590",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "寺院",
+      "caption": "寺院・京都府京都市東山区小松町590。",
       "descriptionParagraphs": [
-        "「西来院」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 京都府京都市東山区小松町590。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「西来院」位於本次京都祇園收錄範圍，既有資料將這一站歸為寺院。地址紀錄為 京都府京都市東山区小松町590。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -406,25 +580,34 @@
         "image": "/art/source-library/kyoto-higashiyama--p_987f648f151229d0.webp",
         "alt": "西来院的日系水彩插圖"
       },
-      "order": 7,
+      "order": 9,
       "canonicalArea": {
         "id": "kyoto-gion",
         "name": "京都祇園",
         "href": "/walks/kyoto-gion/"
       },
       "recommendation": null,
-      "displayOrder": 7
+      "displayOrder": 9,
+      "description": "「西来院」位於本次京都祇園收錄範圍，既有資料將這一站歸為寺院。地址紀錄為 京都府京都市東山区小松町590。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_987f648f151229d0"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-higashiyama--p_c26bee4052bedb00",
       "name": "両足院",
       "address": "京都府京都市東山区小松町591",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "寺院",
+      "caption": "寺院・京都府京都市東山区小松町591。",
       "descriptionParagraphs": [
-        "「両足院」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 京都府京都市東山区小松町591。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「両足院」位於本次京都祇園收錄範圍，既有資料將這一站歸為寺院。地址紀錄為 京都府京都市東山区小松町591。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "庭園參觀、坐禪等活動的開放日期與預約方式不同，請先查閱官方公告。",
       "coordinate": {
@@ -458,14 +641,23 @@
         "image": "/art/source-library/kyoto-higashiyama--p_c26bee4052bedb00.webp",
         "alt": "両足院的日系水彩插圖"
       },
-      "order": 8,
+      "order": 10,
       "canonicalArea": {
         "id": "kyoto-gion",
         "name": "京都祇園",
         "href": "/walks/kyoto-gion/"
       },
       "recommendation": null,
-      "displayOrder": 8
+      "displayOrder": 10,
+      "description": "「両足院」位於本次京都祇園收錄範圍，既有資料將這一站歸為寺院。地址紀錄為 京都府京都市東山区小松町591。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c26bee4052bedb00"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-higashiyama--p_777a851faf84d814",
@@ -473,10 +665,10 @@
       "address": "京都府京都市東山区小松町584",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・京都府京都市東山区小松町584。",
       "descriptionParagraphs": [
-        "「建仁寺」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 京都府京都市東山区小松町584。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「建仁寺」位於本次京都祇園收錄範圍，既有資料將這一站歸為景點。地址紀錄為 京都府京都市東山区小松町584。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -510,7 +702,7 @@
         "image": "/art/source-library/kyoto-higashiyama--p_777a851faf84d814.webp",
         "alt": "建仁寺的日系水彩插圖"
       },
-      "order": 9,
+      "order": 11,
       "canonicalArea": {
         "id": "kyoto-gion",
         "name": "京都祇園",
@@ -526,7 +718,16 @@
         ]
       },
       "recommendation": "安排建仁寺參觀，入內前確認當日拜觀範圍。",
-      "displayOrder": 9
+      "displayOrder": 11,
+      "description": "「建仁寺」位於本次京都祇園收錄範圍，既有資料將這一站歸為景點。地址紀錄為 京都府京都市東山区小松町584。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_777a851faf84d814"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [
@@ -628,10 +829,12 @@
   ],
   "defaultSelection": "kyoto-gion-yasaka-and-tea",
   "libraryCoverage": {
-    "added": 8,
+    "added": 10,
     "unlocated": 0,
     "checkedAt": "2026-10-26",
     "sourceIds": [
+      "p_d60fc823d1bce523",
+      "p_598e31129c8c9a51",
       "p_5b9922cfea81ca7f",
       "p_7cdfa7c4643b4aea",
       "p_cca86fe0bdd22b1d",
@@ -659,7 +862,7 @@
     ],
     "boundaryKind": "editorial-area",
     "reviewedAt": "2026-10-26",
-    "placeCount": 9
+    "placeCount": 11
   },
   "savedPlaceArchive": [],
   "inheritedWalkIds": [

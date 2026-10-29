@@ -8,10 +8,10 @@
       "address": "東京都台東区上野公園12-49",
       "group": "sights",
       "categoryLabel": "圖書館",
-      "caption": "影片中收錄的停留點",
+      "caption": "圖書館・東京都台東区上野公園12-49。",
       "descriptionParagraphs": [
-        "「國際兒童圖書館」出現在Hina Life in Japan的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都台東区上野公園12-49。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「國際兒童圖書館」位於本次上野公園收錄範圍，既有資料將這一站歸為圖書館。地址紀錄為 東京都台東区上野公園12-49。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -54,7 +54,16 @@
         "href": "/walks/ueno-park/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「國際兒童圖書館」位於本次上野公園收錄範圍，既有資料將這一站歸為圖書館。地址紀錄為 東京都台東区上野公園12-49。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_fc6a6f3ba0bbd2c7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nihonbashi--p_f74f107308fbd07d",
@@ -62,10 +71,10 @@
       "address": "東京都台東区上野公園4-59",
       "group": "food",
       "categoryLabel": "甘味處",
-      "caption": "影片中收錄的停留點",
+      "caption": "甘味處・東京都台東区上野公園4-59。",
       "descriptionParagraphs": [
-        "上野公園韻松亭在午餐與晚餐之間提供甘味，可品嘗餡蜜、抹茶與麩饅頭。",
-        "原始資料記錄的地址為 東京都台東区上野公園4-59。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「喫茶去（上野公園・韻松亭）」位於本次上野公園收錄範圍，既有資料將這一站歸為甘味處。地址紀錄為 東京都台東区上野公園4-59。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片與食べログ連結指向上野公園的喫茶去，與人形町快生軒不同；已依官方地址修正。甘味時段及等候方式請參考官網。",
       "coordinate": {
@@ -108,7 +117,16 @@
         "href": "/walks/ueno-park/"
       },
       "recommendation": null,
-      "displayOrder": 2
+      "displayOrder": 2,
+      "description": "「喫茶去（上野公園・韻松亭）」位於本次上野公園收錄範圍，既有資料將這一站歸為甘味處。地址紀錄為 東京都台東区上野公園4-59。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_f74f107308fbd07d"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

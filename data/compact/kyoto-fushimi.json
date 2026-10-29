@@ -570,10 +570,10 @@
       "address": "京都府京都市伏見区深草稲荷鳥居前22-15",
       "group": "food",
       "categoryLabel": "咖啡",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡・京都府京都市伏見区深草稲荷鳥居前22-15。",
       "descriptionParagraphs": [
-        "「ABOUT US COFFEE FUSHIMI INARI」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 京都府京都市伏見区深草稲荷鳥居前22-15。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「ABOUT US COFFEE FUSHIMI INARI」位於本次伏見稻荷・深草收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 京都府京都市伏見区深草稲荷鳥居前22-15。",
+        "來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "延伸地點：離原散策核心較遠，建議另外安排時間。",
       "coordinate": {
@@ -618,18 +618,27 @@
         "name": "伏見稻荷・深草",
         "href": "/walks/fushimi-inari/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「ABOUT US COFFEE FUSHIMI INARI」位於本次伏見稻荷・深草收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 京都府京都市伏見区深草稲荷鳥居前22-15。\n\n來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_049f187a6d1c8b33"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-fushimi--p_e0d5995132c391a6",
       "name": "伏見稻荷大社",
       "address": "京都府京都市伏見区深草薮之内町68",
       "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "categoryLabel": "神社",
+      "caption": "神社・京都府京都市伏見区深草薮之内町68。",
       "descriptionParagraphs": [
-        "「Fushimi Inari Taisha」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 京都府京都市伏見区深草薮之内町68。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「伏見稻荷大社」位於本次伏見稻荷・深草收錄範圍，既有資料將這一站歸為神社。地址紀錄為 京都府京都市伏見区深草薮之内町68。",
+        "來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "保留 Celia Ting 京都影片中的伏見稻荷紀錄；成田山出世稻荷為不同地點，已解除誤合併。",
       "coordinate": {
@@ -672,7 +681,16 @@
         "name": "伏見稻荷・深草",
         "href": "/walks/fushimi-inari/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「伏見稻荷大社」位於本次伏見稻荷・深草收錄範圍，既有資料將這一站歸為神社。地址紀錄為 京都府京都市伏見区深草薮之内町68。\n\n來源包括Celia Ting的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e0d5995132c391a6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "kyoto-fushimi--p_b7b5ba7c26c6e0c5",
@@ -680,10 +698,10 @@
       "address": "千葉県成田市成田1 成田山新勝寺境內",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・千葉県成田市成田1 成田山新勝寺境內。",
       "descriptionParagraphs": [
-        "成田山新勝寺境內的出世稻荷，位於大本堂左手階梯上方，供奉稻荷尊。",
-        "原始資料記錄的地址為 千葉県成田市成田1 成田山新勝寺境內。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「成田山出世稻荷」位於本次成田山表參道收錄範圍，既有資料將這一站歸為景點。地址紀錄為 千葉県成田市成田1 成田山新勝寺境內。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片「Shusse Inari Daimyojin」連結指向成田山出世稻荷；先前誤配為京都伏見稻荷，已拆分兩處紀錄並修正位置。地圖為新勝寺共同地址代表點，非此御堂入口。",
       "coordinate": {
@@ -728,7 +746,16 @@
         "name": "成田山表參道",
         "href": "/walks/narita/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「成田山出世稻荷」位於本次成田山表參道收錄範圍，既有資料將這一站歸為景點。地址紀錄為 千葉県成田市成田1 成田山新勝寺境內。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_b7b5ba7c26c6e0c5"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "inheritedWalkIds": []

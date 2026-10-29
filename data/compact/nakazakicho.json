@@ -1050,10 +1050,10 @@
       "address": "3-chōme-4-12 Toyosaki, Kita Ward, Osaka, 531-0072",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "影片餐點筆記：特製雞湯醬油拉麵+炙燒豬肉丼+叉燒三拼",
       "descriptionParagraphs": [
-        "「麦と麺助 新梅田中津店」出現在肥波開吃啦的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 3-chōme-4-12 Toyosaki, Kita Ward, Osaka, 531-0072。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "原影片在「麦と麺助 新梅田中津店」的餐點筆記提到特製雞湯醬油拉麵+炙燒豬肉丼+叉燒三拼。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -1094,18 +1094,27 @@
         "name": "中津・豐崎",
         "href": "/walks/nakatsu/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "原影片在「麦と麺助 新梅田中津店」的餐點筆記提到特製雞湯醬油拉麵+炙燒豬肉丼+叉燒三拼。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_655562a1ff37fac1"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nakazakicho--p_75420c1c9ffb6b12",
       "name": "梅田EST",
-      "address": "",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "address": "大阪府大阪市北区角田町3-25",
+      "group": "shops",
+      "categoryLabel": "購物商場",
+      "caption": "購物商場・大阪府大阪市北区角田町3-25。",
       "descriptionParagraphs": [
-        "「梅田EST」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料沒有完整地址；請先利用店名與影片內容確認分店。"
+        "「梅田EST」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物商場。地址紀錄為 大阪府大阪市北区角田町3-25。",
+        "來源包括老辣妹、Travel Seeker /夫婦の旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": null,
       "coordinate": {
@@ -1122,9 +1131,17 @@
           "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
           "time": "4:04",
           "seconds": 244
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "NMzbHSwVfSU",
+          "title": "超好買【梅田最完整購物地圖】大阪車站必買必去🇯🇵看完不再迷路｜大阪梅田購物攻略｜",
+          "url": "https://www.youtube.com/watch?v=NMzbHSwVfSU",
+          "time": "15:54",
+          "seconds": 954
         }
       ],
-      "official": null,
+      "official": "https://www.est-sc.com/access/",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
@@ -1146,18 +1163,38 @@
         "name": "梅田站・茶屋町",
         "href": "/walks/umeda/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「梅田EST」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物商場。地址紀錄為 大阪府大阪市北区角田町3-25。\n\n來源包括老辣妹、Travel Seeker /夫婦の旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_75420c1c9ffb6b12"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://www.est-sc.com/access/",
+            "checkedAt": "2026-10-28",
+            "result": "EST官方商場頁匹配大阪市北區角田町3-25；不同店鋪時段不統一，未設定通用時間。"
+          }
+        ],
+        "findings": "EST官方商場頁匹配大阪市北區角田町3-25；不同店鋪時段不統一，未設定通用時間。"
+      }
     },
     {
       "id": "nakazakicho--p_cdd7974d52ec6f06",
       "name": "HEP FIVE",
       "address": "大阪府大阪市北区角田町5-15",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "shops",
+      "categoryLabel": "購物商場",
+      "caption": "購物商場・大阪府大阪市北区角田町5-15。",
       "descriptionParagraphs": [
-        "「HEP FIVE」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区角田町5-15。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「HEP FIVE」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物商場。地址紀錄為 大阪府大阪市北区角田町5-15。",
+        "來源包括老辣妹、Travel Seeker /夫婦の旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "館內店家與觀覽車各有營業及休館安排，出發前請確認官方最新公告。",
       "coordinate": {
@@ -1174,6 +1211,14 @@
           "url": "https://www.youtube.com/watch?v=E_z5AGwMDSg",
           "time": "2:05",
           "seconds": 125
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "NMzbHSwVfSU",
+          "title": "超好買【梅田最完整購物地圖】大阪車站必買必去🇯🇵看完不再迷路｜大阪梅田購物攻略｜",
+          "url": "https://www.youtube.com/watch?v=NMzbHSwVfSU",
+          "time": "12:47",
+          "seconds": 767
         }
       ],
       "official": "https://www.hepfive.jp/",
@@ -1198,7 +1243,35 @@
         "name": "梅田站・茶屋町",
         "href": "/walks/umeda/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "visitingHours": {
+        "summary": "商店11–21・餐廳11–22:30・不定休",
+        "note": "HEP FIVE官方頁面所列；各店與設施時段不同，休館日請再查公告。",
+        "sourceUrl": "https://www.hepfive.jp/access",
+        "sourceLabel": "HEP FIVE官方資訊",
+        "checkedAt": "2026-10-28",
+        "status": "listed"
+      },
+      "description": "「HEP FIVE」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物商場。地址紀錄為 大阪府大阪市北区角田町5-15。\n\n來源包括老辣妹、Travel Seeker /夫婦の旅的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_cdd7974d52ec6f06"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://www.hepfive.jp/access",
+            "checkedAt": "2026-10-28",
+            "result": "店名地址匹配，商店11–21，餐廳11–22:30，不定期休館。"
+          }
+        ],
+        "findings": "HEP FIVE官方Access與既有大阪市北區角田町5-15匹配；商場、餐廳、遊樂及摩天輪分開列時段，不將單店時間當作全館。"
+      }
     },
     {
       "id": "nakazakicho--p_e078f000f87057e6",
@@ -1206,10 +1279,10 @@
       "address": "大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片中收錄的停留點",
+      "caption": "購物・大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内。",
       "descriptionParagraphs": [
-        "「タリーズコーヒー 阪急大阪梅田駅3F店」出現在老辣妹的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「タリーズコーヒー 阪急大阪梅田駅3F店」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物。地址紀錄為 大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "位於阪急大阪梅田站3樓閘內，須持有效乘車票或符合站方入場規定；請先確認入場方式。",
       "coordinate": {
@@ -1250,7 +1323,16 @@
         "name": "梅田站・茶屋町",
         "href": "/walks/umeda/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「タリーズコーヒー 阪急大阪梅田駅3F店」位於本次梅田站・茶屋町收錄範圍，既有資料將這一站歸為購物。地址紀錄為 大阪府大阪市北区芝田1-1-2 阪急大阪梅田駅3階改札内。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e078f000f87057e6"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
       "id": "nakazakicho--p_f243fdad43222637",
@@ -1258,21 +1340,17 @@
       "address": "東京都渋谷区神宮前6-1-9",
       "group": "shops",
       "categoryLabel": "角色商品",
-      "caption": "影片中收錄的停留點",
+      "caption": "角色商品・東京都渋谷区神宮前6-1-9。",
       "descriptionParagraphs": [
-        "原影片16:55介紹表參道上的キデイランド原宿店，收錄多層樓角色商品與玩具賣場。",
-        "原始資料記錄的地址為 東京都渋谷区神宮前6-1-9。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「キデイランド 原宿店」位於本次原宿・表參道收錄範圍，既有資料將這一站歸為角色商品。地址紀錄為 東京都渋谷区神宮前6-1-9。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "原影片描述欄地圖連結明確指向原宿店，已修正先前誤配的大阪梅田店。營業與樓層資訊請以官方公告為準。",
       "coordinate": {
         "lat": 35.667809,
         "lng": 139.706512,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%A5%9E%E5%AE%AE%E5%89%8D6-1-9",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "東京都渋谷区神宮前六丁目1番9號地址代表點，非指定入口。"
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
@@ -1288,6 +1366,7 @@
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
+          "p_e6d1c84ac8f70095",
           "p_f243fdad43222637"
         ],
         "status": "source-record",
@@ -1306,7 +1385,16 @@
         "name": "原宿・表參道",
         "href": "/walks/harajuku-omotesando/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「キデイランド 原宿店」位於本次原宿・表參道收錄範圍，既有資料將這一站歸為角色商品。地址紀錄為 東京都渋谷区神宮前6-1-9。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_e6d1c84ac8f70095"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "inheritedWalkIds": []

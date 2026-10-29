@@ -8,10 +8,10 @@
       "address": "東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F。",
       "descriptionParagraphs": [
-        "原影片介紹東京高輪的 TOOTH TOOTH BISTRO & CAFE，位於 NEWoMan 高輪 SOUTH 五樓。",
-        "原始資料記錄的地址為 東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「TOOTH TOOTH BISTRO & CAFE（高輪）」位於本次高輪Gateway收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "已依原影片指定餐廳與品牌官方地址修正，並非神戶港灣的 FISH IN THE FOREST。",
       "coordinate": {
@@ -54,7 +54,16 @@
         "href": "/walks/takanawa-gateway/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「TOOTH TOOTH BISTRO & CAFE（高輪）」位於本次高輪Gateway收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_16bf5a9d7743a0e1"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

@@ -3,49 +3,39 @@
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "places": [
     {
-      "name": "フロインドリーブ 生田店",
-      "address": "兵庫県神戸市中央区生田町4-6-15",
-      "group": "food",
-      "categoryLabel": "教會咖啡・烘焙",
-      "caption": "在舊教會的木樑與彩窗下，延長一段神戶午後。",
+      "name": "神戸北野ノスタ",
+      "address": "兵庫県神戸市中央区中山手通3-17-1",
+      "group": "shops",
+      "categoryLabel": "老校舍・食選物",
+      "caption": "走進白色老校舍，把神戶的食物帶回日常。",
       "descriptionParagraphs": [
-        "走過百年的神戶麵包與洋菓子店フロインドリーブ，將舊教會改為商店與咖啡空間。高高的木構屋頂、拱形側窗與彩色玻璃，保留了沃里茲建築的氣質，也讓日常的咖啡時間有了一種開闊而安靜的背景。",
-        "一樓可挑麵包與烘焙點心，二樓則能在原教會空間坐下。從北野洋館區往生田町方向走，正好用這一站串起建築與烘焙文化；若不入座，也能把一份餅乾或派帶回旅途。"
+        "北野ノスタ以舊北野小學校舍為舞台，集合咖啡、麵包、甜點與日本酒等飲食店。這棟 1931 年的校舍，在 2024 年改為以神戶飲食為主題的複合設施，保留老建築的端正尺度。",
+        "可先在這裡挑一份麵包或伴手禮，再往坡上的異人館走。每家店的風格不同，適合依當天胃口安排一站；這裡如今是北野ノスタ，與已結束營業的舊「北野工房のまち」不同。"
       ],
-      "note": "週三公休，遇國定假日改翌日；咖啡區16:00最後點餐、16:30閉店。",
-      "official": "https://h-freundlieb.com/pages/shop",
+      "note": "",
+      "official": "https://kobekitano-nosta.jp/",
       "extraSources": [
-        "https://h-freundlieb.com/",
-        "https://h-freundlieb.com/pages/cafe"
+        "https://kobekitano-nosta.jp/access/",
+        "https://www.feel-kobe.jp/news/29342/"
       ],
-      "photoPage": "https://h-freundlieb.com/",
       "coordinate": {
-        "lat": 34.700798,
-        "lng": 135.194992,
-        "provider": "gsi",
-        "label": "日本國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%94%9F%E7%94%B0%E7%94%BA%E5%9B%9B%E4%B8%81%E7%9B%AE%EF%BC%96%E7%95%AA%EF%BC%91%EF%BC%95%E5%8F%B7",
-        "license": "国土地理院コンテンツ利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+        "lat": 34.69558389090909,
+        "lng": 135.1871731090909,
+        "url": "https://www.openstreetmap.org/way/319806975",
+        "precisionNote": "OSM仍標舊名北野工房のまち，採同址舊北野小學校舍建築中心；現營運名稱及地址由官方北野ノスタ核對。",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright"
       },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "a7EScTAuodo",
-          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1613s",
-          "time": "26:53",
-          "seconds": 1613
-        }
-      ],
-      "id": "kobe-kitano--freundlieb",
+      "id": "kobe-kitano--nosta",
       "order": 1,
       "verifiedAt": "2026-10-24",
-      "description": "走過百年的神戶麵包與洋菓子店フロインドリーブ，將舊教會改為商店與咖啡空間。高高的木構屋頂、拱形側窗與彩色玻璃，保留了沃里茲建築的氣質，也讓日常的咖啡時間有了一種開闊而安靜的背景。\n\n一樓可挑麵包與烘焙點心，二樓則能在原教會空間坐下。從北野洋館區往生田町方向走，正好用這一站串起建築與烘焙文化；若不入座，也能把一份餅乾或派帶回旅途。",
+      "sources": [],
+      "description": "北野ノスタ以舊北野小學校舍為舞台，集合咖啡、麵包、甜點與日本酒等飲食店。這棟 1931 年的校舍，在 2024 年改為以神戶飲食為主題的複合設施，保留老建築的端正尺度。\n\n可先在這裡挑一份麵包或伴手禮，再往坡上的異人館走。每家店的風格不同，適合依當天胃口安排一站；這裡如今是北野ノスタ，與已結束營業的舊「北野工房のまち」不同。",
       "illustration": {
-        "image": "/art/walks/kobe-kitano/freundlieb.webp",
-        "alt": "フロインドリーブ 生田店的日系水彩插圖"
+        "image": "/art/walks/kobe-kitano/nosta.webp",
+        "alt": "神戸北野ノスタ，依實景照片繪製的日系水彩插圖"
       },
       "recommendation": null,
       "canonicalArea": {
@@ -56,80 +46,110 @@
       "displayOrder": 1
     },
     {
-      "name": "ベンの家",
-      "address": "兵庫県神戸市中央区北野町2-3-21",
-      "group": "sights",
-      "categoryLabel": "洋館・收藏",
-      "caption": "沿紅磚圍牆，看一間收藏氣息濃厚的洋館。",
+      "name": "北野坂にしむら珈琲店",
+      "address": "兵庫県神戸市中央区山本通2-1-20",
+      "group": "food",
+      "categoryLabel": "老派咖啡",
+      "caption": "爬山之前，先在常春藤與紅磚之間喝杯咖啡。",
       "descriptionParagraphs": [
-        "班之家以白牆、深色窗框與紅磚圍牆接上北野街道，館內則以冒險收藏為想像主題。動物標本與古董物件，使住宅空間有別於其他以家具或美術為主的洋館。",
-        "適合對標本與收藏陳設有興趣的人，入館前也可先看展示取向再決定。若更喜歡建築，沿公共道路觀察磚牆、窗與屋簷也很有趣。"
+        "北野坂にしむら珈琲店在1974年以會員制喫茶店開門，1995年阪神大震災後向一般客人開放。爬滿綠意的紅磚外觀，與室內仍保留的沉靜氣氛，讓一杯咖啡也像是走進北野的另一段歷史。",
+        "一樓是喫茶，二樓另設餐廳，適合在向北野異人館上坡之前，先留一段坐下來的時間。從熱鬧街道轉進綠蔭與磚牆，感受老派咖啡館的步調，再把散步交給山坡上的洋館。"
       ],
-      "note": "館內有動物標本展示，請依個人喜好選擇是否入館。",
-      "official": "https://www.kobeijinkan.com/ijinkan_list/ben",
+      "note": "每月最後一個週一公休，部分月份另有調整。",
+      "official": "https://kobe-nishimura.jp/shop/kitanozaka.html",
+      "extraSources": [],
+      "photoPage": "https://kobe-nishimura.jp/shop/kitanozaka.html",
       "coordinate": {
-        "lat": 34.70089932857143,
-        "lng": 135.1915254857143,
-        "url": "https://www.openstreetmap.org/way/302852204",
+        "lat": 34.6983344,
+        "lng": 135.1910854,
+        "url": "https://www.openstreetmap.org/node/5304129121",
         "provider": "osm",
         "label": "OpenStreetMap 地點代表點",
         "license": "ODbL 1.0",
         "licenseUrl": "https://www.openstreetmap.org/copyright",
         "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
       },
-      "id": "kobe-kitano--ben",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=204s",
+          "time": "3:24",
+          "seconds": 204
+        }
+      ],
+      "id": "kobe-kitano--nishimura",
       "order": 2,
       "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "班之家以白牆、深色窗框與紅磚圍牆接上北野街道，館內則以冒險收藏為想像主題。動物標本與古董物件，使住宅空間有別於其他以家具或美術為主的洋館。\n\n適合對標本與收藏陳設有興趣的人，入館前也可先看展示取向再決定。若更喜歡建築，沿公共道路觀察磚牆、窗與屋簷也很有趣。",
+      "description": "北野坂にしむら珈琲店在1974年以會員制喫茶店開門，1995年阪神大震災後向一般客人開放。爬滿綠意的紅磚外觀，與室內仍保留的沉靜氣氛，讓一杯咖啡也像是走進北野的另一段歷史。\n\n一樓是喫茶，二樓另設餐廳，適合在向北野異人館上坡之前，先留一段坐下來的時間。從熱鬧街道轉進綠蔭與磚牆，感受老派咖啡館的步調，再把散步交給山坡上的洋館。",
       "illustration": {
-        "image": "/art/walks/kobe-kitano/ben.webp",
-        "alt": "ベンの家，依實照繪製的日系水彩插圖"
+        "image": "/art/walks/kobe-kitano/nishimura.webp",
+        "alt": "北野坂にしむら珈琲店的日系水彩插圖"
       },
-      "recommendation": null,
+      "recommendation": "在北野坂坐下喝杯咖啡。",
       "canonicalArea": {
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kobe-kazamidori.com/",
+          "https://www.kobeijinkan.com/ijinkan_list/line",
+          "https://kobe-nishimura.jp/shop/kitanozaka.html"
+        ]
       },
       "displayOrder": 2
     },
     {
-      "name": "洋館長屋（仏蘭西館）",
-      "address": "兵庫県神戸市中央区北野町2-3-18",
-      "group": "sights",
-      "categoryLabel": "對稱洋館",
-      "caption": "一座左右對稱的長屋，也能有洋館的表情。",
+      "name": "スターバックス 神戸北野異人館店",
+      "address": "兵庫県神戸市中央区北野町3-1-31 北野物語館",
+      "group": "food",
+      "categoryLabel": "洋館咖啡",
+      "caption": "在白牆綠窗的洋館裡，留一杯咖啡的時間。",
       "descriptionParagraphs": [
-        "洋館長屋原是供外國人使用的雙戶住宅，正面以入口向左右對稱展開。木造下見板與連續窗戶，把長屋的生活形式轉為北野的西式街景。",
-        "館內以法國美術與家具為展示重點，也有讓人聯想到遠洋旅程的老行李箱。喜歡設計與物件的人，可把這裡與旁邊的英國館交錯選逛。"
+        "這間星巴克位於北野物語館，一座原建於 1907 年、後來移築復原的木造洋館。白色下見板與綠色窗框之外，館內也保留建具、地板與各房間不同的陳設。",
+        "可以把咖啡休息放在往異人館的上坡途中。選擇喜歡的房間坐下，感受住宅尺度與一般街邊咖啡店的差異；逛完後再慢慢走向北野町廣場。"
       ],
       "note": "",
-      "official": "https://www.kobeijinkan.com/ijinkan_list/france",
+      "official": "https://store.starbucks.co.jp/detail-940/",
+      "extraSources": [
+        "https://www.starbucks.co.jp/press_release/pr2008-391.php"
+      ],
       "coordinate": {
-        "lat": 34.700851924999995,
-        "lng": 135.191340545,
-        "url": "https://www.openstreetmap.org/way/302852207",
+        "lat": 34.6998457,
+        "lng": 135.1902766,
+        "url": "https://www.openstreetmap.org/node/13227106669",
         "provider": "osm",
         "label": "OpenStreetMap 地點代表點",
         "license": "ODbL 1.0",
         "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
       },
-      "id": "kobe-kitano--france",
+      "id": "kobe-kitano--starbucks",
       "order": 3,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "洋館長屋原是供外國人使用的雙戶住宅，正面以入口向左右對稱展開。木造下見板與連續窗戶，把長屋的生活形式轉為北野的西式街景。\n\n館內以法國美術與家具為展示重點，也有讓人聯想到遠洋旅程的老行李箱。喜歡設計與物件的人，可把這裡與旁邊的英國館交錯選逛。",
+      "description": "這間星巴克位於北野物語館，一座原建於 1907 年、後來移築復原的木造洋館。白色下見板與綠色窗框之外，館內也保留建具、地板與各房間不同的陳設。\n\n可以把咖啡休息放在往異人館的上坡途中。選擇喜歡的房間坐下，感受住宅尺度與一般街邊咖啡店的差異；逛完後再慢慢走向北野町廣場。",
       "illustration": {
-        "image": "/art/walks/kobe-kitano/france.webp",
-        "alt": "洋館長屋（仏蘭西館），依實照繪製的日系水彩插圖"
+        "image": "/art/walks/kobe-kitano/starbucks.webp",
+        "alt": "スターバックス 神戸北野異人館店，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": null,
+      "recommendation": "沿坡慢慢走到木造洋館咖啡店，在回三宮前歇一會兒。",
       "canonicalArea": {
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kobe.lg.jp/a21651/kanko/bunka/bunkashisetsu/foreigner/sub3.html",
+          "https://www.kobeijinkan.com/ijinkan_list/england",
+          "https://store.starbucks.co.jp/detail-940/"
+        ]
       },
       "displayOrder": 3
     },
@@ -190,6 +210,151 @@
       "displayOrder": 4
     },
     {
+      "name": "洋館長屋（仏蘭西館）",
+      "address": "兵庫県神戸市中央区北野町2-3-18",
+      "group": "sights",
+      "categoryLabel": "對稱洋館",
+      "caption": "一座左右對稱的長屋，也能有洋館的表情。",
+      "descriptionParagraphs": [
+        "洋館長屋原是供外國人使用的雙戶住宅，正面以入口向左右對稱展開。木造下見板與連續窗戶，把長屋的生活形式轉為北野的西式街景。",
+        "館內以法國美術與家具為展示重點，也有讓人聯想到遠洋旅程的老行李箱。喜歡設計與物件的人，可把這裡與旁邊的英國館交錯選逛。"
+      ],
+      "note": "",
+      "official": "https://www.kobeijinkan.com/ijinkan_list/france",
+      "coordinate": {
+        "lat": 34.700851924999995,
+        "lng": 135.191340545,
+        "url": "https://www.openstreetmap.org/way/302852207",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "kobe-kitano--france",
+      "order": 5,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "洋館長屋原是供外國人使用的雙戶住宅，正面以入口向左右對稱展開。木造下見板與連續窗戶，把長屋的生活形式轉為北野的西式街景。\n\n館內以法國美術與家具為展示重點，也有讓人聯想到遠洋旅程的老行李箱。喜歡設計與物件的人，可把這裡與旁邊的英國館交錯選逛。",
+      "illustration": {
+        "image": "/art/walks/kobe-kitano/france.webp",
+        "alt": "洋館長屋（仏蘭西館），依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-kitano",
+        "name": "神戶北野",
+        "href": "/walks/kobe-kitano/"
+      },
+      "displayOrder": 5
+    },
+    {
+      "name": "ベンの家",
+      "address": "兵庫県神戸市中央区北野町2-3-21",
+      "group": "sights",
+      "categoryLabel": "洋館・收藏",
+      "caption": "沿紅磚圍牆，看一間收藏氣息濃厚的洋館。",
+      "descriptionParagraphs": [
+        "班之家以白牆、深色窗框與紅磚圍牆接上北野街道，館內則以冒險收藏為想像主題。動物標本與古董物件，使住宅空間有別於其他以家具或美術為主的洋館。",
+        "適合對標本與收藏陳設有興趣的人，入館前也可先看展示取向再決定。若更喜歡建築，沿公共道路觀察磚牆、窗與屋簷也很有趣。"
+      ],
+      "note": "館內有動物標本展示，請依個人喜好選擇是否入館。",
+      "official": "https://www.kobeijinkan.com/ijinkan_list/ben",
+      "coordinate": {
+        "lat": 34.70089932857143,
+        "lng": 135.1915254857143,
+        "url": "https://www.openstreetmap.org/way/302852204",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "kobe-kitano--ben",
+      "order": 6,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "班之家以白牆、深色窗框與紅磚圍牆接上北野街道，館內則以冒險收藏為想像主題。動物標本與古董物件，使住宅空間有別於其他以家具或美術為主的洋館。\n\n適合對標本與收藏陳設有興趣的人，入館前也可先看展示取向再決定。若更喜歡建築，沿公共道路觀察磚牆、窗與屋簷也很有趣。",
+      "illustration": {
+        "image": "/art/walks/kobe-kitano/ben.webp",
+        "alt": "ベンの家，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-kitano",
+        "name": "神戶北野",
+        "href": "/walks/kobe-kitano/"
+      },
+      "displayOrder": 6
+    },
+    {
+      "id": "kobe-kitano--p_d6ca5440e33071d9",
+      "name": "神戸北野美術館",
+      "address": "兵庫県神戸市中央区北野町2-9-6",
+      "group": "sights",
+      "categoryLabel": "美術館・歷史建築",
+      "caption": "白色異人館裡的展覽與咖啡空間",
+      "descriptionParagraphs": [
+        "神戶北野美術館運用歷史建築作為畫廊、展覽與咖啡空間。白色外牆、紅磚圍牆與庭園構成北野街角景色；實際參觀內容依當期展覽與場地使用安排。"
+      ],
+      "note": "官方有2026年10月近期展覽公告；開館與入館安排依當期展覽及包場而異，請出發前確認。",
+      "coordinate": {
+        "lat": 34.701084,
+        "lng": 135.191528,
+        "provider": "gsi-exact-address",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%87%8E%E7%94%BA2-9-6",
+        "checkedAt": "2026-10-27",
+        "precision": "address",
+        "note": "完整門牌匹配的地址代表點，非實測店家入口；不代表目前仍在營業。",
+        "shopUrl": "https://www.kitano-museum.com/",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "attribution": "出典：国土地理院ウェブサイト。Minagogo 依來源門牌選取並轉換格式。",
+        "precisionNote": "完整門牌匹配的地址代表點，非實測店家入口；不代表目前仍在營業。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "2EAZkJ1eD-4",
+          "title": "第一次玩神戶就喜歡上🌞｜連逛5棟北野異人館、超濃郁六甲牧場霜淇淋、百年洋館×港邊超美星巴克、志玲姊姊推薦神戶牛、超過1800年生田神社｜DJI Pocket 4 × Kobe VLOG",
+          "url": "https://www.youtube.com/watch?v=2EAZkJ1eD-4"
+        }
+      ],
+      "official": "https://www.kitano-museum.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_d6ca5440e33071d9"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E5%8C%97%E9%87%8E%E7%BE%8E%E8%A1%93%E9%A4%A8+%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%87%8E%E7%94%BA2-10-24"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.kitano-museum.com/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-kitano--p_d6ca5440e33071d9.webp",
+        "alt": "神戸北野美術館的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "kobe-kitano",
+        "name": "神戶北野",
+        "href": "/walks/kobe-kitano/"
+      },
+      "recommendation": null,
+      "displayOrder": 7
+    },
+    {
       "name": "ラインの館",
       "address": "兵庫県神戸市中央区北野町2-10-24",
       "group": "sights",
@@ -212,7 +377,7 @@
         "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
       },
       "id": "kobe-kitano--line",
-      "order": 5,
+      "order": 8,
       "verifiedAt": "2026-10-24",
       "sources": [],
       "description": "萊茵館以木造兩層樓、開放陽台、凸窗與百葉窗，承接明治時期異人館的建築語彙。庭院的蘇鐵與楠樹，在屋前形成舒服的綠蔭。\n\n免費入館，適合把它安排為觀察建築細節的一站。先看外牆與窗的節奏，再看看室內展示，與鄰近風見雞、萌黃兩館形成不同材料的比較。",
@@ -234,257 +399,171 @@
           "https://kobe-nishimura.jp/shop/kitanozaka.html"
         ]
       },
-      "displayOrder": 5
-    },
-    {
-      "name": "香りの家オランダ館",
-      "address": "兵庫県神戸市中央区北野町2-15-10",
-      "group": "sights",
-      "categoryLabel": "香氣洋館",
-      "caption": "在藍窗與綠蔭之間，讓散步多一點香氣。",
-      "descriptionParagraphs": [
-        "香氣之家荷蘭館使用帶有懷舊氣息的兩層木造洋館，以荷蘭與香水為主題。奶油白外牆、藍色百葉窗與綠樹，讓門前小院有容易記住的顏色。",
-        "除了參觀館內，也能了解店家提供的原創香水製作服務。若想參加體驗，先依官方方式安排時間，讓這一站成為慢一點的停留。"
-      ],
-      "note": "",
-      "official": "https://www.kobeijinkan.com/ijinkan_list/holanda_kaori",
-      "coordinate": {
-        "lat": 34.70221741111111,
-        "lng": 135.1906340111111,
-        "url": "https://www.openstreetmap.org/way/302852229",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "id": "kobe-kitano--holanda_kaori",
-      "order": 6,
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "a7EScTAuodo",
-          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1835s",
-          "time": "30:35",
-          "seconds": 1835
-        }
-      ],
-      "description": "香氣之家荷蘭館使用帶有懷舊氣息的兩層木造洋館，以荷蘭與香水為主題。奶油白外牆、藍色百葉窗與綠樹，讓門前小院有容易記住的顏色。\n\n除了參觀館內，也能了解店家提供的原創香水製作服務。若想參加體驗，先依官方方式安排時間，讓這一站成為慢一點的停留。",
-      "illustration": {
-        "image": "/art/walks/kobe-kitano/holanda_kaori.webp",
-        "alt": "香りの家オランダ館，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null,
-      "canonicalArea": {
-        "id": "kobe-kitano",
-        "name": "神戶北野",
-        "href": "/walks/kobe-kitano/"
-      },
-      "displayOrder": 6
-    },
-    {
-      "name": "デンマーク館",
-      "address": "兵庫県神戸市中央区北野町2-15-12",
-      "group": "sights",
-      "categoryLabel": "北歐主題館",
-      "caption": "從童話與船的模型，讀北歐文化的一頁。",
-      "descriptionParagraphs": [
-        "丹麥館以北歐文化為主題，透過維京船複製模型與安徒生書房等展示，介紹航海與童話的世界。拱形入口與童話人物立牌，讓門前有較輕巧的氣氛。",
-        "適合對文化主題展示有興趣的人，與旁邊以音樂或香氣為主的館舍可自由搭配。此處採門票入館，參觀時留意模型與物件說明，比只拍門口更有內容。"
-      ],
-      "note": "",
-      "official": "https://www.kobeijinkan.com/ijinkan_list/denmark",
-      "coordinate": {
-        "lat": 34.702344675999996,
-        "lng": 135.19057610799996,
-        "url": "https://www.openstreetmap.org/way/302852212",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "id": "kobe-kitano--denmark",
-      "order": 7,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "丹麥館以北歐文化為主題，透過維京船複製模型與安徒生書房等展示，介紹航海與童話的世界。拱形入口與童話人物立牌，讓門前有較輕巧的氣氛。\n\n適合對文化主題展示有興趣的人，與旁邊以音樂或香氣為主的館舍可自由搭配。此處採門票入館，參觀時留意模型與物件說明，比只拍門口更有內容。",
-      "illustration": {
-        "image": "/art/walks/kobe-kitano/denmark.webp",
-        "alt": "デンマーク館，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null,
-      "canonicalArea": {
-        "id": "kobe-kitano",
-        "name": "神戶北野",
-        "href": "/walks/kobe-kitano/"
-      },
-      "displayOrder": 7
-    },
-    {
-      "name": "ウィーン・オーストリアの家",
-      "address": "兵庫県神戸市中央区北野町2-15-18",
-      "group": "sights",
-      "categoryLabel": "音樂主題館",
-      "caption": "循著音樂的線索，換一種觀看北野的方式。",
-      "descriptionParagraphs": [
-        "維也納・奧地利之家以莫札特為主題，介紹奧地利文化與相關物件，並以十八至十九世紀貴族住宅為展示想像。館內可見古鋼琴等複製展示。",
-        "這裡屬於文化主題館，適合喜歡音樂故事的人。與附近荷蘭館、丹麥館的主題各不相同，可依興趣挑選，不必在同一天全部參觀。"
-      ],
-      "note": "",
-      "official": "https://www.kobeijinkan.com/ijinkan_list/wien",
-      "coordinate": {
-        "lat": 34.70239778888889,
-        "lng": 135.19077483333334,
-        "url": "https://www.openstreetmap.org/way/302852197",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
-      },
-      "id": "kobe-kitano--wien",
-      "order": 8,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "維也納・奧地利之家以莫札特為主題，介紹奧地利文化與相關物件，並以十八至十九世紀貴族住宅為展示想像。館內可見古鋼琴等複製展示。\n\n這裡屬於文化主題館，適合喜歡音樂故事的人。與附近荷蘭館、丹麥館的主題各不相同，可依興趣挑選，不必在同一天全部參觀。",
-      "illustration": {
-        "image": "/art/walks/kobe-kitano/wien.webp",
-        "alt": "ウィーン・オーストリアの家，依實照繪製的日系水彩插圖"
-      },
-      "recommendation": null,
-      "canonicalArea": {
-        "id": "kobe-kitano",
-        "name": "神戶北野",
-        "href": "/walks/kobe-kitano/"
-      },
       "displayOrder": 8
     },
     {
-      "name": "うろこの家・展望ギャラリー",
-      "address": "兵庫県神戸市中央区北野町2-20-4",
-      "group": "sights",
-      "categoryLabel": "魚鱗洋館",
-      "caption": "沿坡道向上，看天然石片疊出的魚鱗外牆。",
+      "id": "kobe-kitano--p_3d3fed009d352af6",
+      "name": "神戸六甲牧場 北野本店",
+      "address": "兵庫県神戸市中央区北野町3丁目11-4",
+      "group": "food",
+      "categoryLabel": "霜淇淋",
+      "caption": "北野坡道間的霜淇淋小歇",
       "descriptionParagraphs": [
-        "魚鱗之家因天然板岩外牆像魚鱗而得名，圓塔與細密石片是容易辨認的外觀。這是神戶較早公開的異人館之一，西側另有展望畫廊。",
-        "入內可把歷史住宅與美術展示一起看，也能欣賞山側的城市視野。位置在坡上，適合選好一兩館慢慢參觀，避免為了集滿景點不停趕路。"
+        "神戶六甲牧場北野本店是品牌在北野町的旗艦店與製造直售處，提供霜淇淋、飲品與自家製甜點。適合在異人館街散步時短暫休息，與山上的六甲山牧場是不同地點。"
       ],
       "note": "",
-      "official": "https://www.kobeijinkan.com/ijinkan_list/uroko",
       "coordinate": {
-        "lat": 34.70297597777778,
-        "lng": 135.19067274444444,
-        "url": "https://www.openstreetmap.org/way/302852195",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+        "lat": 34.700974,
+        "lng": 135.189941,
+        "provider": "gsi-exact-address",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%87%8E%E7%94%BA3%E4%B8%81%E7%9B%AE11-4",
+        "checkedAt": "2026-10-27",
+        "precision": "address",
+        "note": "完整門牌匹配的地址代表點，非實測店家入口；不代表目前仍在營業。",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "attribution": "出典：国土地理院ウェブサイト。Minagogo 依來源門牌選取並轉換格式。",
+        "precisionNote": "完整門牌匹配的地址代表點，非實測店家入口；不代表目前仍在營業。"
       },
-      "id": "kobe-kitano--uroko",
-      "order": 9,
-      "verifiedAt": "2026-10-24",
       "sources": [
         {
-          "channel": "老辣妹",
-          "videoId": "a7EScTAuodo",
-          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1715s",
-          "time": "28:35",
-          "seconds": 1715
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "2EAZkJ1eD-4",
+          "title": "第一次玩神戶就喜歡上🌞｜連逛5棟北野異人館、超濃郁六甲牧場霜淇淋、百年洋館×港邊超美星巴克、志玲姊姊推薦神戶牛、超過1800年生田神社｜DJI Pocket 4 × Kobe VLOG",
+          "url": "https://www.youtube.com/watch?v=2EAZkJ1eD-4",
+          "time": "8:36",
+          "seconds": 516
         }
       ],
-      "description": "魚鱗之家因天然板岩外牆像魚鱗而得名，圓塔與細密石片是容易辨認的外觀。這是神戶較早公開的異人館之一，西側另有展望畫廊。\n\n入內可把歷史住宅與美術展示一起看，也能欣賞山側的城市視野。位置在坡上，適合選好一兩館慢慢參觀，避免為了集滿景點不停趕路。",
-      "illustration": {
-        "image": "/art/walks/kobe-kitano/uroko.webp",
-        "alt": "うろこの家・展望ギャラリー，依實照繪製的日系水彩插圖"
+      "official": "https://www.rokkobokujyo.com/shops/honten",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_3d3fed009d352af6"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B6%E5%85%AD%E7%94%B2%E7%89%A7%E5%A0%B4+%E5%8C%97%E9%87%8E%E6%9C%AC%E5%BA%97+%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%87%8E%E7%94%BA3%E4%B8%81%E7%9B%AE11-4"
       },
-      "recommendation": null,
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.rokkobokujyo.com/shops/honten",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-kitano--p_3d3fed009d352af6.webp",
+        "alt": "神戸六甲牧場 北野本店的日系水彩插圖"
+      },
+      "order": 9,
       "canonicalArea": {
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
       },
+      "recommendation": null,
       "displayOrder": 9
     },
     {
-      "name": "山手八番館",
-      "address": "兵庫県神戸市中央区北野町2-20-7",
+      "name": "風見鶏の館",
+      "address": "兵庫県神戸市中央区北野町3-13-3",
       "group": "sights",
-      "categoryLabel": "洋館・雕塑",
-      "caption": "看弧形木構與磚牆，再走進雕塑的房間。",
+      "categoryLabel": "紅磚異人館",
+      "caption": "抬頭看尖塔上的風向雞，讀北野的洋館風景。",
       "descriptionParagraphs": [
-        "山手八番館是模仿都鐸式樣的洋館，外觀以磚牆、弧形木構與連續凸窗形成鮮明表情。館內以東西方雕塑等美術品為主要展示。",
-        "除了被稱為「薩圖爾努斯之椅」的陳設，也可留意入口與窗邊的建築細節。此處採門票參觀，在往魚鱗之家的坡道上可依喜好擇館停留。"
+        "風見雞之館是德國貿易商湯瑪斯家族的舊宅，約建於 1909 年。紅磚、木構立面與尖塔上的風向雞，讓它成為北野街景裡容易辨認的一座洋館。",
+        "建物在耐震工程後已於 2025 年重新開放。除了外觀，也可入內看看各房間的燈飾與彩繪玻璃；散步途中將參觀與休息分開安排，比匆忙拍照更能感受建築。"
       ],
-      "note": "",
-      "official": "https://www.kobeijinkan.com/ijinkan_list/yamate",
+      "note": "付費參觀；每月第三個週二休館，遇假日順延。館內外有階梯與高低差，北野街區也有上下坡。",
+      "official": "https://kobe-kazamidori.com/",
+      "extraSources": [
+        "https://kobe-kazamidori.com/guide/",
+        "https://www.city.kobe.lg.jp/a10019/810320483784.html"
+      ],
       "coordinate": {
-        "lat": 34.70303811428571,
-        "lng": 135.19101954285713,
-        "url": "https://www.openstreetmap.org/way/302852216",
+        "lat": 34.701375794117645,
+        "lng": 135.1894888470588,
+        "url": "https://www.openstreetmap.org/way/302852228",
         "provider": "osm",
         "label": "OpenStreetMap 地點代表點",
         "license": "ODbL 1.0",
         "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
       },
-      "id": "kobe-kitano--yamate",
+      "id": "kobe-kitano--weathercock",
       "order": 10,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "山手八番館是模仿都鐸式樣的洋館，外觀以磚牆、弧形木構與連續凸窗形成鮮明表情。館內以東西方雕塑等美術品為主要展示。\n\n除了被稱為「薩圖爾努斯之椅」的陳設，也可留意入口與窗邊的建築細節。此處採門票參觀，在往魚鱗之家的坡道上可依喜好擇館停留。",
+      "description": "風見雞之館是德國貿易商湯瑪斯家族的舊宅，約建於 1909 年。紅磚、木構立面與尖塔上的風向雞，讓它成為北野街景裡容易辨認的一座洋館。\n\n建物在耐震工程後已於 2025 年重新開放。除了外觀，也可入內看看各房間的燈飾與彩繪玻璃；散步途中將參觀與休息分開安排，比匆忙拍照更能感受建築。",
       "illustration": {
-        "image": "/art/walks/kobe-kitano/yamate.webp",
-        "alt": "山手八番館，依實照繪製的日系水彩插圖"
+        "image": "/art/walks/kobe-kitano/weathercock.webp",
+        "alt": "風見鶏の館，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": null,
+      "recommendation": "欣賞紅磚建築外觀與廣場。",
       "canonicalArea": {
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kobe-kazamidori.com/",
+          "https://www.kobeijinkan.com/ijinkan_list/line",
+          "https://kobe-nishimura.jp/shop/kitanozaka.html"
+        ]
       },
       "displayOrder": 10
     },
     {
-      "name": "北野外国人倶楽部",
-      "address": "兵庫県神戸市中央区北野町2-18-2",
+      "name": "萌黄の館",
+      "address": "兵庫県神戸市中央区北野町3-10-11",
       "group": "sights",
-      "categoryLabel": "洋館生活展示",
-      "caption": "從獅像入口，走進昔日洋館的生活場景。",
+      "categoryLabel": "綠色洋館",
+      "caption": "看一扇凸窗、一段陽台，讓洋館細節慢慢浮現。",
       "descriptionParagraphs": [
-        "北野外國人俱樂部以舊邸宅空間重現洋館生活，半木構立面、兩座樓梯與厚重家具，構成觀看住宅文化的線索。餐室與音樂室等空間各有陳設重點。",
-        "這一站適合喜歡室內裝飾與家具的人，能與只看立面的散步形成變化。入館與部分體驗各有安排，挑選自己有興趣的項目即可。"
+        "萌黃之館建於 1903 年，曾是美國駐神戶總領事 Hunter Sharp 的住宅。兩層木造洋館以淡綠下見板、不同形式的凸窗與磚煙囪形成細緻立面，周圍楠樹讓建築多了一層綠意。",
+        "與紅磚的風見雞之館相鄰，這裡適合比較兩座洋館的材料與空間。入內可留意玄關、樓梯與復原的陽台，也能從小尺度細節認識當時的居住方式。"
       ],
-      "note": "",
-      "official": "https://www.kobeijinkan.com/ijinkan_list/foreignclub",
+      "note": "付費參觀；二月第三個週三及週四休館。",
+      "official": "https://www.city.kobe.lg.jp/a21651/kanko/bunka/bunkashisetsu/foreigner/sub3.html",
       "coordinate": {
-        "lat": 34.703080033333336,
-        "lng": 135.19135716666668,
-        "url": "https://www.openstreetmap.org/way/302852208",
+        "lat": 34.70102489090909,
+        "lng": 135.1892488090909,
+        "url": "https://www.openstreetmap.org/way/302852226",
         "provider": "osm",
         "label": "OpenStreetMap 地點代表點",
         "license": "ODbL 1.0",
         "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
       },
-      "id": "kobe-kitano--foreignclub",
+      "id": "kobe-kitano--moegi",
       "order": 11,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "北野外國人俱樂部以舊邸宅空間重現洋館生活，半木構立面、兩座樓梯與厚重家具，構成觀看住宅文化的線索。餐室與音樂室等空間各有陳設重點。\n\n這一站適合喜歡室內裝飾與家具的人，能與只看立面的散步形成變化。入館與部分體驗各有安排，挑選自己有興趣的項目即可。",
+      "description": "萌黃之館建於 1903 年，曾是美國駐神戶總領事 Hunter Sharp 的住宅。兩層木造洋館以淡綠下見板、不同形式的凸窗與磚煙囪形成細緻立面，周圍楠樹讓建築多了一層綠意。\n\n與紅磚的風見雞之館相鄰，這裡適合比較兩座洋館的材料與空間。入內可留意玄關、樓梯與復原的陽台，也能從小尺度細節認識當時的居住方式。",
       "illustration": {
-        "image": "/art/walks/kobe-kitano/foreignclub.webp",
-        "alt": "北野外国人倶楽部，依實照繪製的日系水彩插圖"
+        "image": "/art/walks/kobe-kitano/moegi.webp",
+        "alt": "萌黄の館，依實景照片繪製的日系水彩插圖"
       },
-      "recommendation": null,
+      "recommendation": "留意淡綠外牆、凸窗與陽台；可把這裡選為今天唯一深入的洋館。",
       "canonicalArea": {
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://www.city.kobe.lg.jp/a21651/kanko/bunka/bunkashisetsu/foreigner/sub3.html",
+          "https://www.kobeijinkan.com/ijinkan_list/england",
+          "https://store.starbucks.co.jp/detail-940/"
+        ]
       },
       "displayOrder": 11
     },
@@ -531,245 +610,209 @@
       "displayOrder": 12
     },
     {
-      "name": "風見鶏の館",
-      "address": "兵庫県神戸市中央区北野町3-13-3",
+      "name": "香りの家オランダ館",
+      "address": "兵庫県神戸市中央区北野町2-15-10",
       "group": "sights",
-      "categoryLabel": "紅磚異人館",
-      "caption": "抬頭看尖塔上的風向雞，讀北野的洋館風景。",
+      "categoryLabel": "香氣洋館",
+      "caption": "在藍窗與綠蔭之間，讓散步多一點香氣。",
       "descriptionParagraphs": [
-        "風見雞之館是德國貿易商湯瑪斯家族的舊宅，約建於 1909 年。紅磚、木構立面與尖塔上的風向雞，讓它成為北野街景裡容易辨認的一座洋館。",
-        "建物在耐震工程後已於 2025 年重新開放。除了外觀，也可入內看看各房間的燈飾與彩繪玻璃；散步途中將參觀與休息分開安排，比匆忙拍照更能感受建築。"
-      ],
-      "note": "付費參觀；每月第三個週二休館，遇假日順延。館內外有階梯與高低差，北野街區也有上下坡。",
-      "official": "https://kobe-kazamidori.com/",
-      "extraSources": [
-        "https://kobe-kazamidori.com/guide/",
-        "https://www.city.kobe.lg.jp/a10019/810320483784.html"
-      ],
-      "coordinate": {
-        "lat": 34.701375794117645,
-        "lng": 135.1894888470588,
-        "url": "https://www.openstreetmap.org/way/302852228",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
-      },
-      "id": "kobe-kitano--weathercock",
-      "order": 13,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "風見雞之館是德國貿易商湯瑪斯家族的舊宅，約建於 1909 年。紅磚、木構立面與尖塔上的風向雞，讓它成為北野街景裡容易辨認的一座洋館。\n\n建物在耐震工程後已於 2025 年重新開放。除了外觀，也可入內看看各房間的燈飾與彩繪玻璃；散步途中將參觀與休息分開安排，比匆忙拍照更能感受建築。",
-      "illustration": {
-        "image": "/art/walks/kobe-kitano/weathercock.webp",
-        "alt": "風見鶏の館，依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": "欣賞紅磚建築外觀與廣場。",
-      "canonicalArea": {
-        "id": "kobe-kitano",
-        "name": "神戶北野",
-        "href": "/walks/kobe-kitano/"
-      },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://kobe-kazamidori.com/",
-          "https://www.kobeijinkan.com/ijinkan_list/line",
-          "https://kobe-nishimura.jp/shop/kitanozaka.html"
-        ]
-      },
-      "displayOrder": 13
-    },
-    {
-      "name": "萌黄の館",
-      "address": "兵庫県神戸市中央区北野町3-10-11",
-      "group": "sights",
-      "categoryLabel": "綠色洋館",
-      "caption": "看一扇凸窗、一段陽台，讓洋館細節慢慢浮現。",
-      "descriptionParagraphs": [
-        "萌黃之館建於 1903 年，曾是美國駐神戶總領事 Hunter Sharp 的住宅。兩層木造洋館以淡綠下見板、不同形式的凸窗與磚煙囪形成細緻立面，周圍楠樹讓建築多了一層綠意。",
-        "與紅磚的風見雞之館相鄰，這裡適合比較兩座洋館的材料與空間。入內可留意玄關、樓梯與復原的陽台，也能從小尺度細節認識當時的居住方式。"
-      ],
-      "note": "付費參觀；二月第三個週三及週四休館。",
-      "official": "https://www.city.kobe.lg.jp/a21651/kanko/bunka/bunkashisetsu/foreigner/sub3.html",
-      "coordinate": {
-        "lat": 34.70102489090909,
-        "lng": 135.1892488090909,
-        "url": "https://www.openstreetmap.org/way/302852226",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
-      },
-      "id": "kobe-kitano--moegi",
-      "order": 14,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "萌黃之館建於 1903 年，曾是美國駐神戶總領事 Hunter Sharp 的住宅。兩層木造洋館以淡綠下見板、不同形式的凸窗與磚煙囪形成細緻立面，周圍楠樹讓建築多了一層綠意。\n\n與紅磚的風見雞之館相鄰，這裡適合比較兩座洋館的材料與空間。入內可留意玄關、樓梯與復原的陽台，也能從小尺度細節認識當時的居住方式。",
-      "illustration": {
-        "image": "/art/walks/kobe-kitano/moegi.webp",
-        "alt": "萌黄の館，依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": "留意淡綠外牆、凸窗與陽台；可把這裡選為今天唯一深入的洋館。",
-      "canonicalArea": {
-        "id": "kobe-kitano",
-        "name": "神戶北野",
-        "href": "/walks/kobe-kitano/"
-      },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://www.city.kobe.lg.jp/a21651/kanko/bunka/bunkashisetsu/foreigner/sub3.html",
-          "https://www.kobeijinkan.com/ijinkan_list/england",
-          "https://store.starbucks.co.jp/detail-940/"
-        ]
-      },
-      "displayOrder": 14
-    },
-    {
-      "name": "スターバックス 神戸北野異人館店",
-      "address": "兵庫県神戸市中央区北野町3-1-31 北野物語館",
-      "group": "food",
-      "categoryLabel": "洋館咖啡",
-      "caption": "在白牆綠窗的洋館裡，留一杯咖啡的時間。",
-      "descriptionParagraphs": [
-        "這間星巴克位於北野物語館，一座原建於 1907 年、後來移築復原的木造洋館。白色下見板與綠色窗框之外，館內也保留建具、地板與各房間不同的陳設。",
-        "可以把咖啡休息放在往異人館的上坡途中。選擇喜歡的房間坐下，感受住宅尺度與一般街邊咖啡店的差異；逛完後再慢慢走向北野町廣場。"
+        "香氣之家荷蘭館使用帶有懷舊氣息的兩層木造洋館，以荷蘭與香水為主題。奶油白外牆、藍色百葉窗與綠樹，讓門前小院有容易記住的顏色。",
+        "除了參觀館內，也能了解店家提供的原創香水製作服務。若想參加體驗，先依官方方式安排時間，讓這一站成為慢一點的停留。"
       ],
       "note": "",
-      "official": "https://store.starbucks.co.jp/detail-940/",
-      "extraSources": [
-        "https://www.starbucks.co.jp/press_release/pr2008-391.php"
-      ],
+      "official": "https://www.kobeijinkan.com/ijinkan_list/holanda_kaori",
       "coordinate": {
-        "lat": 34.6998457,
-        "lng": 135.1902766,
-        "url": "https://www.openstreetmap.org/node/13227106669",
-        "provider": "osm",
-        "label": "OpenStreetMap 地點代表點",
-        "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright",
-        "precisionNote": "公開圖資代表點，步行導航仍以現場入口為準。"
-      },
-      "id": "kobe-kitano--starbucks",
-      "order": 15,
-      "verifiedAt": "2026-10-24",
-      "sources": [],
-      "description": "這間星巴克位於北野物語館，一座原建於 1907 年、後來移築復原的木造洋館。白色下見板與綠色窗框之外，館內也保留建具、地板與各房間不同的陳設。\n\n可以把咖啡休息放在往異人館的上坡途中。選擇喜歡的房間坐下，感受住宅尺度與一般街邊咖啡店的差異；逛完後再慢慢走向北野町廣場。",
-      "illustration": {
-        "image": "/art/walks/kobe-kitano/starbucks.webp",
-        "alt": "スターバックス 神戸北野異人館店，依實景照片繪製的日系水彩插圖"
-      },
-      "recommendation": "沿坡慢慢走到木造洋館咖啡店，在回三宮前歇一會兒。",
-      "canonicalArea": {
-        "id": "kobe-kitano",
-        "name": "神戶北野",
-        "href": "/walks/kobe-kitano/"
-      },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://www.city.kobe.lg.jp/a21651/kanko/bunka/bunkashisetsu/foreigner/sub3.html",
-          "https://www.kobeijinkan.com/ijinkan_list/england",
-          "https://store.starbucks.co.jp/detail-940/"
-        ]
-      },
-      "displayOrder": 15
-    },
-    {
-      "name": "北野坂にしむら珈琲店",
-      "address": "兵庫県神戸市中央区山本通2-1-20",
-      "group": "food",
-      "categoryLabel": "老派咖啡",
-      "caption": "爬山之前，先在常春藤與紅磚之間喝杯咖啡。",
-      "descriptionParagraphs": [
-        "北野坂にしむら珈琲店在1974年以會員制喫茶店開門，1995年阪神大震災後向一般客人開放。爬滿綠意的紅磚外觀，與室內仍保留的沉靜氣氛，讓一杯咖啡也像是走進北野的另一段歷史。",
-        "一樓是喫茶，二樓另設餐廳，適合在向北野異人館上坡之前，先留一段坐下來的時間。從熱鬧街道轉進綠蔭與磚牆，感受老派咖啡館的步調，再把散步交給山坡上的洋館。"
-      ],
-      "note": "每月最後一個週一公休，部分月份另有調整。",
-      "official": "https://kobe-nishimura.jp/shop/kitanozaka.html",
-      "extraSources": [],
-      "photoPage": "https://kobe-nishimura.jp/shop/kitanozaka.html",
-      "coordinate": {
-        "lat": 34.6983344,
-        "lng": 135.1910854,
-        "url": "https://www.openstreetmap.org/node/5304129121",
+        "lat": 34.70221741111111,
+        "lng": 135.1906340111111,
+        "url": "https://www.openstreetmap.org/way/302852229",
         "provider": "osm",
         "label": "OpenStreetMap 地點代表點",
         "license": "ODbL 1.0",
         "licenseUrl": "https://www.openstreetmap.org/copyright",
         "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
       },
+      "id": "kobe-kitano--holanda_kaori",
+      "order": 13,
+      "verifiedAt": "2026-10-24",
       "sources": [
         {
           "channel": "老辣妹",
           "videoId": "a7EScTAuodo",
           "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=204s",
-          "time": "3:24",
-          "seconds": 204
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1835s",
+          "time": "30:35",
+          "seconds": 1835
         }
       ],
-      "id": "kobe-kitano--nishimura",
-      "order": 16,
-      "verifiedAt": "2026-10-24",
-      "description": "北野坂にしむら珈琲店在1974年以會員制喫茶店開門，1995年阪神大震災後向一般客人開放。爬滿綠意的紅磚外觀，與室內仍保留的沉靜氣氛，讓一杯咖啡也像是走進北野的另一段歷史。\n\n一樓是喫茶，二樓另設餐廳，適合在向北野異人館上坡之前，先留一段坐下來的時間。從熱鬧街道轉進綠蔭與磚牆，感受老派咖啡館的步調，再把散步交給山坡上的洋館。",
+      "description": "香氣之家荷蘭館使用帶有懷舊氣息的兩層木造洋館，以荷蘭與香水為主題。奶油白外牆、藍色百葉窗與綠樹，讓門前小院有容易記住的顏色。\n\n除了參觀館內，也能了解店家提供的原創香水製作服務。若想參加體驗，先依官方方式安排時間，讓這一站成為慢一點的停留。",
       "illustration": {
-        "image": "/art/walks/kobe-kitano/nishimura.webp",
-        "alt": "北野坂にしむら珈琲店的日系水彩插圖"
+        "image": "/art/walks/kobe-kitano/holanda_kaori.webp",
+        "alt": "香りの家オランダ館，依實照繪製的日系水彩插圖"
       },
-      "recommendation": "在北野坂坐下喝杯咖啡。",
+      "recommendation": null,
       "canonicalArea": {
         "id": "kobe-kitano",
         "name": "神戶北野",
         "href": "/walks/kobe-kitano/"
       },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://kobe-kazamidori.com/",
-          "https://www.kobeijinkan.com/ijinkan_list/line",
-          "https://kobe-nishimura.jp/shop/kitanozaka.html"
-        ]
+      "displayOrder": 13
+    },
+    {
+      "name": "デンマーク館",
+      "address": "兵庫県神戸市中央区北野町2-15-12",
+      "group": "sights",
+      "categoryLabel": "北歐主題館",
+      "caption": "從童話與船的模型，讀北歐文化的一頁。",
+      "descriptionParagraphs": [
+        "丹麥館以北歐文化為主題，透過維京船複製模型與安徒生書房等展示，介紹航海與童話的世界。拱形入口與童話人物立牌，讓門前有較輕巧的氣氛。",
+        "適合對文化主題展示有興趣的人，與旁邊以音樂或香氣為主的館舍可自由搭配。此處採門票入館，參觀時留意模型與物件說明，比只拍門口更有內容。"
+      ],
+      "note": "",
+      "official": "https://www.kobeijinkan.com/ijinkan_list/denmark",
+      "coordinate": {
+        "lat": 34.702344675999996,
+        "lng": 135.19057610799996,
+        "url": "https://www.openstreetmap.org/way/302852212",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "kobe-kitano--denmark",
+      "order": 14,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "丹麥館以北歐文化為主題，透過維京船複製模型與安徒生書房等展示，介紹航海與童話的世界。拱形入口與童話人物立牌，讓門前有較輕巧的氣氛。\n\n適合對文化主題展示有興趣的人，與旁邊以音樂或香氣為主的館舍可自由搭配。此處採門票入館，參觀時留意模型與物件說明，比只拍門口更有內容。",
+      "illustration": {
+        "image": "/art/walks/kobe-kitano/denmark.webp",
+        "alt": "デンマーク館，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-kitano",
+        "name": "神戶北野",
+        "href": "/walks/kobe-kitano/"
+      },
+      "displayOrder": 14
+    },
+    {
+      "name": "ウィーン・オーストリアの家",
+      "address": "兵庫県神戸市中央区北野町2-15-18",
+      "group": "sights",
+      "categoryLabel": "音樂主題館",
+      "caption": "循著音樂的線索，換一種觀看北野的方式。",
+      "descriptionParagraphs": [
+        "維也納・奧地利之家以莫札特為主題，介紹奧地利文化與相關物件，並以十八至十九世紀貴族住宅為展示想像。館內可見古鋼琴等複製展示。",
+        "這裡屬於文化主題館，適合喜歡音樂故事的人。與附近荷蘭館、丹麥館的主題各不相同，可依興趣挑選，不必在同一天全部參觀。"
+      ],
+      "note": "",
+      "official": "https://www.kobeijinkan.com/ijinkan_list/wien",
+      "coordinate": {
+        "lat": 34.70239778888889,
+        "lng": 135.19077483333334,
+        "url": "https://www.openstreetmap.org/way/302852197",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "kobe-kitano--wien",
+      "order": 15,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "維也納・奧地利之家以莫札特為主題，介紹奧地利文化與相關物件，並以十八至十九世紀貴族住宅為展示想像。館內可見古鋼琴等複製展示。\n\n這裡屬於文化主題館，適合喜歡音樂故事的人。與附近荷蘭館、丹麥館的主題各不相同，可依興趣挑選，不必在同一天全部參觀。",
+      "illustration": {
+        "image": "/art/walks/kobe-kitano/wien.webp",
+        "alt": "ウィーン・オーストリアの家，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-kitano",
+        "name": "神戶北野",
+        "href": "/walks/kobe-kitano/"
+      },
+      "displayOrder": 15
+    },
+    {
+      "name": "うろこの家・展望ギャラリー",
+      "address": "兵庫県神戸市中央区北野町2-20-4",
+      "group": "sights",
+      "categoryLabel": "魚鱗洋館",
+      "caption": "沿坡道向上，看天然石片疊出的魚鱗外牆。",
+      "descriptionParagraphs": [
+        "魚鱗之家因天然板岩外牆像魚鱗而得名，圓塔與細密石片是容易辨認的外觀。這是神戶較早公開的異人館之一，西側另有展望畫廊。",
+        "入內可把歷史住宅與美術展示一起看，也能欣賞山側的城市視野。位置在坡上，適合選好一兩館慢慢參觀，避免為了集滿景點不停趕路。"
+      ],
+      "note": "",
+      "official": "https://www.kobeijinkan.com/ijinkan_list/uroko",
+      "coordinate": {
+        "lat": 34.70297597777778,
+        "lng": 135.19067274444444,
+        "url": "https://www.openstreetmap.org/way/302852195",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "kobe-kitano--uroko",
+      "order": 16,
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1715s",
+          "time": "28:35",
+          "seconds": 1715
+        }
+      ],
+      "description": "魚鱗之家因天然板岩外牆像魚鱗而得名，圓塔與細密石片是容易辨認的外觀。這是神戶較早公開的異人館之一，西側另有展望畫廊。\n\n入內可把歷史住宅與美術展示一起看，也能欣賞山側的城市視野。位置在坡上，適合選好一兩館慢慢參觀，避免為了集滿景點不停趕路。",
+      "illustration": {
+        "image": "/art/walks/kobe-kitano/uroko.webp",
+        "alt": "うろこの家・展望ギャラリー，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-kitano",
+        "name": "神戶北野",
+        "href": "/walks/kobe-kitano/"
       },
       "displayOrder": 16
     },
     {
-      "name": "神戸北野ノスタ",
-      "address": "兵庫県神戸市中央区中山手通3-17-1",
-      "group": "shops",
-      "categoryLabel": "老校舍・食選物",
-      "caption": "走進白色老校舍，把神戶的食物帶回日常。",
+      "name": "山手八番館",
+      "address": "兵庫県神戸市中央区北野町2-20-7",
+      "group": "sights",
+      "categoryLabel": "洋館・雕塑",
+      "caption": "看弧形木構與磚牆，再走進雕塑的房間。",
       "descriptionParagraphs": [
-        "北野ノスタ以舊北野小學校舍為舞台，集合咖啡、麵包、甜點與日本酒等飲食店。這棟 1931 年的校舍，在 2024 年改為以神戶飲食為主題的複合設施，保留老建築的端正尺度。",
-        "可先在這裡挑一份麵包或伴手禮，再往坡上的異人館走。每家店的風格不同，適合依當天胃口安排一站；這裡如今是北野ノスタ，與已結束營業的舊「北野工房のまち」不同。"
+        "山手八番館是模仿都鐸式樣的洋館，外觀以磚牆、弧形木構與連續凸窗形成鮮明表情。館內以東西方雕塑等美術品為主要展示。",
+        "除了被稱為「薩圖爾努斯之椅」的陳設，也可留意入口與窗邊的建築細節。此處採門票參觀，在往魚鱗之家的坡道上可依喜好擇館停留。"
       ],
       "note": "",
-      "official": "https://kobekitano-nosta.jp/",
-      "extraSources": [
-        "https://kobekitano-nosta.jp/access/",
-        "https://www.feel-kobe.jp/news/29342/"
-      ],
+      "official": "https://www.kobeijinkan.com/ijinkan_list/yamate",
       "coordinate": {
-        "lat": 34.69558389090909,
-        "lng": 135.1871731090909,
-        "url": "https://www.openstreetmap.org/way/319806975",
-        "precisionNote": "OSM仍標舊名北野工房のまち，採同址舊北野小學校舍建築中心；現營運名稱及地址由官方北野ノスタ核對。",
+        "lat": 34.70303811428571,
+        "lng": 135.19101954285713,
+        "url": "https://www.openstreetmap.org/way/302852216",
         "provider": "osm",
         "label": "OpenStreetMap 地點代表點",
         "license": "ODbL 1.0",
-        "licenseUrl": "https://www.openstreetmap.org/copyright"
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
       },
-      "id": "kobe-kitano--nosta",
+      "id": "kobe-kitano--yamate",
       "order": 17,
       "verifiedAt": "2026-10-24",
       "sources": [],
-      "description": "北野ノスタ以舊北野小學校舍為舞台，集合咖啡、麵包、甜點與日本酒等飲食店。這棟 1931 年的校舍，在 2024 年改為以神戶飲食為主題的複合設施，保留老建築的端正尺度。\n\n可先在這裡挑一份麵包或伴手禮，再往坡上的異人館走。每家店的風格不同，適合依當天胃口安排一站；這裡如今是北野ノスタ，與已結束營業的舊「北野工房のまち」不同。",
+      "description": "山手八番館是模仿都鐸式樣的洋館，外觀以磚牆、弧形木構與連續凸窗形成鮮明表情。館內以東西方雕塑等美術品為主要展示。\n\n除了被稱為「薩圖爾努斯之椅」的陳設，也可留意入口與窗邊的建築細節。此處採門票參觀，在往魚鱗之家的坡道上可依喜好擇館停留。",
       "illustration": {
-        "image": "/art/walks/kobe-kitano/nosta.webp",
-        "alt": "神戸北野ノスタ，依實景照片繪製的日系水彩插圖"
+        "image": "/art/walks/kobe-kitano/yamate.webp",
+        "alt": "山手八番館，依實照繪製的日系水彩插圖"
       },
       "recommendation": null,
       "canonicalArea": {
@@ -778,6 +821,98 @@
         "href": "/walks/kobe-kitano/"
       },
       "displayOrder": 17
+    },
+    {
+      "name": "北野外国人倶楽部",
+      "address": "兵庫県神戸市中央区北野町2-18-2",
+      "group": "sights",
+      "categoryLabel": "洋館生活展示",
+      "caption": "從獅像入口，走進昔日洋館的生活場景。",
+      "descriptionParagraphs": [
+        "北野外國人俱樂部以舊邸宅空間重現洋館生活，半木構立面、兩座樓梯與厚重家具，構成觀看住宅文化的線索。餐室與音樂室等空間各有陳設重點。",
+        "這一站適合喜歡室內裝飾與家具的人，能與只看立面的散步形成變化。入館與部分體驗各有安排，挑選自己有興趣的項目即可。"
+      ],
+      "note": "",
+      "official": "https://www.kobeijinkan.com/ijinkan_list/foreignclub",
+      "coordinate": {
+        "lat": 34.703080033333336,
+        "lng": 135.19135716666668,
+        "url": "https://www.openstreetmap.org/way/302852208",
+        "provider": "osm",
+        "label": "OpenStreetMap 地點代表點",
+        "license": "ODbL 1.0",
+        "licenseUrl": "https://www.openstreetmap.org/copyright",
+        "precisionNote": "公開圖資地點代表，非入口實測；現場請依公共道路與店家入口前往。"
+      },
+      "id": "kobe-kitano--foreignclub",
+      "order": 18,
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "description": "北野外國人俱樂部以舊邸宅空間重現洋館生活，半木構立面、兩座樓梯與厚重家具，構成觀看住宅文化的線索。餐室與音樂室等空間各有陳設重點。\n\n這一站適合喜歡室內裝飾與家具的人，能與只看立面的散步形成變化。入館與部分體驗各有安排，挑選自己有興趣的項目即可。",
+      "illustration": {
+        "image": "/art/walks/kobe-kitano/foreignclub.webp",
+        "alt": "北野外国人倶楽部，依實照繪製的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-kitano",
+        "name": "神戶北野",
+        "href": "/walks/kobe-kitano/"
+      },
+      "displayOrder": 18
+    },
+    {
+      "name": "フロインドリーブ 生田店",
+      "address": "兵庫県神戸市中央区生田町4-6-15",
+      "group": "food",
+      "categoryLabel": "教會咖啡・烘焙",
+      "caption": "在舊教會的木樑與彩窗下，延長一段神戶午後。",
+      "descriptionParagraphs": [
+        "走過百年的神戶麵包與洋菓子店フロインドリーブ，將舊教會改為商店與咖啡空間。高高的木構屋頂、拱形側窗與彩色玻璃，保留了沃里茲建築的氣質，也讓日常的咖啡時間有了一種開闊而安靜的背景。",
+        "一樓可挑麵包與烘焙點心，二樓則能在原教會空間坐下。從北野洋館區往生田町方向走，正好用這一站串起建築與烘焙文化；若不入座，也能把一份餅乾或派帶回旅途。"
+      ],
+      "note": "週三公休，遇國定假日改翌日；咖啡區16:00最後點餐、16:30閉店。",
+      "official": "https://h-freundlieb.com/pages/shop",
+      "extraSources": [
+        "https://h-freundlieb.com/",
+        "https://h-freundlieb.com/pages/cafe"
+      ],
+      "photoPage": "https://h-freundlieb.com/",
+      "coordinate": {
+        "lat": 34.700798,
+        "lng": 135.194992,
+        "provider": "gsi",
+        "label": "日本國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%94%9F%E7%94%B0%E7%94%BA%E5%9B%9B%E4%B8%81%E7%9B%AE%EF%BC%96%E7%95%AA%EF%BC%91%EF%BC%95%E5%8F%B7",
+        "license": "国土地理院コンテンツ利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "國土地理院公開地址搜尋依官方門牌回傳；地址代表點，非入口實測。"
+      },
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "a7EScTAuodo",
+          "title": "🇯🇵花了2年才拍出這種不一樣的神戶｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=a7EScTAuodo&t=1613s",
+          "time": "26:53",
+          "seconds": 1613
+        }
+      ],
+      "id": "kobe-kitano--freundlieb",
+      "order": 19,
+      "verifiedAt": "2026-10-24",
+      "description": "走過百年的神戶麵包與洋菓子店フロインドリーブ，將舊教會改為商店與咖啡空間。高高的木構屋頂、拱形側窗與彩色玻璃，保留了沃里茲建築的氣質，也讓日常的咖啡時間有了一種開闊而安靜的背景。\n\n一樓可挑麵包與烘焙點心，二樓則能在原教會空間坐下。從北野洋館區往生田町方向走，正好用這一站串起建築與烘焙文化；若不入座，也能把一份餅乾或派帶回旅途。",
+      "illustration": {
+        "image": "/art/walks/kobe-kitano/freundlieb.webp",
+        "alt": "フロインドリーブ 生田店的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kobe-kitano",
+        "name": "神戶北野",
+        "href": "/walks/kobe-kitano/"
+      },
+      "displayOrder": 19
     }
   ],
   "routes": [
@@ -896,10 +1031,13 @@
   ],
   "defaultSelection": "kobe-kitano-slow-walk",
   "libraryCoverage": {
-    "added": 0,
+    "added": 2,
     "unlocated": 0,
     "checkedAt": "2026-10-26",
-    "sourceIds": []
+    "sourceIds": [
+      "p_d6ca5440e33071d9",
+      "p_3d3fed009d352af6"
+    ]
   },
   "transportPoints": [],
   "scope": {
@@ -915,7 +1053,7 @@
     ],
     "boundaryKind": "editorial-area",
     "reviewedAt": "2026-10-26",
-    "placeCount": 17
+    "placeCount": 19
   },
   "savedPlaceArchive": [
     {
@@ -924,10 +1062,10 @@
       "address": "東京都豊島区池袋2-70-5 カーサヤマブキ1F",
       "group": "food",
       "categoryLabel": "餐廳",
-      "caption": "影片中收錄的停留點",
+      "caption": "餐廳・東京都豊島区池袋2-70-5 カーサヤマブキ1F。",
       "descriptionParagraphs": [
-        "原影片介紹池袋的「しげ松 昼の部」，是居酒屋しげ松空間內的午間餐食紀錄。",
-        "原始資料記錄的地址為 東京都豊島区池袋2-70-5 カーサヤマブキ1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「しげ松 昼の部（池袋）」位於本次池袋西口收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都豊島区池袋2-70-5 カーサヤマブキ1F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "已依原影片與池袋店地址修正同名誤配。影片拍攝於2022年，午間營業仍請事先向店家確認。",
       "coordinate": {
@@ -963,14 +1101,23 @@
         "image": "/art/source-library/kobe-kitano--p_9c5f5c642746adb2.webp",
         "alt": "しげ松 昼の部（池袋）的日系水彩插圖"
       },
-      "order": 1,
+      "order": 20,
       "recommendation": null,
       "canonicalArea": {
         "id": "ikebukuro-west",
         "name": "池袋西口",
         "href": "/walks/ikebukuro-west/"
       },
-      "savedOutsideArea": true
+      "savedOutsideArea": true,
+      "description": "「しげ松 昼の部（池袋）」位於本次池袋西口收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 東京都豊島区池袋2-70-5 カーサヤマブキ1F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_9c5f5c642746adb2"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "inheritedWalkIds": []

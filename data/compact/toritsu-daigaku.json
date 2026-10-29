@@ -5,12 +5,12 @@
       "id": "jiyugaoka--p_bbbcfa152724fbf5",
       "name": "有機茶生どら Dolala",
       "address": "東京都目黒区中根1-23-5 1F",
-      "group": "sights",
-      "categoryLabel": "其他",
-      "caption": "影片中收錄的停留點",
+      "group": "food",
+      "categoryLabel": "餐飲・甜點",
+      "caption": "餐飲・甜點・東京都目黒区中根1-23-5 1F。",
       "descriptionParagraphs": [
-        "「有機茶生どら Dolala」出現在Tokyo Cafe Channel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 東京都目黒区中根1-23-5 1F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「有機茶生どら Dolala」位於本次都立大學・中根收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区中根1-23-5 1F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "食べログ標示 Dolala 已由中根 1-23-5 遷往橫濱市旭區南本宿町；本頁保留影片中的中根原址，插圖依原店照片製作。",
       "coordinate": {
@@ -63,7 +63,16 @@
         "href": "/walks/toritsu-daigaku/"
       },
       "recommendation": null,
-      "displayOrder": null
+      "displayOrder": null,
+      "description": "「有機茶生どら Dolala」位於本次都立大學・中根收錄範圍，既有資料將這一站歸為餐飲・甜點。地址紀錄為 東京都目黒区中根1-23-5 1F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bbbcfa152724fbf5"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

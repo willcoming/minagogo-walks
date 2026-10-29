@@ -606,6 +606,70 @@
       }
     },
     {
+      "id": "kamakura--p_269fd575fb224380",
+      "name": "cafe Luonto",
+      "address": "神奈川県鎌倉市長谷2-11-21",
+      "group": "food",
+      "categoryLabel": "咖啡・甜點",
+      "caption": "在長谷鐵道旁喝咖啡、看江之電經過",
+      "descriptionParagraphs": [
+        "Luonto 位於長谷站附近的鐵道旁，以咖啡與甜點為主。白色外牆、藍色門框和面向鐵道的露台，讓窗外駛過的江之電也成為休息時的一部分。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.3115308,
+        "lng": 139.5368585,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/cafe+Luonto/@35.3115308,139.5368585,17z/data=!3m1!4b1!4m6!3m5!1s0x601845f1b5e5aaab:0x67426dd29618de1c!8m2!3d35.3115308!4d139.5368585!16s%2Fg%2F11bw_4gy1k?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/kanagawa/A1404/A140402/14063201/dtlmap/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "lS-aSHu0uo8",
+          "title": "東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=lS-aSHu0uo8",
+          "time": "10:26",
+          "seconds": 626
+        }
+      ],
+      "official": "https://enokama.jp/spot/1009/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_269fd575fb224380"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/cafe+Luonto/@35.3115308,139.5368585,17z/data=!3m1!4b1!4m6!3m5!1s0x601845f1b5e5aaab:0x67426dd29618de1c!8m2!3d35.3115308!4d139.5368585!16s%2Fg%2F11bw_4gy1k?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://enokama.jp/spot/1009/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/kanagawa/A1404/A140402/14063201/dtlmap/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_269fd575fb224380.webp",
+        "alt": "cafe Luonto的日系水彩插圖"
+      }
+    },
+    {
       "id": "kamakura--p_372ff1ebb63c47ea",
       "name": "Giraffa Curry Pan",
       "address": "2-chōme-2-21 Komachi, Kamakura, Kanagawa 248-0006",
@@ -657,6 +721,70 @@
       }
     },
     {
+      "id": "kamakura--p_a7fd2b1313ad5908",
+      "name": "鶴岡ミュージアム カフェ＆ショップ",
+      "address": "神奈川県鎌倉市雪ノ下2-1-53",
+      "group": "food",
+      "categoryLabel": "博物館咖啡",
+      "caption": "玻璃窗外的綠意與神社烘焙咖啡",
+      "descriptionParagraphs": [
+        "鎌倉文華館鶴岡美術館旁的咖啡與商店，是鶴岡八幡宮介紹的烘焙咖啡空間。室內保留倒伏大銀杏的樹幹，窗外可望見樹木、池畔與美術館，適合參拜後稍坐。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.3248802,
+        "lng": 139.5551362,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Kamakura+Bunkakan+Tsuruoka+Museum+Cafe+%26+Shop/@35.3248802,139.5551362,17z/data=!3m1!4b1!4m6!3m5!1s0x601845b1a86b5353:0x3075ad067307825b!8m2!3d35.3248802!4d139.5551362!16s%2Fg%2F11fn97vl8t?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/kanagawa/A1404/A140402/14077316/dtlmap/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "lS-aSHu0uo8",
+          "title": "東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=lS-aSHu0uo8",
+          "time": "10:26",
+          "seconds": 626
+        }
+      ],
+      "official": "https://www.hachimangu.or.jp/activity/facility/shop.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a7fd2b1313ad5908"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Kamakura+Bunkakan+Tsuruoka+Museum+Cafe+%26+Shop/@35.3248802,139.5551362,17z/data=!3m1!4b1!4m6!3m5!1s0x601845b1a86b5353:0x3075ad067307825b!8m2!3d35.3248802!4d139.5551362!16s%2Fg%2F11fn97vl8t?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.hachimangu.or.jp/activity/facility/shop.html",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/kanagawa/A1404/A140402/14077316/dtlmap/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_a7fd2b1313ad5908.webp",
+        "alt": "鶴岡ミュージアム カフェ＆ショップ的日系水彩插圖"
+      }
+    },
+    {
       "id": "kamakura--p_83867c89a61760d7",
       "name": "KANNON COFFEE kamakura",
       "address": "3-chōme-10-29 Hase, Kamakura, Kanagawa 248-0016",
@@ -705,6 +833,65 @@
       "illustration": {
         "image": "/art/source-library/kamakura--p_83867c89a61760d7.webp",
         "alt": "KANNON COFFEE kamakura的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--p_a81a72e86e0995ab",
+      "name": "KEY MEMORY 鎌倉八幡宮店",
+      "address": "神奈川県鎌倉市雪ノ下1-12-5 1F",
+      "group": "shops",
+      "categoryLabel": "服飾・生活選物",
+      "caption": "雪之下街角的鎌倉日常服飾",
+      "descriptionParagraphs": [
+        "KEY MEMORY 鎌倉八幡宮店位於雪之下一丁目，官方公告於2025年10月開幕。木質與大面玻璃構成明亮店面，服飾和小物以鎌倉的海與街景為靈感。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.3232442,
+        "lng": 139.5550226,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/KEY+MEMORY+%E9%8E%8C%E5%80%89%E5%85%AB%E5%B9%A1%E5%AE%AE%E5%BA%97/@35.3232442,139.5550226,17z/data=!3m1!4b1!4m6!3m5!1s0x6018452d215dd5a3:0x9401053790365704!8m2!3d35.3232442!4d139.5550226!16s%2Fg%2F11xrhb547t?authuser=0&hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://keymemory.group/information/hachimangustoreopen/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "lS-aSHu0uo8",
+          "title": "東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=lS-aSHu0uo8",
+          "time": "07:37",
+          "seconds": 457
+        }
+      ],
+      "official": "https://keymemory.group/information/hachimangustoreopen/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a81a72e86e0995ab"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/KEY+MEMORY+%E9%8E%8C%E5%80%89%E5%85%AB%E5%B9%A1%E5%AE%AE%E5%BA%97/@35.3232442,139.5550226,17z/data=!3m1!4b1!4m6!3m5!1s0x6018452d215dd5a3:0x9401053790365704!8m2!3d35.3232442!4d139.5550226!16s%2Fg%2F11xrhb547t?authuser=0&hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://keymemory.group/information/hachimangustoreopen/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_a81a72e86e0995ab.webp",
+        "alt": "KEY MEMORY 鎌倉八幡宮店的日系水彩插圖"
       }
     },
     {
@@ -874,6 +1061,68 @@
       "illustration": {
         "image": "/art/source-library/kamakura--p_e0a866cf41a798d7.webp",
         "alt": "Slow Rush Coffee的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kamakura--p_162b39ac0299ce87",
+      "name": "キャラウェイ",
+      "address": "2 Chome-12-20 Komachi, Kamakura, Kanagawa 248-0006日本",
+      "group": "food",
+      "categoryLabel": "咖哩",
+      "caption": "小町街巷裡的歐風咖哩",
+      "descriptionParagraphs": [
+        "Caraway 位於小町二丁目，是鎌倉觀光協會介紹的咖哩專門店。以長時間燉煮的歐風咖哩為主，從小町通轉進街巷便能安排一頓午餐；候位請另外留時間。"
+      ],
+      "note": null,
+      "coordinate": {
+        "lat": 35.3218976,
+        "lng": 139.5533019,
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E7%89%9B%E8%82%89%E5%92%96%E5%93%A9+Caraway/@35.3218976,139.5533019,17z/data=!3m1!4b1!4m6!3m5!1s0x601845c132795a29:0x7a126cc1994a9a21!8m2!3d35.3218976!4d139.5533019!16s%2Fg%2F1w6_nsv4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
+        "shopUrl": "https://tabelog.com/kanagawa/A1404/A140402/14000589/",
+        "precisionNote": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。"
+      },
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "lS-aSHu0uo8",
+          "title": "東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=lS-aSHu0uo8"
+        }
+      ],
+      "official": "https://www.trip-kamakura.com/stay-gurume/detail.php?id=7",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_162b39ac0299ce87"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E7%89%9B%E8%82%89%E5%92%96%E5%93%A9+Caraway/@35.3218976,139.5533019,17z/data=!3m1!4b1!4m6!3m5!1s0x601845c132795a29:0x7a126cc1994a9a21!8m2!3d35.3218976!4d139.5533019!16s%2Fg%2F1w6_nsv4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "placeReview": {
+        "checkedAt": "2026-10-29",
+        "sources": [
+          {
+            "url": "https://www.trip-kamakura.com/stay-gurume/detail.php?id=7",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          },
+          {
+            "url": "https://tabelog.com/kanagawa/A1404/A140402/14000589/",
+            "checkedAt": "2026-10-29",
+            "finding": "分店身分、地址與用途核對；營業安排未作即時保證。"
+          }
+        ],
+        "findings": "核對分店名稱及完整地址，符合既有街區界線；新增為可選停留，保留原推薦站點。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kamakura--p_162b39ac0299ce87.webp",
+        "alt": "キャラウェイ的日系水彩插圖"
       }
     },
     {
@@ -1160,6 +1409,21 @@
         }
       ]
     },
+    "kamakura--toshimaya": {
+      "sourceIds": [
+        "p_450c8e0a2a1c4bb6"
+      ],
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "lS-aSHu0uo8",
+          "title": "東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=lS-aSHu0uo8",
+          "time": "09:26",
+          "seconds": 566
+        }
+      ]
+    },
     "kamakura--chacha": {
       "sourceIds": [
         "p_f109de03838312c8"
@@ -1185,6 +1449,29 @@
           "url": "https://www.youtube.com/watch?v=iHlWzlTrIOs",
           "time": "05:15",
           "seconds": 315
+        }
+      ]
+    },
+    "kamakura--hachimangu": {
+      "sourceIds": [
+        "p_a1c7d4d85d6195fb"
+      ],
+      "sources": [
+        {
+          "channel": "yang and yang | 楊先生與楊小姐",
+          "videoId": "lS-aSHu0uo8",
+          "title": "東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang",
+          "url": "https://www.youtube.com/watch?v=lS-aSHu0uo8",
+          "time": "04:08",
+          "seconds": 248
+        },
+        {
+          "channel": "Yunaty日本語",
+          "videoId": "UWPE3xsWlXY",
+          "title": "【鎌倉江之島一日遊VLOG】東京近郊鎌倉必去打卡點！小町通美食推薦 | 灌籃高手平交道 | 去鎌倉洗錢 | 日本旅游",
+          "url": "https://www.youtube.com/watch?v=UWPE3xsWlXY",
+          "time": "6:46",
+          "seconds": 406
         }
       ]
     },

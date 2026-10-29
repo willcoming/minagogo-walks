@@ -8,10 +8,10 @@
       "address": "2-chōme-7-4 Jōmyōji, Kamakura, Kanagawa 248-0003",
       "group": "sights",
       "categoryLabel": "景點",
-      "caption": "影片中收錄的停留點",
+      "caption": "景點・2-chōme-7-4 Jōmyōji。",
       "descriptionParagraphs": [
-        "「報國寺」出現在Unique Japan Travel的影片收錄資料。可展開影片來源查看原始介紹。",
-        "原始資料記錄的地址為 2-chōme-7-4 Jōmyōji, Kamakura, Kanagawa 248-0003。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「報國寺」位於本次鎌倉金澤街道收錄範圍，既有資料將這一站歸為景點。地址紀錄為 2-chōme-7-4 Jōmyōji, Kamakura, Kanagawa 248-0003。",
+        "來源包括Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -52,7 +52,16 @@
         "href": "/walks/kamakura-kanazawa/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「報國寺」位於本次鎌倉金澤街道收錄範圍，既有資料將這一站歸為景點。地址紀錄為 2-chōme-7-4 Jōmyōji, Kamakura, Kanagawa 248-0003。\n\n來源包括Unique Japan Travel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_bb6644f3a9ca0e14"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],

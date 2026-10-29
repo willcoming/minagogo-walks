@@ -8,10 +8,10 @@
       "address": "東京都世田谷区下馬2-36-1 2F",
       "group": "food",
       "categoryLabel": "咖啡館",
-      "caption": "影片中收錄的停留點",
+      "caption": "咖啡館・東京都世田谷区下馬2-36-1 2F。",
       "descriptionParagraphs": [
-        "原影片在世田谷線與三軒茶屋散步，收錄下馬二丁目的二樓咖啡館 Swallow。",
-        "原始資料記錄的地址為 東京都世田谷区下馬2-36-1 2F。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
+        "「Swallow（三軒茶屋）」位於本次三軒茶屋收錄範圍，既有資料將這一站歸為咖啡館。地址紀錄為 東京都世田谷区下馬2-36-1 2F。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "已依原影片說明、地圖連結與分店地址修正，不再誤列為神戶同名店。",
       "coordinate": {
@@ -54,7 +54,16 @@
         "href": "/walks/sangenjaya/"
       },
       "recommendation": null,
-      "displayOrder": 1
+      "displayOrder": 1,
+      "description": "「Swallow（三軒茶屋）」位於本次三軒茶屋收錄範圍，既有資料將這一站歸為咖啡館。地址紀錄為 東京都世田谷区下馬2-36-1 2F。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_135871d72948e644"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     }
   ],
   "routes": [],
