@@ -624,7 +624,16 @@
       "note": "興福寺五重塔正進行保存修理，覆屋遮蔽塔身，目前無法觀賞完整外觀。",
       "official": "https://narashikanko.or.jp/spot/detail_10110.html",
       "verifiedAt": "2026-10-24",
-      "sources": [],
+      "sources": [
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "0sPR2B9xVNc",
+          "title": "#關西自由行 真正的#奈良 繞一圈終極神路線 從#JR站奈良站 出發 到黃金十字路口#採購 #美食 一次包辦 奈良絕對不是只有鹿 破解你10個#迷思 告訴你10個一定要去奈良的美好答案 行程一次搞定",
+          "url": "https://www.youtube.com/watch?v=0sPR2B9xVNc",
+          "time": "15:51",
+          "seconds": 951
+        }
+      ],
       "coordinate": {
         "lat": 34.6814362,
         "lng": 135.8309487,
@@ -640,6 +649,9 @@
         "alt": "猿沢池，依真實照片繪製的日系水彩插圖"
       },
       "recommendation": "沿池畔散步、拍照，不需要繞池一整圈。",
+      "sourceLibraryIds": [
+        "p_45bc0b21883ae6ec"
+      ],
       "canonicalArea": {
         "id": "naramachi",
         "name": "奈良町",
@@ -760,6 +772,7 @@
     "unlocated": 0,
     "checkedAt": "2026-10-26",
     "sourceIds": [
+      "p_45bc0b21883ae6ec",
       "p_b16ad4ff0009fade"
     ]
   },

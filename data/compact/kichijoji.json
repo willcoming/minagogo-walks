@@ -2,79 +2,85 @@
   "updatedAt": "2026-10-26",
   "places": [
     {
-      "id": "kichijoji--temple",
-      "order": 1,
-      "name": "井之頭弁財天",
-      "address": "東京都三鷹市井の頭4丁目1",
-      "group": "sights",
-      "categoryLabel": "文化・景點",
-      "caption": "池畔朱色殿堂，為綠意添一個停頓",
+      "id": "kichijoji--p_af8aafb5a0b02c0e",
+      "name": "Sajilo Cafe",
+      "address": "東京都武蔵野市吉祥寺本町1-36-8",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "咖啡・東京都武蔵野市吉祥寺本町1-36-8。",
       "descriptionParagraphs": [
-        "井之頭弁財天位在池畔，朱色建築與水面、樹木相互映照。和周邊公園一起看，既有參拜的安靜，也保留日常散步的親近感。",
-        "可在沿池行走時順路參拜，留意寺院與公園的開放時間不同。若只是想欣賞景色，從池邊看建築與倒影也很有味道。"
+        "「Sajilo Cafe」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市吉祥寺本町1-36-8。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
-      "description": "井之頭弁財天位在池畔，朱色建築與水面、樹木相互映照。和周邊公園一起看，既有參拜的安靜，也保留日常散步的親近感。\n\n可在沿池行走時順路參拜，留意寺院與公園的開放時間不同。若只是想欣賞景色，從池邊看建築與倒影也很有味道。",
       "note": "",
-      "official": "https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/sisetu",
-      "verifiedAt": "2026-10-24",
-      "sources": [
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "f7rnfjLw80k",
-          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
-          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
-          "time": "",
-          "seconds": null
-        },
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "f7rnfjLw80k",
-          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
-          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
-          "time": "6:00",
-          "seconds": 360
-        }
-      ],
       "coordinate": {
-        "lat": 35.700344,
-        "lng": 139.577789,
+        "lat": 35.704468,
+        "lng": 139.585297,
         "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-36-8",
         "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%89%E9%B7%B9%E5%B8%82%E4%BA%95%E3%81%AE%E9%A0%AD4%E4%B8%81%E7%9B%AE1",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "Lmo5EYrRMZA",
+          "title": "cafe vlog｜東京絶品チーズグルメ／飯テロ𓌈˒˒表参道／吉祥寺／学芸大学／二子玉川／新橋",
+          "url": "https://www.youtube.com/watch?v=Lmo5EYrRMZA",
+          "time": "8:17",
+          "seconds": 497
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_af8aafb5a0b02c0e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sajilo+Cafe+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-36-8"
       },
       "illustration": {
-        "image": "/art/walks/kichijoji/temple.webp",
-        "alt": "井之頭弁財天的日系水彩插圖"
+        "image": "/art/source-library/kichijoji--p_af8aafb5a0b02c0e.webp",
+        "alt": "Sajilo Cafe的日系水彩插圖"
       },
-      "recommendation": null,
-      "sourceLibraryIds": [
-        "p_7620a0ac5fb043e7"
-      ],
+      "order": 1,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "displayOrder": 1
+      "recommendation": null,
+      "displayOrder": 1,
+      "description": "「Sajilo Cafe」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市吉祥寺本町1-36-8。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_af8aafb5a0b02c0e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
-      "id": "kichijoji--p_ff7f8ce817e4ddc2",
-      "name": "いせや 公園店",
-      "address": "東京都武蔵野市吉祥寺南町1-15-8",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "購物・東京都武蔵野市吉祥寺南町1-15-8。",
+      "id": "kichijoji--p_e3a9a9d054306c5d",
+      "name": "Corn Barley",
+      "address": "",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "餐廳・吉祥寺・井之頭的影片路線紀錄。",
       "descriptionParagraphs": [
-        "「いせや 公園店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺南町1-15-8。",
+        "「Corn Barley」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。來源未留下完整門牌，請先從影片內容比對位置。",
         "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.70065,
-        "lng": 139.57814,
+        "lat": 35.7035204,
+        "lng": 139.5816965,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
@@ -84,24 +90,24 @@
           "videoId": "8afg4EHWmPU",
           "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
           "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
-          "time": "19:54",
-          "seconds": 1194
+          "time": "5:33",
+          "seconds": 333
         }
       ],
-      "official": "https://www.kichijoji-iseya.jp/publics/index/14/_0",
+      "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_ff7f8ce817e4ddc2"
+          "p_e3a9a9d054306c5d"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/Iseya+Koen-ten/@35.70065,139.57814,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef7adb31c1dd:0x8b72a34fd23f7b26!8m2!3d35.70065!4d139.57814!16s%2Fg%2F1tdgpv_d?entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+        "mapUrl": "https://www.google.com.tw/maps/place/Corn+Barley/@35.7035204,139.4169016,11z/data=!4m7!3m6!1s0x6018ef9289dbfc91:0xc6e1b777da6d2596!8m2!3d35.7035204!4d139.5816965!15sCgtDb3JuIEJhcmxleVoNIgtjb3JuIGJhcmxleZIBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11fpd6_5j0?entry=tts&g_ep=EgoyMDI0MDgyNi4wKgBIAVAD"
       },
       "illustration": {
-        "image": "/art/source-library/kichijoji--p_ff7f8ce817e4ddc2.webp",
-        "alt": "いせや 公園店的日系水彩插圖"
+        "image": "/art/source-library/kichijoji--p_e3a9a9d054306c5d.webp",
+        "alt": "Corn Barley的日系水彩插圖"
       },
       "order": 2,
       "canonicalArea": {
@@ -111,13 +117,543 @@
       },
       "recommendation": null,
       "displayOrder": 2,
-      "description": "「いせや 公園店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺南町1-15-8。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "description": "「Corn Barley」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
         "sourceIds": [
-          "p_ff7f8ce817e4ddc2"
+          "p_e3a9a9d054306c5d"
         ],
         "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kichijoji--p_dc70911ce703e354",
+      "name": "吉祥寺SUN ROAD商店街",
+      "address": "1-chōme-15-1 Kichijōji Honchō, Musashino, Tokyo 180-0004",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "影片餐點筆記：佐藤酥炸牛肉球 天音鯛魚燒 越南麵包",
+      "descriptionParagraphs": [
+        "原影片在「吉祥寺SUN ROAD商店街」的餐點筆記提到佐藤酥炸牛肉球 天音鯛魚燒 越南麵包。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦、老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7038362,
+        "lng": 139.5798441,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "SRMGYVuiIAs",
+          "title": "東京美食吉祥寺篇，24小時爽吃特輯四選 ! 吉祥寺一日美食地圖，日本人最愛街區 ! 水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=SRMGYVuiIAs",
+          "time": "3:31",
+          "seconds": 211
+        },
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_dc70911ce703e354",
+          "p_1b49d4b24a53d7ae"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=15726371054052479114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_dc70911ce703e354.webp",
+        "alt": "吉祥寺SUN ROAD商店街的日系水彩插圖"
+      },
+      "order": 3,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 3,
+      "description": "原影片在「吉祥寺SUN ROAD商店街」的餐點筆記提到佐藤酥炸牛肉球 天音鯛魚燒 越南麵包。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦、老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_dc70911ce703e354",
+          "p_1b49d4b24a53d7ae"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kichijoji--satou",
+      "order": 4,
+      "name": "吉祥寺さとう",
+      "address": "東京都武蔵野市吉祥寺本町1-1-8",
+      "group": "food",
+      "categoryLabel": "喫茶・餐食",
+      "caption": "圓滾滾炸肉餅，是站前熟悉的香氣",
+      "descriptionParagraphs": [
+        "吉祥寺さとう以圓形炸肉餅聞名，牛肉與洋蔥藏在酥脆外皮裡，形成厚實的口感。它位在熱鬧街口，常讓路過的人被香氣吸引。",
+        "想嘗鮮可依現場隊伍決定是否等待，別讓排隊占滿整段午後。剛炸好的內餡很燙，找合適位置稍作停留再享用。"
+      ],
+      "description": "吉祥寺さとう以圓形炸肉餅聞名，牛肉與洋蔥藏在酥脆外皮裡，形成厚實的口感。它位在熱鬧街口，常讓路過的人被香氣吸引。\n\n想嘗鮮可依現場隊伍決定是否等待，別讓排隊占滿整段午後。剛炸好的內餡很燙，找合適位置稍作停留再享用。",
+      "note": "",
+      "official": "https://www.shop-satou.jp/",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.703987,
+        "lng": 139.579132,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-1-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/satou.webp",
+        "alt": "吉祥寺さとう的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "displayOrder": 4
+    },
+    {
+      "id": "kichijoji--ozasa",
+      "order": 5,
+      "name": "小ざさ",
+      "address": "東京都武蔵野市吉祥寺本町1-1-8",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "兩種餡的最中，藏著老舖的專注",
+      "descriptionParagraphs": [
+        "小ざさ專注於最中與羊羹，最中有紅豆餡、白餡兩種選擇，樸實外皮裡是細緻的甜味。小小店面是吉祥寺老舖風景的一部分。",
+        "散步時可把最中當成容易帶走的點心選項。羊羹的販售數量與方式另有安排，不必為了限定商品打亂原本輕鬆的步調。"
+      ],
+      "description": "小ざさ專注於最中與羊羹，最中有紅豆餡、白餡兩種選擇，樸實外皮裡是細緻的甜味。小小店面是吉祥寺老舖風景的一部分。\n\n散步時可把最中當成容易帶走的點心選項。羊羹的販售數量與方式另有安排，不必為了限定商品打亂原本輕鬆的步調。",
+      "note": "",
+      "official": "https://www.ozasa.co.jp/goods.php",
+      "verifiedAt": "2026-10-24",
+      "sources": [],
+      "coordinate": {
+        "lat": 35.703987,
+        "lng": 139.579132,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-1-8",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/ozasa.webp",
+        "alt": "小ざさ的日系水彩插圖"
+      },
+      "recommendation": null,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "displayOrder": 5
+    },
+    {
+      "id": "kichijoji--harmonica",
+      "order": 6,
+      "name": "口琴橫丁",
+      "address": "東京都武蔵野市吉祥寺本町1丁目1",
+      "group": "shops",
+      "categoryLabel": "老舖・選物",
+      "caption": "窄巷裡的小店，把車站前變得有趣",
+      "descriptionParagraphs": [
+        "口琴橫丁由狹窄通道與小型店面交織而成，餐飲、雜貨與老店在幾步之間切換。白天和夜晚各有不同表情，適合用散步的速度認識。",
+        "回站前挑一兩條巷子走走即可，不必每間店都停。通道狹窄，拍照時留出空間，也讓店家的出入與送貨順暢。"
+      ],
+      "description": "口琴橫丁由狹窄通道與小型店面交織而成，餐飲、雜貨與老店在幾步之間切換。白天和夜晚各有不同表情，適合用散步的速度認識。\n\n回站前挑一兩條巷子走走即可，不必每間店都停。通道狹窄，拍照時留出空間，也讓店家的出入與送貨順暢。",
+      "note": "",
+      "official": "https://kichijoji.me/column/guide/street-info0409/",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "老辣妹",
+          "videoId": "8afg4EHWmPU",
+          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU"
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "_F3pLgFp97I",
+          "title": "#東京五天四夜 超好玩 #吉祥寺超棒 可是請這樣玩 將會更完美 還想再去一次東京 #新幹線教學 搭乘方式#避雷技巧 #吉卜力美術館 攻略 吉祥寺 南北口完全不同商圈介紹 JR#三鷹 與 吉祥寺的差別",
+          "url": "https://www.youtube.com/watch?v=_F3pLgFp97I",
+          "time": "17:10",
+          "seconds": 1030
+        }
+      ],
+      "coordinate": {
+        "lat": 35.703716,
+        "lng": 139.578995,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/harmonica.webp",
+        "alt": "口琴橫丁的日系水彩插圖"
+      },
+      "recommendation": "慢走橫丁窄巷，看看當天開門的小店。",
+      "sourceLibraryIds": [
+        "p_c4264cc2e1d4d053"
+      ],
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "routeReview": {
+        "checkedAt": "2026-10-26",
+        "sourceUrls": [
+          "https://kichijoji.me/column/guide/street-info0409/",
+          "https://www.musashino.or.jp/museum/",
+          "https://sabo-musashinobunko.jimdofree.com/"
+        ]
+      },
+      "displayOrder": 6
+    },
+    {
+      "id": "kichijoji--p_b49f803e2c0429c0",
+      "name": "アトレ吉祥寺",
+      "address": "東京都武蔵野市吉祥寺南町1-1-24",
+      "group": "shops",
+      "categoryLabel": "車站商場",
+      "caption": "連接吉祥寺站，把採買與散步接在一起",
+      "descriptionParagraphs": [
+        "atre 吉祥寺是與吉祥寺站相連的商場，集合餐飲、食品與生活選物，可在前往井之頭公園前後安排補給或採買。此處收錄商場整體，以南町一丁目本館地址作為識別，不與吉祥寺車站或個別店鋪混為一筆。"
+      ],
+      "note": "各店鋪營業時間與所在樓層不同，請查閱商場最新樓層指南。",
+      "coordinate": {
+        "lat": 35.7030679,
+        "lng": 139.5792628,
+        "provider": "verified-source-venue-map",
+        "url": "https://www.google.com/maps/place/%E8%89%BE%E5%A6%A5%E5%88%97+%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97/data=!4m6!3m5!1s0x6018ee47fa737d5d:0x1112dad8fa4f50e6!8m2!3d35.7030679!4d139.5792628!",
+        "checkedAt": "2026-10-31",
+        "precision": "place",
+        "shopUrl": "https://www.atre.co.jp/kichijoji/access",
+        "precisionNote": "沿用既有查核中與完整分店地址對應的公開地點座標；本次重新核對街區收錄範圍。"
+      },
+      "sources": [
+        {
+          "channel": "Yunaty日本語",
+          "videoId": "EXLokwvYA3c",
+          "title": "東京最讓人失望的5個景點，你去過幾個？",
+          "url": "https://www.youtube.com/watch?v=EXLokwvYA3c",
+          "time": "9:38",
+          "seconds": 578
+        }
+      ],
+      "official": "https://www.atre.co.jp/kichijoji/access/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b49f803e2c0429c0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E8%89%BE%E5%A6%A5%E5%88%97+%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97/data=!4m6!3m5!1s0x6018ee47fa737d5d:0x1112dad8fa4f50e6!8m2!3d35.7030679!4d139.5792628!"
+      },
+      "placeReview": {
+        "checkedAt": "2026-11-02",
+        "sources": [
+          {
+            "url": "https://www.atre.co.jp/kichijoji/access/",
+            "checkedAt": "2026-11-02",
+            "finding": "本次官方交通頁確認商場地址；不是僅交通站點，也沒有被既有東急百貨或商店街收錄替代。"
+          }
+        ],
+        "findings": "吉祥寺南町1-1-24；既定範圍包含南町站區。 本次官方交通頁確認商場地址；不是僅交通站點，也沒有被既有東急百貨或商店街收錄替代。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_b49f803e2c0429c0.webp",
+        "alt": "アトレ吉祥寺的日系水彩插圖"
+      },
+      "order": 7,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 7
+    },
+    {
+      "id": "kichijoji--p_4269210f45c83916",
+      "name": "Cafe Lumiere(カフェ ルミエール)",
+      "address": "東京都武蔵野市吉祥寺南町1-2-2 東山ビル 4F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "咖啡・東京都武蔵野市吉祥寺南町1-2-2 東山ビル 4F。",
+      "descriptionParagraphs": [
+        "「Cafe Lumiere(カフェ ルミエール)」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市吉祥寺南町1-2-2 東山ビル 4F。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.70232,
+        "lng": 139.580124,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E5%8D%97%E7%94%BA1-2-2",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "gIIWahAWNT0",
+          "title": "cafe vlog｜東京かき氷巡り5選／吉祥寺・三軒茶屋・湯島・谷根千・神楽坂",
+          "url": "https://www.youtube.com/watch?v=gIIWahAWNT0",
+          "time": "1:51",
+          "seconds": 111
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_4269210f45c83916"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Lumiere/@35.7022581,139.580084,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee38128c8d6b:0x5b53dd7cf9f7de3e!8m2!3d35.7022581!4d139.580084!16s%2Fg%2F11xgsgst5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_4269210f45c83916.webp",
+        "alt": "Cafe Lumiere(カフェ ルミエール)的日系水彩插圖"
+      },
+      "order": 8,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 8,
+      "description": "「Cafe Lumiere(カフェ ルミエール)」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市吉祥寺南町1-2-2 東山ビル 4F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_4269210f45c83916"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kichijoji--p_c94ea4fe6f953c30",
+      "name": "Sushi Tomikawa",
+      "address": "〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 2-chōme−2−３ オリエンタルビル ２F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "餐廳・Tokyo…。",
+      "descriptionParagraphs": [
+        "「Sushi Tomikawa」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 2-chōme−2−３ オリエンタルビル ２F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.702200999999995,
+        "lng": 139.58060079999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "1tm-naFWG1I",
+          "title": "【東京最佳3壽司】米其林星級餐廳前主廚，超值壽司配11000日圓無限暢飲，帶茶室的櫃檯壽司！",
+          "url": "https://www.youtube.com/watch?v=1tm-naFWG1I"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_c94ea4fe6f953c30"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=9518355402417079008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_c94ea4fe6f953c30.webp",
+        "alt": "Sushi Tomikawa的日系水彩插圖"
+      },
+      "order": 9,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 9,
+      "description": "「Sushi Tomikawa」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 2-chōme−2−３ オリエンタルビル ２F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_c94ea4fe6f953c30"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kichijoji--p_5872c116235617b7",
+      "name": "Cafe salon & Bar Arg",
+      "address": "〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−18−２３ Minamicho Garden, 1F",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "咖啡・Tokyo…。",
+      "descriptionParagraphs": [
+        "「Cafe salon & Bar Arg」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−18−２３ Minamicho Garden, 1F。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "2026-10-26 核對官網：咖啡部已於 3 月 5 日恢復營業；酒吧仍因改裝準備暫停，重新開放日期另行公告。出發前請再確認。",
+      "coordinate": {
+        "lat": 35.701167,
+        "lng": 139.579328,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "5lS-2thcoYw",
+          "title": "10 Japan coffee shops you should visit in Tokyo: Japan Travel Guide",
+          "url": "https://www.youtube.com/watch?v=5lS-2thcoYw",
+          "time": "10:22",
+          "seconds": 622
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "FebbZm7bZCY",
+          "title": "The best of KICHIJOJI, Tokyo🇯🇵｜Must-Visit Cafes, Inokashira Park & Local Zoo 2026🌿",
+          "url": "https://www.youtube.com/watch?v=FebbZm7bZCY"
+        }
+      ],
+      "official": "https://www.arg-japan.com/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_5872c116235617b7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=13903869794625776119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_5872c116235617b7.webp",
+        "alt": "Cafe salon & Bar Arg的日系水彩插圖"
+      },
+      "order": 10,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 10,
+      "description": "「Cafe salon & Bar Arg」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−18−２３ Minamicho Garden, 1F。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_5872c116235617b7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kichijoji--p_2737f387b183baff",
+      "name": "Pizzeria GG",
+      "address": "〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−17−１ プレジール 地下一階",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片餐點筆記：特級瑪格麗特 四種起司披薩",
+      "descriptionParagraphs": [
+        "原影片在「Pizzeria GG」的餐點筆記提到特級瑪格麗特 四種起司披薩。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.7009391,
+        "lng": 139.57868779999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "SRMGYVuiIAs",
+          "title": "東京美食吉祥寺篇，24小時爽吃特輯四選 ! 吉祥寺一日美食地圖，日本人最愛街區 ! 水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=SRMGYVuiIAs",
+          "time": "0:25",
+          "seconds": 25
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_2737f387b183baff"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11234568371062029738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_2737f387b183baff.webp",
+        "alt": "Pizzeria GG的日系水彩插圖"
+      },
+      "order": 11,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 11,
+      "description": "原影片在「Pizzeria GG」的餐點筆記提到特級瑪格麗特 四種起司披薩。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_2737f387b183baff"
+        ],
+        "basis": "original-video-meal-notes",
         "currentStatusVerified": false
       }
     },
@@ -179,14 +715,14 @@
         "image": "/art/source-library/kichijoji--p_791e7342964ac3a7.webp",
         "alt": "SUNDAY VEGAN的日系水彩插圖"
       },
-      "order": 3,
+      "order": 12,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 3,
+      "displayOrder": 12,
       "description": "「SUNDAY VEGAN」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 1-chōme-15-6 Kichijōji Minamichō, Musashino, Tokyo 180-0003。\n\n來源包括Hina Life in Japan、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -199,272 +735,20 @@
       }
     },
     {
-      "id": "kichijoji--p_2737f387b183baff",
-      "name": "Pizzeria GG",
-      "address": "〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−17−１ プレジール 地下一階",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片餐點筆記：特級瑪格麗特 四種起司披薩",
+      "id": "kichijoji--p_ff7f8ce817e4ddc2",
+      "name": "いせや 公園店",
+      "address": "東京都武蔵野市吉祥寺南町1-15-8",
+      "group": "shops",
+      "categoryLabel": "購物",
+      "caption": "購物・東京都武蔵野市吉祥寺南町1-15-8。",
       "descriptionParagraphs": [
-        "原影片在「Pizzeria GG」的餐點筆記提到特級瑪格麗特 四種起司披薩。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
-        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.7009391,
-        "lng": 139.57868779999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "肥波開吃啦",
-          "videoId": "SRMGYVuiIAs",
-          "title": "東京美食吉祥寺篇，24小時爽吃特輯四選 ! 吉祥寺一日美食地圖，日本人最愛街區 ! 水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理 【 肥波外食記 】",
-          "url": "https://www.youtube.com/watch?v=SRMGYVuiIAs",
-          "time": "0:25",
-          "seconds": 25
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_2737f387b183baff"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=11234568371062029738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_2737f387b183baff.webp",
-        "alt": "Pizzeria GG的日系水彩插圖"
-      },
-      "order": 4,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 4,
-      "description": "原影片在「Pizzeria GG」的餐點筆記提到特級瑪格麗特 四種起司披薩。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_2737f387b183baff"
-        ],
-        "basis": "original-video-meal-notes",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_5872c116235617b7",
-      "name": "Cafe salon & Bar Arg",
-      "address": "〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−18−２３ Minamicho Garden, 1F",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "咖啡・Tokyo…。",
-      "descriptionParagraphs": [
-        "「Cafe salon & Bar Arg」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−18−２３ Minamicho Garden, 1F。",
-        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "2026-10-26 核對官網：咖啡部已於 3 月 5 日恢復營業；酒吧仍因改裝準備暫停，重新開放日期另行公告。出發前請再確認。",
-      "coordinate": {
-        "lat": 35.701167,
-        "lng": 139.579328,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "5lS-2thcoYw",
-          "title": "10 Japan coffee shops you should visit in Tokyo: Japan Travel Guide",
-          "url": "https://www.youtube.com/watch?v=5lS-2thcoYw",
-          "time": "10:22",
-          "seconds": 622
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "FebbZm7bZCY",
-          "title": "The best of KICHIJOJI, Tokyo🇯🇵｜Must-Visit Cafes, Inokashira Park & Local Zoo 2026🌿",
-          "url": "https://www.youtube.com/watch?v=FebbZm7bZCY"
-        }
-      ],
-      "official": "https://www.arg-japan.com/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_5872c116235617b7"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=13903869794625776119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_5872c116235617b7.webp",
-        "alt": "Cafe salon & Bar Arg的日系水彩插圖"
-      },
-      "order": 5,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 5,
-      "description": "「Cafe salon & Bar Arg」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 1-chōme−18−２３ Minamicho Garden, 1F。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_5872c116235617b7"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_4269210f45c83916",
-      "name": "Cafe Lumiere(カフェ ルミエール)",
-      "address": "東京都武蔵野市吉祥寺南町1-2-2 東山ビル 4F",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "咖啡・東京都武蔵野市吉祥寺南町1-2-2 東山ビル 4F。",
-      "descriptionParagraphs": [
-        "「Cafe Lumiere(カフェ ルミエール)」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市吉祥寺南町1-2-2 東山ビル 4F。",
-        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.70232,
-        "lng": 139.580124,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E5%8D%97%E7%94%BA1-2-2",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "gIIWahAWNT0",
-          "title": "cafe vlog｜東京かき氷巡り5選／吉祥寺・三軒茶屋・湯島・谷根千・神楽坂",
-          "url": "https://www.youtube.com/watch?v=gIIWahAWNT0",
-          "time": "1:51",
-          "seconds": 111
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_4269210f45c83916"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/Lumiere/@35.7022581,139.580084,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee38128c8d6b:0x5b53dd7cf9f7de3e!8m2!3d35.7022581!4d139.580084!16s%2Fg%2F11xgsgst5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_4269210f45c83916.webp",
-        "alt": "Cafe Lumiere(カフェ ルミエール)的日系水彩插圖"
-      },
-      "order": 6,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 6,
-      "description": "「Cafe Lumiere(カフェ ルミエール)」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市吉祥寺南町1-2-2 東山ビル 4F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_4269210f45c83916"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_c94ea4fe6f953c30",
-      "name": "Sushi Tomikawa",
-      "address": "〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 2-chōme−2−３ オリエンタルビル ２F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "餐廳・Tokyo…。",
-      "descriptionParagraphs": [
-        "「Sushi Tomikawa」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 2-chōme−2−３ オリエンタルビル ２F。",
-        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.702200999999995,
-        "lng": 139.58060079999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "1tm-naFWG1I",
-          "title": "【東京最佳3壽司】米其林星級餐廳前主廚，超值壽司配11000日圓無限暢飲，帶茶室的櫃檯壽司！",
-          "url": "https://www.youtube.com/watch?v=1tm-naFWG1I"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_c94ea4fe6f953c30"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=9518355402417079008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_c94ea4fe6f953c30.webp",
-        "alt": "Sushi Tomikawa的日系水彩插圖"
-      },
-      "order": 7,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 7,
-      "description": "「Sushi Tomikawa」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒180-0003 Tokyo, Musashino, Kichijōji Minamichō, 2-chōme−2−３ オリエンタルビル ２F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_c94ea4fe6f953c30"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_e3a9a9d054306c5d",
-      "name": "Corn Barley",
-      "address": "",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "餐廳・吉祥寺・井之頭的影片路線紀錄。",
-      "descriptionParagraphs": [
-        "「Corn Barley」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。來源未留下完整門牌，請先從影片內容比對位置。",
+        "「いせや 公園店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺南町1-15-8。",
         "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.7035204,
-        "lng": 139.5816965,
+        "lat": 35.70065,
+        "lng": 139.57814,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
@@ -474,250 +758,429 @@
           "videoId": "8afg4EHWmPU",
           "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
           "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
-          "time": "5:33",
-          "seconds": 333
+          "time": "19:54",
+          "seconds": 1194
         }
       ],
-      "official": null,
+      "official": "https://www.kichijoji-iseya.jp/publics/index/14/_0",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_e3a9a9d054306c5d"
+          "p_ff7f8ce817e4ddc2"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://www.google.com.tw/maps/place/Corn+Barley/@35.7035204,139.4169016,11z/data=!4m7!3m6!1s0x6018ef9289dbfc91:0xc6e1b777da6d2596!8m2!3d35.7035204!4d139.5816965!15sCgtDb3JuIEJhcmxleVoNIgtjb3JuIGJhcmxleZIBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11fpd6_5j0?entry=tts&g_ep=EgoyMDI0MDgyNi4wKgBIAVAD"
+        "mapUrl": "https://www.google.com/maps/place/Iseya+Koen-ten/@35.70065,139.57814,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef7adb31c1dd:0x8b72a34fd23f7b26!8m2!3d35.70065!4d139.57814!16s%2Fg%2F1tdgpv_d?entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
       },
       "illustration": {
-        "image": "/art/source-library/kichijoji--p_e3a9a9d054306c5d.webp",
-        "alt": "Corn Barley的日系水彩插圖"
+        "image": "/art/source-library/kichijoji--p_ff7f8ce817e4ddc2.webp",
+        "alt": "いせや 公園店的日系水彩插圖"
       },
-      "order": 8,
+      "order": 13,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 8,
-      "description": "「Corn Barley」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。來源未留下完整門牌，請先從影片內容比對位置。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "displayOrder": 13,
+      "description": "「いせや 公園店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺南町1-15-8。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
         "sourceIds": [
-          "p_e3a9a9d054306c5d"
+          "p_ff7f8ce817e4ddc2"
         ],
         "basis": "existing-category-address-and-video-record",
         "currentStatusVerified": false
       }
     },
     {
-      "id": "kichijoji--p_dc70911ce703e354",
-      "name": "吉祥寺SUN ROAD商店街",
-      "address": "1-chōme-15-1 Kichijōji Honchō, Musashino, Tokyo 180-0004",
+      "id": "kichijoji--temple",
+      "order": 14,
+      "name": "井之頭弁財天",
+      "address": "東京都三鷹市井の頭4丁目1",
+      "group": "sights",
+      "categoryLabel": "文化・景點",
+      "caption": "池畔朱色殿堂，為綠意添一個停頓",
+      "descriptionParagraphs": [
+        "井之頭弁財天位在池畔，朱色建築與水面、樹木相互映照。和周邊公園一起看，既有參拜的安靜，也保留日常散步的親近感。",
+        "可在沿池行走時順路參拜，留意寺院與公園的開放時間不同。若只是想欣賞景色，從池邊看建築與倒影也很有味道。"
+      ],
+      "description": "井之頭弁財天位在池畔，朱色建築與水面、樹木相互映照。和周邊公園一起看，既有參拜的安靜，也保留日常散步的親近感。\n\n可在沿池行走時順路參拜，留意寺院與公園的開放時間不同。若只是想欣賞景色，從池邊看建築與倒影也很有味道。",
+      "note": "",
+      "official": "https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/sisetu",
+      "verifiedAt": "2026-10-24",
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "",
+          "seconds": null
+        },
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "6:00",
+          "seconds": 360
+        }
+      ],
+      "coordinate": {
+        "lat": 35.700344,
+        "lng": 139.577789,
+        "provider": "gsi",
+        "label": "國土地理院地址代表點",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%89%E9%B7%B9%E5%B8%82%E4%BA%95%E3%81%AE%E9%A0%AD4%E4%B8%81%E7%9B%AE1",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      },
+      "illustration": {
+        "image": "/art/walks/kichijoji/temple.webp",
+        "alt": "井之頭弁財天的日系水彩插圖"
+      },
+      "recommendation": null,
+      "sourceLibraryIds": [
+        "p_7620a0ac5fb043e7"
+      ],
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "displayOrder": 14
+    },
+    {
+      "id": "kichijoji--p_7ec71078c5dda06e",
+      "name": "井之頭公園船場売店（パークス井の頭スワン店）",
+      "address": "東京都三鷹市井の頭4-1-5 井之頭恩賜公園船場旁",
       "group": "shops",
       "categoryLabel": "購物",
-      "caption": "影片餐點筆記：佐藤酥炸牛肉球 天音鯛魚燒 越南麵包",
+      "caption": "購物・東京都三鷹市井の頭4-1-5 井之頭恩賜公園船場旁。",
       "descriptionParagraphs": [
-        "原影片在「吉祥寺SUN ROAD商店街」的餐點筆記提到佐藤酥炸牛肉球 天音鯛魚燒 越南麵包。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
-        "來源包括肥波開吃啦、老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+        "「井之頭公園船場売店（パークス井の頭スワン店）」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都三鷹市井の頭4-1-5 井之頭恩賜公園船場旁。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.7038362,
-        "lng": 139.5798441,
+        "lat": 35.6995689,
+        "lng": 139.5770591,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
-          "channel": "肥波開吃啦",
-          "videoId": "SRMGYVuiIAs",
-          "title": "東京美食吉祥寺篇，24小時爽吃特輯四選 ! 吉祥寺一日美食地圖，日本人最愛街區 ! 水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理 【 肥波外食記 】",
-          "url": "https://www.youtube.com/watch?v=SRMGYVuiIAs",
-          "time": "3:31",
-          "seconds": 211
-        },
-        {
           "channel": "老辣妹",
           "videoId": "8afg4EHWmPU",
           "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU"
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "16:14",
+          "seconds": 974
+        }
+      ],
+      "official": "https://shibukichi.net/2024/01/17/inokashirapark_boat/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7ec71078c5dda06e"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Inokashira+Park+Boat+Store/@35.6995689,139.5770591,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee37a626a79d:0x849efdd9d5938685!8m2!3d35.6995689!4d139.5770591!16s%2Fg%2F11c6cy6sbb?q=Inokashira+Park+Boat+Store,+4+Chome-1-5+Inokashira,+Mitaka,+Tokyo+181-0001%E6%97%A5%E6%9C%AC&ftid=0x6018ee37a626a79d:0x849efdd9d5938685&lucs=,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_7ec71078c5dda06e.webp",
+        "alt": "井之頭公園船場売店（パークス井の頭スワン店）的日系水彩插圖"
+      },
+      "order": 15,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 15,
+      "description": "「井之頭公園船場売店（パークス井の頭スワン店）」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都三鷹市井の頭4-1-5 井之頭恩賜公園船場旁。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_7ec71078c5dda06e"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kichijoji--p_48f2de742a36fa5c",
+      "name": "Blue Sky Coffee",
+      "address": "〒181-0001 Tokyo, Mitaka, Inokashira, 4-chōme−1−１ 公園内",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "咖啡・Tokyo。",
+      "descriptionParagraphs": [
+        "「Blue Sky Coffee」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒181-0001 Tokyo, Mitaka, Inokashira, 4-chōme−1−１ 公園内。",
+        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.6984594,
+        "lng": 139.5789017,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "HOVPfbroWBg",
+          "title": "Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel",
+          "url": "https://www.youtube.com/watch?v=HOVPfbroWBg"
+        },
+        {
+          "channel": "Hina Life in Japan",
+          "videoId": "a-bPndpKXiA",
+          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
+          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA",
+          "time": "4:45",
+          "seconds": 285
         }
       ],
       "official": null,
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_dc70911ce703e354",
-          "p_1b49d4b24a53d7ae"
+          "p_48f2de742a36fa5c"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=15726371054052479114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=7189875142270522751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/kichijoji--p_dc70911ce703e354.webp",
-        "alt": "吉祥寺SUN ROAD商店街的日系水彩插圖"
+        "image": "/art/source-library/kichijoji--p_48f2de742a36fa5c.webp",
+        "alt": "Blue Sky Coffee的日系水彩插圖"
       },
-      "order": 9,
+      "order": 16,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 9,
-      "description": "原影片在「吉祥寺SUN ROAD商店街」的餐點筆記提到佐藤酥炸牛肉球 天音鯛魚燒 越南麵包。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦、老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "displayOrder": 16,
+      "description": "「Blue Sky Coffee」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒181-0001 Tokyo, Mitaka, Inokashira, 4-chōme−1−１ 公園内。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
         "sourceIds": [
-          "p_dc70911ce703e354",
-          "p_1b49d4b24a53d7ae"
+          "p_48f2de742a36fa5c"
         ],
-        "basis": "original-video-meal-notes",
+        "basis": "existing-category-address-and-video-record",
         "currentStatusVerified": false
       }
     },
     {
-      "id": "kichijoji--satou",
-      "order": 10,
-      "name": "吉祥寺さとう",
-      "address": "東京都武蔵野市吉祥寺本町1-1-8",
+      "id": "kichijoji--p_f80fc9bfe72ab20f",
+      "name": "中田ベーカリー",
+      "address": "〒181-0001 Tokyo, Mitaka, Inokashira, 3-chōme−31, 三鷹市井の頭３丁目３１－１５",
       "group": "food",
-      "categoryLabel": "喫茶・餐食",
-      "caption": "圓滾滾炸肉餅，是站前熟悉的香氣",
+      "categoryLabel": "甜點",
+      "caption": "甜點・Tokyo…。",
       "descriptionParagraphs": [
-        "吉祥寺さとう以圓形炸肉餅聞名，牛肉與洋蔥藏在酥脆外皮裡，形成厚實的口感。它位在熱鬧街口，常讓路過的人被香氣吸引。",
-        "想嘗鮮可依現場隊伍決定是否等待，別讓排隊占滿整段午後。剛炸好的內餡很燙，找合適位置稍作停留再享用。"
+        "「中田ベーカリー」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒181-0001 Tokyo, Mitaka, Inokashira, 3-chōme−31, 三鷹市井の頭３丁目３１－１５。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
-      "description": "吉祥寺さとう以圓形炸肉餅聞名，牛肉與洋蔥藏在酥脆外皮裡，形成厚實的口感。它位在熱鬧街口，常讓路過的人被香氣吸引。\n\n想嘗鮮可依現場隊伍決定是否等待，別讓排隊占滿整段午後。剛炸好的內餡很燙，找合適位置稍作停留再享用。",
       "note": "",
-      "official": "https://www.shop-satou.jp/",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
       "coordinate": {
-        "lat": 35.703987,
-        "lng": 139.579132,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-1-8",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+        "lat": 35.697569099999996,
+        "lng": 139.58221039999998,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "1:22",
+          "seconds": 82
+        }
+      ],
+      "official": "https://nakadabakery.sacri-store.jp/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_f80fc9bfe72ab20f"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://maps.google.com/?cid=2272180136265370938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/walks/kichijoji/satou.webp",
-        "alt": "吉祥寺さとう的日系水彩插圖"
+        "image": "/art/source-library/kichijoji--p_f80fc9bfe72ab20f.webp",
+        "alt": "中田ベーカリー的日系水彩插圖"
       },
-      "recommendation": null,
+      "order": 17,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "displayOrder": 10
+      "recommendation": null,
+      "displayOrder": 17,
+      "description": "「中田ベーカリー」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒181-0001 Tokyo, Mitaka, Inokashira, 3-chōme−31, 三鷹市井の頭３丁目３１－１５。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_f80fc9bfe72ab20f"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
-      "id": "kichijoji--ozasa",
-      "order": 11,
-      "name": "小ざさ",
-      "address": "東京都武蔵野市吉祥寺本町1-1-8",
+      "id": "kichijoji--p_150b1cd36fc48f3b",
+      "name": "白髭のシュークリーム工房 吉祥寺店",
+      "address": "東京都武蔵野市吉祥寺南町2-7-5",
       "group": "shops",
-      "categoryLabel": "老舖・選物",
-      "caption": "兩種餡的最中，藏著老舖的專注",
+      "categoryLabel": "購物",
+      "caption": "購物・東京都武蔵野市吉祥寺南町2-7-5。",
       "descriptionParagraphs": [
-        "小ざさ專注於最中與羊羹，最中有紅豆餡、白餡兩種選擇，樸實外皮裡是細緻的甜味。小小店面是吉祥寺老舖風景的一部分。",
-        "散步時可把最中當成容易帶走的點心選項。羊羹的販售數量與方式另有安排，不必為了限定商品打亂原本輕鬆的步調。"
+        "「白髭のシュークリーム工房 吉祥寺店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺南町2-7-5。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
-      "description": "小ざさ專注於最中與羊羹，最中有紅豆餡、白餡兩種選擇，樸實外皮裡是細緻的甜味。小小店面是吉祥寺老舖風景的一部分。\n\n散步時可把最中當成容易帶走的點心選項。羊羹的販售數量與方式另有安排，不必為了限定商品打亂原本輕鬆的步調。",
       "note": "",
-      "official": "https://www.ozasa.co.jp/goods.php",
-      "verifiedAt": "2026-10-24",
-      "sources": [],
       "coordinate": {
-        "lat": 35.703987,
-        "lng": 139.579132,
+        "lat": 35.70137,
+        "lng": 139.582611,
         "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E5%8D%97%E7%94%BA2-7-5",
         "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-1-8",
         "license": "國土地理院內容利用規約",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "TMcqhuqLL9I",
+          "title": "cafe vlog｜吉祥寺・西荻窪・高円寺カフェ巡り／食べ歩き／中央線",
+          "url": "https://www.youtube.com/watch?v=TMcqhuqLL9I"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_150b1cd36fc48f3b"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/%E7%99%BD%E9%AB%AD%E6%B3%A1%E8%8A%99%E5%B7%A5%E6%88%BF+%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97/@35.7014532,139.5825677,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef6546f38b69:0x80bb8bdf086556f7!8m2!3d35.7014532!4d139.5825677!16s%2Fg%2F11gwknl08l?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
       },
       "illustration": {
-        "image": "/art/walks/kichijoji/ozasa.webp",
-        "alt": "小ざさ的日系水彩插圖"
+        "image": "/art/source-library/kichijoji--p_150b1cd36fc48f3b.webp",
+        "alt": "白髭のシュークリーム工房 吉祥寺店的日系水彩插圖"
       },
-      "recommendation": null,
+      "order": 18,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "displayOrder": 11
+      "recommendation": null,
+      "displayOrder": 18,
+      "description": "「白髭のシュークリーム工房 吉祥寺店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺南町2-7-5。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_150b1cd36fc48f3b"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
     },
     {
-      "id": "kichijoji--harmonica",
-      "order": 12,
-      "name": "口琴橫丁",
-      "address": "東京都武蔵野市吉祥寺本町1丁目1",
-      "group": "shops",
-      "categoryLabel": "老舖・選物",
-      "caption": "窄巷裡的小店，把車站前變得有趣",
+      "id": "kichijoji--p_7ed9511870056fa4",
+      "name": "クレープハウスCircus",
+      "address": "東京都武蔵野市吉祥寺本町1-12-13",
+      "group": "food",
+      "categoryLabel": "可麗餅",
+      "caption": "可麗餅・東京都武蔵野市吉祥寺本町1-12-13。",
       "descriptionParagraphs": [
-        "口琴橫丁由狹窄通道與小型店面交織而成，餐飲、雜貨與老店在幾步之間切換。白天和夜晚各有不同表情，適合用散步的速度認識。",
-        "回站前挑一兩條巷子走走即可，不必每間店都停。通道狹窄，拍照時留出空間，也讓店家的出入與送貨順暢。"
+        "「クレープハウスCircus」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為可麗餅。地址紀錄為 東京都武蔵野市吉祥寺本町1-12-13。",
+        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
-      "description": "口琴橫丁由狹窄通道與小型店面交織而成，餐飲、雜貨與老店在幾步之間切換。白天和夜晚各有不同表情，適合用散步的速度認識。\n\n回站前挑一兩條巷子走走即可，不必每間店都停。通道狹窄，拍照時留出空間，也讓店家的出入與送貨順暢。",
-      "note": "",
-      "official": "https://kichijoji.me/column/guide/street-info0409/",
-      "verifiedAt": "2026-10-24",
+      "note": "店頭告示由在地媒體於 2026-01-07 報導，預計 2028 年 3 月結束營業；2026–2027 年仍預定正常營業，並非目前已閉店。異動請以店頭公告為準。",
+      "coordinate": {
+        "lat": 35.7053604,
+        "lng": 139.5809021,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
       "sources": [
         {
           "channel": "老辣妹",
           "videoId": "8afg4EHWmPU",
           "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU"
+          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
+          "time": "11:23",
+          "seconds": 683
         }
       ],
-      "coordinate": {
-        "lat": 35.703716,
-        "lng": 139.578995,
-        "provider": "gsi",
-        "label": "國土地理院地址代表點",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1%E4%B8%81%E7%9B%AE1",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址設施可能重疊，抵達後請依現場動線。"
+      "official": "https://gurumeguide.cpay.jp/shop/721606",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7ed9511870056fa4"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/Cr%C3%AApe+House+Circus/@35.7053604,139.5809021,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee47ac39d35f:0x2c4b98e84290a2fd!8m2!3d35.7053604!4d139.5809021!16s%2Fg%2F1w8wb13g?q=Cr%C3%AApe+House+Circus,+%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%A0%E5%90%89%E7%A5%A5%E5%AF%BA%E3%83%93%E3%83%AB+1+Chome-12-13+Kichijoji+Honcho,+Musashino,+Tokyo+180-0004%E6%97%A5%E6%9C%AC&ftid=0x6018ee47ac39d35f:0x2c4b98e84290a2fd&lucs=,94231208,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
       },
       "illustration": {
-        "image": "/art/walks/kichijoji/harmonica.webp",
-        "alt": "口琴橫丁的日系水彩插圖"
+        "image": "/art/source-library/kichijoji--p_7ed9511870056fa4.webp",
+        "alt": "クレープハウスCircus的日系水彩插圖"
       },
-      "recommendation": "慢走橫丁窄巷，看看當天開門的小店。",
-      "sourceLibraryIds": [
-        "p_c4264cc2e1d4d053"
-      ],
+      "order": 19,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "routeReview": {
-        "checkedAt": "2026-10-26",
-        "sourceUrls": [
-          "https://kichijoji.me/column/guide/street-info0409/",
-          "https://www.musashino.or.jp/museum/",
-          "https://sabo-musashinobunko.jimdofree.com/"
-        ]
+      "recommendation": null,
+      "displayOrder": 19,
+      "description": "「クレープハウスCircus」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為可麗餅。地址紀錄為 東京都武蔵野市吉祥寺本町1-12-13。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_7ed9511870056fa4"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
       },
-      "displayOrder": 12
+      "placeReview": {
+        "checkedAt": "2026-10-28",
+        "sources": [
+          {
+            "url": "https://www.kichijoji-go.net/sweets/circus.html",
+            "checkedAt": "2026-10-28",
+            "result": "專門吉祥寺店家頁匹配CIRCUS、吉祥寺本町1-12-13與可麗餅用途。未設定現行營業時段。"
+          }
+        ],
+        "findings": "專門吉祥寺店家頁匹配CIRCUS、吉祥寺本町1-12-13與可麗餅用途。未設定現行營業時段。"
+      }
     },
     {
       "id": "kichijoji--museum",
-      "order": 13,
+      "order": 20,
       "name": "吉祥寺美術館",
       "address": "東京都武蔵野市吉祥寺本町1-8-16",
       "group": "sights",
@@ -760,7 +1223,7 @@
           "https://sabo-musashinobunko.jimdofree.com/"
         ]
       },
-      "displayOrder": 13
+      "displayOrder": 20
     },
     {
       "id": "kichijoji--p_8318379e6d85acc7",
@@ -805,14 +1268,14 @@
         "image": "/art/source-library/kichijoji--p_8318379e6d85acc7.webp",
         "alt": "Tokyu Department Store Kichijoji Store的日系水彩插圖"
       },
-      "order": 14,
+      "order": 21,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 14,
+      "displayOrder": 21,
       "description": "「Tokyu Department Store Kichijoji Store」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 2-chōme-3-1 Kichijōji Honchō, Musashino, Tokyo 180-8519。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -870,14 +1333,14 @@
         "image": "/art/source-library/kichijoji--p_1e1dbc9a535ca172.webp",
         "alt": "台湾茶藝館 月和茶 吉祥寺店 （ユエフウチャ）的日系水彩插圖"
       },
-      "order": 15,
+      "order": 22,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 15,
+      "displayOrder": 22,
       "description": "「台湾茶藝館 月和茶 吉祥寺店 （ユエフウチャ）」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺本町2-14-28 大住ビル2F。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -948,14 +1411,14 @@
         "image": "/art/source-library/kichijoji--p_0bbf2b9501ceef47.webp",
         "alt": "LIBERTÉ PÂTISSERIE BOULANGERIE 東京本店的日系水彩插圖"
       },
-      "order": 16,
+      "order": 23,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 16,
+      "displayOrder": 23,
       "description": "「LIBERTÉ PÂTISSERIE BOULANGERIE 東京本店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺本町２丁目１４−3 1F･2F。\n\n來源包括Tokyo Cafe Channel、ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -1008,14 +1471,14 @@
         "image": "/art/source-library/kichijoji--p_cb8a5e8cba50ff7e.webp",
         "alt": "Crayon House的日系水彩插圖"
       },
-      "order": 17,
+      "order": 24,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 17,
+      "displayOrder": 24,
       "description": "「Crayon House」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 2-chōme-15-6 Kichijōji Honchō, Musashino, Tokyo 180-0004。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -1028,7 +1491,7 @@
     },
     {
       "id": "kichijoji--nakamichi",
-      "order": 18,
+      "order": 25,
       "name": "中道通",
       "address": "東京都武蔵野市吉祥寺本町2丁目",
       "group": "shops",
@@ -1071,11 +1534,11 @@
           "https://kichijoji-nakamichi.com/about/"
         ]
       },
-      "displayOrder": 18
+      "displayOrder": 25
     },
     {
       "id": "kichijoji--bunko",
-      "order": 19,
+      "order": 26,
       "name": "茶房武蔵野文庫",
       "address": "東京都武蔵野市吉祥寺本町2-13-4",
       "group": "food",
@@ -1118,7 +1581,7 @@
           "https://sabo-musashinobunko.jimdofree.com/"
         ]
       },
-      "displayOrder": 19
+      "displayOrder": 26
     },
     {
       "id": "kichijoji--p_b805fa6ddf547529",
@@ -1163,14 +1626,14 @@
         "image": "/art/source-library/kichijoji--p_b805fa6ddf547529.webp",
         "alt": "OVER COFFEE HUB (Coffee & Coworking)的日系水彩插圖"
       },
-      "order": 20,
+      "order": 27,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 20,
+      "displayOrder": 27,
       "description": "「OVER COFFEE HUB (Coffee & Coworking)」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 2-chōme-10-6 Kichijōji Honchō, Musashino, Tokyo 180-0004。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -1224,14 +1687,14 @@
         "image": "/art/source-library/kichijoji--p_0b49693e62654562.webp",
         "alt": "焼肉みゆき苑的日系水彩插圖"
       },
-      "order": 21,
+      "order": 28,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 21,
+      "displayOrder": 28,
       "description": "原影片在「焼肉みゆき苑」的餐點筆記提到和牛海膽手卷 四色和牛海鮮丼 和牛肋眼 和牛壽喜燒。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -1285,14 +1748,14 @@
         "image": "/art/source-library/kichijoji--p_779e3432c8c95742.webp",
         "alt": "Ibuki Udon Kichijoji的日系水彩插圖"
       },
-      "order": 22,
+      "order": 29,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 22,
+      "displayOrder": 29,
       "description": "「Ibuki Udon Kichijoji」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 1-chōme-1-1 Gotenyama, Musashino, Tokyo 180-0005。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -1344,14 +1807,14 @@
         "image": "/art/source-library/kichijoji--p_71fce2dd1f0ba0aa.webp",
         "alt": "Mlesna Tea Tokyo的日系水彩插圖"
       },
-      "order": 23,
+      "order": 30,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 23,
+      "displayOrder": 30,
       "description": "「Mlesna Tea Tokyo」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-12-12 Kichijōji Minamichō, Musashino, Tokyo 180-0003。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -1403,14 +1866,14 @@
         "image": "/art/source-library/kichijoji--p_f8cfae7c4598ffc5.webp",
         "alt": "咖啡館 chai break的日系水彩插圖"
       },
-      "order": 24,
+      "order": 31,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 24,
+      "displayOrder": 31,
       "description": "「咖啡館 chai break」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-3-2 Gotenyama, Musashino, Tokyo 180-0005。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -1423,7 +1886,7 @@
     },
     {
       "id": "kichijoji--park",
-      "order": 25,
+      "order": 32,
       "name": "井之頭恩賜公園",
       "address": "東京都武蔵野市御殿山1-18-31",
       "group": "sights",
@@ -1523,11 +1986,11 @@
           "https://kichijoji-nakamichi.com/about/"
         ]
       },
-      "displayOrder": 25
+      "displayOrder": 32
     },
     {
       "id": "kichijoji--zoo",
-      "order": 26,
+      "order": 33,
       "name": "井之頭自然文化園",
       "address": "東京都武蔵野市御殿山1-17-6",
       "group": "sights",
@@ -1562,7 +2025,7 @@
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
-      "displayOrder": 26
+      "displayOrder": 33
     },
     {
       "id": "kichijoji--p_aba6b2bf0d69dad4",
@@ -1611,14 +2074,14 @@
         "image": "/art/source-library/kichijoji--p_aba6b2bf0d69dad4.webp",
         "alt": "cafe du lievre うさぎ館 吉祥寺的日系水彩插圖"
       },
-      "order": 27,
+      "order": 34,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 27,
+      "displayOrder": 34,
       "description": "「cafe du lievre うさぎ館 吉祥寺」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市御殿山1-19-43。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -1630,506 +2093,47 @@
       }
     },
     {
-      "id": "kichijoji--p_7ec71078c5dda06e",
-      "name": "井之頭公園船場売店（パークス井の頭スワン店）",
-      "address": "東京都三鷹市井の頭4-1-5 井之頭恩賜公園船場旁",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "購物・東京都三鷹市井の頭4-1-5 井之頭恩賜公園船場旁。",
+      "id": "kichijoji--p_f18fbfef46e36302",
+      "name": "poooL",
+      "address": "〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 3-chōme−8−１１ ブルーメゾン吉祥寺 101",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "景點・Tokyo…。",
       "descriptionParagraphs": [
-        "「井之頭公園船場売店（パークス井の頭スワン店）」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都三鷹市井の頭4-1-5 井之頭恩賜公園船場旁。",
-        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.6995689,
-        "lng": 139.5770591,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "8afg4EHWmPU",
-          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
-          "time": "16:14",
-          "seconds": 974
-        }
-      ],
-      "official": "https://shibukichi.net/2024/01/17/inokashirapark_boat/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_7ec71078c5dda06e"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/Inokashira+Park+Boat+Store/@35.6995689,139.5770591,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee37a626a79d:0x849efdd9d5938685!8m2!3d35.6995689!4d139.5770591!16s%2Fg%2F11c6cy6sbb?q=Inokashira+Park+Boat+Store,+4+Chome-1-5+Inokashira,+Mitaka,+Tokyo+181-0001%E6%97%A5%E6%9C%AC&ftid=0x6018ee37a626a79d:0x849efdd9d5938685&lucs=,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_7ec71078c5dda06e.webp",
-        "alt": "井之頭公園船場売店（パークス井の頭スワン店）的日系水彩插圖"
-      },
-      "order": 28,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 28,
-      "description": "「井之頭公園船場売店（パークス井の頭スワン店）」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都三鷹市井の頭4-1-5 井之頭恩賜公園船場旁。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_7ec71078c5dda06e"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_48f2de742a36fa5c",
-      "name": "Blue Sky Coffee",
-      "address": "〒181-0001 Tokyo, Mitaka, Inokashira, 4-chōme−1−１ 公園内",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "咖啡・Tokyo。",
-      "descriptionParagraphs": [
-        "「Blue Sky Coffee」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒181-0001 Tokyo, Mitaka, Inokashira, 4-chōme−1−１ 公園内。",
+        "「poooL」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 3-chōme−8−１１ ブルーメゾン吉祥寺 101。",
         "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.6984594,
-        "lng": 139.5789017,
+        "lat": 35.7044253,
+        "lng": 139.57160489999998,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
           "channel": "Hina Life in Japan",
-          "videoId": "HOVPfbroWBg",
-          "title": "Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel",
-          "url": "https://www.youtube.com/watch?v=HOVPfbroWBg"
-        },
-        {
-          "channel": "Hina Life in Japan",
-          "videoId": "a-bPndpKXiA",
-          "title": "Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧",
-          "url": "https://www.youtube.com/watch?v=a-bPndpKXiA",
-          "time": "4:45",
-          "seconds": 285
+          "videoId": "BKRRht8xk9I",
+          "title": "Hokkaido Winter Trip | Exploring Snowy Sapporo, Cafes & Sushi | JAPAN VLOG",
+          "url": "https://www.youtube.com/watch?v=BKRRht8xk9I"
         }
       ],
-      "official": null,
+      "official": "https://poool.jp/about",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_48f2de742a36fa5c"
+          "p_f18fbfef46e36302"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=7189875142270522751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=14112806049168852768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/kichijoji--p_48f2de742a36fa5c.webp",
-        "alt": "Blue Sky Coffee的日系水彩插圖"
+        "image": "/art/source-library/kichijoji--p_f18fbfef46e36302.webp",
+        "alt": "poooL的日系水彩插圖"
       },
-      "order": 29,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 29,
-      "description": "「Blue Sky Coffee」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 〒181-0001 Tokyo, Mitaka, Inokashira, 4-chōme−1−１ 公園内。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_48f2de742a36fa5c"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_f80fc9bfe72ab20f",
-      "name": "中田ベーカリー",
-      "address": "〒181-0001 Tokyo, Mitaka, Inokashira, 3-chōme−31, 三鷹市井の頭３丁目３１－１５",
-      "group": "food",
-      "categoryLabel": "甜點",
-      "caption": "甜點・Tokyo…。",
-      "descriptionParagraphs": [
-        "「中田ベーカリー」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒181-0001 Tokyo, Mitaka, Inokashira, 3-chōme−31, 三鷹市井の頭３丁目３１－１５。",
-        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.697569099999996,
-        "lng": 139.58221039999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "f7rnfjLw80k",
-          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
-          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
-          "time": "1:22",
-          "seconds": 82
-        }
-      ],
-      "official": "https://nakadabakery.sacri-store.jp/",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_f80fc9bfe72ab20f"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://maps.google.com/?cid=2272180136265370938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_f80fc9bfe72ab20f.webp",
-        "alt": "中田ベーカリー的日系水彩插圖"
-      },
-      "order": 30,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 30,
-      "description": "「中田ベーカリー」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為甜點。地址紀錄為 〒181-0001 Tokyo, Mitaka, Inokashira, 3-chōme−31, 三鷹市井の頭３丁目３１－１５。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_f80fc9bfe72ab20f"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_150b1cd36fc48f3b",
-      "name": "白髭のシュークリーム工房 吉祥寺店",
-      "address": "東京都武蔵野市吉祥寺南町2-7-5",
-      "group": "shops",
-      "categoryLabel": "購物",
-      "caption": "購物・東京都武蔵野市吉祥寺南町2-7-5。",
-      "descriptionParagraphs": [
-        "「白髭のシュークリーム工房 吉祥寺店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺南町2-7-5。",
-        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.70137,
-        "lng": 139.582611,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E5%8D%97%E7%94%BA2-7-5",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "TMcqhuqLL9I",
-          "title": "cafe vlog｜吉祥寺・西荻窪・高円寺カフェ巡り／食べ歩き／中央線",
-          "url": "https://www.youtube.com/watch?v=TMcqhuqLL9I"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_150b1cd36fc48f3b"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://www.google.com/maps/place/%E7%99%BD%E9%AB%AD%E6%B3%A1%E8%8A%99%E5%B7%A5%E6%88%BF+%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97/@35.7014532,139.5825677,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef6546f38b69:0x80bb8bdf086556f7!8m2!3d35.7014532!4d139.5825677!16s%2Fg%2F11gwknl08l?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_150b1cd36fc48f3b.webp",
-        "alt": "白髭のシュークリーム工房 吉祥寺店的日系水彩插圖"
-      },
-      "order": 31,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 31,
-      "description": "「白髭のシュークリーム工房 吉祥寺店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺南町2-7-5。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_150b1cd36fc48f3b"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_af8aafb5a0b02c0e",
-      "name": "Sajilo Cafe",
-      "address": "東京都武蔵野市吉祥寺本町1-36-8",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "咖啡・東京都武蔵野市吉祥寺本町1-36-8。",
-      "descriptionParagraphs": [
-        "「Sajilo Cafe」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市吉祥寺本町1-36-8。",
-        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.704468,
-        "lng": 139.585297,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-36-8",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "Lmo5EYrRMZA",
-          "title": "cafe vlog｜東京絶品チーズグルメ／飯テロ𓌈˒˒表参道／吉祥寺／学芸大学／二子玉川／新橋",
-          "url": "https://www.youtube.com/watch?v=Lmo5EYrRMZA",
-          "time": "8:17",
-          "seconds": 497
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_af8aafb5a0b02c0e"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sajilo+Cafe+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-36-8"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_af8aafb5a0b02c0e.webp",
-        "alt": "Sajilo Cafe的日系水彩插圖"
-      },
-      "order": 32,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 32,
-      "description": "「Sajilo Cafe」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市吉祥寺本町1-36-8。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_af8aafb5a0b02c0e"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_7ed9511870056fa4",
-      "name": "クレープハウスCircus",
-      "address": "東京都武蔵野市吉祥寺本町1-12-13",
-      "group": "food",
-      "categoryLabel": "可麗餅",
-      "caption": "可麗餅・東京都武蔵野市吉祥寺本町1-12-13。",
-      "descriptionParagraphs": [
-        "「クレープハウスCircus」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為可麗餅。地址紀錄為 東京都武蔵野市吉祥寺本町1-12-13。",
-        "來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "店頭告示由在地媒體於 2026-01-07 報導，預計 2028 年 3 月結束營業；2026–2027 年仍預定正常營業，並非目前已閉店。異動請以店頭公告為準。",
-      "coordinate": {
-        "lat": 35.7053604,
-        "lng": 139.5809021,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "老辣妹",
-          "videoId": "8afg4EHWmPU",
-          "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
-          "url": "https://www.youtube.com/watch?v=8afg4EHWmPU",
-          "time": "11:23",
-          "seconds": 683
-        }
-      ],
-      "official": "https://gurumeguide.cpay.jp/shop/721606",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_7ed9511870056fa4"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://www.google.com/maps/place/Cr%C3%AApe+House+Circus/@35.7053604,139.5809021,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ee47ac39d35f:0x2c4b98e84290a2fd!8m2!3d35.7053604!4d139.5809021!16s%2Fg%2F1w8wb13g?q=Cr%C3%AApe+House+Circus,+%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%A0%E5%90%89%E7%A5%A5%E5%AF%BA%E3%83%93%E3%83%AB+1+Chome-12-13+Kichijoji+Honcho,+Musashino,+Tokyo+180-0004%E6%97%A5%E6%9C%AC&ftid=0x6018ee47ac39d35f:0x2c4b98e84290a2fd&lucs=,94231208,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_st=il&entry=tts&g_ep=EgoyMDI0MDgyNy4wKgBIAVAD"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_7ed9511870056fa4.webp",
-        "alt": "クレープハウスCircus的日系水彩插圖"
-      },
-      "order": 33,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 33,
-      "description": "「クレープハウスCircus」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為可麗餅。地址紀錄為 東京都武蔵野市吉祥寺本町1-12-13。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_7ed9511870056fa4"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      },
-      "placeReview": {
-        "checkedAt": "2026-10-28",
-        "sources": [
-          {
-            "url": "https://www.kichijoji-go.net/sweets/circus.html",
-            "checkedAt": "2026-10-28",
-            "result": "專門吉祥寺店家頁匹配CIRCUS、吉祥寺本町1-12-13與可麗餅用途。未設定現行營業時段。"
-          }
-        ],
-        "findings": "專門吉祥寺店家頁匹配CIRCUS、吉祥寺本町1-12-13與可麗餅用途。未設定現行營業時段。"
-      }
-    },
-    {
-      "id": "kichijoji--p_fb1e21949acd0c59",
-      "name": "ラウンジ＆ダイニング SORAE（ソラエ)",
-      "address": "〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−4−１４ 吉祥寺エクセルホテル 東急2F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "餐廳・Tokyo…。",
-      "descriptionParagraphs": [
-        "「ラウンジ＆ダイニング SORAE（ソラエ)」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−4−１４ 吉祥寺エクセルホテル 東急2F。",
-        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.706213399999996,
-        "lng": 139.5785335,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "ハーリーのグルメ",
-          "videoId": "KBCfPUMACUw",
-          "title": "【東京朝ごはん10選】5つ星ホテルモーニングが500円!?築地本願寺で食べる全18品の至福モーニングなど！",
-          "url": "https://www.youtube.com/watch?v=KBCfPUMACUw"
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_fb1e21949acd0c59"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=2197431888597839816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_fb1e21949acd0c59.webp",
-        "alt": "ラウンジ＆ダイニング SORAE（ソラエ)的日系水彩插圖"
-      },
-      "order": 34,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 34,
-      "description": "「ラウンジ＆ダイニング SORAE（ソラエ)」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−4−１４ 吉祥寺エクセルホテル 東急2F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_fb1e21949acd0c59"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_6e160efa9e48596b",
-      "name": "四步 選品店",
-      "address": "1-chōme-18-25 Kichijōji Kitamachi, Musashino, Tokyo 180-0001",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "咖啡・1-chōme-18-25 Kichijōji Kitamachi…。",
-      "descriptionParagraphs": [
-        "「四步 選品店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-18-25 Kichijōji Kitamachi, Musashino, Tokyo 180-0001。",
-        "來源包括Hiro | Days in Tokyo、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.708404099999996,
-        "lng": 139.5773666,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "f7rnfjLw80k",
-          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
-          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
-          "time": "10:55",
-          "seconds": 655
-        },
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "zVmpLi_Ybk0",
-          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
-          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
-          "time": "9:04",
-          "seconds": 544
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_6e160efa9e48596b",
-          "p_43eec9463a44b325"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=11755254195243829755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_6e160efa9e48596b.webp",
-        "alt": "四步 選品店的日系水彩插圖"
-      },
-      "order": 36,
+      "order": 35,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
@@ -2137,199 +2141,11 @@
       },
       "recommendation": null,
       "displayOrder": 35,
-      "description": "「四步 選品店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-18-25 Kichijōji Kitamachi, Musashino, Tokyo 180-0001。\n\n來源包括Hiro | Days in Tokyo、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "description": "「poooL」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 3-chōme−8−１１ ブルーメゾン吉祥寺 101。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
         "sourceIds": [
-          "p_6e160efa9e48596b",
-          "p_43eec9463a44b325"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_7f2ead42564eabc1",
-      "name": "肉山",
-      "address": "〒180-0001 Tokyo, Musashino, Kichijōji Kitamachi, 1-chōme−1−２０ 藤野ビル 2F",
-      "group": "food",
-      "categoryLabel": "餐廳",
-      "caption": "影片餐點筆記：無菜單套餐",
-      "descriptionParagraphs": [
-        "原影片在「肉山」的餐點筆記提到無菜單套餐。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
-        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.70796860000001,
-        "lng": 139.5795784,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "肥波開吃啦",
-          "videoId": "SRMGYVuiIAs",
-          "title": "東京美食吉祥寺篇，24小時爽吃特輯四選 ! 吉祥寺一日美食地圖，日本人最愛街區 ! 水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理 【 肥波外食記 】",
-          "url": "https://www.youtube.com/watch?v=SRMGYVuiIAs",
-          "time": "11:41",
-          "seconds": 701
-        }
-      ],
-      "official": null,
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_7f2ead42564eabc1"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=9058918658014451966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_7f2ead42564eabc1.webp",
-        "alt": "肉山的日系水彩插圖"
-      },
-      "order": 37,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 36,
-      "description": "原影片在「肉山」的餐點筆記提到無菜單套餐。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_7f2ead42564eabc1"
-        ],
-        "basis": "original-video-meal-notes",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_80c5f46f31229ce2",
-      "name": "Melrose and Morgan （メルローズ アンド モーガン）",
-      "address": "東京都武蔵野市吉祥寺本町4-10-9",
-      "group": "sights",
-      "categoryLabel": "景點",
-      "caption": "景點・東京都武蔵野市吉祥寺本町4-10-9。",
-      "descriptionParagraphs": [
-        "「Melrose and Morgan （メルローズ アンド モーガン）」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 東京都武蔵野市吉祥寺本町4-10-9。",
-        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.709145,
-        "lng": 139.57428,
-        "provider": "gsi",
-        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA4-10-9",
-        "label": "國土地理院地址代表點",
-        "license": "國土地理院內容利用規約",
-        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
-        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
-      },
-      "sources": [
-        {
-          "channel": "Tokyo Cafe Channel",
-          "videoId": "zVmpLi_Ybk0",
-          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
-          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
-          "time": "13:16",
-          "seconds": 796
-        }
-      ],
-      "official": "https://melroseandmorgan.jp/pages/aboutus",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_80c5f46f31229ce2"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": true,
-        "mapUrl": "https://www.google.com/maps/place/Melrose+and+Morgan+Kichijoji+Shop/@35.7090924,139.5743207,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef096c09ef5f:0x447ec8765fb725ec!8m2!3d35.7090924!4d139.5743207!16s%2Fg%2F11rstl6qqb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_80c5f46f31229ce2.webp",
-        "alt": "Melrose and Morgan （メルローズ アンド モーガン）的日系水彩插圖"
-      },
-      "order": 38,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 37,
-      "description": "「Melrose and Morgan （メルローズ アンド モーガン）」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 東京都武蔵野市吉祥寺本町4-10-9。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_80c5f46f31229ce2"
-        ],
-        "basis": "existing-category-address-and-video-record",
-        "currentStatusVerified": false
-      }
-    },
-    {
-      "id": "kichijoji--p_7fc9261079dd1cfd",
-      "name": "KIKi Cafe 吉祥寺",
-      "address": "4-chōme-6-10 Kichijōji Honchō, Musashino, Tokyo 180-0004",
-      "group": "food",
-      "categoryLabel": "咖啡",
-      "caption": "咖啡・4-chōme-6-10 Kichijōji Honchō…。",
-      "descriptionParagraphs": [
-        "「KIKi Cafe 吉祥寺」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 4-chōme-6-10 Kichijōji Honchō, Musashino, Tokyo 180-0004。",
-        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
-      ],
-      "note": "",
-      "coordinate": {
-        "lat": 35.7058371,
-        "lng": 139.57398949999998,
-        "provider": "source-library",
-        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
-      },
-      "sources": [
-        {
-          "channel": "Hiro | Days in Tokyo",
-          "videoId": "f7rnfjLw80k",
-          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
-          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
-          "time": "14:10",
-          "seconds": 850
-        }
-      ],
-      "official": "https://kikicafe.theshop.jp/about",
-      "verifiedAt": null,
-      "libraryRecord": {
-        "sourceIds": [
-          "p_7fc9261079dd1cfd"
-        ],
-        "status": "source-record",
-        "importedAt": "2026-10-26",
-        "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=13405406695890848810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-      },
-      "illustration": {
-        "image": "/art/source-library/kichijoji--p_7fc9261079dd1cfd.webp",
-        "alt": "KIKi Cafe 吉祥寺的日系水彩插圖"
-      },
-      "order": 39,
-      "canonicalArea": {
-        "id": "kichijoji",
-        "name": "吉祥寺・井之頭",
-        "href": "/walks/kichijoji/"
-      },
-      "recommendation": null,
-      "displayOrder": 38,
-      "description": "「KIKi Cafe 吉祥寺」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 4-chōme-6-10 Kichijōji Honchō, Musashino, Tokyo 180-0004。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
-      "sourceSummary": {
-        "reviewedAt": "2026-10-28",
-        "sourceIds": [
-          "p_7fc9261079dd1cfd"
+          "p_f18fbfef46e36302"
         ],
         "basis": "existing-category-address-and-video-record",
         "currentStatusVerified": false
@@ -2337,7 +2153,7 @@
     },
     {
       "id": "kichijoji--lightup",
-      "order": 40,
+      "order": 36,
       "name": "LIGHT UP COFFEE 吉祥寺店",
       "address": "東京都武蔵野市吉祥寺本町4-13-15",
       "group": "food",
@@ -2380,7 +2196,7 @@
           "https://kichijoji-nakamichi.com/about/"
         ]
       },
-      "displayOrder": 39
+      "displayOrder": 36
     },
     {
       "id": "kichijoji--p_3b713381d8cda60b",
@@ -2429,14 +2245,14 @@
         "image": "/art/source-library/kichijoji--p_3b713381d8cda60b.webp",
         "alt": "はらドーナッツ 吉祥寺店的日系水彩插圖"
       },
-      "order": 41,
+      "order": 37,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 40,
+      "displayOrder": 37,
       "description": "「はらドーナッツ 吉祥寺店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為購物。地址紀錄為 東京都武蔵野市吉祥寺本町４丁目１３−１５。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -2448,59 +2264,61 @@
       }
     },
     {
-      "id": "kichijoji--p_f18fbfef46e36302",
-      "name": "poooL",
-      "address": "〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 3-chōme−8−１１ ブルーメゾン吉祥寺 101",
-      "group": "sights",
-      "categoryLabel": "景點",
-      "caption": "景點・Tokyo…。",
+      "id": "kichijoji--p_7fc9261079dd1cfd",
+      "name": "KIKi Cafe 吉祥寺",
+      "address": "4-chōme-6-10 Kichijōji Honchō, Musashino, Tokyo 180-0004",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "咖啡・4-chōme-6-10 Kichijōji Honchō…。",
       "descriptionParagraphs": [
-        "「poooL」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 3-chōme−8−１１ ブルーメゾン吉祥寺 101。",
-        "來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+        "「KIKi Cafe 吉祥寺」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 4-chōme-6-10 Kichijōji Honchō, Musashino, Tokyo 180-0004。",
+        "來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
-        "lat": 35.7044253,
-        "lng": 139.57160489999998,
+        "lat": 35.7058371,
+        "lng": 139.57398949999998,
         "provider": "source-library",
         "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
       },
       "sources": [
         {
-          "channel": "Hina Life in Japan",
-          "videoId": "BKRRht8xk9I",
-          "title": "Hokkaido Winter Trip | Exploring Snowy Sapporo, Cafes & Sushi | JAPAN VLOG",
-          "url": "https://www.youtube.com/watch?v=BKRRht8xk9I"
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "14:10",
+          "seconds": 850
         }
       ],
-      "official": "https://poool.jp/about",
+      "official": "https://kikicafe.theshop.jp/about",
       "verifiedAt": null,
       "libraryRecord": {
         "sourceIds": [
-          "p_f18fbfef46e36302"
+          "p_7fc9261079dd1cfd"
         ],
         "status": "source-record",
         "importedAt": "2026-10-26",
         "extension": false,
-        "mapUrl": "https://maps.google.com/?cid=14112806049168852768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        "mapUrl": "https://maps.google.com/?cid=13405406695890848810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
       },
       "illustration": {
-        "image": "/art/source-library/kichijoji--p_f18fbfef46e36302.webp",
-        "alt": "poooL的日系水彩插圖"
+        "image": "/art/source-library/kichijoji--p_7fc9261079dd1cfd.webp",
+        "alt": "KIKi Cafe 吉祥寺的日系水彩插圖"
       },
-      "order": 42,
+      "order": 38,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 41,
-      "description": "「poooL」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 3-chōme−8−１１ ブルーメゾン吉祥寺 101。\n\n來源包括Hina Life in Japan的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "displayOrder": 38,
+      "description": "「KIKi Cafe 吉祥寺」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 4-chōme-6-10 Kichijōji Honchō, Musashino, Tokyo 180-0004。\n\n來源包括Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
         "sourceIds": [
-          "p_f18fbfef46e36302"
+          "p_7fc9261079dd1cfd"
         ],
         "basis": "existing-category-address-and-video-record",
         "currentStatusVerified": false
@@ -2553,14 +2371,14 @@
         "image": "/art/source-library/kichijoji--p_6cf905ca7452a75a.webp",
         "alt": "カプーン 抹茶製造所的日系水彩插圖"
       },
-      "order": 43,
+      "order": 39,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 42,
+      "displayOrder": 39,
       "description": "「カプーン 抹茶製造所」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 東京都武蔵野市吉祥寺本町2-33-2。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -2618,14 +2436,14 @@
         "image": "/art/source-library/kichijoji--p_ccebea293404c2be.webp",
         "alt": "ティーハウス はっぱ的日系水彩插圖"
       },
-      "order": 44,
+      "order": 40,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 43,
+      "displayOrder": 40,
       "description": "「ティーハウス はっぱ」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 東京都武蔵野市吉祥寺本町2-33-2 吉祥寺プティット村。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -2686,14 +2504,14 @@
         "image": "/art/source-library/kichijoji--p_94ccf769cbf0d2b8.webp",
         "alt": "吉祥寺プティット村的日系水彩插圖"
       },
-      "order": 45,
+      "order": 41,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 44,
+      "displayOrder": 41,
       "description": "「吉祥寺プティット村」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 東京都武蔵野市吉祥寺本町2-33-2。\n\n來源包括老辣妹、Hiro | Days in Tokyo的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
@@ -2748,6 +2566,196 @@
         "image": "/art/source-library/kichijoji--p_517cc986a7d87ba7.webp",
         "alt": "Cat cafe てまりのおしろ的日系水彩插圖"
       },
+      "order": 42,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 42,
+      "description": "「Cat cafe てまりのおしろ」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市吉祥寺本町2-33-2 吉祥寺プティット村。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_517cc986a7d87ba7"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kichijoji--p_fb1e21949acd0c59",
+      "name": "ラウンジ＆ダイニング SORAE（ソラエ)",
+      "address": "〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−4−１４ 吉祥寺エクセルホテル 東急2F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "餐廳・Tokyo…。",
+      "descriptionParagraphs": [
+        "「ラウンジ＆ダイニング SORAE（ソラエ)」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−4−１４ 吉祥寺エクセルホテル 東急2F。",
+        "來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.706213399999996,
+        "lng": 139.5785335,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "ハーリーのグルメ",
+          "videoId": "KBCfPUMACUw",
+          "title": "【東京朝ごはん10選】5つ星ホテルモーニングが500円!?築地本願寺で食べる全18品の至福モーニングなど！",
+          "url": "https://www.youtube.com/watch?v=KBCfPUMACUw"
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_fb1e21949acd0c59"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=2197431888597839816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_fb1e21949acd0c59.webp",
+        "alt": "ラウンジ＆ダイニング SORAE（ソラエ)的日系水彩插圖"
+      },
+      "order": 44,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 43,
+      "description": "「ラウンジ＆ダイニング SORAE（ソラエ)」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為餐廳。地址紀錄為 〒180-0004 Tokyo, Musashino, Kichijōji Honchō, 2-chōme−4−１４ 吉祥寺エクセルホテル 東急2F。\n\n來源包括ハーリーのグルメ的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_fb1e21949acd0c59"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kichijoji--p_7f2ead42564eabc1",
+      "name": "肉山",
+      "address": "〒180-0001 Tokyo, Musashino, Kichijōji Kitamachi, 1-chōme−1−２０ 藤野ビル 2F",
+      "group": "food",
+      "categoryLabel": "餐廳",
+      "caption": "影片餐點筆記：無菜單套餐",
+      "descriptionParagraphs": [
+        "原影片在「肉山」的餐點筆記提到無菜單套餐。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。",
+        "來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.70796860000001,
+        "lng": 139.5795784,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "肥波開吃啦",
+          "videoId": "SRMGYVuiIAs",
+          "title": "東京美食吉祥寺篇，24小時爽吃特輯四選 ! 吉祥寺一日美食地圖，日本人最愛街區 ! 水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理 【 肥波外食記 】",
+          "url": "https://www.youtube.com/watch?v=SRMGYVuiIAs",
+          "time": "11:41",
+          "seconds": 701
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_7f2ead42564eabc1"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=9058918658014451966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_7f2ead42564eabc1.webp",
+        "alt": "肉山的日系水彩插圖"
+      },
+      "order": 45,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 44,
+      "description": "原影片在「肉山」的餐點筆記提到無菜單套餐。這是拍攝當時的介紹，供挑選散步停留時參考，不代表目前的菜單或價格。\n\n來源包括肥波開吃啦的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_7f2ead42564eabc1"
+        ],
+        "basis": "original-video-meal-notes",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kichijoji--p_6e160efa9e48596b",
+      "name": "四步 選品店",
+      "address": "1-chōme-18-25 Kichijōji Kitamachi, Musashino, Tokyo 180-0001",
+      "group": "food",
+      "categoryLabel": "咖啡",
+      "caption": "咖啡・1-chōme-18-25 Kichijōji Kitamachi…。",
+      "descriptionParagraphs": [
+        "「四步 選品店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-18-25 Kichijōji Kitamachi, Musashino, Tokyo 180-0001。",
+        "來源包括Hiro | Days in Tokyo、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.708404099999996,
+        "lng": 139.5773666,
+        "provider": "source-library",
+        "precisionNote": "原始影片資料庫的定位，尚未重新核實店面位置。"
+      },
+      "sources": [
+        {
+          "channel": "Hiro | Days in Tokyo",
+          "videoId": "f7rnfjLw80k",
+          "title": "A Quiet Autumn Day in Kichijoji | 秋が香る吉祥寺を散策 | Solo Tokyo Vlog",
+          "url": "https://www.youtube.com/watch?v=f7rnfjLw80k",
+          "time": "10:55",
+          "seconds": 655
+        },
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zVmpLi_Ybk0",
+          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
+          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
+          "time": "9:04",
+          "seconds": 544
+        }
+      ],
+      "official": null,
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_6e160efa9e48596b",
+          "p_43eec9463a44b325"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://maps.google.com/?cid=11755254195243829755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_6e160efa9e48596b.webp",
+        "alt": "四步 選品店的日系水彩插圖"
+      },
       "order": 46,
       "canonicalArea": {
         "id": "kichijoji",
@@ -2756,11 +2764,77 @@
       },
       "recommendation": null,
       "displayOrder": 45,
-      "description": "「Cat cafe てまりのおしろ」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 東京都武蔵野市吉祥寺本町2-33-2 吉祥寺プティット村。\n\n來源包括老辣妹的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "description": "「四步 選品店」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為咖啡。地址紀錄為 1-chōme-18-25 Kichijōji Kitamachi, Musashino, Tokyo 180-0001。\n\n來源包括Hiro | Days in Tokyo、Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
         "sourceIds": [
-          "p_517cc986a7d87ba7"
+          "p_6e160efa9e48596b",
+          "p_43eec9463a44b325"
+        ],
+        "basis": "existing-category-address-and-video-record",
+        "currentStatusVerified": false
+      }
+    },
+    {
+      "id": "kichijoji--p_80c5f46f31229ce2",
+      "name": "Melrose and Morgan （メルローズ アンド モーガン）",
+      "address": "東京都武蔵野市吉祥寺本町4-10-9",
+      "group": "sights",
+      "categoryLabel": "景點",
+      "caption": "景點・東京都武蔵野市吉祥寺本町4-10-9。",
+      "descriptionParagraphs": [
+        "「Melrose and Morgan （メルローズ アンド モーガン）」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 東京都武蔵野市吉祥寺本町4-10-9。",
+        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+      ],
+      "note": "",
+      "coordinate": {
+        "lat": 35.709145,
+        "lng": 139.57428,
+        "provider": "gsi",
+        "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA4-10-9",
+        "label": "國土地理院地址代表點",
+        "license": "國土地理院內容利用規約",
+        "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+        "precisionNote": "地址代表點，非指定入口；同址櫃位可能重疊。"
+      },
+      "sources": [
+        {
+          "channel": "Tokyo Cafe Channel",
+          "videoId": "zVmpLi_Ybk0",
+          "title": "cafe vlog｜中央線沿線カフェ巡り13店舗 ⚘⠜／吉祥寺／西荻窪／高円寺",
+          "url": "https://www.youtube.com/watch?v=zVmpLi_Ybk0",
+          "time": "13:16",
+          "seconds": 796
+        }
+      ],
+      "official": "https://melroseandmorgan.jp/pages/aboutus",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_80c5f46f31229ce2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": true,
+        "mapUrl": "https://www.google.com/maps/place/Melrose+and+Morgan+Kichijoji+Shop/@35.7090924,139.5743207,17z/data=!3m1!4b1!4m6!3m5!1s0x6018ef096c09ef5f:0x447ec8765fb725ec!8m2!3d35.7090924!4d139.5743207!16s%2Fg%2F11rstl6qqb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_80c5f46f31229ce2.webp",
+        "alt": "Melrose and Morgan （メルローズ アンド モーガン）的日系水彩插圖"
+      },
+      "order": 47,
+      "canonicalArea": {
+        "id": "kichijoji",
+        "name": "吉祥寺・井之頭",
+        "href": "/walks/kichijoji/"
+      },
+      "recommendation": null,
+      "displayOrder": 46,
+      "description": "「Melrose and Morgan （メルローズ アンド モーガン）」位於本次吉祥寺・井之頭收錄範圍，既有資料將這一站歸為景點。地址紀錄為 東京都武蔵野市吉祥寺本町4-10-9。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "sourceSummary": {
+        "reviewedAt": "2026-10-28",
+        "sourceIds": [
+          "p_80c5f46f31229ce2"
         ],
         "basis": "existing-category-address-and-video-record",
         "currentStatusVerified": false
@@ -2804,14 +2878,14 @@
         "image": "/art/source-library/kichijoji--p_b1aa292c554fce71.webp",
         "alt": "吉祥寺街區（影片紀錄）的日系水彩插圖"
       },
-      "order": 47,
+      "order": 48,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
         "href": "/walks/kichijoji/"
       },
       "recommendation": null,
-      "displayOrder": 46
+      "displayOrder": 47
     },
     {
       "id": "kichijoji--p_ef86f6def7c79400",
@@ -2860,7 +2934,7 @@
         "image": "/art/source-library/kichijoji--p_ef86f6def7c79400.webp",
         "alt": "ピワン（吉祥寺本町舊址）的日系水彩插圖"
       },
-      "order": 35,
+      "order": 43,
       "canonicalArea": {
         "id": "kichijoji",
         "name": "吉祥寺・井之頭",
@@ -2995,22 +3069,29 @@
   ],
   "defaultSelection": "kichijoji-slow-walk",
   "libraryCoverage": {
-    "added": 37,
+    "added": 38,
     "unlocated": 1,
     "checkedAt": "2026-10-26",
     "sourceIds": [
-      "p_7620a0ac5fb043e7",
-      "p_ff7f8ce817e4ddc2",
-      "p_791e7342964ac3a7",
-      "p_78e314227c118f53",
-      "p_2737f387b183baff",
-      "p_5872c116235617b7",
-      "p_4269210f45c83916",
-      "p_c94ea4fe6f953c30",
+      "p_af8aafb5a0b02c0e",
       "p_e3a9a9d054306c5d",
       "p_dc70911ce703e354",
       "p_1b49d4b24a53d7ae",
       "p_c4264cc2e1d4d053",
+      "p_b49f803e2c0429c0",
+      "p_4269210f45c83916",
+      "p_c94ea4fe6f953c30",
+      "p_5872c116235617b7",
+      "p_2737f387b183baff",
+      "p_791e7342964ac3a7",
+      "p_78e314227c118f53",
+      "p_ff7f8ce817e4ddc2",
+      "p_7620a0ac5fb043e7",
+      "p_7ec71078c5dda06e",
+      "p_48f2de742a36fa5c",
+      "p_f80fc9bfe72ab20f",
+      "p_150b1cd36fc48f3b",
+      "p_7ed9511870056fa4",
       "p_8318379e6d85acc7",
       "p_1e1dbc9a535ca172",
       "p_0bbf2b9501ceef47",
@@ -3024,25 +3105,19 @@
       "p_af9c67ce9a3da4c6",
       "p_23bc7737e4e5c576",
       "p_aba6b2bf0d69dad4",
-      "p_7ec71078c5dda06e",
-      "p_48f2de742a36fa5c",
-      "p_f80fc9bfe72ab20f",
-      "p_150b1cd36fc48f3b",
-      "p_af8aafb5a0b02c0e",
-      "p_7ed9511870056fa4",
-      "p_fb1e21949acd0c59",
-      "p_6e160efa9e48596b",
-      "p_43eec9463a44b325",
-      "p_7f2ead42564eabc1",
-      "p_80c5f46f31229ce2",
-      "p_7fc9261079dd1cfd",
-      "p_3b713381d8cda60b",
       "p_f18fbfef46e36302",
+      "p_3b713381d8cda60b",
+      "p_7fc9261079dd1cfd",
       "p_6cf905ca7452a75a",
       "p_ccebea293404c2be",
       "p_94ccf769cbf0d2b8",
       "p_dca4056346d58f58",
       "p_517cc986a7d87ba7",
+      "p_fb1e21949acd0c59",
+      "p_7f2ead42564eabc1",
+      "p_6e160efa9e48596b",
+      "p_43eec9463a44b325",
+      "p_80c5f46f31229ce2",
       "p_b1aa292c554fce71",
       "p_ef86f6def7c79400"
     ]
@@ -3061,7 +3136,7 @@
     ],
     "boundaryKind": "editorial-area",
     "reviewedAt": "2026-10-26",
-    "placeCount": 47
+    "placeCount": 48
   },
   "savedPlaceArchive": [
     {
@@ -3111,7 +3186,7 @@
         "image": "/art/source-library/kichijoji--p_1e37c0fe78ec1257.webp",
         "alt": "KANNON COFFEE吉祥寺店(カンノンコーヒー)的日系水彩插圖"
       },
-      "order": 47,
+      "order": 1,
       "recommendation": null,
       "canonicalArea": {
         "id": "mitaka-shimorenjaku",

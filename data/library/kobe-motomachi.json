@@ -126,6 +126,135 @@
       }
     },
     {
+      "id": "kobe-motomachi--p_152e937747bd24c2",
+      "name": "森谷商店 元町本店",
+      "address": "兵庫県神戸市中央区元町通1-7-2",
+      "group": "shops",
+      "categoryLabel": "精肉・熟食",
+      "caption": "元町商店街入口附近，精肉老店的可樂餅香",
+      "descriptionParagraphs": [
+        "森谷商店元町本店位於元町通一丁目，是販售牛肉與熟食的零售店，原影片特別提到可樂餅。走訪元町商店街與南京町時，可把它列為外帶小食或選購食材的一站。"
+      ],
+      "note": "炸物起售時間在來源間有差異，請以店頭最新公告為準；此處不是 MOURIYA 牛排館。",
+      "coordinate": {
+        "lat": 34.6891863,
+        "lng": 135.1893868,
+        "provider": "verified-source-venue-map",
+        "url": "https://www.google.com/maps/place/%EF%BC%88%E6%A0%AA%EF%BC%89+%E6%9C%AC%E7%A5%9E%E6%88%B6%E8%82%89%E6%A3%AE%E8%B0%B7%E5%95%86%E5%BA%97/@34.6891863,135.1893868,17z/data=!3m1!4b1!4m6!3m5!1s0x60008efd02613fe7:0x56e9fbfd236d0600!8m2!3d34.6891863!4d135.1893868!16s%2Fg%2F1tfm6jfp!5m1!1e4",
+        "checkedAt": "2026-10-30",
+        "precision": "place",
+        "shopUrl": "https://www.moriya-kobe.co.jp/view/page/shoplist-honten",
+        "precisionNote": "沿用既有查核中與完整分店地址對應的公開地點座標；本次重新核對街區收錄範圍。"
+      },
+      "sources": [
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "re7vLfTg_Zs",
+          "title": "一天真的不夠玩‼️【神戶三宮全攻略】必吃神戶牛+最美星巴克+爆買商店街⭐｜【關西旅遊】不輸京都大阪一定要來！",
+          "url": "https://www.youtube.com/watch?v=re7vLfTg_Zs",
+          "time": "09:02",
+          "seconds": 542
+        }
+      ],
+      "official": "https://www.moriya-kobe.co.jp/view/page/shoplist-honten",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_152e937747bd24c2"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%EF%BC%88%E6%A0%AA%EF%BC%89+%E6%9C%AC%E7%A5%9E%E6%88%B6%E8%82%89%E6%A3%AE%E8%B0%B7%E5%95%86%E5%BA%97/@34.6891863,135.1893868,17z/data=!3m1!4b1!4m6!3m5!1s0x60008efd02613fe7:0x56e9fbfd236d0600!8m2!3d34.6891863!4d135.1893868!16s%2Fg%2F1tfm6jfp!5m1!1e4"
+      },
+      "placeReview": {
+        "checkedAt": "2026-11-02",
+        "sources": [
+          {
+            "url": "https://www.moriya-kobe.co.jp/view/page/shoplist-honten",
+            "checkedAt": "2026-11-02",
+            "finding": "官方與食べログ同本店、門牌與電話；是精肉／熟食零售店，不是MOURIYA牛排館。炸物起售時間差異仍保留。"
+          },
+          {
+            "url": "https://tabelog.com/hyogo/A2801/A280102/28004702/",
+            "checkedAt": "2026-11-02",
+            "finding": "店名、分店及地址與既有查核紀錄相符；不將時段衝突寫成確定現況。"
+          }
+        ],
+        "findings": "元町通1-7-2；位於元町商店街東段與南京町北側。 官方與食べログ同本店、門牌與電話；是精肉／熟食零售店，不是MOURIYA牛排館。炸物起售時間差異仍保留。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-motomachi--p_152e937747bd24c2.webp",
+        "alt": "森谷商店 元町本店的日系水彩插圖"
+      }
+    },
+    {
+      "id": "kobe-motomachi--p_dc68543e29aef5bd",
+      "name": "神戸アンパンマンこどもミュージアム＆モール",
+      "address": "兵庫県神戸市中央区東川崎町1-6-2",
+      "group": "sights",
+      "categoryLabel": "親子博物館",
+      "caption": "Harborland 海邊，麵包超人的親子遊玩空間",
+      "descriptionParagraphs": [
+        "神戶館位於 Harborland 的東川崎町，玻璃入口與麵包超人招牌面向海港散步區，旁邊可見摩天輪。館內設有角色主題體驗與商場；若要參觀展區，適合另外預留一段親子活動時間。"
+      ],
+      "note": "付費展區與商場的入場方式不同，請先確認官方票務安排；影片提及館舍不代表進入付費展區。",
+      "coordinate": {
+        "lat": 34.6785235,
+        "lng": 135.1848484,
+        "provider": "verified-source-venue-map",
+        "url": "https://www.google.com/maps/place/%E7%A5%9E%E6%88%B6%E9%BA%B5%E5%8C%85%E8%B6%85%E4%BA%BA%E5%85%92%E7%AB%A5%E5%8D%9A%E7%89%A9%E9%A4%A8/data=!4m6!3m5!1s0x60008f0086cdff67:0xebc0a93d7a6ba60d!8m2!3d34.6785235!4d135.1848484!16s%2Fm%2F0zrncnn",
+        "checkedAt": "2026-10-31",
+        "precision": "place",
+        "shopUrl": "https://www.kobe-anpanman.jp/access/",
+        "precisionNote": "沿用既有查核中與完整分店地址對應的公開地點座標；本次重新核對街區收錄範圍。"
+      },
+      "sources": [
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "sgCY0OULEvw",
+          "title": "#大阪自由行 #神戶自由行 #大阪神戶 #小資族 最幸福的玩法#五天四夜 #關西機場二航廈 #cp高 又順路 #錢花少少 #海鮮美食 #在地料理 #世界美景 #日本地標 吃台灣雞排 肉包 太新奇的口味",
+          "url": "https://www.youtube.com/watch?v=sgCY0OULEvw",
+          "time": "16:50",
+          "seconds": 1010
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "CecyZzrkkSc",
+          "title": "#關西自由行 最美的#關西 港都#神戶 #長榮 天天直飛 過關快速18分鐘就到市中心 不再是京阪神的配角 值得一去的山海都市 採購 旅遊 美食面面俱到 從迷思破解到景點介紹最後的住宿區域推薦 一手搞定",
+          "url": "https://www.youtube.com/watch?v=CecyZzrkkSc",
+          "time": "17:06",
+          "seconds": 1026
+        }
+      ],
+      "official": "https://www.kobe-anpanman.jp/access/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_dc68543e29aef5bd"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E7%A5%9E%E6%88%B6%E9%BA%B5%E5%8C%85%E8%B6%85%E4%BA%BA%E5%85%92%E7%AB%A5%E5%8D%9A%E7%89%A9%E9%A4%A8/data=!4m6!3m5!1s0x60008f0086cdff67:0xebc0a93d7a6ba60d!8m2!3d34.6785235!4d135.1848484!16s%2Fm%2F0zrncnn"
+      },
+      "placeReview": {
+        "checkedAt": "2026-11-02",
+        "sources": [
+          {
+            "url": "https://www.kobe-anpanman.jp/access/",
+            "checkedAt": "2026-11-02",
+            "finding": "本次官方交通頁確認神戶分館地址；館舍與既有umie／MOSAIC是不同實體。"
+          }
+        ],
+        "findings": "東川崎町1-6-2；位於Harborland／MOSAIC既定海濱範圍。 本次官方交通頁確認神戶分館地址；館舍與既有umie／MOSAIC是不同實體。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kobe-motomachi--p_dc68543e29aef5bd.webp",
+        "alt": "神戸アンパンマンこどもミュージアム＆モール的日系水彩插圖"
+      }
+    },
+    {
       "id": "kobe-motomachi--p_16bf5a9d7743a0e1",
       "name": "TOOTH TOOTH BISTRO & CAFE（高輪）",
       "address": "東京都港区高輪2-21-2 ニュウマン高輪 SOUTH 5F",
@@ -283,6 +412,45 @@
     }
   ],
   "matches": {
+    "kobe-motomachi--nankin": {
+      "sourceIds": [
+        "p_44feb2e70f9aa77a"
+      ],
+      "sources": [
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "sgCY0OULEvw",
+          "title": "#大阪自由行 #神戶自由行 #大阪神戶 #小資族 最幸福的玩法#五天四夜 #關西機場二航廈 #cp高 又順路 #錢花少少 #海鮮美食 #在地料理 #世界美景 #日本地標 吃台灣雞排 肉包 太新奇的口味",
+          "url": "https://www.youtube.com/watch?v=sgCY0OULEvw",
+          "time": "08:10",
+          "seconds": 490
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "CecyZzrkkSc",
+          "title": "#關西自由行 最美的#關西 港都#神戶 #長榮 天天直飛 過關快速18分鐘就到市中心 不再是京阪神的配角 值得一去的山海都市 採購 旅遊 美食面面俱到 從迷思破解到景點介紹最後的住宿區域推薦 一手搞定",
+          "url": "https://www.youtube.com/watch?v=CecyZzrkkSc",
+          "time": "15:11",
+          "seconds": 911
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "re7vLfTg_Zs",
+          "title": "一天真的不夠玩‼️【神戶三宮全攻略】必吃神戶牛+最美星巴克+爆買商店街⭐｜【關西旅遊】不輸京都大阪一定要來！",
+          "url": "https://www.youtube.com/watch?v=re7vLfTg_Zs",
+          "time": "08:37",
+          "seconds": 517
+        },
+        {
+          "channel": "Yunaty日本語",
+          "videoId": "skyTFt-BtUE",
+          "title": "【神戶vlog】日本人有多愛中華街美食？看看有多少人排隊就知道了！",
+          "url": "https://www.youtube.com/watch?v=skyTFt-BtUE",
+          "time": "0:26",
+          "seconds": 26
+        }
+      ]
+    },
     "kobe-motomachi--meriken": {
       "sourceIds": [
         "p_4e570b180e912949",
@@ -304,6 +472,14 @@
           "url": "https://www.youtube.com/watch?v=CecyZzrkkSc",
           "time": "17:00",
           "seconds": 1020
+        },
+        {
+          "channel": "Travel Seeker /夫婦の旅",
+          "videoId": "re7vLfTg_Zs",
+          "title": "一天真的不夠玩‼️【神戶三宮全攻略】必吃神戶牛+最美星巴克+爆買商店街⭐｜【關西旅遊】不輸京都大阪一定要來！",
+          "url": "https://www.youtube.com/watch?v=re7vLfTg_Zs",
+          "time": "15:15",
+          "seconds": 915
         },
         {
           "channel": "yang and yang | 楊先生與楊小姐",

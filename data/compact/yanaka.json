@@ -1076,7 +1076,7 @@
       "caption": "咖啡・甜點・東京都台東区谷中5-4-3。",
       "descriptionParagraphs": [
         "「Le coin（ル・コワン）」位於本次谷根千收錄範圍，既有資料將這一站歸為咖啡・甜點。地址紀錄為 東京都台東区谷中5-4-3。",
-        "來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
+        "來源包括Tokyo Cafe Channel、Yunaty日本語的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。"
       ],
       "note": "",
       "coordinate": {
@@ -1097,6 +1097,14 @@
           "url": "https://www.youtube.com/watch?v=XzwVChNhBXQ",
           "time": "01:38",
           "seconds": 98
+        },
+        {
+          "channel": "Yunaty日本語",
+          "videoId": "yanwM0EmLWw",
+          "title": "走進日本懷舊風情的商店街｜東京谷中銀座散步VLOG【谷根千】",
+          "url": "https://www.youtube.com/watch?v=yanwM0EmLWw",
+          "time": "12:06",
+          "seconds": 726
         }
       ],
       "official": "https://www.instagram.com/lecoin1224/",
@@ -1122,7 +1130,7 @@
       },
       "recommendation": null,
       "displayOrder": 19,
-      "description": "「Le coin（ル・コワン）」位於本次谷根千收錄範圍，既有資料將這一站歸為咖啡・甜點。地址紀錄為 東京都台東区谷中5-4-3。\n\n來源包括Tokyo Cafe Channel的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
+      "description": "「Le coin（ル・コワン）」位於本次谷根千收錄範圍，既有資料將這一站歸為咖啡・甜點。地址紀錄為 東京都台東区谷中5-4-3。\n\n來源包括Tokyo Cafe Channel、Yunaty日本語的影片。可展開「影片來源」查看原始店名與已確認的章節；影片拍攝後可能改變營業方式，出發前請另確認。",
       "sourceSummary": {
         "reviewedAt": "2026-10-28",
         "sourceIds": [

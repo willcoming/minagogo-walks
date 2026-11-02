@@ -633,6 +633,37 @@
           "videoId": "vwqKXsYACrs",
           "title": "🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹",
           "url": "https://www.youtube.com/watch?v=vwqKXsYACrs"
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "Ihvo50HJD58",
+          "title": "#大阪自由行 第二次來大阪請住#本町 好好寵愛自己 舒服完大阪的10個密絕讓你愛不釋手#大阪住宿 #問屋街 大片綠地公園 高聳的辦公樓 與 美味的平價#美食 大阪人下班後都跑去哪? 大阪上班族的最愛",
+          "url": "https://www.youtube.com/watch?v=Ihvo50HJD58",
+          "time": "16:03",
+          "seconds": 963
+        }
+      ]
+    },
+    "osaka-tenma--market": {
+      "sourceIds": [
+        "p_648d90931fd5c441"
+      ],
+      "sources": [
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "U3mT2lepicE",
+          "title": "#大阪深度旅遊 大阪人真正的廚房 #中央市場 超低價 880日幣含稅 #乾淨 道地 自助餐員工食堂#定食 不懂日文也可以 超級大推 CP值爆表 吃完去中之島最西端 4川匯集的美景河岸散步 體驗悠閒舒服",
+          "url": "https://www.youtube.com/watch?v=U3mT2lepicE",
+          "time": "00:50",
+          "seconds": 50
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "KCjcqve-NvQ",
+          "title": "#大阪深度旅遊 你不知道的#大阪夜生活 大阪不是只有名勝#吃宵夜 #舞廳 #酒吧 #三個新地 #魅力四射 的大阪 內行人才知道的#大阪 #宵夜 #潛規則 哪邊吃宵夜?#松島新地 千萬不要去住!!",
+          "url": "https://www.youtube.com/watch?v=KCjcqve-NvQ",
+          "time": "06:04",
+          "seconds": 364
         }
       ]
     },

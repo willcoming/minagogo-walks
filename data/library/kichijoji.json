@@ -380,6 +380,64 @@
       }
     },
     {
+      "id": "kichijoji--p_b49f803e2c0429c0",
+      "name": "アトレ吉祥寺",
+      "address": "東京都武蔵野市吉祥寺南町1-1-24",
+      "group": "shops",
+      "categoryLabel": "車站商場",
+      "caption": "連接吉祥寺站，把採買與散步接在一起",
+      "descriptionParagraphs": [
+        "atre 吉祥寺是與吉祥寺站相連的商場，集合餐飲、食品與生活選物，可在前往井之頭公園前後安排補給或採買。此處收錄商場整體，以南町一丁目本館地址作為識別，不與吉祥寺車站或個別店鋪混為一筆。"
+      ],
+      "note": "各店鋪營業時間與所在樓層不同，請查閱商場最新樓層指南。",
+      "coordinate": {
+        "lat": 35.7030679,
+        "lng": 139.5792628,
+        "provider": "verified-source-venue-map",
+        "url": "https://www.google.com/maps/place/%E8%89%BE%E5%A6%A5%E5%88%97+%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97/data=!4m6!3m5!1s0x6018ee47fa737d5d:0x1112dad8fa4f50e6!8m2!3d35.7030679!4d139.5792628!",
+        "checkedAt": "2026-10-31",
+        "precision": "place",
+        "shopUrl": "https://www.atre.co.jp/kichijoji/access",
+        "precisionNote": "沿用既有查核中與完整分店地址對應的公開地點座標；本次重新核對街區收錄範圍。"
+      },
+      "sources": [
+        {
+          "channel": "Yunaty日本語",
+          "videoId": "EXLokwvYA3c",
+          "title": "東京最讓人失望的5個景點，你去過幾個？",
+          "url": "https://www.youtube.com/watch?v=EXLokwvYA3c",
+          "time": "9:38",
+          "seconds": 578
+        }
+      ],
+      "official": "https://www.atre.co.jp/kichijoji/access/",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_b49f803e2c0429c0"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E8%89%BE%E5%A6%A5%E5%88%97+%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97/data=!4m6!3m5!1s0x6018ee47fa737d5d:0x1112dad8fa4f50e6!8m2!3d35.7030679!4d139.5792628!"
+      },
+      "placeReview": {
+        "checkedAt": "2026-11-02",
+        "sources": [
+          {
+            "url": "https://www.atre.co.jp/kichijoji/access/",
+            "checkedAt": "2026-11-02",
+            "finding": "本次官方交通頁確認商場地址；不是僅交通站點，也沒有被既有東急百貨或商店街收錄替代。"
+          }
+        ],
+        "findings": "吉祥寺南町1-1-24；既定範圍包含南町站區。 本次官方交通頁確認商場地址；不是僅交通站點，也沒有被既有東急百貨或商店街收錄替代。"
+      },
+      "illustration": {
+        "image": "/art/source-library/kichijoji--p_b49f803e2c0429c0.webp",
+        "alt": "アトレ吉祥寺的日系水彩插圖"
+      }
+    },
+    {
       "id": "kichijoji--p_48f2de742a36fa5c",
       "name": "Blue Sky Coffee",
       "address": "〒181-0001 Tokyo, Mitaka, Inokashira, 4-chōme−1−１ 公園内",
@@ -1835,6 +1893,14 @@
           "videoId": "8afg4EHWmPU",
           "title": "🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹",
           "url": "https://www.youtube.com/watch?v=8afg4EHWmPU"
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "_F3pLgFp97I",
+          "title": "#東京五天四夜 超好玩 #吉祥寺超棒 可是請這樣玩 將會更完美 還想再去一次東京 #新幹線教學 搭乘方式#避雷技巧 #吉卜力美術館 攻略 吉祥寺 南北口完全不同商圈介紹 JR#三鷹 與 吉祥寺的差別",
+          "url": "https://www.youtube.com/watch?v=_F3pLgFp97I",
+          "time": "17:10",
+          "seconds": 1030
         }
       ]
     }

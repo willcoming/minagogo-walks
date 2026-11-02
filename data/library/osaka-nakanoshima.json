@@ -1,6 +1,64 @@
 {
   "places": [
     {
+      "id": "osaka-nakanoshima--p_a3ed297c4911b5d7",
+      "name": "大阪市役所",
+      "address": "大阪府大阪市北区中之島1丁目3-20",
+      "group": "sights",
+      "categoryLabel": "市政建築",
+      "caption": "淀屋橋畔，中之島散步可見的市政建築",
+      "descriptionParagraphs": [
+        "大阪市役所本廳舍位於中之島一丁目，面向淀屋橋一帶的河景，整齊窗列與淺色屋頂是容易辨識的外觀。從淀屋橋往中之島圖書館、中央公會堂走時，可把市役所視為沿途的建築觀察點。"
+      ],
+      "note": "原影片記錄經過外觀，沒有確認進館；館內開放與洽公規則依市府公告。",
+      "coordinate": {
+        "lat": 34.6937366,
+        "lng": 135.5021669,
+        "provider": "verified-source-venue-map",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E9%98%AA%E5%B8%82%E5%BD%B9%E6%89%80/data=!4m6!3m5!1s0x6000e6e8a65b343f:0x2e1148b61ea19b98!8m2!3d34.6937366!4d135.5021669!16s%2Fg%2F121mds_f",
+        "checkedAt": "2026-10-31",
+        "precision": "place",
+        "shopUrl": "https://www.city.osaka.lg.jp/somu/page/0000004215.html",
+        "precisionNote": "沿用既有查核中與完整分店地址對應的公開地點座標；本次重新核對街區收錄範圍。"
+      },
+      "sources": [
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "Ihvo50HJD58",
+          "title": "#大阪自由行 第二次來大阪請住#本町 好好寵愛自己 舒服完大阪的10個密絕讓你愛不釋手#大阪住宿 #問屋街 大片綠地公園 高聳的辦公樓 與 美味的平價#美食 大阪人下班後都跑去哪? 大阪上班族的最愛",
+          "url": "https://www.youtube.com/watch?v=Ihvo50HJD58",
+          "time": "15:20",
+          "seconds": 920
+        }
+      ],
+      "official": "https://www.city.osaka.lg.jp/somu/page/0000004215.html",
+      "verifiedAt": null,
+      "libraryRecord": {
+        "sourceIds": [
+          "p_a3ed297c4911b5d7"
+        ],
+        "status": "source-record",
+        "importedAt": "2026-10-26",
+        "extension": false,
+        "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E9%98%AA%E5%B8%82%E5%BD%B9%E6%89%80/data=!4m6!3m5!1s0x6000e6e8a65b343f:0x2e1148b61ea19b98!8m2!3d34.6937366!4d135.5021669!16s%2Fg%2F121mds_f"
+      },
+      "placeReview": {
+        "checkedAt": "2026-11-02",
+        "sources": [
+          {
+            "url": "https://www.city.osaka.lg.jp/somu/page/0000004215.html",
+            "checkedAt": "2026-11-02",
+            "finding": "本次大阪市官方本廳舍頁核對完整地址；與中央公會堂、圖書館是不同建築。影片是經過外觀，不推定進館洽公。"
+          }
+        ],
+        "findings": "中之島1-3-20；位於淀屋橋至中之島圖書館之間。 本次大阪市官方本廳舍頁核對完整地址；與中央公會堂、圖書館是不同建築。影片是經過外觀，不推定進館洽公。"
+      },
+      "illustration": {
+        "image": "/art/source-library/osaka-nakanoshima--p_a3ed297c4911b5d7.webp",
+        "alt": "大阪市役所的日系水彩插圖"
+      }
+    },
+    {
       "id": "osaka-nakanoshima--p_fd6484147b2101f4",
       "name": "WowUs ワオアス",
       "address": "大阪府大阪市北区堂島浜1-1-27 大阪堂島浜タワー16F",
@@ -60,6 +118,14 @@
           "videoId": "vctjD9CdC54",
           "title": "🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹",
           "url": "https://www.youtube.com/watch?v=vctjD9CdC54"
+        },
+        {
+          "channel": "部屋隆的生活頻道",
+          "videoId": "Ihvo50HJD58",
+          "title": "#大阪自由行 第二次來大阪請住#本町 好好寵愛自己 舒服完大阪的10個密絕讓你愛不釋手#大阪住宿 #問屋街 大片綠地公園 高聳的辦公樓 與 美味的平價#美食 大阪人下班後都跑去哪? 大阪上班族的最愛",
+          "url": "https://www.youtube.com/watch?v=Ihvo50HJD58",
+          "time": "16:20",
+          "seconds": 980
         }
       ]
     },

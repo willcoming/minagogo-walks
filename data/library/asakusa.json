@@ -1408,7 +1408,7 @@
       "categoryLabel": "景點",
       "caption": "影片中收錄的停留點",
       "descriptionParagraphs": [
-        "「淺草寺 雷門」出現在Celia Ting的影片收錄資料。可展開影片來源查看原始介紹。",
+        "「淺草寺 雷門」出現在Celia Ting、Yunaty日本語的影片收錄資料。可展開影片來源查看原始介紹。",
         "原始資料記錄的地址為 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032。影片拍攝後可能搬遷或改變營業方式，出發前請再確認店況。"
       ],
       "note": null,
@@ -1424,6 +1424,14 @@
           "videoId": "Elnh4ZYpWkU",
           "title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
           "url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU"
+        },
+        {
+          "channel": "Yunaty日本語",
+          "videoId": "EXLokwvYA3c",
+          "title": "東京最讓人失望的5個景點，你去過幾個？",
+          "url": "https://www.youtube.com/watch?v=EXLokwvYA3c",
+          "time": "1:50",
+          "seconds": 110
         }
       ],
       "official": null,
@@ -3970,6 +3978,14 @@
           "videoId": "FgjRLtdQ3fc",
           "title": "日本人2023年東京過年實錄｜淺草寺｜年末參拜｜迎新年",
           "url": "https://www.youtube.com/watch?v=FgjRLtdQ3fc"
+        },
+        {
+          "channel": "Yunaty日本語",
+          "videoId": "EXLokwvYA3c",
+          "title": "東京最讓人失望的5個景點，你去過幾個？",
+          "url": "https://www.youtube.com/watch?v=EXLokwvYA3c",
+          "time": "1:50",
+          "seconds": 110
         }
       ]
     },
